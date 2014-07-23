@@ -9,10 +9,6 @@
         <translation>Diapositiva %1</translation>
     </message>
     <message>
-        <source>Notes Page:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Being converted</source>
         <translation>Siendo convertido</translation>
     </message>
@@ -40,20 +36,20 @@
         <source>Start converting</source>
         <translation>Iniciar conversión</translation>
     </message>
+    <message>
+        <source>Note;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProcessDialog</name>
     <message>
         <source>Translate to Document</source>
-        <translation>Traducir a documento</translation>
+        <translation type="obsolete">Traducir a documento</translation>
     </message>
     <message>
         <source>Ready to convert</source>
         <translation>Listo para convertir</translation>
-    </message>
-    <message>
-        <source>Still Need:Being calculated</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open File</source>
@@ -63,12 +59,20 @@
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
+    <message>
+        <source>Translate to WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Still Need: being calculated</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
     <message>
         <source>Translate to Document</source>
-        <translation>Traducir a documento</translation>
+        <translation type="obsolete">Traducir a documento</translation>
     </message>
     <message>
         <source>Select Slide</source>
@@ -76,10 +80,6 @@
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Slide(&amp;C)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -123,10 +123,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide per page(&amp;E):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>1</source>
         <translation>1</translation>
     </message>
@@ -152,7 +148,7 @@
     </message>
     <message>
         <source>Conversion Includes</source>
-        <translation>La conversión incluye</translation>
+        <translation type="obsolete">La conversión incluye</translation>
     </message>
     <message>
         <source>Text(&amp;T)</source>
@@ -164,6 +160,22 @@
     </message>
     <message>
         <source>Picture(&amp;I)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Current Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide per page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converted Content</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -179,7 +191,11 @@
     </message>
     <message>
         <source>Converting to Kingsoft Writer document encountered an error.</source>
-        <translation>La conversión a documento de Kingsoft Writer encontró un error.</translation>
+        <translation type="obsolete">La conversión a documento de Kingsoft Writer encontró un error.</translation>
+    </message>
+    <message>
+        <source>Converting to WPS Writer document encountered an error.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -190,7 +206,7 @@
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
-        <translation>El número debe ser 1, 2, 3, o 4.</translation>
+        <translation type="obsolete">El número debe ser 1, 2, 3, o 4.</translation>
     </message>
     <message>
         <source>This is a valid number.
@@ -200,7 +216,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Kingsoft Presentation</source>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
@@ -208,7 +224,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Kingsoft Writer Document(*.wps)</source>
-        <translation>Documento de Kingsoft Writer(*.wps)</translation>
+        <translation type="obsolete">Documento de Kingsoft Writer(*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
@@ -228,7 +244,23 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation>ya existe. No puede guardar el archivo con el mismo nombre que otro archivo abierto. Elija un nombre diferente, o cierre el archivo abierto antes de guardar.</translation>
+        <translation type="obsolete">ya existe. No puede guardar el archivo con el mismo nombre que otro archivo abierto. Elija un nombre diferente, o cierre el archivo abierto antes de guardar.</translation>
+    </message>
+    <message>
+        <source>The number must be 1, 2, 3,or 4.</source>
+        <translation type="unfinished">El número debe ser 1, o 2. {1, 2, 3,?} {4.?}</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Document(*.wps)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

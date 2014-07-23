@@ -1,0 +1,982 @@
+[TIPS]
+3DColor.title=立體色彩
+3DColor.content=為所選立體圖案填色。\n\n按一下箭號，以選擇不同的立體色彩。
+
+3DColor2.title=立體色彩
+3DColor2.content=按一下箭號，以選擇不同的立體色彩。
+
+3DDepthMenu.title=深度
+3DDepthMenu.content=變更選取立體圖案的高度。
+
+3DOnOff.title=立體開/關
+3DOnOff.content=開啟或關閉套用至圖案的立體效果。
+
+3DStylePalette.title=立體設定
+3DStylePalette.content=新增立體效果至圖案。
+
+3DSurfaceMenu.title=材質
+3DSurfaceMenu.content=選擇文件中所選立體圖案的表面效果。
+
+3DTiltDown.title=向下傾斜
+3DTiltDown.content=向前傾斜圖案。
+
+3DTiltLeft.title=向左傾斜
+3DTiltLeft.content=向左傾斜圖案。
+
+3DTiltRight.title=向右傾斜
+3DTiltRight.content=向右傾斜圖案。
+
+3DTiltUp.title=向上傾斜
+3DTiltUp.content=向後傾斜圖案。
+
+AdvancedFilter.title=進階篩選
+AdvancedFilter.content=顯示 [進階篩選] 對話方塊，可以選取篩選不重複記錄等選項。
+
+Align.title=對齊
+Align.content=設定選取物件的對齊方式。
+
+AlignCenter.title=置中
+AlignCenter.content=文字置中。
+
+AlignLeft.title=靠左對齊
+AlignLeft.content=文字對齊左邊。
+
+AlignRight.title=靠右對齊
+AlignRight.content=文字對齊右邊。
+
+AlignmentFormatCells.title=儲存格格式:對齊方式
+AlignmentFormatCells.content=顯示 [儲存格格式] 對話方塊中的 [對齊] 索引標籤。
+AlignmentFormatCells.img=ETAlignmentFormatCells
+
+AllBorders.title=所有框線
+AllBorders.content=套用框線至目前選定的儲存格。
+
+AllFunction.title=全部函數
+AllFunction.content=瀏覽包含全部函數的函數列表，並從中選擇函數插入到儲存格中。
+
+AllowEditRanges.title=允許使用者編輯範圍
+AllowEditRanges.content=使用 [保護工作表] 命令前，允許特定的人在受保護的活頁簿或工作表上編輯儲存格範圍。
+
+ArtisticWordAlignment.title=對齊
+ArtisticWordAlignment.content=指定多行文字藝術師中每一行的對齊方式。
+
+AutoFilter.title=自動篩選
+AutoFilter.content=啓用選取儲存格的篩選。\n\n一旦開啓篩選後，按一下欄標題上的箭號以選擇欄的篩選方式。
+
+AutoSum.title=總計
+AutoSum.content=在選取儲存格後方直接顯示選取儲存格的加總。
+AutoSum.img=ETAutoSum
+
+AutoVersion.title=開啟自動備份
+AutoVersion.content=為當前文件開啟自動備份，每次關閉檔案時，將自動生成備份儲存到您的文件保險箱中。
+
+Autobackup.title=文件保險箱
+Autobackup.content=文件保險箱的簡單介紹說明。
+
+Average.title=平均值
+Average.content=在選取儲存格後方直接顯示選取儲存格的平均值。
+
+Bold.title=粗體
+Bold.content=將選取的文字改爲粗體。
+
+BookProtection.title=保護工作簿
+BookProtection.content=避免活頁簿結構遭到不想要的變更，例如移動、刪除或新增工作表。\n\n您可以指定密碼，要求輸入密碼后才取消保護活頁簿並進行變更。
+
+BottomBorder.title=下框線
+BottomBorder.content=套用框線至目前選定的儲存格。
+
+BottomDoubleBorder.title=底端雙框線
+BottomDoubleBorder.content=套用框線至目前選定的儲存格。
+
+BringForward.title=上移一層
+BringForward.content=將所選取的物件往前移動，以減少前方讓此物件隱藏的物件數目。
+
+BringForward2.title=上移一層
+BringForward2.content=選取的物件上移一層，或移到所有物件的最上層。
+
+CTB_DesignMode.title=設計模式
+CTB_DesignMode.content=進入設計模式可編輯控制項名稱及其具體功能。
+
+CTB_MoreControls.title=其他控制項
+CTB_MoreControls.content=從此電腦可用的控制項集合插入控制項。
+
+CTB_Property.title=控制項屬性
+CTB_Property.content=檢視和修改所選控制項的屬性。
+
+CTB_ViewCode.title=檢視程式碼
+CTB_ViewCode.content=編輯控制項的 Visual Basic 程式碼。
+
+CalculateSheet.title=計算工作表
+CalculateSheet.content=立即計算目前的工作表。\n\n只有當自動計算關閉時，才需要進行此動作。
+
+Camera.title=Camera Title
+Camera.content=Camera Content
+
+ChangeChartType.title=變更圖表類型
+ChangeChartType.content=變更為其他類型的圖表。
+
+ChangePicture.title=變更圖片
+ChangePicture.content=變更成不同的圖片，但保持目前圖片的格式設定及大小。
+
+CharacterSpacing.title=字元間距
+CharacterSpacing.content=變更所選取文字藝術師中的文字間的距離。
+
+Chart.title=建立圖表
+Chart.content=顯示 [圖表類型] 對話方塊以選取要插入的圖表類型。
+Chart.img=ETChart
+
+ChartObjects.title=圖表項目
+ChartObjects.content=選取圖表中的任一項目，以便設定其格式。
+
+ChineseTranslation.title=繁簡轉換
+ChineseTranslation.content=可設定簡繁轉換單位，按字轉換還是按詞轉換。
+
+CircularReferences.title=循環參照
+CircularReferences.content=顯示 [循環參照] 對話方塊，對活頁簿中包含循環參照的儲存格進行搜尋與定位。\n\n按兩下清單中的某個結果可定位到相應的儲存格。
+
+Clear.title=清除
+Clear.content=從儲存格中全部刪除，或選擇性移除格式、內容或註解。
+
+ClearFilter.title=全部顯示
+ClearFilter.content=清除目前資料範圍的篩選與排序狀態。
+
+ClearTableStyle.title=清除表格樣式
+ClearTableStyle.content=清除所選儲存格的表格樣式。
+
+CloseDevelopmentTools.title=關閉
+CloseDevelopmentTools.content=按一下此處可隱藏 [開發人員]。
+
+CloseOtherWindow.title=關閉其他視窗
+CloseOtherWindow.content=關閉目前視窗之外的所有其他視窗。
+
+CloseWindow.title=關閉視窗
+CloseWindow.content=關閉目前顯示的視窗。
+
+ColumnsCenter.title=跨欄置中
+ColumnsCenter.content=選取同一列或多列的連續欄的儲存格，將其儲存格的內容設置為置中顯示。
+
+ComAddin.title=COM 增益集
+ComAddin.content=管理可用的 COM 增益集。
+
+CommaStyle.title=千分位樣式
+CommaStyle.content=使用千位數分隔符號來顯示儲存格的值，小數位數為2。
+
+CompressPictures.title=壓縮圖片
+CompressPictures.content=壓縮文件中的圖片以縮減文件大小。
+
+ConditionalFormat.title=設定格式化的條件
+ConditionalFormat.content=根據準則使用 [字型色彩] 、[填滿色彩] 將資料視覺化。
+
+Consolidate.title=合併彙算
+Consolidate.content=從數個範圍合併數值到一個新的範圍。
+
+Copy.title=複製
+Copy.content=複製選取範圍，並將它放到剪貼簿。
+
+Count.title=計數
+Count.content=計算範圍中包含數字的儲存格數目。
+
+Currency.title=中文貨幣符號
+Currency.content=為選取的儲存格添加中文貨幣符號。
+
+Cut.title=剪下
+Cut.content=剪下選取範圍後放到剪貼簿。
+
+DataDetailedSettings.title=DataDetailedSettings Title
+DataDetailedSettings.content=DataDetailedSettings Content
+
+DataGroup.title=建立群組
+DataGroup.content=將範圍內的儲存格繫結在一起，然後可以褶疊或展開它們。
+DataGroup.img=ETDataGroup
+
+DataSort.title=排序
+DataSort.content=顯示 [排序] 對話方塊，[排序] 對話方塊依據多個欄或列及其他排序選項來啟用排序。
+
+DataTable.title=資料表
+DataTable.content=將圖表數列以表格的方式顯示或隱藏。
+
+DataUngroup.title=取消群組
+DataUngroup.content=對之前已群組的儲存格範圍，進行取消群組的動作。
+
+DataUngroup2.title=取消群組
+DataUngroup2.content=按一下此處可對之前已群組的儲存格範圍，進行取消群組的動作或清除大綱。
+
+DecreaseDecimal.title=減少小數位數
+DecreaseDecimal.content=減少儲存格中數值的小數位數。
+
+DecreaseIndent.title=減少縮排
+DecreaseIndent.content=減少儲存格中框線和文字之間的邊界。
+
+DeleteComment.title=刪除註解
+DeleteComment.content=刪除選取的注解。
+
+DeleteRange.title=刪除儲存格
+DeleteRange.content=刪除工作表中的儲存格、列或欄。
+
+DeleteRange2.title=刪除儲存格
+DeleteRange2.content=刪除工作表或表格中的儲存格、列或欄。
+
+DetailedSettings_Data.title=DetailedSettings Data Title
+DetailedSettings_Data.content=DetailedSettings Data Content
+
+DetailedSettings_DrawingTools.title=DetailedSettings DrawingTools Title
+DetailedSettings_DrawingTools.content=DetailedSettings DrawingTools Content
+
+DetailedSettings_Home.title=DetailedSettings Home Title
+DetailedSettings_Home.content=DetailedSettings Home Content
+
+DetailedSettings_Layout.title=DetailedSettings Layout Title
+DetailedSettings_Layout.content=DetailedSettings Layout Content
+
+DetailedSettings_PictureTool.title=DetailedSettings PictureTool Title
+DetailedSettings_PictureTool.content=DetailedSettings PictureTool Content
+
+DetailedSettings_WordArt.title=DetailedSettings WordArt Title
+DetailedSettings_WordArt.content=DetailedSettings WordArt Content
+
+DevelopmentTools.title=開發人員
+DevelopmentTools.content=打開 [開發人員] 索引標籤，可以插入選項按鈕、核取方塊等控制項。
+
+Direction.title=方向
+Direction.content=選擇選取立體圖案的正面展現方式。
+
+DisplayGridlines.title=顯示格線
+DisplayGridlines.content=在工作表的列與欄之間顯示格線，方便您編輯和閱讀。
+
+DisplayHeadings.title=顯示標題
+DisplayHeadings.content=顯示工作表側邊的列號和工作表中出現在欄上方的字母。
+
+DrawBorder.title=繪製框線
+DrawBorder.content=繪製儲存格框線，按一下此處在當前工作表中拖動滑鼠對儲存格進行繪製。\n\n再按一下此按鈕或鍵盤中的 Esc 鍵可退出繪製狀態。
+
+DrawGrid.title=繪製框線格線
+DrawGrid.content=以方格方式繪製儲存格框線，按一下此處在當前工作表中拖動滑鼠對單元格進行繪製。\n\n再按一下此按鈕或鍵盤中的 Esc 鍵可退出繪製狀態。
+
+DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
+DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+
+Duplicates.title=重複項
+Duplicates.content=可在選取的範圍中(單列或是單欄)標示出重複值、拒絕輸入重複值或將單欄中的重複值刪除。
+
+DynamicShape.title=插入圖案
+DynamicShape.content=插入現有的圖案，如矩形和圓形、箭號、線條、流程圖、符號和圖說文字。
+
+EDRProperties.title=資料範圍屬性
+EDRProperties.content=更改外部資料來源名稱、數字格式及佈局。
+
+EditCloumns.title=資料編輯列
+EditCloumns.content=檢視 [資料編輯列] ，可以在此輸入文字及公式至儲存格。
+EditCloumns.img=EditCloumns
+
+EditComment.title=編輯註解
+EditComment.content=編輯目前儲存格的註解。
+
+EditCrossBookLinks.title=編輯連結
+EditCrossBookLinks.content=檢視此活頁簿連結的其他所有檔案，可以更新或移除連結。
+
+EditOleDBQuery.title=編輯 OLE DB 查詢
+EditOleDBQuery.content=選取命令類型後，輸入相應的查詢語句對匯入的資料進行篩選查詢。
+
+EditPoints.title=編輯端點
+EditPoints.content=編輯線條的彎曲點，以變更形狀。
+
+EditWordArtText.title=編輯文字
+EditWordArtText.content=編輯此 [文字藝術師] 的文字。
+
+EquationEditor.title=插入方程式
+EquationEditor.content=使用方程式編輯器插入數學方程式等。
+EquationEditor.img=ETEquationEditor
+
+Eraseborder.title=清除邊框
+Eraseborder.content=套用框線至目前選定的儲存格。
+
+EvaluateFormula.title=評估值公式
+EvaluateFormula.content=顯示 [評估值公式] 對話方塊，利用單獨評估公式的每個部分來進行公式的偵錯。
+
+ExitPreview.title=關閉
+ExitPreview.content=關閉預覽列印，並返回以編輯文件。
+
+ExplorBackupDir.title=ExplorBackupDir Title
+ExplorBackupDir.content=ExplorBackupDir Content
+
+ExplorVersion.title=檢視歷史備份
+ExplorVersion.content=ExplorVersion Content
+
+FTB_EditCode.title=編輯程式碼
+FTB_EditCode.content=啟動 Visual Basic 編輯器來編輯選取的表單程式碼。
+
+FTB_Property.title=控制項屬性
+FTB_Property.content=設定選取表單的控制項格式，如字型、大小。
+
+Fill.title=填滿
+Fill.content=按照一定的準則，可以朝任意方向將儲存格的內容填滿至相鄰的儲存格中。
+
+FillColor.title=填滿色彩
+FillColor.content=為選取的儲存格設定背景色彩。\n\n按一下箭號，以選取不同的背景色彩。
+
+FillColor2.title=填滿色彩
+FillColor2.content=按一下箭頭可選擇不同的背景色。
+
+Financial.title=財務函數
+Financial.content=從財務函數清單中瀏覽與選取。
+
+Find.title=尋找與選取
+Find.content=尋找並選取文件中的指定文字或其他內容。\n\n按一下箭號，以選取其它選項，如 [到] 。
+
+FontColor.title=字型色彩
+FontColor.content=變更文字的色彩。\n\n按一下箭頭可選擇不同的文字色彩。
+
+FontColor2.title=字型色彩
+FontColor2.content=按一下箭頭可選擇不同的文字色彩。
+
+FontFormatCells.title=儲存格格式:字型
+FontFormatCells.content=顯示 [儲存格格式] 對話方塊中的 [字型] 索引標籤。
+FontFormatCells.img=ETFontFormatCells
+
+FontName.title=字型
+FontName.content=變更字型。
+
+FontSize.title=字型大小
+FontSize.content=變更字型大小。
+
+FormatChartObject.title=格式化選取範圍
+FormatChartObject.content=顯示圖表項目的 [格式] 對話框，對選取的圖表項目的格式進行詳細配置。
+
+FormatObject.title=格式化物件
+FormatObject.content=顯示 [格式化物件] 對話方塊。
+FormatObject.img=ETFormatObject
+
+FormatPainter.title=複製格式
+FormatPainter.content=從一個位置複製格式設定，並套用到其他位置。\n\n按兩下此按鈕，便可將相同的格式設定套用到文件的多個位置。
+
+FormatStyle.title=樣式
+FormatStyle.content=根據情況將數字、對齊方式等儲存格格式進行不同群組，生成新的儲存格樣式。
+
+FreezePanes.title=凍結窗格（取消凍結窗格）
+FreezePanes.content=捲動工作表時，讓一部分的工作表維持可見。
+
+FullScreenMode.title=全螢幕
+FullScreenMode.content=以全螢幕模式檢視文件。
+
+FuncCatDateAndTime.title=日期及時間函數
+FuncCatDateAndTime.content=從日期及時間函數清單中瀏覽與選取。
+
+FuncCatMoreFunctions.title=其他函數
+FuncCatMoreFunctions.content=從統計、工程、資訊的函數清單中瀏覽及選取。
+
+FuncCatText.title=文字函數
+FuncCatText.content=從文字函數清單中瀏覽與選取。
+
+Gallery.title=Gallery Title
+Gallery.content=Gallery Content
+
+Group.title=群組
+Group.content=將物件群組化，視它們為單一物件處理。
+
+GrowFont.title=放大字型
+GrowFont.content=放大字型。
+
+HeaderFooter.title=頁首及頁尾
+HeaderFooter.content=頁首或頁尾中的資訊將出現在每個列印頁面的頂端或底端，可在列印預覽下查看效果。
+HeaderFooter.img=ETHeaderFooter
+
+HideDetail.title=隱藏詳細資料
+HideDetail.content=摺曡一組儲存格。
+
+HomeDetailedSettings.title=HomeDetailedSettings Title
+HomeDetailedSettings.content=HomeDetailedSettings Content
+
+Hyperlink.title=插入超連結
+Hyperlink.content=建立連接至網頁、圖片、電子郵件地址或程式。
+
+ImportData.title=匯入資料
+ImportData.content=從外部資料來源匯入資料到所選的工作表中。
+
+IncreaseDecimal.title=增加小數位數
+IncreaseDecimal.content=增加儲存格中數值的小數位數。
+
+IncreaseIndent.title=增加縮排
+IncreaseIndent.content=增加儲存格中框線和文字之間的邊界。
+
+InsertClipArt.title=InsertClipArt Title
+InsertClipArt.content=InsertClipArt Content
+
+InsertComment.title=新建註解
+InsertComment.content=新建關於選取範圍的注解。
+
+InsertFileObject.title=插入附件
+InsertFileObject.content=將選取的檔案插入文件中。
+
+InsertFunction.title=插入函數
+InsertFunction.content=選擇函數和編輯引數以在目前儲存格編輯公式。
+
+InsertObject.title=插入物件
+InsertObject.content=顯示 [插入物件] 對話方塊，可選取新增的檔案或本地資料夾中的檔案。
+
+InsertPageBreak.title=分頁符號
+InsertPageBreak.content=指定新頁面開始列印的地方。\n\n在選取範圍的上方及左側插入分頁符號。
+
+InsertPictureFromFile.title=從檔案
+InsertPictureFromFile.content=插入本機資料夾中的圖片。
+
+InsertRange.title=插入儲存格
+InsertRange.content=將儲存格、列或欄插入至工作表。
+
+InsertRange2.title=插入儲存格
+InsertRange2.content=按一下此處以在工作表插入儲存格、列或欄，或新增工作表至活頁簿。
+
+InsertSymbol.title=插入符號
+InsertSymbol.content=插入鍵盤上沒有的符號，例如著作權符號、商標符號、段落標記和 Unicode 字元。
+
+InsertTextboxHorizontal.title=繪製水平文字方塊
+InsertTextboxHorizontal.content=將文字方塊插入文件。
+
+InsertTextboxHorizontal2.title=繪製文字方塊
+InsertTextboxHorizontal2.content=按一下此處可選擇插入水平文字方塊或垂直文字方塊。
+
+InsertWordArt.title=插入文字藝術師
+InsertWordArt.content=顯示 [文字藝術師圖庫] 對話方塊，可選擇文字藝術師樣式及編輯內容。
+
+Italic.title=斜體
+Italic.content=套用斜體至選取文字。
+
+KOSCloudFeedbackTip.title=使用者意見反應
+KOSCloudFeedbackTip.content=KOSCloudFeedbackTip Content
+
+KOSCloudInformationTip.title=新手指南
+KOSCloudInformationTip.content=KOSCloudInformationTip Content
+
+KOSCreatecloudLinkTip.title=KOSCreatecloudLinkTip Title
+KOSCreatecloudLinkTip.content=KOSCreatecloudLinkTip Content
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=UserName Or password not match
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=password is wrong
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=password not match
+
+KOSOpenCloudFileTip.title=從輕辦公開啟
+KOSOpenCloudFileTip.content=KOSOpenCloudFileTip Content
+
+KOSSaveFileTocloudTip.title=儲存到輕辦公
+KOSSaveFileTocloudTip.content=KOSSaveFileTocloudTip Content
+
+KOSUserLoginCloudTextBtnTip.title=未登入
+KOSUserLoginCloudTextBtnTip.content=KOSUserLoginCloudTextBtnTip Content
+
+KOSUserLoginCloudTip.title=未登入
+KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+
+KOSUserLogoutCloudTip.title=KOSUserLogoutCloudTip Title
+KOSUserLogoutCloudTip.content=KOSUserLogoutCloudTip Content
+
+LeftBorder.title=左框線
+LeftBorder.content=套用框線至目前選定的儲存格。
+
+Legend.title=圖例
+Legend.content=顯示或隱藏圖例。
+
+Lighting.title=光源
+Lighting.content=設定所選立體圖案的光源方向與強度，後者包括亮、標準、暗。
+
+LoadMacro.title=增益集
+LoadMacro.content=管理可和此檔案搭配使用的增益集。
+
+LockCell.title=鎖定儲存格
+LockCell.content=在保護工作表狀態下，鎖定的儲存格可以保護資料不被更改。
+
+Logical.title=邏輯函數
+Logical.content=從邏輯函數清單中瀏覽與選取。
+
+LookupAndReference.title=查閱與參照
+LookupAndReference.content=從查閱與參照函數清單中瀏覽與選取。
+
+Macros.title=檢視巨集
+Macros.content=檢視巨集清單，可以執行、建立或刪除清單中的巨集。
+
+Margins.title=邊界
+Margins.content=選取整份文件或目前章節/區段的邊界大小。
+
+MarkVersion.title=MarkVersion Title
+MarkVersion.content=MarkVersion Content
+
+MathAndTrig.title=數學與三角函數
+MathAndTrig.content=從數字與三角函數清單中瀏覽與選取。
+
+Max.title=最大值
+Max.content=對選取的連續的儲存格數值篩選出最大值。
+
+MergeCenter.title=合併及置中
+MergeCenter.content=將選定儲存格合併成一個較大的儲存格，並在新的儲存格中將內容置中對齊。
+MergeCenter.img=ETMergeCenter
+
+MergeCenter2.title=合併儲存格
+MergeCenter2.content=按一下此處可選擇不同的儲存格合併方式。
+
+MergeColumns.title=合併欄
+MergeColumns.content=選擇同一列或多列的連續欄的儲存格，合併為一個儲存格。
+
+MergeSelection.title=合併儲存格
+MergeSelection.content=將選取的多個儲存格合併為一個儲存格。
+
+Min.title=最小值
+Min.content=對選取的連續的儲存格數值篩選出最小值。
+
+ModifyPivotTable.title=修改樞紐分析表
+ModifyPivotTable.content=更改樞紐分析表的資料來源以及重新設定其的放置位置。
+
+Morefunctions.title=其他函數
+Morefunctions.content=對選取的連續的儲存格數值使用其他函數進行計算。
+
+NameCreate.title=建立名稱
+NameCreate.content=從選定儲存格自動產生名稱。\n\n許多人選擇使用選取範圍的頂端列或最左邊欄位的文字。
+
+NameDefine.title=定義名稱
+NameDefine.content=命名儲存格，以便您可以在公式中使用此名稱來參照這些儲存格。\n\n例如，將A1至A10選中，命名為test，總計公式SUM(A1：A10)可改為SUM(test)
+
+NameManager.title=名稱管理員
+NameManager.content=建立、編輯、刪除或尋找活頁簿中已使用的所有名稱。\n\n名稱可以使用於公式中，來替代儲存格參照。
+
+NamePaste.title=貼上名稱
+NamePaste.content=選擇在此活頁簿所使用的名稱，並將它插入至目前的公式。
+
+NewWindow.title=開新視窗
+NewWindow.content=為目前文件另建一個新視窗。
+
+NoBorder.title=無框線
+NoBorder.content=套用框線至目前選定的儲存格。
+
+NormalViewEt.title=標準模式
+NormalViewEt.content=以 [標準模式] 檢視文件。
+
+NudgeShadowDown.title=下移
+NudgeShadowDown.content=向下移動陰影。
+
+NudgeShadowLeft.title=左移
+NudgeShadowLeft.content=向左移動陰影。
+
+NudgeShadowRight.title=右移
+NudgeShadowRight.content=向右移動陰影。
+
+NudgeShadowUp.title=上移
+NudgeShadowUp.content=向上移動陰影。
+
+NumberFormatCells.title=儲存格格式:數字
+NumberFormatCells.content=顯示 [儲存格格式] 對話方塊中的 [數值] 索引標籤。
+NumberFormatCells.img=ETNumberFormatCells
+
+ObjectSelect.title=選取窗格
+ObjectSelect.content=顯示 [選取窗格] 來協助選取個別物件，并變更物件的順序及可見度。
+ObjectSelect.img=ETObjectSelect
+
+OtherBorders.title=其他邊框
+OtherBorders.content=套用框線至目前選定的儲存格。
+
+OutlineSettings.title=大綱設定
+OutlineSettings.content=顯示 [大綱] 對話方塊，設定詳細大綱。
+
+OutsideBorders.title=外側框線
+OutsideBorders.content=套用框線至目前選定的儲存格。
+
+PTFieldSettings.title=欄位設定
+PTFieldSettings.content=顯示 [欄位設定] 對話方塊。
+
+PTHide.title=隱藏
+PTHide.content=隱藏樞紐分析表中頁、列、欄位範圍字段或字段中的項。
+
+PTHideDetail.title=隱藏詳細資料
+PTHideDetail.content=隱藏作用中欄位的所有項目。
+
+PTHideFieldList.title=欄位清單
+PTHideFieldList.content=顯示或隱藏 [欄位清單]。\n\n欄位清單允許新增或移除樞紐分析表的欄位。
+
+PTRefreshData.title=重新整理
+PTRefreshData.content=更新活頁簿中從資料來源取得的資訊。
+
+PTShowDetail.title=展開整個欄位
+PTShowDetail.content=展開作用中欄位的所有項目。
+
+PTSortAndTopTen.title=排序
+PTSortAndTopTen.content=設定樞紐分析表欄位的排序選項。
+
+PTSubtotals.title=小計
+PTSubtotals.content=顯示或隱藏小計。
+
+PTTableOptions.title=表選項
+PTTableOptions.content=顯示 [樞紐分析表選項] 對話方塊。
+
+PageBreakPreview.title=分頁預覽
+PageBreakPreview.content=檢視列印此文件時分頁位置的預覽。
+
+PageLayoutDetailedSettings.title=PageLayoutDetailedSettings Title
+PageLayoutDetailedSettings.content=PageLayoutDetailedSettings Content
+
+PageOrientation.title=页面方向
+PageOrientation.content=在直向和橫向版面配置間切換頁面。
+
+PageSetup.title=版面設定
+PageSetup.content=顯示 [版面設定] 對話方塊中的 [頁面] 索引標籤。
+PageSetup.img=ETPageSetup
+
+PageSize.title=紙張大小
+PageSize.content=選擇工作表的紙張大小，如A4紙張大小。
+
+PageZoom.title=頁面縮放
+PageZoom.content=延伸或縮小列印結果使其成為實際大小的特定百分比。
+
+PercentStyle.title=百分比樣式
+PercentStyle.content=以百分比顯示儲存格值，小數位數為0。
+
+PictureAdjust.title=校正
+PictureAdjust.content=改善圖片的亮度、對比或銳利度。
+
+PictureColor.title=色彩
+PictureColor.content=變更圖片色彩以改善品質或符合文件內容。
+
+PictureCrop.title=裁剪圖片
+PictureCrop.content=裁剪圖片來移除任何不要的部分。
+
+PictureFillColor.title=圖片填滿
+PictureFillColor.content=對選取的物件使用色彩、漸層、材質、圖樣、圖片進行填充。\n\n按一下箭頭選擇不同的填滿效果。
+
+PictureFillColor2.title=圖片填滿
+PictureFillColor2.content=按一下箭號以選擇不同的填滿模式。
+
+PictureLineColor.title=圖片外框
+PictureLineColor.content=為選取的圖片外框指定色彩、寬度及線條樣式。\n\n為選取的圖片外框進行設定。
+
+PictureLineColor2.title=圖片外框
+PictureLineColor2.content=為選取的圖片外框進行設定。
+
+PictureSetTransparentColor.title=設定透明色彩
+PictureSetTransparentColor.content=將當前圖片透明化。單擊當前圖形中的像素時，特定色彩的所有像素都會變得透明。
+
+PictureSize.title=圖片大小
+PictureSize.content=對所選圖案配置尺寸大小、旋轉角度和縮放比例。
+
+PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
+PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+
+PivotTable.title=插入樞紐分析表
+PivotTable.content=樞紐分析表可輕鬆地排列和摘要複雜資料，並進一步查看詳細資料。
+
+PivotTableDelete.title=刪除樞紐分析表
+PivotTableDelete.content=刪除當前選中的樞紐分析表。
+
+PivotTableOrder.title=順序
+PivotTableOrder.content=將樞紐分析表中列範圍或欄位範圍中的項目移至首端或者尾端。
+
+PrevLandscape.title=頁面橫向
+PrevLandscape.content=設定工作表頁面為橫向頁面。
+
+PrevNextPage.title=下頁
+PrevNextPage.content=定位到當前工作表中下一個列印頁面。
+
+PrevPortrait.title=頁面直向
+PrevPortrait.content=設定工作表頁面為直向頁面。
+
+PrevPreviousPage.title=上頁
+PrevPreviousPage.content=定位到當前工作表中上一個列印頁面。
+
+Print.title=列印
+Print.content=可對列印做詳細配置，如選擇印表機、列印頁數、列印份數或者並打和縮放等。
+
+Print2.title=列印
+Print2.content=按一下此處可選擇對列印做詳細配置，或者使用預設列印配置直接列印。
+
+PrintArea.title=列印範圍
+PrintArea.content=在工作表上標記列印的指定區域，列印效果可在列印預覽中查看。
+
+PrintDirect.title=直接列印
+PrintDirect.content=使用程式預設的列印配置，直接列印。
+
+PrintGridlines.title=列印格線
+PrintGridlines.content=列印工作表中列與欄間的格線，讓閱讀變得更加容易。
+
+PrintHeadings.title=列印標題
+PrintHeadings.content=列印工作表側邊的列號與工作表中出現在欄上方的字母。
+
+PrintLayout.title=整頁模式
+PrintLayout.content=以列印預覽方式檢視工作表。
+
+PrintNormalView.title=標準模式
+PrintNormalView.content=以 [標準模式] 檢視文件。
+
+PrintPreview.title=預覽列印
+PrintPreview.content=檢視活頁簿列印輸出後的效果。
+
+PrintPreviewMargins.title=邊界
+PrintPreviewMargins.content=選取整份文件的邊界大小。
+
+PrintPreviewZoomCombo.title=列印縮放
+PrintPreviewZoomCombo.content=設定工作表的縮放比例，可以將列印輸出顯示在一個頁面上。
+
+PrintTitle.title=列印標題
+PrintTitle.content=指定要重複出現在每個列印頁面的列與欄。
+
+ProtectAndShare.title=保護且共用活頁簿
+ProtectAndShare.content=共用活頁簿，並同時以密碼保護它。\n\n密碼將防止其他人關閉修訂記錄。
+
+ProtectSheet.title=保護工作表
+ProtectSheet.content=指定可變更的資訊，以避免工作表上的資料遭到不想要的變更。
+
+RB_Clipboard.title=剪貼簿
+RB_Clipboard.content=檢視複製到剪貼簿上的所有項目。
+RB_Clipboard.img=ETClipboard
+
+ReadingLayout.title=閱讀模式
+ReadingLayout.content=方便地檢視與目前儲存格位於同一列或欄的相關資料。\n\n按一下以選取不同的色彩。
+
+ReadingLayout2.title=閱讀模式
+ReadingLayout2.content=按一下以選取不同的色彩。
+
+ReapplyFilter.title=重新套用
+ReapplyFilter.content=在目前範圍重新套用篩選及排序。\n\n除非按一下 [重新套用]，否則不會對欄中的新資料或修改資料進行篩選或排序。
+
+RecalculateBook.title=重算活頁簿
+RecalculateBook.content=對整本活頁簿重新計算。\n\n只有當自動計算關閉時，才需進行此動作。
+
+RecentLineWrap.title=自動換列
+RecentLineWrap.content=以多行來顯示儲存格中的內容，讓儲存格中的所有內容都可顯示。
+RecentLineWrap.img=ETRecentLineWrap
+
+RecenttlyUsed.title=最近用過的函數
+RecenttlyUsed.content=瀏覽最近使用的函數清單并選取。
+
+RecordList.title=表單
+RecordList.content=選中欄標題後，通過資料表單錄入、搜尋或者刪除資料。
+
+RecordMacro.title=RecordMacro Title
+RecordMacro.content=RecordMacro Content
+
+Refresh.title=更新資料
+Refresh.content=更新工作簿中來自資料來源的資訊。
+
+RefreshAll.title=全部重新整理
+RefreshAll.content=更新所有從資料來源取得的資訊。
+
+RelativeReference.title=RelativeReference Title
+RelativeReference.content=RelativeReference Content
+
+ResetPicture.title=重設圖片
+ResetPicture.content=放棄對此圖片進行的所有格式變更。
+
+RightBorder.title=右框線
+RightBorder.content=套用框線至目前選定的儲存格。
+
+RotateRight.title=旋轉
+RotateRight.content=旋轉或翻轉選取的物件。
+
+RowsAndColumn.title=列與欄
+RowsAndColumn.content=按一下此處可對列與欄進行操作。
+
+RunMacro.title=檢視巨集
+RunMacro.content=檢視巨集清單，可以執行、建立或刪除清單中的巨集。
+
+RunMacro2.title=檢視巨集
+RunMacro2.content=按一下此處可以檢視巨集清單，設定巨集安全性以及編輯巨集程式碼。
+
+SameLetterHeights.title=等高
+SameLetterHeights.content=將所選文字藝術大師的內容設定為相同高度。
+
+Security.title=巨集安全性
+Security.content=配置程式在開啟文件時允許執行巨集的安全層級。
+
+SendBackward.title=下移一層
+SendBackward.content=將所選取的物件往後移動，因前方有物件而隱藏此物件。
+
+SendBackward2.title=下移一層
+SendBackward2.content=將選取的物件移到其他物件之下。
+
+SeriesInColumns.title=切換欄
+SeriesInColumns.content=圖表數列產生在欄位。
+
+SeriesInRows.title=切換列
+SeriesInRows.content=圖表數列產生在列。
+
+ShadowColor.title=陰影色彩
+ShadowColor.content=對選取物件配置陰影的色彩。\n\n按一下箭號以選擇不同的陰影色彩。
+
+ShadowColor2.title=陰影色彩
+ShadowColor2.content=按一下箭號以選擇不同的陰影色彩。
+
+ShadowOnOff.title=陰影開/關
+ShadowOnOff.content=配置或取消選取物件的陰影樣式。
+
+ShadowPalette.title=陰影效果
+ShadowPalette.content=對所選物件設定陰影樣式。
+
+ShapeFillColor.title=圖案填滿
+ShapeFillColor.content=以實心色彩、漸層、圖片或材質來填滿選取的圖案。\n\n按一下箭號以選擇不同的圖案填滿方式。
+
+ShapeFillColor2.title=圖案填滿
+ShapeFillColor2.content=按一下箭號以選擇不同的圖案填滿方式。
+
+ShapeLineColor.title=圖案外框
+ShapeLineColor.content=為選取的圖案外框指定色彩、寬度及線條樣式。\n\n按一下箭號以選擇圖案外框的詳細設定值。
+
+ShapeLineColor2.title=圖案外框
+ShapeLineColor2.content=按一下箭號，以設定選取的圖案外框。
+
+ShapeSize.title=圖案大小
+ShapeSize.content=顯示對話方塊以變更圖案或圖片的大小。
+
+ShareWorkbook.title=共用活頁簿
+ShareWorkbook.content=允許多人同時在活頁簿上作業。\n\n活頁簿必須儲存至多人可開啟的網絡位置。\n\n活頁簿共用后，部分功能無法使用。
+
+ShowDetail.title=顯示詳細資料
+ShowDetail.content=展開摺曡的儲存格組。
+
+ShrinkFont.title=縮小字型
+ShrinkFont.content=縮小字型。
+
+SortAndFilter.title=排序
+SortAndFilter.content=可以使用遞增或遞減的順序來排序選取的資料。
+
+SortAscending.title=從A到Z排序
+SortAscending.content=排序選取範圍，將最小值出現在欄的頂端。
+
+SortDescending.title=從Z到A排序
+SortDescending.content=排序選取範圍，將最大值出現在欄的頂端。
+
+SourceData.title=選擇資料來源
+SourceData.content=變更圖表中的資料範圍。
+
+SpellCheck.title=拼字檢查
+SpellCheck.content=檢查拼字。
+
+SplitPanes.title=分割（取消分割）
+SplitPanes.content=將視窗分割成多個包含工作表檢視的可調整窗格。\n\n可以使用此功能來同時檢視工作表中相隔較遠的部分。
+
+StopAutoVersion.title=StopAutoVersion Title
+StopAutoVersion.content=StopAutoVersion Content
+
+StopRecordMacro.title=StopRecordMacro Title
+StopRecordMacro.content=StopRecordMacro Content
+
+Subtotals.title=小計
+Subtotals.content=自動在選定儲存格中插入小計和合計，以便計算數個相關資料的列總和。
+
+SwitchWindow.title=切換視窗
+SwitchWindow.content=切換至另一個目前開啟的視窗。
+
+TaskWindow.title=工作窗格
+TaskWindow.content=顯示或隱藏文件中的工作窗格。
+
+TextFill.title=字型色彩
+TextFill.content=變更文字的色彩。\n\n按一下箭頭可選擇不同的文字色彩。
+
+TextFill2.title=字型色彩
+TextFill2.content=按一下箭頭可選擇不同的文字色彩。
+
+TextOrientation.title=方向
+TextOrientation.content=使文字以對角或垂直方向旋轉。\n\n請再按一下目前選取的文字方向，可將文字重設為標準方向。
+
+TextToColumns.title=資料剖析
+TextToColumns.content=將一個儲存格中的內容根據指定條件分割成不同欄。
+
+ThickBottomBorder.title=粗下框線
+ThickBottomBorder.content=套用框線至目前選定的儲存格。
+
+ThickBoxBorder.title=粗外框線
+ThickBoxBorder.content=套用框線至目前選定的儲存格。
+
+TopAndBottomBorder.title=上框線及下框線
+TopAndBottomBorder.content=套用框線至目前選定的儲存格。
+
+TopAndDloubleBottomBorder.title=上框線及雙下框線
+TopAndDloubleBottomBorder.content=套用框線至目前選定的儲存格。
+
+TopAndThickBottomBorder.title=上框線及粗下框線
+TopAndThickBottomBorder.content=套用框線至目前選定的儲存格。
+
+TopBorder.title=上框線
+TopBorder.content=套用框線至目前選定的儲存格。
+
+TrackChanges.title=追蹤修訂
+TrackChanges.content=追蹤文件的所有變更，包括插入、刪除和格式變更。
+
+TranslateToSimplifiedChinese.title=繁轉簡
+TranslateToSimplifiedChinese.content=將繁體中文轉換為簡體中文。
+
+TranslateToTraditionalChinese.title=簡轉繁
+TranslateToTraditionalChinese.content=將簡體中文轉換為繁體中文。
+
+Underline.title=底線
+Underline.content=套用底線至選取文字。
+
+VAlignBottom.title=靠下對齊
+VAlignBottom.content=文字靠儲存格下方對齊。
+
+VAlignCenter.title=置中對齊
+VAlignCenter.content=對齊文字，讓它位在儲存格頂端與底端的中間位置。
+
+VAlignTop.title=靠上對齊
+VAlignTop.content=文字靠儲存格上方對齊。
+
+Validation.title=資料驗證
+Validation.content=根據設定條件，防止輸入無效資料至儲存格。
+
+VerticalText.title=垂直文字
+VerticalText.content=將選取的文字藝術師排列方向設定為豎向。
+
+VisualBasicEditor.title=Visual Basic
+VisualBasicEditor.content=打開 Visual Basic 編輯器，編輯巨集程式碼。
+
+What-If%20Analysis.title=模擬分析
+What-If%20Analysis.content=當您知道您想要的結果時，[目標搜尋] 將尋找正確的輸入。\n\n[規劃求解] 允許您同時查看許多可能的輸入所產生的結果。
+
+WindowReset.title=重排視窗
+WindowReset.content=在螢幕上並排顯示所有開啟的程式視窗。
+
+WordArtDetailedSettings.title=WordArtDetailedSettings Title
+WordArtDetailedSettings.content=WordArtDetailedSettings Content
+
+WordArtFillColor.title=文字藝術師填滿
+WordArtFillColor.content=對所選形狀使用單色、漸層、圖片或材質進行填充。\n\n按一下箭頭可選擇不同的填滿效果。
+
+WordArtFillColor2.title=文字藝術師填滿
+WordArtFillColor2.content=按一下箭頭可選擇不同的填滿效果。
+
+WordArtGallery.title=文字藝術師圖庫
+WordArtGallery.content=變更所選文字藝術師的樣式。
+
+WordArtLineColor.title=文字藝術師外框
+WordArtLineColor.content=為選取的圖案外框指定色彩、寬度及線條樣式。\n\n按一下箭號，以選取物件外框的詳細設定。
+
+WordArtLineColor2.title=文字藝術師外框
+WordArtLineColor2.content=按一下箭號，以選取物件外框的詳細設定。
+
+WordArtShapePalette.title=文字藝術師圖案
+WordArtShapePalette.content=選取所選文字藝術師的圖案展現方式。
+
+WordArtSize.title=文字藝術师大小
+WordArtSize.content=對所選圖案配置尺寸大小、旋轉角度和縮放比例。
+
+WorkSheet.title=工作表
+WorkSheet.content=按一下此處，可對工作表進行操作，如插入、刪除工作表，更改工作表名稱等。
+
+WorkSpace_Backup.title=WorkSpace_Backup Title
+WorkSpace_Backup.content=WorkSpace_Backup Content
+
+Zoom.title=顯示比例
+Zoom.content=顯示 [顯示比例] 對話方塊以指定文件的縮放比例。
+
+m_Format.title=格式
+m_Format.content=更改選中儲存格的格式，將文字格式的儲存格轉換為數值格式或者超連結。
+
+sp_AutoSum.title=加總
+sp_AutoSum.content=在選取儲存格後方直接顯示選取儲存格的加總。
+sp_AutoSum.img=ETAutoSum
+
+sp_AutoSum2.title=加總
+sp_AutoSum2.content=按一下此處，在選取的儲存格後顯示簡單計算的結果，例如平均值和最大值。
+
+sp_Paste.title=貼上
+sp_Paste.content=貼上剪貼簿的內容。
+
+sp_Paste2.title=貼上
+sp_Paste2.content=按一下此處以取得其他選項，例如只貼上值或格式。

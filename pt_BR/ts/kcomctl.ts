@@ -31,7 +31,7 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation>&amp;Mais cores</translation>
+        <translation type="obsolete">&amp;Mais cores</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
@@ -205,6 +205,10 @@
         <source>White</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -236,7 +240,11 @@
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation>&amp;Ocultar acesso rápido</translation>
+        <translation type="obsolete">&amp;Ocultar acesso rápido</translation>
+    </message>
+    <message>
+        <source>&amp;Hide Quick Access Toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -304,10 +312,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unma&amp;ximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mi&amp;nimize</source>
         <translation type="unfinished"></translation>
     </message>
@@ -317,6 +321,17 @@
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMenuWidget</name>
+    <message>
+        <source>InsertCellsInPopup</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -331,15 +346,15 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation>Caps Lock ativado</translation>
+        <translation type="obsolete">Caps Lock ativado</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation>Manter o Caps Lock ativado pode fazer com que você insira a senha errada.</translation>
+        <translation type="obsolete">Manter o Caps Lock ativado pode fazer com que você insira a senha errada.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation>Antes de inserir a senha, você deve apertar a tecla &quot;Caps Lock&quot; para desligá-la.</translation>
+        <translation type="obsolete">Antes de inserir a senha, você deve apertar a tecla &quot;Caps Lock&quot; para desligá-la.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -347,7 +362,23 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation>Você não pode copiar do campo de senha.</translation>
+        <translation type="obsolete">Você não pode copiar do campo de senha.</translation>
+    </message>
+    <message>
+        <source>Caps Lock on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You should press Caps Lock to turn it off before entering your password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -358,30 +389,50 @@
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation>Mo&amp;strar acesso rápido</translation>
+        <translation type="obsolete">Mo&amp;strar acesso rápido</translation>
     </message>
     <message>
         <source>More commands</source>
         <translation>Mais comandos</translation>
+    </message>
+    <message>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unfixed from the Listing</source>
-        <translation>Desafixado da lista</translation>
+        <translation type="obsolete">Desafixado da lista</translation>
     </message>
     <message>
         <source>Clear All Fixed Files</source>
-        <translation>Limpar todos os arquivos afixados</translation>
+        <translation type="obsolete">Limpar todos os arquivos afixados</translation>
     </message>
     <message>
         <source>Fixed to the Listing</source>
-        <translation>Afixado a lista</translation>
+        <translation type="obsolete">Afixado a lista</translation>
     </message>
     <message>
         <source>Clear All Unfixed Files</source>
-        <translation>Limpar todos os arquivos desafixados</translation>
+        <translation type="obsolete">Limpar todos os arquivos desafixados</translation>
+    </message>
+    <message>
+        <source>Unpinned from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Pinned Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Unpinned Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -399,7 +450,11 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation type="obsolete">TextLabel</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -473,7 +528,11 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Texto inteiro ilegal.</translation>
+        <translation type="obsolete">Texto inteiro ilegal.</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -484,7 +543,18 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Texto inteiro ilegal.</translation>
+        <translation type="obsolete">Texto inteiro ilegal.</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -557,11 +627,11 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>OverWrite</source>
-        <translation>Sobrescrever</translation>
+        <translation type="obsolete">Sobrescrever</translation>
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation>Limpar registro da lista</translation>
+        <translation type="obsolete">Limpar registro da lista</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
@@ -573,7 +643,7 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation>Excluir da lista</translation>
+        <translation type="obsolete">Excluir da lista</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -582,6 +652,18 @@ multiple=multiple</translation>
     <message>
         <source>Open Folder</source>
         <translation>Abrir pasta</translation>
+    </message>
+    <message>
+        <source>Overtype</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

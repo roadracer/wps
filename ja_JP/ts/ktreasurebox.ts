@@ -5,11 +5,7 @@
 <context>
     <name>KCommand</name>
     <message>
-        <source>Treasure Box</source>
-        <translation>宝箱</translation>
-    </message>
-    <message>
-        <source>No thanks.</source>
+        <source>All right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17,11 +13,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office recommendation</source>
+        <source>No thanks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All right</source>
+        <source>Treasure Box</source>
+        <translation>宝箱</translation>
+    </message>
+    <message>
+        <source>WPS Office Recommendation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -36,8 +36,12 @@
         <translation>目录：</translation>
     </message>
     <message>
-        <source>EditGallery</source>
+        <source>Edit Gallery</source>
         <translation>编辑素材属性</translation>
+    </message>
+    <message>
+        <source>EditGallery</source>
+        <translation type="obsolete">编辑素材属性</translation>
     </message>
     <message>
         <source>From:</source>
@@ -69,6 +73,10 @@
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
+        <translation type="obsolete">最多可输入5个标签，使用分号(;)分割。</translation>
+    </message>
+    <message>
+        <source>The most number of caption is 5.</source>
         <translation>最多可输入5个标签，使用分号(;)分割。</translation>
     </message>
 </context>
@@ -86,15 +94,15 @@
 <context>
     <name>QApplication</name>
     <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\Desktop.ini name.</source>
         <translation>数据文件</translation>
     </message>
     <message>
-        <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
         <translation>我的素材</translation>
     </message>
     <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <source>\WPS Office\Desktop.ini name.</source>
         <translation>WPS</translation>
     </message>
 </context>

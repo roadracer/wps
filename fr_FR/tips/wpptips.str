@@ -1,0 +1,873 @@
+[TIPS]
+3DColor.title=Couleur 3D
+3DColor.content=Applique une couleur à la forme 3D sélectionnée.\n\nCliquez sur la flèche pour sélectionner d'autres couleurs 3 D.
+
+3DColor2.title=Couleur 3D
+3DColor2.content=Cliquez sur la flèche pour sélectionner d'autres couleurs 3 D.
+
+3DDepthMenu.title=Profondeur
+3DDepthMenu.content=Modifie la hauteur de la forme 3D sélectionnée.
+
+3DOnOff.title=Activation/Désactivation 3D
+3DOnOff.content=Active ou désactive l'effet 3D appliqué à la forme.
+
+3DStylePalette.title=Effets 3D
+3DStylePalette.content=Ajoute un effet 3D à la forme.
+
+3DSurfaceMenu.title=Surface
+3DSurfaceMenu.content=Choisissez un effet de surface pour la forme 3D sélectionnée dans le document.
+
+3DTiltDown.title=Pivoter vers le bas
+3DTiltDown.content=Pivote la forme vers l'avant.
+
+3DTiltLeft.title=Pivoter vers la gauche
+3DTiltLeft.content=Pivote la forme vers la gauche.
+
+3DTiltRight.title=Pivoter vers la droite
+3DTiltRight.content=Pivote la forme vers la droite.
+
+3DTiltUp.title=Pivoter vers le haut
+3DTiltUp.content=Pivote la forme vers le haut.
+
+ActionSetting.title=Paramètres des actions
+ActionSetting.content=Ajoute une action à l'objet sélectionné pour indiquer ce qui doit se passer lorsque vous cliquez dessus ou que vous le survolez avec la souris.
+
+AddAssistant.title=Ajouter un assistant
+AddAssistant.content=Ajoute un assistant au membre sélectionné.
+
+AddCoworker.title=Ajouter un collègue
+AddCoworker.content=Ajoute un collègue au membre sélectionné.
+
+AddSubordinate.title=Ajouter un subordonné
+AddSubordinate.content=Ajoute un subordonné au membre sélectionné.
+
+AlignBottom.title=Aligner en bas
+AlignBottom.content=Aligne le texte en bas de la cellule.
+
+AlignCenter.title=Centrer verticalement
+AlignCenter.content=Centre le texte verticalement.
+
+AlignTop.title=Aligner en haut
+AlignTop.content=Aligne le texte en haut de la cellule.
+
+AnimationSchemes.title=Jeux d'animations
+AnimationSchemes.content=Affiche la fenêtre des tâches Conception de diapositives - Jeux d'animations qui permet de configurer les effets de transition et d'animation sur la diapositive active ou la totalité de la présentation.
+AnimationSchemes.img=WPPAnimationSchemes
+
+Arrange.title=Organiser
+Arrange.content="Organise les objets dans les diapositives en modifiant leur ordre, leur position et leur rotation."
+
+ArrangeAll.title=Réorganiser tout
+ArrangeAll.content=Imprime en mosaïque tous les documents ouverts côte à côte dans la même fenêtre du programme.
+
+AutoVersion.title=Activer la sauvegarde automatique
+AutoVersion.content="Active la sauvegarde automatique du document actif et enregistre un fichier de sauvegarde dans File Safe à chaque fermeture du document."
+
+Autobackup.title=File Safe
+Autobackup.content=Brève introduction à File Safe.
+
+Backdrop.title=Arrière-plan
+Backdrop.content=Définit le style d'arrière-plan sur la diapositive active ou la totalité de la présentation.
+
+BackgroundMusic.title=Insérer une musique de fond
+BackgroundMusic.content="Insère un fichier audio à partir d'un dossier local. Le diaporama lira automatiquement le fichier audio, qui passera en boucle jusqu'à la fin du diaporama."
+
+Bold.title=Gras
+Bold.content=Met le texte sélectionné en gras.
+
+BordersFill.title=Bordures
+BordersFill.content="Définit le style de bordure, la couleur et la largeur de la diapositive active."
+
+BringForward.title=Avancer d'un plan
+BringForward.content=Avance l'objet sélectionné afin qu'il soit masqué par moins d'objets.
+
+BringForward2.title=Avancer d'un plan
+BringForward2.content=Avance les objets sélectionnés d'un plan ou les place devant tous les objets.
+
+Bullets.title=Puces
+Bullets.content=Démarre une liste à puces.\n\nCliquez sur la flèche pour sélectionner d'autres styles de puces.
+
+Bullets2.title=Puces
+Bullets2.content=Cliquez sur la flèche pour sélectionner d'autres styles de puces.
+
+COMAddIns.title=Compléments COM
+COMAddIns.content=Ajoute ou supprime les compléments COM disponibles.
+
+CTB_MoreControls.title=Autres contrôles
+CTB_MoreControls.content=Cliquez ici pour insérer un contrôle à partir du jeu de contrôles disponibles sur cet ordinateur.
+
+CTB_Property.title=Propriétés du contrôle
+CTB_Property.content=Affiche ou modifie les propriétés du contrôle sélectionné.
+
+CTB_ViewCode.title=Afficher le code
+CTB_ViewCode.content=Lance Visual Basic Editor pour modifier le code des contrôles sélectionnés.
+
+ChangePicture.title=Modifier l'image
+ChangePicture.content="Remplace par une autre image tout en conservant la mise en forme et le format de l'image active."
+
+ChangeTextDir.title=Orientation du texte
+ChangeTextDir.content="Modifie l'orientation du texte de l'horizontale à la verticale, et inversement."
+
+CheckSpelling.title=Vérifier l'orthographe
+CheckSpelling.content=Vérifie l'orthographe du texte dans le document actif.
+
+ChineseTranslation.title=Chinois simplifié en chinois traditionnel
+ChineseTranslation.content=Remplace la traduction en chinois simplifié par le chinois traditionnel en fonction du caractère ou du mot.
+
+ClearTableStyle.title=Effacer le style de tableau
+ClearTableStyle.content=Efface le style de tableau des cellules sélectionnées.
+
+CloseDevelopmentTools.title=Fermer
+CloseDevelopmentTools.content=Cliquez ici pour masquer les outils de développement.
+
+CloseOtherWindow.title=Fermer les autres fenêtres
+CloseOtherWindow.content="Ferme toutes les autres fenêtres, sauf la fenêtre active."
+
+CloseWindow.title=Fermer la fenêtre
+CloseWindow.content=Ferme la fenêtre active.
+
+Color.title=Couleur
+Color.content=Définit l'impression couleur ou noir et blanc intégral pour la présentation active.
+
+ColorScheme.title=Modèles de couleur
+ColorScheme.content="Affiche la fenêtre des tâches Conception de diapositives - Modèles de couleur qui permet de configurer le modèle de couleur des titres, des puces et des objets sur la diapositive active ou la totalité de la présentation."
+ColorScheme.img=WPPColorScheme
+
+CompressPictures.title=Compresser les images
+CompressPictures.content=Compresse l'image sélectionnée ou toutes les images pour en réduire la taille.
+
+Copy.title=Copier
+Copy.content=Copie la sélection et la place dans le Presse-papiers du système.
+
+CustomAnimation.title=Personnaliser l'animation
+CustomAnimation.content=Affiche la fenêtre des tâches Personnaliser l'animation qui permet de configurer les effets d'animation dans le texte ou l'objet de la diapositive active.
+CustomAnimation.img=WPPCustomAnimation
+
+CustomShows.title=Diaporamas personnalisés
+CustomShows.content=Un diaporama personnalisé affiche uniquement les diapositives que vous avez sélectionnées.
+
+Cut.title=Couper
+Cut.content=Coupe la sélection et la place dans le Presse-papiers du système.
+
+DecreaseFontSize.title=Réduire la taille de la police
+DecreaseFontSize.content=Réduit la taille de la police.
+
+DecreaseIndent.title=Réduire le niveau de liste
+DecreaseIndent.content=Réduit le niveau de retrait.
+
+DecreaseSpace.title=Réduire l'espacement
+DecreaseSpace.content=Réduit l'espacement entre les lignes.
+
+Delete.title=Supprimer
+Delete.content="Supprime des lignes, des colonnes, des cellules ou tout le tableau."
+
+DeleteComment.title=Supprimer le commentaire
+DeleteComment.content=Supprime le commentaire.
+
+DeleteMaster.title=Supprimer le masque
+DeleteMaster.content=Supprime le masque de diapositives sélectionné.
+
+DeleteMember.title=Supprimer le membre
+DeleteMember.content=Supprime le membre sélectionné.
+
+DetailedSettings_DrawingTools.title=Paramètres
+DetailedSettings_DrawingTools.content=Modifie les paramètres de mise en forme des formes.
+
+DetailedSettings_Home.title=Paramètres
+DetailedSettings_Home.content=Modifie les paramètres de police.
+
+DetailedSettings_PictureTools.title=Paramètres
+DetailedSettings_PictureTools.content=Modifie les paramètres de mise en forme d'image.
+
+DetailedSettings_WordArt.title=Paramètres
+DetailedSettings_WordArt.content=Modifie les paramètres de mise en forme WordArt.
+
+DevelopmentTools.title=Outils de développement
+DevelopmentTools.content="Ouvre l'onglet Outils de développement pour insérer, entre autres, la case d'option et la case à cocher."
+
+Direction.title=Orientation
+Direction.content=Permet de choisir l'orientation de la forme 3D sélectionnée.
+
+DistColumnSevenly.title=Uniformiser la largeur des colonnes
+DistColumnSevenly.content=Uniformise la largeur des colonnes sélectionnées.
+
+DistRowSevenly.title=Uniformiser la hauteur des lignes
+DistRowSevenly.content=Uniformise la hauteur des lignes sélectionnées.
+
+Distributed.title=Paragraphe réparti
+Distributed.content=Aligne un paragraphe sur les marges de gauche et de droite en insérant un espace supplémentaire entre les caractères si nécessaire.
+
+DrawAlignLeft.title=Aligner
+DrawAlignLeft.content=Aligne l'objet sélectionné.
+
+DrawAlignTop.title=Aligner le texte
+DrawAlignTop.content=Définition de l'alignement du texte.\n\nCliquez sur la flèche pour sélectionner un autre alignement.
+
+DrawAlignTop2.title=Aligner le texte
+DrawAlignTop2.content=Cliquez sur la flèche pour sélectionner un autre alignement.
+
+DrawingToolsDetailedSettings.title=Titre DrawingToolsDetailedSettings
+DrawingToolsDetailedSettings.content=Contenu DrawingToolsDetailedSettings
+
+DuplicateSlide.title=Nouvelle copie de diapositive
+DuplicateSlide.content=Insère un doublon de la diapositive active dans la présentation.
+
+DynamicShape.title=Insérer des formes
+DynamicShape.content="Insère des formes prédéfinies, telles que des rectangles et des cercles, des flèches, des lignes, des symboles d'organigrammes et des légendes."
+
+EditComment.title=Modifier le commentaire
+EditComment.content=Modifie le commentaire.
+
+EditPoints.title=Modifier les points
+EditPoints.content=Modifie les points d'habillage pour modifier la forme.
+
+EditWordArtText.title=Modifier le texte WordArt
+EditWordArtText.content=Modifie le texte de l'objet WordArt sélectionné.
+
+EquationEditor.title=Insérer une équation
+EquationEditor.content=Insère des équations mathématiques à l'aide de l'éditeur d'équations.
+EquationEditor.img=WPPEquationEditor
+
+ExplorBackupDir.title=Explorer File Safe
+ExplorBackupDir.content="Affiche les fichiers de sauvegarde, les ouvre ou les récupère pour un document donné."
+
+ExplorVersion.title=Afficher l'historique des sauvegardes
+ExplorVersion.content="Affiche l'historique de sauvegarde du document actif pour ouvrir, supprimer ou récupérer les fichiers."
+
+ExportWeiboImageCmd.title=Titre ExportWeiboImageCmd
+ExportWeiboImageCmd.content=Contenu ExportWeiboImageCmd
+
+Find.title=Rechercher
+Find.content=Recherche du texte dans la présentation.
+
+FitTextTip.title=Ajuster le texte
+FitTextTip.content=Ajuste le texte aux formes.
+
+Flash.title=Insérer une animation Flash
+Flash.content=Insère une animation Flash à partir du dossier local.
+
+FontAlignMenu.title=Alignement des polices
+FontAlignMenu.content=Définit l'alignement entre les polices.
+
+FontColor.title=Couleur de police
+FontColor.content=Définit la couleur du texte.\n\nCliquez sur la flèche pour sélectionner une autre couleur de texte.
+
+FontColor2.title=Couleur de police
+FontColor2.content=Cliquez sur la flèche pour sélectionner une autre couleur de police.
+
+FontName.title=Police
+FontName.content=Modifie le type de police.
+
+FontSize.title=Taille de police
+FontSize.content=Modifie la taille de la police.
+
+FormatAlignCenter.title=Centrer
+FormatAlignCenter.content=Centre le texte.
+
+FormatAlignLeft.title=Aligner le texte à gauche
+FormatAlignLeft.content=Aligne le texte à gauche.
+
+FormatAlignRight.title=Aligner le texte à droite
+FormatAlignRight.content=Aligne le texte à droite.
+
+FormatObject.title=Format d'objet
+FormatObject.content=Affiche la boîte de dialogue Format d'objet.
+FormatObject.img=WPPFormatObject
+
+FormatPainter.title=Reproduire la mise en forme
+FormatPainter.content=Copie la mise en forme d'un emplacement à un autre.\n\nDouble-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs endroits dans le document.
+
+Gallery.title=WPS Gallery
+Gallery.content="WPS Gallery fournit toutes sortes de sources d'images que vous pouvez utiliser, collecter, modifier et gérer.\n\nLes sources en ligne de WPS Gallery nécessitent une connexion Internet."
+
+GridGuides.title=Quadrillage et repères
+GridGuides.content=Configure le quadrillage et les repères dans la présentation.
+
+Group.title=Grouper
+Group.content=Regroupe plusieurs objets afin de les traiter comme un seul objet.
+
+HeaderFooter.title=En-tête et pied de page
+HeaderFooter.content=Modifie l'en-tête ou le pied de page du document.
+HeaderFooter.img=WPPHeaderFooter
+
+HomeDetailedSettings.title=Titre HomeDetailedSettings
+HomeDetailedSettings.content=Contenu HomeDetailedSettings
+
+Hyperlink.title=Insérer un lien hypertexte
+Hyperlink.content="Crée un lien vers une page Web, une image, ou une adresse de messagerie."
+
+IncreaseFontSize.title=Augmenter la taille de la police
+IncreaseFontSize.content=Augmente la taille de la police.
+
+IncreaseIndent.title=Augmenter le niveau de liste
+IncreaseIndent.content=Augmente le niveau de retrait.
+
+IncreaseSpace.title=Augmenter l'espacement
+IncreaseSpace.content=Augmente l'espacement entre les lignes.
+
+InsertChart.title=Insérer un graphique
+InsertChart.content="Le graphique inséré doit être modifié dans WPS Spreadsheets.\n\nLorsque WPS Spreadsheets est fermé, le graphique peut s'afficher normalement dans le document. Double-cliquez sur le graphique si vous souhaitez le modifier."
+InsertChart.img=WPPInsertChart
+
+InsertClipArt.title=Insérer une image clipart
+InsertClipArt.content=Permet de sélectionner une image Clip Art dans la fenêtre des tâches et de l'insérer dans le document.
+
+InsertColumnsLeft.title=Insérer des colonnes à gauche
+InsertColumnsLeft.content=Insère une colonne à gauche de la colonne sélectionnée.
+
+InsertColumnsRight.title=Insérer des colonnes à droite
+InsertColumnsRight.content=Insère une colonne à droite de la colonne sélectionnée.
+
+InsertDateTime.title=Date et heure
+InsertDateTime.content=Affiche la boîte de dialogue Date et heure permettant d'insérer la date ou l'heure actuelle dans le document actif.
+
+InsertFileObject.title=Insérer un objet à partir du fichier
+InsertFileObject.content=Insère le fichier sélectionné dans le document.
+
+InsertMedia.title=Média
+InsertMedia.content="Permet d'insérer des fichiers audio et vidéo, des fichiers d'animation et d'autres fichiers multimédia dans la présentation pour renforcer son impact."
+
+InsertObject.title=Insérer un objet
+InsertObject.content=Affiche la boîte de dialogue Insérer un objet pour sélectionner un nouveau fichier ou un fichier à partir du dossier local.
+
+InsertOrgChart.title=Insérer un organigramme
+InsertOrgChart.content=Insère un organigramme dans la diapositive active.
+InsertOrgChart.img=WPPInsertOrgChart
+
+InsertPictureFromFile.title=Insérer une image
+InsertPictureFromFile.content=Insère une image à partir du dossier local.
+
+InsertRowsAbove.title=Insérer des lignes au-dessus
+InsertRowsAbove.content=Ajoute directement une ligne au-dessus de la ligne sélectionnée.
+
+InsertRowsBelow.title=Insérer des lignes en dessous
+InsertRowsBelow.content=Insère directement une ligne en dessous de la ligne sélectionnée.
+
+InsertSymbol.title=Insérer un symbole
+InsertSymbol.content="Insère des symboles qui ne sont pas sur votre clavier, tels que les caractères joints et les symboles de copyright."
+
+InsertTable.title=Insérer un tableau
+InsertTable.content=Insère ou dessine un tableau dans la diapositive active.
+
+InsertWordArt.title=Insérer un objet WordArt
+InsertWordArt.content=Affiche la boîte de dialogue Galerie WordArt pour sélectionner un style WordArt et en modifier le contenu.
+
+Italic.title=Italique
+Italic.content=Met le texte sélectionné en italique.
+
+Justify.title=Justifier
+Justify.content="Aligne le texte à la fois sur les marges de gauche et de droite, en ajoutant une espace supplémentaire entre les mots si nécessaire."
+
+KOSCloudFeedbackTip.title=Commentaires des utilisateur
+KOSCloudFeedbackTip.content=Aidez-nous à améliorer WPS Office.
+
+KOSCloudInformationTip.title=Guide de l'utilisateur
+KOSCloudInformationTip.content=Utilisation du bureau.
+
+KOSCreatecloudLinkTip.title=Il suffit de dix secondes ! Vous pouvez effectuer les opérations suivantes :
+KOSCreatecloudLinkTip.content="Analyser le code QR et partager votre document avec un téléphone portable, WeChat ou MiChat, pour qu'il soit modifié par d'autres personnes."
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=Le nom d'utilisateur ou le mot de passe ne correspond pas.
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=Le mot de passe est incorrect.
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=Le mot de passe ne correspond pas.
+
+KOSOpenCloudFileTip.title=Ouvrir à partir de Cloud Docs
+KOSOpenCloudFileTip.content=Les modifications de documents dans Cloud Docs seront directement enregistrées.
+
+KOSRoamingfileTip.title=File Roaming
+KOSRoamingfileTip.content=Les fichiers ouvris seront enregistrés sur le Cloud directement. Vous pouvez commencer votre travail aux tous vos appareils.
+
+KOSSaveFileTocloudTip.title=Enregistrer dans Cloud Docs
+KOSSaveFileTocloudTip.content="Partagez avec d'autres personnes pour discuter, modifier et prévisualiser les documents en ligne."
+
+KOSUserLoginCloudTextBtnTip.title=Se connecter
+KOSUserLoginCloudTextBtnTip.content=Connectez-vous à Light Office et téléchargez vos documents. Vous pouvez modifier le même document sur d'autres ordinateurs ou téléphones portables afin de ne jamais les perdre.
+
+KOSUserLoginCloudTip.title=Titre KOSUserLoginCloudTip
+KOSUserLoginCloudTip.content=Contenu KOSUserLoginCloudTip
+
+KOSUserLogoutCloudTip.title=Connecté
+KOSUserLogoutCloudTip.content=Vous vous êtes connecté à Light Office. Cliquez pour quitter.
+
+Lighting.title=Éclairage
+Lighting.content="Règle la direction et l'intensité de l'éclairage de la forme 3D sélectionnée. Vous pouvez choisir entre Clair, Normal et Estompé."
+
+LineBreak.title=Saut de ligne
+LineBreak.content=Modifie le format des sauts de ligne.
+
+LineSpacing.title=Interligne
+LineSpacing.content=Modifie l'espacement entre les lignes de texte.
+
+MarkVersion.title=Sauvegarde manuelle
+MarkVersion.content="Sans fermer le fichier, vous pouvez sauvegarder manuellement le fichier actif dans votre File Safe et ajouter des notes au fichier de sauvegarde."
+
+Markup.title=Marque de révision
+Markup.content=Affiche ou masque les marques de révision dans le document.
+
+MasterLayout.title=Mise en page du masque
+MasterLayout.content=Définit les éléments de l'espace réservé inclus dans le masque des diapositives.
+
+Media.title=Insérer un film
+Media.content=Insère un film à partir du dossier local.
+
+MergeCells.title=Fusionner les cellules
+MergeCells.content=Fusionne les cellules sélectionnées en une seule cellule.
+
+NewComment.title=Insérer un commentaire
+NewComment.content=Créer un commentaire.
+
+NewSlide.title=Nouvelle diapositive
+NewSlide.content=Ajoute une nouvelle diapositive à la présentation.
+
+NewSlide2.title=Autres options
+NewSlide2.content=Cliquez ici pour sélectionner un nouveau doublon.
+
+NewSlideMaster.title=Nouveau masque de diapositives
+NewSlideMaster.content=Insère un nouveau masque de diapositives.
+
+NewTitleMaster.title=Nouveau masque de titre
+NewTitleMaster.content=Insère un nouveau masque de diapositives avec un nouveau style de titre.
+
+NewWindow.title=Nouvelle fenêtre
+NewWindow.content=Ouvre une nouvelle fenêtre contenant une vue du document actif.
+
+NextComment.title=Commentaire suivant
+NextComment.content=Commentaire suivant.
+
+Normal.title=Affichage normal
+Normal.content=Affiche la présentation en mode Normal.
+
+NudgeShadowDown.title=Déplacer l'ombre vers le bas
+NudgeShadowDown.content=Déplace l'ombre de l'objet sélectionné vers le bas.
+
+NudgeShadowLeft.title=Déplacer l'ombre vers la gauche
+NudgeShadowLeft.content=Déplace l'ombre de l'objet sélectionné vers la gauche.
+
+NudgeShadowRight.title=Déplacer l'ombre vers la droite
+NudgeShadowRight.content=Déplace l'ombre de l'objet sélectionné vers la droite.
+
+NudgeShadowUp.title=Déplacer l'ombre vers le haut
+NudgeShadowUp.content=Déplace l'ombre de l'objet sélectionné vers le haut.
+
+Numbering.title=Numérotation
+Numbering.content=Numérote le paragraphe sélectionné.\n\nCliquez sur la flèche pour sélectionner d'autres formats de numérotation.
+
+Numbering2.title=Numérotation
+Numbering2.content=Cliquez sur la flèche pour sélectionner d'autres formats de numérotation.
+
+ObjectSelect.title=Volet Sélection
+ObjectSelect.content=Affiche la fenêtre des tâches Volet Sélection pour trouver facilement un seul objet ou définir son ordre et sa visibilité.
+ObjectSelect.img=WPPObjectSelect
+
+OrgChartLayout.title=Disposition
+OrgChartLayout.content=Modifie la disposition des branches du membre sélectionné.
+
+Package.title=Placer le fichier de présentation dans un dossier
+Package.content="Copie le fichier de présentation et les éléments multimédias auxquels ils sont associés (fichiers vidéo ou audio, par exemple) dans le dossier spécifié, afin de pouvoir lire ce fichier sur un autre ordinateur."
+
+PageSetup.title=Mise en page
+PageSetup.content=Affiche la boîte de dialogue Mise en page.
+PageSetup.img=WPPPageSetup
+
+Paragraph1.title=Alignement
+Paragraph1.content=Cliquez sur la flèche pour sélectionner un autre alignement.
+
+Paragraph2.title=Autres options
+Paragraph2.content="Cliquez sur la flèche pour sélectionner l'une des options suivantes : Augmenter l'espacement, Diminuer l'espacement ou Inclure dans un wrapper."
+
+Paste.title=Coller
+Paste.content=Colle le contenu du Presse-papiers.
+
+Paste2.title=Coller
+Paste2.content="Cliquez ici pour accéder à d'autres options, telles que le collage du texte non mis en forme seul."
+
+PictureAdjust.title=Ajuster l'image
+PictureAdjust.content=Augmente ou diminue le contraste et la luminosité de l'image sélectionnée.
+
+PictureColor.title=Couleur
+PictureColor.content="Modifie la couleur de l'image sélectionnée pour lui donner une couleur noir et blanc, estompée ou transparente."
+
+PictureCrop.title=Rogner l'image
+PictureCrop.content=Rogne l'image pour supprimer les parties indésirables.
+
+PictureFill.title=Remplissage de l'image
+PictureFill.content="Remplit l'objet sélectionné avec une couleur, un dégradé, un motif ou une image.\n\nCliquez sur la flèche pour sélectionner d'autres effets de remplissage."
+
+PictureFill2.title=Remplissage de l'image
+PictureFill2.content=Cliquez sur la flèche pour sélectionner d'autres effets de remplissage.
+
+PictureLine.title=Contours d'image
+PictureLine.content="Définit la couleur, la largeur et le style de plan de l'objet sélectionné.\n\nCliquez sur la flèche pour sélectionner les paramètres détaillés du plan."
+
+PictureLine2.title=Contours d'image
+PictureLine2.content=Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.
+
+PictureSetTransparentColor.title=Couleur transparente
+PictureSetTransparentColor.content="Rend une couleur transparente dans l'image active.\n\nLorsque vous cliquez sur un pixel dans le graphique actif, tous les pixels de cette couleur spécifique deviennent transparents."
+
+PictureSize.title=Taille de l'image
+PictureSize.content="Modifie l'échelle de la taille, du degré de rotation et du zoom de la forme sélectionnée."
+
+PictureToolsDetailedSettings.title=Titre PictureToolsDetailedSettings
+PictureToolsDetailedSettings.content=Contenu PictureToolsDetailedSettings
+
+PreComment.title=Commentaire précédent
+PreComment.content=Commentaire précédent.
+
+PreserveMaster.title=Conserver le masque
+PreserveMaster.content="Conserve la diapositive de masque sélectionnée. Même si elle n'est pas utilisée, elle peut encore être conservée dans la présentation."
+
+PrevClose.title=Fermer
+PrevClose.content=Ferme l'aperçu avant impression et retourne au mode d'édition de présentation.
+
+PrevFrameSlides.title=Diapositive de trame
+PrevFrameSlides.content=Ajoute des bordures autour de la diapositive.
+
+PrevLandscape.title=Paysage
+PrevLandscape.content="Définit la mise en page en mode paysage lors de l'impression de documents, de pages de notes et de plans."
+
+PrevNextPage.title=Page suivante
+PrevNextPage.content=Accède à la page de présentation suivante.
+
+PrevPortrait.title=Portrait
+PrevPortrait.content="Définit la mise en page en mode portrait lors de l'impression de documents, de pages de notes et de plans."
+
+PrevPrintHiddenSlide.title=Imprimer les diapositives masquées
+PrevPrintHiddenSlide.content=Affiche les diapositives masquées dans l'aperçu avant impression.
+
+PreviewPage.title=Page précédente
+PreviewPage.content=Accède à la page de présentation précédente.
+
+Print.title=Imprimer
+Print.content="Applique les paramètres détaillés de l'impression, tels que l'imprimante, l'étendue, les exemplaires imprimés, les pages par feuille et le zoom."
+
+Print2.title=Imprimer
+Print2.content="Cliquez ici pour sélectionner les paramètres d'impression détaillés ou utilisez les paramètres d'impression par défaut pour imprimer directement."
+
+PrintDirect.title=Impression rapide
+PrintDirect.content=Utilise l'imprimante par défaut pour imprimer directement.
+
+PrintPreview.title=Aperçu avant impression
+PrintPreview.content=Affiche les effets de la page avant l'impression.
+
+PrintingOrder.title=Ordre d'impression
+PrintingOrder.content=Définit l'ordre des documents imprimés verticalement ou horizontalement.
+
+RB_Clipboard.title=Presse-papiers
+RB_Clipboard.content=Affiche tous les éléments copiés dans le Presse-papiers.
+RB_Clipboard.img=WPPClipboard
+
+RB_Font.title=Police
+RB_Font.content=Affiche la boîte de dialogue Police.
+RB_Font.img=WPPFont
+
+RecentFillColor.title=Trame de fond
+RecentFillColor.content="Utilise des couleurs, des dégradés, des textures et des images pour remplir le tableau sélectionné dans la diapositive active.\n\nCliquez sur la flèche pour sélectionner d'autres effets de remplissage."
+
+RecentFillColor2.title=Trame de fond
+RecentFillColor2.content=Cliquez sur les flèches pour sélectionner d'autres effets de remplissage.
+
+Rehearse.title=Vérification du minutage
+Rehearse.content=Démarre un diaporama en mode plein écran pour répéter votre présentation.\n\nLe temps que vous passez sur chaque diapositive est enregistré ; vous pouvez conserver ce minutage pour exécuter le diaporama automatiquement à l'avenir.
+
+RenameMaster.title=Renommer le masque
+RenameMaster.content=Renomme la diapositive de masque sélectionnée.
+
+Replace.title=Remplacer
+Replace.content=Remplace le texte dans le document.
+
+Replace2.title=Remplacer
+Replace2.content=Cliquez ici pour remplacer le texte ou la police dans le document.
+
+ResetLayout.title=Rétablir la disposition
+ResetLayout.content=Rétablit la disposition par défaut.
+
+ResetPicture.title=Rétablir l'image
+ResetPicture.content=Ignore toutes les modifications de mise en forme effectuées sur cette image.
+
+ResetShape.title=Rétablir la forme
+ResetShape.content=Ignore toutes les modifications de mise en forme effectuées sur la forme sélectionnée.
+
+Rotate.title=Faire pivoter
+Rotate.content=Fait pivoter ou retourne l'objet sélectionné.
+
+Ruler.title=Règle
+Ruler.content="Affiche ou masque les règle destinées à mesurer et aligner les objets dans le document."
+
+RunMacro.title=Afficher les macros
+RunMacro.content="Affiche la boîte de dialogue Macros. Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer."
+
+SaveBackgroundPicture.title=Enregistrer l'image d'arrière-plan
+SaveBackgroundPicture.content=Enregistrer l'image d'arrière-plan comme image.
+
+Security.title=Sécurité des macros
+Security.content=Personnalise les paramètres de sécurité des macros.
+
+Select.title=Sélectionner
+Select.content="Permet de sélectionner un texte, un tableau ou un objet dans le document."
+
+SelectAll.title=Sélectionner tout
+SelectAll.content="Utilisez Sélectionner tout pour sélectionner la diapositive, l'objet ou le contenu du texte dans la présentation."
+
+SendBackward.title=Reculer d'un plan
+SendBackward.content=Fait reculer l'objet sélectionné afin qu'il soit masqué par les objets qui se trouvent devant.
+
+SendBackward2.title=Reculer d'un plan
+SendBackward2.content=Renvoie l'objet sélectionné d'un plan en arrière ou le place derrière tous les objets.
+
+SetUpShow.title=Configurer le diaporama
+SetUpShow.content="Affiche la boîte de dialogue Configurer le diaporama qui permet de configurer les options avancées du diaporama, telles que le mode plein écran."
+SetUpShow.img=WPPSetUpShow
+
+ShadowButton.title=Ombre du texte
+ShadowButton.content=Définit les effets d'ombre sur le texte sélectionné.
+
+ShadowColor.title=Couleur de l'ombre
+ShadowColor.content=Définit la couleur de l'ombre de l'objet sélectionné.\n\nCliquez sur la flèche pour sélectionner d'autres couleurs d'ombre.
+
+ShadowColor2.title=Couleur de l'ombre
+ShadowColor2.content=Cliquez sur la flèche pour sélectionner d'autres couleurs d'ombre.
+
+ShadowOnOff.title=Activation/Désactivation de l'ombre
+ShadowOnOff.content=Active ou désactive l'effet d'ombre de l'objet sélectionné.
+
+ShadowPalette.title=Effets d'ombre
+ShadowPalette.content=Définit l'effet d'ombre sur l'objet sélectionné.
+
+ShapeEffects.title=Effets sur la forme
+ShapeEffects.content=Applique un effet d'ombre et un effet 3D à la forme sélectionnée.
+
+ShapeFill.title=Remplissage de la forme
+ShapeFill.content="Remplit la forme sélectionnée avec une couleur unie, un dégradé, une image ou une texture.\n\nCliquez sur la flèche pour sélectionner d'autres effets de remplissage."
+
+ShapeFill2.title=Remplissage de la forme
+ShapeFill2.content=Cliquez sur la flèche pour sélectionner d'autres effets de remplissage.
+
+ShapeLine.title=Contour de la forme
+ShapeLine.content="Définit la couleur, la largeur et le style de ligne du plan de l'objet sélectionné.\n\nCliquez sur la flèche pour sélectionner les paramètres détaillés du plan."
+
+ShapeLine2.title=Contour de la forme
+ShapeLine2.content=Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.
+
+ShapeSize.title=Taille de la forme
+ShapeSize.content="Définit la taille, les degrés de rotation et le zoom de la forme sélectionnée."
+
+ShowHideGrid.title=Quadrillage
+ShowHideGrid.content=Affiche ou masque le quadrillage dans la présentation.
+
+ShowHideMark.title=Afficher/Masquer les commentaires
+ShowHideMark.content=Affiche ou masque les commentaires.
+
+SimplifiedChinese.title=Simplifié
+SimplifiedChinese.content=Convertit le document en chinois simplifié.
+
+SkipSlide.title=Masquer la diapositive
+SkipSlide.content=Masque la diapositive actuellement sélectionnée dans la présentation. Celle-ci ne s'affichera pas pendant l'exécution du diaporama en mode plein écran.
+
+SlideDesign.title=Modèles de conception
+SlideDesign.content=Affiche la fenêtre des tâches Conception de diapositives - Modèles de conception pour appliquer différents modèles à la diapositive active ou à la totalité de la présentation.
+SlideDesign.img=WPPSlideDesign
+
+SlideLayout.title=Mise en page des diapositives
+SlideLayout.content="Affiche la fenêtre des tâches Mise en page des diapositives qui permet de configurer plusieurs mises en page de diapositives sur les diapositives sélectionnées, notamment la mise en page du texte, du contenu, du texte et du contenu, ainsi que d'autres mises en page."
+SlideLayout.img=WPPSlideLayout
+
+SlideMaster.title=Masque des diapositives
+SlideMaster.content=Ouvre le mode Masque des diapositives qui vous permet de modifier la conception et la mise en page des diapositives principales.
+
+SlideMasterClose.title=Désactiver le mode Masque
+SlideMasterClose.content=Désactive le mode Masque des diapositives et retourne au mode d'édition du diaporama.
+
+SlideNumber.title=Insérer le numéro de diapositive
+SlideNumber.content=Insère le numéro de diapositive sur la diapositive active ou sur toutes les diapositives de la présentation. Le numéro de diapositive reflète la position de la diapositive dans la présentation.
+
+SlideOrientation.title=Orientation des diapositives
+SlideOrientation.content=Modifie l'orientation des diapositives (Portrait ou Paysage).
+
+SlidePreview.title=Aperçu
+SlidePreview.content=Affiche un aperçu des animations et des effets de transition sur la diapositive active.
+
+SlideShow.title=Diaporama depuis le début
+SlideShow.content=Démarre le diaporama à partir de la première diapositive.
+
+SlideShowFromCurrent.title=Diaporama à partir de la diapositive active
+SlideShowFromCurrent.content=Démarre le diaporama à partir de la diapositive active.
+
+SlideShowFromCurrent2.title=Démarrer le diaporama
+SlideShowFromCurrent2.content=Cliquez ici pour sélectionner À partir du début ou À partir de la diapositive active.
+
+SlideSorter.title=Mode Trieuse de diapositives
+SlideSorter.content=Affiche la présentation en mode Trieuse de diapositives afin de réorganiser facilement les diapositives.
+
+SlideTransition.title=Transition
+SlideTransition.content=Affiche la fenêtre des tâches Transition qui permet de configurer les effets de transition sur les diapositives sélectionnées ou la totalité de la présentation.
+SlideTransition.img=WPPTransitionEffect
+
+SmartChoice.title=Choix judicieux
+SmartChoice.content="Choisissez le même niveau de membres, la même branche de membres, tous les assistants ou toutes les lignes de connexion."
+
+Sound.title=Insérer un son
+Sound.content=Insère un clip audio ou de la musique à partir du dossier local.
+
+SpeakerNotes.title=Notes de l'intervenant
+SpeakerNotes.content="Ajoute une note à la diapositive active.\n\nSi vous souhaitez prendre des notes sans quitter le diaporama, cliquez avec le bouton droit sur l'écran et sélectionnez Notes de l'intervenant pour prendre des notes dans le volet de notes de la diapositive active."
+
+SplitCells.title=Fractionner les cellules
+SplitCells.content=Fractionne les cellules sélectionnées en plusieurs nouvelles cellules.
+
+StopAutoVersion.title=Arrêter la sauvegarde automatique
+StopAutoVersion.content=Arrête la sauvegarde automatique du document actif.
+
+Subscript.title=Indice
+Subscript.content=Crée des petites lettres sous la ligne de base du texte.
+
+Superscript.title=Exposant
+Superscript.content=Crée des petites lettres au-dessus de la ligne de texte.
+
+Superscript2.title=Autres options
+Superscript2.content=Cliquez sur la flèche pour sélectionner Exposant et Indice.
+
+SwitchWindow.title=Changer de fenêtres
+SwitchWindow.content=Bascule vers une autre fenêtre ouverte.
+
+TableCenter.title=Centrer
+TableCenter.content=Centre le texte.
+
+TableLeft.title=Aligner le texte à gauche
+TableLeft.content=Aligne le texte à gauche.
+
+TableRight.title=Aligner le texte à droite
+TableRight.content=Aligne le texte à droite.
+
+TableStyle.title=Style de tableau
+TableStyle.content=Affiche la fenêtre des tâches Style de tableau.
+TableStyle.img=WPPTableStyle
+
+TaskPane.title=Fenêtre des tâches
+TaskPane.content=Affiche ou masque la fenêtre des tâches dans la présentation.
+
+TextBox.title=Dessiner une zone de texte horizontale
+TextBox.content=Insère une zone de texte horizontal dans le document.
+
+TextBox2.title=Dessiner une zone de texte
+TextBox2.content=Cliquez ici pour insérer une zone de texte horizontale ou verticale.
+
+TextDirection.title=Orientation du texte
+TextDirection.content="Personnalise l'orientation du texte de l'horizontale à la verticale, et inversement, sur la section active, le document entier ou la zone de texte et le tableau sélectionnés."
+
+TextFontColor.title=Couleur du texte
+TextFontColor.content=Définit la couleur du texte.\n\nCliquez sur la flèche pour sélectionner une autre couleur de texte.
+
+TextFontColor2.title=Couleur du texte
+TextFontColor2.content=Cliquez sur la flèche pour sélectionner une autre couleur de texte.
+
+TextMargin.title=Marges de la cellule
+TextMargin.content=Spécifie les marges pour les cellules sélectionnées.
+
+TraditionalChinese.title=Traditionnel
+TraditionalChinese.content=Convertit le document en chinois traditionnel.
+
+TransitionEffect.title=Effets de transition
+TransitionEffect.content=Affiche la fenêtre des tâches Transition qui permet de configurer les effets de transition sur les diapositives sélectionnées ou la totalité de la présentation.
+TransitionEffect.img=WPPTransitionEffect
+
+Underline.title=Soulignement
+Underline.content=Souligne le texte sélectionné.
+
+VisualBasicEditor.title=Visual Basic Editor
+VisualBasicEditor.content=Ouvre Visual Basic Editor pour modifier les macros.
+
+WordArtAlignment.title=Alignement
+WordArtAlignment.content=Définit l'alignement des lignes individuelles d'un WordArt à lignes multiples dans le document.
+
+WordArtCharacterSpacing.title=Espacement des caractères
+WordArtCharacterSpacing.content=Modifie l'espacement entre les lettres du texte WordArt sélectionné.
+
+WordArtDetailedSettings.title=Titre WordArtDetailedSettings
+WordArtDetailedSettings.content=Contenu WordArtDetailedSettings
+
+WordArtFill.title=Remplissage WordArt
+WordArtFill.content="Remplit l'objet WordArt sélectionné avec une couleur unie, un dégradé, une texture ou une image.\n\nCliquez sur la flèche pour sélectionner d'autres effets de remplissage."
+
+WordArtFill2.title=Remplissage WordArt
+WordArtFill2.content=Cliquez sur la flèche pour sélectionner d'autres effets de remplissage.
+
+WordArtGallery.title=Galerie WordArt
+WordArtGallery.content=Modifie le style de l'objet WordArt sélectionné.
+
+WordArtLine.title=Plan WordArt
+WordArtLine.content="Définit la couleur, la largeur et le style de ligne du plan de l'objet WordArt sélectionné.\n\nCliquez sur la flèche pour sélectionner les paramètres détaillés du plan."
+
+WordArtLine2.title=Plan WordArt
+WordArtLine2.content=Cliquez sur la flèche pour sélectionner d'autres styles de plan.
+
+WordArtSameLetterHeights.title=Hauteur identique des lettres
+WordArtSameLetterHeights.content=Définit la même hauteur pour toutes les lettres de l'objet WordArt sélectionné.
+
+WordArtShapePalette.title=Forme WordArt
+WordArtShapePalette.content=Modifie le style de la forme de l'objet WordArt sélectionné.
+
+WordArtSize.title=Taille WordArt
+WordArtSize.content="Définit la taille, le degré de rotation et l'échelle de l'objet WordArt sélectionné."
+
+WordArtVerticalText.title=Texte vertical
+WordArtVerticalText.content="Dessine le texte verticalement, avec les lettres empilées les unes sur les autres."
+
+WorkSpace_Backup.title=Titre WorkSpace_Backup
+WorkSpace_Backup.content=Contenu WorkSpace_Backup
+
+WpPrintWhat_1.title=Documents (une diapositive par page)
+WpPrintWhat_1.content=Configure l'impression en tant que document (une diapositive par page).
+
+WpPrintWhat_1Notes.title=Notes (une diapositive par page)
+WpPrintWhat_1Notes.content="Configure l'impression en tant que page de notes (une diapositive par page et notes à droite de la diapositive)."
+
+WpPrintWhat_2.title=Documents (deux diapositives par page)
+WpPrintWhat_2.content=Configure l'impression en tant que document (deux diapositives par page).
+
+WpPrintWhat_3.title=Documents (trois diapositives par page)
+WpPrintWhat_3.content=Configure l'impression en tant que document (trois diapositives par page).
+
+WpPrintWhat_3Notes.title=Notes (trois diapositives par page)
+WpPrintWhat_3Notes.content="Configure l'impression en tant que page de notes (trois diapositives par page et notes à droite des diapositives)."
+
+WpPrintWhat_4.title=Documents (quatre diapositives par page)
+WpPrintWhat_4.content=Configure l'impression en tant que document (quatre diapositives par page).
+
+WpPrintWhat_6.title=Documents (six diapositives par page)
+WpPrintWhat_6.content=Configure l'impression en tant que document (six diapositives par page).
+
+WpPrintWhat_9.title=Documents (neuf diapositives par page)
+WpPrintWhat_9.content=Configure l'impression en tant que document (neuf diapositives par page).
+
+WpPrintWhat_OutlineView.title=Mode Plan
+WpPrintWhat_OutlineView.content=Configure l'impression en mode Plan. Le contenu des diapositives s'affiche sur une page imprimée au moyen d'un plan.
+
+WpPrintWhat_Slides.title=Contenu d'impression
+WpPrintWhat_Slides.content=Configure le contenu d'impression en tant que diapositive (une diapositive par page).
+
+WpPrintWhat_Slides2.title=Contenu d'impression
+WpPrintWhat_Slides2.content="Cliquez ici pour sélectionner d'autres contenus d'impression, tels que des diapositives, des documents, des pages de notes et des plans."
+
+Zoom.title=Zoom
+Zoom.content=Affiche la boîte de dialogue Zoom pour spécifier le pourcentage d'agrandissement du document.
+
+ZoomCombo.title=Zoom
+ZoomCombo.content=Permet de sélectionner la taille de zoom de la présentation active.
+
+ZoomFit.title=Ajuster à la fenêtre
+ZoomFit.content=Fait un zoom sur la présentation de sorte que la diapositive s'adapte à la fenêtre.
+
+sp_Macros.title=Afficher les macros
+sp_Macros.content="Affiche la boîte de dialogue Macros. Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer."
+
+sp_Macros2.title=Afficher les macros
+sp_Macros2.content="Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer."
+
+weibotool.title=Titre weibotool
+weibotool.content=Contenu weibotool

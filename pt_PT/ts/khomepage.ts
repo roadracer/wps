@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Templates Online</translation>
+        <translation type="obsolete">Templates Online</translation>
     </message>
     <message>
         <source>Check Online Templates</source>
@@ -47,6 +47,10 @@
         <source>Online Templates</source>
         <comment>title</comment>
         <translation>Templates Online</translation>
+    </message>
+    <message>
+        <source>docerhomepage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

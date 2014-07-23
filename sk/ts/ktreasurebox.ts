@@ -8,10 +8,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office recommendation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21,6 +17,10 @@
     </message>
     <message>
         <source>No thanks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Recommendation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

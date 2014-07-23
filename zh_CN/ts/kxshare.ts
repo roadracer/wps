@@ -13,12 +13,12 @@
         <translation>(推荐恢复)</translation>
     </message>
     <message>
-        <source>Last saved</source>
-        <translation type="obsolete">上次保存时间</translation>
-    </message>
-    <message>
         <source>Backup in %1</source>
         <translation>于 %1 备份</translation>
+    </message>
+    <message>
+        <source>Last saved</source>
+        <translation type="obsolete">上次保存时间</translation>
     </message>
     <message>
         <source>Save in %1</source>
@@ -29,7 +29,11 @@
     <name>DiagramStyleDlg</name>
     <message>
         <source>&amp;Select a Diagram Style:</source>
-        <translation>选择图示样式(&amp;S):</translation>
+        <translation type="obsolete">选择图示样式(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Select a diagram style:</source>
+        <translation type="unfinished">选择图示样式(&amp;S):</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -48,6 +52,10 @@
     <name>DlgKxFileConverter</name>
     <message>
         <source>&amp;Line End:</source>
+        <translation type="obsolete">行终止符号(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Line end:</source>
         <translation>行终止符号(&amp;L):</translation>
     </message>
     <message>
@@ -105,10 +113,6 @@
         <source>:/NetbackupWizard/ENU_emptybacktip.png</source>
         <translation type="obsolete">:/NetbackupWizard/emptybacktip.png</translation>
     </message>
-    <message>
-        <source>emptybacktip</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>EncryptionType</name>
@@ -135,12 +139,20 @@
 <context>
     <name>KApplication</name>
     <message>
-        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation>最新版本的升级包已为您准备好，是否立即安装？</translation>
+        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <translation type="obsolete">安装包或升级包正在运行中，%1 将退出，请等待安装或升级结束后再运行 %2。</translation>
     </message>
     <message>
-        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
         <translation>安装包或升级包正在运行中，%1 将退出，请等待安装或升级结束后再运行 %2。</translation>
+    </message>
+    <message>
+        <source>WPS Office updates have been downloaded, do you want to install them now?</source>
+        <translation type="obsolete">最新版本的升级包已为您准备好，是否立即安装？</translation>
+    </message>
+    <message>
+        <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
+        <translation>最新版本的升级包已为您准备好，是否立即安装？</translation>
     </message>
 </context>
 <context>
@@ -173,11 +185,23 @@
 <context>
     <name>KColorDialog</name>
     <message>
+        <source>&amp;Colors</source>
+        <translation type="obsolete">颜色(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Colors:</source>
+        <translation>颜色(&amp;C):</translation>
+    </message>
+    <message>
         <source>&amp;Green:</source>
         <translation>绿色(&amp;G):</translation>
     </message>
     <message>
         <source>&amp;Lum:</source>
+        <translation type="obsolete">亮度(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Luminance:</source>
         <translation>亮度(&amp;L):</translation>
     </message>
     <message>
@@ -186,11 +210,11 @@
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>饱和度(&amp;S):</translation>
+        <translation type="obsolete">饱和度(&amp;S):</translation>
     </message>
     <message>
-        <source>&amp;Colors</source>
-        <translation>颜色(&amp;C):</translation>
+        <source>&amp;Saturation:</source>
+        <translation>饱和度(&amp;S):</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
@@ -201,24 +225,12 @@
         <translation>蓝色(&amp;B):</translation>
     </message>
     <message>
-        <source>Color mode</source>
+        <source>Color mo&amp;de</source>
         <translation>颜色模式(&amp;D)</translation>
     </message>
     <message>
-        <source>HSL</source>
-        <translation>HSL</translation>
-    </message>
-    <message>
-        <source>Hu&amp;e:</source>
-        <translation>色调(&amp;U):</translation>
-    </message>
-    <message>
-        <source>RGB</source>
-        <translation>RGB</translation>
-    </message>
-    <message>
-        <source>RGB Mode:</source>
-        <translation type="obsolete">RGB模式:</translation>
+        <source>Color mode</source>
+        <translation type="obsolete">颜色模式(&amp;D)</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -233,8 +245,24 @@
         <translation>自定义</translation>
     </message>
     <message>
+        <source>HSL</source>
+        <translation>HSL</translation>
+    </message>
+    <message>
+        <source>Hu&amp;e:</source>
+        <translation>色调(&amp;U):</translation>
+    </message>
+    <message>
         <source>New</source>
         <translation>新增</translation>
+    </message>
+    <message>
+        <source>RGB</source>
+        <translation>RGB</translation>
+    </message>
+    <message>
+        <source>RGB Mode:</source>
+        <translation type="obsolete">RGB模式:</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -244,8 +272,34 @@
 <context>
     <name>KCommand</name>
     <message>
+        <source>Click here to change your interface style.</source>
+        <translation>嗨，点击这里。
+可以更改不同的界面风格！</translation>
+    </message>
+    <message>
         <source>Desktop</source>
         <translation>桌面</translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
+        <translation type="obsolete">下载在线字体 &quot;%1&quot; 失败</translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
+        <translation type="obsolete">下载在线字体 &quot;%1&quot; 成功</translation>
+    </message>
+    <message>
+        <source>Downloading the online font &quot;%1&quot;  failed.</source>
+        <translation>下载在线字体 &quot;%1&quot; 失败</translation>
+    </message>
+    <message>
+        <source>Downloading the online font &quot;%1&quot;  succeeded.</source>
+        <translation>下载在线字体 &quot;%1&quot; 成功</translation>
+    </message>
+    <message>
+        <source>Hey, click here to change User Interface style!</source>
+        <translation type="obsolete">嗨，点击这里。
+可以更改不同的界面风格！</translation>
     </message>
     <message>
         <source>Hey, click here to switch interface styles!</source>
@@ -253,17 +307,29 @@
 可以更改不同的界面风格!</translation>
     </message>
     <message>
-        <source>We found that the document which was not saved upon last exit , has been restored.   (if you don&apos;t need to restore the file, close it directly, and then reopen the original document.)</source>
-        <translation>:(我们发现上一次退出时该文件未保存，现已恢复。  （如果您不需要恢复的文件，可以直接关闭，然后重新打开原文件。）</translation>
+        <source>Hey, click here to switch user interface!</source>
+        <translation type="obsolete">嗨，点击这里。
+可以更改不同的界面风格！</translation>
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation>界面布局更改将在下次启动WPS Office时生效</translation>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
     </message>
     <message>
-        <source>Hey, click here to switch user interface!</source>
-        <translation>嗨，点击这里。
-可以更改不同的界面风格！</translation>
+        <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
+        <translation>:(我们发现上一次退出时该文件未保存，现已恢复。  （如果您不需要恢复的文件，可以直接关闭，然后重新打开原文件。）</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office.</source>
+        <translation>界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting.</source>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+    <message>
+        <source>We found that the document which was not saved upon last exit , has been restored.   (if you don&apos;t need to restore the file, close it directly, and then reopen the original document.)</source>
+        <translation type="obsolete">:(我们发现上一次退出时该文件未保存，现已恢复。  （如果您不需要恢复的文件，可以直接关闭，然后重新打开原文件。）</translation>
     </message>
 </context>
 <context>
@@ -281,33 +347,49 @@
     </message>
     <message>
         <source>ActiveX Control (*.ocx;*.dll)</source>
-        <translation type="unfinished">ActiveX控件(*.ocx;*.dll)</translation>
+        <translation type="obsolete">ActiveX控件(*.ocx;*.dll)</translation>
     </message>
     <message>
-        <source>Register Custom Control</source>
-        <translation type="unfinished">注册自定义控件</translation>
+        <source>ActiveX Control(*.ocx;*.dll)</source>
+        <translation>ActiveX控件(*.ocx;*.dll)</translation>
     </message>
     <message>
         <source>Can not register this control.</source>
-        <translation type="unfinished">不能注册此控件。</translation>
+        <translation type="obsolete">不能注册此控件。</translation>
+    </message>
+    <message>
+        <source>Cannot register this control.</source>
+        <translation>不能注册此控件。</translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation>注册自定义控件</translation>
     </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
+        <source>(The file %1 seems to be damaged.)</source>
+        <translation type="unfinished">（疑似损坏文件：%1）</translation>
+    </message>
+    <message>
+        <source>(The file seems to be damaged: %1 )</source>
+        <translation type="obsolete">（疑似损坏文件：%1）</translation>
+    </message>
+    <message>
         <source>(damaged file : %1 )</source>
-        <translation>（疑似损坏文件：%1）</translation>
+        <translation type="obsolete">（疑似损坏文件：%1）</translation>
     </message>
     <message>
         <source>error file list:</source>
-        <translation>疑似损坏文件：</translation>
+        <translation type="obsolete">错误文件列表：</translation>
     </message>
 </context>
 <context>
     <name>KDlgCrashUpload</name>
     <message>
         <source>(damaged file:????)</source>
-        <translation>（疑似损坏文件：??? ）</translation>
+        <translation type="obsolete">（疑似损坏文件：??? ）</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -322,12 +404,24 @@
         <translation>立即上传</translation>
     </message>
     <message>
+        <source>We suggest you upload it.</source>
+        <translation>建议立即上报。</translation>
+    </message>
+    <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
         <translation>您刚才可能执行了一些不当操作，已导致当前文件受到严重损坏；</translation>
     </message>
     <message>
-        <source>We suggest you upload it.</source>
-        <translation>建议立即上报。</translation>
+        <source>You may have performed some improper operation, which caused serious damage to the current document;</source>
+        <translation type="obsolete">您刚才可能执行了一些不当操作，导致以下文件严重损坏；</translation>
+    </message>
+    <message>
+        <source>You maybe execute some wrong operation, it made current file be serious damage;</source>
+        <translation type="obsolete">您刚才可能执行了一些不当操作，导致以下文件严重损坏；</translation>
+    </message>
+    <message>
+        <source>suggest upload</source>
+        <translation type="obsolete">建议提交问题文件，我们会尽快安排分析、完善。</translation>
     </message>
 </context>
 <context>
@@ -347,7 +441,7 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确定(&amp;O)</translation>
+        <translation>更改(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Select</source>
@@ -358,12 +452,32 @@
         <translation type="obsolete">(设置将在下次启动WPS Office时生效)</translation>
     </message>
     <message>
-        <source>2012 Style Interface</source>
+        <source>2012 Skin</source>
+        <translation type="unfinished">2012 皮肤</translation>
+    </message>
+    <message>
+        <source>2012 Style</source>
         <translation>2012 风格</translation>
     </message>
     <message>
-        <source>2013 Ongmani Style Interface</source>
+        <source>2012 Style Interface</source>
+        <translation type="obsolete">2012 风格</translation>
+    </message>
+    <message>
+        <source>2013 Elegant Black</source>
         <translation>2013 素雅黑</translation>
+    </message>
+    <message>
+        <source>2013 Ongmani Style Interface</source>
+        <translation type="obsolete">2013 素雅黑</translation>
+    </message>
+    <message>
+        <source>2013 Skin</source>
+        <translation>2013 皮肤</translation>
+    </message>
+    <message>
+        <source>2013 Water Blue</source>
+        <translation>2013 清新蓝</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -374,8 +488,20 @@
         <translation>更改界面</translation>
     </message>
     <message>
-        <source>Classic Style Interface</source>
+        <source>Classic Skin</source>
+        <translation type="obsolete">2012 皮肤</translation>
+    </message>
+    <message>
+        <source>Classic Style</source>
         <translation>经典风格</translation>
+    </message>
+    <message>
+        <source>Classic Style Interface</source>
+        <translation type="obsolete">经典风格</translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation>配色方案</translation>
     </message>
     <message>
         <source>Do you want to switch to &quot;%1&quot; interface?</source>
@@ -387,7 +513,7 @@
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation>界面布局更改将在下次启动WPS Office时生效</translation>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
     </message>
     <message>
         <source>Please choose the interface style you want to apply.</source>
@@ -410,31 +536,39 @@
         <translation type="obsolete">SwitchUIDlg</translation>
     </message>
     <message>
+        <source>The layout will take effect after restarting</source>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office.</source>
+        <translation>界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+    <message>
         <source>Theme Scheme</source>
-        <translation>配色方案</translation>
-    </message>
-    <message>
-        <source>2012 Skin</source>
-        <translation>2012 皮肤</translation>
-    </message>
-    <message>
-        <source>2013 Skin</source>
-        <translation>2013 皮肤</translation>
+        <translation type="obsolete">配色方案</translation>
     </message>
     <message>
         <source>Win8 Metro Style Interface</source>
-        <translation>2013 清新蓝</translation>
+        <translation type="obsolete">2013 清新蓝</translation>
     </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>删除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Del</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">删除(&amp;D)</translation>
+        <translation type="obsolete">删除(&amp;D)</translation>
     </message>
     <message>
         <source>File name error, please enter a correct format file name.</source>
@@ -458,15 +592,15 @@
         <source>Tab,Enter,Num Enter,Left,Up,Right,Down,Esc,Delete,C,X,V,Z,Y</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>C,X,V,Z,Y</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encrypt</source>
+        <translation type="obsolete">加密(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Encryption</source>
         <translation>加密(&amp;E)</translation>
     </message>
 </context>
@@ -489,10 +623,18 @@
     </message>
     <message>
         <source>&amp;Read Only</source>
+        <translation type="obsolete">只读(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Read-only</source>
         <translation>只读(&amp;R)</translation>
     </message>
     <message>
         <source>Enter password to modify, or open read only.</source>
+        <translation type="obsolete">输入修改密码，或者只读模式打开。</translation>
+    </message>
+    <message>
+        <source>Enter password to modify, or open read-only file.</source>
         <translation>输入修改密码，或者只读模式打开。</translation>
     </message>
     <message>
@@ -523,7 +665,7 @@
         <translation type="obsolete">符号栏(&amp;T)</translation>
     </message>
     <message>
-        <source>Insert to Custom S&amp;ymbols</source>
+        <source>Insert To Custom S&amp;ymbols</source>
         <translation type="obsolete">插入到符号栏(&amp;Y)</translation>
     </message>
     <message>
@@ -538,64 +680,76 @@
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
+        <source>&amp;Follow system locale</source>
+        <translation>跟随系统语言(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Install new language</source>
+        <translation>安装新语言(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation type="obsolete">重置个人模板(&amp;R)</translation>
+    </message>
+    <message>
         <source>Choose Language</source>
         <translation>选择语言</translation>
-    </message>
-    <message>
-        <source>Get More...</source>
-        <translation type="obsolete">获取更多...</translation>
-    </message>
-    <message>
-        <source>Install Locale</source>
-        <translation type="obsolete">安装语言</translation>
     </message>
     <message>
         <source>Choose Language Installation Package</source>
         <translation>选择语言安装包</translation>
     </message>
     <message>
-        <source>archives (*.zip)</source>
-        <translation type="obsolete">压缩文档 (*.zip)</translation>
-    </message>
-    <message>
-        <source>Install Language Package</source>
-        <translation>安装语言包</translation>
-    </message>
-    <message>
-        <source>installation fails, make sure to install the complete package!</source>
-        <translation>安装失败，请确保安装包的完整性！</translation>
-    </message>
-    <message>
         <source>Choose your language</source>
         <translation type="obsolete">选择语言</translation>
     </message>
     <message>
-        <source>&amp;Reset personal template</source>
-        <translation>重置个人模板(&amp;R)</translation>
+        <source>Follow system locale</source>
+        <translation type="obsolete">跟随系统语言</translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
+        <translation>获取更多...(&amp;M)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>信息</translation>
     </message>
     <message>
+        <source>Install Language Package</source>
+        <translation>安装语言包</translation>
+    </message>
+    <message>
+        <source>Install Locale</source>
+        <translation type="obsolete">安装语言</translation>
+    </message>
+    <message>
+        <source>Installation fails, make sure to install the complete package.</source>
+        <translation>安装失败，请确保安装包的完整性！</translation>
+    </message>
+    <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation>设置将在启动后生效。</translation>
-    </message>
-    <message>
-        <source>&amp;Install new language</source>
-        <translation type="unfinished">安装新语言(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Get &amp;More...</source>
-        <translation type="unfinished">获取更多...(&amp;M)</translation>
+        <translation type="obsolete">设置将在启动后生效。</translation>
     </message>
     <message>
         <source>ZIP File (*.zip)</source>
-        <translation type="unfinished">压缩文档 (*.zip)</translation>
+        <translation>压缩文档 (*.zip)</translation>
     </message>
     <message>
-        <source>&amp;Follow system locale</source>
-        <translation type="unfinished">跟随系统语言</translation>
+        <source>archives (*.zip)</source>
+        <translation type="obsolete">压缩文档 (*.zip)</translation>
+    </message>
+    <message>
+        <source>installation fails, make sure to install the complete package</source>
+        <translation type="obsolete">安装失败，请确保安装包的完整性！</translation>
+    </message>
+    <message>
+        <source>installation fails, make sure to install the complete package!</source>
+        <translation type="obsolete">安装失败，请确保安装包的完整性！</translation>
+    </message>
+    <message>
+        <source>Settings will take effect after the application restarts.</source>
+        <translation type="unfinished">请重新启动WPS Office，以便语言更改生效。</translation>
     </message>
 </context>
 <context>
@@ -635,23 +789,31 @@
 <context>
     <name>KRegisterDlg</name>
     <message>
-        <source>Initi&amp;als:</source>
-        <translation>缩写：</translation>
-    </message>
-    <message>
         <source>&amp;Organization:</source>
-        <translation>公司：</translation>
+        <translation type="obsolete">公司：</translation>
     </message>
     <message>
-        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
+        <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
         <translation>（“姓名”将是您的文档的作者名和批注内容的批注人）</translation>
     </message>
     <message>
+        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
+        <translation type="obsolete">（“姓名”将是您的文档的作者名和批注内容的批注人）</translation>
+    </message>
+    <message>
         <source>* &amp;Name:</source>
-        <translation>*姓名：</translation>
+        <translation type="obsolete">*姓名：</translation>
     </message>
     <message>
         <source>* &amp;Serial No.:</source>
+        <translation type="obsolete">*序列号：</translation>
+    </message>
+    <message>
+        <source>* Name:</source>
+        <translation>*姓名：</translation>
+    </message>
+    <message>
+        <source>* Serial No.:</source>
         <translation>*序列号：</translation>
     </message>
     <message>
@@ -659,59 +821,95 @@
         <translation>文档用户信息</translation>
     </message>
     <message>
-        <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>存储序列号失败，请确认您是否有管理员权限。</translation>
+        <source>Initi&amp;als:</source>
+        <translation type="obsolete">缩写：</translation>
+    </message>
+    <message>
+        <source>Initials:</source>
+        <translation>缩写：</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <source>The items with &quot;*&quot; must be inputted.</source>
+        <source>Organization:</source>
+        <translation>公司：</translation>
+    </message>
+    <message>
+        <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
+        <translation>存储序列号失败，请确认您是否有管理员权限。</translation>
+    </message>
+    <message>
+        <source>The items with &quot;*&quot; must be entered.</source>
         <translation>带（*）号的项目必须输入。</translation>
     </message>
     <message>
-        <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
+        <source>The items with &quot;*&quot; must be inputted.</source>
+        <translation type="obsolete">带（*）号的项目必须输入。</translation>
+    </message>
+    <message>
+        <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
         <translation>您输入的序列号经验证为无效序列号，请仔细核对输入格式，序列号所支持版本及有效日期！</translation>
     </message>
     <message>
+        <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
+        <translation type="obsolete">您输入的序列号经验证为无效序列号，请仔细核对输入格式，序列号所支持版本及有效日期！</translation>
+    </message>
+    <message>
         <source>You&apos;ve reached the maximum retry steps, program will terminate.</source>
+        <translation type="obsolete">您的输入不正确，程序将退出。</translation>
+    </message>
+    <message>
+        <source>Your input is incorrect and the program will exit.</source>
         <translation>您的输入不正确，程序将退出。</translation>
     </message>
 </context>
 <context>
     <name>KShowMoreWindowDlg</name>
     <message>
+        <source>Active Window:</source>
+        <translation>当前窗口为:</translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+    <message>
+        <source>Compare Side by Side</source>
+        <translation type="unfinished">选定窗口</translation>
+    </message>
+    <message>
+        <source>Compare Side by Side Window</source>
+        <translation type="obsolete">并排窗口</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <source>Compare Side by Side</source>
-        <translation type="obsolete">选定窗口</translation>
+        <source>Please Choose the Window to Compare</source>
+        <translation type="obsolete">选择需要比较的窗口:</translation>
     </message>
     <message>
-        <source>Compare Side by Side Window</source>
-        <translation>并排比较</translation>
+        <source>Please select the window to compare:</source>
+        <translation type="unfinished">选择需要比较的窗口:</translation>
     </message>
     <message>
         <source>Select Window</source>
-        <translation>选定窗口</translation>
+        <translation type="obsolete">选定窗口</translation>
+    </message>
+    <message>
+        <source>Side by Side Window</source>
+        <translation>并排窗口</translation>
     </message>
     <message>
         <source>Switch Window to</source>
-        <translation>窗口切换到</translation>
+        <translation type="obsolete">窗口切换到:</translation>
     </message>
     <message>
-        <source>Please Choose the Window to Compare</source>
-        <translation>选择需要比较的窗口</translation>
-    </message>
-    <message>
-        <source>Active Window:</source>
-        <translation>当前窗口为：</translation>
+        <source>Switch window to:</source>
+        <translation type="unfinished">窗口切换到:</translation>
     </message>
 </context>
 <context>
@@ -799,16 +997,20 @@
         <translation type="obsolete">是否确认切换到“2012风格”界面？</translation>
     </message>
     <message>
+        <source>2012 Skin</source>
+        <translation>2012 皮肤</translation>
+    </message>
+    <message>
         <source>Failed to install special kui file. Read loggings for more information.</source>
         <translation type="obsolete">安装Kui文档失败，详情请查阅日志。</translation>
     </message>
     <message>
-        <source>Kingsoft Office</source>
-        <translation type="obsolete">WPS Office</translation>
-    </message>
-    <message>
         <source>Setting will applied when next time started.</source>
         <translation type="obsolete">设置将在下次启动WPS Office时生效。</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>classics</source>
@@ -825,6 +1027,10 @@
     <message>
         <source>modern</source>
         <translation type="obsolete">2012风格</translation>
+    </message>
+    <message>
+        <source>Classic Skin</source>
+        <translation type="unfinished">2012 皮肤</translation>
     </message>
 </context>
 <context>
@@ -885,16 +1091,16 @@
         <translation type="obsolete">近期使用过的符号(&amp;R):</translation>
     </message>
     <message>
-        <source>(Normal Text)</source>
+        <source>(normal text)</source>
         <translation type="obsolete">(普通文本)</translation>
-    </message>
-    <message>
-        <source>S&amp;ubset:</source>
-        <translation type="obsolete">子集(&amp;U):</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
         <translation type="obsolete">来自(&amp;M)</translation>
+    </message>
+    <message>
+        <source>S&amp;ubset:</source>
+        <translation type="obsolete">子集(&amp;U):</translation>
     </message>
 </context>
 <context>
@@ -1091,7 +1297,7 @@
     </message>
     <message>
         <source>Halfwidth and Fullwidth Forms</source>
-        <translation>半型和全型字符</translation>
+        <translation>半角及全角字符</translation>
     </message>
     <message>
         <source>Hangul</source>
@@ -1269,20 +1475,28 @@
         <translation></translation>
     </message>
     <message>
-        <source>About Kingsoft Presentation</source>
+        <source>About WPS Office</source>
+        <translation>关于 WPS Office</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
         <translation>关于 WPS演示</translation>
     </message>
     <message>
-        <source>About Kingsoft Spreadsheets</source>
+        <source>About WPS Spreadsheets</source>
         <translation>关于 WPS表格</translation>
     </message>
     <message>
-        <source>About Kingsoft Writer</source>
+        <source>About WPS Writer</source>
         <translation>关于 WPS文字</translation>
     </message>
     <message>
-        <source>About Kingsoft Office</source>
-        <translation>关于 WPS</translation>
+        <source>Cannot find help file or help file encountered an error!</source>
+        <translation>没有找到帮助文件或帮助文件出错！</translation>
+    </message>
+    <message>
+        <source>Cannot find help file or help file error!</source>
+        <translation type="obsolete">没有找到帮助文件或帮助文件出错！</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1290,15 +1504,19 @@
     </message>
     <message>
         <source>Help file doesn&apos;t exist or is broken!</source>
-        <translation>没有找到帮助文件或帮助文件出错！</translation>
+        <translation type="obsolete">没有找到帮助文件或帮助文件出错！</translation>
     </message>
     <message>
         <source>Part of %1</source>
         <translation>%1 的一部分</translation>
     </message>
     <message>
+        <source>Part of %1 activation version</source>
+        <translation>%1 激活版本的一部分</translation>
+    </message>
+    <message>
         <source>Part of %1 trial version</source>
-        <translation>%1 试用版本的一部分</translation>
+        <translation type="obsolete">%1 试用版本的一部分</translation>
     </message>
     <message>
         <source>Product ID: </source>
@@ -1308,20 +1526,47 @@
         <source>res:/icons/kxshare/%1.png</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>KxApiDefaultDlg</name>
     <message>
-        <source>Part of %1 activation version</source>
-        <translation>%1 激活版本的一部分</translation>
+        <source>No</source>
+        <translation>否</translation>
+    </message>
+    <message>
+        <source>The %1 method is not impl,do you want to use the default value while it will be a risk.</source>
+        <translation type="obsolete">方法 %1 还没有实现，如果使用默认值，可能存在风险。</translation>
+    </message>
+    <message>
+        <source>This method %1 is not implemented. If the default value is used, then may bring risk.</source>
+        <translation>方法 %1 还没有实现，如果使用默认值，可能存在风险。</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>是</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Critical</source>
-        <translation>注意</translation>
+        <translation type="obsolete">注意</translation>
+    </message>
+    <message>
+        <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
+        <translation>加载UI XML文档失败！详情请查阅日志或使用KDebugConsole。</translation>
     </message>
     <message>
         <source>Loading UI xml file is failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation>加载UI XML文档失败！详情请查阅日志或使用KDebugConsole。</translation>
+        <translation type="obsolete">加载UI XML文档失败！详情请查阅日志或使用KDebugConsole。</translation>
+    </message>
+    <message>
+        <source>Loading the UI XML document failed. Please read the logs for more details or use KDebugConsole.</source>
+        <translation type="obsolete">加载UI XML文档失败！详情请查阅日志或使用KDebugConsole。</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation>注意</translation>
     </message>
 </context>
 <context>
@@ -1329,6 +1574,10 @@
     <message>
         <source>Action Buttons</source>
         <translation>动作按钮</translation>
+    </message>
+    <message>
+        <source>Basic Shapes</source>
+        <translation>基本形状</translation>
     </message>
     <message>
         <source>Block Arrows</source>
@@ -1352,7 +1601,7 @@
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation>基本形状</translation>
+        <translation type="obsolete">基本形状</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
@@ -1374,8 +1623,12 @@
         <translation>添加插件失败</translation>
     </message>
     <message>
-        <source>Failed to modify the Add-In settings</source>
+        <source>Failed to modify Add-In settings</source>
         <translation>插件设置修改失败</translation>
+    </message>
+    <message>
+        <source>Failed to modify the Add-In settings</source>
+        <translation type="obsolete">插件设置修改失败</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
@@ -1394,15 +1647,19 @@
         <translation>按需加载</translation>
     </message>
     <message>
-        <source>Load on Demand (currently loaded)</source>
+        <source>Load on Demand (Currently loaded)</source>
         <translation>按需加载（已加载）</translation>
+    </message>
+    <message>
+        <source>Load on Demand (currently loaded)</source>
+        <translation type="obsolete">按需加载（已加载）</translation>
     </message>
 </context>
 <context>
     <name>KxChangeIconDlg</name>
     <message>
         <source>&quot;%1&quot; has no icon.</source>
-        <translation>&quot;%1&quot; 中没有图标。</translation>
+        <translation type="obsolete">&quot;%1&quot; 中没有图标。</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -1423,6 +1680,10 @@
     <message>
         <source>Icon Files(*.ico)</source>
         <translation>图标文件(*.ico)</translation>
+    </message>
+    <message>
+        <source>There is no icon in &quot;%1&quot;.</source>
+        <translation>&quot;%1&quot; 中没有图标。</translation>
     </message>
 </context>
 <context>
@@ -1451,6 +1712,10 @@
         <translation>直线(&amp;S)</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation>自定义</translation>
+    </message>
+    <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation>按背景配色方案,按文本和线条配色方案,按阴影配色方案,按标题文本配色方案,按填充配色方案,按强调文字配色方案,按强调文字和超链接配色方案,按强调文字和已访问过的超链接配色方案</translation>
     </message>
@@ -1461,10 +1726,6 @@
     <message>
         <source>No Line</source>
         <translation>无线条颜色</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>自定义</translation>
     </message>
 </context>
 <context>
@@ -1482,13 +1743,17 @@
     <name>KxCommandListModel</name>
     <message>
         <source>Failed to add new command! It may exist already.</source>
+        <translation type="obsolete">操作失败！</translation>
+    </message>
+    <message>
+        <source>Failed to add new command.</source>
         <translation>操作失败！</translation>
     </message>
 </context>
 <context>
     <name>KxControlToolboxToolBarViewCommand</name>
     <message>
-        <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
+        <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1497,7 +1762,7 @@
     <name>KxControlsListCommand</name>
     <message>
         <source>Register Custom Control...</source>
-        <translation type="unfinished">注册自定义控件...</translation>
+        <translation>注册自定义控件...</translation>
     </message>
 </context>
 <context>
@@ -1507,20 +1772,68 @@
         <translation>（默认）</translation>
     </message>
     <message>
-        <source>Add dictionary file</source>
+        <source>Add Custom Dictionary</source>
         <translation>添加自定义词典</translation>
     </message>
     <message>
+        <source>Add dictionary file</source>
+        <translation type="obsolete">添加自定义词典</translation>
+    </message>
+    <message>
+        <source>All Files (*.*)</source>
+        <translation type="obsolete">所有文件(*.*)</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished">所有文件(*.*)</translation>
+    </message>
+    <message>
+        <source>All files(*.*)|*.*|Dictionary file(*.dic)|*.dic</source>
+        <translation type="obsolete">所有文件(*.*)|*.*|词典文件(*.dic)|*.dic</translation>
+    </message>
+    <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
-        <translation>所有文件(*.*)|*.*|词典文件(*.dic)|*.dic</translation>
+        <translation type="obsolete">所有文件(*.*)|*.*|词典文件(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic||</source>
         <translation type="obsolete">所有文件(*.*)|*.*|词典文件(*.dic)|*.dic||</translation>
     </message>
     <message>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+        <translation type="unfinished">添加词典 %1 时遇到错误，请检查文件格式。</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, the file has already existed.</source>
+        <translation type="obsolete">添加词典 %1 时遇到错误，该文件已经存在。</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
+        <translation>添加词典 %1 时遇到错误，该文件已经存在。</translation>
+    </message>
+    <message>
+        <source>Create Custom Dictionary</source>
+        <translation>创建自定义词典</translation>
+    </message>
+    <message>
+        <source>Dictionary File (*.dic)</source>
+        <translation type="obsolete">词典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation>词典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Dictionary Files(*.dic)</source>
+        <translation type="obsolete">词典文件(*.dic)</translation>
+    </message>
+    <message>
         <source>Dictionary Files(*.dic);;All files(*.*)</source>
         <translation type="obsolete">所有文件(*.*);;词典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
+        <translation>词典文件(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Full path: </source>
@@ -1528,19 +1841,31 @@
     </message>
     <message>
         <source>New dictionary file</source>
-        <translation>创建自定义词典</translation>
+        <translation type="obsolete">创建自定义词典</translation>
     </message>
     <message>
         <source>Open dictionary file</source>
         <translation type="obsolete">创建自定义词典</translation>
     </message>
     <message>
-        <source>Removing this custom dictionary might affect other programs of Kingsoft Office, do you want to continue?</source>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <translation>删除该自定义词典可能会影响其它 WPS Office 程序所用的自定义词典。是否继续？</translation>
     </message>
     <message>
+        <source>Removing this custom dictionary might affect other programs of WPS Office, do you want to continue?</source>
+        <translation type="obsolete">删除该自定义词典可能会影响其它 WPS Office 程序所用的自定义词典。是否继续？</translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation>不能删除最后一个词典！</translation>
+    </message>
+    <message>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
+        <translation>自定义词典数已达到上限.</translation>
+    </message>
+    <message>
         <source>dictionary file(*.dic)|*.dic</source>
-        <translation>词典文件(*.dic)|*.dic</translation>
+        <translation type="obsolete">词典文件(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic|All files(*)|*</source>
@@ -1551,7 +1876,25 @@
     <name>KxCustomListModel</name>
     <message>
         <source>  Option Card</source>
+        <translation type="obsolete">  选项卡</translation>
+    </message>
+    <message>
+        <source>  Option Tab</source>
         <translation>  选项卡</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Group</name>
+    <message>
+        <source>Custom Group</source>
+        <translation>自定义</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Tab</name>
+    <message>
+        <source>Custom Tab</source>
+        <translation>自定义</translation>
     </message>
 </context>
 <context>
@@ -1589,20 +1932,32 @@
         <translation>添加</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
+        <source>Are you sure to reset the &apos;%1&apos; command?</source>
         <translation>是否确实要重置对 “%1” 命令栏所做的更改?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
+        <translation type="obsolete">是否确实要重置对 “%1” 命令栏所做的更改?</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
         <translation>开始一组(&amp;G)</translation>
     </message>
     <message>
-        <source>Command &amp;Bars</source>
-        <translation>命令栏(&amp;B):</translation>
+        <source>Comman&amp;ds</source>
+        <translation type="obsolete">命令(&amp;D):</translation>
     </message>
     <message>
-        <source>Comman&amp;ds</source>
+        <source>Comman&amp;ds:</source>
         <translation>命令(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Command &amp;Bars</source>
+        <translation type="obsolete">命令栏(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Command &amp;Bars:</source>
+        <translation>命令栏(&amp;B):</translation>
     </message>
     <message>
         <source>Copy P&amp;icture</source>
@@ -1614,11 +1969,15 @@
     </message>
     <message>
         <source>D</source>
-        <translation>↓</translation>
+        <translation type="obsolete">↓</translation>
     </message>
     <message>
         <source>Dialog</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>↓</translation>
     </message>
     <message>
         <source>Move To</source>
@@ -1642,10 +2001,14 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation>重置(&amp;R)</translation>
+        <translation type="obsolete">重置(&amp;R)</translation>
     </message>
     <message>
         <source>U</source>
+        <translation type="obsolete">↑</translation>
+    </message>
+    <message>
+        <source>Up</source>
         <translation>↑</translation>
     </message>
 </context>
@@ -1687,6 +2050,10 @@
     </message>
     <message>
         <source>&amp;New</source>
+        <translation type="obsolete">新建(&amp;N)...</translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
         <translation>新建(&amp;N)...</translation>
     </message>
     <message>
@@ -1699,34 +2066,54 @@
     </message>
     <message>
         <source>R&amp;ename</source>
+        <translation type="obsolete">重命名(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>R&amp;ename...</source>
         <translation>重命名(&amp;E)...</translation>
     </message>
     <message>
-        <source>Tool&amp;bars:</source>
+        <source>Tool&amp;bars</source>
         <translation>工具栏(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Tool&amp;bars:</source>
+        <translation type="obsolete">工具栏(&amp;B)</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarWTB</name>
     <message>
         <source>Adding toolbar is successful!</source>
-        <translation>成功添加工具栏！</translation>
+        <translation type="obsolete">成功添加工具栏！</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the &apos;%1&apos; toolbar?</source>
+        <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
         <translation>是否确认删除名称为 “%1” 的工具栏吗？</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the &apos;%1&apos; toolbar?</source>
+        <source>Are you sure to reset the &apos;%1&apos; toolbar?</source>
         <translation>是否确实要重置对 “%1” 工具栏所做的更改?</translation>
     </message>
     <message>
-        <source>Please input &amp;toolbar&apos;s name:</source>
+        <source>Are you sure you want to delete the &apos;%1&apos; toolbar?</source>
+        <translation type="obsolete">是否确认删除名称为 “%1” 的工具栏吗？</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the &apos;%1&apos; toolbar?</source>
+        <translation type="obsolete">是否确实要重置对 “%1” 工具栏所做的更改?</translation>
+    </message>
+    <message>
+        <source>Please enter &amp;toolbar&apos;s name:</source>
         <translation>请输入工具栏的名称(&amp;T):</translation>
     </message>
     <message>
+        <source>Please input &amp;toolbar&apos;s name:</source>
+        <translation type="obsolete">请输入工具栏的名称(&amp;T):</translation>
+    </message>
+    <message>
         <source>Renaming toolbar is successful!</source>
-        <translation>成功重命名工具栏！</translation>
+        <translation type="obsolete">成功重命名工具栏！</translation>
     </message>
     <message>
         <source>The toolbar exist, change another name.</source>
@@ -1734,14 +2121,26 @@
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
+        <translation type="obsolete">工具栏名称不能为空。</translation>
+    </message>
+    <message>
+        <source>The toolbar name must not be blank.</source>
         <translation>工具栏名称不能为空。</translation>
+    </message>
+    <message>
+        <source>Toolbar has been added.</source>
+        <translation>成功添加工具栏！</translation>
+    </message>
+    <message>
+        <source>Toolbar has been renamed.</source>
+        <translation>成功重命名工具栏！</translation>
     </message>
 </context>
 <context>
     <name>KxDevelopToolsTriggerCommand</name>
     <message>
         <source>To work with Developer tab (including Macros, Control
-Toolbox), please purchase Kingsoft Office Professional.</source>
+Toolbox), please purchase WPS Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1753,6 +2152,10 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>OrgChart</source>
+        <translation type="obsolete">组织结构图</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
         <translation>组织结构图</translation>
     </message>
     <message>
@@ -1807,12 +2210,16 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation>删除(&amp;R)</translation>
     </message>
     <message>
-        <source>Available A&amp;dd-Ins:</source>
+        <source>A&amp;dd-Ins available:</source>
         <translation>可用加载项(&amp;D):</translation>
     </message>
     <message>
+        <source>Available A&amp;dd-Ins:</source>
+        <translation type="obsolete">可用加载项(&amp;D):</translation>
+    </message>
+    <message>
         <source>COM Add-Ins</source>
-        <translation>COM加载项</translation>
+        <translation>COM 加载项</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1912,12 +2319,24 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation>词典列表(&amp;L)</translation>
     </message>
     <message>
+        <source>Full Path</source>
+        <translation>完整路径</translation>
+    </message>
+    <message>
+        <source>Set &amp;Default</source>
+        <translation type="obsolete">更改默认设置(&amp;C)</translation>
+    </message>
+    <message>
         <source>Set &amp;default</source>
+        <translation type="obsolete">更改默认设置(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
         <translation>更改默认设置(&amp;C)</translation>
     </message>
     <message>
         <source>path</source>
-        <translation>完整路径</translation>
+        <translation type="obsolete">完整路径</translation>
     </message>
 </context>
 <context>
@@ -2005,6 +2424,10 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgEncryptionType</name>
     <message>
         <source>&amp;Choose an encryption type:</source>
+        <translation type="obsolete">选择加密类型(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Choose encryption type:</source>
         <translation>选择加密类型(&amp;C):</translation>
     </message>
     <message>
@@ -2012,8 +2435,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">取消</translation>
     </message>
     <message>
-        <source>Choose a &amp;key length:</source>
+        <source>Choose &amp;key length:</source>
         <translation>选择密钥长度(&amp;K):</translation>
+    </message>
+    <message>
+        <source>Choose a &amp;key length:</source>
+        <translation type="obsolete">选择密钥长度(&amp;K):</translation>
     </message>
     <message>
         <source>Encryption Type</source>
@@ -2079,8 +2506,16 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">颜色 1(&amp;1):</translation>
     </message>
     <message>
+        <source>Color &amp;1:</source>
+        <translation>颜色 1(&amp;1):</translation>
+    </message>
+    <message>
         <source>Color &amp;2</source>
         <translation type="obsolete">颜色 2(&amp;2):</translation>
+    </message>
+    <message>
+        <source>Color &amp;2:</source>
+        <translation>颜色 2(&amp;2):</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -2088,6 +2523,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curtain of Night</source>
+        <translation>夜幕徐徐</translation>
+    </message>
+    <message>
+        <source>CurtainOfNight</source>
         <translation type="obsolete">夜幕徐徐</translation>
     </message>
     <message>
@@ -2144,7 +2583,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Gradient</source>
-        <translation> 渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Green</source>
@@ -2195,12 +2634,16 @@ p, li { white-space: pre-wrap; }
         <translation>碧海青天</translation>
     </message>
     <message>
+        <source>Pa&amp;ttern:</source>
+        <translation>图案(&amp;T):</translation>
+    </message>
+    <message>
         <source>Parchment</source>
         <translation>羊皮纸</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation> 图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Pattern:</source>
@@ -2272,7 +2715,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Texture</source>
-        <translation> 纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Transparency</source>
@@ -2286,22 +2729,6 @@ p, li { white-space: pre-wrap; }
         <source>Wheat</source>
         <translation>麦浪滚滚</translation>
     </message>
-    <message>
-        <source>Color &amp;1:</source>
-        <translation>颜色 1(&amp;1:):</translation>
-    </message>
-    <message>
-        <source>Color &amp;2:</source>
-        <translation>颜色 2(&amp;2:):</translation>
-    </message>
-    <message>
-        <source>Pa&amp;ttern:</source>
-        <translation>图案(&amp;T):</translation>
-    </message>
-    <message>
-        <source>CurtainOfNight</source>
-        <translation>夜幕徐徐</translation>
-    </message>
 </context>
 <context>
     <name>KxDlgFormatShape</name>
@@ -2313,7 +2740,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgGenerally</name>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2423,7 +2850,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
+        <translation type="obsolete">自定义符号(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Cust&amp;om symbols:</source>
         <translation>自定义符号(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Fro&amp;m:</source>
+        <translation>来自(&amp;M)</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -2468,10 +2903,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Symbol</source>
         <translation>符号</translation>
-    </message>
-    <message>
-        <source>Fro&amp;m:</source>
-        <translation>来自(&amp;M)</translation>
     </message>
 </context>
 <context>
@@ -2585,6 +3016,10 @@ installed, or you are sure all documents you open are safe.</source>
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Set as &amp;Default Template</source>
+        <translation type="obsolete">设为默认模板(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Set as &amp;default template</source>
         <translation>设为默认模板(&amp;D)</translation>
     </message>
     <message>
@@ -2630,6 +3065,10 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>&amp;Choose command form:</source>
+        <translation type="obsolete">从菜单中选择(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Choose command from:</source>
         <translation>从菜单中选择(&amp;C):</translation>
     </message>
     <message>
@@ -2637,20 +3076,24 @@ installed, or you are sure all documents you open are safe.</source>
         <translation>&lt;&lt; 删除(&amp;R)</translation>
     </message>
     <message>
-        <source>Only apply to the current document</source>
-        <translation>只用于本文档</translation>
-    </message>
-    <message>
         <source>Apply to all documents(default)</source>
         <translation>用于所有文档(默认)</translation>
     </message>
     <message>
         <source>Cust&amp;omize Quick Access</source>
+        <translation type="obsolete">自定义快速访问工具栏(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Cust&amp;omize Quick Access:</source>
         <translation>自定义快速访问工具栏(&amp;O):</translation>
     </message>
     <message>
         <source>Customize Quick Access</source>
         <translation>自定义快速访问工具栏</translation>
+    </message>
+    <message>
+        <source>Only apply to the current document</source>
+        <translation>只用于本文档</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
@@ -2688,10 +3131,6 @@ installed, or you are sure all documents you open are safe.</source>
         <translation>序号</translation>
     </message>
     <message>
-        <source>Recent File Management</source>
-        <translation>最近文档管理</translation>
-    </message>
-    <message>
         <source>NO</source>
         <translation type="obsolete">序号</translation>
     </message>
@@ -2708,11 +3147,29 @@ installed, or you are sure all documents you open are safe.</source>
         <translation>文件路径</translation>
     </message>
     <message>
-        <source>Please select the records which you want to remove from the recent file list, then press OK button to commit.It will not delete the files but only remove the records.
-Double click any item can open the file, or you can use the popup menu. This will clear the selection of the items.</source>
-        <translation>请选择您想要从最近文档列表中移除的项目，然后点击“清除记录”按钮来完成清理。
+        <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This operation will not delete the files but only remove the records.
+Double-click or use the popup menu to open the file. This operation will clear the selection of the items.</source>
+        <translation type="obsolete">请选择您想要从最近文档列表中移除的项目，然后点击“清除记录”按钮来完成清理。
 本操作仅移除记录，不会删除文件。
 双击或右击菜单可打开文档。打开文档操作会清空以下列表中各个项目的选中状态。</translation>
+    </message>
+    <message>
+        <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished">请选择您想要从最近文档列表中移除的项目，然后点击“清除记录”按钮来完成清理。
+本操作仅移除记录，不会删除文件。
+双击或右击菜单可打开文档。打开文档操作会清空以下列表中各个项目的选中状态。</translation>
+    </message>
+    <message>
+        <source>Please select the records which you want to remove from the recent file list, then press OK button to commit.It will not delete the files but only remove the records.
+Double click any item can open the file, or you can use the popup menu. This will clear the selection of the items.</source>
+        <translation type="obsolete">请选择您想要从最近文档列表中移除的项目，然后点击“清除记录”按钮来完成清理。
+本操作仅移除记录，不会删除文件。
+双击或右击菜单可打开文档。打开文档操作会清空以下列表中各个项目的选中状态。</translation>
+    </message>
+    <message>
+        <source>Recent File Management</source>
+        <translation>最近文档管理</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
@@ -2745,11 +3202,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
-        <source>quit</source>
-        <translation type="obsolete">退出</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2761,20 +3214,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>浏览模式</translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <source>Infotip</source>
+        <translation type="unfinished">提示信息</translation>
     </message>
     <message>
-        <source>Thanks for using Kingsoft Office 2012 Beta2.</source>
+        <source>TextLabel</source>
+        <translation type="obsolete">提示信息</translation>
+    </message>
+    <message>
+        <source>Thanks for using WPS Office 2012 Beta2.</source>
         <translation>感谢您使用WPS Office 2012 Beta2。</translation>
     </message>
     <message>
-        <source>The trial period of your Kingsoft Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of Kingsoft Office.</source>
+        <source>The trial period of your WPS Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of WPS Office.</source>
+        <translation type="obsolete">您使用的该Beta版本已过试用期，您可选择浏览模式（浏览模式不能进行键盘输入）继续使用或者升级到最新个人版。</translation>
+    </message>
+    <message>
+        <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
         <translation>您使用的该Beta版本已过试用期，您可选择浏览模式（浏览模式不能进行键盘输入）继续使用或者升级到最新个人版。</translation>
     </message>
     <message>
         <source>Update Now</source>
         <translation>升级</translation>
+    </message>
+    <message>
+        <source>quit</source>
+        <translation type="obsolete">退出</translation>
     </message>
 </context>
 <context>
@@ -2788,6 +3253,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters, we can&apos;t handle it.</source>
+        <translation type="obsolete">单词中有非法字符，无法处理！</translation>
+    </message>
+    <message>
+        <source>The word contains unallowable characters. We cannot handle it.</source>
         <translation>单词中有非法字符，无法处理！</translation>
     </message>
 </context>
@@ -2815,7 +3284,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>您输入的内容不是合法的整数值。</translation>
+        <translation type="obsolete">您输入的内容不是合法的整数值。</translation>
     </message>
     <message>
         <source>Text:</source>
@@ -2823,7 +3292,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
+        <translation type="obsolete">您的系统没有 %1 字体, 因此显示的是替代字体，仍要使用该字体吗？</translation>
+    </message>
+    <message>
+        <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
         <translation>您的系统没有 %1 字体, 因此显示的是替代字体，仍要使用该字体吗？</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation>您输入的内容不是合法的整数值。</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
@@ -2845,31 +3322,58 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>, </translation>
     </message>
     <message>
-        <source>Standard Encryption</source>
-        <translation>标准加密</translation>
-    </message>
-    <message>
-        <source>XOR Encryption</source>
-        <translation>XOR加密</translation>
-    </message>
-    <message>
         <source>Please input a password between </source>
         <translation>密钥长度必须是介于</translation>
+    </message>
+    <message>
+        <source>Standard Encryption</source>
+        <translation>标准加密</translation>
     </message>
     <message>
         <source>WPS 2012 Perform</source>
         <translation type="obsolete">WPS 演示 2012</translation>
     </message>
+    <message>
+        <source>XOR Encryption</source>
+        <translation>XOR加密</translation>
+    </message>
+</context>
+<context>
+    <name>KxEulaDlg</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation>最终用户许可协议</translation>
+    </message>
+    <message>
+        <source>I &amp;Decline</source>
+        <translation>拒绝(&amp;D)</translation>
+    </message>
+    <message>
+        <source>I &amp;Accept</source>
+        <translation>接受(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
+        <translation>缺少最终用户许可协议文件，这意味着你使用的是不完整的产品。&lt;br/&gt;请到&lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;官方网站&lt;/a&gt;下载一个新的，请不要修改它。</translation>
+    </message>
 </context>
 <context>
     <name>KxFeekbackCommand</name>
     <message>
-        <source>No E-Mail Client!</source>
-        <translation>未安装邮件客户端！</translation>
-    </message>
-    <message>
         <source>Feedback</source>
         <translation>反馈</translation>
+    </message>
+    <message>
+        <source>No E-Mail Client!</source>
+        <translation type="obsolete">未安装邮件客户端！</translation>
+    </message>
+    <message>
+        <source>No E-Mail Client.</source>
+        <translation>未安装邮件客户端！</translation>
     </message>
 </context>
 <context>
@@ -2892,6 +3396,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>&amp;Encrypt button tab in field dialog</source>
         <comment>Encrypt button tab in filedialog</comment>
+        <translation type="obsolete">加密(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Encryption...</source>
+        <comment>Encrypt button tab in filedialog</comment>
         <translation>加密(&amp;E)...</translation>
     </message>
 </context>
@@ -2902,8 +3411,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>所有图片</translation>
     </message>
     <message>
-        <source>An error occurred while importing this file. %1</source>
+        <source>An error occurred while importing this file %1.</source>
         <translation>导入图片文件 %1 失败</translation>
+    </message>
+    <message>
+        <source>An error occurred while importing this file. %1</source>
+        <translation type="obsolete">导入图片文件 %1 失败</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
@@ -3142,6 +3655,13 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
 </context>
 <context>
+    <name>KxFontsGalleryTip</name>
+    <message>
+        <source>layou will change next start up.</source>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+</context>
+<context>
     <name>KxFormatShapeDlg</name>
     <message>
         <source>Alignment</source>
@@ -3169,11 +3689,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Picture</source>
-        <translation> 图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation> 位置</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -3192,105 +3712,59 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsExplorer</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation>刷新(&amp;R)</translation>
+        <translation type="obsolete">刷新(&amp;R)</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>打开</translation>
+        <translation type="obsolete">打开</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsLoginDlg</name>
     <message>
         <source>&amp;Password:</source>
-        <translation>密码(&amp;P):</translation>
+        <translation type="obsolete">密码(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Save Acount</source>
-        <translation>记住帐户(&amp;S)</translation>
+        <translation type="obsolete">记住帐户(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;UserName:</source>
-        <translation>用户名(&amp;U)：</translation>
-    </message>
-    <message>
-        <source>Captcha:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get captcha image!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error!Failed to get File List!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error! Login failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username or password is invalid!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username or password is empty!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>change a captcha!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>login...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxGDocsModel</name>
-    <message>
-        <source>Document Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last Modified Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxGDocsModule</name>
-    <message>
-        <source>Failed to create file! File may be opened or no permission to create file!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error! Open file failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error! Upload file failed!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">用户名(&amp;U)：</translation>
     </message>
 </context>
 <context>
     <name>KxHideorShowButton</name>
     <message>
-        <source>Show Taskpane</source>
-        <translation>点击展开任务窗格</translation>
+        <source>Hide Task Window</source>
+        <translation>点击关闭
+任务窗格</translation>
     </message>
     <message>
         <source>Hide Taskpane</source>
-        <translation>点击隐藏任务窗格</translation>
+        <translation type="obsolete">点击关闭
+任务窗格</translation>
+    </message>
+    <message>
+        <source>Show Task Window</source>
+        <translation>点击展开
+任务窗格</translation>
+    </message>
+    <message>
+        <source>Show Taskpane</source>
+        <translation type="obsolete">点击展开
+任务窗格</translation>
     </message>
 </context>
 <context>
     <name>KxHyperlinkDlg</name>
     <message>
         <source>All Files (*.*)</source>
+        <translation type="obsolete">所有文件(*.*)</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
         <translation>所有文件(*.*)</translation>
     </message>
     <message>
@@ -3325,12 +3799,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxInputDialogCommand</name>
     <message>
-        <source>Custom:</source>
-        <translation>自定义:</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>自定义</translation>
+    </message>
+    <message>
+        <source>Custom:</source>
+        <translation>自定义:</translation>
     </message>
 </context>
 <context>
@@ -3353,6 +3827,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Cannot create a link to the file &quot;%1&quot;.</source>
         <translation>无法创建到此文件的连接“%1”。</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document as an icon.</source>
@@ -3407,24 +3885,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>将文件内容插入到文档，然后可以调用创建此文件的应用程序进行编辑。</translation>
     </message>
     <message>
-        <source>Kingsoft Presentation cannot access %1, the file name is invalid.</source>
-        <translation>WPS 演示 无法访问 %1，文件名无效。</translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets cannot access %1, the file name is invalid.</source>
-        <translation>WPS 表格 无法访问 %1，文件名无效。</translation>
-    </message>
-    <message>
-        <source>Kingsoft Writer cannot access %1, the file name is invalid.</source>
-        <translation>WPS 文字 无法访问 %1，文件名无效。</translation>
-    </message>
-    <message>
         <source>Presentations and Shows(*.dps;*.ppt)</source>
         <translation type="obsolete">演示文稿和放映(*.dps;*.ppt)</translation>
     </message>
     <message>
-        <source>File</source>
-        <translation>文件</translation>
+        <source>WPS Presentation cannot access %1, the file name is invalid.</source>
+        <translation type="obsolete">WPS 演示 无法访问 %1，文件名无效。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot access %1. The file name is invalid.</source>
+        <translation>WPS 演示 无法访问 %1，文件名无效。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot access %1, the file name is invalid.</source>
+        <translation type="obsolete">WPS 表格 无法访问 %1，文件名无效。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot access %1. The file name is invalid.</source>
+        <translation>WPS 表格 无法访问 %1，文件名无效。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot access %1, the file name is invalid.</source>
+        <translation type="obsolete">WPS 文字 无法访问 %1，文件名无效。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot access %1. The file name is invalid.</source>
+        <translation>WPS 文字 无法访问 %1，文件名无效。</translation>
     </message>
 </context>
 <context>
@@ -3434,8 +3920,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>(普通文本)</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the Symbol toolbar?</source>
+        <source>Are you sure to reset the Symbol toolbar?</source>
         <translation>是否重设符号栏？</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the Symbol toolbar?</source>
+        <translation type="obsolete">是否重设符号栏？</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3461,7 +3951,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">放大预览项目。</translation>
     </message>
     <message>
+        <source>Click to enlarge preview item.</source>
+        <translation type="obsolete">放大预览项目。</translation>
+    </message>
+    <message>
+        <source>Click to show additional options.</source>
+        <translation type="obsolete">展开其他操作选项。</translation>
+    </message>
+    <message>
         <source>Lock item to LockList.</source>
+        <translation type="obsolete">将此项目固定到列表。</translation>
+    </message>
+    <message>
+        <source>Lock this item to the list.</source>
         <translation type="obsolete">将此项目固定到列表。</translation>
     </message>
     <message>
@@ -3469,41 +3971,57 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">已达到最大锁定项目数。</translation>
     </message>
     <message>
+        <source>Reached the maximum number of items locked.</source>
+        <translation type="obsolete">已达到最大锁定项目数。</translation>
+    </message>
+    <message>
         <source>Unlock item form LockList.</source>
+        <translation type="obsolete">在列表中取消对此项目的固定。</translation>
+    </message>
+    <message>
+        <source>Unlock this item from the list.</source>
         <translation type="obsolete">在列表中取消对此项目的固定。</translation>
     </message>
 </context>
 <context>
     <name>KxMacroActionButtonCommand</name>
     <message>
-        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
+        <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
         <translation>无法运行“%1”宏。可能是因为该宏在此工作簿中不可用，或者所有的宏都被禁用。</translation>
+    </message>
+    <message>
+        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
+        <translation type="obsolete">无法运行“%1”宏。可能是因为该宏在此工作簿中不可用，或者所有的宏都被禁用。</translation>
+    </message>
+    <message>
+        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook, or all macros may have been disabled.</source>
+        <translation type="obsolete">无法运行“%1”宏。可能是因为该宏在此工作簿中不可用，或者所有的宏都被禁用。</translation>
     </message>
 </context>
 <context>
     <name>KxMacroCommand</name>
     <message>
-        <source>Download</source>
+        <source>Click to purchase now.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished">下载</translation>
     </message>
     <message>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <source>To work with macros, please purchase Kingsoft Office Professional.
+        <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to purchase now.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxMacroListCommand</name>
     <message>
-        <source>To work with macros, please purchase Kingsoft Office Professional.
+        <source>To work with macros, please purchase WPS Office Professional.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3570,6 +4088,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Open From File...</source>
+        <translation type="obsolete">从文件加载(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>&amp;Open from File...</source>
         <translation>从文件加载(&amp;O)...</translation>
     </message>
     <message>
@@ -3622,7 +4144,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Hot&amp;key:</source>
-        <translation>快捷键(&amp;K)</translation>
+        <translation type="obsolete">快捷键(&amp;K)</translation>
     </message>
     <message>
         <source>Image and Text</source>
@@ -3633,8 +4155,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>图像:</translation>
     </message>
     <message>
-        <source>JPEG JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
+        <source>JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
         <translation>JPEG 文件交换格式(*.jpg *.jpeg *.jpe)</translation>
+    </message>
+    <message>
+        <source>JPEG JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
+        <translation type="obsolete">JPEG 文件交换格式(*.jpg *.jpeg *.jpe)</translation>
     </message>
     <message>
         <source>Modify Commands</source>
@@ -3661,20 +4187,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>显示方式(&amp;W)</translation>
     </message>
     <message>
+        <source>Shortcut &amp;key</source>
+        <translation>快捷键(&amp;K)</translation>
+    </message>
+    <message>
         <source>Tag Image File Format(*tif *tiff)</source>
         <translation>Tag 图像文件格式(*tif *tiff)</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)</source>
+        <translation>Windows 位图(*.bmp)</translation>
     </message>
     <message>
         <source>Windows Enhanced MetaFile(*.wmf)</source>
         <translation>Windows 图元文件(*.wmf)</translation>
     </message>
     <message>
+        <source>Windows Enhanced Metafile(*.emf)</source>
+        <translation>Windows 增强型图元文件(*.emf)</translation>
+    </message>
+    <message>
         <source>Windows Window Bitmap(*.bmp)</source>
-        <translation>Windows 位图(*.bmp)</translation>
+        <translation type="obsolete">Windows 位图(*.bmp)</translation>
     </message>
     <message>
         <source>Windows Window Enhanced MetaFile(*.emf)</source>
-        <translation>Windows 增强型图元文件(*.emf)</translation>
+        <translation type="obsolete">Windows 增强型图元文件(*.emf)</translation>
     </message>
 </context>
 <context>
@@ -3692,8 +4230,131 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>空工作簿</translation>
     </message>
     <message>
+        <source>Download</source>
+        <translation>下载</translation>
+    </message>
+    <message>
         <source>General</source>
         <translation>常规</translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFonts</name>
+    <message>
+        <source>Click the icon to login.</source>
+        <translation type="obsolete">使用在线字体，需登录账号
+点击图标即可登录</translation>
+    </message>
+    <message>
+        <source>Click to download</source>
+        <translation>点击下载安装</translation>
+    </message>
+    <message>
+        <source>Click to use</source>
+        <translation>在线字体，已安装</translation>
+    </message>
+    <message>
+        <source>Fold Online Fonts</source>
+        <translation type="obsolete">点击收起在线字体</translation>
+    </message>
+    <message>
+        <source>Fold online fonts</source>
+        <translation>点击收起在线字体</translation>
+    </message>
+    <message>
+        <source>For more details</source>
+        <translation>点击查看详情</translation>
+    </message>
+    <message>
+        <source>Free to download</source>
+        <translation type="obsolete">点击下载安装</translation>
+    </message>
+    <message>
+        <source>It&apos;s downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It’s downloading, please wait...</source>
+        <translation type="obsolete">正在下载字体，请稍候...</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation>登录</translation>
+    </message>
+    <message>
+        <source>Looking for more detail</source>
+        <translation type="obsolete">点击查看详情</translation>
+    </message>
+    <message>
+        <source>More online fonts</source>
+        <translation>换一组</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation>在线字体</translation>
+    </message>
+    <message>
+        <source>Online Fonts Update</source>
+        <translation type="obsolete">换一组</translation>
+    </message>
+    <message>
+        <source>Pause. Click to continue</source>
+        <translation>暂停，点击继续下载字体</translation>
+    </message>
+    <message>
+        <source>Pause. Click yo continue</source>
+        <translation type="obsolete">暂停，点击继续下载字体</translation>
+    </message>
+    <message>
+        <source>Pay font, which is free for VIP.
+Click the icon for more details.</source>
+        <translation>付费字体，白银会员免费
+点击图标查看更多详情</translation>
+    </message>
+    <message>
+        <source>Please login first</source>
+        <translation type="obsolete">使用在线字体，需登录账号
+点击图标即可登录</translation>
+    </message>
+    <message>
+        <source>Press to continue</source>
+        <translation type="obsolete">暂停，点击继续下载字体</translation>
+    </message>
+    <message>
+        <source>Press to pause</source>
+        <translation type="obsolete">正在下载字体，请稍候...</translation>
+    </message>
+    <message>
+        <source>Show Online Fonts</source>
+        <translation>点击显示在线字体</translation>
+    </message>
+    <message>
+        <source>Using online fonts needs to sign in.
+Click the icon to sign in.</source>
+        <translation>使用在线字体，需登录账号
+点击图标即可登录</translation>
+    </message>
+    <message>
+        <source>VIP font, please upgrade to VIP first</source>
+        <translation type="obsolete">付费字体，白银会员免费
+点击图标查看更多详情</translation>
+    </message>
+    <message>
+        <source>VIP font, please upgrade to VIP first.
+Click the icon for more details.</source>
+        <translation type="obsolete">付费字体，白银会员免费
+点击图标查看更多详情</translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
+        <translation type="obsolete">您的会员即将到期
+点击图标续费即可享折扣优惠</translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired.
+Click to recharge for more discounts.</source>
+        <translation>您的会员即将到期
+点击图标续费即可享折扣优惠</translation>
     </message>
 </context>
 <context>
@@ -3707,12 +4368,16 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>进入浏览模式</translation>
     </message>
     <message>
-        <source>Input Serial Nummber</source>
-        <translation>输入序列号</translation>
+        <source>Input Serial Number</source>
+        <translation type="unfinished">输入序列号</translation>
     </message>
     <message>
-        <source>Kingsoft Online Store.</source>
-        <translation>金山软件在线服务</translation>
+        <source>Input Serial Nummber</source>
+        <translation type="obsolete">输入序列号</translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation type="unfinished">购买序列号</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
@@ -3723,31 +4388,39 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>升级到个人版</translation>
     </message>
     <message>
-        <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
-        <translation>您使用的WPS Office已过试用期，将禁用打印功能。请输入正式的序列号，或者点击下方链接，购买正式序列号。</translation>
+        <source>WPS Office Free.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your Kingsoft Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>因为您使用的WPS Office已过试用期，所以以后您本机的WPS Office将变为不能进行键盘输入的浏览模式。如果您输入购买的序列号，将可以使用全部功能。您可以点击下方链接，以查看最新的产品信息。</translation>
+        <source>WPS Online Store.</source>
+        <translation>金山软件在线服务</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您也可以下载</translation>
     </message>
     <message>
-        <source>Kingsoft Office Free.</source>
-        <translation type="unfinished"></translation>
+        <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
+        <translation type="obsolete">您使用的WPS Office已过试用期，将禁用打印功能。请输入正式的序列号，或者点击下方链接，购买正式序列号。</translation>
     </message>
     <message>
-        <source>Purchase Now</source>
-        <translation type="unfinished"></translation>
+        <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
+        <translation>您使用的WPS Office已过试用期，将禁用打印功能。请输入正式的序列号，或者点击下方链接，购买正式序列号。</translation>
+    </message>
+    <message>
+        <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
+        <translation>因为您使用的WPS Office已过试用期，所以以后您本机的WPS Office将变为不能进行键盘输入的浏览模式。如果您输入购买的序列号，将可以使用全部功能。您可以点击下方链接，以查看最新的产品信息。</translation>
     </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
     <message>
-        <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation>粘贴链接将创建一个到源文件的快捷方式，对源文件的更改将反映到您的文档中。</translation>
+    </message>
+    <message>
+        <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <translation type="obsolete">粘贴链接将创建一个到源文件的快捷方式，对源文件的更改将反映到您的文档中。</translation>
     </message>
     <message>
         <source>Open Image</source>
@@ -3762,7 +4435,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>未知格式粘贴源！</translation>
     </message>
     <message>
-        <source>Kingsoft Writer</source>
+        <source>WPS Writer</source>
         <translation>WPS 文字</translation>
     </message>
 </context>
@@ -3781,6 +4454,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPrinter</name>
     <message>
         <source>&amp;Inverse ouput</source>
+        <translation type="obsolete">反片打印(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Inverse output</source>
         <translation>反片打印(&amp;I)</translation>
     </message>
     <message>
@@ -3794,6 +4471,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Comment:</source>
         <translation>备注:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
@@ -3836,8 +4517,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>状态:</translation>
     </message>
     <message>
-        <source>The printer &quot;%1&quot; returned an error!</source>
+        <source>The printer &quot;%1&quot; encountered an error!</source>
         <translation>打印机 &quot;%1&quot; 遇到了错误！</translation>
+    </message>
+    <message>
+        <source>The printer &quot;%1&quot; returned an error!</source>
+        <translation type="obsolete">打印机 &quot;%1&quot; 遇到了错误！</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -3866,8 +4551,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxPropertyDlg</name>
     <message>
-        <source>%L1byte</source>
+        <source>%L1 byte</source>
         <translation>%L1 字节</translation>
+    </message>
+    <message>
+        <source>%L1byte</source>
+        <translation type="obsolete">%L1 字节</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -3876,18 +4565,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>&amp;Modify</source>
         <translation>更改(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Property</source>
-        <translation>属性</translation>
-    </message>
-    <message>
-        <source>WPS perform 2012</source>
-        <translation type="obsolete">WPS 演示 2012</translation>
-    </message>
-    <message>
-        <source>Your input data do not match the type specified, value should be text!</source>
-        <translation>输入的值与指定的类型不匹配，该值将为文本。</translation>
     </message>
     <message>
         <source>Checker</source>
@@ -3918,6 +4595,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>完成日期</translation>
     </message>
     <message>
+        <source>Forward to</source>
+        <translation>转发到</translation>
+    </message>
+    <message>
         <source>From</source>
         <translation>接受自</translation>
     </message>
@@ -3928,6 +4609,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Layout</source>
         <translation>布置</translation>
+    </message>
+    <message>
+        <source>N&amp;o</source>
+        <translation type="obsolete">否</translation>
     </message>
     <message>
         <source>No</source>
@@ -3954,12 +4639,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>项目</translation>
     </message>
     <message>
+        <source>Property</source>
+        <translation>属性</translation>
+    </message>
+    <message>
         <source>Publisher</source>
         <translation>出版商</translation>
     </message>
     <message>
         <source>Purpose</source>
         <translation>用途</translation>
+    </message>
+    <message>
+        <source>Record Date</source>
+        <translation>记录日期</translation>
     </message>
     <message>
         <source>Recorder</source>
@@ -3982,20 +4675,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>状态</translation>
     </message>
     <message>
-        <source>Record Date</source>
-        <translation>记录日期</translation>
-    </message>
-    <message>
         <source>Target</source>
         <translation>目标</translation>
     </message>
     <message>
-        <source>Forward to</source>
-        <translation>转发到</translation>
+        <source>The value entered does not match the specified type. The value will be stored as text.</source>
+        <translation>输入的值与指定的类型不匹配，该值将为文本。</translation>
     </message>
     <message>
         <source>Typer</source>
         <translation>打字员</translation>
+    </message>
+    <message>
+        <source>WPS perform 2012</source>
+        <translation type="obsolete">WPS 演示 2012</translation>
     </message>
     <message>
         <source>Work Group</source>
@@ -4006,16 +4699,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>是</translation>
     </message>
     <message>
-        <source>yyyy-MM-dd</source>
-        <translation>yyyy-MM-dd</translation>
-    </message>
-    <message>
-        <source>yes</source>
-        <translation type="unfinished"></translation>
+        <source>Your input data do not match the type specified, value should be text!</source>
+        <translation type="obsolete">输入的值与指定的类型不匹配，该值将为文本。</translation>
     </message>
     <message>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">否</translation>
+    </message>
+    <message>
+        <source>yes</source>
+        <translation type="obsolete">是</translation>
+    </message>
+    <message>
+        <source>yyyy-MM-dd</source>
+        <translation>yyyy-MM-dd</translation>
     </message>
 </context>
 <context>
@@ -4029,12 +4726,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>所有命令</translation>
     </message>
     <message>
-        <source>Are you sure to reset the customization data of all users?</source>
+        <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
         <translation>是否确实要重置快速访问工具栏以恢复为默认状态？</translation>
+    </message>
+    <message>
+        <source>Are you sure to reset the customization data of all users?</source>
+        <translation type="obsolete">是否确实要重置快速访问工具栏以恢复为默认状态？</translation>
     </message>
     <message>
         <source>Border</source>
         <translation>边框</translation>
+    </message>
+    <message>
+        <source>Common</source>
+        <translation>常用命令</translation>
     </message>
     <message>
         <source>Move down</source>
@@ -4057,8 +4762,16 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>重置</translation>
     </message>
     <message>
+        <source>Reset Custom</source>
+        <translation>重置自定义</translation>
+    </message>
+    <message>
         <source>Separator</source>
         <translation>分隔符</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation>形状大小</translation>
     </message>
     <message>
         <source>The selected command is already on the Quick Access Toolbar!</source>
@@ -4067,18 +4780,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Undo</source>
         <translation>撤销</translation>
-    </message>
-    <message>
-        <source>Common</source>
-        <translation>常用命令</translation>
-    </message>
-    <message>
-        <source>Reset Custom</source>
-        <translation>重置自定义</translation>
-    </message>
-    <message>
-        <source>Shape Size</source>
-        <translation>形状大小</translation>
     </message>
 </context>
 <context>
@@ -4092,12 +4793,16 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">删除(&amp;R)</translation>
     </message>
     <message>
-        <source>Open(&amp;O)</source>
-        <translation type="obsolete">打开(&amp;O)</translation>
+        <source>Delete</source>
+        <translation>清除记录</translation>
     </message>
     <message>
         <source>Delete Record</source>
-        <translation>清除记录</translation>
+        <translation type="obsolete">清除记录</translation>
+    </message>
+    <message>
+        <source>Open(&amp;O)</source>
+        <translation type="obsolete">打开(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -4115,6 +4820,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxRecentFilePageCommand</name>
     <message>
         <source>Can not find the folder &quot;%1&quot;, it may be deleted, moved or renamed </source>
+        <translation type="obsolete">无法找到目录 &quot;%1&quot;，该目录有可能已被删除，移动或者重命名。</translation>
+    </message>
+    <message>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation>无法找到目录 &quot;%1&quot;，该目录有可能已被删除，移动或者重命名。</translation>
     </message>
 </context>
@@ -4155,31 +4864,92 @@ run. All other signed and unsigned macros are disabled.</source>
 <context>
     <name>KxSerchCtrl</name>
     <message>
-        <source>Please input command name to search</source>
+        <source>Please enter name to search</source>
         <translation>查找</translation>
+    </message>
+    <message>
+        <source>Please input command name to search</source>
+        <translation type="obsolete">查找</translation>
     </message>
 </context>
 <context>
     <name>KxSetSpellcheckLanguageDlg</name>
     <message>
         <source>Choose Spellcheck Installation Package</source>
+        <translation type="obsolete">选择拼写检查安装包</translation>
+    </message>
+    <message>
+        <source>Choose installation package of Spell Check</source>
         <translation>选择拼写检查安装包</translation>
     </message>
     <message>
-        <source>ZIP File (*.zip)</source>
-        <translation>压缩文档 (*.zip)</translation>
+        <source>Install Spellcheck Package</source>
+        <translation type="obsolete">安装拼写检查包</translation>
     </message>
     <message>
-        <source>Install Spellcheck Package</source>
+        <source>Install the Spell Check package</source>
         <translation>安装拼写检查包</translation>
     </message>
     <message>
         <source>Installation fails, make sure to install the complete package!</source>
+        <translation type="obsolete">安装失败，请确保安装包的完整性！</translation>
+    </message>
+    <message>
+        <source>Installation fails, make sure to install the complete package.</source>
         <translation>安装失败，请确保安装包的完整性！</translation>
     </message>
     <message>
-        <source>Spellcheck language already exists.</source>
-        <translation>拼写检查语言已存在。</translation>
+        <source>Installation fails, the spellcheck language is being used!</source>
+        <translation type="obsolete">安装失败，该拼写检查语言正在使用！</translation>
+    </message>
+    <message>
+        <source>The installation is failed, for the language of the package is being used.</source>
+        <translation>安装失败，该拼写检查语言正在使用！</translation>
+    </message>
+    <message>
+        <source>The installation is failed. Please make sure the integrity of the package.</source>
+        <translation type="obsolete">安装失败，请确保安装包的完整性！</translation>
+    </message>
+    <message>
+        <source>The installed user package has been removed,
+but the system package is still reserved!</source>
+        <translation type="obsolete">已安装的用户包已经被移除，
+其自带的系统包仍然被保留！</translation>
+    </message>
+    <message>
+        <source>The installed user package has been removed, 
+but the included system package is reserved.</source>
+        <translation>已安装的用户包已经被移除，
+其自带的系统包仍然被保留！</translation>
+    </message>
+    <message>
+        <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
+        <translation>该拼写检查语言已经存在。你是否要覆盖它？</translation>
+    </message>
+    <message>
+        <source>The language of Spell Check already exists. Do you want to continue installing it?</source>
+        <translation type="obsolete">该拼写检查语言已经存在。你是否要覆盖它？</translation>
+    </message>
+    <message>
+        <source>The spellcheck language has already existed.
+Do you want to override it?</source>
+        <translation type="obsolete">该拼写检查语言已经存在。你是否要覆盖它？</translation>
+    </message>
+    <message>
+        <source>Uninstall Spell Check Package</source>
+        <translation>卸载拼写检查包</translation>
+    </message>
+    <message>
+        <source>Uninstall Spellcheck Package</source>
+        <translation type="obsolete">卸载拼写检查包</translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation type="obsolete">压缩文档 (*.zip)</translation>
+    </message>
+    <message>
+        <source>Zip File (*.zip)</source>
+        <translation>压缩文档 (*.zip)</translation>
     </message>
 </context>
 <context>
@@ -4200,133 +4970,209 @@ run. All other signed and unsigned macros are disabled.</source>
 <context>
     <name>KxStartup</name>
     <message>
-        <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
-        <translation>对话框打开时命令无法执行。单击“确定”，然后关闭对话框再试。</translation>
+        <source> is not a valid file!</source>
+        <translation type="obsolete">不是一个有效的文件！</translation>
     </message>
     <message>
-        <source> is not a valid file!</source>
+        <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
+        <translation type="obsolete">对话框打开时命令无法执行。单击“确定”，然后关闭对话框再试。</translation>
+    </message>
+    <message>
+        <source>Not a valid file.</source>
         <translation>不是一个有效的文件！</translation>
+    </message>
+    <message>
+        <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
+        <translation>对话框打开时命令无法执行。单击“确定”，然后关闭对话框再试。</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinModel</name>
     <message>
-        <source>ongmani</source>
-        <translation>2013 素雅黑</translation>
-    </message>
-    <message>
-        <source>rainbow</source>
+        <source>2012 Style</source>
         <translation>2012 风格</translation>
     </message>
     <message>
-        <source>classics</source>
+        <source>2013 Elegant Black</source>
+        <translation>2013 素雅黑</translation>
+    </message>
+    <message>
+        <source>Classic Style</source>
         <translation>经典风格</translation>
+    </message>
+    <message>
+        <source>classics</source>
+        <translation type="obsolete">经典风格</translation>
+    </message>
+    <message>
+        <source>ongmani</source>
+        <translation type="obsolete">2013 素雅黑</translation>
+    </message>
+    <message>
+        <source>rainbow</source>
+        <translation type="obsolete">2012 风格</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinWidget</name>
     <message>
-        <source>Skin manager</source>
-        <translation>皮肤管理</translation>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>更改(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
         <translation type="obsolete">界面布局更改将在下次启动WPS Office时生效</translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation>确定(&amp;O)</translation>
+        <source>Skin Management</source>
+        <translation>皮肤管理</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>取消(&amp;C)</translation>
+        <source>Skin Manager</source>
+        <translation type="obsolete">皮肤管理</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>关闭</translation>
+        <source>Skin manager</source>
+        <translation type="obsolete">皮肤管理</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchUiTip</name>
     <message>
-        <source>layou will change next start up.</source>
-        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
+        <source>I already know</source>
+        <translation>我知道了</translation>
     </message>
     <message>
         <source>I has understand</source>
         <translation type="obsolete">我知道了</translation>
     </message>
     <message>
-        <source>The change takes effect the next time the Kingsoft Office is started.</source>
-        <translation type="unfinished">界面布局更改将在下次启动 WPS Office 时生效</translation>
+        <source>I have understood</source>
+        <translation type="obsolete">我知道了</translation>
     </message>
     <message>
-        <source>I have understood</source>
-        <translation>我知道了</translation>
+        <source>I&apos;ve already known</source>
+        <translation type="obsolete">我知道了</translation>
+    </message>
+    <message>
+        <source>The change takes effect the next time the WPS Office is started.</source>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting</source>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office</source>
+        <translation>界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
+    <message>
+        <source>layou will change next start up.</source>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchView</name>
     <message>
+        <source>Current locale cannot apply this skin.</source>
+        <translation>当前区域不能使用这个皮肤。</translation>
+    </message>
+    <message>
+        <source>Restart to make changes</source>
+        <translation>需重启生效</translation>
+    </message>
+    <message>
         <source>This locale can not use the skin!</source>
-        <translation>当前区域不能使用这个皮肤！</translation>
+        <translation type="obsolete">当前区域不能使用这个皮肤。</translation>
     </message>
     <message>
         <source>restart will change</source>
-        <translation>重启生效</translation>
+        <translation type="obsolete">需重启生效</translation>
     </message>
 </context>
 <context>
     <name>KxSymbolGalleryModel</name>
     <message>
         <source>Custom Symbols</source>
+        <translation type="obsolete">自定义符号:</translation>
+    </message>
+    <message>
+        <source>Custom Symbols:</source>
         <translation>自定义符号:</translation>
     </message>
     <message>
         <source>Recently Used Symbols</source>
+        <translation type="obsolete">近期使用的符号：</translation>
+    </message>
+    <message>
+        <source>Recently Used Symbols:</source>
         <translation>近期使用的符号：</translation>
     </message>
 </context>
 <context>
     <name>KxSystemCheckerCommand</name>
     <message>
-        <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
-        <translation type="obsolete">系统缺失字体：%1，WPS无法正确地显示某些符号（公式）！</translation>
-    </message>
-    <message>
-        <source>Missing libcups.so: can not access printer!</source>
-        <translation>系统缺失cups库：WPS无法访问打印机！</translation>
-    </message>
-    <message>
-        <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
-        <translation>系统DPI不对称，WPS可能存在显示问题！</translation>
-    </message>
-    <message>
         <source>, </source>
         <translation>、</translation>
     </message>
     <message>
+        <source>Missing Cups libraries. Cannot access the printer!</source>
+        <translation type="obsolete">系统缺失cups库：WPS无法访问打印机！</translation>
+    </message>
+    <message>
+        <source>Missing Cups libraries. Cannot access the printer.</source>
+        <translation>系统缺失cups库：WPS无法访问打印机！</translation>
+    </message>
+    <message>
+        <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
+        <translation type="obsolete">系统缺失字体：%1，WPS无法正确地显示某些符号（公式）！</translation>
+    </message>
+    <message>
+        <source>Missing font: %1. Cannot show some symbols or formula correctly!</source>
+        <translation type="obsolete">系统缺失字体：%1，WPS无法正确地显示某些符号（公式）！</translation>
+    </message>
+    <message>
+        <source>Missing libcups.so: can not access printer!</source>
+        <translation type="obsolete">系统缺失cups库：WPS无法访问打印机！</translation>
+    </message>
+    <message>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
+        <translation>系统缺失字体：%1，WPS无法正确地显示某些符号（公式）！</translation>
+    </message>
+    <message>
         <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
-        <translation type="unfinished">系统缺失字体：%1，WPS可能无法正确地显示某些公式符号！</translation>
+        <translation type="obsolete">系统缺失字体：%1，WPS无法正确地显示某些符号（公式）！</translation>
+    </message>
+    <message>
+        <source>System DPI is asymmetric. WPS Office may have display issues.</source>
+        <translation>系统DPI不对称，WPS可能存在显示问题！</translation>
+    </message>
+    <message>
+        <source>WPS Office for Linux on asymmetry dpi screen not tested currently!</source>
+        <translation type="obsolete">系统DPI不对称，WPS可能存在显示问题！</translation>
+    </message>
+    <message>
+        <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
+        <translation type="obsolete">系统DPI不对称，WPS可能存在显示问题！</translation>
     </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
-        <source>Checking...</source>
-        <translation>正在检查...</translation>
-    </message>
-    <message>
         <source>Checking completed!</source>
         <translation>检测完成!</translation>
     </message>
     <message>
-        <source>System Checking</source>
-        <translation type="obsolete">系统检查</translation>
-    </message>
-    <message>
-        <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
-        <translation type="obsolete">检测到您的系统存在以下问题，可能导致WPS for Linux不能正确的工作。</translation>
+        <source>Checking...</source>
+        <translation>正在检查...</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -4337,20 +5183,44 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>图标</translation>
     </message>
     <message>
+        <source>Problems below are detected in the system.</source>
+        <translation>检测到系统存在以下问题：</translation>
+    </message>
+    <message>
         <source>Resolution</source>
         <translation>解决方案</translation>
+    </message>
+    <message>
+        <source>Some issues are detected in your system, which may cause WPS Office for Linux run improperly on your computer.</source>
+        <translation type="obsolete">检测到您的系统存在以下问题，可能导致WPS for Linux不能正确的工作。</translation>
     </message>
     <message>
         <source>System Check</source>
         <translation type="unfinished">系统检查</translation>
     </message>
     <message>
+        <source>System Checking</source>
+        <translation type="obsolete">系统检查</translation>
+    </message>
+    <message>
         <source>The following issues were detected on this system:</source>
-        <translation type="unfinished">检测到系统存在以下问题：</translation>
+        <translation type="obsolete">检测到系统存在以下问题：</translation>
     </message>
 </context>
 <context>
     <name>KxTabbarMenuActCommand</name>
+    <message>
+        <source>Disable Title Switching in Task Window</source>
+        <translation>禁用任务窗格标题切换方式</translation>
+    </message>
+    <message>
+        <source>Disable select drag menu</source>
+        <translation type="obsolete">隐藏任务窗格自定义按钮</translation>
+    </message>
+    <message>
+        <source>Disable title drag menu</source>
+        <translation type="obsolete">禁用任务窗格标题切换方式</translation>
+    </message>
     <message>
         <source>Dock left</source>
         <translation>靠左</translation>
@@ -4360,32 +5230,52 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>靠右</translation>
     </message>
     <message>
+        <source>Enable Title Switching in Task Window</source>
+        <translation>启用任务窗格标题切换方式</translation>
+    </message>
+    <message>
+        <source>Enable select drag menu</source>
+        <translation type="obsolete">显示任务窗格自定义按钮</translation>
+    </message>
+    <message>
+        <source>Enable title drag menu</source>
+        <translation type="obsolete">启用任务窗格标题切换方式</translation>
+    </message>
+    <message>
         <source>Hide</source>
         <translation>隐藏</translation>
     </message>
     <message>
-        <source>Disable title drag menu</source>
-        <translation>禁用任务窗格标题切换方式</translation>
+        <source>Hide Custom Button in Task Window</source>
+        <translation>隐藏任务窗格自定义按钮</translation>
     </message>
     <message>
-        <source>Enable title drag menu</source>
-        <translation>启用任务窗格标题切换方式</translation>
+        <source>Hide button text</source>
+        <translation type="obsolete">只显示图标</translation>
     </message>
     <message>
-        <source>hide button text</source>
-        <translation>只显示图标</translation>
-    </message>
-    <message>
-        <source>show button text</source>
+        <source>Show Button Text</source>
         <translation>在图标下显示名称</translation>
     </message>
     <message>
-        <source>Disable select drag menu</source>
-        <translation>禁用任务窗格自定义按钮</translation>
+        <source>Show Custom Button in Task Window</source>
+        <translation>显示任务窗格自定义按钮</translation>
     </message>
     <message>
-        <source>Enable select drag menu</source>
-        <translation>显示任务窗格自定义按钮</translation>
+        <source>Show Icon Only</source>
+        <translation>只显示图标</translation>
+    </message>
+    <message>
+        <source>Show button text</source>
+        <translation type="obsolete">在图标下显示名称</translation>
+    </message>
+    <message>
+        <source>hide button text</source>
+        <translation type="obsolete">只显示图标</translation>
+    </message>
+    <message>
+        <source>show button text</source>
+        <translation type="obsolete">在图标下显示名称</translation>
     </message>
 </context>
 <context>
@@ -4407,6 +5297,14 @@ run. All other signed and unsigned macros are disabled.</source>
     <name>KxTaskTabbar</name>
     <message>
         <source>Pannel position</source>
+        <translation type="obsolete">任务窗格位置</translation>
+    </message>
+    <message>
+        <source>Task pane location</source>
+        <translation type="obsolete">任务窗格位置</translation>
+    </message>
+    <message>
+        <source>Task window location</source>
         <translation>任务窗格位置</translation>
     </message>
 </context>
@@ -4443,8 +5341,12 @@ run. All other signed and unsigned macros are disabled.</source>
 <context>
     <name>KxTextBoxWidget</name>
     <message>
-        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
         <translation>文本框中含有对象或表格，而可缩放或旋转的文本框不能含有对象或表格，如果要设置该属性，对象或表格将被删除，是否继续？</translation>
+    </message>
+    <message>
+        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <translation type="obsolete">文本框中含有对象或表格，而可缩放或旋转的文本框不能含有对象或表格，如果要设置该属性，对象或表格将被删除，是否继续？</translation>
     </message>
 </context>
 <context>
@@ -4454,14 +5356,22 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
+        <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
         <translation>非常抱歉，刚才发生故障。经努力抢修，现已基本恢复现场。</translation>
+    </message>
+    <message>
+        <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
+        <translation type="obsolete">非常抱歉，刚才发生故障。经努力抢修，现已基本恢复现场。</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShape</name>
     <message>
         <source>Auto Shapes:</source>
+        <translation type="obsolete">自选图形:</translation>
+    </message>
+    <message>
+        <source>AutoShapes:</source>
         <translation>自选图形:</translation>
     </message>
     <message>
@@ -4500,6 +5410,14 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation type="obsolete">浏览...</translation>
     </message>
     <message>
+        <source>Clear Backup Files</source>
+        <translation>清除备份文件</translation>
+    </message>
+    <message>
+        <source>Clear Backups</source>
+        <translation type="obsolete">清除备份文件</translation>
+    </message>
+    <message>
         <source>Delete all</source>
         <translation type="obsolete">全部删除</translation>
     </message>
@@ -4512,39 +5430,39 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation type="obsolete">如果您已经另存了重要文档，可以删除此处文件。</translation>
     </message>
     <message>
-        <source>Show backup file notice.</source>
-        <translation type="obsolete">备份文件提示(&amp;S)</translation>
+        <source>Open Backup Folder</source>
+        <translation>查看其他备份</translation>
     </message>
     <message>
-        <source>View Other Backups</source>
-        <translation type="obsolete">查看其他备份</translation>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show backup file notice.</source>
+        <translation type="obsolete">备份文件提示(&amp;S)</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
         <translation>您可以通过以下文件列表，恢复异常退出之前的工作状态。</translation>
     </message>
     <message>
-        <source>Clear Backup Files</source>
-        <translation type="obsolete">清除备份文件</translation>
-    </message>
-    <message>
-        <source>Clear Backups</source>
-        <translation>清除备份文件</translation>
-    </message>
-    <message>
-        <source>Open Backup Folder</source>
-        <translation>打开备份目录</translation>
+        <source>View Other Backups</source>
+        <translation type="obsolete">查看其他备份</translation>
     </message>
 </context>
 <context>
     <name>KxTpBackup</name>
+    <message>
+        <source>Are you sure to delete all files?</source>
+        <translation>确定要删除全部文件？</translation>
+    </message>
     <message>
         <source>Browse...</source>
         <translation type="obsolete">浏览...</translation>
     </message>
     <message>
         <source>Cannot Remove All Backup Files</source>
-        <translation>一些文件无法删除，可能正被占用。</translation>
+        <translation type="obsolete">一些文件无法删除，可能正被占用。</translation>
     </message>
     <message>
         <source>Cannot Remove Backup File</source>
@@ -4564,7 +5482,11 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>Remove All Warnings</source>
-        <translation>确定要删除全部文件？</translation>
+        <translation type="obsolete">确定要删除全部文件？</translation>
+    </message>
+    <message>
+        <source>Some files cannot be deleted. They may be occupied.</source>
+        <translation>一些文件无法删除，可能正被占用。</translation>
     </message>
 </context>
 <context>
@@ -4578,8 +5500,12 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>剪贴画</translation>
     </message>
     <message>
-        <source>Preview:</source>
+        <source>Preview</source>
         <translation>预览</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation type="obsolete">预览</translation>
     </message>
 </context>
 <context>
@@ -4590,6 +5516,10 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>Click item to paste:</source>
+        <translation type="obsolete">单击项目进行粘贴</translation>
+    </message>
+    <message>
+        <source>Click to Paste:</source>
         <translation type="obsolete">单击项目进行粘贴</translation>
     </message>
     <message>
@@ -4618,6 +5548,10 @@ run. All other signed and unsigned macros are disabled.</source>
     <message>
         <source>&amp;Auto display WPS clipboard when copying</source>
         <translation type="obsolete">复制时自动显示 WPS 剪贴板(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Collect Data Without Showing Clipboard</source>
+        <translation type="obsolete">收集而不显示 WPS 剪贴板(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Collect data but don&apos;t display WPS clipboard</source>
@@ -4668,6 +5602,10 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation type="obsolete">将此项目固定到列表。</translation>
     </message>
     <message>
+        <source>Lock this item to the list.</source>
+        <translation type="obsolete">将此项目固定到列表。</translation>
+    </message>
+    <message>
         <source>Max lock itemCount 9</source>
         <translation type="obsolete">已达最大固定项目数 9。</translation>
     </message>
@@ -4676,8 +5614,16 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation type="obsolete">粘贴(P)</translation>
     </message>
     <message>
+        <source>Press Ctrl+C Twice to Show Clipboard</source>
+        <translation type="obsolete">按 Ctrl + C 两次后显示 WPS 剪贴板(&amp;P)</translation>
+    </message>
+    <message>
         <source>Reached max lock count</source>
         <translation type="obsolete">已达到最大锁定项目数。</translation>
+    </message>
+    <message>
+        <source>Show Clipboard &amp;Automatically When Copying</source>
+        <translation type="obsolete">复制时自动显示 WPS 剪贴板(&amp;A)</translation>
     </message>
     <message>
         <source>Unlock the Item</source>
@@ -4685,6 +5631,10 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>Unlock the Item.</source>
+        <translation type="obsolete">在列表中取消对此项目的固定。</translation>
+    </message>
+    <message>
+        <source>Unlock this item from the list.</source>
         <translation type="obsolete">在列表中取消对此项目的固定。</translation>
     </message>
     <message>
@@ -4697,90 +5647,21 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
 </context>
 <context>
-    <name>KxTpGoogleDocs</name>
-    <message>
-        <source>&lt;a href=&apos;lkCancelOpen&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkCancelUpload&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkSignIn&apos;&gt;Sign In&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkSignOut&apos;&gt;Sign Out&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure to logout from Google Docs?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel Opening</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel Uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open from Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opening...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign out from Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file format is not supported to upload!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This file can not be uploaded automatically
- because it is of Google Docs format.
- you can click Upload to upload it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Google Docs format file may lose data, continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload to Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>filename.wps</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxTpNativeWrapperContainer</name>
     <message>
         <source>Customize Animation:</source>
-        <translation>自定义动画：</translation>
+        <translation type="obsolete">自定义动画:</translation>
+    </message>
+    <message>
+        <source>Customize animation:</source>
+        <translation type="unfinished">自定义动画:</translation>
     </message>
     <message>
         <source>Object Select</source>
+        <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
         <translation>选择窗格</translation>
     </message>
 </context>
@@ -4791,11 +5672,11 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>根据设计模板</translation>
     </message>
     <message>
-        <source>Kingsoft Online Templates</source>
-        <translation>在线模板</translation>
+        <source>Manage</source>
+        <translation type="obsolete">管理</translation>
     </message>
     <message>
-        <source>Manage</source>
+        <source>Management</source>
         <translation>管理</translation>
     </message>
     <message>
@@ -4807,16 +5688,28 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>新建空白文档</translation>
     </message>
     <message>
-        <source>New from Default Template</source>
-        <translation>从默认模板新建</translation>
-    </message>
-    <message>
         <source>New From Other Templates...</source>
         <translation type="obsolete">本机上的模板...</translation>
     </message>
     <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <source>New from Default Template</source>
+        <translation>从默认模板新建</translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation>从在线模板新建</translation>
+    </message>
+    <message>
+        <source>New from Other Templates...</source>
+        <translation>本机上的模板...</translation>
+    </message>
+    <message>
+        <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
         <translation>打开最近文档记录管理对话框，清除部分或全部的文档打开记录</translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <translation type="obsolete">打开最近文档记录管理对话框，清除部分或全部的文档打开记录</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -4831,8 +5724,8 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>最近使用的文档</translation>
     </message>
     <message>
-        <source>New from Other Templates...</source>
-        <translation>本机上的模板...</translation>
+        <source>WPS Online Templates</source>
+        <translation type="obsolete">从在线模板新建</translation>
     </message>
 </context>
 <context>
@@ -4842,11 +5735,11 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>根据设计模板</translation>
     </message>
     <message>
-        <source>Kingsoft Online Templates</source>
-        <translation>在线模板</translation>
+        <source>Manage</source>
+        <translation type="obsolete">管理</translation>
     </message>
     <message>
-        <source>Manage</source>
+        <source>Management</source>
         <translation>管理</translation>
     </message>
     <message>
@@ -4858,16 +5751,32 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>新建空白文档</translation>
     </message>
     <message>
-        <source>New from Default Template</source>
-        <translation>从默认模板新建</translation>
-    </message>
-    <message>
         <source>New From Other Templates...</source>
         <translation type="obsolete">本机上的模板...</translation>
     </message>
     <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <source>New from Default Template</source>
+        <translation>从默认模板新建</translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation>从在线模板新建</translation>
+    </message>
+    <message>
+        <source>New from Other Templates...</source>
+        <translation>本机上的模板...</translation>
+    </message>
+    <message>
+        <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
         <translation>打开最近文档记录管理对话框，清除部分或全部的文档打开记录。</translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog box,and remove some or all of the recent file records.</source>
+        <translation type="obsolete">打开最近文档记录管理对话框，清除部分或全部的文档打开记录。</translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <translation type="obsolete">打开最近文档记录管理对话框，清除部分或全部的文档打开记录。</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -4882,8 +5791,8 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation>最近使用的文档</translation>
     </message>
     <message>
-        <source>New from Other Templates...</source>
-        <translation>本机上的模板...</translation>
+        <source>WPS Online Templates</source>
+        <translation type="obsolete">从在线模板新建</translation>
     </message>
 </context>
 <context>
@@ -4920,8 +5829,12 @@ run. All other signed and unsigned macros are disabled.</source>
 <context>
     <name>KxTrialExpireDlg</name>
     <message>
+        <source>Quit</source>
+        <translation type="unfinished">退出</translation>
+    </message>
+    <message>
         <source>quit</source>
-        <translation>退出</translation>
+        <translation type="obsolete">退出</translation>
     </message>
 </context>
 <context>
@@ -4949,12 +5862,8 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Continue trial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载</translation>
     </message>
     <message>
         <source>No</source>
@@ -4965,13 +5874,17 @@ run. All other signed and unsigned macros are disabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Purchase now to get full version of Kingsoft Office Professional.</source>
+        <source>Purchase now to get full version of WPS Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue Trial</source>
+        <translation type="unfinished">继续试用</translation>
     </message>
 </context>
 <context>
@@ -5085,6 +5998,10 @@ of services and features.</source>
         <translation></translation>
     </message>
     <message>
+        <source>cm</source>
+        <translation type="unfinished">厘米</translation>
+    </message>
+    <message>
         <source>pt, 2, 0, 1584, 0.25</source>
         <translation>宽度(&amp;D): {2, 0, 1584, 0.25?}</translation>
     </message>
@@ -5095,10 +6012,6 @@ of services and features.</source>
     <message>
         <source>ucWeight</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation>厘米</translation>
     </message>
 </context>
 <context>
@@ -5117,6 +6030,10 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Left</source>
+        <translation type="obsolete">左(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Left:</source>
         <translation>左(&amp;L):</translation>
     </message>
     <message>
@@ -5183,12 +6100,20 @@ of services and features.</source>
         <translation></translation>
     </message>
     <message>
+        <source>&amp;Best scale for slide show</source>
+        <translation>幻灯片放映最佳比例(&amp;B)</translation>
+    </message>
+    <message>
         <source>&amp;Height:</source>
         <translation>高度(&amp;H):</translation>
     </message>
     <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation>相对于图片的原始尺寸(&amp;R)</translation>
+    </message>
+    <message>
         <source>&amp;Rotation:</source>
-        <translation>旋转(&amp;T):</translation>
+        <translation type="obsolete">旋转(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -5216,7 +6141,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Best scale for slide show</source>
-        <translation>幻灯片放映最佳比例(&amp;B)</translation>
+        <translation type="obsolete">幻灯片放映最佳比例(&amp;B)</translation>
     </message>
     <message>
         <source>Form</source>
@@ -5239,8 +6164,12 @@ of services and features.</source>
         <translation>原始尺寸</translation>
     </message>
     <message>
+        <source>Re&amp;set</source>
+        <translation>重新设置(&amp;S)</translation>
+    </message>
+    <message>
         <source>Relative to original  picture size</source>
-        <translation>相对于图片的原始尺寸(&amp;R)</translation>
+        <translation type="obsolete">相对于图片的原始尺寸(&amp;R)</translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
@@ -5248,7 +6177,11 @@ of services and features.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation>重新设置(&amp;S)</translation>
+        <translation type="obsolete">重新设置(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation>旋转(&amp;T):</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -5306,6 +6239,10 @@ of services and features.</source>
         <translation>模板(&amp;T)</translation>
     </message>
     <message>
+        <source>Cannot be previewed.</source>
+        <translation>无法预览。</translation>
+    </message>
+    <message>
         <source>Create new</source>
         <translation>新建</translation>
     </message>
@@ -5336,7 +6273,7 @@ of services and features.</source>
     <message>
         <source>The icon you selected
 cannot be previewed.</source>
-        <translation>无法预览。</translation>
+        <translation type="obsolete">无法预览。</translation>
     </message>
     <message>
         <source>Up</source>
@@ -5359,23 +6296,31 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation>上(&amp;O):</translation>
+        <translation type="obsolete">上(&amp;O):</translation>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
         <translation>文字在自选图形中换行(&amp;W)</translation>
     </message>
     <message>
+        <source>Allow text to be wrapped by &amp;external object</source>
+        <translation>允许文字绕排外部对象(&amp;E)</translation>
+    </message>
+    <message>
         <source>Allow text to rotate with object</source>
+        <translation type="obsolete">允许文字随对象旋转(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Allow text to rotate with object(&amp;F)</source>
         <translation>允许文字随对象旋转(&amp;F)</translation>
     </message>
     <message>
         <source>Allow text to scale to frame</source>
-        <translation>允许文字随边框自动缩放(&amp;Z)</translation>
+        <translation type="obsolete">允许文字随边框自动缩放(&amp;Z)</translation>
     </message>
     <message>
-        <source>Allow text to be wrapped by &amp;external object</source>
-        <translation>允许文字绕排外部对象(&amp;E)</translation>
+        <source>Allow text to scale to frame(&amp;Z)</source>
+        <translation>允许文字随边框自动缩放(&amp;Z)</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -5403,11 +6348,19 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Resize autoshape to &amp;fit text</source>
+        <translation type="obsolete">重新调整自选图形以适应文本(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Resize autoshape to fit &amp;text</source>
         <translation>重新调整自选图形以适应文本(&amp;T)</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within autoshape by 90°</source>
         <translation>将自选图形中的文字旋转 90°(&amp;E)</translation>
+    </message>
+    <message>
+        <source>T&amp;op:</source>
+        <translation>上(&amp;O):</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
@@ -5452,6 +6405,10 @@ cannot be previewed.</source>
 <context>
     <name>QObject</name>
     <message>
+        <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
+        <translation type="obsolete">已经存在同名的文件“%1”，您确定要覆盖它吗？</translation>
+    </message>
+    <message>
         <source>All Fonts</source>
         <translation>所有字体</translation>
     </message>
@@ -5460,8 +6417,12 @@ cannot be previewed.</source>
         <translation>水绿色</translation>
     </message>
     <message>
+        <source>Auto Backup</source>
+        <translation type="obsolete">实时备份</translation>
+    </message>
+    <message>
         <source>AutoBackup</source>
-        <translation>实时备份</translation>
+        <translation type="unfinished">实时备份</translation>
     </message>
     <message>
         <source>Baby Blue</source>
@@ -5528,17 +6489,34 @@ cannot be previewed.</source>
         <translation type="obsolete">深青</translation>
     </message>
     <message>
-        <source>Do not check it when starting Kingsoft Office next time</source>
+        <source>Do not check it when starting WPS Office next time</source>
+        <translation type="obsolete">下次启动不再进行此项检查</translation>
+    </message>
+    <message>
+        <source>Do not check this when starting WPS Office next time</source>
         <translation>下次启动不再进行此项检查</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
-        <translation>以后不再提醒</translation>
+        <translation type="obsolete">以后不再提醒。</translation>
+    </message>
+    <message>
+        <source>Do not show this message again.</source>
+        <translation>以后不再提醒。</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
-        <translation>总是执行此操作，以后不再提醒</translation>
+        <translation type="obsolete">总是执行此操作，以后不再提醒。</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again. 
+Always take this action.</source>
+        <translation>总是执行此操作，以后不再提醒。</translation>
+    </message>
+    <message>
+        <source>File &quot;%1&quot; already exists. Are you sure you want to overwrite the existing file?</source>
+        <translation>已经存在同名的文件“%1”，您确定要覆盖它吗？</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -5657,10 +6635,8 @@ Always take this action</source>
         <translation>绿色</translation>
     </message>
     <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls and ppt files)</source>
-        <translation type="obsolete">WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？
-(系统默认会以WPS Office打开doc、xls、ppt等办公软件格式的文档)</translation>
+        <source>Invalid file name, please enter the correct file name</source>
+        <translation>文件名无效,请输入正确格式的文件名</translation>
     </message>
     <message>
         <source>Laurel Green</source>
@@ -5703,16 +6679,28 @@ Always take this action</source>
         <translation>橙色</translation>
     </message>
     <message>
+        <source>Overwrite File?</source>
+        <translation type="obsolete">覆盖文件吗？</translation>
+    </message>
+    <message>
+        <source>Overwrite file?</source>
+        <translation>覆盖文件吗？</translation>
+    </message>
+    <message>
         <source>Pink</source>
         <translation>粉红</translation>
     </message>
     <message>
         <source>Pink Rose</source>
-        <translation>玫瑰红</translation>
+        <translation type="obsolete">玫瑰红</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation>梅红</translation>
     </message>
     <message>
         <source>Plum Purple</source>
-        <translation>梅红</translation>
+        <translation type="obsolete">梅红</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
@@ -5723,12 +6711,34 @@ Always take this action</source>
         <translation>红色</translation>
     </message>
     <message>
+        <source>Rose</source>
+        <translation>玫瑰红</translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished">另存为</translation>
+    </message>
+    <message>
         <source>Sea Green</source>
         <translation>海绿</translation>
     </message>
     <message>
         <source>Sky Blue</source>
         <translation>天蓝</translation>
+    </message>
+    <message>
+        <source>The chosen spelling language has been deleted. Please choose a language again.</source>
+        <translation>所选择的拼写语言已经被删除，请重新选择拼写语言。</translation>
+    </message>
+    <message>
+        <source>The selected dict has been deleted, please select another dict.</source>
+        <translation type="obsolete">所选择的拼写语言已经被删除，请重新选择拼写语言。</translation>
+    </message>
+    <message>
+        <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
+(The system uses WPS Office as the default one to open %1 files)</source>
+        <translation type="unfinished">WPS Office 注册信息出现异常，将导致部分对象无法使用，建议您修复此问题，是否修复？
+(系统默认会以WPS Office打开%1等办公软件格式的文档)</translation>
     </message>
     <message>
         <source>Thumb Blue</source>
@@ -5743,6 +6753,18 @@ Always take this action</source>
         <translation>紫罗兰</translation>
     </message>
     <message>
+        <source>WPS Office is not the default office software, do you want to set it as the default one?
+(The system uses WPS Office as the default one to open %1 files)</source>
+        <translation type="obsolete">WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？
+(系统默认会以WPS Office打开%1等办公软件格式的文档)</translation>
+    </message>
+    <message>
+        <source>WPS Office is not the default office software. Do you want to set it as the default one?
+(The system uses WPS Office as the default one to open %1 files)</source>
+        <translation>WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？
+(系统默认会以WPS Office打开%1等办公软件格式的文档)</translation>
+    </message>
+    <message>
         <source>Wathet Blue</source>
         <translation>浅蓝</translation>
     </message>
@@ -5755,585 +6777,25 @@ Always take this action</source>
         <translation>黄色</translation>
     </message>
     <message>
-        <source>custom %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
+(The system uses WPS Office as the default one to open %1 files)</source>
         <translation type="obsolete">WPS Office 注册信息出现异常，将导致部分对象无法使用，建议您修复此问题，是否修复？
-(系统默认会以WPS Office打开doc、xls、ppt等办公软件格式的文档)</translation>
-    </message>
-    <message>
-        <source>Overwrite File?</source>
-        <translation>覆盖文件吗？</translation>
-    </message>
-    <message>
-        <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation>已经存在同名的文件“%1”，您确定要覆盖它吗？</translation>
-    </message>
-    <message>
-        <source>Arabic (Saudi Arabia)</source>
-        <translation type="obsolete">阿拉伯语（沙特阿拉伯）</translation>
-    </message>
-    <message>
-        <source>Chinese (Taiwan)</source>
-        <translation type="obsolete">中文繁体（台湾）</translation>
-    </message>
-    <message>
-        <source>German (Germany)</source>
-        <translation type="obsolete">德语</translation>
-    </message>
-    <message>
-        <source>English (United States)</source>
-        <translation type="obsolete">英语（美国）</translation>
-    </message>
-    <message>
-        <source>Spanish (Spain)</source>
-        <translation type="obsolete">西班牙语</translation>
-    </message>
-    <message>
-        <source>French (France)</source>
-        <translation type="obsolete">法语</translation>
-    </message>
-    <message>
-        <source>Italian (Italy)</source>
-        <translation type="obsolete">意大利语</translation>
-    </message>
-    <message>
-        <source>Dutch (The Netherlands)</source>
-        <translation type="obsolete">荷兰语（荷兰）</translation>
-    </message>
-    <message>
-        <source>Norwegian (Bokmål)</source>
-        <translation type="obsolete">挪威（博克马尔语）</translation>
-    </message>
-    <message>
-        <source>Portuguese (Brazil)</source>
-        <translation type="obsolete">葡萄牙语（巴西）</translation>
-    </message>
-    <message>
-        <source>Swedish (Sweden)</source>
-        <translation type="obsolete">瑞典语</translation>
-    </message>
-    <message>
-        <source>Azeri (Latin)</source>
-        <translation type="obsolete">阿泽（拉丁语）</translation>
-    </message>
-    <message>
-        <source>Malay (Malaysia)</source>
-        <translation type="obsolete">马来语（马来西亚）</translation>
-    </message>
-    <message>
-        <source>Uzbek (Latin)</source>
-        <translation type="obsolete">乌兹别克（拉丁语）</translation>
-    </message>
-    <message>
-        <source>Arabic (Iraq)</source>
-        <translation type="obsolete">阿拉伯语（伊拉克）</translation>
-    </message>
-    <message>
-        <source>Chinese (China)</source>
-        <translation type="obsolete">中文简体（中国）</translation>
-    </message>
-    <message>
-        <source>German (Switzerland)</source>
-        <translation type="obsolete">德语（瑞士）</translation>
-    </message>
-    <message>
-        <source>English (United Kingdom)</source>
-        <translation type="obsolete">英语（英国）</translation>
-    </message>
-    <message>
-        <source>Spanish (Mexico)</source>
-        <translation type="obsolete">西班牙（墨西哥）</translation>
-    </message>
-    <message>
-        <source>French (Belgium)</source>
-        <translation type="obsolete">法语（比利时）</translation>
-    </message>
-    <message>
-        <source>Italian (Switzerland)</source>
-        <translation type="obsolete">意大利语（瑞士）</translation>
-    </message>
-    <message>
-        <source>Dutch (Belgium)</source>
-        <translation type="obsolete">荷兰语（比利时)</translation>
-    </message>
-    <message>
-        <source>Norwegian (Nynorsk)</source>
-        <translation type="obsolete">新挪威语</translation>
-    </message>
-    <message>
-        <source>Portuguese (Portugal)</source>
-        <translation type="obsolete">葡萄牙语（葡萄牙）</translation>
-    </message>
-    <message>
-        <source>Romanian (Republic of Moldova)</source>
-        <translation type="obsolete">罗马尼亚（摩尔多瓦共和国语）</translation>
-    </message>
-    <message>
-        <source>Russian (Republic of Moldova)</source>
-        <translation type="obsolete">俄语（摩尔多瓦共和国）</translation>
-    </message>
-    <message>
-        <source>Serbian (Latin)</source>
-        <translation type="obsolete">塞尔维亚（拉丁语）</translation>
-    </message>
-    <message>
-        <source>Swedish (Finland)</source>
-        <translation type="obsolete">瑞典语（芬兰）</translation>
-    </message>
-    <message>
-        <source>Azeri (Cyrillic)</source>
-        <translation type="obsolete">阿泽里文（西里尔）</translation>
-    </message>
-    <message>
-        <source>Gaelic (Ireland)</source>
-        <translation type="obsolete">盖尔语（爱尔兰）</translation>
-    </message>
-    <message>
-        <source>Malay (Brunei)</source>
-        <translation type="obsolete">马来语（文莱）</translation>
-    </message>
-    <message>
-        <source>Uzbek (Cyrillic)</source>
-        <translation type="obsolete">乌兹别克（西里尔）</translation>
-    </message>
-    <message>
-        <source>Arabic (Egypt)</source>
-        <translation type="obsolete">阿拉伯语（埃及）</translation>
-    </message>
-    <message>
-        <source>Chinese (Hong Kong SAR)</source>
-        <translation type="obsolete">中文繁体（香港）</translation>
-    </message>
-    <message>
-        <source>German (Austria)</source>
-        <translation type="obsolete">德语（奥地利）</translation>
-    </message>
-    <message>
-        <source>English (Australia)</source>
-        <translation type="obsolete">英语（澳大利亚）</translation>
-    </message>
-    <message>
-        <source>French (Canada)</source>
-        <translation type="obsolete">法语（加拿大）</translation>
-    </message>
-    <message>
-        <source>Serbian (Cyrillic)</source>
-        <translation type="obsolete">塞尔维亚（西里尔）</translation>
-    </message>
-    <message>
-        <source>Arabic (Libya)</source>
-        <translation type="obsolete">阿拉伯语（利比亚）</translation>
-    </message>
-    <message>
-        <source>Chinese (Singapore)</source>
-        <translation type="obsolete">中文（新加坡）</translation>
-    </message>
-    <message>
-        <source>German (Luxembourg)</source>
-        <translation type="obsolete">德国（卢森堡）</translation>
-    </message>
-    <message>
-        <source>English (Canada)</source>
-        <translation type="obsolete">英语（加拿大）</translation>
-    </message>
-    <message>
-        <source>Spanish (Guatemala)</source>
-        <translation type="obsolete">西班牙语（危地马拉）</translation>
-    </message>
-    <message>
-        <source>French (Switzerland)</source>
-        <translation type="obsolete">法语（瑞士）</translation>
-    </message>
-    <message>
-        <source>Arabic (Algeria)</source>
-        <translation type="obsolete">阿拉伯语（阿尔及利亚）</translation>
-    </message>
-    <message>
-        <source>Chinese (Macau SAR)</source>
-        <translation type="obsolete">中文繁体（澳门）</translation>
-    </message>
-    <message>
-        <source>German (Liechtenstein)</source>
-        <translation type="obsolete">德语（列支敦士登）</translation>
-    </message>
-    <message>
-        <source>English (New Zealand)</source>
-        <translation type="obsolete">英语（新西兰）</translation>
-    </message>
-    <message>
-        <source>Spanish (Costa Rica)</source>
-        <translation type="obsolete">西班牙语（哥斯达黎加）</translation>
-    </message>
-    <message>
-        <source>French (Luxembourg)</source>
-        <translation type="obsolete">法语（卢森堡）</translation>
-    </message>
-    <message>
-        <source>Arabic (Morocco)</source>
-        <translation type="obsolete">阿拉伯语（摩洛哥）</translation>
-    </message>
-    <message>
-        <source>English (Ireland)</source>
-        <translation type="obsolete">英语（爱尔兰）</translation>
-    </message>
-    <message>
-        <source>Spanish (Panama)</source>
-        <translation type="obsolete">西班牙语（巴拿马）</translation>
-    </message>
-    <message>
-        <source>Arabic (Tunisia)</source>
-        <translation type="obsolete">阿拉伯语（突尼斯）</translation>
-    </message>
-    <message>
-        <source>English (South Africa)</source>
-        <translation type="obsolete">英语（南非）</translation>
-    </message>
-    <message>
-        <source>Spanish (Dominican Republic)</source>
-        <translation type="obsolete">西班牙语（多米尼加共和国）</translation>
-    </message>
-    <message>
-        <source>Arabic (Oman)</source>
-        <translation type="obsolete">阿拉伯语（阿曼）</translation>
-    </message>
-    <message>
-        <source>English (Jamaica)</source>
-        <translation type="obsolete">英语（牙买加）</translation>
-    </message>
-    <message>
-        <source>Spanish (Venezuela)</source>
-        <translation type="obsolete">西班牙语（委内瑞拉）</translation>
-    </message>
-    <message>
-        <source>Arabic (Yemen)</source>
-        <translation type="obsolete">阿拉伯语（也门）</translation>
-    </message>
-    <message>
-        <source>English (Caribbean)</source>
-        <translation type="obsolete">英语（加勒比）</translation>
-    </message>
-    <message>
-        <source>Spanish (Colombia)</source>
-        <translation type="obsolete">西班牙语（哥伦比亚）</translation>
-    </message>
-    <message>
-        <source>Arabic (Syria)</source>
-        <translation type="obsolete">阿拉伯语（叙利亚)</translation>
-    </message>
-    <message>
-        <source>English (Belize)</source>
-        <translation type="obsolete">英语（伯利兹）</translation>
-    </message>
-    <message>
-        <source>Spanish (Peru)</source>
-        <translation type="obsolete">西班牙语（秘鲁）</translation>
-    </message>
-    <message>
-        <source>Arabic (Jordan)</source>
-        <translation type="obsolete">阿拉伯文（约旦）</translation>
-    </message>
-    <message>
-        <source>English (Trinidad)</source>
-        <translation type="obsolete">英语（特立尼达）</translation>
-    </message>
-    <message>
-        <source>Spanish (Argentina)</source>
-        <translation type="obsolete">西班牙语（阿根廷）</translation>
-    </message>
-    <message>
-        <source>Arabic (Lebanon)</source>
-        <translation type="obsolete">阿拉伯语(黎巴嫩)</translation>
-    </message>
-    <message>
-        <source>Spanish (Ecuador)</source>
-        <translation type="obsolete">西班牙语（厄瓜多尔）</translation>
-    </message>
-    <message>
-        <source>Arabic (Kuwait)</source>
-        <translation type="obsolete">阿拉伯语（科威特）</translation>
-    </message>
-    <message>
-        <source>English (Phillippines)</source>
-        <translation type="obsolete">英语（菲律宾）</translation>
-    </message>
-    <message>
-        <source>Spanish (Chile)</source>
-        <translation type="obsolete">西班牙语（智利）</translation>
-    </message>
-    <message>
-        <source>Arabic (United Arab Emirates)</source>
-        <translation type="obsolete">阿拉伯语(阿拉伯联合酋长国)</translation>
-    </message>
-    <message>
-        <source>Spanish (Uruguay)</source>
-        <translation type="obsolete">西班牙语（乌拉圭）</translation>
-    </message>
-    <message>
-        <source>Arabic (Bahrain)</source>
-        <translation type="obsolete">阿拉伯语（巴林）</translation>
-    </message>
-    <message>
-        <source>Spanish (Paraguay)</source>
-        <translation type="obsolete">西班牙语（巴拉圭）</translation>
-    </message>
-    <message>
-        <source>Arabic (Qatar)</source>
-        <translation type="obsolete">阿拉伯语（卡塔尔）</translation>
-    </message>
-    <message>
-        <source>Spanish (Bolivia)</source>
-        <translation type="obsolete">西班牙语（萨尔瓦多）</translation>
-    </message>
-    <message>
-        <source>Spanish (El Salvador)</source>
-        <translation type="obsolete">西班牙语（萨尔瓦多）</translation>
-    </message>
-    <message>
-        <source>Spanish (Honduras)</source>
-        <translation type="obsolete">西班牙语（洪都拉斯）</translation>
-    </message>
-    <message>
-        <source>Spanish (Nicaragua)</source>
-        <translation type="obsolete">西班牙语（尼加拉瓜）</translation>
-    </message>
-    <message>
-        <source>Spanish (Puerto Rico)</source>
-        <translation type="obsolete">西班牙语（波多黎各）</translation>
-    </message>
-    <message>
-        <source>Russian</source>
-        <translation type="obsolete">俄语</translation>
-    </message>
-    <message>
-        <source>Bulgarian</source>
-        <translation type="obsolete">保加利亚语</translation>
-    </message>
-    <message>
-        <source>Catalan</source>
-        <translation type="obsolete">加泰罗尼亚语</translation>
-    </message>
-    <message>
-        <source>Czech</source>
-        <translation type="obsolete">捷克语</translation>
-    </message>
-    <message>
-        <source>Danish</source>
-        <translation type="obsolete">丹麦语</translation>
-    </message>
-    <message>
-        <source>Greek</source>
-        <translation type="obsolete">希腊语</translation>
-    </message>
-    <message>
-        <source>Finnish</source>
-        <translation type="obsolete">芬兰语</translation>
-    </message>
-    <message>
-        <source>Hebrew</source>
-        <translation type="obsolete">希伯来语</translation>
-    </message>
-    <message>
-        <source>Hungarian</source>
-        <translation type="obsolete">匈牙利语</translation>
-    </message>
-    <message>
-        <source>Icelandic</source>
-        <translation type="obsolete">冰岛语</translation>
-    </message>
-    <message>
-        <source>Japanese</source>
-        <translation type="obsolete">日本语</translation>
-    </message>
-    <message>
-        <source>Korean</source>
-        <translation type="obsolete">朝鲜语</translation>
-    </message>
-    <message>
-        <source>Polish</source>
-        <translation type="obsolete">波兰语</translation>
-    </message>
-    <message>
-        <source>Raeto-Romance</source>
-        <translation type="obsolete">里托罗曼斯文</translation>
-    </message>
-    <message>
-        <source>Romanian (Romania)</source>
-        <translation type="obsolete">罗马尼亚语（罗马尼亚）</translation>
-    </message>
-    <message>
-        <source>Croatian</source>
-        <translation type="obsolete">克罗地亚语</translation>
-    </message>
-    <message>
-        <source>Slovak</source>
-        <translation type="obsolete">斯洛伐克语</translation>
-    </message>
-    <message>
-        <source>Albanian</source>
-        <translation type="obsolete">阿尔巴尼亚语</translation>
-    </message>
-    <message>
-        <source>Thai</source>
-        <translation type="obsolete">泰语</translation>
-    </message>
-    <message>
-        <source>Turkish</source>
-        <translation type="obsolete">土耳其语</translation>
-    </message>
-    <message>
-        <source>Urdu</source>
-        <translation type="obsolete">乌尔都语</translation>
-    </message>
-    <message>
-        <source>Indonesian</source>
-        <translation type="obsolete">印尼语</translation>
-    </message>
-    <message>
-        <source>Ukrainian</source>
-        <translation type="obsolete">乌克兰语</translation>
-    </message>
-    <message>
-        <source>Belarusian</source>
-        <translation type="obsolete">白俄罗斯语</translation>
-    </message>
-    <message>
-        <source>Slovenian</source>
-        <translation type="obsolete">斯洛文尼亚语</translation>
-    </message>
-    <message>
-        <source>Estonian</source>
-        <translation type="obsolete">爱沙尼亚语</translation>
-    </message>
-    <message>
-        <source>Latvian</source>
-        <translation type="obsolete">拉脱维亚语</translation>
-    </message>
-    <message>
-        <source>Lithuanian</source>
-        <translation type="obsolete">立陶宛语</translation>
-    </message>
-    <message>
-        <source>Farsi</source>
-        <translation type="obsolete">波斯语</translation>
-    </message>
-    <message>
-        <source>Vietnamese</source>
-        <translation type="obsolete">越南语</translation>
-    </message>
-    <message>
-        <source>Armenian</source>
-        <translation type="obsolete">亚美尼亚语</translation>
-    </message>
-    <message>
-        <source>Basque</source>
-        <translation type="obsolete">巴斯克语</translation>
-    </message>
-    <message>
-        <source>Sorbian</source>
-        <translation type="obsolete">索布语</translation>
-    </message>
-    <message>
-        <source>FYRO Macedonian</source>
-        <translation type="obsolete">马其顿语</translation>
-    </message>
-    <message>
-        <source>Sutu</source>
-        <translation type="obsolete">苏图语</translation>
-    </message>
-    <message>
-        <source>Tsonga</source>
-        <translation type="obsolete">特松加语</translation>
-    </message>
-    <message>
-        <source>Setsuana</source>
-        <translation type="obsolete">刹那语</translation>
-    </message>
-    <message>
-        <source>Xhosa</source>
-        <translation type="obsolete">科萨语</translation>
-    </message>
-    <message>
-        <source>Zulu</source>
-        <translation type="obsolete">祖鲁语</translation>
-    </message>
-    <message>
-        <source>Afrikaans</source>
-        <translation type="obsolete">印地文</translation>
-    </message>
-    <message>
-        <source>Faroese</source>
-        <translation type="obsolete">法罗群岛语</translation>
-    </message>
-    <message>
-        <source>Hindi</source>
-        <translation type="obsolete">印地文</translation>
-    </message>
-    <message>
-        <source>Maltese</source>
-        <translation type="obsolete">马耳他语</translation>
-    </message>
-    <message>
-        <source>Gaelic (Scotland)</source>
-        <translation type="obsolete">盖尔语（苏格兰）</translation>
-    </message>
-    <message>
-        <source>Yiddish</source>
-        <translation type="obsolete">意第绪语</translation>
-    </message>
-    <message>
-        <source>Swahili</source>
-        <translation type="obsolete">斯瓦西里语</translation>
-    </message>
-    <message>
-        <source>Tatar</source>
-        <translation type="obsolete">鞑靼语</translation>
-    </message>
-    <message>
-        <source>Tamil</source>
-        <translation type="obsolete">泰米尔语</translation>
-    </message>
-    <message>
-        <source>Marathi</source>
-        <translation type="obsolete">马拉地语</translation>
-    </message>
-    <message>
-        <source>Sanskrit</source>
-        <translation type="obsolete">梵语</translation>
-    </message>
-    <message>
-        <source>The selected dict was deleted, please select another dict.</source>
-        <translation type="obsolete">所选择的拼写语言已经被删除，请重新选择拼写语言。</translation>
-    </message>
-    <message>
-        <source>The selected dict has been deleted, please select another dict.</source>
-        <translation>所选择的拼写语言已经被删除，请重新选择拼写语言。</translation>
-    </message>
-    <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="obsolete">WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？(系统默认会以WPS Office打开doc、xls、ppt等办公软件格式的文档)</translation>
-    </message>
-    <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished">WPS Office 注册信息出现异常，将导致部分对象无法使用，建议您修复此问题，是否修复？
 (系统默认会以WPS Office打开%1等办公软件格式的文档)</translation>
     </message>
     <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished">WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？(系统默认会以WPS Office打开%1等办公软件格式的文档)</translation>
+        <source>custom %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
-        <source>This locale can not use the skin!</source>
+        <source>Current locale cannot apply this skin.</source>
         <translation>当前区域不能使用此皮肤！</translation>
+    </message>
+    <message>
+        <source>This locale can not use the skin!</source>
+        <translation type="obsolete">当前区域不能使用此皮肤！</translation>
     </message>
 </context>
 <context>
@@ -6367,22 +6829,32 @@ Always take this action</source>
 <context>
     <name>TextDescribe</name>
     <message>
-        <source>Kingsoft Office Free only supports classic style interface.
-You can download Kingsoft Office Professional to enjoy the 2012 style interface.</source>
+        <source>
+The settings will take effect after restarting WPS Office.</source>
+        <translation>
+此设置将在下次启动WPS Office时生效。</translation>
+    </message>
+    <message>
+        <source>WPS Office Free only supports classic style interface.
+You can download WPS Office Professional to enjoy the 2012 style interface.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office Professional supports switching between two interface styles.
+        <source>WPS Office Professional supports switching between two interface styles.
 The settings will take effect after restarting the application.</source>
-        <translation>
+        <translation type="obsolete">
 此设置将在下次启动WPS Office时生效。</translation>
     </message>
 </context>
 <context>
     <name>ThemeSchemeWidget</name>
     <message>
-        <source>default</source>
+        <source>Default</source>
         <translation>默认</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation type="obsolete">默认</translation>
     </message>
 </context>
 <context>
@@ -6404,11 +6876,19 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>&amp;Tech Support...</source>
+        <translation type="obsolete">技术支持(&amp;T)...</translation>
+    </message>
+    <message>
+        <source>&amp;Technical Support...</source>
         <translation>技术支持(&amp;T)...</translation>
     </message>
     <message>
-        <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="obsolete">  1988-2013 珠海金山办公软件有限公司。</translation>
+        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete"> 2014 北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
+    </message>
+    <message>
+        <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation> 2014 北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
     </message>
     <message>
         <source>All rights reserved.</source>
@@ -6416,7 +6896,7 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>Copyright </source>
-        <translation>版权所有</translation>
+        <translation>版权所有 </translation>
     </message>
     <message>
         <source>OK</source>
@@ -6436,9 +6916,28 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation></translation>
     </message>
+</context>
+<context>
+    <name>apidefaultDlg</name>
     <message>
-        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation>  2013 北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
+        <source>!NO_TRANS!</source>
+        <translation>WPS</translation>
+    </message>
+    <message>
+        <source>Don&apos;t Show again.</source>
+        <translation type="obsolete">不再显示</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation>不再显示</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>提示信息</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">提示信息</translation>
     </message>
 </context>
 <context>
@@ -6461,6 +6960,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Select pictures</source>
+        <translation type="obsolete">选中的图片(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Selected pictures</source>
         <translation>选中的图片(&amp;S)</translation>
     </message>
     <message>
@@ -6495,6 +6998,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <source>Options</source>
         <translation>选项</translation>
     </message>
+    <message>
+        <source>Selected pictures</source>
+        <translation type="obsolete">选中的图片(&amp;S)</translation>
+    </message>
 </context>
 <context>
     <name>creditsDlg</name>
@@ -6521,6 +7028,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation type="obsolete">取消</translation>
     </message>
     <message>
+        <source>Chinese Conversion</source>
+        <translation>中文简繁转换</translation>
+    </message>
+    <message>
         <source>OK</source>
         <translation type="obsolete">确定</translation>
     </message>
@@ -6542,7 +7053,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Simplified and Traditonal Chinese</source>
-        <translation>中文简繁转换</translation>
+        <translation type="obsolete">中文简繁转换</translation>
     </message>
     <message>
         <source>Traditional Chinese to &amp;Simplified Chinese</source>
@@ -6711,18 +7222,23 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation>地址(&amp;E):</translation>
     </message>
     <message>
-        <source>E&amp;xisting File or Web Page</source>
-        <translation>原有文件或网
-页(&amp;X)</translation>
+        <source>E&amp;xisting File
+or Web Page</source>
+        <translation>原有文件
+或网页(&amp;X)</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
-        <translation>电子邮件地址
-(&amp;M)</translation>
+        <translation>电子邮件
+地址(&amp;M)</translation>
     </message>
     <message>
         <source>EditHyperlink</source>
         <translation type="obsolete">编辑超链接</translation>
+    </message>
+    <message>
+        <source>Email Button</source>
+        <translation></translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -6735,12 +7251,16 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation>本文档中的位
-置(&amp;A)</translation>
+        <translation>本文档中
+的位置(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Re&amp;cently used E-mail addresses:</source>
+        <translation>最近用过的电子邮件地址(&amp;C):</translation>
     </message>
     <message>
         <source>Re&amp;cently used e-mail addresses:</source>
-        <translation>最近用过的电子邮件地址(&amp;C):</translation>
+        <translation type="obsolete">最近用过的电子邮件地址(&amp;C):</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
@@ -6750,44 +7270,56 @@ Document</source>
         <source>ScreenTi&amp;p...</source>
         <translation>屏幕提示(&amp;P)...</translation>
     </message>
-    <message>
-        <source>Email Button</source>
-        <translation></translation>
-    </message>
 </context>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
-        <source>Set Spellcheck Language</source>
-        <translation>设置拼写检查语言</translation>
-    </message>
-    <message>
-        <source>Available Language:</source>
+        <source>Available Languages:</source>
         <translation>可用的拼写语言：</translation>
     </message>
     <message>
-        <source>The speller automatically use dictonaries of the selected language,if available.</source>
-        <translation>拼写检查引擎会自动使用所选择的语言进行拼写检查。</translation>
-    </message>
-    <message>
-        <source>Set as default</source>
-        <translation>设为默认</translation>
-    </message>
-    <message>
-        <source>close</source>
-        <translation type="obsolete">关闭</translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation>更多</translation>
+        <source>Close</source>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Install</source>
         <translation>安装</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>关闭</translation>
+        <source>Make Default</source>
+        <translation type="obsolete">设为默认</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <source>Set Default</source>
+        <translation>设为默认</translation>
+    </message>
+    <message>
+        <source>Set Spell Check Language</source>
+        <translation>设置拼写检查语言</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="obsolete">设置拼写检查语言</translation>
+    </message>
+    <message>
+        <source>Set as default</source>
+        <translation type="obsolete">设为默认</translation>
+    </message>
+    <message>
+        <source>Spell Check engine will use the chosen language for checking automatically.</source>
+        <translation>拼写检查引擎会自动使用所选择的语言进行拼写检查。</translation>
+    </message>
+    <message>
+        <source>The speller automatically use dictionaries of the selected language,if available.</source>
+        <translation type="obsolete">拼写检查引擎会自动使用所选择的语言进行拼写检查。</translation>
+    </message>
+    <message>
+        <source>Uninstall</source>
+        <translation>卸载</translation>
     </message>
 </context>
 <context>
@@ -6895,8 +7427,16 @@ Document</source>
         <translation type="obsolete">取消</translation>
     </message>
     <message>
-        <source>Change &amp;Icon...</source>
+        <source>Change &amp;Icon</source>
         <translation>更改图标(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Change &amp;Icon...</source>
+        <translation type="obsolete">更改图标(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished">提示信息</translation>
     </message>
     <message>
         <source>NO_TRANS!</source>
@@ -6908,6 +7448,10 @@ Document</source>
     </message>
     <message>
         <source>Paste &amp;Link</source>
+        <translation type="obsolete">粘贴链接(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Paste &amp;link</source>
         <translation>粘贴链接(&amp;L)</translation>
     </message>
     <message>
@@ -6920,11 +7464,11 @@ Document</source>
     </message>
     <message>
         <source>Source:</source>
-        <translation>源:</translation>
+        <translation>来源:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">提示信息</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -6933,6 +7477,10 @@ Document</source>
 </context>
 <context>
     <name>tpropertydlg</name>
+    <message>
+        <source>&amp;Add</source>
+        <translation>添加(A)</translation>
+    </message>
     <message>
         <source>&amp;Author:</source>
         <translation>作者(&amp;A):</translation>
@@ -6946,6 +7494,10 @@ Document</source>
         <translation>删除(&amp;D)</translation>
     </message>
     <message>
+        <source>&amp;Keyword:</source>
+        <translation>关键字(&amp;K):</translation>
+    </message>
+    <message>
         <source>&amp;Manager:</source>
         <translation>经理(&amp;M):</translation>
     </message>
@@ -6955,6 +7507,10 @@ Document</source>
     </message>
     <message>
         <source>&amp;Read only</source>
+        <translation type="obsolete">只读(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Read-only</source>
         <translation>只读(&amp;R)</translation>
     </message>
     <message>
@@ -6982,16 +7538,12 @@ Document</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <source>&amp;Keyword:</source>
-        <translation>关键字(&amp;K):</translation>
-    </message>
-    <message>
         <source>ADD</source>
-        <translation>添加(A)</translation>
+        <translation type="obsolete">添加(A)</translation>
     </message>
     <message>
         <source>Accessed:</source>
-        <translation>修改时间:</translation>
+        <translation>存取时间:</translation>
     </message>
     <message>
         <source>Ar&amp;chive</source>
@@ -7010,12 +7562,24 @@ Document</source>
         <translation type="obsolete">取消</translation>
     </message>
     <message>
+        <source>Cat&amp;egory:</source>
+        <translation>类别(&amp;E):</translation>
+    </message>
+    <message>
         <source>Checked by</source>
+        <translation type="obsolete">检查者</translation>
+    </message>
+    <message>
+        <source>Checker</source>
         <translation>检查者</translation>
     </message>
     <message>
         <source>Client</source>
         <translation>客户</translation>
+    </message>
+    <message>
+        <source>Completion date</source>
+        <translation>完成日期</translation>
     </message>
     <message>
         <source>Created:</source>
@@ -7031,7 +7595,7 @@ Document</source>
     </message>
     <message>
         <source>Date completed</source>
-        <translation>完成日期</translation>
+        <translation type="obsolete">完成日期</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7052,10 +7616,6 @@ Document</source>
     <message>
         <source>Forward to</source>
         <translation>转发到</translation>
-    </message>
-    <message>
-        <source>Cat&amp;egory:</source>
-        <translation>类别(&amp;E):</translation>
     </message>
     <message>
         <source>General</source>
@@ -7091,7 +7651,7 @@ Document</source>
     </message>
     <message>
         <source>Modified:</source>
-        <translation>存取时间:</translation>
+        <translation>修改时间:</translation>
     </message>
     <message>
         <source>N&amp;o</source>
@@ -7193,16 +7753,24 @@ Document</source>
 <context>
     <name>updateMessageDlg</name>
     <message>
-        <source>Update</source>
-        <translation>更新</translation>
-    </message>
-    <message>
-        <source>New version is prepared. Would you like to get it now?</source>
+        <source>A new version is detected. Do you want to download the updated one?</source>
         <translation>发现新版本，是否前往更新？</translation>
     </message>
     <message>
-        <source>Ignore this version.</source>
+        <source>Ignore it</source>
         <translation>忽略此版本</translation>
+    </message>
+    <message>
+        <source>Ignore this version.</source>
+        <translation type="obsolete">忽略此版本</translation>
+    </message>
+    <message>
+        <source>New version is prepared. Would you like to get it now?</source>
+        <translation type="obsolete">发现新版本，是否前往更新？</translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation>更新</translation>
     </message>
 </context>
 <context>

@@ -24,7 +24,11 @@
     </message>
     <message>
         <source>&amp;Select a Diagram Style:</source>
-        <translation>I&amp;zberite slog diagrama:</translation>
+        <translation type="obsolete">I&amp;zberite slog diagrama:</translation>
+    </message>
+    <message>
+        <source>&amp;Select a diagram style:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -50,10 +54,6 @@
         <translation>Možnost:</translation>
     </message>
     <message>
-        <source>&amp;Line End:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter/Newline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -73,11 +73,8 @@
         <source>Pre&amp;view:</source>
         <translation>&amp;Predogled:</translation>
     </message>
-</context>
-<context>
-    <name>EmptyBackupPanel</name>
     <message>
-        <source>emptybacktip</source>
+        <source>&amp;Line end:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -91,12 +88,16 @@
 <context>
     <name>KApplication</name>
     <message>
-        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
+        <translation type="obsolete">Kingsoft Office posodobitve so se prenesle, jih želite namestiti zdaj ?</translation>
+    </message>
+    <message>
+        <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation>Kingsoft Office posodobitve so se prenesle, jih želite namestiti zdaj ?</translation>
+        <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -130,7 +131,7 @@
     <name>KColorDialog</name>
     <message>
         <source>Color mode</source>
-        <translation>Barvni način</translation>
+        <translation type="obsolete">Barvni način</translation>
     </message>
     <message>
         <source>RGB</source>
@@ -162,15 +163,15 @@
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Nasičenost:</translation>
+        <translation type="obsolete">&amp;Nasičenost:</translation>
     </message>
     <message>
         <source>&amp;Lum:</source>
-        <translation>&amp;Svetlost:</translation>
+        <translation type="obsolete">&amp;Svetlost:</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
-        <translation>&amp;Barve</translation>
+        <translation type="obsolete">&amp;Barve</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -192,6 +193,22 @@
         <source>Colors</source>
         <translation>Barve</translation>
     </message>
+    <message>
+        <source>Color mo&amp;de</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Saturation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Luminance:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -200,15 +217,23 @@
         <translation>Namizje</translation>
     </message>
     <message>
-        <source>We found that the document which was not saved upon last exit , has been restored.   (if you don&apos;t need to restore the file, close it directly, and then reopen the original document.)</source>
+        <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Layout changes will take effect after restart.</source>
+        <source>The layout will take effect after restarting WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hey, click here to switch user interface!</source>
+        <source>Downloading the online font &quot;%1&quot;  succeeded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading the online font &quot;%1&quot;  failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to change your interface style.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -226,26 +251,22 @@
         <translation>%1 kontrolnikov</translation>
     </message>
     <message>
-        <source>ActiveX Control (*.ocx;*.dll)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Register Custom Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can not register this control.</source>
+        <source>ActiveX Control(*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot register this control.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
-        <source>(damaged file : %1 )</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>error file list:</source>
+        <source>(The file %1 seems to be damaged.)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -262,10 +283,6 @@
     <message>
         <source>We suggest you upload it.</source>
         <translation>Predlagamo vam, da jo naložite.</translation>
-    </message>
-    <message>
-        <source>(damaged file:????)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -287,35 +304,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2012 Style Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Classic Style Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Theme Scheme</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>2013 Skin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2013 Ongmani Style Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Win8 Metro Style Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Restart Office to apply the layout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Layout changes will take effect after restart.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -330,6 +323,30 @@
         <source>Alt+C</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>2012 Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2013 Elegant Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2013 Water Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
@@ -339,7 +356,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation>Izbriši</translation>
+        <translation type="obsolete">Izbriši</translation>
     </message>
     <message>
         <source>Del</source>
@@ -349,11 +366,15 @@
         <source>C,X,V,Z,Y</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Izbriši</translation>
+    </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
     <message>
-        <source>&amp;Encrypt</source>
+        <source>&amp;Encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -372,7 +393,7 @@
     <name>KInputWritePasswordDlg</name>
     <message>
         <source>Enter password to modify, or open read only.</source>
-        <translation>Vnesite geslo za spreminjanje ali pa odprite samo za branje.</translation>
+        <translation type="obsolete">Vnesite geslo za spreminjanje ali pa odprite samo za branje.</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -380,11 +401,19 @@
     </message>
     <message>
         <source>&amp;Read Only</source>
-        <translation>Samo za &amp;branje</translation>
+        <translation type="obsolete">Samo za &amp;branje</translation>
     </message>
     <message>
         <source>Password</source>
         <translation>Geslo</translation>
+    </message>
+    <message>
+        <source>Enter password to modify, or open read-only file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Read-only</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -433,24 +462,12 @@
         <translation>Namestite jezikovni paket</translation>
     </message>
     <message>
-        <source>installation fails, make sure to install the complete package!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Choose your language</source>
         <translation type="obsolete">Izberite jezik</translation>
     </message>
     <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Information</source>
         <translation>Informacije</translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Install new language</source>
@@ -467,6 +484,14 @@
     <message>
         <source>ZIP File (*.zip)</source>
         <translation type="unfinished">Datoteka ZIP (*.zip)</translation>
+    </message>
+    <message>
+        <source>Installation fails, make sure to install the complete package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings will take effect after the application restarts.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -506,32 +531,16 @@
 <context>
     <name>KRegisterDlg</name>
     <message>
-        <source>The items with &quot;*&quot; must be inputted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Documents&apos; Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* &amp;Name:</source>
-        <translation>* &amp;Ime:</translation>
-    </message>
-    <message>
-        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Initi&amp;als:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">* &amp;Ime:</translation>
     </message>
     <message>
         <source>&amp;Organization:</source>
-        <translation>&amp;Organizacija:</translation>
-    </message>
-    <message>
-        <source>* &amp;Serial No.:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Organizacija:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -543,10 +552,38 @@
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation>Serijska številka, ki ste jo vnesli, je neveljavna. Preverite obliko vnosa, podprto različico in veljaven datum.</translation>
+        <translation type="obsolete">Serijska številka, ki ste jo vnesli, je neveljavna. Preverite obliko vnosa, podprto različico in veljaven datum.</translation>
     </message>
     <message>
-        <source>You&apos;ve reached the maximum retry steps, program will terminate.</source>
+        <source>The items with &quot;*&quot; must be entered.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Initials:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organization:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Serial No.:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your input is incorrect and the program will exit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -554,19 +591,19 @@
     <name>KShowMoreWindowDlg</name>
     <message>
         <source>Compare Side by Side Window</source>
-        <translation>Vzporedno primerjaj okno</translation>
+        <translation type="obsolete">Vzporedno primerjaj okno</translation>
     </message>
     <message>
         <source>Select Window</source>
-        <translation>Izbira okna</translation>
+        <translation type="obsolete">Izbira okna</translation>
     </message>
     <message>
         <source>Switch Window to</source>
-        <translation>Preklopi okno na</translation>
+        <translation type="obsolete">Preklopi okno na</translation>
     </message>
     <message>
         <source>Please Choose the Window to Compare</source>
-        <translation>Prosimo, izberite okno za primerjavo</translation>
+        <translation type="obsolete">Prosimo, izberite okno za primerjavo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -579,6 +616,22 @@
     <message>
         <source>Active Window:</source>
         <translation>Aktivno okno:</translation>
+    </message>
+    <message>
+        <source>Side by Side Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compare Side by Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch window to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the window to compare:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -649,6 +702,17 @@
     <message>
         <source>&amp;Characters:</source>
         <translation type="obsolete">&amp;Znaki:</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchFaceDlg</name>
+    <message>
+        <source>2012 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic Skin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1063,27 +1127,23 @@
     <name>KxAboutDlg</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>O Kingsoft Writer</translation>
+        <translation type="obsolete">O Kingsoft Writer</translation>
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
-        <translation>O Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">O Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation>O Kingsoft Presentation</translation>
+        <translation type="obsolete">O Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About Kingsoft Office</source>
-        <translation>O Kingsoft Office</translation>
+        <translation type="obsolete">O Kingsoft Office</translation>
     </message>
     <message>
         <source>%1%2</source>
         <translation>%1%2</translation>
-    </message>
-    <message>
-        <source>Help file doesn&apos;t exist or is broken!</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -1098,10 +1158,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Part of %1 trial version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1(%2)</source>
         <translation type="unfinished">%1(%2)</translation>
     </message>
@@ -1113,15 +1169,54 @@
         <source>Part of %1 activation version</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find help file or help file encountered an error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxApiDefaultDlg</name>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished">Da</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="unfinished">Ne</translation>
+    </message>
+    <message>
+        <source>This method %1 is not implemented. If the default value is used, then may bring risk.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Critical</source>
-        <translation>Kritično</translation>
+        <translation type="obsolete">Kritično</translation>
     </message>
     <message>
-        <source>Loading UI xml file is failed. For more information, please use KDebugConsole or read logs.</source>
+        <source>Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1137,7 +1232,7 @@
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation>Osnovne oblike</translation>
+        <translation type="obsolete">Osnovne oblike</translation>
     </message>
     <message>
         <source>Block Arrows</source>
@@ -1159,6 +1254,10 @@
         <source>Action Buttons</source>
         <translation>Interaktivni gumbi</translation>
     </message>
+    <message>
+        <source>Basic Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxCOMAddinsDlg</name>
@@ -1172,7 +1271,7 @@
     </message>
     <message>
         <source>Load on Demand (currently loaded)</source>
-        <translation>Naloži na zahtevo. (Trenutno je naložen.)</translation>
+        <translation type="obsolete">Naloži na zahtevo. (Trenutno je naložen.)</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -1195,7 +1294,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to modify the Add-In settings</source>
+        <source>Load on Demand (Currently loaded)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to modify Add-In settings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1222,7 +1325,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&quot;%1&quot; has no icon.</source>
+        <source>There is no icon in &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1282,14 +1385,14 @@
 <context>
     <name>KxCommandListModel</name>
     <message>
-        <source>Failed to add new command! It may exist already.</source>
+        <source>Failed to add new command.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxControlToolboxToolBarViewCommand</name>
     <message>
-        <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
+        <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1313,29 +1416,71 @@
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
-        <translation>Datoteka slovarja(*.dic)|*.dic</translation>
-    </message>
-    <message>
-        <source>New dictionary file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add dictionary file</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Datoteka slovarja(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
-        <translation>Vse datoteke(*.*)|*.*|Datoteka slovarja(*.dic)|*.dic</translation>
+        <translation type="obsolete">Vse datoteke(*.*)|*.*|Datoteka slovarja(*.dic)|*.dic</translation>
     </message>
     <message>
-        <source>Removing this custom dictionary might affect other programs of Kingsoft Office, do you want to continue?</source>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished">Vse datoteke(*.*)</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxCustomListModel</name>
     <message>
-        <source>  Option Card</source>
+        <source>  Option Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Group</name>
+    <message>
+        <source>Custom Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Tab</name>
+    <message>
+        <source>Custom Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1346,28 +1491,12 @@
         <translation>Pogovorno okno</translation>
     </message>
     <message>
-        <source>Command &amp;Bars</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comman&amp;ds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Reset</source>
         <translation>Pon&amp;astavi</translation>
     </message>
     <message>
-        <source>D</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Move down</source>
         <translation>Premakni navzdol</translation>
-    </message>
-    <message>
-        <source>U</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move up</source>
@@ -1391,7 +1520,7 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation>Ponastavi</translation>
+        <translation type="obsolete">Ponastavi</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
@@ -1431,7 +1560,27 @@
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
-        <translation>Ali ste prepričani, da želite ponastaviti ukaz &apos;%1&apos;?</translation>
+        <translation type="obsolete">Ali ste prepričani, da želite ponastaviti ukaz &apos;%1&apos;?</translation>
+    </message>
+    <message>
+        <source>Command &amp;Bars:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comman&amp;ds:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to reset the &apos;%1&apos; command?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1472,15 +1621,15 @@
     </message>
     <message>
         <source>Tool&amp;bars:</source>
-        <translation>&amp;Orodne vrstice:</translation>
+        <translation type="obsolete">&amp;Orodne vrstice:</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;Nova</translation>
+        <translation type="obsolete">&amp;Nova</translation>
     </message>
     <message>
         <source>R&amp;ename</source>
-        <translation>Preimen&amp;uj</translation>
+        <translation type="obsolete">Preimen&amp;uj</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -1490,39 +1639,71 @@
         <source>&amp;Reset</source>
         <translation>Pon&amp;astavi</translation>
     </message>
+    <message>
+        <source>Tool&amp;bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation type="unfinished">&amp;Nova...</translation>
+    </message>
+    <message>
+        <source>R&amp;ename...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxCustomToolBarWTB</name>
     <message>
-        <source>Please input &amp;toolbar&apos;s name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
-        <translation>Ime orodne vrstice ne more biti prazno. Prosim, vnesite ime.</translation>
+        <translation type="obsolete">Ime orodne vrstice ne more biti prazno. Prosim, vnesite ime.</translation>
     </message>
     <message>
         <source>Adding toolbar is successful!</source>
-        <translation>Uspešno dodajanje orodne vrstice!</translation>
+        <translation type="obsolete">Uspešno dodajanje orodne vrstice!</translation>
     </message>
     <message>
         <source>Renaming toolbar is successful!</source>
-        <translation>Usprešno preimenovanje orodne vrstice!</translation>
+        <translation type="obsolete">Usprešno preimenovanje orodne vrstice!</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the &apos;%1&apos; toolbar?</source>
-        <translation>Ali ste prepričani, da želite izbrisati orodno vrstico &apos;%1&apos; toolbar?</translation>
+        <translation type="obsolete">Ali ste prepričani, da želite izbrisati orodno vrstico &apos;%1&apos; toolbar?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%1&apos; toolbar?</source>
-        <translation>Ali ste prerpičani, da želite ponastaviti orodno vrstico &apos;%1&apos;?</translation>
+        <translation type="obsolete">Ali ste prerpičani, da želite ponastaviti orodno vrstico &apos;%1&apos;?</translation>
+    </message>
+    <message>
+        <source>Please enter &amp;toolbar&apos;s name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The toolbar name must not be blank.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar has been added.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar has been renamed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to reset the &apos;%1&apos; toolbar?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDevelopToolsTriggerCommand</name>
     <message>
         <source>To work with Developer tab (including Macros, Control
-Toolbox), please purchase Kingsoft Office Professional.</source>
+Toolbox), please purchase WPS Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1530,7 +1711,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>OrgChart</source>
-        <translation>Organigram</translation>
+        <translation type="obsolete">Organigram</translation>
     </message>
     <message>
         <source>Cycle Diagram</source>
@@ -1576,16 +1757,16 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <source>Used to show steps toward a goal</source>
         <translation>Used to show steps toward a goal</translation>
     </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgCOMAddins</name>
     <message>
         <source>COM Add-Ins</source>
         <translation>Dodatki COM</translation>
-    </message>
-    <message>
-        <source>Available A&amp;dd-Ins:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
@@ -1614,6 +1795,10 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     <message>
         <source>Description:</source>
         <translation>Opis:</translation>
+    </message>
+    <message>
+        <source>A&amp;dd-Ins available:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1655,7 +1840,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>Set &amp;default</source>
-        <translation>&amp;Privzeto</translation>
+        <translation type="obsolete">&amp;Privzeto</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -1675,7 +1860,15 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>path</source>
-        <translation>pot</translation>
+        <translation type="obsolete">pot</translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1750,11 +1943,11 @@ p, li { white-space: pre-wrap; }
         <translation>Vrsta šifriranja</translation>
     </message>
     <message>
-        <source>&amp;Choose an encryption type:</source>
+        <source>&amp;Choose encryption type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Choose a &amp;key length:</source>
+        <source>Choose &amp;key length:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1933,10 +2126,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CurtainOfNight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Red</source>
         <translation>Rdeča</translation>
     </message>
@@ -2020,6 +2209,10 @@ p, li { white-space: pre-wrap; }
         <source>Rotate fill effect &amp;with shape</source>
         <translation>Obračaj učine&amp;k polnila z obliko</translation>
     </message>
+    <message>
+        <source>Curtain of Night</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFormatShape</name>
@@ -2039,16 +2232,16 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Yes</source>
         <translation>Da</translation>
     </message>
     <message>
         <source>No</source>
         <translation type="unfinished">Ne</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2144,10 +2337,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cust&amp;om Symbols:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Shortcut keys:</source>
         <translation>Tipke za bližnjice:</translation>
     </message>
@@ -2187,6 +2376,10 @@ p, li { white-space: pre-wrap; }
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
+    <message>
+        <source>Cust&amp;om symbols:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgLicense</name>
@@ -2210,7 +2403,7 @@ p, li { white-space: pre-wrap; }
         <translation>Predloge</translation>
     </message>
     <message>
-        <source>Set as &amp;Default Template</source>
+        <source>Set as &amp;default template</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2251,20 +2444,12 @@ p, li { white-space: pre-wrap; }
         <translation>Prilagodi Hitri dostop</translation>
     </message>
     <message>
-        <source>&amp;Choose command form:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add &gt;&gt;</source>
         <translation>&amp;Dodaj &gt;&gt;</translation>
     </message>
     <message>
         <source>&lt;&lt; &amp;Remove</source>
         <translation>&lt;&lt; &amp;Odstrani</translation>
-    </message>
-    <message>
-        <source>Cust&amp;omize Quick Access</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply to all documents(default)</source>
@@ -2282,16 +2467,19 @@ p, li { white-space: pre-wrap; }
         <source>R&amp;eset</source>
         <translation>Pon&amp;astavi</translation>
     </message>
+    <message>
+        <source>&amp;Choose command from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cust&amp;omize Quick Access:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the records which you want to remove from the recent file list, then press OK button to commit.It will not delete the files but only remove the records.
-Double click any item can open the file, or you can use the popup menu. This will clear the selection of the items.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2309,6 +2497,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Select &amp;All</source>
         <translation>Izberi &amp;vse</translation>
+    </message>
+    <message>
+        <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2329,20 +2522,8 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Pogovorno okno</translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Thanks for using Kingsoft Office 2012 Beta2.</source>
-        <translation>Hvala za uporabo Kingsoft Office 2012 Beta2.</translation>
-    </message>
-    <message>
-        <source>The trial period of your Kingsoft Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of Kingsoft Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Hvala za uporabo Kingsoft Office 2012 Beta2.</translation>
     </message>
     <message>
         <source>Update Now</source>
@@ -2350,6 +2531,22 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Enter Viewer Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks for using WPS Office 2012 Beta2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2363,23 +2560,27 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxEditDictionaryDlg</name>
     <message>
-        <source>The word contains unallowable characters, we can&apos;t handle it.</source>
+        <source>The word contains unallowable characters. We cannot handle it.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxEditWordArtTextDlg</name>
     <message>
-        <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Illegal integer text.</source>
-        <translation>Neveljavno celo besedilo.</translation>
+        <translation type="obsolete">Neveljavno celo besedilo.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
         <translation>Vrednost naj bo med %1 in %2.</translation>
+    </message>
+    <message>
+        <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished">Ni veljavno celo število.</translation>
     </message>
 </context>
 <context>
@@ -2410,14 +2611,37 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
 </context>
 <context>
-    <name>KxFeekbackCommand</name>
+    <name>KxEulaDlg</name>
     <message>
-        <source>No E-Mail Client!</source>
+        <source>WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>End-User License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Decline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFeekbackCommand</name>
+    <message>
         <source>Feedback</source>
         <translation>Povratne informacije</translation>
+    </message>
+    <message>
+        <source>No E-Mail Client.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2438,7 +2662,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxFileDialog</name>
     <message>
-        <source>&amp;Encrypt button tab in field dialog</source>
+        <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2674,12 +2898,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occurred while importing this file. %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select Picture</source>
         <translation>Izberi sliko</translation>
+    </message>
+    <message>
+        <source>An error occurred while importing this file %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2716,99 +2940,64 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsExplorer</name>
     <message>
         <source>Open</source>
-        <translation>Odpri</translation>
+        <translation type="obsolete">Odpri</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>O&amp;sveži</translation>
+        <translation type="obsolete">O&amp;sveži</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsLoginDlg</name>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
     </message>
     <message>
         <source>&amp;UserName:</source>
-        <translation>&amp;Uporabniško ime:</translation>
+        <translation type="obsolete">&amp;Uporabniško ime:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation>&amp;Geslo:</translation>
-    </message>
-    <message>
-        <source>Captcha:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Geslo:</translation>
     </message>
     <message>
         <source>login...</source>
-        <translation>prijava...</translation>
-    </message>
-    <message>
-        <source>&amp;Save Acount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>change a captcha!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username or password is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">prijava...</translation>
     </message>
     <message>
         <source>Username or password is invalid!</source>
-        <translation>Uporabniško ime ali geslo je neveljavno!</translation>
-    </message>
-    <message>
-        <source>Network Error! Login failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get captcha image!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error!Failed to get File List!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Uporabniško ime ali geslo je neveljavno!</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsModel</name>
     <message>
         <source>Document Name</source>
-        <translation>Ime dokumenta</translation>
+        <translation type="obsolete">Ime dokumenta</translation>
     </message>
     <message>
         <source>Last Modified Date</source>
-        <translation>Datum zadnje spremembe</translation>
-    </message>
-</context>
-<context>
-    <name>KxGDocsModule</name>
-    <message>
-        <source>Network Error! Open file failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error! Upload file failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create file! File may be opened or no permission to create file!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Datum zadnje spremembe</translation>
     </message>
 </context>
 <context>
     <name>KxHideorShowButton</name>
     <message>
         <source>Show Taskpane</source>
-        <translation>Pokaži Podokno opravil</translation>
+        <translation type="obsolete">Pokaži Podokno opravil</translation>
     </message>
     <message>
         <source>Hide Taskpane</source>
-        <translation>Skrij Podokno opravil</translation>
+        <translation type="obsolete">Skrij Podokno opravil</translation>
+    </message>
+    <message>
+        <source>Show Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Task Window</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2839,7 +3028,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation>Vse datoteke(*.*)</translation>
+        <translation type="obsolete">Vse datoteke(*.*)</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished">Vse datoteke(*.*)</translation>
     </message>
 </context>
 <context>
@@ -2931,15 +3124,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Ne more ustvariti povezavo do datoteke &quot;%1&quot;.</translation>
     </message>
     <message>
-        <source>Kingsoft Presentation cannot access %1, the file name is invalid.</source>
+        <source>WPS Presentation cannot access %1. The file name is invalid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Writer cannot access %1, the file name is invalid.</source>
+        <source>WPS Writer cannot access %1. The file name is invalid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets cannot access %1, the file name is invalid.</source>
+        <source>WPS Spreadsheets cannot access %1. The file name is invalid.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2955,7 +3148,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
-        <translation>Ali ste prepričani, da želite ponastaviti orodno vrstico simolov?</translation>
+        <translation type="obsolete">Ali ste prepričani, da želite ponastaviti orodno vrstico simolov?</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2965,11 +3158,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
+    <message>
+        <source>Are you sure to reset the Symbol toolbar?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxMacroActionButtonCommand</name>
     <message>
-        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
+        <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2978,7 +3175,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>To work with macros, please purchase Kingsoft Office Professional.
 </source>
-        <translation>Če želite delati z makri, prosimo, da kupite Kingsoft Office Professional.</translation>
+        <translation type="obsolete">Če želite delati z makri, prosimo, da kupite Kingsoft Office Professional.</translation>
     </message>
     <message>
         <source>Download</source>
@@ -2992,13 +3189,23 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Click to purchase now.</source>
         <translation>Klikni za nakup zdaj.</translation>
     </message>
+    <message>
+        <source>To work with macros, please purchase WPS Office Professional.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxMacroListCommand</name>
     <message>
         <source>To work with macros, please purchase Kingsoft Office Professional.
 </source>
-        <translation>Če želite delati z makri, prosimo, da kupite Kingsoft Office Professional.</translation>
+        <translation type="obsolete">Če želite delati z makri, prosimo, da kupite Kingsoft Office Professional.</translation>
+    </message>
+    <message>
+        <source>To work with macros, please purchase WPS Office Professional.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3071,10 +3278,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hot&amp;key:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Reset</source>
         <translation>Pon&amp;astavi</translation>
     </message>
@@ -3092,10 +3295,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Paste Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Open From File...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3123,24 +3322,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Vse slike(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
-        <source>Windows Window Enhanced MetaFile(*.emf)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Windows Enhanced MetaFile(*.wmf)</source>
         <translation>Windows izboljšana metadatoteka(*.wmf)</translation>
     </message>
     <message>
-        <source>JPEG JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Portable Network Graphic(*.png)</source>
         <translation>Portable Network Graphics(*.png)</translation>
-    </message>
-    <message>
-        <source>Windows Window Bitmap(*.bmp)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics Interchange Format(GIF)(*.gif)</source>
@@ -3149,6 +3336,26 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Tag Image File Format(*tif *tiff)</source>
         <translation>Tag Image File Format(*tif *tiff)</translation>
+    </message>
+    <message>
+        <source>Shortcut &amp;key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open from File...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile(*.emf)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3169,16 +3376,74 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Blank Workbook</source>
         <translation>Prazen delovni zvezek</translation>
     </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFonts</name>
+    <message>
+        <source>Using online fonts needs to sign in.
+Click the icon to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pay font, which is free for VIP.
+Click the icon for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause. Click to continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For more details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired.
+Click to recharge for more discounts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fold online fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More online fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
     <message>
-        <source>Your Kingsoft Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
-        <translation>Vaše Kingsoft Office poskusno obdobje je poteklo in tiskanje bo onemogočeno. Vnesite veljavno serijsko številko za aktiviranje izdelka. Če nimate veljavne serijske številke, jo lahko kupite na</translation>
+        <translation type="obsolete">Vaše Kingsoft Office poskusno obdobje je poteklo in tiskanje bo onemogočeno. Vnesite veljavno serijsko številko za aktiviranje izdelka. Če nimate veljavne serijske številke, jo lahko kupite na</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
@@ -3186,11 +3451,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Kingsoft Online Store.</source>
-        <translation>Kingsoft Spletna trgovina.</translation>
+        <translation type="obsolete">Kingsoft Spletna trgovina.</translation>
     </message>
     <message>
         <source>Input Serial Nummber</source>
-        <translation>Vnesite serijsko številko</translation>
+        <translation type="obsolete">Vnesite serijsko številko</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
@@ -3209,20 +3474,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office Free.</source>
+        <source>Purchase Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Purchase Now</source>
+        <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Store.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input Serial Number</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
-    <message>
-        <source>Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Unknown Format Source.</source>
         <translation type="unfinished"></translation>
@@ -3232,7 +3509,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Rezultat:</translation>
     </message>
     <message>
-        <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <source>WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3256,10 +3537,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Manual duple&amp;x</source>
         <translation>Ročno o&amp;bojestransko</translation>
-    </message>
-    <message>
-        <source>&amp;Inverse ouput</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
@@ -3314,12 +3591,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Tiskanje</translation>
     </message>
     <message>
-        <source>The printer &quot;%1&quot; returned an error!</source>
+        <source>Use printer setting</source>
+        <translation>Uporabi nastavitve tiskalnika</translation>
+    </message>
+    <message>
+        <source>&amp;Inverse output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use printer setting</source>
-        <translation>Uporabi nastavitve tiskalnika</translation>
+        <source>Error</source>
+        <translation type="unfinished">Napaka</translation>
+    </message>
+    <message>
+        <source>The printer &quot;%1&quot; encountered an error!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3437,10 +3722,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Lastnost</translation>
     </message>
     <message>
-        <source>%L1byte</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>yyyy-MM-dd</source>
         <translation>llll/mm/dd</translation>
     </message>
@@ -3453,10 +3734,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Ne</translation>
     </message>
     <message>
-        <source>Your input data do not match the type specified, value should be text!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add</source>
         <translation>&amp;Dodaj</translation>
     </message>
@@ -3466,11 +3743,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>yes</source>
-        <translation>da</translation>
+        <translation type="obsolete">da</translation>
     </message>
     <message>
         <source>no</source>
-        <translation>ne</translation>
+        <translation type="obsolete">ne</translation>
+    </message>
+    <message>
+        <source>%L1 byte</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value entered does not match the specified type. The value will be stored as text.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3516,10 +3801,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Poenostavi po meri</translation>
     </message>
     <message>
-        <source>Are you sure to reset the customization data of all users?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The selected command is already on the Quick Access Toolbar!</source>
         <translation>Izbran ukaz je že na orodni vrstici za hiter dostop!</translation>
     </message>
@@ -3535,22 +3816,30 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Separator</source>
         <translation>Ločilo</translation>
     </message>
+    <message>
+        <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxRecentFileManageDlg</name>
     <message>
         <source>Delete Record</source>
-        <translation>Izbriši zapis</translation>
+        <translation type="obsolete">Izbriši zapis</translation>
     </message>
     <message>
         <source>&amp;Open</source>
         <translation>&amp;Odpri</translation>
     </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Izbriši</translation>
+    </message>
 </context>
 <context>
     <name>KxRecentFilePageCommand</name>
     <message>
-        <source>Can not find the folder &quot;%1&quot;, it may be deleted, moved or renamed </source>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3565,64 +3854,89 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxSerchCtrl</name>
     <message>
         <source>Please input command name to search</source>
-        <translation>Prosimo vpišite ime ukaza za iskanje</translation>
+        <translation type="obsolete">Prosimo vpišite ime ukaza za iskanje</translation>
+    </message>
+    <message>
+        <source>Please enter name to search</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSetSpellcheckLanguageDlg</name>
     <message>
-        <source>Choose Spellcheck Installation Package</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>ZIP File (*.zip)</source>
-        <translation>Datoteka ZIP (*.zip)</translation>
-    </message>
-    <message>
-        <source>Install Spellcheck Package</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Installation fails, make sure to install the complete package!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Datoteka ZIP (*.zip)</translation>
     </message>
     <message>
         <source>Spellcheck language already exists.</source>
-        <translation>Jezik za preverjanje črkovanja že obstaja.</translation>
+        <translation type="obsolete">Jezik za preverjanje črkovanja že obstaja.</translation>
+    </message>
+    <message>
+        <source>Choose installation package of Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zip File (*.zip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install the Spell Check package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installation fails, make sure to install the complete package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The installation is failed, for the language of the package is being used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall Spell Check Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The installed user package has been removed, 
+but the included system package is reserved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxStartup</name>
     <message>
-        <source> is not a valid file!</source>
+        <source>Not a valid file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
+        <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinModel</name>
     <message>
-        <source>ongmani</source>
+        <source>rainbow</source>
+        <translation type="obsolete">mavrica</translation>
+    </message>
+    <message>
+        <source>2013 Elegant Black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>rainbow</source>
-        <translation>mavrica</translation>
+        <source>2012 Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>classics</source>
+        <source>Classic Style</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinWidget</name>
-    <message>
-        <source>Skin manager</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&amp;OK</source>
         <translation>&amp;V redu</translation>
@@ -3635,26 +3949,30 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
+    <message>
+        <source>Skin Management</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxSwitchUiTip</name>
     <message>
-        <source>The change takes effect the next time the Kingsoft Office is started.</source>
+        <source>The layout will take effect after restarting WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I have understood</source>
+        <source>I already know</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSwitchView</name>
     <message>
-        <source>This locale can not use the skin!</source>
+        <source>Restart to make changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>restart will change</source>
+        <source>Current locale cannot apply this skin.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3662,11 +3980,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxSymbolGalleryModel</name>
     <message>
         <source>Recently Used Symbols</source>
-        <translation>Nedavno uporabljeni simboli</translation>
+        <translation type="obsolete">Nedavno uporabljeni simboli</translation>
     </message>
     <message>
         <source>Custom Symbols</source>
-        <translation>Simobli po meri</translation>
+        <translation type="obsolete">Simobli po meri</translation>
+    </message>
+    <message>
+        <source>Recently Used Symbols:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Symbols:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3676,15 +4002,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished">, </translation>
     </message>
     <message>
-        <source>Missing libcups.so: can not access printer!</source>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
+        <source>Missing Cups libraries. Cannot access the printer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
+        <source>System DPI is asymmetric. WPS Office may have display issues.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3719,7 +4045,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The following issues were detected on this system:</source>
+        <source>Problems below are detected in the system.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3738,27 +4064,35 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Skrij</translation>
     </message>
     <message>
-        <source>Disable title drag menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable title drag menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>hide button text</source>
-        <translation>skrij gumb besedilo</translation>
+        <translation type="obsolete">skrij gumb besedilo</translation>
     </message>
     <message>
         <source>show button text</source>
-        <translation>prikaži gumb besedilo</translation>
+        <translation type="obsolete">prikaži gumb besedilo</translation>
     </message>
     <message>
-        <source>Disable select drag menu</source>
+        <source>Disable Title Switching in Task Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable select drag menu</source>
+        <source>Enable Title Switching in Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Icon Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Button Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Custom Button in Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Custom Button in Task Window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3776,7 +4110,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTaskTabbar</name>
     <message>
-        <source>Pannel position</source>
+        <source>Task window location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3809,7 +4143,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTextBoxWidget</name>
     <message>
-        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3820,7 +4154,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Obrazec</translation>
     </message>
     <message>
-        <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
+        <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3832,7 +4166,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Auto Shapes:</source>
-        <translation>Samooblike:</translation>
+        <translation type="obsolete">Samooblike:</translation>
     </message>
     <message>
         <source>Change AutoShape</source>
@@ -3840,6 +4174,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Show Large Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoShapes:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3855,7 +4193,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Clear Backups</source>
-        <translation>Počisti varnostne kopije</translation>
+        <translation type="obsolete">Počisti varnostne kopije</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
@@ -3865,15 +4203,27 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;View more help for restore &gt;&gt;&gt;&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Clear Backup Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpBackup</name>
     <message>
         <source>Remove All Warnings</source>
-        <translation>Odstrani vsa opozorila</translation>
+        <translation type="obsolete">Odstrani vsa opozorila</translation>
     </message>
     <message>
-        <source>Cannot Remove All Backup Files</source>
+        <source>Are you sure to delete all files?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some files cannot be deleted. They may be occupied.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3885,98 +4235,36 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Preview:</source>
-        <translation>Predogled:</translation>
+        <translation type="obsolete">Predogled:</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <translation>Izrezek</translation>
     </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Predogled</translation>
+    </message>
 </context>
 <context>
     <name>KxTpGoogleDocs</name>
     <message>
-        <source>Sign in Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkSignIn&apos;&gt;Sign In&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign out from Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkSignOut&apos;&gt;Sign Out&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open from Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Loading</source>
-        <translation>Nalaganje</translation>
-    </message>
-    <message>
-        <source>filename.wps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel Opening</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkCancelOpen&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Nalaganje</translation>
     </message>
     <message>
         <source>Opening...</source>
-        <translation>Odpiranje...</translation>
-    </message>
-    <message>
-        <source>Upload to Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel Uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkCancelUpload&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure to logout from Google Docs?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This file can not be uploaded automatically
- because it is of Google Docs format.
- you can click Upload to upload it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Google Docs format file may lose data, continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file format is not supported to upload!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Odpiranje...</translation>
     </message>
 </context>
 <context>
     <name>KxTpNativeWrapperContainer</name>
     <message>
-        <source>Object Select</source>
+        <source>Selection Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Customize Animation:</source>
+        <source>Customize animation:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3992,11 +4280,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Manage</source>
-        <translation>Upravljaj</translation>
-    </message>
-    <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Upravljaj</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
@@ -4012,7 +4296,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
-        <translation>Kingsoft Spletne predloge</translation>
+        <translation type="obsolete">Kingsoft Spletne predloge</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4026,6 +4310,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>From Design Templates</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
@@ -4035,11 +4331,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Manage</source>
-        <translation>Upravljaj</translation>
-    </message>
-    <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Upravljaj</translation>
     </message>
     <message>
         <source>New</source>
@@ -4059,7 +4351,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Kingsoft Online Templates</source>
-        <translation>Kingsoft Spletne predloge</translation>
+        <translation type="obsolete">Kingsoft Spletne predloge</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4071,6 +4363,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>From Design Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4109,7 +4413,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxTrialExpireDlg</name>
     <message>
         <source>quit</source>
-        <translation>končaj</translation>
+        <translation type="obsolete">končaj</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4132,16 +4440,20 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Purchase now to get full version of Kingsoft Office Professional.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Purchase</source>
         <translation>Kupi</translation>
     </message>
     <message>
         <source>Continue trial</source>
-        <translation>Nadaljuj s preskusno različico</translation>
+        <translation type="obsolete">Nadaljuj s preskusno različico</translation>
+    </message>
+    <message>
+        <source>Purchase now to get full version of WPS Office Professional.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue Trial</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4255,7 +4567,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation>&amp;Levo</translation>
+        <translation type="obsolete">&amp;Levo</translation>
     </message>
     <message>
         <source>Crop from</source>
@@ -4321,6 +4633,10 @@ of services and features.</source>
         <source>Re&amp;set</source>
         <translation>Pon&amp;astavi</translation>
     </message>
+    <message>
+        <source>&amp;Left:</source>
+        <translation type="unfinished">&amp;Levo:</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetSize</name>
@@ -4342,11 +4658,11 @@ of services and features.</source>
     </message>
     <message>
         <source>Relative to original  picture size</source>
-        <translation>Sorazmerno z izvirno velikostjo slike</translation>
+        <translation type="obsolete">Sorazmerno z izvirno velikostjo slike</translation>
     </message>
     <message>
         <source>Best scale for slide show</source>
-        <translation>Najboljše merilo za predstavitev</translation>
+        <translation type="obsolete">Najboljše merilo za predstavitev</translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
@@ -4398,7 +4714,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation>&amp;Sukanje:</translation>
+        <translation type="obsolete">&amp;Sukanje:</translation>
     </message>
     <message>
         <source>ucRotation</source>
@@ -4438,7 +4754,23 @@ of services and features.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Ponastavi</translation>
+        <translation type="obsolete">Ponastavi</translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Best scale for slide show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;set</source>
+        <translation type="unfinished">Pon&amp;astavi</translation>
     </message>
 </context>
 <context>
@@ -4468,11 +4800,6 @@ of services and features.</source>
         <translation>Predogled</translation>
     </message>
     <message>
-        <source>The icon you selected
-cannot be previewed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create new</source>
         <translation>Ustvari nov</translation>
     </message>
@@ -4483,6 +4810,10 @@ cannot be previewed.</source>
     <message>
         <source>&amp;Template</source>
         <translation>&amp;Predlogo</translation>
+    </message>
+    <message>
+        <source>Cannot be previewed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4533,7 +4864,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation>&amp;Zgoraj:</translation>
+        <translation type="obsolete">&amp;Zgoraj:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -4549,7 +4880,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Resize autoshape to &amp;fit text</source>
-        <translation>&amp;Spremeni velikost samooblike, tako da se prilega besedilu</translation>
+        <translation type="obsolete">&amp;Spremeni velikost samooblike, tako da se prilega besedilu</translation>
     </message>
     <message utf8="true">
         <source>Rotat&amp;e text within autoshape by 90°</source>
@@ -4560,11 +4891,19 @@ cannot be previewed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Allow text to rotate with object</source>
+        <source>T&amp;op:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Allow text to scale to frame</source>
+        <source>Resize autoshape to fit &amp;text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow text to rotate with object(&amp;F)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow text to scale to frame(&amp;Z)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4595,11 +4934,7 @@ cannot be previewed.</source>
     <name>QObject</name>
     <message>
         <source>Overwrite File?</source>
-        <translation>Ali želite prepisati datoteko?</translation>
-    </message>
-    <message>
-        <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Ali želite prepisati datoteko?</translation>
     </message>
     <message>
         <source>Arabic (Saudi Arabia)</source>
@@ -5186,10 +5521,6 @@ cannot be previewed.</source>
         <translation>Roza</translation>
     </message>
     <message>
-        <source>Pink Rose</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gray-50%</source>
         <translation>Siva–50%</translation>
     </message>
@@ -5248,10 +5579,6 @@ cannot be previewed.</source>
     <message>
         <source>Red</source>
         <translation>Rdeča</translation>
-    </message>
-    <message>
-        <source>Plum Purple</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gray-25%</source>
@@ -5379,53 +5706,81 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Do not show this message again</source>
-        <translation>Tega sporočila ne kaži več</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show this message again, 
-Always take this action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not check it when starting Kingsoft Office next time</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Tega sporočila ne kaži več</translation>
     </message>
     <message>
         <source>Norwegian (BokmÃ¥l)</source>
         <translation type="obsolete">Norveščina (Bokmal)</translation>
     </message>
     <message>
-        <source>The selected dict has been deleted, please select another dict.</source>
+        <source>Invalid file name, please enter the correct file name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <source>Save as</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
+        <source>Overwrite file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File &quot;%1&quot; already exists. Are you sure you want to overwrite the existing file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The chosen spelling language has been deleted. Please choose a language again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
+(The system uses WPS Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office is not the default office software. Do you want to set it as the default one?
+(The system uses WPS Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show this message again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again. 
+Always take this action.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not check this when starting WPS Office next time</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
-        <source>This locale can not use the skin!</source>
+        <source>Current locale cannot apply this skin.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TextDescribe</name>
     <message>
-        <source>Kingsoft Office Free only supports classic style interface.
-You can download Kingsoft Office Professional to enjoy the 2012 style interface.</source>
+        <source>WPS Office Free only supports classic style interface.
+You can download WPS Office Professional to enjoy the 2012 style interface.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office Professional supports switching between two interface styles.
-The settings will take effect after restarting the application.</source>
+        <source>
+The settings will take effect after restarting WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5433,7 +5788,11 @@ The settings will take effect after restarting the application.</source>
     <name>ThemeSchemeWidget</name>
     <message>
         <source>default</source>
-        <translation>privzeto</translation>
+        <translation type="obsolete">privzeto</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Privzeto</translation>
     </message>
 </context>
 <context>
@@ -5481,10 +5840,29 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Tech Support...</source>
-        <translation>&amp;Tehnična podpora...</translation>
+        <translation type="obsolete">&amp;Tehnična podpora...</translation>
     </message>
     <message>
-        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Technical Support...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>apidefaultDlg</name>
+    <message>
+        <source>!NO_TRANS!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5497,10 +5875,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>Apply to</source>
         <translation>Uporabi za</translation>
-    </message>
-    <message>
-        <source>&amp;Select pictures</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;All pictures in document</source>
@@ -5534,6 +5908,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <source>D&amp;elete cropped areas of pictures</source>
         <translation>I&amp;zbriši odrezana področja slik</translation>
     </message>
+    <message>
+        <source>&amp;Selected pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>creditsDlg</name>
@@ -5551,10 +5929,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
 </context>
 <context>
     <name>dlgChineseTranslation</name>
-    <message>
-        <source>Simplified and Traditonal Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Translation Direction</source>
         <translation>Smer prevoda</translation>
@@ -5591,6 +5965,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <source>S&amp;elected Slide</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Chinese Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxDlgHyperlink</name>
@@ -5612,7 +5990,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>E&amp;xisting File or Web Page</source>
-        <translation>O&amp;bstoječa datoteka ali spletna stran</translation>
+        <translation type="obsolete">O&amp;bstoječa datoteka ali spletna stran</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
@@ -5646,26 +6024,35 @@ dokumentu</translation>
     </message>
     <message>
         <source>Re&amp;cently used e-mail addresses:</source>
-        <translation>&amp;Nedavno uporabljeni e-poštni naslovi:</translation>
+        <translation type="obsolete">&amp;Nedavno uporabljeni e-poštni naslovi:</translation>
+    </message>
+    <message>
+        <source>E&amp;xisting File
+or Web Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;cently used E-mail addresses:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Jezik</translation>
+        <translation type="obsolete">Jezik</translation>
     </message>
     <message>
         <source>Available Language:</source>
-        <translation>Označeno besedilo je:</translation>
+        <translation type="obsolete">Označeno besedilo je:</translation>
     </message>
     <message>
         <source>The speller automatically use dictonaries of the selected language,if available.</source>
-        <translation>Črkovalnik in ostala orodja za preverjanje samodejno uporabljajo slovarje izbranega jezika, če so na voljo.</translation>
+        <translation type="obsolete">Črkovalnik in ostala orodja za preverjanje samodejno uporabljajo slovarje izbranega jezika, če so na voljo.</translation>
     </message>
     <message>
         <source>Set as default</source>
-        <translation>Nastavi kot privzeto</translation>
+        <translation type="obsolete">Nastavi kot privzeto</translation>
     </message>
     <message>
         <source>More</source>
@@ -5678,6 +6065,26 @@ dokumentu</translation>
     <message>
         <source>Close</source>
         <translation>Zapri</translation>
+    </message>
+    <message>
+        <source>Set Spell Check Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available Languages:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check engine will use the chosen language for checking automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5699,16 +6106,12 @@ dokumentu</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Display as icon</source>
         <translation>Pri&amp;kaži kot ikono</translation>
     </message>
     <message>
         <source>Change &amp;Icon...</source>
-        <translation>&amp;Zamenjaj ikono...</translation>
+        <translation type="obsolete">&amp;Zamenjaj ikono...</translation>
     </message>
     <message>
         <source>Result</source>
@@ -5720,7 +6123,19 @@ dokumentu</translation>
     </message>
     <message>
         <source>Paste &amp;Link</source>
-        <translation>Pri&amp;lepi povezavo</translation>
+        <translation type="obsolete">Pri&amp;lepi povezavo</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change &amp;Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste &amp;link</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5767,7 +6182,7 @@ dokumentu</translation>
     </message>
     <message>
         <source>&amp;Read only</source>
-        <translation>Samo za &amp;branje</translation>
+        <translation type="obsolete">Samo za &amp;branje</translation>
     </message>
     <message>
         <source>Hi&amp;dden</source>
@@ -5831,7 +6246,7 @@ dokumentu</translation>
     </message>
     <message>
         <source>ADD</source>
-        <translation>DODAJ</translation>
+        <translation type="obsolete">DODAJ</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -5839,7 +6254,7 @@ dokumentu</translation>
     </message>
     <message>
         <source>Checked by</source>
-        <translation>Preveril</translation>
+        <translation type="obsolete">Preveril</translation>
     </message>
     <message>
         <source>Client</source>
@@ -5847,7 +6262,7 @@ dokumentu</translation>
     </message>
     <message>
         <source>Date completed</source>
-        <translation>Datum dokončanja</translation>
+        <translation type="obsolete">Datum dokončanja</translation>
     </message>
     <message>
         <source>Department</source>
@@ -5949,6 +6364,22 @@ dokumentu</translation>
         <source>Type</source>
         <translation>Vrsta</translation>
     </message>
+    <message>
+        <source>&amp;Read-only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Dodaj</translation>
+    </message>
+    <message>
+        <source>Checker</source>
+        <translation type="unfinished">Šahovnica</translation>
+    </message>
+    <message>
+        <source>Completion date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>updateMessageDlg</name>
@@ -5957,12 +6388,16 @@ dokumentu</translation>
         <translation>Posodobitev</translation>
     </message>
     <message>
-        <source>New version is prepared. Would you like to get it now?</source>
+        <source>Ignore this version.</source>
+        <translation type="obsolete">Ignoriraj to različico.</translation>
+    </message>
+    <message>
+        <source>A new version is detected. Do you want to download the updated one?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore this version.</source>
-        <translation>Ignoriraj to različico.</translation>
+        <source>Ignore it</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

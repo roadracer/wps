@@ -27,84 +27,40 @@
 <context>
     <name>KColorCtrl</name>
     <message>
-        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation type="obsolete">Schwarz,Braun,Olivgrün,Dunkelgrün,Dunkelcyan,Dunkelblau,Indigo,Grau-80%,Dunkelrot,Orange,Dunkelgelb,Grün,Cyan,Blau,Blaugrau,Grau-50%,Rot,Hellorange,Limone,Seegrün,Aqua,Hellblau,Violett,Grau-40%,Pink,Gold,Gelb,leuchtend Grün,Türkis,Himmelblau,Pflaume,Grau-25%,Rose,Hellbraun,Hellgelb,Hellgrün,Helltürkis,Bleichblau,Lavendel,Weiß</translation>
-    </message>
-    <message>
-        <source>No Color</source>
-        <translation>Keine Farbe</translation>
-    </message>
-    <message>
-        <source>Automatic</source>
-        <translation>Automatisch</translation>
-    </message>
-    <message>
-        <source>&amp;More Colors</source>
-        <translation>&amp;Mehr Farbe</translation>
+        <source>&amp;Background</source>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
         <translation>&amp;Fülleffekte...</translation>
     </message>
     <message>
-        <source>&amp;Background</source>
-        <translation>Hintergrund</translation>
+        <source>&amp;More Colors</source>
+        <translation type="obsolete">&amp;Mehr Farbe</translation>
+    </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <translation>&amp;Mehr Farbe</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
         <translation>Gemusterte Linien...</translation>
     </message>
     <message>
+        <source>Aqua</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatisch</translation>
+    </message>
+    <message>
         <source>Black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Brown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Olive Green</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Green</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Teal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indigo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Red</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Orange</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Green</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
+        <translation type="obsolete">Schwarz,Braun,Olivgrün,Dunkelgrün,Dunkelcyan,Dunkelblau,Indigo,Grau-80%,Dunkelrot,Orange,Dunkelgelb,Grün,Cyan,Blau,Blaugrau,Grau-50%,Rot,Hellorange,Limone,Seegrün,Aqua,Hellblau,Violett,Grau-40%,Pink,Gold,Gelb,leuchtend Grün,Türkis,Himmelblau,Pflaume,Grau-25%,Rose,Hellbraun,Hellgelb,Hellgrün,Helltürkis,Bleichblau,Lavendel,Weiß</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -115,43 +71,31 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gray-50%</source>
+        <source>Bright Green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Red</source>
+        <source>Brown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light Orange</source>
+        <source>Dark Blue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lime</source>
+        <source>Dark Green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sea Green</source>
+        <source>Dark Red</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aqua</source>
+        <source>Dark Teal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light Blue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Violet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pink</source>
+        <source>Dark Yellow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -159,51 +103,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Yellow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bright Green</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Turquoise</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Plum</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gray-25%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rose</source>
+        <source>Gray-40%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tan</source>
+        <source>Gray-50%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light Yellow</source>
+        <source>Gray-80%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light Green</source>
+        <source>Green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pale Blue</source>
+        <source>Indigo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -211,7 +131,91 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Light Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>Keine Farbe</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yellow</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -236,6 +240,14 @@
 <context>
     <name>KDocTabbarEx</name>
     <message>
+        <source>&amp;Hide Quick Access Toolbar</source>
+        <translation>Sc&amp;hnellzugriff verstecken</translation>
+    </message>
+    <message>
+        <source>&amp;Hide quick access</source>
+        <translation type="obsolete">Sc&amp;hnellzugriff verstecken</translation>
+    </message>
+    <message>
         <source>Add to</source>
         <translation>Hinzufügen zu</translation>
     </message>
@@ -243,39 +255,12 @@
         <source>Customize Quick Access</source>
         <translation>Schnellzugriff anpassen</translation>
     </message>
-    <message>
-        <source>&amp;Hide quick access</source>
-        <translation>Sc&amp;hnellzugriff verstecken</translation>
-    </message>
 </context>
 <context>
     <name>KDragMenuBar</name>
     <message>
         <source>Menu Bar</source>
         <translation type="obsolete">Menüleiste</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation type="obsolete">Sprache wählen</translation>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation type="obsolete">Wählen Sie Ihre Spra&amp;che</translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="obsolete">Informationen</translation>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
-        <translation type="obsolete">Einstellungen werden nach Neustart der Applikation wirksam.</translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="obsolete">Pe&amp;rsöhnliche-Vorlagen zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -316,24 +301,35 @@
 <context>
     <name>KMainWindow</name>
     <message>
-        <source>Ma&amp;ximize</source>
-        <translation>Ma&amp;ximieren</translation>
+        <source>&amp;Exit</source>
+        <translation>&amp;Exit</translation>
     </message>
     <message>
-        <source>Unma&amp;ximize</source>
+        <source>&amp;Restore</source>
         <translation>Rückma&amp;ximieren</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation>Ma&amp;ximieren</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
         <translation>Mi&amp;nimieren</translation>
     </message>
     <message>
-        <source>&amp;Exit</source>
-        <translation>&amp;Exit</translation>
+        <source>Unma&amp;ximize</source>
+        <translation type="obsolete">Rückma&amp;ximieren</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
         <translation>Benutze System &amp;Titelbar</translation>
+    </message>
+</context>
+<context>
+    <name>KMenuWidget</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -346,16 +342,24 @@
 <context>
     <name>KPwdLineEdit</name>
     <message>
+        <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
+        <translation type="obsolete">Bevor Sie Ihr Passwort eingeben, sollten Sie die &quot;Feststelltaste&quot; deaktivieren.</translation>
+    </message>
+    <message>
         <source>Caps Lock On.</source>
+        <translation type="obsolete">Feststelltaste an.</translation>
+    </message>
+    <message>
+        <source>Caps Lock on.</source>
         <translation>Feststelltaste an.</translation>
     </message>
     <message>
-        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
         <translation type="unfinished">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
     </message>
     <message>
-        <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation>Bevor Sie Ihr Passwort eingeben, sollten Sie die &quot;Feststelltaste&quot; deaktivieren.</translation>
+        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
+        <translation type="obsolete">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -363,7 +367,15 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
+        <translation type="obsolete">Sie können nicht aus dem Passwortfeld zu kopieren</translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
         <translation>Sie können nicht aus dem Passwortfeld zu kopieren</translation>
+    </message>
+    <message>
+        <source>You should press Caps Lock to turn it off before entering your password.</source>
+        <translation>Bevor Sie Ihr Passwort eingeben, sollten Sie die &quot;Feststelltaste&quot; deaktivieren.</translation>
     </message>
 </context>
 <context>
@@ -380,30 +392,34 @@
         <translation>Von Schnellzug&amp;riff-Toolbar entfernen</translation>
     </message>
     <message>
-        <source>More commands</source>
-        <translation>Mehr Befehle</translation>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation>Zeige &amp;Schnellzugriff</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation>Zeige &amp;Schnellzugriff</translation>
+        <translation type="obsolete">Zeige &amp;Schnellzugriff</translation>
+    </message>
+    <message>
+        <source>More commands</source>
+        <translation>Mehr Befehle</translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
-        <source>Unfixed from the Listing</source>
+        <source>Clear Pinned Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear All Fixed Files</source>
+        <source>Clear Unpinned Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fixed to the Listing</source>
+        <source>Pin to List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear All Unfixed Files</source>
+        <source>Unpinned from List</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -417,11 +433,11 @@
 <context>
     <name>KToolTipWidget</name>
     <message>
-        <source>KToolTipWidget</source>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>KToolTipWidget</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -473,7 +489,7 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Illegal integer text.</source>
+        <source>This is not a valid integer.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -484,7 +500,14 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Illegal integer text.</source>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>&amp;Paste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -549,7 +572,11 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear record from list</source>
+        <source>Clear Record from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -565,23 +592,19 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OverWrite</source>
+        <source>Overtype</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation>Aktuelle Dokumente:</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Öffnen</translation>
-    </message>
-    <message>
-        <source>Delete from the Listing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

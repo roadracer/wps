@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation>&amp;Другие цвета</translation>
+        <translation type="obsolete">&amp;Другие цвета</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
@@ -201,6 +201,10 @@
         <source>White</source>
         <translation>Белый</translation>
     </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -209,7 +213,7 @@
         <translation>Не определено</translation>
     </message>
     <message>
-        <source>Неизвестный виджет</source>
+        <source>Undefined Widget</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -225,7 +229,11 @@
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation>&amp;Скрыть быстрый доступ</translation>
+        <translation type="obsolete">&amp;Скрыть быстрый доступ</translation>
+    </message>
+    <message>
+        <source>&amp;Hide Quick Access Toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -271,7 +279,7 @@
     </message>
     <message>
         <source>Unma&amp;ximize</source>
-        <translation>Вер&amp;нуть</translation>
+        <translation type="obsolete">Вер&amp;нуть</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
@@ -285,6 +293,17 @@
         <source>Use System &amp;Title Bar</source>
         <translation>Использовать системный &amp;заголовок</translation>
     </message>
+    <message>
+        <source>&amp;Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMenuWidget</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
@@ -297,15 +316,15 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation>Caps Lock включен.</translation>
+        <translation type="obsolete">Caps Lock включен.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation>Включенный CapsLock может привести к неправильному вводу пароля.</translation>
+        <translation type="obsolete">Включенный CapsLock может привести к неправильному вводу пароля.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation>Перед вводом пароля выключите &quot;Caps Lock&quot;</translation>
+        <translation type="obsolete">Перед вводом пароля выключите &quot;Caps Lock&quot;</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -313,7 +332,23 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation>Вы не можете копировать из поля ввода пароля.</translation>
+        <translation type="obsolete">Вы не можете копировать из поля ввода пароля.</translation>
+    </message>
+    <message>
+        <source>Caps Lock on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You should press Caps Lock to turn it off before entering your password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -324,30 +359,50 @@
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation>&amp;Показать Быстрый доступ</translation>
+        <translation type="obsolete">&amp;Показать Быстрый доступ</translation>
     </message>
     <message>
         <source>More commands</source>
         <translation>Остальные команды</translation>
+    </message>
+    <message>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unfixed from the Listing</source>
-        <translation>Открепленный от списка</translation>
+        <translation type="obsolete">Открепленный от списка</translation>
     </message>
     <message>
         <source>Clear All Fixed Files</source>
-        <translation>Очистить все прикрепленные файлы</translation>
+        <translation type="obsolete">Очистить все прикрепленные файлы</translation>
     </message>
     <message>
         <source>Fixed to the Listing</source>
-        <translation>Прикрепленный к списку</translation>
+        <translation type="obsolete">Прикрепленный к списку</translation>
     </message>
     <message>
         <source>Clear All Unfixed Files</source>
-        <translation>Очистить все не прикрепленные файлы</translation>
+        <translation type="obsolete">Очистить все не прикрепленные файлы</translation>
+    </message>
+    <message>
+        <source>Unpinned from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Pinned Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Unpinned Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -364,7 +419,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -417,7 +472,11 @@ multiple=multiple
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Неверное целочисленное.</translation>
+        <translation type="obsolete">Неверное целочисленное.</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -428,7 +487,18 @@ multiple=multiple
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Неверное целочисленное.</translation>
+        <translation type="obsolete">Неверное целочисленное.</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -501,11 +571,11 @@ multiple=multiple
     </message>
     <message>
         <source>OverWrite</source>
-        <translation>Переписать</translation>
+        <translation type="obsolete">Переписать</translation>
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation>Очистить запись</translation>
+        <translation type="obsolete">Очистить запись</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
@@ -517,7 +587,7 @@ multiple=multiple
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation>Удалить из списка</translation>
+        <translation type="obsolete">Удалить из списка</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -526,6 +596,18 @@ multiple=multiple
     <message>
         <source>Open Folder</source>
         <translation>Открыть папку</translation>
+    </message>
+    <message>
+        <source>Overtype</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

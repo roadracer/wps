@@ -9,37 +9,29 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save in %1</source>
+        <source>Backup in %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Backup in %1</source>
+        <source>Save in %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DiagramStyleDlg</name>
     <message>
-        <source>Diagram Style Gallery</source>
+        <source>&amp;Select a diagram style:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Select a Diagram Style:</source>
+        <source>Diagram Style Gallery</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DlgKxFileConverter</name>
     <message>
-        <source>File Conversion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text encoding:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Windows(Default)</source>
+        <source>&amp;Line end:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -47,15 +39,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Option:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Line End:</source>
+        <source>&amp;Windows(Default)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter/Newline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Newline/Enter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -67,11 +63,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Newline/Enter</source>
+        <source>Option:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pre&amp;view:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text encoding:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -80,10 +80,6 @@
     <message>
         <source>:/NetbackupWizard/emptybacktip.png</source>
         <translation type="obsolete">:/NetbackupWizard/DEU_emptybacktip.png</translation>
-    </message>
-    <message>
-        <source>emptybacktip</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -96,12 +92,20 @@
 <context>
     <name>KApplication</name>
     <message>
-        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation>Updates für Kingsoft Office wurden heruntergeladen. Jetzt installieren?</translation>
+        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <translation type="obsolete">Installation oder Update läuft, %1 wird geschlossen. Bitte %2 nach Installation oder Update erneut starten.</translation>
     </message>
     <message>
-        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
         <translation>Installation oder Update läuft, %1 wird geschlossen. Bitte %2 nach Installation oder Update erneut starten.</translation>
+    </message>
+    <message>
+        <source>WPS Office updates have been downloaded, do you want to install them now?</source>
+        <translation type="obsolete">Updates für WPS Office wurden heruntergeladen. Jetzt installieren?</translation>
+    </message>
+    <message>
+        <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
+        <translation>Updates für WPS Office wurden heruntergeladen. Jetzt installieren?</translation>
     </message>
 </context>
 <context>
@@ -134,19 +138,7 @@
 <context>
     <name>KColorDialog</name>
     <message>
-        <source>Color mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RGB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Red:</source>
+        <source>&amp;Colors:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -154,7 +146,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bl&amp;ue:</source>
+        <source>&amp;Luminance:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Red:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Saturation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -162,23 +162,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hu&amp;e:</source>
+        <source>Bl&amp;ue:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Sat:</source>
+        <source>Color mo&amp;de</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Lum:</source>
+        <source>Colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Standard</source>
+        <source>Current</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -186,38 +182,54 @@
         <translation type="unfinished">Benutzerdefiniert</translation>
     </message>
     <message>
+        <source>HSL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hu&amp;e:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New</source>
         <translation type="unfinished">Neu</translation>
     </message>
     <message>
-        <source>Current</source>
+        <source>RGB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Colors</source>
+        <source>Standard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
-        <source>Hey, click here to switch interface style!</source>
-        <translation type="obsolete">Hier klicken, um Oberflächenstil zu ändern.</translation>
+        <source>Click here to change your interface style.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We found that the document which was not saved upon last exit , has been restored.   (if you don&apos;t need to restore the file, close it directly, and then reopen the original document.)</source>
+        <source>Downloading the online font &quot;%1&quot;  failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Layout changes will take effect after restart.</source>
+        <source>Downloading the online font &quot;%1&quot;  succeeded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hey, click here to switch user interface!</source>
+        <source>Hey, click here to switch interface style!</source>
+        <translation type="obsolete">Hier klicken, um Oberflächenstil zu ändern.</translation>
+    </message>
+    <message>
+        <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -235,37 +247,37 @@
         <translation>%1 Steuerelemente</translation>
     </message>
     <message>
-        <source>ActiveX Control (*.ocx;*.dll)</source>
+        <source>ActiveX Control(*.ocx;*.dll)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot register this control.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Register Custom Control</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Can not register this control.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
-        <source>(damaged file : %1 )</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>error file list:</source>
+        <source>(The file %1 seems to be damaged.)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KDlgCrashUpload</name>
     <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
         <source>Form</source>
         <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
+        <source>Upload now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -273,15 +285,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(damaged file:????)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
-    </message>
-    <message>
-        <source>Upload now</source>
+        <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -296,8 +300,28 @@
         <translation>OK</translation>
     </message>
     <message>
-        <source>2012 Style Interface</source>
+        <source>2012 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2012 Style</source>
         <translation>2012er-Oberflächenstil</translation>
+    </message>
+    <message>
+        <source>2012 Style Interface</source>
+        <translation type="obsolete">2012er-Oberflächenstil</translation>
+    </message>
+    <message>
+        <source>2013 Elegant Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2013 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2013 Water Blue</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -308,54 +332,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic Style Interface</source>
+        <source>Classic Style</source>
         <translation>Klassischer Oberflächenstil</translation>
+    </message>
+    <message>
+        <source>Classic Style Interface</source>
+        <translation type="obsolete">Klassischer Oberflächenstil</translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please choose the interface style you want to apply.</source>
         <translation type="obsolete">Bitte gewünschten Oberflächenstil wählen.</translation>
     </message>
     <message>
-        <source>Switch Interface Style</source>
-        <translation type="obsolete">Oberflächenstil wechseln</translation>
-    </message>
-    <message>
-        <source>Theme Scheme</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2012 Skin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2013 Skin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2013 Ongmani Style Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Win8 Metro Style Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Restart Office to apply the layout.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Layout changes will take effect after restart.</source>
+        <source>Switch Interface Style</source>
+        <translation type="obsolete">Oberflächenstil wechseln</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
     <message>
-        <source>Tab,Enter,Num Enter,Left,Up,Right,Down,Esc,Delete,C,X,V,Z,Y</source>
+        <source>&amp;Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>C,X,V,Z,Y</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -363,14 +375,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>C,X,V,Z,Y</source>
+        <source>Tab,Enter,Num Enter,Left,Up,Right,Down,Esc,Delete,C,X,V,Z,Y</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
     <message>
-        <source>&amp;Encrypt</source>
+        <source>&amp;Encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -388,15 +400,15 @@
 <context>
     <name>KInputWritePasswordDlg</name>
     <message>
-        <source>Enter password to modify, or open read only.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Password:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Read Only</source>
+        <source>&amp;Read-only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter password to modify, or open read-only file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -442,55 +454,63 @@
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
+        <source>&amp;Follow system locale</source>
+        <translation>&amp;Folgen Systemgebietsschema</translation>
+    </message>
+    <message>
+        <source>&amp;Install new language</source>
+        <translation>&amp;Installieren Sie die neue Sprache</translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation type="obsolete">Pe&amp;rsöhnliche-Vorlagen zurücksetzen</translation>
+    </message>
+    <message>
         <source>Choose Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache wählen</translation>
     </message>
     <message>
         <source>Choose Language Installation Package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Follow system locale</source>
+        <translation type="obsolete">&amp;Folgen Systemgebietsschema</translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
+        <translation>Holen Sie &amp;mehr</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Informationen</translation>
+    </message>
+    <message>
         <source>Install Language Package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>installation fails, make sure to install the complete package!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
+        <source>Installation fails, make sure to install the complete package.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Install new language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get &amp;More...</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Einstellungen werden nach Neustart der Applikation wirksam.</translation>
     </message>
     <message>
         <source>ZIP File (*.zip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Follow system locale</source>
-        <translation type="unfinished"></translation>
+        <source>Settings will take effect after the application restarts.</source>
+        <translation type="unfinished">Einstellungen werden nach Neustart der Applikation wirksam.</translation>
     </message>
 </context>
 <context>
     <name>KNativeFileDialogEx</name>
     <message>
-        <source>Ctrl,Alt,Shift</source>
-        <comment>Assistant key</comment>
+        <source>Alt</source>
+        <comment>Alt key</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -499,8 +519,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alt</source>
-        <comment>Alt key</comment>
+        <source>Ctrl,Alt,Shift</source>
+        <comment>Assistant key</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -524,18 +544,30 @@
     <name>KRegisterDlg</name>
     <message>
         <source>&amp;Organization:</source>
-        <translation>&amp;Organisation:</translation>
+        <translation type="obsolete">&amp;Organisation:</translation>
     </message>
     <message>
-        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
+        <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
         <translation type="unfinished">(&quot;Name&quot; ist der Name des Autors des Dokuments)</translation>
     </message>
     <message>
+        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
+        <translation type="obsolete">(&quot;Name&quot; ist der Name des Autors des Dokuments)</translation>
+    </message>
+    <message>
         <source>* &amp;Name:</source>
-        <translation>*&amp;Name:</translation>
+        <translation type="obsolete">*&amp;Name:</translation>
     </message>
     <message>
         <source>* &amp;Serial No.:</source>
+        <translation type="obsolete">*&amp;Seriennummer:</translation>
+    </message>
+    <message>
+        <source>* Name:</source>
+        <translation>*&amp;Name:</translation>
+    </message>
+    <message>
+        <source>* Serial No.:</source>
         <translation type="unfinished">*&amp;Seriennummer:</translation>
     </message>
     <message>
@@ -544,19 +576,31 @@
     </message>
     <message>
         <source>Initials:</source>
-        <translation type="obsolete">Initialen:</translation>
+        <translation type="unfinished">Initialen:</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
+        <source>Organization:</source>
+        <translation>&amp;Organisation:</translation>
+    </message>
+    <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
         <translation type="unfinished">Speichern der Seriennummer fehlgeschlagen. Bitte prüfen Sie, ob Sie Administratorrechte haben.</translation>
     </message>
     <message>
-        <source>The items with &quot;*&quot; must be inputted.</source>
+        <source>The items with &quot;*&quot; must be entered.</source>
         <translation>Felder mit &quot;*&quot; müssen ausgefüllt werden.</translation>
+    </message>
+    <message>
+        <source>The items with &quot;*&quot; must be inputted.</source>
+        <translation type="obsolete">Felder mit &quot;*&quot; müssen ausgefüllt werden.</translation>
+    </message>
+    <message>
+        <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
@@ -567,46 +611,46 @@
         <translation type="obsolete">Sie haben das Maximum an Versuchen erreicht. Programm wird beendet.</translation>
     </message>
     <message>
-        <source>Initi&amp;als:</source>
-        <translation type="unfinished"></translation>
+        <source>You&apos;ve reached the maximum retry steps, the program will exit.</source>
+        <translation type="obsolete">Sie haben das Maximum an Versuchen erreicht. Programm wird beendet.</translation>
     </message>
     <message>
-        <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You&apos;ve reached the maximum retry steps, program will terminate.</source>
+        <source>Your input is incorrect and the program will exit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KShowMoreWindowDlg</name>
     <message>
+        <source>Active Window:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Compare Side by Side</source>
+        <translation type="unfinished">Fenster auswählen</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
+        <source>Please select the window to compare:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Window</source>
-        <translation type="unfinished">Fenster auswählen</translation>
+        <translation type="obsolete">Fenster auswählen</translation>
     </message>
     <message>
-        <source>Compare Side by Side Window</source>
+        <source>Side by Side Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch Window to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please Choose the Window to Compare</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Active Window:</source>
+        <source>Switch window to:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -678,6 +722,17 @@
     <message>
         <source>&amp;Characters:</source>
         <translation type="obsolete">&amp;Zeichen:</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchFaceDlg</name>
+    <message>
+        <source>2012 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic Skin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -757,11 +812,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Templates</source>
+        <source>Never modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Never modify</source>
+        <source>Templates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1107,43 +1162,7 @@
 <context>
     <name>KxAboutDlg</name>
     <message>
-        <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About Kingsoft Spreadsheets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About Kingsoft Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1%2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help file doesn&apos;t exist or is broken!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Product ID: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Part of %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Part of %1 trial version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1151,82 +1170,117 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>res:/icons/kxshare/%1.png</source>
+        <source>About WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find help file or help file encountered an error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part of %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Part of %1 activation version</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Product ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>res:/icons/kxshare/%1.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxApiDefaultDlg</name>
+    <message>
+        <source>No</source>
+        <translation type="unfinished">Nein</translation>
+    </message>
+    <message>
+        <source>This method %1 is not implemented. If the default value is used, then may bring risk.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished">Ja</translation>
+    </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Critical</source>
-        <translation>Kritisch</translation>
+        <translation type="obsolete">Kritisch</translation>
+    </message>
+    <message>
+        <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading ui xml file is failed. For more information, please use KDebugConsole or read logs.</source>
         <translation type="obsolete">Laden der UI-XML-Datei fehlgeschlagen. Für mehr Information, bitte KDebug-Konsole verwenden oder Protokolle lesen.</translation>
     </message>
     <message>
-        <source>Loading UI xml file is failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation type="unfinished"></translation>
+        <source>Note</source>
+        <translation>Kritisch</translation>
     </message>
 </context>
 <context>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
-        <translation>Aktions-Buttons</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connectors</source>
-        <translation>Verbindungen</translation>
-    </message>
-    <message>
-        <source>Flowchart</source>
-        <translation>Flussdiagramm</translation>
-    </message>
-    <message>
-        <source>Lines</source>
-        <translation>Linien</translation>
-    </message>
-    <message>
-        <source>Simple Shapes</source>
-        <translation>Einfache Formen</translation>
-    </message>
-    <message>
-        <source>Stars and Banners</source>
-        <translation>Sterne und Banner</translation>
+        <source>Basic Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation>Blockpfeile</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation>Sprechblasen</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connectors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stars and Banners</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxCOMAddinsDlg</name>
-    <message>
-        <source>Load at Startup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Load on Demand</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Load on Demand (currently loaded)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Add Item</source>
         <translation type="unfinished"></translation>
@@ -1240,30 +1294,38 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Failed to modify Add-In settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to unintall Add-In</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to modify the Add-In settings</source>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load at Startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load on Demand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load on Demand (Currently loaded)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxChangeIconDlg</name>
     <message>
-        <source>Browse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All Files(*.*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Icon Files(*.ico)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Executable Files(*.exe)</source>
+        <source>Browse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1271,7 +1333,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&quot;%1&quot; has no icon.</source>
+        <source>Executable Files(*.exe)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon Files(*.ico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is no icon in &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1285,8 +1355,28 @@
 <context>
     <name>KxColorAndLineWidget</name>
     <message>
+        <source>%1 pt</source>
+        <translation>%1 pt</translation>
+    </message>
+    <message>
+        <source>&amp;Curved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Elbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Straight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom</source>
         <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -1295,26 +1385,6 @@
     <message>
         <source>No Line</source>
         <translation>Keine Linie</translation>
-    </message>
-    <message>
-        <source>%1 pt</source>
-        <translation>%1 pt</translation>
-    </message>
-    <message>
-        <source>&amp;Straight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Elbow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Curved</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1331,14 +1401,14 @@
 <context>
     <name>KxCommandListModel</name>
     <message>
-        <source>Failed to add new command! It may exist already.</source>
+        <source>Failed to add new command.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxControlToolboxToolBarViewCommand</name>
     <message>
-        <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
+        <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1353,38 +1423,72 @@
 <context>
     <name>KxCustomDictionaryDlg</name>
     <message>
-        <source>Full path: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(Default)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>dictionary file(*.dic)|*.dic</source>
+        <source>Add Custom Dictionary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New dictionary file</source>
+        <source>All Files(*.*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add dictionary file</source>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Removing this custom dictionary might affect other programs of Kingsoft Office, do you want to continue?</source>
+        <source>Create Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full path: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxCustomListModel</name>
     <message>
-        <source>  Option Card</source>
+        <source>  Option Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Group</name>
+    <message>
+        <source>Custom Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Tab</name>
+    <message>
+        <source>Custom Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1423,7 +1527,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
+        <source>Are you sure to reset the &apos;%1&apos; command?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1431,7 +1535,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Comman&amp;ds</source>
+        <source>Comman&amp;ds:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command &amp;Bars:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1443,12 +1551,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>D</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dialog</source>
         <translation type="unfinished">Dialogbox</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move To</source>
@@ -1472,14 +1580,10 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Zurücksetzen</translation>
+        <translation type="obsolete">Zurücksetzen</translation>
     </message>
     <message>
-        <source>U</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Command &amp;Bars</source>
+        <source>Up</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1520,7 +1624,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;New</source>
+        <source>&amp;New...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1532,38 +1636,38 @@
         <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>R&amp;ename</source>
+        <source>R&amp;ename...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tool&amp;bars:</source>
+        <source>Tool&amp;bars</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarWTB</name>
     <message>
-        <source>Are you sure you want to delete the &apos;%1&apos; toolbar?</source>
+        <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the &apos;%1&apos; toolbar?</source>
+        <source>Are you sure to reset the &apos;%1&apos; toolbar?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please input &amp;toolbar&apos;s name:</source>
+        <source>Please enter &amp;toolbar&apos;s name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The toolbar name cannot be blank. Type a name please.</source>
+        <source>The toolbar name must not be blank.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Adding toolbar is successful!</source>
+        <source>Toolbar has been added.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Renaming toolbar is successful!</source>
+        <source>Toolbar has been renamed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1571,14 +1675,14 @@
     <name>KxDevelopToolsTriggerCommand</name>
     <message>
         <source>To work with Developer tab (including Macros, Control
-Toolbox), please purchase Kingsoft Office Professional.</source>
+Toolbox), please purchase WPS Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDiagramGalleryDlg</name>
     <message>
-        <source>OrgChart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1629,22 +1733,6 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
 <context>
     <name>KxDlgCOMAddins</name>
     <message>
-        <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available A&amp;dd-Ins:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished">OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
-    </message>
-    <message>
         <source>&amp;Add...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1653,7 +1741,19 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation type="unfinished">&amp;Entfernen</translation>
     </message>
     <message>
-        <source>Location:</source>
+        <source>A&amp;dd-Ins available:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
+        <source>Description:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1661,18 +1761,22 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Description:</source>
+        <source>Location:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
     <name>KxDlgChangeIcon</name>
     <message>
-        <source>Change Icon</source>
+        <source>&amp;Browse...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File name:</source>
+        <source>&amp;Caption:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1680,11 +1784,11 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Browse...</source>
+        <source>Change Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Caption:</source>
+        <source>File name:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1702,11 +1806,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
 <context>
     <name>KxDlgCustomDictionary</name>
     <message>
-        <source>Custom Dictionary</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dictionary &amp;list</source>
+        <source>&amp;Add...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1714,15 +1814,7 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set &amp;default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Add...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1734,7 +1826,19 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation type="unfinished">Schließen</translation>
     </message>
     <message>
-        <source>path</source>
+        <source>Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary &amp;list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1752,18 +1856,6 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
 <context>
     <name>KxDlgEditDictionary</name>
     <message>
-        <source>Edit Dictionary</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Word:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Di&amp;ctionary</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1772,16 +1864,24 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close</source>
         <translation type="unfinished">Schließen</translation>
+    </message>
+    <message>
+        <source>Di&amp;ctionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Dictionary</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditWordArtText</name>
-    <message>
-        <source>Edit WordArt Text</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&amp;Font:</source>
         <translation type="unfinished">&amp;Schriftart:</translation>
@@ -1802,54 +1902,46 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;宋体&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit WordArt Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEncryptionType</name>
     <message>
+        <source>&amp;Choose encryption type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose &amp;key length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Encryption Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Choose an encryption type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose a &amp;key length:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgFillEffects</name>
     <message>
-        <source>Fill Effects</source>
+        <source>&amp;Background:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradient</source>
+        <source>&amp;Foreground:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transparency</source>
+        <source>&amp;From corner</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>F&amp;rom:</source>
+        <source>&amp;Other Texture...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>T&amp;o:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>V&amp;ariants</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>O&amp;ne color</source>
+        <source>&amp;Texture:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1857,107 +1949,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pre&amp;set</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color &amp;1:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dar&amp;k</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color &amp;2:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pres&amp;et colors:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Early Sunset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Late Sunset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nightfall</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Daybreak</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Desert</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ocean</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calm Water</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Moss</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Peacock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wheat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Parchment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mahogany</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rainbow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RainbowII</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gold</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GoldII</source>
+        <source>&amp;Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Brass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calm Water</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1969,47 +1969,35 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Silver</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sapphire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Green</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Coffee</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mirage</source>
+        <source>Color &amp;1:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Red</source>
+        <source>Color &amp;2:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shading styles</source>
+        <source>Colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hori&amp;zontal</source>
+        <source>Curtain of Night</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Vertical</source>
+        <source>Dar&amp;k</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Diagonal &amp;up</source>
+        <source>Daybreak</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desert</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2017,7 +2005,27 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;From corner</source>
+        <source>Diagonal &amp;up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Early Sunset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;rom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2025,19 +2033,63 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Texture</source>
+        <source>Gold</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Texture:</source>
+        <source>GoldII</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Other Texture...</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pattern</source>
+        <source>Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Late Sunset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock &amp;picture aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mahogany</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mirage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moss</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nightfall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;ne color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ocean</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2045,11 +2097,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Foreground:</source>
+        <source>Parchment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Background:</source>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Peacock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2061,15 +2117,23 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Se&amp;lect Picture...</source>
+        <source>Pre&amp;set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lock &amp;picture aspect ratio</source>
+        <source>Pres&amp;et colors:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sample:</source>
+        <source>Rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RainbowII</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Red</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2077,7 +2141,47 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CurtainOfNight</source>
+        <source>Sample:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sapphire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Se&amp;lect Picture...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;o:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>V&amp;ariants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheat</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2091,7 +2195,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgGenerally</name>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
         <translation>&lt;a href=&apos;urlonline&apos;&gt; KingsoftStore (Deutsch) &lt;/a&gt;.</translation>
     </message>
     <message>
@@ -2103,16 +2207,16 @@ p, li { white-space: pre-wrap; }
         <translation>Nein</translation>
     </message>
     <message>
+        <source>Try the Professional version now to enjoy a greater number of services and features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Try the professional version now to enjoy a greater number of services and features</source>
         <translation type="obsolete">Probieren Sie jetzt die Professional-Version mit mehr Möglichkeiten und Funktionen aus</translation>
     </message>
     <message>
         <source>Yes</source>
         <translation>Ja</translation>
-    </message>
-    <message>
-        <source>Try the Professional version now to enjoy a greater number of services and features</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2125,7 +2229,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgInsertOLEObject</name>
     <message>
-        <source>Insert Object</source>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Display as icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Link to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change &amp;Icon...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2137,71 +2253,55 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Object &amp;type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fil&amp;e name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Browse...</source>
+        <source>Insert Object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Link to file</source>
+        <source>Object &amp;type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Result</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Display as icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change &amp;Icon...</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgInsertSymbol</name>
     <message>
-        <source>Symbol</source>
-        <translation type="unfinished">Symbol</translation>
+        <source>&amp;Character code:</source>
+        <translation type="unfinished">&amp;Zeichencode:</translation>
     </message>
     <message>
-        <source>&amp;Symbols</source>
-        <translation type="unfinished">&amp;Symbole</translation>
+        <source>&amp;Characters:</source>
+        <translation type="unfinished">&amp;Zeichen:</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
         <translation type="unfinished">&amp;Schriftart:</translation>
     </message>
     <message>
-        <source>S&amp;ubset:</source>
-        <translation type="unfinished">T&amp;eilmenge:</translation>
+        <source>&amp;Insert</source>
+        <translation type="unfinished">&amp;Einfügen</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
         <translation type="unfinished">&amp;Aktuell benutzte Symbole:</translation>
     </message>
     <message>
-        <source>&amp;Character code:</source>
-        <translation type="unfinished">&amp;Zeichencode:</translation>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Entfernen</translation>
     </message>
     <message>
-        <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Symbols</source>
+        <translation type="unfinished">&amp;Symbole</translation>
     </message>
     <message>
-        <source>S&amp;pecial Characters</source>
-        <translation type="unfinished">S&amp;onderzeichen</translation>
-    </message>
-    <message>
-        <source>&amp;Characters:</source>
-        <translation type="unfinished">&amp;Zeichen:</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
@@ -2209,19 +2309,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
+        <translation type="obsolete">Benutzerd&amp;efinierte Symbole:</translation>
+    </message>
+    <message>
+        <source>Cust&amp;om symbols:</source>
         <translation type="unfinished">Benutzerd&amp;efinierte Symbole:</translation>
     </message>
     <message>
-        <source>Shortcut keys:</source>
-        <translation type="unfinished">Tastenkombinationen:</translation>
+        <source>Fro&amp;m:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished">Tasten&amp;kombinationen:</translation>
-    </message>
-    <message>
-        <source>Specify S&amp;hortcut keys</source>
-        <translation type="unfinished">T&amp;astenkombinationen festlegen</translation>
+        <source>Insert to Custom S&amp;ymbols</source>
+        <translation type="unfinished">In Benutzerdefinierte S&amp;ymbole einfügen</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
@@ -2232,32 +2332,36 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Verschieben nach &amp;oben</translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Entfernen</translation>
-    </message>
-    <message>
         <source>R&amp;eset Symbol Toolbar</source>
         <translation type="unfinished">Symbol-Menüleiste z&amp;urücksetzen</translation>
     </message>
     <message>
-        <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished">In Benutzerdefinierte S&amp;ymbole einfügen</translation>
+        <source>S&amp;pecial Characters</source>
+        <translation type="unfinished">S&amp;onderzeichen</translation>
     </message>
     <message>
-        <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Einfügen</translation>
+        <source>S&amp;ubset:</source>
+        <translation type="unfinished">T&amp;eilmenge:</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <source>Shortcut &amp;keys:</source>
+        <translation type="unfinished">Tasten&amp;kombinationen:</translation>
+    </message>
+    <message>
+        <source>Shortcut keys:</source>
+        <translation type="unfinished">Tastenkombinationen:</translation>
+    </message>
+    <message>
+        <source>Specify S&amp;hortcut keys</source>
+        <translation type="unfinished">T&amp;astenkombinationen festlegen</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation type="unfinished">Symbol</translation>
     </message>
 </context>
 <context>
     <name>KxDlgLicense</name>
-    <message>
-        <source>License</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Agree</source>
         <translation type="unfinished"></translation>
@@ -2266,15 +2370,19 @@ p, li { white-space: pre-wrap; }
         <source>Disagree</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>License</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgNewTemplate</name>
     <message>
-        <source>Templates</source>
+        <source>Set as &amp;default template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set as &amp;Default Template</source>
+        <source>Templates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2289,11 +2397,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Using printer:</source>
+        <source>Printing progress:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Printing progress:</source>
+        <source>Using printer:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2315,7 +2423,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Choose command form:</source>
+        <source>&amp;Choose command from:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2323,23 +2431,23 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;eset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cust&amp;omize Quick Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Apply to all documents(default)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Cust&amp;omize Quick Access:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Only apply to the current document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2349,15 +2457,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>KxDlgRecentFileManage</name>
-    <message>
-        <source>Recent File Management</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the records which you want to remove from the recent file list, then press OK button to commit.It will not delete the files but only remove the records.
-Double click any item can open the file, or you can use the popup menu. This will clear the selection of the items.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>ID</source>
         <translation type="unfinished"></translation>
@@ -2371,6 +2470,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select &amp;All</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2378,18 +2486,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxDlgScreenTip</name>
     <message>
-        <source>Set Hyperlink ScreenTip</source>
+        <source>Screen&amp;Tip text:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Screen&amp;Tip text:</source>
+        <source>Set Hyperlink ScreenTip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
         <translation>&lt;a href=&apos;urlonline&apos;&gt; KingsoftStore (Deutsch)&lt;/a&gt;.</translation>
     </message>
     <message>
@@ -2401,16 +2509,24 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Im Ansichts-Modus öffnen</translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Infotip</source>
         <translation>Textbeschriftung</translation>
     </message>
     <message>
-        <source>Thanks for using Kingsoft Office 2012 Beta2.</source>
-        <translation>Vielen Dank für die Nutzung von Kingsoft Office 2012.</translation>
+        <source>TextLabel</source>
+        <translation type="obsolete">Textbeschriftung</translation>
     </message>
     <message>
-        <source>The trial period of your Kingsoft Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of Kingsoft Office.</source>
-        <translation>Die Testphase dieser Version von Kingsoft Office ist abgelaufen. Um fortzufahren, wählen Sie den Ansichts-Modus (Eingaben über die Tastatur sind in diesem Modus nicht möglich) oder führen Sie ein Update aufdie aktuelle Version von Kingsoft Office Personal durch.</translation>
+        <source>Thanks for using WPS Office 2012 Beta2.</source>
+        <translation>Vielen Dank für die Nutzung von WPS Office 2012.</translation>
+    </message>
+    <message>
+        <source>The trial period of your WPS Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of WPS Office.</source>
+        <translation type="obsolete">Die Testphase dieser Version von WPS Office ist abgelaufen. Um fortzufahren, wählen Sie den Ansichts-Modus (Eingaben über die Tastatur sind in diesem Modus nicht möglich) oder führen Sie ein Update aufdie aktuelle Version von WPS Office Personal durch.</translation>
+    </message>
+    <message>
+        <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
+        <translation>Die Testphase dieser Version von WPS Office ist abgelaufen. Um fortzufahren, wählen Sie den Ansichts-Modus (Eingaben über die Tastatur sind in diesem Modus nicht möglich) oder führen Sie ein Update aufdie aktuelle Version von WPS Office Personal durch.</translation>
     </message>
     <message>
         <source>Update Now</source>
@@ -2427,19 +2543,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxEditDictionaryDlg</name>
     <message>
-        <source>The word contains unallowable characters, we can&apos;t handle it.</source>
+        <source>The word contains unallowable characters. We cannot handle it.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxEditWordArtTextDlg</name>
     <message>
-        <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
+        <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished">Ungültige Ganzzahl.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
@@ -2449,11 +2565,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxEncryptionTypeDlg</name>
     <message>
-        <source>XOR Encryption</source>
+        <source> and </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Standard Encryption</source>
+        <source> multiple of 8!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2465,11 +2581,34 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> and </source>
+        <source>Standard Encryption</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> multiple of 8!</source>
+        <source>XOR Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEulaDlg</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Decline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2481,6 +2620,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>No E-Mail Client!</source>
+        <translation type="obsolete">Kein E-Mail-Programm!</translation>
+    </message>
+    <message>
+        <source>No E-Mail Client.</source>
         <translation>Kein E-Mail-Programm!</translation>
     </message>
 </context>
@@ -2491,18 +2634,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
+        <source>Select the encoding that makes your document readable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select the encoding that makes your document readable.</source>
+        <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxFileDialog</name>
     <message>
-        <source>&amp;Encrypt button tab in field dialog</source>
+        <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2510,11 +2653,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxFillEffectsDlg</name>
     <message>
-        <source>Light downward diagonal</source>
+        <source>All Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light upward diagonal</source>
+        <source>An error occurred while importing this file %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2522,31 +2665,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dark horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dark upward diagonal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wide downward diagonal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wide upward diagonal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Light vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Light horizontal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Narrow vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Narrow horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2554,15 +2677,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark horizontal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dashed downward diagonal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dashed upward diagonal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2570,23 +2685,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dashed upward diagonal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dashed vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Small confetti</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Large confetti</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zig zag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wave 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2594,23 +2697,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Horizontal brick</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Weave</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Plaid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Divot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dotted grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2618,63 +2705,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shingle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Trellis</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sphere</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Small grid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Large grid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Small checkerboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Large checkerboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outlined diamond</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Solid diamond</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Background Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Fills Scheme Color</source>
+        <source>Dotted grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2682,11 +2713,31 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Follow Accent and Followed Hyperlink Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Accent and Followed Hyperlink Scheme Color</source>
+        <source>Follow Background Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Fills Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Shadows Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Text and Lines Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Title Text Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2698,19 +2749,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select Texture</source>
+        <source>Graphics Interchange Format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Windows Metafile</source>
+        <source>Horizontal brick</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2718,15 +2761,87 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Large checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Large confetti</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Large grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light downward diagonal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light upward diagonal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outlined diamond</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plaid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Portable Network Graphics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Windows Bitmap</source>
+        <source>Select Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Graphics Interchange Format</source>
+        <source>Select Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shingle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small confetti</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid diamond</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sphere</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2738,11 +2853,39 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occurred while importing this file. %1</source>
+        <source>Trellis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select Picture</source>
+        <source>Wave 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide downward diagonal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide upward diagonal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zig zag</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2760,10 +2903,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Farben und Linien</translation>
     </message>
     <message>
-        <source>Position</source>
-        <translation>Position</translation>
-    </message>
-    <message>
         <source>Layout</source>
         <translation>Layout</translation>
     </message>
@@ -2772,121 +2911,33 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Grafik</translation>
     </message>
     <message>
+        <source>Position</source>
+        <translation>Position</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Textfeld</translation>
     </message>
 </context>
 <context>
-    <name>KxGDocsExplorer</name>
-    <message>
-        <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxGDocsLoginDlg</name>
-    <message>
-        <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save Acount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;UserName:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Captcha:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error! Login failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username or password is empty!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>change a captcha!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>login...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username or password is invalid!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get captcha image!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error!Failed to get File List!</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxGDocsModel</name>
-    <message>
-        <source>Document Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last Modified Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxGDocsModule</name>
-    <message>
-        <source>Network Error! Open file failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network Error! Upload file failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create file! File may be opened or no permission to create file!</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxHideorShowButton</name>
     <message>
-        <source>Show Taskpane</source>
+        <source>Hide Task Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide Taskpane</source>
+        <source>Show Task Window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxHyperlinkDlg</name>
     <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Up one folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Homepage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2898,23 +2949,27 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Files (*.*)</source>
+        <source>Up one folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxInputDialogCommand</name>
     <message>
-        <source>Custom:</source>
-        <translation>Benutzerdefiniert:</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation type="unfinished">Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Custom:</source>
+        <translation>Benutzerdefiniert:</translation>
     </message>
 </context>
 <context>
@@ -2926,62 +2981,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
 </context>
 <context>
     <name>KxInsertOLEObjectDlg</name>
-    <message>
-        <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts a new %1 object into your document as an icon.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts a new %1 object into your presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts a new %1 object into your document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts an icon into your presentation which represents the file.The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts an icon that represents the contents of the file into your document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>All Files(*.*)</source>
         <translation type="unfinished"></translation>
@@ -2995,45 +2994,105 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation cannot access %1, the file name is invalid.</source>
+        <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Writer cannot access %1, the file name is invalid.</source>
+        <source>Inserts a new %1 object into your document as an icon.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets cannot access %1, the file name is invalid.</source>
+        <source>Inserts a new %1 object into your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts a new %1 object into your presentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts an icon into your presentation which represents the file.The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts an icon that represents the contents of the file into your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot access %1. The file name is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot access %1. The file name is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot access %1. The file name is invalid.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxInsertSymbolDlg</name>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Keine</translation>
-    </message>
-    <message>
         <source>(Normal Text)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the Symbol toolbar?</source>
+        <source>Are you sure to reset the Symbol toolbar?</source>
         <translation type="unfinished">Möchten Sie die Symbol-Menüleiste wirklich zurücksetzen?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the Symbol toolbar?</source>
+        <translation type="obsolete">Möchten Sie die Symbol-Menüleiste wirklich zurücksetzen?</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
     <message>
         <source>Close</source>
         <translation type="unfinished">Schließen</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <source>None</source>
+        <translation type="unfinished">Keine</translation>
     </message>
 </context>
 <context>
     <name>KxMacroActionButtonCommand</name>
     <message>
-        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
+        <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3044,6 +3103,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">&lt;a href=&apos;http://www.kingsoftstore.de/software/pc-office-list.html&apos;&gt; Zum Testen hier klicken.&lt;/a&gt;</translation>
     </message>
     <message>
+        <source>Click to purchase now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Download</source>
         <translation>Herunterladen</translation>
     </message>
@@ -3052,26 +3115,22 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Nein</translation>
     </message>
     <message>
-        <source>To work with macros, please purchase Kingsoft Office Professional.
+        <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation>Um mit Makros zu arbeiten, erwerben Sie bitte Kingsoft Office Professional.
+        <translation>Um mit Makros zu arbeiten, erwerben Sie bitte WPS Office Professional.
 </translation>
     </message>
     <message>
         <source>http://www.kingsoftstore.com/professional-office-suite.html</source>
         <translation type="obsolete">http://www.kingsoftstore.de/software/pc-office-list.html</translation>
     </message>
-    <message>
-        <source>Click to purchase now.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxMacroListCommand</name>
     <message>
-        <source>To work with macros, please purchase Kingsoft Office Professional.
+        <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished">Um mit Makros zu arbeiten, erwerben Sie bitte Kingsoft Office Professional.
+        <translation type="unfinished">Um mit Makros zu arbeiten, erwerben Sie bitte WPS Office Professional.
 </translation>
     </message>
 </context>
@@ -3121,7 +3180,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Open From File...</source>
+        <source>&amp;Open from File...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3138,6 +3197,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Select Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3169,10 +3232,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hot&amp;key:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Image and Text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3181,7 +3240,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>JPEG JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
+        <source>JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3205,7 +3264,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Shortcut &amp;key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tag Image File Format(*tif *tiff)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3213,24 +3280,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Windows Window Bitmap(*.bmp)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Windows Window Enhanced MetaFile(*.emf)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
+        <source>Windows Enhanced Metafile(*.emf)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxNewTemplateDlg</name>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Blank Document</source>
         <translation type="unfinished"></translation>
@@ -3241,6 +3296,72 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Blank Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Herunterladen</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFonts</name>
+    <message>
+        <source>Click to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fold online fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For more details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More online fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause. Click to continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pay font, which is free for VIP.
+Click the icon for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using online fonts needs to sign in.
+Click the icon to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired.
+Click to recharge for more discounts.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3255,58 +3376,62 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Im Ansichts-Modus öffnen</translation>
     </message>
     <message>
-        <source>Input Serial Nummber</source>
-        <translation type="unfinished">Seriennummer eingeben</translation>
+        <source>Input Serial Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Online Store.</source>
-        <translation>Kingsoftstore (Deutsch).</translation>
+        <source>Input Serial Nummber</source>
+        <translation type="obsolete">Seriennummer eingeben</translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation type="unfinished">Vielen Dank für die Nutzung der Kingsoft Office Probierversion.</translation>
-    </message>
-    <message>
-        <source>Your Kingsoft Office trail period has expired and print will be disabled. Please enter a valid serial number, if you do not have a valid serial number you can purchase one at the</source>
-        <translation type="obsolete">Die Testphase dieser Version von Kingsoft Office ist abgelaufen, Drucken nicht mehr möglich. Bitte geben Sie eine gültige Seriennummer ein. Wenn Sie keine gültige Seriennummer haben, erwerben Sie eine im .</translation>
-    </message>
-    <message>
-        <source>Your Kingsoft Office trail period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation type="obsolete">Die Testphase dieser Version von Kingsoft Office ist abgelaufen, Drucken nicht mehr möglich. Bitte geben Sie eine gültige Seriennummer ein. Wenn Sie keine gültige Seriennummer haben, erwerben Sie eine im</translation>
-    </message>
-    <message>
-        <source>Your Kingsoft Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vielen Dank für die Nutzung der WPS Office Probierversion.</translation>
     </message>
     <message>
         <source>Update to Personal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Office Free.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Store.</source>
+        <translation>Kingsoftstore (Deutsch).</translation>
+    </message>
+    <message>
         <source>You also can download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office Free.</source>
+        <source>Your WPS Office trail period has expired and print will be disabled. Please enter a valid serial number, if you do not have a valid serial number you can purchase one at the</source>
+        <translation type="obsolete">Die Testphase dieser Version von WPS Office ist abgelaufen, Drucken nicht mehr möglich. Bitte geben Sie eine gültige Seriennummer ein. Wenn Sie keine gültige Seriennummer haben, erwerben Sie eine im .</translation>
+    </message>
+    <message>
+        <source>Your WPS Office trail period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
+        <translation type="obsolete">Die Testphase dieser Version von WPS Office ist abgelaufen, Drucken nicht mehr möglich. Bitte geben Sie eine gültige Seriennummer ein. Wenn Sie keine gültige Seriennummer haben, erwerben Sie eine im</translation>
+    </message>
+    <message>
+        <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Purchase Now</source>
+        <source>Your WPS Office trial period has expired and printing will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
+        <translation type="obsolete">Die Testphase dieser Version von WPS Office ist abgelaufen, Drucken nicht mehr möglich. Bitte geben Sie eine gültige Seriennummer ein. Wenn Sie keine gültige Seriennummer haben, erwerben Sie eine im .</translation>
+    </message>
+    <message>
+        <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
     <message>
-        <source>Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown Format Source.</source>
+        <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3314,7 +3439,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <source>Unknown Format Source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3332,19 +3461,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxPrinter</name>
     <message>
-        <source>Printer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manual duple&amp;x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Inverse ouput</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print to fi&amp;le</source>
+        <source>&amp;Inverse output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3352,15 +3469,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Busy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comment:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type:</source>
+        <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Where:</source>
+        <source>Manual duple&amp;x</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3368,15 +3489,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page &amp;source:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ready</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3384,11 +3501,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Offline</source>
+        <source>Print to fi&amp;le</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Busy</source>
+        <source>Printer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3396,146 +3513,34 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The printer &quot;%1&quot; returned an error!</source>
+        <source>Ready</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The printer &quot;%1&quot; encountered an error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use printer setting</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Where:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPropertyDlg</name>
     <message>
-        <source>Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
-    </message>
-    <message>
-        <source>Department</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reference</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publisher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Typer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Phone Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Work Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recorder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Section</source>
-        <translation type="unfinished">Abschnitt</translation>
-    </message>
-    <message>
-        <source>Client</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Target</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Finish Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purpose</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Post Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Source</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Forward to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>State</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Property</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%L1byte</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>yyyy-MM-dd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished">Ja</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="unfinished">Nein</translation>
-    </message>
-    <message>
-        <source>Your input data do not match the type specified, value should be text!</source>
+        <source>%L1 byte</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3547,11 +3552,131 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>yes</source>
+        <source>Checker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>no</source>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finish Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Layout</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="unfinished">Nein</translation>
+    </message>
+    <message>
+        <source>Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Post Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Property</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publisher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purpose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished">Abschnitt</translation>
+    </message>
+    <message>
+        <source>Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value entered does not match the specified type. The value will be stored as text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Typer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished">Ja</translation>
+    </message>
+    <message>
+        <source>yyyy-MM-dd</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3562,7 +3687,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>All commands</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3586,7 +3723,15 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished">Zurücksetzen</translation>
     </message>
     <message>
+        <source>Reset Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3597,26 +3742,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Undo</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Shape Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure to reset the customization data of all users?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All commands</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxRecentFileManageDlg</name>
@@ -3625,7 +3750,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete Record</source>
+        <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3643,7 +3768,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxRecentFilePageCommand</name>
     <message>
-        <source>Can not find the folder &quot;%1&quot;, it may be deleted, moved or renamed </source>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3657,30 +3782,43 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxSerchCtrl</name>
     <message>
-        <source>Please input command name to search</source>
+        <source>Please enter name to search</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSetSpellcheckLanguageDlg</name>
     <message>
-        <source>Choose Spellcheck Installation Package</source>
+        <source>Choose installation package of Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ZIP File (*.zip)</source>
+        <source>Install the Spell Check package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install Spellcheck Package</source>
+        <source>Installation fails, make sure to install the complete package.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Installation fails, make sure to install the complete package!</source>
+        <source>The installation is failed, for the language of the package is being used.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Spellcheck language already exists.</source>
+        <source>The installed user package has been removed, 
+but the included system package is reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall Spell Check Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zip File (*.zip)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3691,67 +3829,67 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">Modale Dialogbox! Dateien können nicht ausgeführt werden!</translation>
     </message>
     <message>
-        <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
+        <source>Not a valid file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> is not a valid file!</source>
+        <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinModel</name>
     <message>
-        <source>ongmani</source>
+        <source>2012 Style</source>
+        <translation type="unfinished">2012er-Oberflächenstil</translation>
+    </message>
+    <message>
+        <source>2013 Elegant Black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>rainbow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>classics</source>
-        <translation type="unfinished"></translation>
+        <source>Classic Style</source>
+        <translation type="unfinished">Klassischer Oberflächenstil</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinWidget</name>
     <message>
-        <source>Skin manager</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Abbrechen</translation>
     </message>
     <message>
         <source>&amp;OK</source>
         <translation type="unfinished">OK</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Abbrechen</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation type="unfinished">Schließen</translation>
+    </message>
+    <message>
+        <source>Skin Management</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSwitchUiTip</name>
     <message>
-        <source>The change takes effect the next time the Kingsoft Office is started.</source>
+        <source>I already know</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I have understood</source>
+        <source>The layout will take effect after restarting WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSwitchView</name>
     <message>
-        <source>This locale can not use the skin!</source>
+        <source>Current locale cannot apply this skin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>restart will change</source>
+        <source>Restart to make changes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3759,10 +3897,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxSymbolGalleryModel</name>
     <message>
         <source>Custom Symbols</source>
+        <translation type="obsolete">Benutzerdefinierte Symbole</translation>
+    </message>
+    <message>
+        <source>Custom Symbols:</source>
         <translation>Benutzerdefinierte Symbole</translation>
     </message>
     <message>
         <source>Recently Used Symbols</source>
+        <translation type="obsolete">Aktuell verwendete Symbole</translation>
+    </message>
+    <message>
+        <source>Recently Used Symbols:</source>
         <translation>Aktuell verwendete Symbole</translation>
     </message>
 </context>
@@ -3773,22 +3919,22 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Missing libcups.so: can not access printer!</source>
+        <source>Missing Cups libraries. Cannot access the printer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
+        <source>System DPI is asymmetric. WPS Office may have display issues.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
-        <source>Icon</source>
+        <source>Checking completed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3796,28 +3942,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resolution</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Do not report again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Checking completed!</source>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Problems below are detected in the system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resolution</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>System Check</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The following issues were detected on this system:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxTabbarMenuActCommand</name>
+    <message>
+        <source>Disable Title Switching in Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Dock left</source>
         <translation type="unfinished"></translation>
@@ -3827,31 +3977,27 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enable Title Switching in Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable title drag menu</source>
+        <source>Hide Custom Button in Task Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable title drag menu</source>
+        <source>Show Button Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>hide button text</source>
+        <source>Show Custom Button in Task Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>show button text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable select drag menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable select drag menu</source>
+        <source>Show Icon Only</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3869,25 +4015,25 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTaskTabbar</name>
     <message>
-        <source>Pannel position</source>
+        <source>Task window location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTemplateOnLineCommand</name>
     <message>
-        <source>http://www.wps.cn/</source>
-        <translation type="obsolete">http://kingsoftstore.de/</translation>
-    </message>
-    <message>
         <source>http://www.kingsoftstore.com</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://www.wps.cn/</source>
+        <translation type="obsolete">http://kingsoftstore.de/</translation>
     </message>
 </context>
 <context>
     <name>KxTemplateWidget</name>
     <message>
-        <source>Template</source>
+        <source>Modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3895,18 +4041,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type</source>
+        <source>Template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Modified</source>
+        <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTextBoxWidget</name>
     <message>
-        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3917,22 +4063,22 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
+        <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShape</name>
     <message>
+        <source>AutoShapes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change AutoShape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Shapes:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3947,30 +4093,34 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Clear Backup Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Form</source>
         <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Backups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open Backup Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpBackup</name>
     <message>
-        <source>Cannot Remove All Backup Files</source>
+        <source>Are you sure to delete all files?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove All Warnings</source>
+        <source>Some files cannot be deleted. They may be occupied.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3985,95 +4135,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpGoogleDocs</name>
-    <message>
-        <source>&lt;a href=&apos;lkCancelOpen&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkCancelUpload&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkSignIn&apos;&gt;Sign In&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;lkSignOut&apos;&gt;Sign Out&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel Opening</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel Uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opening...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign out from Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload to Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>filename.wps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open from Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure to logout from Google Docs?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This file can not be uploaded automatically
- because it is of Google Docs format.
- you can click Upload to upload it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Google Docs format file may lose data, continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file format is not supported to upload!</source>
+        <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpNativeWrapperContainer</name>
     <message>
-        <source>Object Select</source>
+        <source>Customize animation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Customize Animation:</source>
+        <source>Selection Pane</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4084,11 +4157,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Aus Design-Vorlagen</translation>
     </message>
     <message>
-        <source>Kingsoft Online Templates</source>
-        <translation>Kingsoft Online-Vorlagen</translation>
+        <source>Manage</source>
+        <translation type="obsolete">Verwalten</translation>
     </message>
     <message>
-        <source>Manage</source>
+        <source>Management</source>
         <translation>Verwalten</translation>
     </message>
     <message>
@@ -4108,7 +4181,27 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">Neu aus anderen Vorlagen ...</translation>
     </message>
     <message>
+        <source>New from Default Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation>WPS Online-Vorlagen</translation>
+    </message>
+    <message>
+        <source>New from Other Templates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open the recent file record manage dialog, remove some or all of the recent file records.</source>
+        <translation type="obsolete">Aktuelle Datensatz-Verwaltung-Dialogbox öffnen, einige oder alle Datensätze entfernen.</translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog box,and remove some or all of the recent file records.</source>
         <translation type="obsolete">Aktuelle Datensatz-Verwaltung-Dialogbox öffnen, einige oder alle Datensätze entfernen.</translation>
     </message>
     <message>
@@ -4124,67 +4217,67 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Aktuelle Dokumente</translation>
     </message>
     <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New from Default Template</source>
-        <translation>Neu aus Standard-Vorlage</translation>
-    </message>
-    <message>
-        <source>New from Other Templates...</source>
-        <translation>Neu aus anderen Vorlagen...</translation>
+        <source>WPS Online Templates</source>
+        <translation type="obsolete">WPS Online-Vorlagen</translation>
     </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
     <message>
-        <source>Recent documents</source>
-        <translation>Aktuelle Dokumente</translation>
+        <source>From Design Templates</source>
+        <translation type="unfinished">Aus Design-Vorlagen</translation>
     </message>
     <message>
         <source>Manage</source>
-        <translation type="unfinished">Verwalten</translation>
+        <translation type="obsolete">Verwalten</translation>
     </message>
     <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
-        <translation type="unfinished"></translation>
+        <source>Management</source>
+        <translation type="unfinished">Verwalten</translation>
     </message>
     <message>
         <source>New</source>
         <translation type="unfinished">Neu</translation>
     </message>
     <message>
-        <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished">Öffnen ... (Strg + O)</translation>
-    </message>
-    <message>
-        <source>Open...</source>
-        <translation type="unfinished">Öffnen ...</translation>
-    </message>
-    <message>
         <source>New Blank Document</source>
         <translation type="unfinished">Neues leeres Dokument</translation>
-    </message>
-    <message>
-        <source>New from Default Template</source>
-        <translation>Neu aus Standard-Vorlage</translation>
     </message>
     <message>
         <source>New From Other Templates...</source>
         <translation type="obsolete">Neu aus anderen Vorlagen ...</translation>
     </message>
     <message>
-        <source>From Design Templates</source>
-        <translation type="unfinished">Aus Design-Vorlagen</translation>
+        <source>New from Default Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Online Templates</source>
-        <translation type="unfinished">Kingsoft Online-Vorlagen</translation>
+        <source>New from Online Templates</source>
+        <translation type="unfinished">WPS Online-Vorlagen</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation>Neu aus anderen Vorlagen...</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open...</source>
+        <translation type="unfinished">Öffnen ...</translation>
+    </message>
+    <message>
+        <source>Open...(Ctrl + O)</source>
+        <translation type="unfinished">Öffnen ... (Strg + O)</translation>
+    </message>
+    <message>
+        <source>Recent documents</source>
+        <translation type="unfinished">Aktuelle Dokumente</translation>
+    </message>
+    <message>
+        <source>WPS Online Templates</source>
+        <translation type="obsolete">WPS Online-Vorlagen</translation>
     </message>
 </context>
 <context>
@@ -4221,7 +4314,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTrialExpireDlg</name>
     <message>
-        <source>quit</source>
+        <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4252,8 +4345,8 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">Kaufen</translation>
     </message>
     <message>
-        <source>Purchase now to get full Kingsoft Office Professional.</source>
-        <translation type="obsolete">Jetzt Vollversion von Kingsoft Office Professional kaufen.</translation>
+        <source>Purchase now to get full WPS Office Professional.</source>
+        <translation type="obsolete">Jetzt Vollversion von WPS Office Professional kaufen.</translation>
     </message>
     <message>
         <source>Try the professional version now to enjoy a greater number
@@ -4269,8 +4362,7 @@ mit mehr Möglichkeiten und Funktionen aus.</translation>
 <context>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
-        <source>Try the Professional version now to enjoy a greater number
-of services and features.</source>
+        <source>Click to try it now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4282,27 +4374,48 @@ of services and features.</source>
         <translation type="unfinished">Nein</translation>
     </message>
     <message>
-        <source>Click to try it now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase now to get full version of Kingsoft Office Professional.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Purchase</source>
         <translation type="unfinished">Kaufen</translation>
     </message>
     <message>
-        <source>Continue trial</source>
+        <source>Purchase now to get full version of WPS Office Professional.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try the Professional version now to enjoy a greater number
+of services and features.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue Trial</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWidgetColorAndLines</name>
     <message>
-        <source>Format AutoShape</source>
-        <translation type="unfinished">Formatiere AutoForm</translation>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, -1, 0, 100, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">Farbe:</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency:</source>
+        <translation>&amp;Transparenz:</translation>
+    </message>
+    <message>
+        <source>&amp;Weight:</source>
+        <translation type="unfinished">&amp;Dicke:</translation>
+    </message>
+    <message>
+        <source>Arrows</source>
+        <translation type="unfinished">Pfeilsymbole</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
@@ -4313,60 +4426,40 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ucWeight</source>
-        <translation type="unfinished">Dicke</translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt, 2, 0, 1584, 0.25</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrows</source>
-        <translation type="unfinished">Pfeilsymbole</translation>
-    </message>
-    <message>
-        <source>cbConnector</source>
-        <translation type="unfinished"></translation>
+        <source>De&amp;fault for new Objects</source>
+        <translation type="unfinished">Standart &amp;für neue Objekte</translation>
     </message>
     <message>
         <source>Fill</source>
         <translation>Fülleffekt</translation>
     </message>
     <message>
-        <source>&amp;Color:</source>
-        <translation type="unfinished">Farbe:</translation>
-    </message>
-    <message>
-        <source>ccFillColor</source>
-        <translation type="unfinished">Füllfarbe</translation>
-    </message>
-    <message>
-        <source>&amp;Transparency:</source>
-        <translation>&amp;Transparenz:</translation>
-    </message>
-    <message>
-        <source>ucTransparentcy</source>
-        <translation type="unfinished">Transparenz</translation>
-    </message>
-    <message>
-        <source>%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%, -1, 0, 100, 1</source>
-        <translation type="unfinished"></translation>
+        <source>Format AutoShape</source>
+        <translation type="unfinished">Formatiere AutoForm</translation>
     </message>
     <message>
         <source>Line</source>
         <translation type="unfinished">Linie</translation>
     </message>
     <message>
-        <source>ccLineColor</source>
-        <translation type="unfinished">Linienfarbe</translation>
+        <source>cbBeginSize</source>
+        <translation type="unfinished">Anfangsgröße</translation>
+    </message>
+    <message>
+        <source>cbBeginStyle</source>
+        <translation type="unfinished">Anfangsstil</translation>
+    </message>
+    <message>
+        <source>cbConnector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cbEndSize</source>
+        <translation type="unfinished">Endgröße</translation>
+    </message>
+    <message>
+        <source>cbEndStyle</source>
+        <translation type="unfinished">Endstil</translation>
     </message>
     <message>
         <source>cbStyle</source>
@@ -4377,138 +4470,142 @@ of services and features.</source>
         <translation type="unfinished">Strichtyp</translation>
     </message>
     <message>
-        <source>&amp;Weight:</source>
-        <translation type="unfinished">&amp;Dicke:</translation>
+        <source>ccFillColor</source>
+        <translation type="unfinished">Füllfarbe</translation>
     </message>
     <message>
-        <source>cbBeginStyle</source>
-        <translation type="unfinished">Anfangsstil</translation>
+        <source>ccLineColor</source>
+        <translation type="unfinished">Linienfarbe</translation>
     </message>
     <message>
-        <source>cbEndStyle</source>
-        <translation type="unfinished">Endstil</translation>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbBeginSize</source>
-        <translation type="unfinished">Anfangsgröße</translation>
+        <source>pt, 2, 0, 1584, 0.25</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbEndSize</source>
-        <translation type="unfinished">Endgröße</translation>
+        <source>ucTransparentcy</source>
+        <translation type="unfinished">Transparenz</translation>
     </message>
     <message>
-        <source>De&amp;fault for new Objects</source>
-        <translation type="unfinished">Standart &amp;für neue Objekte</translation>
+        <source>ucWeight</source>
+        <translation type="unfinished">Dicke</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetPicture</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Form</translation>
-    </message>
-    <message>
-        <source>&amp;Left</source>
-        <translation type="unfinished">&amp;Links</translation>
-    </message>
-    <message>
-        <source>Crop from</source>
-        <translation type="unfinished">Abschneiden</translation>
-    </message>
-    <message>
-        <source>Brig&amp;htness:</source>
-        <translation type="unfinished">&amp;Helligkeit:</translation>
-    </message>
-    <message>
-        <source>&amp;Right:</source>
-        <translation type="unfinished">&amp;Rechts:</translation>
-    </message>
-    <message>
         <source>%, 1, 0, 100, 1</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt, 2, -169077, 169077, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automatisch</translation>
-    </message>
-    <message>
-        <source>Grayscale</source>
-        <translation type="unfinished">Graustufen</translation>
-    </message>
-    <message>
-        <source>Black and White</source>
-        <translation type="unfinished">Schwarz-Weiß</translation>
-    </message>
-    <message>
-        <source>Washout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Co&amp;ntrast:</source>
-        <translation type="unfinished">Ko&amp;ntrast:</translation>
-    </message>
-    <message>
-        <source>&amp;Color:</source>
-        <translation type="unfinished">Farbe:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
         <translation type="unfinished">Unten:</translation>
     </message>
     <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">Farbe:</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation type="obsolete">&amp;Links</translation>
+    </message>
+    <message>
+        <source>&amp;Left:</source>
+        <translation type="unfinished">&amp;Links</translation>
+    </message>
+    <message>
+        <source>&amp;Right:</source>
+        <translation type="unfinished">&amp;Rechts:</translation>
+    </message>
+    <message>
         <source>&amp;Top:</source>
         <translation type="unfinished">Oben:</translation>
     </message>
     <message>
-        <source>Image control</source>
-        <translation type="unfinished">Bildsteuerung</translation>
+        <source>Automatic</source>
+        <translation type="unfinished">Automatisch</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation type="unfinished">Schwarz-Weiß</translation>
+    </message>
+    <message>
+        <source>Brig&amp;htness:</source>
+        <translation type="unfinished">&amp;Helligkeit:</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
         <translation type="unfinished">Ko&amp;mprimieren...</translation>
     </message>
     <message>
-        <source>Re&amp;set</source>
-        <translation type="unfinished">Zurück&amp;setzen</translation>
+        <source>Co&amp;ntrast:</source>
+        <translation type="unfinished">Ko&amp;ntrast:</translation>
     </message>
-</context>
-<context>
-    <name>KxWidgetSize</name>
+    <message>
+        <source>Crop from</source>
+        <translation type="unfinished">Abschneiden</translation>
+    </message>
     <message>
         <source>Form</source>
         <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Height:</source>
-        <translation type="unfinished">Höhe:</translation>
+        <source>Grayscale</source>
+        <translation type="unfinished">Graustufen</translation>
     </message>
     <message>
-        <source>Original size</source>
-        <translation type="unfinished">Original Größe</translation>
+        <source>Image control</source>
+        <translation type="unfinished">Bildsteuerung</translation>
     </message>
     <message>
-        <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished">Seitenverhältnis sperren</translation>
+        <source>Re&amp;set</source>
+        <translation type="unfinished">Zurück&amp;setzen</translation>
     </message>
     <message>
-        <source>Relative to original  picture size</source>
-        <translation type="unfinished">Relativ zur Original Größe</translation>
-    </message>
-    <message>
-        <source>Best scale for slide show</source>
+        <source>Washout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Res&amp;olution:</source>
-        <translation type="unfinished">Auflösung</translation>
+        <source>pt, 2, -169077, 169077, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetSize</name>
+    <message>
+        <source>%, 0, 0, 10675, 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbResolution</source>
-        <translation type="unfinished">Auflösung</translation>
+        <source>&amp;Best scale for slide show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Height:</source>
+        <translation type="unfinished">&amp;Höhe:</translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation type="unfinished">Relativ zur Original Größe</translation>
+    </message>
+    <message>
+        <source>&amp;Rotation:</source>
+        <translation type="obsolete">&amp;Rotation:</translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation type="unfinished">Breite:</translation>
+    </message>
+    <message>
+        <source>1024 x 768</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1280 x 1024</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>640 x 480</source>
@@ -4523,87 +4620,115 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1024 x 768</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1280 x 1024</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Size and rotate</source>
-        <translation type="unfinished">Größe und Rotation</translation>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
         <translation type="unfinished">Höh&amp;e:</translation>
     </message>
     <message>
-        <source>ucShapeHeight</source>
-        <translation type="unfinished">Formhöhe</translation>
+        <source>Height:</source>
+        <translation type="unfinished">Höhe:</translation>
     </message>
     <message>
-        <source>Wi&amp;dth:</source>
-        <translation type="unfinished">Breite:</translation>
+        <source>Lock &amp;aspect ratio</source>
+        <translation type="unfinished">Seitenverhältnis sperren</translation>
     </message>
     <message>
-        <source>ucShapeWidth</source>
-        <translation type="unfinished">Formbreite</translation>
+        <source>Original size</source>
+        <translation type="unfinished">Original Größe</translation>
     </message>
     <message>
-        <source>&amp;Rotation:</source>
+        <source>Re&amp;set</source>
+        <translation type="unfinished">Zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Relative to original  picture size</source>
+        <translation type="obsolete">Relativ zur Original Größe</translation>
+    </message>
+    <message>
+        <source>Res&amp;olution:</source>
+        <translation type="unfinished">Auflösung</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="obsolete">Zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
         <translation type="unfinished">&amp;Rotation:</translation>
-    </message>
-    <message>
-        <source>ucRotation</source>
-        <translation type="unfinished">Rotation</translation>
-    </message>
-    <message>
-        <source>degree, 0, -3600, 3600, 1</source>
-        <translation type="unfinished">Grad, 0, -3600, 3600, 1</translation>
     </message>
     <message>
         <source>Scale</source>
         <translation type="unfinished">Skalierung</translation>
     </message>
     <message>
-        <source>&amp;Height:</source>
-        <translation type="unfinished">&amp;Höhe:</translation>
+        <source>Size and rotate</source>
+        <translation type="unfinished">Größe und Rotation</translation>
     </message>
     <message>
-        <source>ucScaleHeight</source>
-        <translation type="unfinished">Skalierungshöhe</translation>
-    </message>
-    <message>
-        <source>%, 0, 0, 10675, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Width:</source>
+        <source>Wi&amp;dth:</source>
         <translation type="unfinished">Breite:</translation>
-    </message>
-    <message>
-        <source>ucScaleWidth</source>
-        <translation type="unfinished">Skalierungsbreite</translation>
     </message>
     <message>
         <source>Width:</source>
         <translation type="unfinished">Breite:</translation>
     </message>
     <message>
-        <source>Reset</source>
-        <translation type="unfinished">Zurücksetzen</translation>
+        <source>cbResolution</source>
+        <translation type="unfinished">Auflösung</translation>
+    </message>
+    <message>
+        <source>degree, 0, -3600, 3600, 1</source>
+        <translation type="unfinished">Grad, 0, -3600, 3600, 1</translation>
+    </message>
+    <message>
+        <source>ucRotation</source>
+        <translation type="unfinished">Rotation</translation>
+    </message>
+    <message>
+        <source>ucScaleHeight</source>
+        <translation type="unfinished">Skalierungshöhe</translation>
+    </message>
+    <message>
+        <source>ucScaleWidth</source>
+        <translation type="unfinished">Skalierungsbreite</translation>
+    </message>
+    <message>
+        <source>ucShapeHeight</source>
+        <translation type="unfinished">Formhöhe</translation>
+    </message>
+    <message>
+        <source>ucShapeWidth</source>
+        <translation type="unfinished">Formbreite</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetTemplate</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <source>&amp;Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Up</source>
+        <source>Cannot be previewed.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create new</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do&amp;cument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Large Icons</source>
@@ -4614,36 +4739,83 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Details</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The icon you selected
-cannot be previewed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create new</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do&amp;cument</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Template</source>
+        <source>Up</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWidgetTextBox</name>
     <message>
+        <source>&amp;Bottom:</source>
+        <translation type="unfinished">Unten:</translation>
+    </message>
+    <message>
+        <source>&amp;Left:</source>
+        <translation type="unfinished">&amp;Links</translation>
+    </message>
+    <message>
+        <source>&amp;Right:</source>
+        <translation type="unfinished">&amp;Rechts:</translation>
+    </message>
+    <message>
+        <source>&amp;Top:</source>
+        <translation type="obsolete">Oben:</translation>
+    </message>
+    <message>
+        <source>&amp;Word wrap text in autoshape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow text to be wrapped by &amp;external object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow text to rotate with object(&amp;F)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow text to scale to frame(&amp;Z)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Form</source>
         <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Internal margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize autoshape to fit &amp;text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotat&amp;e text within autoshape by 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;op:</source>
+        <translation type="unfinished">Oben:</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
@@ -4654,82 +4826,22 @@ cannot be previewed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Middle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Top centered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Middle centered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom centered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Internal margin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Left:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Top:</source>
-        <translation type="unfinished">Oben:</translation>
-    </message>
-    <message>
-        <source>&amp;Right:</source>
-        <translation type="unfinished">&amp;Rechts:</translation>
-    </message>
-    <message>
-        <source>&amp;Bottom:</source>
-        <translation type="unfinished">Unten:</translation>
-    </message>
-    <message>
-        <source>&amp;Word wrap text in autoshape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Resize autoshape to &amp;fit text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotat&amp;e text within autoshape by 90°</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow text to be wrapped by &amp;external object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow text to rotate with object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow text to scale to frame</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
     <message>
-        <source>%1 TB</source>
+        <source>%1 GB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 GB</source>
+        <source>%1 KB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4737,7 +4849,7 @@ cannot be previewed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 KB</source>
+        <source>%1 TB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4753,6 +4865,14 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Aqua green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Armenian</source>
+        <translation type="obsolete">Armenisch</translation>
+    </message>
+    <message>
+        <source>AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4812,18 +4932,36 @@ cannot be previewed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do not check it when starting Kingsoft Office next time</source>
-        <translation>Beim nächsten Öffnen von Kingsoft Office nicht überprüfen</translation>
+        <source>Do not check it when starting WPS Office next time</source>
+        <translation type="obsolete">Beim nächsten Öffnen von WPS Office nicht überprüfen</translation>
+    </message>
+    <message>
+        <source>Do not check this when starting WPS Office next time</source>
+        <translation>Beim nächsten Öffnen von WPS Office nicht überprüfen</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
+        <translation type="obsolete">Diese Nachricht nicht mehr anzeigen</translation>
+    </message>
+    <message>
+        <source>Do not show this message again.</source>
         <translation>Diese Nachricht nicht mehr anzeigen</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
+        <translation type="obsolete">Diese Nachricht nicht mehr anzeigen
+immer diese Aktion durchführen</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again. 
+Always take this action.</source>
         <translation>Diese Nachricht nicht mehr anzeigen
 immer diese Aktion durchführen</translation>
+    </message>
+    <message>
+        <source>File &quot;%1&quot; already exists. Are you sure you want to overwrite the existing file?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gold</source>
@@ -4926,10 +5064,8 @@ immer diese Aktion durchführen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
-        <translation type="obsolete">Kingsoft Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
-(Das System verwendet Kingsoft Office standardmäßig zum Öffnen von doc-, xls- und ppt-Dateien)</translation>
+        <source>Invalid file name, please enter the correct file name</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Laurel Green</source>
@@ -4968,15 +5104,15 @@ immer diese Aktion durchführen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Overwrite file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pink Rose</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Plum Purple</source>
+        <source>Plum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4988,11 +5124,36 @@ immer diese Aktion durchführen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Rose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sea Green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sky Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tamil</source>
+        <translation type="obsolete">Tamil</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation type="obsolete">Thai</translation>
+    </message>
+    <message>
+        <source>The chosen spelling language has been deleted. Please choose a language again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
+(The system uses WPS Office as the default one to open %1 files)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5005,6 +5166,17 @@ immer diese Aktion durchführen</translation>
     </message>
     <message>
         <source>Violet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office is not the default office software, do you want to set it as the default one?
+(The system uses WPS Office as the default one to open doc, xls, ppt files)</source>
+        <translation type="obsolete">WPS Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
+(Das System verwendet WPS Office standardmäßig zum Öffnen von doc-, xls- und ppt-Dateien)</translation>
+    </message>
+    <message>
+        <source>WPS Office is not the default office software. Do you want to set it as the default one?
+(The system uses WPS Office as the default one to open %1 files)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5023,49 +5195,11 @@ immer diese Aktion durchführen</translation>
         <source>custom %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>AutoBackup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thai</source>
-        <translation type="obsolete">Thai</translation>
-    </message>
-    <message>
-        <source>Armenian</source>
-        <translation type="obsolete">Armenisch</translation>
-    </message>
-    <message>
-        <source>Tamil</source>
-        <translation type="obsolete">Tamil</translation>
-    </message>
-    <message>
-        <source>The selected dict has been deleted, please select another dict.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
-        <source>This locale can not use the skin!</source>
+        <source>Current locale cannot apply this skin.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5079,8 +5213,8 @@ immer diese Aktion durchführen</translation>
 <context>
     <name>SelPictureWidgetRainbow</name>
     <message>
-        <source>2012 Style: Click it to enjoy Kingsoft Office Professional.</source>
-        <translation type="obsolete">2012er-Stil: Anklicken, um Kingsoft Office Professional zu nutzen.</translation>
+        <source>2012 Style: Click it to enjoy WPS Office Professional.</source>
+        <translation type="obsolete">2012er-Stil: Anklicken, um WPS Office Professional zu nutzen.</translation>
     </message>
     <message>
         <source>2012 Style: Click it to use 2012 style interface.</source>
@@ -5094,33 +5228,39 @@ immer diese Aktion durchführen</translation>
 <context>
     <name>TextDescribe</name>
     <message>
-        <source>Kingsoft Office Free only supports for classic style interface.
-You can download Kingsoft Office Professional to enjoy 2012 style interface.
-</source>
-        <translation type="obsolete">Kingsoft Office Free unterstützt nur den klassischen Benutzeroberflächen-Stil. 
-Laden Sie Kingsoft Office Professional herunter, um den 2012er-Stil zu nutzen.</translation>
+        <source>
+The settings will take effect after restarting WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office Professional supports for switching two kinds of interface styles.
+        <source>WPS Office Free only supports classic style interface.
+You can download WPS Office Professional to enjoy the 2012 style interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Free only supports for classic style interface.
+You can download WPS Office Professional to enjoy 2012 style interface.
+</source>
+        <translation type="obsolete">WPS Office Free unterstützt nur den klassischen Benutzeroberflächen-Stil. 
+Laden Sie WPS Office Professional herunter, um den 2012er-Stil zu nutzen.</translation>
+    </message>
+    <message>
+        <source>WPS Office Professional supports for switching two kinds of interface styles.
 The settings will take effect after restarting the application.</source>
-        <translation type="obsolete">Kingsoft Office Professional unterstützt zwei verschiedene Oberflächen-Stile.
+        <translation type="obsolete">WPS Office Professional unterstützt zwei verschiedene Oberflächen-Stile.
 Vorgenommene Einstellungen werden nach dem Neustart der Anwendung wirksam.</translation>
     </message>
     <message>
-        <source>Kingsoft Office Free only supports classic style interface.
-You can download Kingsoft Office Professional to enjoy the 2012 style interface.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Professional supports switching between two interface styles.
-The settings will take effect after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <source>WPS Office Professional supports switching between two interface styles.
+The settings will take effect after restart.</source>
+        <translation type="obsolete">WPS Office Professional unterstützt zwei verschiedene Oberflächen-Stile.
+Vorgenommene Einstellungen werden nach dem Neustart der Anwendung wirksam.</translation>
     </message>
 </context>
 <context>
     <name>ThemeSchemeWidget</name>
     <message>
-        <source>default</source>
+        <source>Default</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5142,7 +5282,11 @@ The settings will take effect after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copyright </source>
+        <source>&amp;Technical Support...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5150,11 +5294,19 @@ The settings will take effect after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This product is licensed to:</source>
+        <source>Copyright </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
         <source>Product ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This product is licensed to:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5163,64 +5315,79 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>apidefaultDlg</name>
     <message>
-        <source>OK</source>
-        <translation type="unfinished">OK</translation>
-    </message>
-    <message>
-        <source>&amp;Tech Support...</source>
+        <source>!NO_TRANS!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <source>Don&apos;t show again</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished">Textbeschriftung</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">Textbeschriftung</translation>
     </message>
 </context>
 <context>
     <name>compressPictures</name>
     <message>
-        <source>Compress Pictures</source>
-        <translation>Bilder komprimieren</translation>
-    </message>
-    <message>
-        <source>Apply to</source>
-        <translation type="unfinished">Anwenden</translation>
-    </message>
-    <message>
-        <source>&amp;Select pictures</source>
-        <translation type="unfinished">&amp;Selektiertes Bild</translation>
-    </message>
-    <message>
         <source>&amp;All pictures in document</source>
         <translation type="unfinished">&amp;Alle Bilder im Dokument</translation>
-    </message>
-    <message>
-        <source>Change resolution</source>
-        <translation type="unfinished">Auflösung verändern</translation>
-    </message>
-    <message>
-        <source>&amp;Web/Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Print</source>
-        <translation type="unfinished">Druck</translation>
-    </message>
-    <message>
-        <source>&amp;No change</source>
-        <translation type="unfinished">Kei&amp;ne Änderung</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
         <translation type="unfinished">Bilder komprimieren</translation>
     </message>
     <message>
+        <source>&amp;No change</source>
+        <translation type="unfinished">Kei&amp;ne Änderung</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished">Druck</translation>
+    </message>
+    <message>
+        <source>&amp;Select pictures</source>
+        <translation type="obsolete">&amp;Selektiertes Bild</translation>
+    </message>
+    <message>
+        <source>&amp;Selected pictures</source>
+        <translation type="unfinished">&amp;Selektiertes Bild</translation>
+    </message>
+    <message>
+        <source>&amp;Web/Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to</source>
+        <translation type="unfinished">Anwenden</translation>
+    </message>
+    <message>
+        <source>Change resolution</source>
+        <translation type="unfinished">Auflösung verändern</translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation>Bilder komprimieren</translation>
+    </message>
+    <message>
         <source>D&amp;elete cropped areas of pictures</source>
         <translation type="unfinished">&amp;Entferne abgeschnittene Bereiche der Bilder</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Optionen</translation>
+    </message>
+    <message>
+        <source>Selected pictures</source>
+        <translation type="obsolete">&amp;Selektiertes Bild</translation>
     </message>
 </context>
 <context>
@@ -5240,11 +5407,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
 <context>
     <name>dlgChineseTranslation</name>
     <message>
-        <source>Simplified and Traditonal Chinese</source>
+        <source>Apply to</source>
+        <translation type="unfinished">Anwenden</translation>
+    </message>
+    <message>
+        <source>Chinese Conversion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Translation Direction</source>
+        <source>S&amp;elected Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplified Chinese to &amp;Traditional Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5252,7 +5427,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Simplified Chinese to &amp;Traditional Chinese</source>
+        <source>Translation Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5268,20 +5443,41 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply to</source>
-        <translation type="unfinished">Anwenden</translation>
-    </message>
-    <message>
         <source>W&amp;hole Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S&amp;elected Slide</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kxDlgHyperlink</name>
+    <message>
+        <source>&amp;E-mail address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Text to display:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Addr&amp;ess:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;xisting File
+or Web Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-&amp;mail Address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email Button</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Hyperlink</source>
         <translation type="unfinished"></translation>
@@ -5291,36 +5487,12 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Text to display:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;xisting File or Web Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pl&amp;ace in this
 Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Email Button</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E-&amp;mail Address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;E-mail address:</source>
+        <source>Re&amp;cently used E-mail addresses:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5328,11 +5500,7 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Re&amp;cently used e-mail addresses:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Remove Link</source>
+        <source>ScreenTi&amp;p...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5370,66 +5538,66 @@ Document</source>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
-        <source>Set Spellcheck Language</source>
-        <translation>Rechtschreibsprache setzen</translation>
-    </message>
-    <message>
         <source>Available Language:</source>
-        <translation type="unfinished">Verfügbare Sprachen:</translation>
+        <translation type="obsolete">Verfügbare Sprachen:</translation>
     </message>
     <message>
-        <source>The speller automatically use dictonaries of the selected language,if available.</source>
-        <translation type="unfinished">Der Prüfer nutzt automatisch Wörterbücher der ausgewälten Sprache, wenn vorhanden.</translation>
+        <source>Available Languages:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set as default</source>
-        <translation type="unfinished">Als Standard setzen</translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation type="unfinished">Weitere</translation>
+        <source>Close</source>
+        <translation type="unfinished">Schließen</translation>
     </message>
     <message>
         <source>Install</source>
         <translation type="unfinished">Installieren</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <source>Make Default</source>
+        <translation type="obsolete">Als Standard setzen</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished">Weitere</translation>
+    </message>
+    <message>
+        <source>Set Default</source>
+        <translation type="unfinished">Als Standard setzen</translation>
+    </message>
+    <message>
+        <source>Set Spell Check Language</source>
+        <translation>Rechtschreibsprache setzen</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
+        <translation type="obsolete">Rechtschreibsprache setzen</translation>
+    </message>
+    <message>
+        <source>Set as default</source>
+        <translation type="obsolete">Als Standard setzen</translation>
+    </message>
+    <message>
+        <source>Spell Check engine will use the chosen language for checking automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The speller automatically use dictonaries of the selected language,if available.</source>
+        <translation type="obsolete">Der Prüfer nutzt automatisch Wörterbücher der ausgewälten Sprache, wenn vorhanden.</translation>
+    </message>
+    <message>
+        <source>Uninstall</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>pasteSpecial</name>
     <message>
-        <source>Paste Special</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Source:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;As:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation type="unfinished">Textbeschriftung</translation>
-    </message>
-    <message>
         <source>&amp;Display as icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change &amp;Icon...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Result</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5437,102 +5605,42 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paste &amp;Link</source>
+        <source>Change &amp;Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished">Textbeschriftung</translation>
+    </message>
+    <message>
+        <source>Paste &amp;link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">Textbeschriftung</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>tpropertydlg</name>
     <message>
-        <source>property</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Location:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Created:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MS-DOS file name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modified:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accessed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attributes:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Read only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hi&amp;dden</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ar&amp;chive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;System</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Summary</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sa&amp;ve preview picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Subject:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Keyword:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C&amp;ompany:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Comments:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cat&amp;egory:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Manager:</source>
+        <source>&amp;Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5540,15 +5648,7 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation type="unfinished">Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ADD</source>
+        <source>&amp;Comments:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5556,7 +5656,67 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Checked by</source>
+        <source>&amp;Keyword:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manager:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Read-only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Subject:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;System</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accessed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ar&amp;chive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ompany:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cat&amp;egory:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5564,7 +5724,19 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date completed</source>
+        <source>Completion date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5580,11 +5752,51 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Forward to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Hi&amp;dden</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MS-DOS file name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N&amp;o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5596,7 +5808,23 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pro&amp;perty:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purpose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sa&amp;ve preview picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5608,19 +5836,7 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Purpose</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Forward to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Matter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Type:</source>
+        <source>Summary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5628,35 +5844,11 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date</source>
+        <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Whether or not</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Value:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>N&amp;o</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pro&amp;perty:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
+        <source>Type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5664,29 +5856,33 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type</source>
+        <source>Whether or not</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>property</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>updateMessageDlg</name>
     <message>
+        <source>A new version is detected. Do you want to download the updated one?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New version is prepared. Would you like to get it now?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore this version.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wordartdlg</name>
     <message>
-        <source>WordArt Gallery</source>
+        <source>&amp;Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5694,7 +5890,7 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Preview</source>
+        <source>WordArt Gallery</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

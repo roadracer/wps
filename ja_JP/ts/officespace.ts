@@ -1,263 +1,682 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja">
+<TS version="2.0" language="ja_JP">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KActiveDialogAtStartup</name>
     <message>
-        <source>https://vip.wps.cn/openapi/card/activate</source>
-        <translation type="unfinished"></translation>
+        <source>https://vip.wps.cn/api/card/activate</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KBeforeLoginTipWidget</name>
     <message>
         <source>Form</source>
-        <translation>フォーム</translation>
-    </message>
-    <message>
-        <source>more</source>
-        <translation type="obsolete">追加</translation>
+        <translation></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished">テキストラベル</translation>
+        <translation></translation>
     </message>
     <message>
         <source>webHomeLink</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <source>introduce</source>
-        <translation type="unfinished"></translation>
+        <source>Introduction</source>
+        <translation></translation>
     </message>
     <message>
-        <source>homepage link of qingbangong</source>
-        <translation type="unfinished"></translation>
+        <source>Homepage link of WPS Office Cloud</source>
+        <translation></translation>
     </message>
     <message>
-        <source>help link of qingbangong</source>
-        <translation type="unfinished"></translation>
+        <source>Help link of WPS Office Cloud</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KCheckCloudFileTip</name>
+    <message>
+        <source>This document is updated. Go and check the updates.</source>
+        <translation type="obsolete">%1 このファイルが更新されました。クラウドより更新箇所をチェックできます。</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>チェック</translation>
+    </message>
+    <message>
+        <source>This document is updated. Go and check the updates.</source>
+        <comment>allow with %1 for modifier</comment>
+        <translation type="unfinished">%1 このファイルが更新されました。クラウドより更新箇所をチェックできます。</translation>
     </message>
 </context>
 <context>
     <name>KCloudFileStateItem</name>
     <message>
-        <source>nologin, check fail</source>
-        <translation type="unfinished"></translation>
+        <source>Check failed because the account was logged off. Please login again.</source>
+        <translation type="obsolete">アカウントがログアウトされたため、チェックできませんでした。再度ログインしてください。</translation>
     </message>
     <message>
-        <source>nologin, upload fail</source>
-        <translation type="unfinished"></translation>
+        <source>Upload failed because the account was logged off. Please login again.</source>
+        <translation>アカウントがログアウトされたため、アップロードできませんでした。再度ログインしてください。</translation>
     </message>
     <message>
-        <source>file is not belong to current user</source>
-        <translation type="unfinished"></translation>
+        <source>This file does not belong to the current user. Please change the account</source>
+        <translation>このファイルは現在のアカウントに属していません。アカウントを切り替えてください。</translation>
+    </message>
+    <message>
+        <source>Check failed because account was logged off. Please login again</source>
+        <translation type="unfinished">アカウントがログアウトされたため、チェックできませんでした。再度ログインしてください。</translation>
     </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
     <message>
-        <source>window_title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>qingdizhi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>dir</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
-        <source>filename</source>
-        <translation type="unfinished"></translation>
+        <source>File Name</source>
+        <translation>ファイル名</translation>
     </message>
     <message>
-        <source>none</source>
-        <translation type="unfinished"></translation>
+        <source>From the current device</source>
+        <translation>このデバイス から</translation>
     </message>
     <message>
-        <source>user cancel task</source>
-        <translation type="unfinished"></translation>
+        <source>N/A</source>
+        <translation>なし</translation>
     </message>
     <message>
-        <source>has new version, please check on cloud</source>
-        <translation type="unfinished"></translation>
+        <source>Manually stopped uploading</source>
+        <translation>タスクが手動停止されました</translation>
     </message>
     <message>
-        <source>has new version, please refresh</source>
-        <translation type="unfinished"></translation>
+        <source>New version is available</source>
+        <translation>クラウド側が新しいバージョンがあります。更新してください。</translation>
     </message>
     <message>
-        <source>checking new file version</source>
-        <translation type="unfinished"></translation>
+        <source>Checking updates in the cloud</source>
+        <translation>クラウド側の更新をチェックしています...</translation>
     </message>
     <message>
-        <source>uploading to cloud server</source>
-        <translation type="unfinished"></translation>
+        <source>Uploading to File Roaming</source>
+        <translation>ファイルをローミングサーバーへアップロードしています</translation>
     </message>
     <message>
-        <source>file has been synced</source>
-        <translation type="unfinished"></translation>
+        <source>Uploaded %1 minutes ago</source>
+        <translation>%1分前ファイルをローミングサーバーにアップロードしました</translation>
     </message>
     <message>
-        <source>sync ok</source>
-        <translation type="unfinished"></translation>
+        <source>Uploaded to File Roaming</source>
+        <translation>ファイルをローミングサーバーにアップロードしました</translation>
     </message>
     <message>
-        <source>default error message</source>
-        <translation type="unfinished"></translation>
+        <source>Failed to connect to server</source>
+        <translation>サーバーに接続できませんでした</translation>
     </message>
     <message>
-        <source>cloud fileName</source>
-        <translation type="unfinished"></translation>
+        <source>Uploading to cloud</source>
+        <translation>クラウド側へアップロードしています...</translation>
     </message>
     <message>
-        <source>cloud dir</source>
-        <translation type="unfinished"></translation>
+        <source>This is a historical version</source>
+        <translation>このバージョンが履歴バージョンです</translation>
     </message>
     <message>
-        <source>check</source>
+        <source>Checked %1 minutes ago</source>
+        <translation>%1分前チェックしました。最新のファイルです。</translation>
+    </message>
+    <message>
+        <source>Consistent with cloud</source>
+        <translation>ファイルはサーバー側のバージョンと一致します</translation>
+    </message>
+    <message>
+        <source>Share Link</source>
+        <translation>クラウドリンク</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>チェック</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>Windows dialog title</source>
+        <translation>Windowsダイアログタイトル</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <translation>ディレクトリ</translation>
+    </message>
+    <message>
+        <source>File name:</source>
+        <translation>ファイル名:</translation>
+    </message>
+    <message>
+        <source>Cloud Docs:</source>
+        <translation>クラウドファイル:</translation>
+    </message>
+    <message>
+        <source>Source path:</source>
+        <translation>ローカルディレクトリ:</translation>
+    </message>
+    <message>
+        <source>Cloud path:</source>
+        <translation>クラウドディレクトリ:</translation>
+    </message>
+    <message>
+        <source>Light address</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>KCloudFileUpdateView</name>
+    <name>KCloudNewVersionTip</name>
     <message>
-        <source>UpdateNewVersionView</source>
-        <translation type="unfinished"></translation>
+        <source>This document is updated. Go and check the updates.</source>
+        <translation type="obsolete">%1 ファイルが更新されました。クラウド側より更新箇所をチェックできます。</translation>
     </message>
     <message>
-        <source>clickLabel</source>
-        <translation type="unfinished"></translation>
+        <source>This document is updated. Click Refresh and check.</source>
+        <translation type="obsolete">%1 ファイルが更新されました。更新をクリックして更新されたファイルをチェックできます。</translation>
     </message>
     <message>
-        <source>tipLabel</source>
-        <translation type="unfinished"></translation>
+        <source>View</source>
+        <translation>チェック</translation>
     </message>
     <message>
-        <source>some one update document, click refresh.</source>
-        <translation type="unfinished"></translation>
+        <source>Refresh</source>
+        <translation>更新</translation>
     </message>
     <message>
-        <source>refresh  cloud document</source>
-        <translation type="unfinished"></translation>
+        <source>This document is updated. Go and check the updates.</source>
+        <comment>allow with %1 for modifier</comment>
+        <translation type="unfinished">%1 ファイルが更新されました。クラウド側より更新箇所をチェックできます。</translation>
     </message>
     <message>
-        <source>some one updated document, click check.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>check cloud document</source>
-        <translation type="unfinished"></translation>
+        <source>This document is updated. Click Refresh and check.</source>
+        <comment>allow with %1 for modifier</comment>
+        <translation type="unfinished">%1 ファイルが更新されました。更新をクリックして更新されたファイルをチェックできます。</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
-        <source>Explore Versions</source>
-        <translation>エクスプローラバージョン</translation>
-    </message>
-    <message>
-        <source>KOS_personal_Logout tip</source>
-        <translation type="obsolete">KOS_personal_Logout tip</translation>
-    </message>
-    <message>
-        <source>Login klive before activating auto backup.</source>
-        <translation>KDriveにログインし、自動バックアップを有効にする</translation>
-    </message>
-    <message>
-        <source>Login klive before auto backup.</source>
-        <translation>KDriveにログインし、自動バックアップ</translation>
-    </message>
-    <message>
-        <source>Login klive before canceling auto backup.</source>
-        <translation>KDriveにログインし、自動バックアップをキャンセル</translation>
-    </message>
-    <message>
-        <source>Login klive before deleting files.</source>
-        <translation>KDriveにログインし、ファイルを削除</translation>
-    </message>
-    <message>
-        <source>Login klive before explor backup dir.</source>
-        <translation>KDriveにログインし、バックアップdirを調べる</translation>
-    </message>
-    <message>
-        <source>Login klive before explore versions.</source>
-        <translation>KDriveにログインし、バージョンを調べる</translation>
-    </message>
-    <message>
-        <source>Login File Safe before manual backup.</source>
-        <translation>KDriveniログインし、バージョンを表示する</translation>
-    </message>
-    <message>
-        <source>Login klive before opening files.</source>
-        <translation>KDriveにログインし、ファイルを開く</translation>
-    </message>
-    <message>
-        <source>Manual Backup</source>
-        <translation>バージョンの表示</translation>
-    </message>
-    <message>
-        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation>dirのバージョンがありません。最初にバックアップをして下さい</translation>
-    </message>
-    <message>
-        <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation>ファイルバージョンがありません。最初にバクアップをして下さい</translation>
-    </message>
-    <message>
-        <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>このドキュメントは自動バックアップが有効ではありません</translation>
-    </message>
-    <message>
-        <source>Kingsoft Office auto backup</source>
-        <translation>WPS バージョン バックアップ</translation>
-    </message>
-    <message>
-        <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>ドキュメントにバージョンが付加されました</translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Important! Don&apos;t delete this directory.txt</source>
-        <translation>重要　このディレクトリは削除できません</translation>
-    </message>
-    <message>
         <source>link</source>
-        <translation>リンク</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation></translation>
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>時刻の変更</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>http://www.kingsoftstore.com/support/pc-office</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Kingsoft Office auto backup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Explore Versions</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login klive before auto backup.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login klive before activating auto backup.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login File Safe before manual backup.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login klive before explore versions.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login klive before canceling auto backup.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login klive before explor backup dir.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Important! Don&apos;t delete this directory.txt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login klive before opening files.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Login klive before deleting files.</source>
+        <translation></translation>
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation>netbackup 回復ファイル</translation>
+        <translation></translation>
     </message>
     <message>
         <source>netbackup rollback failed.</source>
-        <translation>netbackup 後退ファイル</translation>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KCouldFastLinkButton</name>
+    <message>
+        <source>Cloud Docs Management</source>
+        <translation>クラウドファイル管理</translation>
+    </message>
+</context>
+<context>
+    <name>KCreateCloudLinkDlg</name>
+    <message>
+        <source>Sure you want to cancel the generation of share link?</source>
+        <translation>クラウドリンクの作成を取り消しますか？</translation>
+    </message>
+</context>
+<context>
+    <name>KDataRecoverButton</name>
+    <message>
+        <source>Kingsoft Data Recovery Master</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Data Recovery Master</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KDataRecoverDownloadTip</name>
+    <message>
+        <source>Loading the Data Recovery Master. Please wait...</source>
+        <translation>Kingsoft Data Recoveryをロードしています。しばらくお待ちください...</translation>
+    </message>
+</context>
+<context>
+    <name>KDownloadingTip</name>
+    <message>
+        <source>Continue opening the updated version of your document.</source>
+        <translation>ファイルの最新バージョンを開いています。開いた後更新します。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>了解しました</translation>
+    </message>
+</context>
+<context>
+    <name>KFileActionManager</name>
+    <message>
+        <source>Create new folder</source>
+        <comment>create new folder</comment>
+        <translation>新規フォルダ</translation>
+    </message>
+</context>
+<context>
+    <name>KFileListView</name>
+    <message>
+        <source>Are you sure you want to delete the file &apos;%1&apos;?</source>
+        <translation>この%1個の項目を削除しますか？</translation>
+    </message>
+    <message>
+        <source>Delete file</source>
+        <translation>ファイルを削除</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the file &apos;%1&apos; files?</source>
+        <translation type="obsolete">ファイル&apos;%1&apos;を削除しますか？</translation>
+    </message>
+    <message>
+        <source>Delete multiple items</source>
+        <translation>複数の項目を削除</translation>
+    </message>
+</context>
+<context>
+    <name>KFileModeDelegate</name>
+    <message>
+        <source>The file path cannot be longer than 255 characters.</source>
+        <translation>ファイルの保存先を255文字以下で指定してください。</translation>
+    </message>
+    <message>
+        <source>File names cannot contain any of the following characters:
+      \ / : * ? &quot; &lt; &gt; | !</source>
+        <translation>ファイル名には以下の文字を指定しないでください。
+      \ / : * ? &quot; &lt; &gt; |</translation>
+    </message>
+    <message>
+        <source>Changing the file suffix may lead to file opening failure!
+Are you sure to change?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>rename</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The file name cannot be empty.</source>
+        <comment>The file name cannot been empty!</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The file name already exists.</source>
+        <translation>同名ファイル或いは同名フォルダが既に存在します。</translation>
+    </message>
+</context>
+<context>
+    <name>KFileViewPage</name>
+    <message>
+        <source>Help</source>
+        <translation>ヘルプ</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>クラウドへ保存</translation>
+    </message>
+    <message>
+        <source>Go to the previous folder</source>
+        <extracomment>Back to previous directory</extracomment>
+        <translation>アクセスしたフォルダに戻る</translation>
+    </message>
+    <message>
+        <source>&amp;Forward</source>
+        <translation>フォワード(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Homepage</source>
+        <translation>ホーム</translation>
+    </message>
+    <message>
+        <source>Go up</source>
+        <translation>1つ上の階層に戻る</translation>
+    </message>
+    <message>
+        <source>New Folder</source>
+        <translation>新規フォルダ</translation>
+    </message>
+    <message>
+        <source>&quot;View&quot; menu</source>
+        <translation>&quot;表示&quot; メニュー</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation>フィードバック</translation>
+    </message>
+    <message>
+        <source>File &amp;Name:</source>
+        <translation>ファイル名(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Save &amp;Type:</source>
+        <translation>保存形式(&amp;T):</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation>保存(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Encrypt</source>
+        <translation>暗号化(&amp;E)</translation>
+    </message>
+    <message>
+        <source> - replica</source>
+        <translation> - コピー</translation>
+    </message>
+    <message>
+        <source>&amp;Help</source>
+        <translation>ヘルプ(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation>開く(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Open &amp;Type:</source>
+        <translation>開く形式(&amp;T):</translation>
+    </message>
+    <message>
+        <source>&amp;View Mode</source>
+        <translation>表示(&amp;V)</translation>
+    </message>
+    <message>
+        <source>&amp;Small</source>
+        <translation>小アイコン(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Middle</source>
+        <translation>中アイコン(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;List</source>
+        <translation>リスト(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Detail</source>
+        <translation>詳細情報(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Content</source>
+        <translation>内容(&amp;C)</translation>
+    </message>
+    <message>
+        <source>F1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>rena&amp;me</source>
+        <translation>リネーム(&amp;M)</translation>
+    </message>
+    <message>
+        <source>F2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>r&amp;efresh</source>
+        <translation>更新(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation>切り取り(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Cut and paste currently selected content to clipboard</source>
+        <translation>選択された内容をクリップボードに切り取り</translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation>コピー(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Copy selected content to clipboard</source>
+        <translation>選択された内容をクリップボードにコピー</translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation>貼り付け(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Paste the clipboard&apos;s contents into the current directory</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>削除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Delete selected content</source>
+        <translation>選択された内容を削除</translation>
+    </message>
+    <message>
+        <source>D&amp;irecDelete</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select all the files!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation>元に戻す(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>元に戻す</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Ctrl+W</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Close dialog window</source>
+        <translation>ダイアログを閉じる</translation>
+    </message>
+    <message>
+        <source>Create Shortcut(&amp;L)</source>
+        <translation>ショートカットを作成(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Create shortcut</source>
+        <translation>ショートカットを作成</translation>
+    </message>
+    <message>
+        <source>Ba&amp;ckward</source>
+        <translation>戻る(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Go back dir</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Go Ahead dir</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;up</source>
+        <translation type="obsolete">1つ上の階層に戻る(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Alt+Up</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Go up dir</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation>置換(&amp;R)</translation>
+    </message>
+    <message>
+        <source>new &amp;folder</source>
+        <translation>新規フォルダ(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Live state init, please wait...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File %1 does not exist.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The file name is too long. Please enter a file name less than %1 characters.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>名前を付けて保存</translation>
+    </message>
+    <message>
+        <source>File name error, please enter a correct format file name.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%1 already exists. Sure you want to replace it?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Confirm save as</source>
+        <translation>名前を付けて保存</translation>
+    </message>
+    <message>
+        <source>Error saving the new folder, you can only make replacements in the current view.</source>
+        <translation>新規保存できません。現在のビューに上書き保存だけできます。</translation>
+    </message>
+    <message>
+        <source>Files loading, please wait...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Sort Mode</source>
+        <translation>並べ替え(&amp;S)</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>ファイル名</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -268,476 +687,326 @@
         <translation>種類</translation>
     </message>
     <message>
-        <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation>オフィス・スペースの改善要望リンク</translation>
-    </message>
-</context>
-<context>
-    <name>KCreateCloudLinkDlg</name>
-    <message>
-        <source>Sure you want to cancel the emission qing address?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KFileActionManager</name>
-    <message>
-        <source>Create new folder</source>
-        <comment>create new folder</comment>
-        <translation>新しいフォルダ</translation>
-    </message>
-</context>
-<context>
-    <name>KFileListView</name>
-    <message>
-        <source>Are you sure you want to delete &apos;%1&apos; files?</source>
-        <translation>%1 を削除してもよろしいですか？</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation>%1 を削除してもよろしいですか？</translation>
-    </message>
-    <message>
-        <source>Delete file</source>
-        <translation>ファイルの削除</translation>
-    </message>
-    <message>
-        <source>Delete many objects</source>
-        <translation>さらにオブジェクトを削除する</translation>
-    </message>
-</context>
-<context>
-    <name>KFileModeDelegate</name>
-    <message>
-        <source>Changing the file suffix may lead to file opening failure!
-Are you sure to change?</source>
-        <translation>ファイル拡張子を変更すると、ファイルが使用できなくなることがあります。それでも変更しますか？</translation>
-    </message>
-    <message>
-        <source>The file name already exists!</source>
-        <translation>ファイル名がすでに存在しています</translation>
-    </message>
-    <message>
-        <source>The file name must not contain any of the characters:
-      \ / : * ? &quot; &lt; &gt; | !</source>
-        <translation>ファイル名には以下の記号を含むことができません。</translation>
-    </message>
-    <message>
-        <source>rename</source>
-        <translation>名称変更</translation>
-    </message>
-    <message>
-        <source>The file name cannot be empty !</source>
-        <comment>The file name cannot been empty!</comment>
-        <translation>ファイル名が空欄です</translation>
-    </message>
-    <message>
-        <source>The file path cannot be longer than 255 characters !</source>
-        <translation>ファイルパスは255字以下にして下さい</translation>
-    </message>
-</context>
-<context>
-    <name>KFileViewPage</name>
-    <message>
-        <source> - bac</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&quot;view&quot; menu</source>
-        <translation>閲覧メニュー</translation>
-    </message>
-    <message>
-        <source>%1 already exists, are you sure you want to replace it?</source>
-        <translation type="obsolete">%1 はすでに存在しています。置換しますか？</translation>
-    </message>
-    <message>
-        <source>%1The above file name is invalid !</source>
-        <translation>%1 上記のファイル名は無効です</translation>
-    </message>
-    <message>
-        <source>&amp;Ascending</source>
-        <translation>上げる</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation>閉じる</translation>
-    </message>
-    <message>
-        <source>&amp;Copy</source>
-        <translation>コピー</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation>削除</translation>
-    </message>
-    <message>
-        <source>&amp;Descending</source>
-        <translation>下げる</translation>
-    </message>
-    <message>
-        <source>&amp;Encryption</source>
-        <translation>暗号化</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation>開く</translation>
-    </message>
-    <message>
-        <source>&amp;Paste</source>
-        <translation>貼り付け</translation>
-    </message>
-    <message>
-        <source>&amp;Replace</source>
-        <translation>置換</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation>保存</translation>
-    </message>
-    <message>
-        <source>&amp;Sort Mode</source>
-        <translation>並べ替えモード</translation>
-    </message>
-    <message>
-        <source>&amp;Undo</source>
-        <translation>元に戻す</translation>
-    </message>
-    <message>
-        <source>&amp;back</source>
-        <translation>戻る</translation>
-    </message>
-    <message>
-        <source>&amp;Content</source>
-        <translation>コンテンツ</translation>
-    </message>
-    <message>
-        <source>&amp;Details</source>
-        <translation>詳細</translation>
-    </message>
-    <message>
-        <source>&amp;Forward</source>
-        <translation>前へ</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <translation>ヘルプ</translation>
-    </message>
-    <message>
-        <source>&amp;List</source>
-        <translation>リスト</translation>
-    </message>
-    <message>
-        <source>&amp;Middle</source>
-        <translation>中心</translation>
-    </message>
-    <message>
-        <source>&amp;Small</source>
-        <translation>小さい</translation>
-    </message>
-    <message>
-        <source>&amp;Up</source>
-        <translation>上へ</translation>
-    </message>
-    <message>
-        <source>&amp;View Mode</source>
-        <translation>閲覧モード</translation>
-    </message>
-    <message>
-        <source>Alt+Up</source>
-        <translation>Al + Up</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>キャンセル</translation>
-    </message>
-    <message>
-        <source>Close the dialog!</source>
-        <translation>ダイアログを閉じる</translation>
-    </message>
-    <message>
-        <source>Confirm to Save As</source>
-        <translation>保存の確認</translation>
-    </message>
-    <message>
-        <source>Copy the current selection&apos;s contents to the clipboard</source>
-        <translation>選択範囲の内容を切り取りクリップボードへ</translation>
-    </message>
-    <message>
-        <source>Create Quick &amp;Link</source>
-        <translation>クイックリンクの作成</translation>
-    </message>
-    <message>
-        <source>Create Quick Link</source>
-        <translation>クイックリンクの作成</translation>
-    </message>
-    <message>
-        <source>Ctrl+W</source>
-        <translation>Ctrl + W</translation>
-    </message>
-    <message>
-        <source>Cu&amp;t</source>
-        <translation>切り取り</translation>
-    </message>
-    <message>
-        <source>Cut the current selection&apos;s contents to the clipboard</source>
-        <translation>選択範囲の内容を切り取りクリップボードへ</translation>
-    </message>
-    <message>
-        <source>D&amp;irect Delete</source>
-        <translation>直接削除</translation>
-    </message>
-    <message>
-        <source>Delete the current selection&apos;s contents</source>
-        <translation>選択範囲の内容を削除する</translation>
-    </message>
-    <message>
-        <source>F1</source>
-        <translation>F1</translation>
-    </message>
-    <message>
-        <source>F2</source>
-        <translation>F2</translation>
-    </message>
-    <message>
-        <source>File %1 does not exist .</source>
-        <translation>%1 ファイルは存在していません</translation>
-    </message>
-    <message>
-        <source>File &amp;Name:</source>
-        <translation>ファイルと名前</translation>
-    </message>
-    <message>
-        <source>File name error, please enter a correct file name format.</source>
-        <translation type="obsolete">ファイル名エラー　正しいファイル名を入力して下さい</translation>
-    </message>
-    <message>
-        <source>FileName</source>
-        <translation>ファイル名</translation>
-    </message>
-    <message>
-        <source>Loading files, please wait...</source>
-        <translation>ファイルを読込中です。少々お待ち下さい</translation>
-    </message>
-    <message>
-        <source>Go ahead directory</source>
-        <translation>前のdirへ</translation>
-    </message>
-    <message>
-        <source>Go up directory</source>
-        <translation>上のdirへ</translation>
-    </message>
-    <message>
-        <source>Updating netword status, please wait...</source>
-        <translation>初期化を実行中です。少々お待ち下さい</translation>
-    </message>
-    <message>
-        <source>Online Documents</source>
-        <translation>オンラインドキュメント</translation>
-    </message>
-    <message>
-        <source>Open &amp;Type:</source>
-        <translation>開くと種類</translation>
-    </message>
-    <message>
-        <source>Paste the clipboard&apos;s contents into the current selection</source>
-        <translation>選択範囲にクリップボードから貼り付ける</translation>
-    </message>
-    <message>
-        <source>Save &amp;Type:</source>
-        <translation>保存と種類</translation>
-    </message>
-    <message>
-        <source>Save to Cloud</source>
-        <translation>クラウドに保存</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation>として保存</translation>
-    </message>
-    <message>
-        <source>Select all the files!</source>
-        <translation>すべてのファイルを選択</translation>
-    </message>
-    <message>
-        <source>Select &amp;All</source>
-        <translation>すべて選択</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>サイズ</translation>
-    </message>
-    <message>
-        <source>The directory is empty !</source>
-        <translation>ディレクトリが空です</translation>
-    </message>
-    <message>
-        <source>The path is incorrect or the directory isn&apos;t synchronization! 
- Please wait for moment. </source>
-        <translation type="obsolete">パスが間違っているか、ディレクトリが同期されていません。少々お待ち下さい</translation>
-    </message>
-    <message>
-        <source>Time</source>
+        <source>Time:</source>
         <translation>時間</translation>
     </message>
     <message>
-        <source>Type</source>
-        <translation>種類</translation>
+        <source>&amp;Ascending</source>
+        <translation>逓増(&amp;A)</translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>元に戻す</translation>
+        <source>&amp;Descending</source>
+        <translation>逓減(&amp;D)</translation>
     </message>
     <message>
-        <source>Back to previous directory</source>
-        <extracomment>Back to previous directory</extracomment>
-        <translation>前のディレクトリに戻る</translation>
+        <source>Not file found</source>
+        <translation>ファイルがありません</translation>
     </message>
     <message>
-        <source>Click here to send feedback</source>
-        <translation>続いて取得するにはクリックして下さい</translation>
+        <source>Unable to retrieve file list. Please check the network and try again</source>
+        <translation>ファイルリストをロードできません。ネットワークを確認して再試行してください。</translation>
     </message>
     <message>
-        <source>Create new folder</source>
-        <translation>新しいフォルダの作成</translation>
+        <source>%1 The above file names are not valid.</source>
+        <translation>%1無効なファイル名です。</translation>
     </message>
     <message>
-        <source>Forward to directory</source>
-        <translation>下のディレクトリ</translation>
+        <source>Cloud Docs</source>
+        <translation>Cloudファイル</translation>
     </message>
     <message>
-        <source>Go back directory</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>New &amp;Folder</source>
-        <translation>新しいフォルダ</translation>
-    </message>
-    <message>
-        <source>R&amp;efresh</source>
-        <translation>回復</translation>
-    </message>
-    <message>
-        <source>Rena&amp;me</source>
-        <translation>名称変更</translation>
-    </message>
-    <message>
-        <source>Upward directory</source>
-        <translation>上のディレクトリ</translation>
-    </message>
-    <message>
-        <source>File name too long, please enter a name smaller than %1.</source>
+        <source>Forward</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Group</source>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>help</source>
+        <source>&amp;Up</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>KForceCloseFailTip</name>
     <message>
-        <source>File %1 is not existence .</source>
-        <translation type="unfinished"></translation>
+        <source>This document is in edit mode. Please exit this mode first.</source>
+        <translation>このファイルが編集中です、閉じてから再更新してください。</translation>
     </message>
     <message>
-        <source>File name error, please enter a correct format file name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 already exists, Sure you want to replace it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Save error, you could replace save in current view only.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get Files Error!</source>
-        <translation type="unfinished"></translation>
+        <source>Refresh</source>
+        <translation>更新</translation>
     </message>
 </context>
 <context>
     <name>KLiveEmbedDialogImpl</name>
     <message>
-        <source>Open Cloud</source>
-        <translation>クラウドから開く</translation>
+        <source>Open from Cloud Docs</source>
+        <translation>クラウドから開</translation>
     </message>
     <message>
-        <source>Save to Cloud</source>
-        <translation>クラウドに保存</translation>
+        <source>Save to Cloud Docs</source>
+        <translation>クラウドへ保存</translation>
     </message>
 </context>
 <context>
     <name>KLiveSvr</name>
     <message>
-        <source>please login kuaipan</source>
-        <translation type="unfinished"></translation>
+        <source>Please login Cloud Docs manually to use the feature.</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KLocalNewVersionTip</name>
+    <message>
+        <source>New version is available in the cloud. Do you want to update the local document?</source>
+        <translation>クラウド側新しいバージョンがあります。更新してローカルのバージョンを上書き保存しますか？</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>無視</translation>
     </message>
 </context>
 <context>
     <name>KOpenCloudLinkOKTip</name>
-    <message>
-        <source>看不见的标题</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;span&gt;open_ok_tip_1&lt;/span&gt;
 &lt;br/&gt;
 &lt;span&gt;open_ok_tip_2&lt;/span&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+	&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;クラウドリンクを開きました。編集して保存するとクラウド側に保存できます。&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;次回は直接Kingsoft Office Cloudの「クラウドリンク」から開くことをお勧めします。&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;
+	</translation>
     </message>
     <message>
-        <source>i_know_and_never_show_again</source>
-        <translation type="unfinished"></translation>
+        <source>I knew it and do not prompt again</source>
+        <translation>了解しました。次回から表示しません。</translation>
+    </message>
+</context>
+<context>
+    <name>KOpenFromOtherDeviceTip</name>
+    <message>
+        <source>This document is from another device. The cloud document has been automatically called and opened for you.</source>
+        <translation>このファイルは他の端末で作成されましたので、自動的にクラウドから開きます。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>了解しました</translation>
     </message>
 </context>
 <context>
     <name>KQingClient</name>
     <message>
-        <source>ERR_ParentNotExists</source>
-        <translation type="unfinished"></translation>
+        <source>Parent folder does not exist</source>
+        <translation>親フォルダが存在しません</translation>
     </message>
     <message>
-        <source>ERR_PermissionDenied</source>
-        <translation type="unfinished"></translation>
+        <source>You do not have this permission</source>
+        <translation>権限がありません</translation>
     </message>
     <message>
-        <source>ERR_ParentWasDeleted</source>
-        <translation type="unfinished"></translation>
+        <source>Parent folder has been deleted</source>
+        <translation>親フォルダは削除されました</translation>
     </message>
     <message>
-        <source>ERR_ParentNotFolder</source>
-        <translation type="unfinished"></translation>
+        <source>Folder cannot be created in the current location</source>
+        <translation>ここにフォルダを新規作成できません。</translation>
     </message>
     <message>
-        <source>ERR_FileNameConflict</source>
-        <translation type="unfinished"></translation>
+        <source>A file with this name already exists</source>
+        <translation>同名ファイルがあります</translation>
     </message>
     <message>
-        <source>ERR_FileNameError</source>
-        <translation type="unfinished"></translation>
+        <source>Unacceptable name</source>
+        <translation>ファイル名が正しくありません</translation>
     </message>
     <message>
-        <source>ERR_GroupClosed</source>
-        <translation type="unfinished"></translation>
+        <source>This group has been archived</source>
+        <translation>属するグループは閉じられます</translation>
     </message>
     <message>
-        <source>ERR_NotGroupMember</source>
-        <translation type="unfinished"></translation>
+        <source>The current user is not a member of this group</source>
+        <translation>このユーザーはグループメンバーではありません。</translation>
     </message>
     <message>
-        <source>ERR_FolderExist</source>
+        <source>A folder with this name already exists</source>
+        <translation>同名フォルダがあります</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingFilePage</name>
+    <message>
+        <source>Recent documents</source>
+        <translation>最近使ったファイル</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="obsolete">ローミング</translation>
+    </message>
+    <message>
+        <source>From %1</source>
+        <translation>%1から</translation>
+    </message>
+    <message>
+        <source>%1
+size:%2
+path:%3</source>
+        <translation>%1
+大小：%2
+路径：%3</translation>
+    </message>
+    <message>
+        <source>Roaming your document...</source>
+        <translation>ファイルをローミングしています...</translation>
+    </message>
+    <message>
+        <source>Remove star</source>
+        <translation>スターを削除</translation>
+    </message>
+    <message>
+        <source>Remove all starred records</source>
+        <translation>すべてのスター付きの記録をクリアします</translation>
+    </message>
+    <message>
+        <source>Add star</source>
+        <translation>スターを付く</translation>
+    </message>
+    <message>
+        <source>Remove all non-starred records</source>
+        <translation>すべてのスター付かない記録をクリアします</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingFloatingWidget</name>
+    <message>
+        <source>document be deleted</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cacel</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingGuidFilePage</name>
+    <message>
+        <source>All</source>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>Star</source>
+        <translation>星付き</translation>
+    </message>
+    <message>
+        <source>Roam to mobile</source>
+        <translation>スマートフォンにローミング</translation>
+    </message>
+    <message>
+        <source>Recent documents</source>
+        <translation>最近使ったファイル</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation>ローミング</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>ヘルプ</translation>
+    </message>
+    <message>
+        <source>Disable File Roaming</source>
+        <translation>ローミングを閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingHomepage</name>
+    <message>
+        <source>File Roaming</source>
+        <translation>ファイルローミング</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingItemDelagate</name>
+    <message>
+        <source>More</source>
+        <translation>もっと</translation>
+    </message>
+    <message>
+        <source>From %1</source>
+        <translation> %1 から</translation>
+    </message>
+    <message>
+        <source>Deleting</source>
+        <translation>削除しています</translation>
+    </message>
+    <message>
+        <source>Adding star</source>
+        <translation>星を付けています</translation>
+    </message>
+    <message>
+        <source>Operating</source>
+        <translation>星を外しています</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingRecentTailPanel</name>
+    <message>
+        <source>More roaming documents</source>
+        <translation>その他のローミングファイル</translation>
+    </message>
+    <message>
+        <source>Disable File Roaming</source>
+        <translation>ローミングを閉じる</translation>
+    </message>
+    <message>
+        <source>All file types:</source>
+        <translation>すべてのファイル：</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation>オン</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation>オフ</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingSave2PrivateTip</name>
+    <message>
+        <source>Document has been saved automatically to the private space root directory</source>
+        <translation>ファイルを自動的に個人スペースに保存しました。</translation>
+    </message>
+    <message>
+        <source>Go to view private space</source>
+        <translation>個人スペースにチェックする</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>了解しました</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingTabHeader</name>
+    <message>
+        <source>File Roaming</source>
+        <translation>ファイルローミング</translation>
     </message>
 </context>
 <context>
     <name>KSendCloudLinkOKTip</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">フォーム</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -745,48 +1014,110 @@ Are you sure to change?</source>
 &lt;br/&gt;
 &lt;span&gt;send_ok_tip_2&lt;/span&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+	&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;span&gt;クラウドリンクを作成しました&lt;/span&gt;
+&lt;br/&gt;
+&lt;span&gt;このクラウドリンクがあなたのクラウドに保存されました&lt;/span&gt;
+&lt;/body&gt;&lt;/html&gt;
+	</translation>
     </message>
     <message>
-        <source>never_show_again</source>
-        <translation type="unfinished"></translation>
+        <source>Do not prompt again</source>
+        <translation>次回から表示しません</translation>
     </message>
     <message>
-        <source>check_my_cloudlink</source>
-        <translation type="unfinished"></translation>
+        <source>View my Share Link</source>
+        <translation>マイクラウドリンクを表示</translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipBase</name>
+    <message>
+        <source>UpdateNewVersionView</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>textLabel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>closeLabel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>button1Label</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>button2Label</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KTpRoamingPage</name>
+    <message>
+        <source>You have opened File Roaming:</source>
+        <translation type="unfinished">ファイルローミングを利用中です：</translation>
+    </message>
+    <message>
+        <source>Look up my File Roaming</source>
+        <translation>マイローミングファイルを表示</translation>
+    </message>
+</context>
+<context>
+    <name>KUserCenterCommand</name>
+    <message>
+        <source>You have logged in WPS Office</source>
+        <translation>Kingsoft Officeにログイン済み</translation>
+    </message>
+</context>
+<context>
+    <name>KUserPanelJsObject</name>
+    <message>
+        <source>Close the currently opened document before sign out</source>
+        <translation>ログアウトする前に、開いたファイルを閉じてください。</translation>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation>提示</translation>
     </message>
 </context>
 <context>
     <name>KxCheckUploadDlg</name>
     <message>
-        <source>commit error, please retry</source>
-        <translation type="unfinished"></translation>
+        <source>Documents saving to the cloud failed. Please check the internet and retry</source>
+        <translation></translation>
     </message>
     <message>
-        <source>commit ok, will uploading at background</source>
-        <translation type="unfinished"></translation>
+        <source>Checking completed and will upload it at background</source>
+        <translation></translation>
     </message>
     <message>
-        <source>Checking upload, Please wait..</source>
-        <translation type="unfinished"></translation>
+        <source>Checking cloud saving permissions. Please wait...</source>
+        <translation>クラウドへ保存する権限をチェックしています。しばらくお待ちください</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckUpload</name>
     <message>
-        <source>Committing</source>
-        <translation type="unfinished"></translation>
+        <source>Submit for review</source>
+        <translation>チェック</translation>
     </message>
     <message>
-        <source>Checking upload, Please wait..</source>
-        <translation type="unfinished"></translation>
+        <source>Checking cloud saving permissions. Please wait...</source>
+        <translation>クラウドへ保存する権限をチェックしています。しばらくお待ちください..</translation>
     </message>
     <message>
-        <source>retry</source>
-        <translation type="unfinished"></translation>
+        <source>Retry</source>
+        <translation type="obsolete">再試行</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>retry</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -794,61 +1125,66 @@ Are you sure to change?</source>
     <name>KxDlgNewFolder</name>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>新規フォルダ</translation>
     </message>
     <message>
-        <source>&amp;Input new FolderName:</source>
-        <translation type="unfinished"></translation>
+        <source>Enter a new name(&amp;I):</source>
+        <translation>新しい名前を入力してください(&amp;I):</translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation type="obsolete">テキストラベル</translation>
-    </message>
-    <message>
-        <source>Newing Folder, Please wait..</source>
-        <translation type="unfinished"></translation>
+        <source>Creating a new folder. Please wait...</source>
+        <translation>フォルダを作成しています。しばらくお待ちください...</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSyncProcess</name>
     <message>
-        <source>Conti&amp;nue</source>
-        <translation type="obsolete">続行</translation>
+        <source>Synchronize progress</source>
+        <translation></translation>
     </message>
     <message>
         <source>Synchronizing, please wait...</source>
-        <translation>ダウンロード中です。少々お待ち下さい</translation>
+        <translation></translation>
     </message>
     <message>
-        <source>Synchronize progress</source>
-        <translation>ダウンロード中</translation>
+        <source>&amp;Cancel</source>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
-    </message>
-</context>
-<context>
-    <name>KxDownloadingWindow</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">フォーム</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="obsolete">テキストラベル</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxFileDialog</name>
+    <message>
+        <source>Modified Date:</source>
+        <comment>description for content mode</comment>
+        <translation type="obsolete">編集日時: </translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <comment>description for content mode</comment>
+        <translation>サイズ: </translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <comment>description for content mode</comment>
+        <translation>種類: </translation>
+    </message>
+    <message>
+        <source>Save backup file to File Safe.</source>
+        <comment>saveToKLive checkbox tab in filedialog</comment>
+        <translation>ファイルをファイル金庫に同期してバックアップします。</translation>
+    </message>
     <message>
         <source>Drive</source>
         <translation>ドライブ</translation>
@@ -860,90 +1196,65 @@ Are you sure to change?</source>
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation>ファイルフォルダ</translation>
-    </message>
-    <message>
-        <source>Live</source>
-        <comment>Live tab in filedialog</comment>
-        <translation type="obsolete">ライブ</translation>
-    </message>
-    <message>
-        <source>Local</source>
-        <comment>Local tab in filedialog</comment>
-        <translation>ローカル</translation>
-    </message>
-    <message>
-        <source>Sharer Folder</source>
-        <comment>Match Windows Explorer</comment>
-        <translation type="obsolete">共有フォルダ</translation>
+        <translation>フォルダ</translation>
     </message>
     <message>
         <source>Shortcut</source>
         <comment>All other platforms</comment>
-        <translation>ショートカット</translation>
+        <translation>ショートカットキー</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知の</translation>
-    </message>
-    <message>
-        <source>Modified Date</source>
-        <comment>description for content mode</comment>
-        <translation>データの変更</translation>
-    </message>
-    <message>
-        <source>Save backup file to File Safe.</source>
-        <comment>saveToKLive checkbox tab in filedialog</comment>
-        <translation>KDriveに保存</translation>
-    </message>
-    <message>
-        <source>sharebox</source>
-        <comment>wpsoffcie in filedialog</comment>
-        <translation type="obsolete">共有ボックス</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <comment>description for content mode</comment>
-        <translation>サイズ</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <comment>description for content mode</comment>
-        <translation>種類</translation>
-    </message>
-    <message>
-        <source>file manage</source>
-        <comment>right link in filedialog</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <comment>Group tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>Private Space</source>
         <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
+        <translation>個人スペース</translation>
     </message>
     <message>
         <source>Qing Address</source>
         <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
+        <translation>表示</translation>
     </message>
     <message>
         <source>Send Address</source>
         <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
+        <translation>表示</translation>
     </message>
     <message>
         <source>Receive Address</source>
         <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
+        <translation>表示</translation>
     </message>
     <message>
         <source>My Group</source>
         <comment>FolderType</comment>
+        <translation>表示</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <comment>FolderType</comment>
+        <translation type="obsolete">グループ</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <comment>FolderType</comment>
+        <translation>フォルダ</translation>
+    </message>
+    <message>
+        <source>Local document</source>
+        <comment>Local tab in filedialog</comment>
+        <translation>ローカルファイル</translation>
+    </message>
+    <message>
+        <source>Cloud Docs</source>
+        <comment>Group tab in filedialog</comment>
+        <translation>クラウドファイル</translation>
+    </message>
+    <message>
+        <source>Modified Date</source>
+        <comment>description for content mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -951,45 +1262,44 @@ Are you sure to change?</source>
         <comment>FolderType</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Group Folder</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxFileSystemModel</name>
     <message>
-        <source>%1 GB</source>
-        <translation>%1 GB</translation>
+        <source>%1 TB</source>
+        <translation></translation>
     </message>
     <message>
-        <source>%1 KB</source>
-        <translation>%1 KB</translation>
+        <source>%1 GB</source>
+        <translation></translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 MB</translation>
+        <translation></translation>
     </message>
     <message>
-        <source>%1 TB</source>
-        <translation>%1 TB</translation>
+        <source>%1 KB</source>
+        <translation></translation>
     </message>
     <message>
         <source>%1 bytes</source>
-        <translation>%1 bytes</translation>
+        <translation>%1 バイト</translation>
     </message>
     <message>
-        <source>&lt;b&gt;The file &quot;%1&quot; is open.&lt;/b&gt;&lt;p&gt;Please close the file and try again.</source>
-        <translation>%1 ファイルは開いています。別の名前を使用して下さい</translation>
+        <source>&lt;b&gt;Operation failed for the file &quot;%1&quot; is open.&lt;/b&gt;&lt;p&gt;Please close the file and try again.</source>
+        <translation>このファイルは別のアプリケーションで開いているため、操作を完成できません。&lt;p&gt;ファイルを閉じて、再試行してください。&lt;p&gt;&lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Modified Date</source>
-        <translation>変更されたデータ</translation>
+        <source>The file is in use</source>
+        <translation>ファイルは使用中です。</translation>
     </message>
     <message>
-        <source>File is being used.</source>
-        <translation>無効なファイル名です</translation>
+        <source>Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation>サイズ</translation>
     </message>
     <message>
         <source>Kind</source>
@@ -997,157 +1307,173 @@ Are you sure to change?</source>
         <translation>種類</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation>名前</translation>
+        <source>Type:</source>
+        <comment>All other platforms</comment>
+        <translation type="obsolete">種類</translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation>サイズ</translation>
+        <source>Modified Date:</source>
+        <translation>編集日時</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation>種類</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxLiveStateUpdateCache</name>
     <message>
-        <source>Not Logged in</source>
-        <translation>OS_Login</translation>
+        <source>Click icon</source>
+        <translation></translation>
     </message>
     <message>
-        <source>OS_Login tip</source>
-        <translation>OS_Login tip</translation>
+        <source>You can view or send collaborative information.</source>
+        <translation>共同作業のメッセージを閲覧・発表できます。</translation>
     </message>
     <message>
-        <source>Logged in.</source>
-        <translation>OS_Logout</translation>
+        <source>OK</source>
+        <translation>了解しました</translation>
     </message>
     <message>
-        <source>OS_Logout tip</source>
-        <translation>OS_Logout tip</translation>
+        <source>Sign in</source>
+        <translation>未ログイン</translation>
     </message>
     <message>
-        <source>click icon</source>
-        <translation type="unfinished"></translation>
+        <source>You have been offline for a long time, in order to update your business authorization, please login to your account.</source>
+        <translation>オフラインでの使用が長時間になりました。できる限り早くネットワークに接続し、ログインしてビジネスライセンスを更新してください。</translation>
     </message>
     <message>
-        <source>To view, launch collaboration information.</source>
-        <translation type="unfinished"></translation>
+        <source>The number of equipments you are authorizing has reached its limit and the current equipment no longer gets a business authorization. You can offline other equipments in order to make the current equipment authorized.</source>
+        <translation>認証できるデバイス数の上限に達したため、このデバイスを認証できません。他のデバイスを削除すると、このデバイスを追加できます。</translation>
     </message>
     <message>
-        <source>I known</source>
-        <translation type="unfinished"></translation>
+        <source>Equipment Management</source>
+        <translation>デバイス管理</translation>
+    </message>
+    <message>
+        <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
+        <translation>ログインすると、&lt;br /&gt;クラウド、オンラインテンプレートなどのクラウドサービスを利用できます。</translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation>ログイン済み</translation>
+    </message>
+    <message>
+        <source>You have logged in to the WPS Office account: &lt;br/&gt;%1&lt;br/&gt; You can %2 change your login account or sign out.</source>
+        <translation>ログイン済み：&lt;br/&gt;%1&lt;br/&gt;あなたは%2アカウント切り替えまたログアウトできます。</translation>
     </message>
 </context>
 <context>
     <name>KxLiveTabDialogExControl</name>
     <message>
-        <source>qing support collaboration office files</source>
-        <translation type="unfinished"></translation>
+        <source>Files in the Cloud Docs support multi-user collaborations</source>
+        <translation>クラウドファイルは共同作業に対応します。</translation>
     </message>
     <message>
-        <source>Please enter from here</source>
-        <translation type="unfinished"></translation>
+        <source>Enter here</source>
+        <translation>ここから入ってください</translation>
     </message>
     <message>
-        <source>I known</source>
-        <translation type="unfinished"></translation>
+        <source>OK</source>
+        <translation>了解しました</translation>
     </message>
 </context>
 <context>
     <name>KxMovieButton</name>
     <message>
-        <source>Refresh file list</source>
-        <translation>完了</translation>
+        <source>Refresh document list</source>
+        <translation>ファイルリストを更新</translation>
     </message>
     <message>
         <source>Synchronizing...</source>
-        <translation>同期</translation>
+        <translation>同期中...</translation>
     </message>
 </context>
 <context>
     <name>KxNewFolderDlg</name>
     <message>
-        <source>The file path cannot be longer than 255 characters !</source>
-        <translation type="unfinished">ファイルパスは255字以下にして下さい</translation>
+        <source>The file path cannot be longer than 255 characters.</source>
+        <translation>ファイルの保存先を255文字以下で指定してください。</translation>
     </message>
     <message>
         <source>The file name must not contain any of the characters:
       \ / : * ? &quot; &lt; &gt; | !</source>
-        <translation type="unfinished">ファイル名には以下の記号を含むことができません。</translation>
+        <translation>ファイル名には以下の文字を指定しないでください。
+      \ / : * ? &quot; &lt; &gt; |</translation>
     </message>
     <message>
-        <source>The file name already exists!</source>
-        <translation type="unfinished">ファイル名がすでに存在しています</translation>
+        <source>The file name already exists.</source>
+        <translation type="obsolete">同名ファイル或いは同名フォルダが既に存在します。</translation>
     </message>
     <message>
-        <source>new foler error:%1</source>
+        <source>Error creating new folder: %1</source>
+        <translation>新規フォルダエラー：%1</translation>
+    </message>
+    <message>
+        <source>The same file or folder already exists!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpCloudLinkWidget</name>
     <message>
-        <source>sending cloudlink failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpOfficeSpaceBaseWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">フォーム</translation>
+        <source>Transmitting share link failed. Please check the network or operation authorization.</source>
+        <translation>クラウドリンクを作成できませんでした。ネットワーク或いは操作権限を確認してください。</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>&apos;%1&apos; exists, can&apos;t complete the operation</source>
-        <translation>%1 は存在しているため、操作を完了することができません</translation>
+        <source>&apos;%1&apos; already exists. Operation cannot be completed.</source>
+        <translation>&apos;%1&apos;は既に存在します。操作を完了できません。</translation>
     </message>
     <message>
-        <source>Are you sure you want to forever delete &apos;%1&apos; files?</source>
-        <translation>%1 ファイルを完全に削除してもよろしいですか？</translation>
+        <source>Are you sure you want to delete this &apos;%1&apos; item permanently?</source>
+        <translation>ファイル&apos;%1&apos;を徹底削除しますか？</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete &apos;%1&apos;permanently?</source>
-        <translation>%1 を完全に削除してもよろしいですか？</translation>
+        <source>Delete multiple items</source>
+        <translation>複数の項目を削除</translation>
     </message>
     <message>
-        <source>Can&apos;t complete the operation for &apos;%1&apos; is write protected.</source>
-        <translation>書込み禁止のため、%1 の操作を完了できませんでした</translation>
+        <source>&apos;%1&apos; is protected. Operation cannot be completed.</source>
+        <translation>&apos;%1&apos;保護されているため、操作を完了できません。</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the file &apos;%1&apos; permanently?</source>
+        <translation>ファイル&apos;%1&apos;を徹底削除しますか？</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>fairu 
-no
-sakuzyo 
-</translation>
-    </message>
-    <message>
-        <source>Delete many objects</source>
-        <translation>さらにオブジェクトを削除する</translation>
-    </message>
-    <message>
-        <source>The file cannot rename.</source>
-        <translation type="obsolete">ファイルの名称を変更できません</translation>
-    </message>
-    <message>
-        <source>Failed to cut the following files! Please check if the files are being used.</source>
-        <translation>次のファイルは削除できませんでした。ファイルが使われているかどうか確認して下さい</translation>
+        <translation>ファイルを削除</translation>
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
-        <translation>次のファイルは削除できませんでした。ファイルが使われているかどうか確認して下さい</translation>
+        <translation></translation>
     </message>
     <message>
-        <source>The web file or directory  is not supported operate.</source>
-        <translation type="obsolete">ウェブファイルやディレクトリーの操作はサポートされておりません</translation>
+        <source>Failed to cut the following files! Please check if the files are being used.</source>
+        <translation></translation>
     </message>
     <message>
-        <source>qingbangong</source>
+        <source>Open</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete From The Listing</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1155,32 +1481,58 @@ sakuzyo
     <name>kGuidBubble</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">フォーム</translation>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>kxChangeLoginCommand</name>
+    <message>
+        <source>Please close all opened documents of current user before changing account</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation>提示</translation>
     </message>
 </context>
 <context>
     <name>kxKOSHireCommand</name>
     <message>
         <source>Authorization update</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンス更新</translation>
     </message>
     <message>
         <source>Business authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>ビジネスライセンス</translation>
     </message>
 </context>
 <context>
     <name>kxKOSLoginCommand</name>
     <message>
-        <source>OS_Login tip</source>
-        <translation>OS Login tip</translation>
+        <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
+        <translation>ログインすると、&lt;br /&gt;クラウド、オンラインテンプレートなどのクラウドサービスを利用できます。</translation>
     </message>
 </context>
 <context>
-    <name>kxUserGuidWin</name>
+    <name>kxKOSLogoutCommand</name>
     <message>
-        <source>kosLoginWin</source>
-        <translation type="obsolete">kosLoginWin</translation>
+        <source>Close the currently opened document before sign out</source>
+        <translation>ログアウトする前に、開いたファイルを閉じてください。</translation>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation>提示</translation>
+    </message>
+</context>
+<context>
+    <name>tips.DataRecover</name>
+    <message>
+        <source>Data Recovery Title</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Data Recovery Content</source>
+        <translation></translation>
     </message>
 </context>
 </TS>

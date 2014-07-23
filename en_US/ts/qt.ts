@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="en">
 <context>
@@ -221,14 +221,14 @@ have libgstreamer-plugins-base installed.</source>
 <context>
     <name>Q3FileDialog</name>
     <message>
-        <location filename="../src/qt3support/dialogs/q3filedialog.cpp" line="+4530"/>
+        <location line="+296"/>
         <source>%1
 File not found.
 Check path and filename.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-385"/>
+        <location filename="../src/qt3support/dialogs/q3filedialog.cpp" line="+4145"/>
         <source>&amp;Delete</source>
         <translation type="unfinished"></translation>
     </message>
@@ -272,12 +272,12 @@ Check path and filename.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location line="-298"/>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-1928"/>
+        <location filename="../src/qt3support/dialogs/q3filedialog.cpp" line="-1928"/>
         <location line="+49"/>
         <location line="+2153"/>
         <location filename="../src/qt3support/dialogs/q3filedialog_mac.cpp" line="+110"/>
@@ -290,7 +290,7 @@ Check path and filename.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qt3support/dialogs/q3filedialog.cpp" line="-2084"/>
+        <location line="-2084"/>
         <source>Attributes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -340,6 +340,11 @@ Check path and filename.</source>
         <location line="+108"/>
         <source>Directories</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1551"/>
+        <source>Directory</source>
+        <translation>Directory</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -518,7 +523,27 @@ Check path and filename.</source>
         <translation>System link to special</translation>
     </message>
     <message>
-        <location line="-255"/>
+        <location line="+4"/>
+        <source>System link</source>
+        <translation>System link</translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>System link to directory</source>
+        <translation>System link to directory</translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>System link to file</source>
+        <translation>System link to file</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>System link to special</source>
+        <translation>System link to special</translation>
+    </message>
+    <message>
+        <location line="-1808"/>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
@@ -534,7 +559,7 @@ Check path and filename.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+3318"/>
+        <location line="+1551"/>
         <source>the directory</source>
         <translation>Directory</translation>
     </message>
@@ -595,6 +620,11 @@ to
     <name>Q3MainWindow</name>
     <message>
         <location filename="../src/qt3support/widgets/q3mainwindow.cpp" line="+2053"/>
+        <source>Custom...</source>
+        <translation>Custom...</translation>
+    </message>
+    <message>
+        <location filename="../src/qt3support/widgets/q3mainwindow.cpp" line="+2053"/>
         <source>Customize...</source>
         <translation>Custom...</translation>
     </message>
@@ -606,6 +636,11 @@ to
 </context>
 <context>
     <name>Q3NetworkProtocol</name>
+    <message>
+        <location filename="../src/qt3support/network/q3networkprotocol.cpp" line="+854"/>
+        <source>Operation is stopped by user</source>
+        <translation>Operation is stopped by user</translation>
+    </message>
     <message>
         <location filename="../src/qt3support/network/q3networkprotocol.cpp" line="+854"/>
         <source>Operation stopped by the user</source>
@@ -742,6 +777,11 @@ to
         <translation>Puts a minimized window back to normal</translation>
     </message>
     <message>
+        <location line="-4"/>
+        <source>Puts a minimized window back to normal</source>
+        <translation>Puts a minimized window back to normal</translation>
+    </message>
+    <message>
         <location line="-24"/>
         <source>Restore down</source>
         <translation type="unfinished"></translation>
@@ -767,6 +807,12 @@ to
 </context>
 <context>
     <name>Q3UrlOperator</name>
+    <message>
+        <location filename="../src/qt3support/network/q3urloperator.cpp" line="+889"/>
+        <location line="+1"/>
+        <source>(Unknown)</source>
+        <translation type="unfinished">(Unknown)</translation>
+    </message>
     <message>
         <location filename="../src/qt3support/network/q3urloperator.cpp" line="+889"/>
         <location line="+1"/>
@@ -1141,17 +1187,17 @@ to
 <context>
     <name>QDateTimeEdit</name>
     <message>
-        <location filename="../src/gui/widgets/qdatetimeedit.cpp" line="+2295"/>
+        <location line="+0"/>
         <source>AM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+0"/>
         <source>PM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location filename="../src/gui/widgets/qdatetimeedit.cpp" line="+2295"/>
         <source>am</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1325,6 +1371,11 @@ to
         <translation>Date is modified</translation>
     </message>
     <message>
+        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="+465"/>
+        <source>Date is modified</source>
+        <translation>Date is modified</translation>
+    </message>
+    <message>
         <location line="-8"/>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
@@ -1443,7 +1494,7 @@ to
 <context>
     <name>QFileDialog</name>
     <message>
-        <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+1979"/>
+        <location line="+751"/>
         <location line="+862"/>
         <source>%1
 Directory not found.
@@ -1464,7 +1515,7 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-825"/>
+        <location line="-1435"/>
         <location line="+38"/>
         <source>&amp;Choose</source>
         <translation type="unfinished"></translation>
@@ -1499,13 +1550,13 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+1395"/>
+        <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+2623"/>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-2108"/>
+        <location filename="../src/gui/dialogs/qfiledialog.cpp" line="-1498"/>
         <location line="+444"/>
         <source>All Files (*)</source>
         <translation type="unfinished"></translation>
@@ -1516,7 +1567,7 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+1669"/>
+        <location line="+1669"/>
         <source>Are sure you want to delete &apos;%1&apos;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1655,7 +1706,7 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QFileSystemModel</name>
     <message>
-        <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+746"/>
+        <location line="-5"/>
         <source>%1 GB</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1675,12 +1726,12 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+751"/>
         <source>%1 bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+78"/>
+        <location line="+85"/>
         <source>&lt;b&gt;The name &quot;%1&quot; can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1692,6 +1743,11 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+78"/>
         <source>Date Modified</source>
+        <translation>Date is modified</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+78"/>
+        <source>Date is modified</source>
         <translation>Date is modified</translation>
     </message>
     <message>
@@ -2218,10 +2274,10 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-284"/>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-9"/>
+        <location filename="../src/network/access/qhttp.cpp" line="+20"/>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-6"/>
         <location line="+19"/>
-        <location filename="../src/qt3support/network/q3http.cpp" line="-456"/>
+        <location filename="../src/qt3support/network/q3http.cpp" line="-464"/>
         <source>HTTP request failed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2231,13 +2287,13 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qt3support/network/q3http.cpp" line="+450"/>
+        <location filename="../src/qt3support/network/q3http.cpp" line="-6"/>
         <source>Host %1 found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttp.cpp" line="+2266"/>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-29"/>
+        <location filename="../src/network/access/qhttp.cpp" line="-304"/>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-19"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="-453"/>
         <source>Host %1 not found</source>
         <translation type="unfinished"></translation>
@@ -2253,9 +2309,9 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttp.cpp" line="+218"/>
+        <location line="+2484"/>
         <location line="+48"/>
-        <location filename="../src/qt3support/network/q3http.cpp" line="-355"/>
+        <location filename="../src/qt3support/network/q3http.cpp" line="+109"/>
         <location line="+47"/>
         <source>Invalid HTTP chunked body</source>
         <translation type="unfinished"></translation>
@@ -2278,7 +2334,7 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-3"/>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-16"/>
         <source>Proxy requires authentication</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2294,13 +2350,13 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttp.cpp" line="+747"/>
+        <location line="+747"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="+441"/>
         <source>Server closed connection unexpectedly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+179"/>
+        <location filename="../src/network/access/qhttp.cpp" line="+179"/>
         <source>Unknown authentication method</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2566,6 +2622,11 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <location filename="../src/corelib/plugin/qlibrary.cpp" line="+378"/>
+        <source>Could not map &apos;%1&apos;: %2</source>
+        <translation>Could not map &apos;%1&apos;: %2</translation>
+    </message>
+    <message>
+        <location filename="../src/corelib/plugin/qlibrary.cpp" line="+378"/>
         <source>Could not mmap &apos;%1&apos;: %2</source>
         <translation>Could not map &apos;%1&apos;: %2</translation>
     </message>
@@ -2764,6 +2825,11 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <location line="-7"/>
+        <source>Unable to open database</source>
+        <translation>Unable to open database</translation>
+    </message>
+    <message>
+        <location line="-7"/>
         <source>Unable to open database &apos;</source>
         <translation>Unable to open database</translation>
     </message>
@@ -2844,12 +2910,12 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QMdiSubWindow</name>
     <message>
-        <location filename="../src/gui/widgets/qmdisubwindow.cpp" line="+280"/>
+        <location line="-778"/>
         <source>%1 - [%2]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+786"/>
+        <location line="+787"/>
         <source>&amp;Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2869,12 +2935,12 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-779"/>
+        <location filename="../src/gui/widgets/qmdisubwindow.cpp" line="+279"/>
         <source>- [%1]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+72"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3505,6 +3571,11 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QPageSetupWidget</name>
     <message>
+        <location filename="../src/gui/dialogs/qpagesetupwidget.ui"/>
+        <source>Bottom margin</source>
+        <translation>Bottom margin</translation>
+    </message>
+    <message>
         <location filename="../src/gui/dialogs/qpagesetupdialog_unix.cpp" line="+304"/>
         <source>Centimeters (cm)</source>
         <translation type="unfinished"></translation>
@@ -3528,6 +3599,11 @@ Do you want to delete it anyway?</source>
         <location filename="../src/gui/dialogs/qpagesetupwidget.ui"/>
         <source>Landscape</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location/>
+        <source>Left margin</source>
+        <translation>Left margin</translation>
     </message>
     <message>
         <location/>
@@ -3581,11 +3657,21 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <location/>
+        <source>Right margin</source>
+        <translation>Right margin</translation>
+    </message>
+    <message>
+        <location/>
+        <source>Top margin</source>
+        <translation>Top margin</translation>
+    </message>
+    <message>
+        <location/>
         <source>Width:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location/>
+        <location filename="../src/gui/dialogs/qpagesetupwidget.ui"/>
         <source>bottom margin</source>
         <translation>Bottom margin</translation>
     </message>
@@ -3621,7 +3707,7 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QPrintDialog</name>
     <message>
-        <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="-273"/>
+        <location line="+525"/>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
@@ -3633,7 +3719,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-450"/>
+        <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="-731"/>
         <source>&amp;Options &lt;&lt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3905,7 +3991,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="+521"/>
+        <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="+4"/>
         <source>File %1 is not writable.
 Please choose a different file name.</source>
         <translation type="unfinished"></translation>
@@ -3993,7 +4079,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="-121"/>
+        <location line="-121"/>
         <source>Print to File (PDF)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4028,6 +4114,12 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/gui/painting/qprinterinfo_unix.cpp" line="+471"/>
+        <location line="+199"/>
+        <source>Unknown</source>
+        <translation>Unknown</translation>
+    </message>
+    <message>
         <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="+46"/>
         <source>Write %1 file</source>
         <translation type="unfinished"></translation>
@@ -4038,7 +4130,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+471"/>
+        <location filename="../src/gui/painting/qprinterinfo_unix.cpp" line="+471"/>
         <location line="+199"/>
         <source>unknown</source>
         <translation>Unknown</translation>
@@ -4103,12 +4195,12 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qprintpreviewdialog.cpp" line="+60"/>
+        <location line="+60"/>
         <source>Page setup</source>
         <translation>Print Setup</translation>
     </message>
     <message>
-        <location line="-29"/>
+        <location filename="../src/gui/dialogs/qprintpreviewdialog.cpp" line="-29"/>
         <source>Portrait</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4126,6 +4218,11 @@ Please choose a different file name.</source>
         <location line="-88"/>
         <source>Print Preview</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+60"/>
+        <source>Print Setup</source>
+        <translation>Print Setup</translation>
     </message>
     <message>
         <location line="+72"/>
@@ -4186,6 +4283,11 @@ Please choose a different file name.</source>
     <message>
         <location/>
         <source>Color Mode</source>
+        <translation>Color mode</translation>
+    </message>
+    <message>
+        <location/>
+        <source>Color mode</source>
         <translation>Color mode</translation>
     </message>
     <message>
@@ -4272,12 +4374,12 @@ Please choose a different file name.</source>
 <context>
     <name>QPrintWidget</name>
     <message>
-        <location filename="../src/gui/dialogs/qprintwidget.ui"/>
+        <location/>
         <source>&amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location/>
+        <location filename="../src/gui/dialogs/qprintwidget.ui"/>
         <source>...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4406,6 +4508,51 @@ Please choose a different file name.</source>
 </context>
 <context>
     <name>QRegExp</name>
+    <message>
+        <location filename="../src/corelib/tools/qregexp.cpp" line="+66"/>
+        <source>Bad character class syntax</source>
+        <translation>Bad character class syntax</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Bad lookahead syntax</source>
+        <translation>Bad lookahead syntax</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Bad repetition syntax</source>
+        <translation>Bad repetition syntax</translation>
+    </message>
+    <message>
+        <location line="-3"/>
+        <source>Disabled feature used</source>
+        <translation>Disabled feature used</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Invalid octal value</source>
+        <translation>Invalid octal value</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Met internal limit</source>
+        <translation>Met internal limit</translation>
+    </message>
+    <message>
+        <location line="-2"/>
+        <source>Missing left delim</source>
+        <translation>Missing left delim</translation>
+    </message>
+    <message>
+        <location line="-6"/>
+        <source>No error occurred</source>
+        <translation>No error occurred</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Unexpected end</source>
+        <translation>Unexpected end</translation>
+    </message>
     <message>
         <location filename="../src/corelib/tools/qregexp.cpp" line="+66"/>
         <source>bad char class syntax</source>
@@ -4639,10 +4786,20 @@ Please choose a different file name.</source>
 <context>
     <name>QSharedMemory</name>
     <message>
+        <location filename="../src/corelib/kernel/qsharedmemory_unix.cpp" line="-58"/>
+        <source>%1: Unix key file doesn&apos;t exist</source>
+        <translation>%1: Unix key file doesn&apos;t exist</translation>
+    </message>
+    <message>
         <location filename="../src/corelib/kernel/qsharedmemory_unix.cpp" line="+82"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+65"/>
         <source>%1: already exists</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/corelib/kernel/qsharedmemory.cpp" line="+288"/>
+        <source>%1: create size is less than 0</source>
+        <translation>%1: create size is less than 0</translation>
     </message>
     <message>
         <location filename="../src/corelib/kernel/qsharedmemory.cpp" line="+288"/>
@@ -5047,17 +5204,17 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-53"/>
+        <location line="-54"/>
         <source>NumLock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+1"/>
         <source>Number Lock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-27"/>
+        <location line="+27"/>
         <source>Open URL</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5658,17 +5815,17 @@ Please choose a different file name.</source>
 <context>
     <name>QWebFrame</name>
     <message>
-        <location filename="../src/3rdparty/webkit/WebKit/qt/WebCoreSupport/FrameLoaderClientQt.cpp" line="+716"/>
+        <location line="-12"/>
         <source>Cannot show URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location filename="../src/3rdparty/webkit/WebKit/qt/WebCoreSupport/FrameLoaderClientQt.cpp" line="+728"/>
         <source>Cannot show mimetype</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+18"/>
         <source>File does not exist</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5690,6 +5847,16 @@ Please choose a different file name.</source>
 </context>
 <context>
     <name>QWebPage</name>
+    <message numerus="yes">
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/FileChooserQt.cpp" line="+45"/>
+        <source>
+            </source>
+        <comment>number of chosen file</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+353"/>
         <source>%1 (%2x%3 pixels)</source>
@@ -5701,6 +5868,7 @@ Please choose a different file name.</source>
         <source>%n file(s)</source>
         <comment>number of chosen file</comment>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -5876,7 +6044,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+30"/>
+        <location line="+81"/>
         <source>LTR</source>
         <comment>Left to Right context menu item</comment>
         <translation type="unfinished"></translation>
@@ -5887,7 +6055,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="-81"/>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="-51"/>
         <source>Look Up In Dictionary</source>
         <comment>Look Up in Dictionary context menu item</comment>
         <translation type="unfinished"></translation>
@@ -5953,19 +6121,19 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="-20"/>
+        <location line="+75"/>
         <source>No Guesses Found</source>
         <comment>No Guesses Found context menu item</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-75"/>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="-176"/>
         <source>No file selected</source>
         <comment>text to display in file button used in HTML forms when no file is selected</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+191"/>
+        <location line="+116"/>
         <source>No recent searches</source>
         <comment>Label for only item in menu that appears when clicking on the search field image, when no searches have been performed</comment>
         <translation type="unfinished"></translation>
@@ -5983,19 +6151,19 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="+95"/>
         <source>Open Link</source>
         <comment>Open Link context menu item</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-95"/>
+        <location line="-15"/>
         <source>Open in New Window</source>
         <comment>Open in New Window context menu item</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+151"/>
+        <location line="+56"/>
         <source>Outline</source>
         <comment>Outline context menu item</comment>
         <translation type="unfinished"></translation>
@@ -6027,13 +6195,13 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+111"/>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+201"/>
         <source>RTL</source>
         <comment>Right to Left context menu item</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+126"/>
         <source>Recent searches</source>
         <comment>label for first item in the menu that appears when clicking on the search field image, used as embedded menu title</comment>
         <translation type="unfinished"></translation>
@@ -6056,7 +6224,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+45"/>
+        <location line="-156"/>
         <source>Save Image</source>
         <comment>Download Image context menu item</comment>
         <translation type="unfinished"></translation>
@@ -6182,19 +6350,19 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-80"/>
+        <location line="+5"/>
         <source>Submit</source>
         <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-5"/>
+        <location line="-85"/>
         <source>Submit</source>
         <comment>default label for Submit buttons in forms on web pages</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+196"/>
+        <location line="+191"/>
         <source>Text Direction</source>
         <comment>Text direction context sub-menu item</comment>
         <translation type="unfinished"></translation>
@@ -6305,13 +6473,13 @@ Please choose a different file name.</source>
 <context>
     <name>QWorkspace</name>
     <message>
-        <location filename="../src/gui/widgets/qworkspace.cpp" line="+1892"/>
+        <location line="-274"/>
         <location line="+60"/>
         <source>%1 - [%2]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-850"/>
+        <location filename="../src/gui/widgets/qworkspace.cpp" line="+1102"/>
         <source>&amp;Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6336,7 +6504,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-2053"/>
+        <location line="-1839"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6374,6 +6542,121 @@ Please choose a different file name.</source>
 </context>
 <context>
     <name>QXml</name>
+    <message>
+        <location filename="../src/xml/sax/qxml.cpp" line="+69"/>
+        <source>Encoding declaration or standalone declaration expected while reading the XML declaration</source>
+        <translation>Encoding declaration or standalone declaration expected while reading the XML declaration</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Error in the text declaration of an external entity</source>
+        <translation>Error in the text declaration of an external entity</translation>
+    </message>
+    <message>
+        <location line="-7"/>
+        <source>Error occurred while parsing comment</source>
+        <translation>Error occurred while parsing comment</translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <source>Error occurred while parsing content</source>
+        <translation>Error occurred while parsing content</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Error occurred while parsing document type definition</source>
+        <translation>Error occurred while parsing document type definition</translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <source>Error occurred while parsing element</source>
+        <translation>Error occurred while parsing element</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Error occurred while parsing reference</source>
+        <translation>Error occurred while parsing reference</translation>
+    </message>
+    <message>
+        <location line="-15"/>
+        <source>Error triggered by consumer</source>
+        <translation>Error triggered by consumer</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>External parsed general entity reference not allowed in DTD</source>
+        <translation>External parsed general entity reference not allowed in DTD</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>External parsed general entity reference not allowed in attribute value</source>
+        <translation>External parsed general entity reference not allowed in attribute value</translation>
+    </message>
+    <message>
+        <location line="-2"/>
+        <source>Internal general entity reference not allowed in DTD</source>
+        <translation>Internal general entity reference not allowed in DTD</translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <source>Invalid name for processing instruction</source>
+        <translation>Invalid name for processing instruction</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Letter is expected</source>
+        <translation>Letter is expected</translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <source>More than one document type definition</source>
+        <translation>More than one document type definition</translation>
+    </message>
+    <message>
+        <location line="-3"/>
+        <source>No error occurred</source>
+        <translation>No error occurred</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Recursive entities</source>
+        <translation>Recursive entities</translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <source>Standalone declaration expected while reading the XML declaration</source>
+        <translation>Standalone declaration expected while reading the XML declaration</translation>
+    </message>
+    <message>
+        <location line="-7"/>
+        <source>Tag mismatch</source>
+        <translation>Tag mismatch</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Unexpected character</source>
+        <translation>Unexpected character</translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>Unexpected end of file</source>
+        <translation>Unexpected end of file</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Unparsed entity reference in wrong context</source>
+        <translation>Unparsed entity reference in wrong context</translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <source>Version expected while reading the XML declaration</source>
+        <translation>Version expected while reading the XML declaration</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Wrong value for standalone declaration</source>
+        <translation>Wrong value for standalone declaration</translation>
+    </message>
     <message>
         <location filename="../src/xml/sax/qxml.cpp" line="+69"/>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
@@ -6415,17 +6698,17 @@ Please choose a different file name.</source>
         <translation>Error triggered by consumer</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+1"/>
         <source>external parsed general entity reference not allowed in DTD</source>
         <translation>External parsed general entity reference not allowed in DTD</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location line="+17"/>
         <source>external parsed general entity reference not allowed in attribute value</source>
         <translation>External parsed general entity reference not allowed in attribute value</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location line="-2"/>
         <source>internal general entity reference not allowed in DTD</source>
         <translation>Internal general entity reference not allowed in DTD</translation>
     </message>
@@ -6493,27 +6776,27 @@ Please choose a different file name.</source>
 <context>
     <name>QXmlStream</name>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+1640"/>
+        <location line="+125"/>
         <source>%1 is an invalid PUBLIC identifier.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+1735"/>
+        <location line="-94"/>
         <source>%1 is an invalid encoding name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="-125"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+1515"/>
         <source>%1 is an invalid processing instruction name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+94"/>
+        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+1829"/>
         <source>, but got &apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-262"/>
+        <location filename="../src/corelib/xml/qxmlstream.cpp" line="-168"/>
         <source>Attribute redefined.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6524,9 +6807,16 @@ Please choose a different file name.</source>
     </message>
     <message>
         <location line="-283"/>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="-437"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="-562"/>
         <source>Encountered incorrectly encoded content.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+708"/>
+        <location line="+61"/>
+        <location line="+40"/>
+        <source>Entity &apos;%1&apos; is not declared.</source>
+        <translation>Entity &apos;%1&apos; is not declared.</translation>
     </message>
     <message>
         <location filename="../src/corelib/xml/qxmlstream_p.h" line="+708"/>
@@ -6560,12 +6850,12 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-613"/>
+        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+107"/>
         <source>Invalid XML character.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+15"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+232"/>
         <source>Invalid XML name.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6575,12 +6865,12 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+226"/>
         <source>Invalid attribute in XML declaration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+143"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+158"/>
         <source>Invalid character reference.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6600,17 +6890,17 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-45"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="-277"/>
         <source>NDATA in parameter entity declaration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+675"/>
+        <location line="-221"/>
         <source>Namespace prefix &apos;%1&apos; not declared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+300"/>
+        <location line="+300"/>
         <source>Opening and ending tag mismatch.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6671,12 +6961,26 @@ Please choose a different file name.</source>
     </message>
     <message>
         <location filename="../src/corelib/xml/qxmlstream_p.h" line="+222"/>
+        <source>XML declaration is not at start of document.</source>
+        <translation>XML declaration is not at start of document.</translation>
+    </message>
+    <message>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+222"/>
         <source>XML declaration not at start of document.</source>
         <translation>XML declaration is not at start of document.</translation>
     </message>
 </context>
 <context>
     <name>QtXmlPatterns</name>
+    <message numerus="yes">
+        <location filename="../src/xmlpatterns/functions/qabstractfunctionfactory.cpp" line="+88"/>
+        <source>
+            </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qpatternplatform.cpp" line="+96"/>
         <source>%1 and %2 match the start and end of a line.</source>
@@ -6795,12 +7099,14 @@ Please choose a different file name.</source>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="-11"/>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -7273,7 +7579,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-5296"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-5296"/>
         <source>Only one %1 declaration can occur in the query prolog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7363,7 +7669,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-1942"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="+278"/>
         <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7414,7 +7720,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-2149"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-2584"/>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7499,7 +7805,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+2143"/>
+        <location line="+2131"/>
         <source>The namespace URI cannot be the empty string when binding to a prefix, %1.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7514,7 +7820,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-2284"/>
+        <location line="-9"/>
         <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7539,7 +7845,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-477"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-2740"/>
         <source>The prefix %1 can not be bound. By default, it is already bound to the namespace %2.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7574,7 +7880,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="+291"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-1494"/>
         <source>The target namespace of a %1 cannot be empty.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7699,12 +8005,12 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+2"/>
         <source>one or more</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+2"/>
         <source>zero or more</source>
         <translation type="unfinished"></translation>
     </message>

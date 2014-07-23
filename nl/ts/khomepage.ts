@@ -35,10 +35,6 @@
         <translation>Herstart om nieuwere versie te gebruiken.</translation>
     </message>
     <message>
-        <source>Online Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
         <translation type="unfinished"></translation>
@@ -46,6 +42,10 @@
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>docerhomepage</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

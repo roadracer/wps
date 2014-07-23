@@ -16,7 +16,7 @@
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation>Urejanje galerije</translation>
+        <translation type="obsolete">Urejanje galerije</translation>
     </message>
     <message>
         <source>From:</source>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation>Največje število napisa je 5.</translation>
+        <translation type="obsolete">Največje število napisa je 5.</translation>
     </message>
     <message>
         <source>More:</source>
@@ -58,6 +58,14 @@
         <source>Less:</source>
         <translation>Manj:</translation>
     </message>
+    <message>
+        <source>Edit Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The most number of caption is 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
@@ -73,15 +81,15 @@
 <context>
     <name>QApplication</name>
     <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <source>\WPS Office\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
