@@ -5,22 +5,22 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type=galeria></translation>
+        <translation>galeria></translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type=forma></translation>
+        <translation>forma></translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation type=Editar Galeria></translation>
+        <translation>Editar Galeria></translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type=De:></translation>
+        <translation>De:></translation>
     </message>
     <message>
         <source>Text</source>
@@ -28,35 +28,35 @@
     </message>
     <message>
         <source>Caption:</source>
-        <translation type=Sentença:></translation>
+        <translation>Sentença:></translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type=Legenda:></translation>
+        <translation>Legenda:></translation>
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation type=O maior número de sentenças é 5></translation>
+        <translation>O maior número de sentenças é 5></translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type=Mais:></translation>
+        <translation>Mais:></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type=OK></translation>
+        <translation>OK></translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type=Directoria:></translation>
+        <translation>Directoria:></translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type=Notas:></translation>
+        <translation>Notas:></translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type=Menos:></translation>
+        <translation>Menos:></translation>
     </message>
 </context>
 <context>
@@ -67,29 +67,29 @@
     </message>
     <message>
         <source>Less</source>
-        <translation type=Menos></translation>
+        <translation>Menos></translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type=\Kingsoft Office\Desktop.ini nome.></translation>
+        <translation>\Kingsoft Office\Desktop.ini nome.></translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation type=\Kingsoft Office\AppData\Desktop.ini nome.></translation>
+        <translation>\Kingsoft Office\AppData\Desktop.ini nome.></translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type=\Kingsoft Office\AppData\My Materials\Desktop.ini nome.></translation>
+        <translation>\Kingsoft Office\AppData\My Materials\Desktop.ini nome.></translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type=Galeria WPS></translation>
+        <translation>Galeria WPS></translation>
     </message>
 </context>
 </TS>
