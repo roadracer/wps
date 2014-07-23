@@ -1,0 +1,1243 @@
+[TIPS]
+100%25.title=100%
+100%25.content=Fait un zoom sur le document à 100 % de sa taille normale.
+
+3DColor.title=Couleur 3D
+3DColor.content=Applique une couleur à la forme 3D sélectionnée.\n\nCliquez sur la flèche pour sélectionner d'autres couleurs 3 D.
+
+3DColor2.title=Couleur 3D
+3DColor2.content=Cliquez sur la flèche pour sélectionner d'autres couleurs 3 D.
+
+3DDepthMenu.title=Profondeur
+3DDepthMenu.content=Modifie la hauteur de la forme 3D sélectionnée.
+
+3DDirectionPalette.title=Orientation
+3DDirectionPalette.content=Permet de choisir l'orientation de la forme 3D sélectionnée.
+
+3DLightingPalette.title=Éclairage
+3DLightingPalette.content="Règle la direction et l'intensité de l'éclairage de la forme 3D sélectionnée. Vous pouvez choisir entre Clair, Normal et Estompé."
+
+3DOnOff.title=Activation/Désactivation 3D
+3DOnOff.content=Active ou désactive l'effet 3D appliqué à la forme.
+
+3DStylePalette.title=Effets 3D
+3DStylePalette.content=Ajoute un effet 3D à la forme.
+
+3DSurfaceMenu.title=Surface
+3DSurfaceMenu.content=Choisissez un effet de surface pour la forme 3D sélectionnée dans le document.
+
+3DTiltDown.title=Pivoter vers le bas
+3DTiltDown.content=Pivote la forme vers l'avant.
+
+3DTiltLeft.title=Pivoter vers la gauche
+3DTiltLeft.content=Pivote la forme vers la gauche.
+
+3DTiltRight.title=Pivoter vers la droite
+3DTiltRight.content=Pivote la forme vers la droite.
+
+3DTiltUp.title=Pivoter vers le haut
+3DTiltUp.content=Pivote la forme vers le haut.
+
+AcceptChangeOnTB.title=Accepter la modification sélectionnée
+AcceptChangeOnTB.content=Accepte la modification active dans le document.
+
+AcceptChangeOnTB2.title=Accepter la modification sélectionnée
+AcceptChangeOnTB2.content=Cliquez ici pour accepter toutes les modifications dans le document.
+
+AdjustTableProperties.title=Propriétés du tableau
+AdjustTableProperties.content=Ouvre la boîte de dialogue Propriétés du tableau.
+AdjustTableProperties.img=WPSTableProperties
+
+AlignBottomCenter.title=Centrer en bas
+AlignBottomCenter.content=Centre le texte et l'aligne en bas de la cellule.
+
+AlignBottomJustified.title=Justifier en bas
+AlignBottomJustified.content=Aligne le texte en bas à gauche de la cellule.
+
+AlignBottomRight.title=Aligner en bas à droite
+AlignBottomRight.content=Aligne le texte en bas à droite de la cellule.
+
+AlignCenter.title=Aligner au centre
+AlignCenter.content=Centre le texte verticalement et horizontalement à l'intérieur de la cellule.
+
+AlignCenterJustified.title=Justifier au centre
+AlignCenterJustified.content=Centre le texte verticalement et l'aligne sur la gauche de la cellule.
+
+AlignCenterRight.title=Centrer à droite
+AlignCenterRight.content=Centre le texte verticalement et l'aligne sur la droite de la cellule.
+
+AlignStyle.title=Alignement
+AlignStyle.content=Spécifie le mode d'alignement du contenu de la cellule.
+
+AlignStyle2.title=Alignement
+AlignStyle2.content=Préciser l'alignement du contenu  dans une cellule.
+
+AlignTopCenter.title=Centrer en haut
+AlignTopCenter.content=Centre le texte et l'aligne en haut de la cellule.
+
+AlignTopJustified.title=Justifier en haut
+AlignTopJustified.content=Aligne le texte en haut à gauche de la cellule.
+
+AlignTopRight.title=Aligner en haut à droite
+AlignTopRight.content=Aligne le texte en haut à droite de la cellule.
+
+ArrangeAll.title=Réorganiser tout
+ArrangeAll.content=Imprime en mosaïque tous les documents ouverts côte à côte dans la même fenêtre du programme.
+
+ArtisticWordCharacterSpacing.title=Espacement des caractères
+ArtisticWordCharacterSpacing.content=Modifie l'espacement entre les lettres du texte WordArt sélectionné.
+
+AutoAdjustRightIndent.title=Ajuster le retrait de droite avec la grille
+AutoAdjustRightIndent.content=Ajuste automatiquement le retrait droit du document lorsque la grille du document est définie.\n\nCette option est disponible lorsque la grille est définie.
+
+AutoFitWindow.title=Ajuster à la fenêtre
+AutoFitWindow.content=Ajuste automatiquement la largeur du tableau en fonction de la taille de la fenêtre.
+
+AutoVersion.title=Activer la sauvegarde automatique
+AutoVersion.content="Active la sauvegarde automatique du document actif et enregistre un fichier de sauvegarde dans File Safe à chaque fermeture du document."
+
+Autobackup.title=File Safe
+Autobackup.content=Brève introduction à File Safe.
+
+BackgroundShapeFillColor.title=Couleur de page
+BackgroundShapeFillColor.content=Applique une couleur à l'arrière-plan de la page.
+BackgroundShapeFillColor.img=WPSBackgroundShapeFillColor
+
+Bold.title=Gras
+Bold.content=Met le texte sélectionné en gras.
+
+BreakForwardLink.title=Annuler la liaison de transfert
+BreakForwardLink.content=Annule la liaison entre la zone de texte sélectionnée et la suivante.\n\nTout le texte sera placé dans la zone de texte sélectionnée.
+
+BringForward.title=Avancer d'un plan
+BringForward.content=Avance l'objet sélectionné afin qu'il soit masqué par moins d'objets.
+
+BringForward2.title=Avancer d'un plan
+BringForward2.content=Avance les objets sélectionnés d'un plan ou les place devant tous les objets.
+
+Bullets.title=Puces
+Bullets.content=Démarre une liste à puces.\n\nCliquez sur la flèche pour sélectionner d'autres styles de puces.
+
+Bullets2.title=Puces
+Bullets2.content=Cliquez sur la flèche pour sélectionner d'autres styles de puces.
+
+COMAddIns.title=Compléments COM
+COMAddIns.content=Ajoute ou supprime les compléments COM disponibles.
+
+TemplateAddIns.title=Compléments
+TemplateAddIns.content=Gère les compléments disponibles à utiliser avec ce fichier.
+
+CTB_DesignMode.title=Mode Création
+CTB_DesignMode.content=Entrez dans le mode Création pour modifier les noms et les fonctions des contrôles.
+
+CTB_MoreControls.title=Autres contrôles
+CTB_MoreControls.content=Cliquez ici pour insérer un contrôle à partir du jeu de contrôles disponibles sur cet ordinateur.
+
+CTB_Property.title=Propriété des contrôles
+CTB_Property.content=Affiche ou modifie les propriétés du contrôle sélectionné.
+
+CTB_ViewCode.title=Afficher le code
+CTB_ViewCode.content=Lance Visual Basic Editor pour modifier le code des contrôles sélectionnés.
+
+ChangeCase.title=Modifier la casse
+ChangeCase.content="Met l'ensemble du texte sélectionné en majuscules ou minuscules, ou applique d'autres styles usuels de mise en majuscule.\n\nCliquez sur la flèche pour choisir l'une des options suivantes : Guide phonétique, Encadrer les caractères ou Bordure de caractère."
+
+ChangePicture.title=Modifier l'image
+ChangePicture.content="Remplace par une autre image tout en conservant la mise en forme et le format de l'image active."
+
+ChangeTextDirection.title=Orientation du texte
+ChangeTextDirection.content="Personnalise l'orientation de la mise en page du texte sur la section active, le document entier ou la zone de texte et le tableau sélectionnés."
+
+CharacterBorder.title=Bordure de caractère
+CharacterBorder.content=Applique une bordure autour d'un ensemble de caractères ou d'une phrase.
+
+CharacterShading.title=Trame de caractère
+CharacterShading.content=Applique un ombrage de couleur grise au texte sélectionné.
+
+CheckSpelling.title=Vérifier l'orthographe
+CheckSpelling.content=Vérifie l'orthographe du texte dans le document actif.
+
+Chinese%20Translation.title=Chinois simplifié en chinois traditionnel
+Chinese%20Translation.content=Choisir l'unité de traduction pour que les caractères ou les mots correspondent au chinois simplifié ou traditionnel.
+
+CleanLineSpacing.title=Supprimer l'interligne
+CleanLineSpacing.content=Applique un interligne simple au paragraphe sélectionné et l'aligne sur la grille.
+
+ClearFormats.title=Effacer la mise en forme
+ClearFormats.content="Efface complètement la mise en forme de la sélection et conserve uniquement le texte brut."
+
+ClearTableStyle.title=Effacer le style de tableau
+ClearTableStyle.content=Efface le style de tableau des cellules sélectionnées.
+
+CloseDevelopmentTools.title=Fermer
+CloseDevelopmentTools.content=Cliquez ici pour masquer les outils de développement.
+
+CloseHeaderAndFooter.title=Fermer
+CloseHeaderAndFooter.content=Ferme les outils En-tête et pied de page et retourne à la modification du document.
+
+CloseMail.title=Fermer
+CloseMail.content=Cliquez ici pour masquer l'onglet Publipostage.
+
+CloseOtherWindow.title=Fermer les autres fenêtres
+CloseOtherWindow.content="Ferme toutes les autres fenêtres, sauf la fenêtre active."
+
+CloseOutlineview.title=Fermer
+CloseOutlineview.content=Ferme le mode Plan et retourne à la modification du document.
+
+ClosePreview.title=Fermer
+ClosePreview.content=Ferme l'aperçu avant impression et retourne à la modification du document.
+
+CloseWindow.title=Fermer la fenêtre
+CloseWindow.content=Ferme la fenêtre active.
+
+CmpSideBySide.title=Afficher côte à côte
+CmpSideBySide.content=Affiche deux documents côte à côte pour comparer leur contenu.
+
+CollapseOnOutlining.title=Réduire
+CollapseOnOutlining.content=Réduit l'élément sélectionné.
+
+CompressPictures.title=Compresser les images
+CompressPictures.content=Compresse l'image sélectionnée ou toutes les images du document pour en réduire la taille.
+
+ConvertTabletoText.title=Convertir un tableau en texte
+ConvertTabletoText.content="Convertit un tableau en un paragraphe de texte à l'aide de virgules, d'espaces ou d'autres caractères de séparation."
+
+Copy.title=Copier
+Copy.content=Copie la sélection et la place dans le Presse-papiers du système.
+
+CoverPages.title=Insérer une page de garde
+CoverPages.content="Permet de choisir un modèle de page de garde parmi différents modèles et de l'insérer dans le document. Vous pouvez remplir le titre, l'auteur, l'adresse e-mail et d'autres informations."
+CoverPages.img=WPSCoverPages
+
+CreateTextBoxLink.title=Créer un lien entre les zones de texte
+CreateTextBoxLink.content=Lie la zone de texte sélectionnée avec une zone vide afin que le texte s'enchaîne entre elles.
+
+CrossReference.title=Renvoi
+CrossReference.content=Utilise un renvoi pour se référer aux titres et aux chiffres dans le document.
+
+Cut.title=Couper
+Cut.content=Coupe la sélection et la place dans le Presse-papiers du système.
+
+DecreaseIndent.title=Réduire le retrait
+DecreaseIndent.content=Diminue le niveau de retrait du paragraphe.
+
+Delete.title=Supprimer
+Delete.content="Supprime des lignes, des colonnes, des cellules ou tout le tableau."
+
+DeleteSection.title=Supprimer la section
+DeleteSection.content=Supprime la section actuellement sélectionnée.
+
+DemoteOnOutlining.title=Abaisser
+DemoteOnOutlining.content=Abaisse cet élément à un niveau inférieur.
+
+DemoteOnParagraph.title=Abaisser d'un niveau la table des matières
+DemoteOnParagraph.content=Abaisse le paragraphe sélectionné à un niveau inférieur de la table des matières.
+
+DemoteToLowestLevelOnOutlining.title=Abaisser en corps de texte
+DemoteToLowestLevelOnOutlining.content=Abaisse cet élément au niveau le plus bas du plan.
+
+DemoteToLowestLevelOnParagraph.title=Abaisser en corps de texte
+DemoteToLowestLevelOnParagraph.content=Abaisse le paragraphe sélectionné au niveau le plus bas de la table des matières.
+
+DetailedSettings_DrawingTools.title=Paramètres
+DetailedSettings_DrawingTools.content=Modifie les paramètres de mise en forme des formes.
+
+DetailedSettings_Home.title=Paramètres
+DetailedSettings_Home.content="Modifie les paramètres de police, de paragraphe, de styles et de mise en forme."
+
+DetailedSettings_PageLayout.title=Paramètres
+DetailedSettings_PageLayout.content=Modifie les paramètres de mise en page et de paragraphe.
+
+DetailedSettings_Paragraph.title=Paramètres
+DetailedSettings_Paragraph.content="Modifie les paramètres de paragraphe, de mise en page, de styles et de mise en forme."
+
+DetailedSettings_PictureTools.title=Paramètres
+DetailedSettings_PictureTools.content=Modifie les paramètres de mise en forme d'image.
+
+DetailedSettings_Section.title=Paramètres
+DetailedSettings_Section.content="Modifie les paramètres de mise en page, d'en tête et de pied de page."
+
+DetailedSettings_TableTools.title=Titre DetailedSettings TableTools
+DetailedSettings_TableTools.content=Contenu DetailedSettings TableTools
+
+DetailedSettings_WordArt.title=Paramètres
+DetailedSettings_WordArt.content=Modifie les paramètres de mise en forme WordArt.
+
+DevelopmentTools.title=Outils de développement
+DevelopmentTools.content="Ouvre l'onglet Outils de développement pour insérer, entre autres, la case d'option et la case à cocher."
+
+DirectoryLevel.title=Niveau
+DirectoryLevel.content=Définit le niveau de la table des matières pour le paragraphe sélectionné.
+
+DisableLineHeightGrid.title=Aligner sur la grille
+DisableLineHeightGrid.content=Aligne le contenu du texte sur la grille.
+
+DisplayForReview.title=Afficher pour la révision
+DisplayForReview.content=Permet de choisir le mode d'affichage des modifications proposées dans le document
+
+DistributeColumns.title=Uniformiser la largeur des colonnes
+DistributeColumns.content=Uniformise la largeur des colonnes sélectionnées.
+
+DistributeRows.title=Uniformiser la hauteur des lignes
+DistributeRows.content=Uniformise la hauteur des lignes sélectionnées.
+
+DoublePages.title=Deux pages
+DoublePages.content=Fait un zoom sur le document pour faire tenir deux pages dans la fenêtre.
+
+DrawTable.title=Dessiner un tableau
+DrawTable.content=Dessine les bordures d'un tableau.
+
+DrawingToolsDetailedSettings.title=Titre DrawingToolsDetailedSettings
+DrawingToolsDetailedSettings.content=Contenu DrawingToolsDetailedSettings
+
+DropCap.title=Lettrine
+DropCap.content=Crée une grande lettre majuscule au début du paragraphe.
+
+EditPoints.title=Modifier les points
+EditPoints.content=Modifie les points d'habillage pour modifier la forme.
+
+EditWordArtText.title=Modifier le texte WordArt
+EditWordArtText.content=Modifie le texte de l'objet WordArt sélectionné.
+
+EmphasisMark.title=Marque d'accentuation
+EmphasisMark.content=Ajoute des points noirs au contenu sélectionné pour marquer l'accentuation.\n\nCliquez sur la flèche pour barrer le texte.
+
+EncloseCharacters.title=Encadrer les caractères
+EncloseCharacters.content="Ajoute un cercle ou une autre bordure autour d'un caractère.\n\nCliquez sur la flèche pour choisir l'une des options suivantes : Guide phonétique, Modifier la casse ou Bordure de caractère."
+
+EnterParagraphAdjustment.title=Disposition des paragraphes
+EnterParagraphAdjustment.content=Entre dans le mode Disposition des paragraphes.
+EnterParagraphAdjustment.img=WPSEnterParagraphAdjustment
+
+ExitParagraph.title=Fermer
+ExitParagraph.content=Ferme les outils Disposition des paragraphes et retourne à la modification du document.
+
+ExpandOnOutlining.title=Développer
+ExpandOnOutlining.content=Développe l'élément sélectionné.
+
+ExplorBackupDir.title=Explorer File Safe
+ExplorBackupDir.content="Affiche les fichiers de sauvegarde, les ouvre ou les récupère pour un document donné."
+
+ExplorVersion.title=Afficher l'historique des sauvegardes
+ExplorVersion.content="Affiche l'historique de sauvegarde du document actif pour ouvrir, supprimer ou récupérer les fichiers."
+
+ExportWeiboImageCmd.title=Exporter une image Weibo
+ExportWeiboImageCmd.content=Exporter une image Weibo
+
+FieldFormula.title=Formule
+FieldFormula.content="Ajoute une formule à une cellule pour effectuer un calcul simple (SOMME, MOYENNE ou MAXIMUM)."
+
+FillColor.title=Remplissage de la forme
+FillColor.content="Remplit la forme sélectionnée avec une couleur unie, un dégradé, une image ou une texture.\n\nCliquez sur la flèche pour sélectionner d'autres effets de remplissage."
+
+FillColor2.title=Remplissage de la forme
+FillColor2.content=Cliquez sur la flèche pour sélectionner d'autres effets de remplissage.
+
+Find.title=Rechercher
+Find.content="Recherche du texte dans le document.\n\nCliquez sur la flèche pour choisir d'autres options, telles que Atteindre."
+
+Find2.title=Rechercher
+Find2.content="Cliquez sur la flèche pour choisir d'autres options, telles que Atteindre."
+
+FirstPageIsDifferent.title=Première page différente
+FirstPageIsDifferent.content=Spécifie un en-tête ou un pied de page unique pour la première page du document.
+
+FirstRecord.title=Premier enregistrement
+FirstRecord.content=Affiche un aperçu du premier enregistrement dans la liste de destinataires.
+
+FirstSection.title=Première section
+FirstSection.content=Atteint la première section du document.
+
+FontColor.title=Couleur du texte
+FontColor.content=Modifie la couleur du texte.\n\nCliquez sur la flèche pour choisir une autre couleur de texte.
+
+FontColor2.title=Couleur du texte
+FontColor2.content=Cliquez sur la flèche pour choisir une autre couleur de texte.
+
+FontName.title=Police
+FontName.content=Modifie le type de police.
+
+FontSize.title=Taille de police
+FontSize.content=Modifie la taille de la police.
+
+FooterLinkToPrevious.title=Lier au pied de page précédent
+FooterLinkToPrevious.content=Lie le pied de page actif à la section précédente.
+
+FormatAlignCenter.title=Centrer
+FormatAlignCenter.content=Centre le texte.
+
+FormatAlignDistributed.title=Paragraphe réparti
+FormatAlignDistributed.content=Aligne un paragraphe sur les marges de gauche et de droite en insérant un espace supplémentaire entre les caractères si nécessaire.
+
+FormatAlignJustify.title=Justifier
+FormatAlignJustify.content="Aligne le texte à la fois sur les marges de gauche et de droite, en ajoutant une espace supplémentaire entre les mots si nécessaire."
+
+FormatAlignLeft.title=Aligner le texte à gauche
+FormatAlignLeft.content=Aligne le texte à gauche.
+
+FormatAlignRight.title=Aligner le texte à droite
+FormatAlignRight.content=Aligne le texte à droite.
+
+FormatObject.title=Format d'objet
+FormatObject.content=Affiche la boîte de dialogue Format d'objet.
+FormatObject.img=WPSFormatObject
+
+FormatPainter.title=Reproduire la mise en forme
+FormatPainter.content=Copie la mise en forme d'un emplacement à un autre.\n\nDouble-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs endroits dans le document.
+
+FullScreenMode.title=Mode plein écran
+FullScreenMode.content=Affiche le document en mode plein écran.
+
+Gallery.title=WPS Gallery
+Gallery.content="WPS Gallery fournit toutes sortes de sources d'images que vous pouvez utiliser, collecter, modifier et gérer.\n\nLes sources en ligne de WPS Gallery nécessitent une connexion Internet."
+
+GenkoSetting.title=Paramètres du mode Genko
+GenkoSetting.content=Applique les paramètres du mode Genko au document actif.
+GenkoSetting.img=WPSGenkoSetting
+
+GotoFootnotes.title=Note de bas de page/note de fin suivante
+GotoFootnotes.content=Accède à la note de base de page/note de fin suivante dans le document.
+
+GotoNextEndnote.title=Note de fin suivante
+GotoNextEndnote.content=Accède à la note de fin suivante dans le document.
+
+GotoNextFootnote.title=Note de bas de page suivante
+GotoNextFootnote.content=Accède à la note de bas de page suivante dans le document.
+
+GotoPrevEndnote.title=Note de fin précédente
+GotoPrevEndnote.content=Accède à la note de fin précédente dans le document.
+
+GotoPrevFootnote.title=Note de bas de page précédente
+GotoPrevFootnote.content=Accède à la note de bas de page précédente dans le document.
+
+GotoRecord.title=Atteindre l'enregistrement
+GotoRecord.content=Affiche un enregistrement spécifique dans la liste de destinataires.
+
+GotoTocOnOutlining.title=Atteindre la table des matières
+GotoTocOnOutlining.content=Atteindre la table des matières du document.
+
+Gridlines.title=Quadrillage
+Gridlines.content=Active/désactive le quadrillage sur lequel vous pouvez aligner des objets dans le document.
+
+GrowFont.title=Agrandir la police
+GrowFont.content=Augmente la taille de la police.
+
+HeadRowsRepeat.title=Répéter les lignes d'en-tête
+HeadRowsRepeat.content=Répète les lignes d'en-tête du tableau sélectionné sur chaque page.\n\nCela concerne uniquement les tableaux qui s'étendent sur plusieurs pages.
+
+HeaderAndFooterSetting.title=En-tête/Pied de page
+HeaderAndFooterSetting.content=Affiche la boîte de dialogue En-tête/Pied de page.
+
+HeaderFooter.title=En-tête et pied de page
+HeaderFooter.content=Modifie l'en-tête ou le pied de page du document.
+HeaderFooter.img=WPSHeaderFooter
+
+HeaderFooterOptions.title=Options d'en-tête et de pied de page
+HeaderFooterOptions.content="Applique les paramètres d'en-tête et de pied de page à la section ou au document actif (première page différente, pages paires et impaires différentes et marge de la bordure)."
+HeaderFooterOptions.img=WPSHeaderFooterOptions
+
+HeaderLine.title=Afficher la ligne de l'en-tête
+HeaderLine.content=Ajoute une ligne horizontale à l'en-tête.
+
+HeaderLinkToPrevious.title=Lier à l'en-tête précédent
+HeaderLinkToPrevious.content=Lie l'en-tête actif à la section précédente.
+
+HighlightColor.title=Couleur de surbrillance du texte
+HighlightColor.content=Donne au texte l'apparence d'être surligné.\n\nCliquez sur la flèche pour sélectionner une autre couleur de surbrillance.
+
+HighlightColor2.title=Couleur de surbrillance du texte
+HighlightColor2.content=Cliquez sur la flèche pour sélectionner une autre couleur de surbrillance.
+
+HighlightMergeFields.title=Mettre les champs de fusion en surbrillance
+HighlightMergeFields.content=Met en surbrillance les champs que vous avez insérés dans le document.\n\nCeci permet de repérer rapidement la partie de votre lettre type qui sera remplacée par les informations contenues dans la liste de destinataires choisie.
+
+HomeDetailedSettings.title=Titre HomeDetailedSettings
+HomeDetailedSettings.content=Contenu HomeDetailedSettings
+
+IncreaseIndent.title=Augmenter le retrait
+IncreaseIndent.content=Augmente le niveau de retrait du paragraphe.
+
+IncreaseStep.title=Augmenter l'interligne
+IncreaseStep.content=Augmente de 25 % l'interligne du paragraphe actif.
+
+InsertAutoText.title=Insertion automatique
+InsertAutoText.content=Insère automatiquement du texte dans l'en-tête ou le pied de page pour localiser et afficher facilement l'article associé.
+
+InsertBlankPage.title=Page vierge
+InsertBlankPage.content=Insère une nouvelle page vierge à la position du curseur.
+
+InsertBlankPage2.title=Page vierge
+InsertBlankPage2.content=Cliquez ici pour insérer une page vierge horizontale ou verticale.
+
+InsertBookmark.title=Insérer un signet
+InsertBookmark.content=Crée un signet pour désigner un point spécifique d'un document.
+
+InsertCaption.title=Insérer une légende
+InsertCaption.content=Ajoute une légende descriptive à une image ou un tableau.
+InsertCaption.img=WPSInsertCaption
+
+InsertCells.title=Insérer des cellules
+InsertCells.content=Affiche la boîte de dialogue Insérer des cellules.
+InsertCells.img=WPSInsertCells
+
+InsertChart.title=Insérer un graphique
+InsertChart.content="Le graphique inséré doit être modifié dans WPS Spreadsheets.\n\nLorsque WPS Spreadsheets est fermé, le graphique peut s'afficher normalement dans le document. Double-cliquez sur le graphique si vous souhaitez le modifier."
+InsertChart.img=WPSInsertChart
+
+InsertClipArt.title=Insérer une image clipart
+InsertClipArt.content=Permet de choisir une image Clip Art dans la fenêtre des tâches et de l'insérer dans le document.
+
+InsertColumnLeft.title=Insérer des colonnes à gauche
+InsertColumnLeft.content=Ajoute directement une colonne à gauche de la colonne sélectionnée.
+
+InsertColumnRight.title=Insérer des colonnes à droite
+InsertColumnRight.content=Ajoute directement une colonne à droite de la colonne sélectionnée.
+
+InsertComment.title=Insérer un commentaire
+InsertComment.content=Ajoute un commentaire sur la sélection dans le document.
+
+InsertDateTime.title=Date et heure
+InsertDateTime.content=Affiche la boîte de dialogue Date et heure permettant d'insérer la date ou l'heure actuelle dans le document actif.
+
+InsertField.title=Insérer un champ
+InsertField.content=Insère un champ dans le document.
+
+InsertFileObject.title=Insérer un objet à partir du fichier
+InsertFileObject.content=Insère le fichier sélectionné dans le document.
+
+InsertFootnote.title=Insérer une note de bas de page/note de fin
+InsertFootnote.content=Ajoute une note de bas de page ou une note de fin au document.
+InsertFootnote.img=WPSFootAndEndnote
+
+InsertHyperlink.title=Insérer un lien hypertexte
+InsertHyperlink.content="Crée un lien vers une page Web, une image, ou une adresse de messagerie."
+
+InsertIndexTables.title=Insérer une table des matières
+InsertIndexTables.content="Affiche la boîte de dialogue Table des matières et ajoute une table des matières au document.\n\nDéfinit le niveau de la table des matières pour le paragraphe sélectionné, et ajoute une table des matières."
+
+InsertMergeFields.title=Insérer un champ de fusion
+InsertMergeFields.content="Insère un champ dans la liste de destinataires de ce document (\&quot;Nom\&quot;, \&quot;Prénom\&quot;, \&quot;Nom de la société\&quot;, \&quot;Nom du service\&quot; ou \&quot;Poste\&quot;, par exemple)."
+
+InsertMutidiagonalCell.title=Insérer une cellule à plusieurs diagonales
+InsertMutidiagonalCell.content=Insère différents types de lignes diagonales en tant qu'en-têtes de cellule.\n\nLes lignes diagonales des en-têtes du tableau peuvent être déplacées.
+
+InsertNumber.title=Insérer un nombre
+InsertNumber.content=Insère un format de nombre personnalisé dans le document.
+
+InsertObject.title=Insérer un objet
+InsertObject.content=Insérer un objet incorporé dans le document.\n\nCliquez sur la flèche pour insérer le contenu du fichier dans le document.
+
+InsertObject2.title=Insérer un objet
+InsertObject2.content=Cliquez sur la flèche pour insérer le contenu du fichier dans le document.
+
+InsertPageBreak.title=Saut de page
+InsertPageBreak.content="Démarre la page suivante à la position actuelle du curseur. Le contenu qui se trouve après le curseur sera déplacé vers la nouvelle page."
+
+InsertPageNumbers.title=Insérer un numéro de page
+InsertPageNumbers.content=Insère des numéros de page dans le document.
+
+InsertPictureFromFile.title=Insérer une image
+InsertPictureFromFile.content=Insère une image dans le dossier local.
+
+InsertPictureFromFile2.title=Insérer une image
+InsertPictureFromFile2.content=Cliquez ici pour insérer une image dans le dossier local ou à partir d'un scanneur.
+
+InsertRowAbove.title=Insérer des lignes au-dessus
+InsertRowAbove.content=Ajoute directement une ligne au-dessus de la ligne sélectionnée.
+
+InsertRowBelow.title=Insérer des lignes en dessous
+InsertRowBelow.content=Ajoute directement une ligne en dessous de la ligne sélectionnée.
+
+InsertSectionAfter.title=Insérer la section après
+InsertSectionAfter.content=Insère une nouvelle section après la section active.
+
+InsertSectionBefore.title=Insérer une section avant
+InsertSectionBefore.content=Insère une section avant la section active.
+
+InsertSymbol.title=Insérer un symbole
+InsertSymbol.content="Insère des symboles qui ne sont pas sur votre clavier, tels que les caractères joints et les symboles de copyright."
+
+InsertTheEndnote.title=Insérer une note de fin
+InsertTheEndnote.content=Ajoute une note de fin dans le document.
+
+InsertTheFootnote.title=Insérer une note de bas de page
+InsertTheFootnote.content=Ajoute une note de bas de page au document.
+
+InsertWordArt.title=WordArt
+InsertWordArt.content=Affiche la boîte de dialogue Galerie WordArt pour sélectionner un style WordArt et en modifier le contenu.
+
+InsertWordField.title=Insérer les champs suivants
+InsertWordField.content="Pour résoudre le problème des sauts de page dans le publipostage, si N lignes doivent être affichées sur une page, insérez N-1 champs suivants."
+
+Italic.title=Italique
+Italic.content=Met le texte sélectionné en italique.
+
+KOSCloudFeedbackTip.title=Commentaires des utilisateur
+KOSCloudFeedbackTip.content=Aidez-nous à améliorer WPS Office.
+
+KOSCloudInformationTip.title=Guide de l'utilisateur
+KOSCloudInformationTip.content=Utilisation du bureau.
+
+KOSCreatecloudLinkTip.title=Il suffit de dix secondes ! Vous pouvez effectuer les opérations suivantes :
+KOSCreatecloudLinkTip.content="Analyser le code QR et partager votre document avec un téléphone portable, WeChat ou MiChat, pour qu'il soit modifié par d'autres personnes."
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=Le nom d'utilisateur ou le mot de passe ne correspond pas.
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=Le mot de passe est incorrect.
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=Le mot de passe ne correspond pas.
+
+KOSOpenCloudFileTip.title=Ouvrir à partir de Cloud Docs
+KOSOpenCloudFileTip.content=Les modifications de documents dans Cloud Docs seront directement enregistrées.
+
+KOSRoamingfileTip.title=File Roaming
+KOSRoamingfileTip.content=Les fichiers ouvris seront enregistrés sur le Cloud directement. Vous pouvez commencer votre travail aux tous vos appareils.
+
+KOSSaveFileTocloudTip.title=Enregistrer dans Cloud Docs
+KOSSaveFileTocloudTip.content="Partagez avec d'autres personnes pour discuter, modifier et prévisualiser les documents en ligne."
+
+KOSUserLoginCloudTextBtnTip.title=Se connecter
+KOSUserLoginCloudTextBtnTip.content=Connectez-vous à WPS Office Cloud et téléchargez vos documents. Vous pouvez modifier le même document sur d'autres ordinateurs ou téléphones portables afin de ne jamais les perdre.
+
+KOSUserLoginCloudTip.title=Titre KOSUserLoginCloudTip
+KOSUserLoginCloudTip.content=Contenu KOSUserLoginCloudTip
+
+KOSUserLogoutCloudTip.title=Connecté
+KOSUserLogoutCloudTip.content=Vous vous êtes connecté à WPS Office Cloud. Cliquez pour quitter.
+
+KingsoftEquationEditor.title=Insérer une équation
+KingsoftEquationEditor.content=Insère des équations mathématiques à l'aide de l'éditeur d'équations.
+KingsoftEquationEditor.img=WPSKingsoftEquationEditor
+
+LastRecord.title=Dernier enregistrement
+LastRecord.content=Affiche un aperçu du dernier enregistrement dans la liste de destinataires.
+
+LastSection.title=Dernière section
+LastSection.content=Atteint la dernière section du document.
+
+LineColor.title=Contour de la forme
+LineColor.content="Définit la couleur, la largeur et le style de ligne du plan de la forme sélectionnée.\n\nCliquez sur la flèche pour sélectionner les paramètres détaillés du plan."
+
+LineColor2.title=Contour de la forme
+LineColor2.content=Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.
+
+LineSpacingShow.title=Interligne
+LineSpacingShow.content=Modifie l'espacement entre les lignes de texte.
+
+LinktoPreviousHeader.title=Lier au précédent
+LinktoPreviousHeader.content=Attribue l'en-tête et le pied de page de la section précédente à la section active.
+
+LocateToSection.title=Trouver la section
+LocateToSection.content=Permet de se déplacer vers l'autre section.
+
+LockSideBySide.title=Défilement synchrone
+LockSideBySide.content="Synchronise le défilement de deux documents.\n\nPour activer cette fonctionnalité, activez l'option Afficher côte à côte."
+
+LooseLineSpacing.title=Interligne libre
+LooseLineSpacing.content="Définit un interligne de 1,5 sur le paragraphe sélectionné et sélectionne l'option Aligner sur la grille."
+
+Macro.title=Afficher les macros
+Macro.content="Affiche la boîte de dialogue Macros. Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer."
+
+Macro2.title=Afficher les macros
+Macro2.content="Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer."
+
+Mail.title=Publipostage
+Mail.content="Cliquez ici pour ouvrir l'onglet Publipostage, qui inclut des fonctionnalités telles que Fusion et publipostage."
+
+MailMergeRecipients.title=Destinataires
+MailMergeRecipients.content=Ajoute ou supprime des destinataires dans la liste de destinataires du publipostage.
+
+MarkVersion.title=Sauvegarde manuelle
+MarkVersion.content="Sans fermer le fichier, vous pouvez sauvegarder manuellement le fichier actif dans votre File Safe et ajouter des notes au fichier de sauvegarde."
+
+Markup.title=Marque de révision
+Markup.content=Affiche ou masque les marques de révision dans le document.
+
+MatchFields.title=Faire correspondre les champs
+MatchFields.content="L'option Faire correspondre les champs vous permet d'indiquer à WPS Writer la signification des différents champs dans la liste de destinataires.\n\nPar exemple, vous pouvez indiquer que votre champ personnalisé \&quot;CP\&quot; correspond au champ standard intégré \&quot;Code postal\&quot;."
+
+MergeCells.title=Fusionner les cellules
+MergeCells.content=Fusionne les cellules sélectionnées en une seule cellule.
+
+MergeToDiffNewDoc.title=Fusionner avec un nouveau document différent
+MergeToDiffNewDoc.content=Exporte le contenu des messages fusionnés vers différents documents en fonction de la liste de destinataires.
+
+MergeToEmail.title=Fusionner avec un message électronique
+MergeToEmail.content=Envoie un contenu fusionné par e-mail.
+
+MergeToNewDoc.title=Fusionner vers un nouveau document
+MergeToNewDoc.content=Exporte un contenu fusionné vers un nouveau document.
+
+MergeToPrinter.title=Fusionner vers l'imprimante
+MergeToPrinter.content=Imprime le contenu fusionné.
+
+NavigationPane.title=Volet de navigation
+NavigationPane.content=Affiche ou masque le volet de navigation
+NavigationPane.img=WPSNavigationPane
+
+NewWindow.title=Nouvelle fenêtre
+NewWindow.content=Ouvre une nouvelle fenêtre contenant une vue du document actif.
+
+SplitWindow.title=Fractionner la fenêtre
+SplitWindow.content=Fractionne la fenêtre active en deux parties pour vous permettre de visualiser différentes sections du document au même moment.
+
+SplitWindowMenu.title=Fractionner la fenêtre
+SplitWindowMenu.content=Cliquez pour fractionner horizontalement ou verticalement la fenêtre active.
+
+NextChange.title=Modification suivante
+NextChange.content=Accède à la révision suivante dans le document pour vous permettre de l'accepter ou de la rejeter.
+
+NextComment.title=Commentaire suivant
+NextComment.content=Accède au commentaire suivant dans le document.
+
+NextHeader.title=Afficher le suivant
+NextHeader.content=Accède à l'en-tête ou au pied de page de la section suivante en fonction de la position actuelle du curseur.
+
+NextRecord.title=Enregistrement suivant
+NextRecord.content=Affiche un aperçu de l'enregistrement suivant dans la liste de destinataires.
+
+NextSection.title=Section suivante
+NextSection.content=Accède à la section suivante.
+
+NextTextBox.title=Zone de texte suivante
+NextTextBox.content=Accède à la prochaine zone de texte liée à la section active.
+
+NudgeShadowDown.title=Déplacer l'ombre vers le bas
+NudgeShadowDown.content=Déplace l'ombre de l'objet sélectionné vers le bas.
+
+NudgeShadowLeft.title=Déplacer l'ombre vers la gauche
+NudgeShadowLeft.content=Déplace l'ombre de l'objet sélectionné vers la gauche.
+
+NudgeShadowRight.title=Déplacer l'ombre vers la droite
+NudgeShadowRight.content=Déplace l'ombre de l'objet sélectionné vers la droite.
+
+NudgeShadowUp.title=Déplacer l'ombre vers le haut
+NudgeShadowUp.content=Déplace l'ombre de l'objet sélectionné vers le haut.
+
+Numbering.title=Numérotation
+Numbering.content=Démarre une liste numérotée.\n\nCliquez sur la flèche pour sélectionner d'autres formats de numérotation.
+
+Numbering2.title=Puces
+Numbering2.content=Cliquez sur la flèche pour sélectionner d'autres formats de numérotation.
+
+ObjectSelect.title=Volet Sélection
+ObjectSelect.content=Affiche la fenêtre des tâches Volet Sélection pour trouver facilement un seul objet ou définir son ordre et sa visibilité.
+ObjectSelect.img=WPSObjectSelect
+
+OnePage.title=Une page
+OnePage.content=Fait un zoom sur le document pour faire tenir une page entière dans la fenêtre.
+
+OpenDataSource.title=Ouvrir la source de données
+OpenDataSource.content="Ouvre les sources de données (fichiers de feuille de calcul, fichiers de base de données et fichiers texte) dans le dossier local."
+
+OpenDataSource2.title=Ouvrir la source de données
+OpenDataSource2.content=Cliquez ici pour ouvrir ou fermer les fichiers de source de données.
+
+OutLine.title=Mode Plan
+OutLine.content=Affiche le document sous la forme d'un plan.
+
+OutLineLevelComboOnOutlining.title=Niveau hiérarchique
+OutLineLevelComboOnOutlining.content=Définit un niveau hiérarchique pour le paragraphe sélectionné.
+
+PageLayoutDetailedSettings.title=Titre PageLayoutDetailedSettings
+PageLayoutDetailedSettings.content=Contenu PageLayoutDetailedSettings
+
+PageNumber.title=Insérer un numéro de page
+PageNumber.content="Affiche la boîte de dialogue Numéros de page et applique les paramètres de numéros de pages à la section active ou à la totalité du document."
+
+PageNumberFormat.title=Format des numéros de page
+PageNumberFormat.content=Permet de sélectionner des formats numériques pour attribuer des numéros de page dans le document actif.
+
+PageNumberStart.title=Démarrer la numérotation des pages
+PageNumberStart.content=Attribue un numéro de page à la page actuelle. Cette option est disponible lorsque le démarrage de la numérotation des pages est activé.
+
+PageOrientation.title=Orientation de la page
+PageOrientation.content=Bascule entre les orientations Portrait et Paysage des pages.
+
+PageSetup.title=Mise en page
+PageSetup.content=Affiche la boîte de dialogue Mise en page.
+PageSetup.img=WPSPageSetup
+
+PageWidth.title=Largeur de la page
+PageWidth.content=Fait un zoom sur le document afin que la largeur de la page corresponde à la largeur de la fenêtre.
+
+ParagraphDetailedSettings.title=Titre ParagraphDetailedSettings
+ParagraphDetailedSettings.content=Contenu ParagraphDetailedSettings
+
+PhoneticGuide.title=Guide phonétique
+PhoneticGuide.content="Affiche les caractères phonétiques pour clarifier la prononciation.\n\nCliquez sur la flèche pour choisir l'une des options suivantes : Modifier la casse, Encadrer les caractères ou Bordure de caractère."
+
+PhoneticGuide2.title=Autres options
+PhoneticGuide2.content="Cliquez sur la flèche pour choisir l'une des options suivantes : Guide phonétique, Modifier la casse, Encadrer les caractères ou Bordure de caractère."
+
+PictureAdjust.title=Ajuster l'image
+PictureAdjust.content=Augmente ou diminue le contraste et la luminosité de l'image sélectionnée.
+
+PictureColor.title=Couleur
+PictureColor.content="Modifie la couleur de l'image sélectionnée pour lui donner une couleur noir et blanc, estompée ou transparente."
+
+PictureCrop.title=Rogner
+PictureCrop.content=Rogne l'image pour supprimer les parties indésirables.
+
+PictureFill.title=Remplissage de l'image
+PictureFill.content="Remplit l'objet sélectionné avec une couleur, un dégradé, un motif ou une image.\n\nCliquez sur la flèche pour sélectionner d'autres effets de remplissage."
+
+PictureFill2.title=Remplissage de l'image
+PictureFill2.content=Cliquez sur la flèche pour sélectionner d'autres modes de remplissage.
+
+PictureOutline.title=Contours d'image
+PictureOutline.content="Définit la couleur, la largeur et le style de plan de l'objet sélectionné.\n\nCliquez sur la flèche pour sélectionner les paramètres détaillés du plan."
+
+PictureOutline2.title=Contours d'image
+PictureOutline2.content=Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.
+
+PictureSetTransparentColor.title=Couleur transparente
+PictureSetTransparentColor.content="Rend une couleur transparente dans l'image active.\n\nLorsque vous cliquez sur un pixel dans le graphique actif, tous les pixels de cette couleur spécifique deviennent transparents."
+
+PictureSize.title=Taille de l'image
+PictureSize.content="Modifie l'échelle de la taille, du degré de rotation et du zoom de la forme sélectionnée."
+
+PictureToolsDetailedSettings.title=Titre PictureToolsDetailedSettings
+PictureToolsDetailedSettings.content=Contenu PictureToolsDetailedSettings
+
+PreviousChange.title=Modification précédente
+PreviousChange.content=Accède à la révision précédente dans le document pour vous permettre de l'accepter ou la rejeter.
+
+PreviousComment.title=Commentaire précédent
+PreviousComment.content=Accède au commentaire précédent dans le document.
+
+PreviousHeader.title=Afficher en-tête/pied de page précédent
+PreviousHeader.content=Accède à l'en-tête ou au pied de page de la section précédente en fonction de la position actuelle du curseur.
+
+PreviousRecord.title=Enregistrement précédent
+PreviousRecord.content=Affiche un aperçu de l'enregistrement précédent dans la liste de destinataires.
+
+PreviousSection.title=Section précédente
+PreviousSection.content=Accède à la section précédente.
+
+PreviousTextBox.title=Zone de texte précédente
+PreviousTextBox.content=Accède à la dernière zone de texte liée à la zone de texte sélectionnée.
+
+Print.title=Imprimer
+Print.content="Applique les paramètres détaillés de l'impression, tels que l'imprimante, l'étendue, les exemplaires imprimés, les pages par feuille et le zoom."
+
+Print2.title=Imprimer
+Print2.content="Cliquez ici pour définir les détails de l'impression ou utilisez les paramètres par défaut pour imprimer directement."
+
+PrintDirect.title=Imprimer directement
+PrintDirect.content=Envoie le document directement à l'imprimante par défaut sans apporter de modifications.
+
+PrintLayoutView.title=Mode Impression
+PrintLayoutView.content=Affiche le document tel qu'il apparaît sur la page imprimée.
+
+PrintPreview.title=Aperçu avant impression
+PrintPreview.content=Affiche un aperçu et modifie les pages avant l'impression.
+
+PrintPreviewZoomCombo.title=Zoom
+PrintPreviewZoomCombo.content=Permet de sélectionner la taille de zoom du document actif.
+
+PrintShowViewRuler.title=Règle
+PrintShowViewRuler.content="Affiche ou masque les règle destinées à mesurer et aligner les objets dans le document."
+
+PromoteOnOutlining.title=Promouvoir
+PromoteOnOutlining.content=Promeut l'élément sélectionné à un niveau supérieur.
+
+PromoteOnParagraph.title=Promouvoir la table des matières
+PromoteOnParagraph.content=Promeut le paragraphe sélectionné à un niveau supérieur de la table des matières.
+
+PromoteToHighestLevelOnOutlining.title=Promouvoir au niveau 1
+PromoteToHighestLevelOnOutlining.content=Promeut cet élément au niveau le plus élevé du plan.
+
+PromoteToHighestLevelOnParagraph.title=Promouvoir au niveau 1
+PromoteToHighestLevelOnParagraph.content=Promeut cet élément au niveau le plus élevé de la table des matières.
+
+RB_Clipboard.title=Presse-papiers
+RB_Clipboard.content=Affiche les éléments dans le Presse-papiers.
+RB_Clipboard.img=WPSClipboard
+
+RB_Font.title=Police
+RB_Font.content=Affiche la boîte de dialogue Police.
+RB_Font.img=WPSFont
+
+RB_Paragraph.title=Paragraphe
+RB_Paragraph.content=Affiche la boîte de dialogue Paragraphe.
+RB_Paragraph.img=WPSParagraph
+
+RB_Style.title=Styles et mise en forme
+RB_Style.content=Affiche la fenêtre des tâches Styles et mise en forme.
+RB_Style.img=WPSStyle
+
+RbTableOutsideBorder.title=Bordures extérieures
+RbTableOutsideBorder.content=Personnalise les bordures du texte ou des cellules sélectionné(es).
+
+RbTableOutsideBorder2.title=Bordures extérieures
+RbTableOutsideBorder2.content=Cliquez sur la flèche pour sélectionner d'autres bordures.
+
+RecentFastCalc.title=Calcul rapide
+RecentFastCalc.content="Calcule la somme, la moyenne et les valeurs maximales ou minimales des données de la ligne ou de la colonne sélectionnée.\n\nLes résultats s'affichent dans une cellule à la suite des cellules sélectionnées dans la même ligne ou colonne. S'il n'y a pas de cellule à la suite des cellules sélectionnées, une nouvelle ligne ou une nouvelle colonne est créée."
+
+RecentFontColor.title=Couleur du texte
+RecentFontColor.content=Modifie la couleur du texte.\n\nCliquez sur la flèche pour sélectionner une autre couleur de texte.
+
+RecentFontColor2.title=Couleur du texte
+RecentFontColor2.content=Cliquez sur la flèche pour sélectionner une autre couleur de texte.
+
+RecentTableShadingColor.title=Couleur de la trame de fond
+RecentTableShadingColor.content="Applique une couleur en arrière-plan, derrière le texte ou le paragraphe sélectionné.\n\nCliquez sur la flèche pour sélectionner d'autres couleurs d'arrière-plan."
+
+RecentTableShadingColor2.title=Couleur de la trame de fond
+RecentTableShadingColor2.content=Cliquez sur la flèche pour sélectionner d'autres couleurs d'arrière-plan.
+
+RecordMacro.title=Enregistrer une macro
+RecordMacro.content=Affiche la boîte de dialogue Enregistrer une macro et démarre l'enregistrement de la macro.
+
+ReducedStep.title=Réduire l'interligne
+ReducedStep.content=Réduit de 25 % l'interligne du paragraphe sélectionné.
+
+RejectChangeOnTB.title=Refuser la modification sélectionnée
+RejectChangeOnTB.content=Refuse la modification active et supprimer les commentaires.
+
+RejectChangeOnTB2.title=Refuser la modification sélectionnée
+RejectChangeOnTB2.content=Cliquez sur la flèche pour refuser toutes les modifications dans le document.
+
+RejectRevisionOnTB.title=Refuser la modification
+RejectRevisionOnTB.content=Refuse la modification sélectionnée dans le document.
+
+RejectRevisionOnTB2.title=Refuser la modification
+RejectRevisionOnTB2.content=Cliquez ici pour refuser toutes les modifications dans le document.
+
+RelocateDownOnOutlining.title=Descendre
+RelocateDownOnOutlining.content=Fait descendre l'élément sélectionné dans le plan.
+
+RelocateUpOnOutlining.title=Monter
+RelocateUpOnOutlining.content=Fait monter l'élément sélectionné dans le plan.
+
+Replace.title=Remplacer
+Replace.content=Remplace le contenu de texte dans le document.
+
+ResetPicture.title=Rétablir l'image
+ResetPicture.content=Ignore toutes les modifications de mise en forme effectuées sur cette image.
+
+RestartPageNumber.title=Redémarrer la numérotation des pages
+RestartPageNumber.content=Réinitialise le numéro de page de début du document actif.
+
+RestrictEditing.title=Restreindre la modification
+RestrictEditing.content="Limiter les modifications de mise en forme des parties spécifiques du document. n\nVous pouvez empêcher les modifications de mise en forme, imposer le suivi de toutes les modifications ou n’activer que les commentaires."
+
+Ruler.title=Règle
+Ruler.content="Affiche ou masque les règle destinées à mesurer et aligner les objets dans le document."
+
+RunMacro.title=Afficher les macros
+RunMacro.content="Affiche la boîte de dialogue Macros ainsi que la liste des macros à partir de laquelle vous pouvez exécuter, supprimer ou créer directement une macro."
+
+SectionDetailedSettings.title=Titre SectionDetailedSettings
+SectionDetailedSettings.content=Contenu SectionDetailedSettings
+
+Security.title=Sécurité des macros
+Security.content=Personnalise les paramètres de sécurité des macros.
+
+Select.title=Sélectionner
+Select.content=Permet de sélectionner un texte ou des objets dans le document.
+
+SendBackward.title=Reculer d'un plan
+SendBackward.content=Fait reculer l'objet sélectionné afin qu'il soit masqué par les objets qui se trouvent devant.
+
+SendBackward2.title=Reculer d'un plan
+SendBackward2.content=Renvoie l'objet sélectionné d'un plan en arrière ou le place derrière tous les objets.
+
+Separator.title=Afficher le séparateur de note de bas de page/note de fin
+Separator.content="Affiche ou masque le séparateur de note de bas de page ou de note de fin en bas du document après l'insertion d'une note de bas de page ou d'une note de fin."
+
+ShadowColor.title=Couleur de l'ombre
+ShadowColor.content=Définit la couleur de l'ombre de l'objet sélectionné.\n\nCliquez sur la flèche pour sélectionner d'autres couleurs d'ombre.
+
+ShadowColor2.title=Couleur de l'ombre
+ShadowColor2.content=Cliquez sur la flèche pour sélectionner d'autres couleurs d'ombre.
+
+ShadowOnOff.title=Activation/Désactivation de l'ombre
+ShadowOnOff.content=Active ou désactive l'effet d'ombre sur l'objet sélectionné.
+
+ShadowSetting.title=Effets d'ombre
+ShadowSetting.content=Définit l'effet d'ombre sur l'objet sélectionné.
+
+ShapeSize.title=Taille de la forme
+ShapeSize.content="Définit la taille, les degrés de rotation et le zoom de la forme sélectionnée."
+
+Shapes.title=Formes
+Shapes.content="Insère des formes prédéfinies, telles que des lignes, des rectangles, des symboles d'organigramme, des bulles et des légendes."
+
+ShowDocumentMap.title=Explorateur de documents
+ShowDocumentMap.content=Affiche ou masque le volet Explorateur de documents.
+
+ShowDocumentMap2.title=Explorateur de documents
+ShowDocumentMap2.content=Cliquez ici pour choisir la position dans laquelle vous souhaitez afficher le volet Explorateur de documents.
+
+ShowFirstLineOnly.title=Afficher la première ligne
+ShowFirstLineOnly.content=N'affiche que la première ligne de chaque élément dans le plan.
+
+ShowFirstPageNumber.title=Afficher le numéro de la première page
+ShowFirstPageNumber.content=Affiche ou masque le numéro de page sur la première page du document.
+
+ShowFormatting.title=Afficher la mise en forme du texte
+ShowFormatting.content=Affiche ou masque toute la mise en forme du texte dans le plan.
+
+ShowGridlines.title=Afficher le quadrillage du tableau
+ShowGridlines.content=Affiche ou masque le quadrillage dans un tableau sans bordure.
+
+ShowHeaderOrFooter.title=Basculer en-tête/pied de page
+ShowHeaderOrFooter.content=Basculer entre l'en-tête et le pied de page dans la page active du document.
+
+ShowHideFormattingMarks.title=Afficher/Masquer les marques de modification
+ShowHideFormattingMarks.content=Affiche tous les symboles de mise en forme dans le document.
+
+ShowHideTextOctopus.title=Afficher/Masquer la disposition des paragraphes
+ShowHideTextOctopus.content=Affiche ou masque le bouton Disposition des paragraphes dans le document.
+ShowHideTextOctopus.img=WPSShowHideTextOctopus
+
+ShowLevelOnOutlining.title=Afficher le niveau
+ShowLevelOnOutlining.content=Permet de choisir les niveaux à afficher dans le plan.\n\nLe niveau sélectionné et tous les niveaux supérieurs seront visibles.
+
+ShrinkFont.title=Réduire la police
+ShrinkFont.content=Réduit la taille de la police.
+
+SimplifiedChinese.title=Simplifié
+SimplifiedChinese.content=Convertit le document en chinois simplifié.
+
+SplitCells.title=Fractionner les cellules
+SplitCells.content=Fractionne les cellules sélectionnées en plusieurs nouvelles cellules.
+
+SplitSection.title=Section de partage
+SplitSection.content=Insère le saut de section suivant dans le document.
+
+SplitSection2.title=Section de partage
+SplitSection2.content=Cliquez ici pour choisir les types de saut de section.
+
+SplitTable.title=Fractionner le tableau
+SplitTable.content=Fractionne le tableau en deux en fonction des lignes ou des colonnes.
+
+StopAutoVersion.title=Arrêter la sauvegarde automatique
+StopAutoVersion.content=Arrête la sauvegarde automatique du document actif.
+
+StopRecordMacro.title=Arrêter l'enregistrement
+StopRecordMacro.content=Arrête l'enregistrement de la macro.
+
+Strikethought.title=Barré
+Strikethought.content=Barre le texte sélectionné.\n\nCliquez sur la flèche pour ajouter une marque d'accentuation.
+
+Strikethought2.title=Autres options
+Strikethought2.content=Cliquez sur la flèche pour barrer le texte ou ajouter une marque d'accentuation.
+
+Subscript.title=Indice
+Subscript.content=Crée des petites lettres sous la ligne de base du texte.
+
+Superscript.title=Exposant
+Superscript.content=Crée des petites lettres au-dessus de la ligne de texte.
+
+Superscript2.title=Autres options
+Superscript2.content=Cliquez sur la flèche pour sélectionner Exposant ou Indice.
+
+SwitchWindow.title=Changer de fenêtres
+SwitchWindow.content=Bascule vers une autre fenêtre ouverte.
+
+Table.title=Tableau
+Table.content="Insère ou dessine un tableau dans le document, et convertit le texte en tableau, ou inversement."
+
+TableAutoAdjust.title=Ajustement automatique
+TableAutoAdjust.content=Redimensionne automatiquement les largeurs de lignes et de colonnes dans le tableau.
+
+TableBorderColor.title=Couleur de bordure
+TableBorderColor.content=Définit une couleur de bordure pour le tableau sélectionné.\n\nCliquez sur la flèche pour sélectionner d'autres couleurs de bordure.
+
+TableBorderColor2.title=Couleur de bordure
+TableBorderColor2.content=Cliquez sur la flèche pour sélectionner d'autres couleurs de bordure.
+
+TableBorderStyle.title=Style de trait
+TableBorderStyle.content=Modifie le style du trait utilisé pour dessiner les bordures.
+
+TableBorderWidth.title=Épaisseur de trait
+TableBorderWidth.content=Modifie l'épaisseur du trait utilisé pour dessiner les bordures.
+
+TableContents.title=Table des matières
+TableContents.content=Ajoute une table des matières au document avant le corps du texte.
+
+TableEraser.title=Gomme pour tableau
+TableEraser.content=Efface les bordures d'un tableau dans le document.
+
+TableProperties.title=Propriétés du tableau
+TableProperties.content="Modifie les propriétés de tableau avancées (style d'habillage et retraits, par exemple) et permet d'effectuer des sauts de lignes sur plusieurs pages."
+TableProperties.img=WPSTableProperties
+
+TableSelectMenu.title=Sélectionner le tableau
+TableSelectMenu.content="Permet de sélectionner la cellule, la ligne ou la colonne active, ou tout le tableau, et de sélectionner les tableaux dont les bordures sont en pointillés."
+
+TableShadingColor.title=Trame de fond
+TableShadingColor.content="Applique une couleur en arrière-plan, derrière le texte ou le paragraphe sélectionné.\n\nCliquez sur la flèche pour sélectionner d'autres couleurs de trame de fond."
+
+TableShadingColor2.title=Trame de fond
+TableShadingColor2.content=Cliquez sur la flèche pour sélectionner d'autres couleurs de trame de fond.
+
+Tabs.title=Tabulations
+Tabs.content="Affiche la boîte de dialogue Tabulations et définit la position tu taquet de tabulation du texte."
+
+TaskPane.title=Fenêtre des tâches
+TaskPane.content=Affiche ou masque la fenêtre des tâches dans le document.
+
+TextBox.title=Dessiner une zone de texte horizontale
+TextBox.content=Insère une zone de texte horizontal dans le document.
+
+TextBox2.title=Dessiner une zone de texte
+TextBox2.content="Cliquez ici pour insérer des zones de texte horizontales, verticales ou de plusieurs lignes."
+
+TextDirection.title=Orientation du texte
+TextDirection.content="Définit l'orientation du texte de l'horizontale à la verticale, et inversement, sur la section active, le document entier, la zone de texte ou le tableau sélectionné."
+
+TightLineSpacing.title=Interligne serré
+TightLineSpacing.content=Définit un interligne de 1 sur les paragraphes sélectionnés sans sélectionner l'option Aligner sur la grille.
+
+TrackChanges.title=Suivi des modifications
+TrackChanges.content="Suit toutes les modifications apportées au document, y compris les insertions, les suppressions et les modifications de mise en forme."
+
+TrackChanges2.title=Suivi des modifications
+TrackChanges2.content="Cliquez ici pour sélectionner la mise en forme des marques de révision ou des commentaires, ou pour modifier les informations concernant le réviseur."
+
+TraditionalChinese.title=Traditionnel
+TraditionalChinese.content=Convertit le document en chinois traditionnel.
+
+Underline.title=Soulignement
+Underline.content=Souligne le texte sélectionné.\n\nCliquez sur la flèche pour sélectionner d'autres styles de soulignement.
+
+Underline2.title=Soulignement
+Underline2.content=Cliquez sur la flèche pour sélectionner d'autres styles de soulignement.
+
+UpdateTocOnOutlining.title=Mettre à jour la table des matières
+UpdateTocOnOutlining.content=Met à jour la table des matières afin que toutes les entrées renvoient aux numéros de page correspondants.
+
+VerbSideBySide.title=Rétablir la position de la fenêtre
+VerbSideBySide.content="Réinitialise la position des fenêtres des documents comparés en côte à côte afin que l'écran soit divisé en deux parties égales.\n\nPour activer cette fonctionnalité, activez l'option Afficher côte à côte."
+
+ViewMergedData.title=Mode publipostage
+ViewMergedData.content=Remplace les champs de fusion dans votre document par les données réelles de votre liste de destinataires pour vous permettre de visualiser sa présentation.
+
+ViewRuler.title=Règle
+ViewRuler.content="Affiche les règle destinées à mesurer et aligner le texte et les objets dans le document."
+
+VisualBasicEditor.title=Visual Basic Editor
+VisualBasicEditor.content=Ouvre Visual Basic Editor pour modifier les macros.
+
+WaterMark.title=Filigrane
+WaterMark.content="Insère le texte fantôme et une image derrière le contenu d'une page.\n\nCette option est souvent utilisée pour indiquer qu'un document doit être traité d'une manière spéciale, tel un document de type Chiffré, Confidentiel ou Ne pas copier, ou pour marquer la source du document comme l'ajout de logos de copyright et d'informations sur l'auteur."
+
+WebLayoutView.title=Mode Web
+WebLayoutView.content=Affiche le document sous la forme d'une page Web.
+
+WordArtAlignment.title=Alignement WordArt
+WordArtAlignment.content=Spécifie le mode d'alignement des lignes individuelles dans un objet WordArt de plusieurs lignes.
+
+WordArtDetailedSettings.title=Titre WordArtDetailedSettings
+WordArtDetailedSettings.content=Contenu WordArtDetailedSettings
+
+WordArtFill.title=Remplissage WordArt
+WordArtFill.content="Remplit l'objet WordArt sélectionné avec une couleur unie, un dégradé, une texture ou une image.\n\nCliquez sur la flèche pour remplir l'objet WordArt de différentes manières."
+
+WordArtFill2.title=Remplissage WordArt
+WordArtFill2.content=Cliquez sur la flèche pour remplir l'objet WordArt de différentes manières.
+
+WordArtGallery.title=Galerie WordArt
+WordArtGallery.content=Modifie le style de l'objet WordArt sélectionné.
+
+WordArtOutline.title=Plan WordArt
+WordArtOutline.content="Définit la couleur, la largeur et le style de ligne du plan de l'objet WordArt sélectionné.\n\nCliquez sur la flèche pour sélectionner les paramètres détaillés du plan."
+
+WordArtOutline2.title=Plan WordArt
+WordArtOutline2.content=Cliquez sur la flèche pour sélectionner d'autres styles de plan.
+
+WordArtSameLetterHeights.title=Hauteur identique
+WordArtSameLetterHeights.content=Définit la même hauteur pour toutes les lettres de l'objet WordArt sélectionné.
+
+WordArtShapePalette.title=Forme WordArt
+WordArtShapePalette.content=Modifie le style de la forme de l'objet WordArt sélectionné.
+
+WordArtSize.title=Taille WordArt
+WordArtSize.content="Définit la taille, le degré de rotation et l'échelle de l'objet WordArt sélectionné."
+
+WordArtVerticalText.title=Texte vertical WordArt
+WordArtVerticalText.content="Dessine le texte verticalement, avec les lettres empilées les unes sur les autres."
+
+WordCount.title=Statistiques
+WordCount.content="Compte le nombre de pages, de mots, de caractères et de paragraphes dans le document."
+
+WordTools.title=Outils de mot
+WordTools.content="Applique une mise en forme intelligente au document.\n\nApplique une mise en forme intelligente, telle que \&quot;supprimer les espaces\&quot;, \&quot;mettre en retrait de deux caractères la première ligne d'un paragraphe\&quot;, et d'autres options spécifiées dans le document."
+
+WorkSpace_Backup.title=Titre WorkSpace_Backup
+WorkSpace_Backup.content=Contenu WorkSpace_Backup
+
+Zoom.title=Zoom
+Zoom.content=Affiche la boîte de dialogue Zoom pour spécifier le pourcentage d'agrandissement du document.
+
+m_Align.title=Aligner
+m_Align.content=Aligne les objets sélectionnés.
+
+m_Breaks.title=Insérer sauts de page et de section
+m_Breaks.content="Ajoute des sauts de page, de section ou de colonne au document."
+
+m_CharacterScaling.title=Mise à l'échelle des caractères
+m_CharacterScaling.content=Définit l'échelle de caractère du contenu sélectionné.
+
+m_ColumnsPalette.title=Colonnes
+m_ColumnsPalette.content=Fractionne le texte en deux ou plusieurs colonnes.
+
+m_Group.title=Grouper
+m_Group.content=Regroupe plusieurs objets afin de les traiter comme un seul objet.
+
+m_LineNumber.title=Numérotation des lignes
+m_LineNumber.content=Ajoute des numéros de ligne dans la marge en regard de chaque ligne du document.
+
+m_LineSpacing.title=Interligne
+m_LineSpacing.content=Modifie l'espacement entre les lignes de texte.
+
+m_Margins.title=Marges
+m_Margins.content=Permet de sélectionner la taille des marges pour le document entier ou la section active.
+
+m_PageBorder.title=Bordures de page
+m_PageBorder.content=Ajoute une bordure ou modifie la bordure de la page de la section active ou du document entier.
+
+m_PageSize.title=Taille de la page
+m_PageSize.content=Permet de choisir un format de papier pour la section active ou le document entier.
+
+m_Rotate.title=Faire pivoter
+m_Rotate.content=Fait pivoter ou retourne l'objet sélectionné.
+
+m_ShowReviewer.title=Afficher les marques
+m_ShowReviewer.content=Permet de choisir le type de marques à afficher dans le document.
+
+m_Style.title=Nouveau style
+m_Style.content="Affiche la boîte de dialogue Nouveau style et crée un nouveau style dans la fenêtre des tâches Styles et mise en forme."
+
+m_Style2.title=Nouveau style
+m_Style2.content="Cliquez ici pour appliquer d'autres options, telles que la suppression de la mise en forme."
+
+m_Wrapping.title=Renvoyer à la ligne automatiquement
+m_Wrapping.content="Modifie le mode d'ajustement du texte autour de l'objet sélectionné (encadré ou en arrière-plan, par exemple)."
+
+m_tocLevel.title=Niveau
+m_tocLevel.content=Définit un niveau de la table des matières pour le paragraphe sélectionné.
+
+sp_DeleteComment.title=Supprimer le commentaire
+sp_DeleteComment.content=Supprime le commentaire sélectionné.
+
+sp_DeleteComment2.title=Supprimer le commentaire
+sp_DeleteComment2.content=Cliquez ici pour supprimer tous les commentaires dans le document.
+
+sp_Paste.title=Coller
+sp_Paste.content=Colle le contenu du Presse-papiers.
+
+sp_Paste2.title=Coller
+sp_Paste2.content="Cliquez ici pour accéder à d'autres options, telles que le collage du texte non mis en forme seul."
+
+weibotool.title=Weibotool
+weibotool.content=Convertit un document en image et le partage dans Weibo.

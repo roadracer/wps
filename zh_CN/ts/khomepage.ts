@@ -31,12 +31,21 @@
         <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;使用新版&lt;/a&gt;</translation>
     </message>
     <message>
+        <source>Check Online Templates</source>
+        <comment>tooltip</comment>
+        <translation type="unfinished">检查在线模板</translation>
+    </message>
+    <message>
         <source>Create a blank document at startup</source>
         <translation>下次启动直接新建空白文档</translation>
     </message>
     <message>
+        <source>Current version:</source>
+        <translation>当前版本号： </translation>
+    </message>
+    <message>
         <source>Online Templates</source>
-        <translation>Docer-在线模板</translation>
+        <translation type="obsolete">Docer-在线模板</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -47,10 +56,6 @@
         <source>Online Templates</source>
         <comment>tooltip</comment>
         <translation type="obsolete">Docer-在线模板</translation>
-    </message>
-    <message>
-        <source>Current version:</source>
-        <translation>当前版本号： </translation>
     </message>
     <message>
         <source>Restart to use newer version.</source>
@@ -65,8 +70,7 @@
         <translation>版本过旧 | </translation>
     </message>
     <message>
-        <source>Check Online Templates</source>
-        <comment>tooltip</comment>
+        <source>docerhomepage</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

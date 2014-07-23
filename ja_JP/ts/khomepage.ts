@@ -16,12 +16,21 @@
         <translation>新しいバージョンを使用する</translation>
     </message>
     <message>
+        <source>Check Online Templates</source>
+        <comment>tooltip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Create a blank document at startup</source>
         <translation></translation>
     </message>
     <message>
+        <source>Current version:</source>
+        <translation>現在のバージョン</translation>
+    </message>
+    <message>
         <source>Online Templates</source>
-        <translation>ホームページ</translation>
+        <translation type="obsolete">ホームページ</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -32,10 +41,6 @@
         <source>Online Templates</source>
         <comment>tooltip</comment>
         <translation type="obsolete">お役立ち情報</translation>
-    </message>
-    <message>
-        <source>Current version:</source>
-        <translation>現在のバージョン</translation>
     </message>
     <message>
         <source>Restart to use newer version.</source>
@@ -50,8 +55,7 @@
         <translation>バージョンが古過ぎます</translation>
     </message>
     <message>
-        <source>Check Online Templates</source>
-        <comment>tooltip</comment>
+        <source>docerhomepage</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

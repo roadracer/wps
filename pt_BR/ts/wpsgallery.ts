@@ -16,7 +16,7 @@
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation>EditGallery</translation>
+        <translation type="obsolete">EditGallery</translation>
     </message>
     <message>
         <source>From:</source>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation>O maior número de legandas é 5.</translation>
+        <translation type="obsolete">O maior número de legandas é 5.</translation>
     </message>
     <message>
         <source>More:</source>
@@ -58,6 +58,14 @@
         <source>Less:</source>
         <translation>Menos:</translation>
     </message>
+    <message>
+        <source>Edit Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The most number of caption is 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
@@ -74,15 +82,27 @@
     <name>QApplication</name>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\My Materials\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\My Materials\Desktop.ini nome.</translation>
+    </message>
+    <message>
+        <source>\WPS Office\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Office\AppData\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

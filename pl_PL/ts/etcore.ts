@@ -8152,8 +8152,6 @@ Continue ?</source>
         <source> is invalid for your system, do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
-<<<<<<< HEAD
-=======
     <message>
         <source>Active document is not a worksheet or in unprotected state.</source>
         <translation type="unfinished"></translation>
@@ -8202,7 +8200,6 @@ Continue ?</source>
         <source>???</source>
         <translation type="unfinished"></translation>
     </message>
->>>>>>> upstream/master
 </context>
 <context>
     <name>et_undodesc</name>

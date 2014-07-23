@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
 <defaultcodec>UTF-8</defaultcodec>
@@ -210,8 +210,12 @@
         <translation>Botón de comando</translation>
     </message>
     <message>
+        <source>Control List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Controls List</source>
-        <translation>Control de lista</translation>
+        <translation type="obsolete">Control de lista</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -226,8 +230,12 @@
         <translation>Etiqueta</translation>
     </message>
     <message>
+        <source>List Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>List Button</source>
-        <translation>Botón de Lista</translation>
+        <translation type="obsolete">Botón de Lista</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -413,8 +421,12 @@
         <translation>Alinear en la parte superior</translation>
     </message>
     <message>
+        <source>Align or Distribute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align/Distribute/Equalize</source>
-        <translation>Alinear/Distribuir/Igualar</translation>
+        <translation type="obsolete">Alinear/Distribuir/Igualar</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -470,7 +482,11 @@
     </message>
     <message>
         <source>Auto Shapes</source>
-        <translation>Auto formas</translation>
+        <translation type="obsolete">Auto formas</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -493,12 +509,16 @@
         <translation>Guión</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Guión-Punto</translation>
+        <translation type="obsolete">Guión-Punto</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -521,16 +541,24 @@
         <translation>Modificar puntos</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -570,7 +598,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="obsolete">Horizontal</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -597,24 +629,36 @@
         <translation>Izquierda</translation>
     </message>
     <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Color</source>
         <translation>Color de línea</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation>Líneas</translation>
+        <translation type="obsolete">Líneas</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <translation>Guión largo</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Guión-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Guión-Punto-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -654,7 +698,7 @@
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Seleccionar objeto</translation>
+        <translation type="obsolete">Seleccionar objeto</translation>
     </message>
     <message>
         <source>Order</source>
@@ -689,8 +733,12 @@
         <translation>Girar 90° a la derecha</translation>
     </message>
     <message>
+        <source>Rotate or Flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rotate/Flip</source>
-        <translation>Girar/Voltear</translation>
+        <translation type="obsolete">Girar/Voltear</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -721,12 +769,16 @@
         <translation>Establecer valores predeterminados de autoforma</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Settings</source>
         <translation>Configuración de sombra</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo de sombra</translation>
+        <translation type="obsolete">Estilo de sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -822,7 +874,7 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Through</source>
@@ -846,18 +898,30 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation type="obsolete">Vertical</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weight</source>
         <translation>Tipo compuesto</translation>
     </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
     <message>
+        <source>1.5 Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>1.5 lines</source>
-        <translation>1.5 líneas</translation>
+        <translation type="obsolete">1.5 líneas</translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -877,15 +941,23 @@
     </message>
     <message>
         <source>Double</source>
-        <translation>Doble</translation>
+        <translation type="obsolete">Doble</translation>
+    </message>
+    <message>
+        <source>Double Space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
         <translation>Doble tachado</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Emphasis mark</source>
-        <translation>Marca de énfasis</translation>
+        <translation type="obsolete">Marca de énfasis</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -897,7 +969,11 @@
     </message>
     <message>
         <source>Single</source>
-        <translation>Sencillo</translation>
+        <translation type="obsolete">Sencillo</translation>
+    </message>
+    <message>
+        <source>Single Space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -1008,7 +1084,11 @@
     </message>
     <message>
         <source>Styles Window</source>
-        <translation>Estilos de ventana</translation>
+        <translation type="obsolete">Estilos de ventana</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1019,34 +1099,58 @@
     </message>
     <message>
         <source>Number</source>
-        <translation>Número</translation>
+        <translation type="obsolete">Número</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>classics.forms</name>
     <message>
+        <source>Check Box Form Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check box Form Field</source>
-        <translation>Casilla de verificación (control de formulario)</translation>
+        <translation type="obsolete">Casilla de verificación (control de formulario)</translation>
+    </message>
+    <message>
+        <source>Drop-Down Form Field</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drop-down Form Field</source>
-        <translation>Lista desplegable (control de formulario)</translation>
+        <translation type="obsolete">Lista desplegable (control de formulario)</translation>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Opciones de campo de formulario</translation>
+        <translation type="obsolete">Opciones de campo de formulario</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Form Field Shading</source>
         <translation>Mostrar sombreado de campo (control de formulario)</translation>
     </message>
     <message>
+        <source>Protect Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Protection Form</source>
-        <translation>Protección de formulario</translation>
+        <translation type="obsolete">Protección de formulario</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Restablecer campo de formulario</translation>
+        <translation type="obsolete">Restablecer campo de formulario</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -1072,11 +1176,23 @@
     </message>
     <message>
         <source>Insert Auto Text</source>
-        <translation>Insertar texto automático</translation>
+        <translation type="obsolete">Insertar texto automático</translation>
+    </message>
+    <message>
+        <source>Insert AutoText</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Date</source>
         <translation>Insertar fecha</translation>
+    </message>
+    <message>
+        <source>Insert Number of Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Page Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Time</source>
@@ -1092,11 +1208,11 @@
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>Número de páginas</translation>
+        <translation type="obsolete">Número de páginas</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Número de página</translation>
+        <translation type="obsolete">Número de página</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -1112,7 +1228,11 @@
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>Encabezado anterior</translation>
+        <translation type="obsolete">Encabezado anterior</translation>
+    </message>
+    <message>
+        <source>Show Previous</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
@@ -1164,12 +1284,12 @@
     <message>
         <source>Merge
 to Email</source>
-        <translation>Combinar en un correo electrónico</translation>
+        <translation type="obsolete">Combinar en un correo electrónico</translation>
     </message>
     <message>
         <source>Merge to
 Different New Document</source>
-        <translation>Combinar en un nuevo documento diferente</translation>
+        <translation type="obsolete">Combinar en un nuevo documento diferente</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -1202,7 +1322,7 @@ Different New Document</source>
     <message>
         <source>View
 Merged Data</source>
-        <translation>Ver datos combinados</translation>
+        <translation type="obsolete">Ver datos combinados</translation>
     </message>
     <message>
         <source>View Merged Data</source>
@@ -1212,8 +1332,12 @@ Merged Data</source>
 <context>
     <name>classics.outlining</name>
     <message>
+        <source>Go to TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to ToC</source>
-        <translation>Ir a tabla de contenidos</translation>
+        <translation type="obsolete">Ir a tabla de contenidos</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -1236,6 +1360,10 @@ Merged Data</source>
         <translation>Mostrar sólo primera línea</translation>
     </message>
     <message>
+        <source>Show Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Level</source>
         <translation>Mostrar nivel</translation>
     </message>
@@ -1245,11 +1373,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Show Text Formatting</source>
-        <translation>Mostrar formato de texto</translation>
+        <translation type="obsolete">Mostrar formato de texto</translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Actualizar tabla</translation>
+        <translation type="obsolete">Actualizar tabla</translation>
     </message>
 </context>
 <context>
@@ -1376,7 +1508,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Through</source>
@@ -1397,6 +1529,10 @@ Merged Data</source>
     <message>
         <source>Weight</source>
         <translation>Tipo compuesto</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1450,7 +1586,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation>Mostrar para revisión</translation>
+        <translation type="obsolete">Mostrar para revisión</translation>
+    </message>
+    <message>
+        <source>Display for Review</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final</source>
@@ -1486,7 +1626,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Reject Change / Delete Comment</source>
-        <translation>Rechazar cambio / Eliminar comentario</translation>
+        <translation type="obsolete">Rechazar cambio / Eliminar comentario</translation>
+    </message>
+    <message>
+        <source>Reject Change/Delete Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reject Selected Comment</source>
@@ -1509,8 +1653,12 @@ Merged Data</source>
         <translation>Mostrar revisiones en globos</translation>
     </message>
     <message>
+        <source>Show Revisor Information in Balloons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation>Mostrar la información del revisor en el globo</translation>
+        <translation type="obsolete">Mostrar la información del revisor en el globo</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1528,6 +1676,22 @@ Merged Data</source>
         <translation>Más colores de sombra</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Semitransparent Shadow</source>
         <translation>Sombra semitransparente</translation>
     </message>
@@ -1541,19 +1705,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Desplazar sombra hacia abajo</translation>
+        <translation type="obsolete">Desplazar sombra hacia abajo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Desplazar sombra hacia la izquierda</translation>
+        <translation type="obsolete">Desplazar sombra hacia la izquierda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Desplazar sombra hacia la derecha</translation>
+        <translation type="obsolete">Desplazar sombra hacia la derecha</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Desplazar sombra hacia arriba</translation>
+        <translation type="obsolete">Desplazar sombra hacia arriba</translation>
     </message>
 </context>
 <context>
@@ -1584,7 +1748,7 @@ Merged Data</source>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation>Enterprise Microblog</translation>
+        <translation type="obsolete">Enterprise Microblog</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1592,15 +1756,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Expandir formato de pegado de texto</translation>
+        <translation type="obsolete">Expandir formato de pegado de texto</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Expandir formato de pegado similar</translation>
+        <translation type="obsolete">Expandir formato de pegado similar</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Expandir pegado de texto</translation>
+        <translation type="obsolete">Expandir pegado de texto</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -1613,6 +1777,10 @@ Merged Data</source>
     <message>
         <source>Format Painter</source>
         <translation>Copiar formato</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1628,7 +1796,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Página principal</translation>
+        <translation type="obsolete">Página principal</translation>
     </message>
     <message>
         <source>Insert Horizontal Blank Page</source>
@@ -1647,12 +1815,24 @@ Merged Data</source>
         <translation>Insertar página en blanco vertical</translation>
     </message>
     <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Max</source>
         <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
         <translation>Min</translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -1672,15 +1852,23 @@ Merged Data</source>
     </message>
     <message>
         <source>Show / Hide Editing Marks</source>
-        <translation>Mostrar /Ocultar marcas de edición</translation>
+        <translation type="obsolete">Mostrar /Ocultar marcas de edición</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Mostrar / Ocultar diseño de párrafo</translation>
+        <translation type="obsolete">Mostrar / Ocultar diseño de párrafo</translation>
     </message>
     <message>
         <source>Show Document Map</source>
         <translation>Mostrar mapa del documento</translation>
+    </message>
+    <message>
+        <source>Show/Hide Editing Marks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1689,6 +1877,14 @@ Merged Data</source>
     <message>
         <source>Switch Language</source>
         <translation>Cambiar Idioma</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1726,11 +1922,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation>Celdas</translation>
+        <translation type="obsolete">Celdas</translation>
+    </message>
+    <message>
+        <source>Cells@Table-&gt;Insert</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Columnas</translation>
+        <translation type="obsolete">Columnas</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
@@ -1739,6 +1939,18 @@ Merged Data</source>
     <message>
         <source>Columns to the Right</source>
         <translation>Columnas a la derecha</translation>
+    </message>
+    <message>
+        <source>Delete Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -1773,8 +1985,12 @@ Merged Data</source>
         <translation>Estilo de línea</translation>
     </message>
     <message>
+        <source>Line Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Width</source>
-        <translation>Ancho de línea</translation>
+        <translation type="obsolete">Ancho de línea</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1798,7 +2014,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Filas</translation>
+        <translation type="obsolete">Filas</translation>
     </message>
     <message>
         <source>Rows Above</source>
@@ -1884,11 +2100,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Botón (Fino)</translation>
+        <translation type="obsolete">Botón (Fino)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Botón (Grueso)</translation>
+        <translation type="obsolete">Botón (Grueso)</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Pour)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -1907,8 +2131,12 @@ Merged Data</source>
         <translation>Cascada hacia arriba</translation>
     </message>
     <message>
+        <source>Center Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center Alignment</source>
-        <translation>Alineación centrada</translation>
+        <translation type="obsolete">Alineación centrada</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -2015,8 +2243,12 @@ Merged Data</source>
         <translation>Insertar WordArt</translation>
     </message>
     <message>
+        <source>Left Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left Alignment</source>
-        <translation>Alinear a la izquierda</translation>
+        <translation type="obsolete">Alinear a la izquierda</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -2035,8 +2267,12 @@ Merged Data</source>
         <translation>Texto sin formato</translation>
     </message>
     <message>
+        <source>Right Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Right Alignment</source>
-        <translation>Alinear a la derecha</translation>
+        <translation type="obsolete">Alinear a la derecha</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -2068,7 +2304,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Through</source>
@@ -2076,7 +2312,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Estrecho</translation>
+        <translation type="obsolete">Estrecho</translation>
+    </message>
+    <message>
+        <source>Tight@Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight@Wrapping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2134,12 +2378,24 @@ Merged Data</source>
         <source>WordArt Vertical Text</source>
         <translation>Texto vertical de WordArt</translation>
     </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
         <translation>Barra de herramientas personalizada</translation>
+    </message>
+    <message>
+        <source>Menu Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar Commands</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2158,19 +2414,24 @@ Merged Data</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Borde y sombreado</translation>
+        <translation type="obsolete">Borde y sombreado</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
         <translation>Borde inferior</translation>
     </message>
     <message>
-        <source>Clear Table Style</source>
-        <translation>Borrar estilo de tabla</translation>
+        <source>Clear
+Table Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <source>Clear Table Style</source>
+        <translation type="obsolete">Borrar estilo de tabla</translation>
     </message>
     <message>
         <source>Draw
@@ -2179,11 +2440,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation type="obsolete">Dibujar línea diagonal en la celda</translation>
+        <translation type="unfinished">Dibujar línea diagonal en la celda</translation>
     </message>
     <message>
         <source>Draw MutidiagonalCell</source>
-        <translation>Dibujar celda mutidiagonal</translation>
+        <translation type="obsolete">Dibujar celda mutidiagonal</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -2191,14 +2452,22 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>DrawMutidiagonalCell</source>
-        <translation>Dibujar celda mutidiagonal</translation>
+        <translation type="obsolete">Dibujar celda mutidiagonal</translation>
     </message>
     <message>
         <source>Eraser</source>
         <translation>Borrador</translation>
     </message>
     <message>
-        <source>Horizontal Middle Border</source>
+        <source>Inside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2210,8 +2479,12 @@ Diagonal Line in Cell</source>
         <translation>Estilo de línea</translation>
     </message>
     <message>
+        <source>Line Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Width</source>
-        <translation>Ancho de línea</translation>
+        <translation type="obsolete">Ancho de línea</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2251,30 +2524,30 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="obsolete">Estilos de tabla</translation>
+        <translation type="unfinished">Estilos de tabla</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation>Estilo de tabla</translation>
+        <translation type="obsolete">Estilo de tabla</translation>
     </message>
     <message>
         <source>Top Border</source>
         <translation>Borde superior</translation>
-    </message>
-    <message>
-        <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_developtools</name>
     <message>
         <source> Add-Ins</source>
-        <translation>Add-Ins</translation>
+        <translation type="obsolete">Add-Ins</translation>
     </message>
     <message>
         <source>Add-Ins</source>
         <translation>Add-Ins</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2293,6 +2566,11 @@ Diagonal Line in Cell</source>
         <translation>Botón de comando</translation>
     </message>
     <message>
+        <source>Control 
+Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Control List</source>
         <translation>Control de lista</translation>
     </message>
@@ -2302,15 +2580,20 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>ControlProperties</source>
-        <translation>Propiedades del control</translation>
+        <translation type="obsolete">Propiedades del control</translation>
     </message>
     <message>
         <source>Design Mode</source>
         <translation>Modo diseño</translation>
     </message>
     <message>
+        <source>Exit
+Design Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Exit Design Mode</source>
-        <translation>Salir del modo diseño</translation>
+        <translation type="obsolete">Salir del modo diseño</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2321,8 +2604,12 @@ Diagonal Line in Cell</source>
         <translation>Etiqueta</translation>
     </message>
     <message>
+        <source>List Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>List Button</source>
-        <translation>Botón de Lista</translation>
+        <translation type="obsolete">Botón de Lista</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -2335,6 +2622,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Option Button</source>
         <translation>Botón de opción</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -2361,8 +2652,13 @@ Diagonal Line in Cell</source>
         <translation>Ver código</translation>
     </message>
     <message>
+        <source>Visual Basic
+Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Visual Basic Editor</source>
-        <translation>Editor de Visual Basic</translation>
+        <translation type="obsolete">Editor de Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -2541,8 +2837,12 @@ On</source>
         <translation>Traer al frente</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Centrado</translation>
+        <translation type="obsolete">Centrado</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -2553,16 +2853,20 @@ On</source>
         <translation>Guión</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Guión-Punto</translation>
+        <translation type="obsolete">Guión-Punto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -2581,20 +2885,36 @@ On</source>
         <translation>Modificar puntos</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>EmphasisMark</source>
-        <translation>Marca de énfasis</translation>
+        <translation type="obsolete">Marca de énfasis</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2610,7 +2930,7 @@ On</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Color de fuente</translation>
+        <translation type="obsolete">Color de fuente</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -2630,7 +2950,11 @@ On</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -2658,7 +2982,7 @@ On</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Cuadro de texto horizontal</translation>
+        <translation type="obsolete">Cuadro de texto horizontal</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -2689,12 +3013,20 @@ On</source>
         <translation>Guión largo</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Guión-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Guión-Punto-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More</source>
@@ -2735,6 +3067,10 @@ On</source>
     <message>
         <source>Next Text Box</source>
         <translation>Siguiente cuadro de texto</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2789,16 +3125,25 @@ On</source>
         <translation>Enviar al fondo</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On</source>
-        <translation>Activar sombra</translation>
+        <translation type="obsolete">Activar sombra</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Relleno de forma</translation>
+        <translation type="obsolete">Relleno de forma</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Contorno de forma</translation>
+        <translation type="obsolete">Contorno de forma</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -2826,19 +3171,32 @@ On</source>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation>Tachado</translation>
+        <translation type="obsolete">Tachado</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Box</source>
         <translation>Cuadro de texto</translation>
     </message>
     <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Direction</source>
-        <translation>Dirección del texto</translation>
+        <translation type="obsolete">Dirección del texto</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -2874,37 +3232,53 @@ On</source>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>Cuadro de texto vertical</translation>
+        <translation type="obsolete">Cuadro de texto vertical</translation>
     </message>
     <message>
         <source>Weight</source>
         <translation>Tipo compuesto</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Estilo de ajuste</translation>
+        <translation type="obsolete">Estilo de ajuste</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>Acerca de Kingsoft Writer</translation>
+        <translation type="obsolete">Acerca de Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation>Gestión de copias de seguridad</translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>Cambiar la versión</translation>
     </message>
     <message>
-        <source>Create CloudLink</source>
+        <source>Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create CloudLink Title</source>
+        <source>Data Recovery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2913,7 +3287,11 @@ On</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Proteger documento</translation>
+        <translation type="obsolete">Proteger documento</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -2921,7 +3299,15 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Comentarios</translation>
+        <translation type="obsolete">Comentarios</translation>
+    </message>
+    <message>
+        <source>Feedback and Product Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Information</source>
@@ -2929,47 +3315,55 @@ On</source>
     </message>
     <message>
         <source>File Menu Help</source>
-        <translation>Ayuda</translation>
+        <translation type="obsolete">Ayuda</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help Title</source>
-        <translation>Título de ayuda</translation>
+        <translation type="obsolete">Título de ayuda</translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation>Kingsoft BBS</translation>
+        <translation type="obsolete">Kingsoft BBS</translation>
     </message>
     <message>
         <source>Kingsoft Facebook</source>
-        <translation>Kingsoft Facebook</translation>
+        <translation type="obsolete">Kingsoft Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>Comunidad Kingsoft Office</translation>
+        <translation type="obsolete">Comunidad Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>Kingsoft Office Facebook</translation>
+        <translation type="obsolete">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Página principal de Kingsoft Office</translation>
+        <translation type="obsolete">Página principal de Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
-        <translation>Documento de Kingsoft Writer</translation>
+        <translation type="obsolete">Documento de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
-        <translation>Plantilla de Kingsoft Writer</translation>
+        <translation type="obsolete">Plantilla de Kingsoft Writer</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation>Kingsoft Office</translation>
+        <translation type="obsolete">Kingsoft Office</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation>Documento de Microsoft Word 2007-2003</translation>
+        <translation type="obsolete">Documento de Microsoft Word 2007-2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -2997,11 +3391,15 @@ On</source>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Nuevo a partir de plantillas locales</translation>
+        <translation type="obsolete">Nuevo a partir de plantillas locales</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
         <translation>Nuevo a partir de plantillas en línea</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -3009,7 +3407,7 @@ On</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>Abrir desde Klive</translation>
+        <translation type="obsolete">Abrir desde Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -3025,7 +3423,7 @@ On</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>Centro de producto</translation>
+        <translation type="obsolete">Centro de producto</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -3053,11 +3451,15 @@ On</source>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation>Guardar en Klive</translation>
+        <translation type="obsolete">Guardar en Klive</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
         <translation>Guardar una copia del documento</translation>
+    </message>
+    <message>
+        <source>Seek Help via Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -3069,18 +3471,58 @@ On</source>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Actualización en línea</translation>
+        <translation type="obsolete">Actualización en línea</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Forum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation>Nuevas características de WPS</translation>
+        <translation type="obsolete">Nuevas características de WPS</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Ayuda de Kingsoft Writer</translation>
+        <translation type="obsolete">Ayuda de Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3091,7 +3533,11 @@ On</source>
     </message>
     <message>
         <source>Auto Text</source>
-        <translation>Autotexto</translation>
+        <translation type="obsolete">Autotexto</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -3103,19 +3549,37 @@ On</source>
     </message>
     <message>
         <source>Date / Time</source>
-        <translation>Fecha / Hora</translation>
+        <translation type="obsolete">Fecha / Hora</translation>
+    </message>
+    <message>
+        <source>Date and
+Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
         <translation>Campos</translation>
     </message>
     <message>
+        <source>Header Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer
+Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header&amp;Footer  Options</source>
-        <translation>Encabezado&amp;Pie de página  Opciones</translation>
+        <translation type="obsolete">Encabezado&amp;Pie de página  Opciones</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -3130,20 +3594,39 @@ On</source>
         <translation>Insertar imagen</translation>
     </message>
     <message>
+        <source>Link to
+Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Link to Previous</source>
-        <translation>Vincular al anterior</translation>
+        <translation type="obsolete">Vincular al anterior</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Navigation</source>
         <translation>Navegación</translation>
     </message>
     <message>
+        <source>Next
+Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Header</source>
-        <translation>Siguiente encabezado</translation>
+        <translation type="obsolete">Siguiente encabezado</translation>
+    </message>
+    <message>
+        <source>Page
+Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Número de página</translation>
+        <translation type="obsolete">Número de página</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -3158,12 +3641,26 @@ On</source>
         <translation>Imagen</translation>
     </message>
     <message>
+        <source>Previous
+Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Previous Header</source>
-        <translation>Encabezado anterior</translation>
+        <translation type="obsolete">Encabezado anterior</translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch between
+Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>Cambiar entre encabezado y pie de página</translation>
+        <translation type="obsolete">Cambiar entre encabezado y pie de página</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
@@ -3250,7 +3747,11 @@ On</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Borde y sombreado</translation>
+        <translation type="obsolete">Borde y sombreado</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -3261,8 +3762,16 @@ On</source>
         <translation>Viñetas</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Centrado</translation>
+        <translation type="obsolete">Centrado</translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -3294,15 +3803,11 @@ On</source>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Cambiar mayúsculas y minúsculas</translation>
+        <translation type="obsolete">Cambiar mayúsculas y minúsculas</translation>
     </message>
     <message>
         <source>Copy</source>
         <translation>Copiar</translation>
-    </message>
-    <message>
-        <source>Cross Border</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3314,7 +3819,7 @@ On</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -3325,8 +3830,12 @@ On</source>
         <translation>Edición</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Emphasis mark</source>
-        <translation>Marca de énfasis</translation>
+        <translation type="obsolete">Marca de énfasis</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -3338,23 +3847,28 @@ On</source>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Expandir formato de pegado de texto</translation>
+        <translation type="obsolete">Expandir formato de pegado de texto</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Expandir formato de pegado similar</translation>
+        <translation type="obsolete">Expandir formato de pegado similar</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Expandir pegado de texto</translation>
+        <translation type="obsolete">Expandir pegado de texto</translation>
     </message>
     <message>
         <source>Find</source>
         <translation>Buscar</translation>
     </message>
     <message>
+        <source>Find and 
+Replace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find/Replace</source>
-        <translation>Buscar/Reemplazar</translation>
+        <translation type="obsolete">Buscar/Reemplazar</translation>
     </message>
     <message>
         <source>Font</source>
@@ -3362,7 +3876,7 @@ On</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Color de fuente</translation>
+        <translation type="obsolete">Color de fuente</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -3378,8 +3892,17 @@ Painter</source>
         <translation>Copiar formato</translation>
     </message>
     <message>
+        <source>Format 
+Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Painter</source>
-        <translation>Copiar formato</translation>
+        <translation type="obsolete">Copiar formato</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to</source>
@@ -3395,15 +3918,23 @@ Painter</source>
     </message>
     <message>
         <source>Home Object Select</source>
-        <translation>Selección de objeto de inicio</translation>
-    </message>
-    <message>
-        <source>Horizontal Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selección de objeto de inicio</translation>
     </message>
     <message>
         <source>Increase Indent</source>
         <translation>Aumentar sangría</translation>
+    </message>
+    <message>
+        <source>Inside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3420,6 +3951,10 @@ Painter</source>
     <message>
         <source>Line Spacing</source>
         <translation>Espaciado entre líneas y párrafos</translation>
+    </message>
+    <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
@@ -3446,8 +3981,13 @@ Painter</source>
         <translation>Más líneas de subrayado</translation>
     </message>
     <message>
+        <source>New 
+Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Style</source>
-        <translation>Nuevo estilo</translation>
+        <translation type="obsolete">Nuevo estilo</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -3455,7 +3995,7 @@ Painter</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Borde externo</translation>
+        <translation type="obsolete">Borde externo</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -3511,23 +4051,39 @@ Painter</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">Panel de selección</translation>
+        <translation type="unfinished">Panel de selección</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
         <translation>Establecer pegar predeterminado...</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shading Color</source>
-        <translation>Sombreado</translation>
+        <translation type="obsolete">Sombreado</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>Mostrar / Ocultar marcas de formato</translation>
+        <translation type="obsolete">Mostrar / Ocultar marcas de formato</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Mostrar / Ocultar diseño de párrafo</translation>
+        <translation type="obsolete">Mostrar / Ocultar diseño de párrafo</translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Marks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -3539,11 +4095,19 @@ Painter</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>Estilo</translation>
+        <translation type="obsolete">Estilo</translation>
+    </message>
+    <message>
+        <source>Styles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Estilos / Formato</translation>
+        <translation type="obsolete">Estilos / Formato</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -3556,6 +4120,10 @@ Painter</source>
     <message>
         <source>Tabs</source>
         <translation>Pestañas</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -3574,7 +4142,7 @@ Painter</source>
         <translation>Color de subrayado</translation>
     </message>
     <message>
-        <source>Vertical Middle Border</source>
+        <source>Unformatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3590,18 +4158,30 @@ Painter</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>Número</translation>
+        <translation type="obsolete">Número</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_insert</name>
     <message>
+        <source>AutoShape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Blank Page</source>
         <translation>Página en blanco</translation>
     </message>
     <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bookmarks</source>
-        <translation>Marcador</translation>
+        <translation type="obsolete">Marcador</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -3629,7 +4209,7 @@ Painter</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation>Comentarios</translation>
+        <translation type="obsolete">Comentarios</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -3649,11 +4229,15 @@ Painter</source>
     </message>
     <message>
         <source>Custom Shape</source>
-        <translation>Forma personalizada</translation>
+        <translation type="obsolete">Forma personalizada</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Fecha y hora</translation>
+        <translation type="obsolete">Fecha y hora</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -3689,7 +4273,11 @@ Painter</source>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Opciones de campo de formulario</translation>
+        <translation type="obsolete">Opciones de campo de formulario</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -3700,12 +4288,25 @@ Painter</source>
         <translation>Formularios</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gallery</source>
         <translation>Galería</translation>
     </message>
     <message>
+        <source>Header and 
+Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3713,7 +4314,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal Blank Page</source>
-        <translation>Página en blanco horizontal</translation>
+        <translation type="obsolete">Página en blanco horizontal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -3733,15 +4334,27 @@ Painter</source>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation>Insertar imagen desde archivo</translation>
+        <translation type="obsolete">Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation>Insertar imagen desde escáner</translation>
+        <translation type="obsolete">Insertar imagen desde escáner</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation>Insertar escáner</translation>
+        <translation type="obsolete">Insertar escáner</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text from File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Watermark</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -3772,12 +4385,22 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Page
+Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
-        <translation>Salto de página</translation>
+        <translation type="obsolete">Salto de página</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Número de página</translation>
+        <translation type="obsolete">Número de página</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -3797,7 +4420,11 @@ Painter</source>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Restablecer campo de formulario</translation>
+        <translation type="obsolete">Restablecer campo de formulario</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -3806,7 +4433,7 @@ Painter</source>
     <message>
         <source>Sym
 bol</source>
-        <translation>Símbolo</translation>
+        <translation type="obsolete">Símbolo</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -3842,15 +4469,19 @@ bol</source>
     </message>
     <message>
         <source>Text from File</source>
-        <translation>Texto desde archivo</translation>
+        <translation type="obsolete">Texto desde archivo</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical Blank Page</source>
-        <translation>página en blanco vertical</translation>
+        <translation type="obsolete">página en blanco vertical</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>Cuadro de texto vertical</translation>
+        <translation type="obsolete">Cuadro de texto vertical</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -3888,8 +4519,12 @@ bol</source>
         <translation>Resaltar campos de combinación</translation>
     </message>
     <message>
+        <source>Insert Merge Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Merge Fields</source>
-        <translation>Insertar campo combinado</translation>
+        <translation type="obsolete">Insertar campo combinado</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
@@ -3910,12 +4545,12 @@ bol</source>
     <message>
         <source>Merge
 to Email</source>
-        <translation>Combinar en correo electrónico</translation>
+        <translation type="obsolete">Combinar en correo electrónico</translation>
     </message>
     <message>
         <source>Merge to
 Different New Document</source>
-        <translation>Combinar en un nuevo documento diferente</translation>
+        <translation type="obsolete">Combinar en un nuevo documento diferente</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -3943,7 +4578,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>Vista previa de resultados</translation>
+        <translation type="obsolete">Vista previa de resultados</translation>
+    </message>
+    <message>
+        <source>Preview Results</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -3981,12 +4620,20 @@ Different New Document</source>
         <translation>Degradar a cuerpo de texto</translation>
     </message>
     <message>
+        <source>Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Expand</source>
         <translation>Expandir</translation>
     </message>
     <message>
+        <source>Go to TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to ToC</source>
-        <translation>Ir a tabla de contenidos</translation>
+        <translation type="obsolete">Ir a tabla de contenidos</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -3994,11 +4641,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>Bajar</translation>
+        <translation type="obsolete">Bajar</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Subir</translation>
+        <translation type="obsolete">Subir</translation>
     </message>
     <message>
         <source>Outline Level</source>
@@ -4033,8 +4680,16 @@ Different New Document</source>
         <translation>Mostrar nivel 1;Mostrar nivel 2;Mostrar nivel 3;Mostrar nivel 4;Mostrar nivel 5;Mostrar nivel 6;Mostrar nivel 7;Mostrar nivel 8;Mostrar nivel 9;Mostrar todos los niveles</translation>
     </message>
     <message>
+        <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update ToC</source>
-        <translation>Actualizar tabla de contenidos</translation>
+        <translation type="obsolete">Actualizar tabla de contenidos</translation>
     </message>
 </context>
 <context>
@@ -4112,8 +4767,12 @@ Different New Document</source>
         <translation>Salto de sección continuo</translation>
     </message>
     <message>
+        <source>Custom Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4128,12 +4787,20 @@ Different New Document</source>
         <translation>No mostrar el número de línea para la línea en blanco</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -4141,7 +4808,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4161,7 +4828,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -4204,6 +4875,10 @@ Different New Document</source>
         <translation>Más colores de relleno</translation>
     </message>
     <message>
+        <source>More Paper Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Page Section Break</source>
         <translation>Siguiente sección de salto de página</translation>
     </message>
@@ -4224,20 +4899,35 @@ Different New Document</source>
         <translation>Orientación</translation>
     </message>
     <message>
+        <source>Page
+Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Background</source>
         <translation>Fondo de página</translation>
     </message>
     <message>
         <source>Page Border</source>
-        <translation>Bordes de página</translation>
+        <translation type="obsolete">Bordes de página</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Salto de página</translation>
+        <translation type="obsolete">Salto de página</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Color de página</translation>
+        <translation type="obsolete">Color de página</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4281,7 +4971,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Rotate Style</source>
-        <translation>Estilo de rotación</translation>
+        <translation type="obsolete">Estilo de rotación</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -4297,7 +4987,15 @@ Different New Document</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size</source>
@@ -4312,8 +5010,13 @@ Different New Document</source>
         <translation>Suprimir para el párrafo actual</translation>
     </message>
     <message>
+        <source>Text
+Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Direction</source>
-        <translation>Dirección del texto</translation>
+        <translation type="obsolete">Dirección del texto</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -4321,7 +5024,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -4355,6 +5058,10 @@ Different New Document</source>
         <source>Ungroup</source>
         <translation>Desagrupar</translation>
     </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_paragraph</name>
@@ -4379,8 +5086,12 @@ Different New Document</source>
         <translation>Viñetas</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Centrado</translation>
+        <translation type="obsolete">Centrado</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
@@ -4395,20 +5106,28 @@ Different New Document</source>
         <translation>Cerrar</translation>
     </message>
     <message>
+        <source>Demote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Demote to Body Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Demote to Common Text</source>
-        <translation>Degradar a texto común</translation>
+        <translation type="obsolete">Degradar a texto común</translation>
     </message>
     <message>
         <source>Demote to Level</source>
-        <translation>Degradar a nivel</translation>
+        <translation type="obsolete">Degradar a nivel</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Directory Level</source>
-        <translation>Nivel de directorio</translation>
+        <translation type="obsolete">Nivel de directorio</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -4460,7 +5179,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Line Space</source>
-        <translation>Interlineado</translation>
+        <translation type="obsolete">Interlineado</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -4472,7 +5191,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Loose Line Spacing</source>
-        <translation>Disminuir interlineado</translation>
+        <translation type="obsolete">Disminuir interlineado</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -4484,7 +5203,11 @@ Different New Document</source>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation>Más colores de subrayado</translation>
+        <translation type="obsolete">Más colores de subrayado</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -4503,16 +5226,32 @@ Different New Document</source>
         <translation>Párrafo</translation>
     </message>
     <message>
+        <source>Promote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Promote to Level</source>
-        <translation>Promover a nivel</translation>
+        <translation type="obsolete">Promover a nivel</translation>
+    </message>
+    <message>
+        <source>Promote to Level 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Promote to ToC 1</source>
-        <translation>Promover a tabla de contenido 1</translation>
+        <translation type="obsolete">Promover a tabla de contenido 1</translation>
+    </message>
+    <message>
+        <source>Reduce Line Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reduced Line Spacing</source>
-        <translation>Reducción de interlineado</translation>
+        <translation type="obsolete">Reducción de interlineado</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -4524,7 +5263,15 @@ Different New Document</source>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Estilos / Formato</translation>
+        <translation type="obsolete">Estilos / Formato</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight</source>
@@ -4532,15 +5279,19 @@ Different New Document</source>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation>Interlineado ajustado</translation>
+        <translation type="obsolete">Interlineado ajustado</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation>Color de subrayado</translation>
+        <translation type="obsolete">Color de subrayado</translation>
     </message>
     <message>
         <source>Underline</source>
         <translation>Subrayado</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4551,7 +5302,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>Número</translation>
+        <translation type="obsolete">Número</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4591,6 +5346,10 @@ Different New Document</source>
     <message>
         <source>6 pt</source>
         <translation>6 pto</translation>
+    </message>
+    <message>
+        <source>Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Align</source>
@@ -4649,8 +5408,13 @@ Different New Document</source>
         <translation>Traer al frente</translation>
     </message>
     <message>
+        <source>Change
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Picture</source>
-        <translation>Cambiar imagen</translation>
+        <translation type="obsolete">Cambiar imagen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4661,8 +5425,13 @@ Different New Document</source>
         <translation>Color</translation>
     </message>
     <message>
+        <source>Compress
+Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
-        <translation>Comprimir imágenes</translation>
+        <translation type="obsolete">Comprimir imágenes</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -4673,16 +5442,20 @@ Different New Document</source>
         <translation>Guión</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Guión-Punto</translation>
+        <translation type="obsolete">Guión-Punto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4703,6 +5476,10 @@ Different New Document</source>
     <message>
         <source>Even Width</source>
         <translation>Mismo ancho</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4726,7 +5503,11 @@ Different New Document</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4757,6 +5538,11 @@ Different New Document</source>
         <translation>Insertar</translation>
     </message>
     <message>
+        <source>Insert
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Clip Art</source>
         <translation>Insertar Clip Art</translation>
     </message>
@@ -4766,7 +5552,7 @@ Different New Document</source>
     </message>
     <message>
         <source>InsertPicture</source>
-        <translation>Insertar imagen</translation>
+        <translation type="obsolete">Insertar imagen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4781,12 +5567,20 @@ Different New Document</source>
         <translation>Guión largo</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Guión-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Guión-Punto-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4817,6 +5611,26 @@ Different New Document</source>
         <translation>Sin sombra</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>Trama</translation>
     </message>
@@ -4829,20 +5643,25 @@ Different New Document</source>
         <translation>Imagen</translation>
     </message>
     <message>
+        <source>Picture
+Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture Adjust</source>
-        <translation>Ajustar imagen</translation>
+        <translation type="obsolete">Ajustar imagen</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Relleno de imagen</translation>
+        <translation type="obsolete">Relleno de imagen</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Contorno de imagen</translation>
+        <translation type="obsolete">Contorno de imagen</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Tamaño de imagen</translation>
+        <translation type="obsolete">Tamaño de imagen</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -4853,8 +5672,13 @@ Different New Document</source>
         <translation>Relación a la página</translation>
     </message>
     <message>
+        <source>Reset
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reset Picture</source>
-        <translation>Restablecer imagen</translation>
+        <translation type="obsolete">Restablecer imagen</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -4873,8 +5697,13 @@ Different New Document</source>
         <translation>Punto redondo</translation>
     </message>
     <message>
+        <source>Selection
+Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
-        <translation>Panel de selección</translation>
+        <translation type="obsolete">Panel de selección</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -4890,19 +5719,36 @@ Different New Document</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <translation>Definir color transparente</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Color de sombra</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On</source>
-        <translation>Activar sombra</translation>
+        <translation type="obsolete">Activar sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -4910,7 +5756,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo de sombra</translation>
+        <translation type="obsolete">Estilo de sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -4994,19 +5840,19 @@ Different New Document</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Desplazar sombra hacia abajo</translation>
+        <translation type="obsolete">Desplazar sombra hacia abajo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Desplazar sombra hacia la izquierda</translation>
+        <translation type="obsolete">Desplazar sombra hacia la izquierda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Desplazar sombra hacia la derecha</translation>
+        <translation type="obsolete">Desplazar sombra hacia la derecha</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Desplazar sombra hacia arriba</translation>
+        <translation type="obsolete">Desplazar sombra hacia arriba</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5022,7 +5868,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -5053,8 +5899,16 @@ Different New Document</source>
         <translation>Tipo compuesto</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Estilo de ajuste</translation>
+        <translation type="obsolete">Estilo de ajuste</translation>
     </message>
 </context>
 <context>
@@ -5065,7 +5919,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Cerrar vista preliminar</translation>
+        <translation type="obsolete">Cerrar vista preliminar</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -5077,7 +5931,7 @@ Different New Document</source>
     </message>
     <message>
         <source>PrintZoom</source>
-        <translation>Zoom de impresión</translation>
+        <translation type="obsolete">Zoom de impresión</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5108,28 +5962,53 @@ Different New Document</source>
     </message>
     <message>
         <source>Captions</source>
-        <translation>Títulos</translation>
+        <translation type="obsolete">Títulos</translation>
     </message>
     <message>
         <source>Cross-reference</source>
         <translation>Referencia cruzada</translation>
     </message>
     <message>
+        <source>Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote
+Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnotes</source>
-        <translation>Notas al pie</translation>
+        <translation type="obsolete">Notas al pie</translation>
+    </message>
+    <message>
+        <source>Footnotes and Endnotes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert
 Footnote/Endnote</source>
-        <translation>Insertar Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Insertar Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Footnote</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Footnote/Endnote</source>
-        <translation>Insertar Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Insertar Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>Insert TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation>Insertar tabla de contenido</translation>
+        <translation type="obsolete">Insertar tabla de contenido</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -5176,16 +6055,44 @@ Footnote/Endnote</source>
         <translation>Buzoneo</translation>
     </message>
     <message>
+        <source>Next Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Footnote/Endnote</source>
-        <translation>Siguiente Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Siguiente Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>Previous Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>Mostrar separador Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Mostrar separador Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>Show Or Hide Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>Mostrar u ocultar separador de Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Mostrar u ocultar separador de Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -5193,11 +6100,15 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation>Agregar texto</translation>
+        <translation type="obsolete">Agregar texto</translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Actualizar tabla</translation>
+        <translation type="obsolete">Actualizar tabla</translation>
     </message>
 </context>
 <context>
@@ -5232,11 +6143,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Change and Comment</source>
-        <translation>Cambiar y comentar</translation>
+        <translation type="obsolete">Cambiar y comentar</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Ortografía y gramática</translation>
+        <translation type="obsolete">Ortografía y gramática</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5255,16 +6166,25 @@ Footnote/Endnote</source>
         <translation>Eliminar</translation>
     </message>
     <message>
+        <source>Delete 
+Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete All Comments in Document</source>
         <translation>Eliminar todos los comentarios del documento</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Eliminar comentario</translation>
+        <translation type="obsolete">Eliminar comentario</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation>Mostrar para revisión</translation>
+        <translation type="obsolete">Mostrar para revisión</translation>
+    </message>
+    <message>
+        <source>Display for Review</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -5272,11 +6192,16 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Nuevo comentario</translation>
+        <translation type="obsolete">Nuevo comentario</translation>
     </message>
     <message>
         <source>Language</source>
         <translation>Idioma</translation>
+    </message>
+    <message>
+        <source>New
+Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next</source>
@@ -5288,7 +6213,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Siguiente comentario</translation>
+        <translation type="obsolete">Siguiente comentario</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -5300,7 +6225,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>Comentario anterior</translation>
+        <translation type="obsolete">Comentario anterior</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -5340,23 +6265,45 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>mostrar la información del revisor en el globo</translation>
+        <translation type="obsolete">mostrar la información del revisor en el globo</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
         <translation>Mostrar revisiones en globos</translation>
     </message>
     <message>
+        <source>Show Revisor Information in Balloons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track
+Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Track Changes</source>
-        <translation>Control de cambios</translation>
+        <translation type="obsolete">Control de cambios</translation>
+    </message>
+    <message>
+        <source>Tracking</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
         <translation>Utilizar globos</translation>
     </message>
     <message>
+        <source>Word
+Count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Word Count</source>
-        <translation>Contar palabras</translation>
+        <translation type="obsolete">Contar palabras</translation>
     </message>
 </context>
 <context>
@@ -5366,28 +6313,47 @@ Footnote/Endnote</source>
         <translation>Columnas</translation>
     </message>
     <message>
+        <source>Contents
+Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Contents Page</source>
-        <translation>Tabla de contenido</translation>
+        <translation type="obsolete">Tabla de contenido</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
         <translation>Salto de sección continuo</translation>
     </message>
     <message>
+        <source>Cover
+Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cover Pages</source>
-        <translation>Portada</translation>
+        <translation type="obsolete">Portada</translation>
+    </message>
+    <message>
+        <source>Cover and TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cover and ToC</source>
-        <translation>Portada y tabla de contenidos</translation>
+        <translation type="obsolete">Portada y tabla de contenidos</translation>
+    </message>
+    <message>
+        <source>Delete
+Section</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Section</source>
-        <translation>Eliminar sección</translation>
+        <translation type="obsolete">Eliminar sección</translation>
     </message>
     <message>
         <source>DetailedSettings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -5402,8 +6368,21 @@ Footnote/Endnote</source>
         <translation>Primera sección</translation>
     </message>
     <message>
+        <source>Header Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and
+Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -5434,6 +6413,10 @@ Footnote/Endnote</source>
         <translation>Buscar a la sección</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Columns</source>
         <translation>Más columnas</translation>
     </message>
@@ -5462,12 +6445,22 @@ Footnote/Endnote</source>
         <translation>Orientación</translation>
     </message>
     <message>
+        <source>Page
+Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Number</source>
-        <translation>Número de página</translation>
+        <translation type="obsolete">Número de página</translation>
+    </message>
+    <message>
+        <source>Page Number
+Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Number Format</source>
-        <translation>Formato del número de página</translation>
+        <translation type="obsolete">Formato del número de página</translation>
     </message>
     <message>
         <source>Page Number Start</source>
@@ -5490,16 +6483,34 @@ Footnote/Endnote</source>
         <translation>Reiniciar número de página</translation>
     </message>
     <message>
+        <source>Section
+Navigation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Section Manager</source>
-        <translation>Administrador de sección</translation>
+        <translation type="obsolete">Administrador de sección</translation>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>Sección de navegación</translation>
+        <translation type="obsolete">Sección de navegación</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show
+Header Line</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>Mostrar / Ocultar sección de navegación</translation>
+        <translation type="obsolete">Mostrar / Ocultar sección de navegación</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -5507,11 +6518,20 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Mostrar línea de encabezado</translation>
+        <translation type="obsolete">Mostrar línea de encabezado</translation>
+    </message>
+    <message>
+        <source>Show/Hide Section Navigation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split
+Section</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Dividir sección</translation>
+        <translation type="obsolete">Dividir sección</translation>
     </message>
     <message>
         <source>Three</source>
@@ -5537,20 +6557,40 @@ Footnote/Endnote</source>
         <translation>288 pto</translation>
     </message>
     <message>
+        <source>3-D
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
-        <translation>Color 3D</translation>
+        <translation type="obsolete">Color 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3D</translation>
+        <translation type="obsolete">Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Configuración de 3D</translation>
+        <translation type="obsolete">Configuración de 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Estilo de 3D</translation>
+        <translation type="obsolete">Estilo de 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -5697,6 +6737,22 @@ Footnote/Endnote</source>
         <translation>Normal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Paralelo</translation>
     </message>
@@ -5714,24 +6770,39 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation>Activar/Desactivar sombra</translation>
     </message>
     <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>Color de sombra</translation>
+        <translation type="obsolete">Color de sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>Activar/Desactivar sombra</translation>
+        <translation type="obsolete">Activar/Desactivar sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Configuración de sombra</translation>
+        <translation type="obsolete">Configuración de sombra</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo de sombra</translation>
+        <translation type="obsolete">Estilo de sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -5815,19 +6886,19 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Desplazar sombra hacia abajo</translation>
+        <translation type="obsolete">Desplazar sombra hacia abajo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Desplazar sombra hacia la izquierda</translation>
+        <translation type="obsolete">Desplazar sombra hacia la izquierda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Desplazar sombra hacia la derecha</translation>
+        <translation type="obsolete">Desplazar sombra hacia la derecha</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Desplazar sombra hacia arriba</translation>
+        <translation type="obsolete">Desplazar sombra hacia arriba</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5905,6 +6976,10 @@ On/Off</source>
         <translation>Alineación</translation>
     </message>
     <message>
+        <source>AutoFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoFit to Window</source>
         <translation>Autoajustar a la ventana</translation>
     </message>
@@ -5918,7 +6993,7 @@ On/Off</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation>Celdas</translation>
+        <translation type="obsolete">Celdas</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -5926,7 +7001,7 @@ On/Off</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Columnas</translation>
+        <translation type="obsolete">Columnas</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -5941,6 +7016,22 @@ On/Off</source>
         <translation>Eliminar</translation>
     </message>
     <message>
+        <source>Delete Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Distribute Columns Evenly</source>
         <translation>Distribuir columnas uniformemente</translation>
     </message>
@@ -5953,8 +7044,12 @@ On/Off</source>
         <translation>Dibujar tabla</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>EmphasisMark</source>
-        <translation>Marca de énfasis</translation>
+        <translation type="obsolete">Marca de énfasis</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -6037,16 +7132,24 @@ On/Off</source>
         <translation>Más líneas de subrayado</translation>
     </message>
     <message>
+        <source>Repeat Header Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Repeat Headings</source>
-        <translation>Repetir encabezamientos</translation>
+        <translation type="obsolete">Repetir encabezamientos</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Filas</translation>
+        <translation type="obsolete">Filas</translation>
+    </message>
+    <message>
+        <source>Rows and Columns</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>Filas/Columnas</translation>
+        <translation type="obsolete">Filas/Columnas</translation>
     </message>
     <message>
         <source>Select</source>
@@ -6095,7 +7198,11 @@ Cells</source>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation>Tachado</translation>
+        <translation type="obsolete">Tachado</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sum</source>
@@ -6111,15 +7218,20 @@ Cells</source>
     </message>
     <message>
         <source>TableAutoAdjust</source>
-        <translation>Auto ajustar tabla</translation>
+        <translation type="obsolete">Auto ajustar tabla</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>Tablas</translation>
+        <translation type="obsolete">Tablas</translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Dirección del texto</translation>
+        <translation type="obsolete">Dirección del texto</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -6127,11 +7239,15 @@ Cells</source>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation>Color de subrayado</translation>
+        <translation type="obsolete">Color de subrayado</translation>
     </message>
     <message>
         <source>Underline</source>
         <translation>Subrayado</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -6145,12 +7261,26 @@ Cells</source>
         <translation>100%</translation>
     </message>
     <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange
+All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arrange All</source>
-        <translation>Organizar todo</translation>
+        <translation type="obsolete">Organizar todo</translation>
+    </message>
+    <message>
+        <source>COM
+Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>COM Add-Ins</translation>
+        <translation type="obsolete">COM Add-Ins</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6159,7 +7289,7 @@ Cells</source>
     <message>
         <source>Close
 Other Windows</source>
-        <translation>Cerrar otras ventanas</translation>
+        <translation type="obsolete">Cerrar otras ventanas</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -6171,31 +7301,49 @@ Other Windows</source>
     </message>
     <message>
         <source>Compared Side By Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation type="obsolete">Ver en paralelo</translation>
     </message>
     <message>
         <source>Developer</source>
         <translation>Programador</translation>
     </message>
     <message>
+        <source>Document
+Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Map</source>
-        <translation>Mapa del documento</translation>
+        <translation type="obsolete">Mapa del documento</translation>
     </message>
     <message>
         <source>Document View</source>
-        <translation>Vista de documento</translation>
+        <translation type="obsolete">Vista de documento</translation>
+    </message>
+    <message>
+        <source>Document Views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full 
+Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Lectura de pantalla completa</translation>
+        <translation type="obsolete">Lectura de pantalla completa</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Líneas de división</translation>
+        <translation type="obsolete">Líneas de división</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Organizar horizontalmente</translation>
+        <translation type="obsolete">Organizar horizontalmente</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -6214,8 +7362,13 @@ Other Windows</source>
         <translation>Panel de navegación</translation>
     </message>
     <message>
+        <source>New
+Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Window</source>
-        <translation>Nueva ventana</translation>
+        <translation type="obsolete">Nueva ventana</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -6238,8 +7391,13 @@ Other Windows</source>
         <translation>Colocar a la Derecha</translation>
     </message>
     <message>
+        <source>Print 
+Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Layout</source>
-        <translation>Diseño de impresión</translation>
+        <translation type="obsolete">Diseño de impresión</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -6267,15 +7425,24 @@ Other Windows</source>
     </message>
     <message>
         <source>Show View Gridlines</source>
-        <translation>Ver cuadrículas</translation>
+        <translation type="obsolete">Ver cuadrículas</translation>
+    </message>
+    <message>
+        <source>Switch
+Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>Cambiar ventana</translation>
+        <translation type="obsolete">Cambiar ventana</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
         <translation>Desplazamiento sincrónico</translation>
+    </message>
+    <message>
+        <source>Table Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -6286,8 +7453,21 @@ Other Windows</source>
         <translation>Dos páginas</translation>
     </message>
     <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical Arrange</source>
-        <translation>Organizar verticalmente</translation>
+        <translation type="obsolete">Organizar verticalmente</translation>
+    </message>
+    <message>
+        <source>View
+Side by Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -6325,12 +7505,27 @@ Other Windows</source>
         <translation>288 pto</translation>
     </message>
     <message>
+        <source>3-D
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
-        <translation>Color 3D</translation>
+        <translation type="obsolete">Color 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3D</translation>
+        <translation type="obsolete">Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -6338,7 +7533,7 @@ Other Windows</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Estilo de 3D</translation>
+        <translation type="obsolete">Estilo de 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -6485,6 +7680,22 @@ Other Windows</source>
         <translation>Normal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Paralelo</translation>
     </message>
@@ -6502,24 +7713,39 @@ Other Windows</source>
     </message>
     <message>
         <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation>Activar/Desactivar sombra</translation>
     </message>
     <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>Color de sombra</translation>
+        <translation type="obsolete">Color de sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>Activar/Desactivar sombra</translation>
+        <translation type="obsolete">Activar/Desactivar sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Configuración de sombra</translation>
+        <translation type="obsolete">Configuración de sombra</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo de sombra</translation>
+        <translation type="obsolete">Estilo de sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -6603,19 +7829,19 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Desplazar sombra hacia abajo</translation>
+        <translation type="obsolete">Desplazar sombra hacia abajo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Desplazar sombra hacia la izquierda</translation>
+        <translation type="obsolete">Desplazar sombra hacia la izquierda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Desplazar sombra hacia la derecha</translation>
+        <translation type="obsolete">Desplazar sombra hacia la derecha</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Desplazar sombra hacia arriba</translation>
+        <translation type="obsolete">Desplazar sombra hacia arriba</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6718,6 +7944,10 @@ On</source>
         <translation>Alinear en la parte superior</translation>
     </message>
     <message>
+        <source>Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arch Down (Curve)</source>
         <translation>Arco hacia abajo (Fino)</translation>
     </message>
@@ -6743,11 +7973,11 @@ On</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Botón (Fino)</translation>
+        <translation type="obsolete">Botón (Fino)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Botón (Grueso)</translation>
+        <translation type="obsolete">Botón (Grueso)</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -6760,6 +7990,14 @@ On</source>
     <message>
         <source>Bring to Front</source>
         <translation>Traer al frente</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Pour)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -6778,8 +8016,17 @@ On</source>
         <translation>Cascada hacia arriba</translation>
     </message>
     <message>
+        <source>Center Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center Alignment</source>
-        <translation>Alineación centrada</translation>
+        <translation type="obsolete">Alineación centrada</translation>
+    </message>
+    <message>
+        <source>Character 
+Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -6814,12 +8061,16 @@ On</source>
         <translation>Guión</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Guión-Punto</translation>
+        <translation type="obsolete">Guión-Punto</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -6843,7 +8094,7 @@ On</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -6866,16 +8117,24 @@ On</source>
         <translation>Editar texto</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -6892,6 +8151,10 @@ On</source>
     <message>
         <source>Fade Up</source>
         <translation>Desaparecer por arriba</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -6911,7 +8174,11 @@ On</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -6947,11 +8214,15 @@ On</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>Insertar WordArt</translation>
+        <translation type="obsolete">Insertar WordArt</translation>
+    </message>
+    <message>
+        <source>Left Align</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left Alignment</source>
-        <translation>Alinear a la izquierda</translation>
+        <translation type="obsolete">Alinear a la izquierda</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -6962,12 +8233,20 @@ On</source>
         <translation>Guión largo</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Guión-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Guión-Punto-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -6991,7 +8270,11 @@ On</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Seleccionar objeto</translation>
+        <translation type="obsolete">Seleccionar objeto</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -7014,8 +8297,12 @@ On</source>
         <translation>Relación a la página</translation>
     </message>
     <message>
+        <source>Right Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Right Alignment</source>
-        <translation>Alinear a la derecha</translation>
+        <translation type="obsolete">Alinear a la derecha</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -7042,6 +8329,14 @@ On</source>
         <translation>Punto redondo</translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Send Backward</source>
         <translation>Enviar atrás</translation>
     </message>
@@ -7051,7 +8346,15 @@ On</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -7087,7 +8390,7 @@ On</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -7099,7 +8402,15 @@ On</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Estrecho</translation>
+        <translation type="obsolete">Estrecho</translation>
+    </message>
+    <message>
+        <source>Tight@Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight@Wrapping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -7116,6 +8427,10 @@ On</source>
     <message>
         <source>Ungroup</source>
         <translation>Desagrupar</translation>
+    </message>
+    <message>
+        <source>Vertical Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -7146,36 +8461,51 @@ On</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt
+Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt
+Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt 
+Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
-        <translation>Alineación de WordArt</translation>
+        <translation type="obsolete">Alineación de WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>Espaciado entre caracteres de WordArt</translation>
+        <translation type="obsolete">Espaciado entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>Relleno de WordArt</translation>
+        <translation type="obsolete">Relleno de WordArt</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Galería de WordArt</translation>
+        <translation type="obsolete">Galería de WordArt</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>Contorno de WordArt</translation>
+        <translation type="obsolete">Contorno de WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>Alto de letra de WordArt</translation>
+        <translation type="obsolete">Alto de letra de WordArt</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>Forma de WordArt</translation>
+        <translation type="obsolete">Forma de WordArt</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>Tamaño de WordArt</translation>
+        <translation type="obsolete">Tamaño de WordArt</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -7183,30 +8513,54 @@ On</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Texto vertical de WordArt</translation>
+        <translation type="obsolete">Texto vertical de WordArt</translation>
+    </message>
+    <message>
+        <source>WordArt@Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Estilo de ajuste</translation>
+        <translation type="obsolete">Estilo de ajuste</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Auto Backup</source>
-        <translation>Autorrecuperación</translation>
+        <translation type="obsolete">Autorrecuperación</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>Comentarios de la nube</translation>
+        <translation type="obsolete">Comentarios de la nube</translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Explorar directorio de respaldos</translation>
+        <translation type="obsolete">Explorar directorio de respaldos</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Explorar versiones de respaldos</translation>
+        <translation type="obsolete">Explorar versiones de respaldos</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -7214,39 +8568,55 @@ On</source>
     </message>
     <message>
         <source>File Auto Backup</source>
-        <translation>Guardar archivo de autorrecuperación</translation>
+        <translation type="obsolete">Guardar archivo de autorrecuperación</translation>
     </message>
     <message>
-        <source>KOS Create Cloud Link</source>
+        <source>File Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation>Mi cuenta KOS</translation>
+        <translation type="obsolete">Mi cuenta KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>Consejo de mi cuenta KOS</translation>
+        <translation type="obsolete">Consejo de mi cuenta KOS</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation>KOS usuario nube</translation>
+        <translation type="obsolete">KOS usuario nube</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation>Consejo de KOS usuario nube</translation>
+        <translation type="obsolete">Consejo de KOS usuario nube</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation>Guia de usuario KOS</translation>
+        <translation type="obsolete">Guia de usuario KOS</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
-        <translation>Consejo de guia de usuario KOS</translation>
+        <translation type="obsolete">Consejo de guia de usuario KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>Inicio de sesión de usuario KOS</translation>
+        <translation type="obsolete">Inicio de sesión de usuario KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -7257,59 +8627,115 @@ On</source>
         <translation>Respaldo manual</translation>
     </message>
     <message>
+        <source>More from Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
-        <translation>No has iniciado sesión</translation>
+        <translation type="obsolete">No has iniciado sesión</translation>
+    </message>
+    <message>
+        <source>Online Documents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Abrir desde la nube</translation>
+        <translation type="obsolete">Abrir desde la nube</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Guardar archivo en la nube</translation>
+        <translation type="obsolete">Guardar archivo en la nube</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Detener auto respaldo</translation>
+        <translation type="obsolete">Detener auto respaldo</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Guide</source>
-        <translation>Guía del usuario</translation>
+        <translation type="obsolete">Guía del usuario</translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation>Autorrecuperación de espacio de trabajo</translation>
+        <translation type="obsolete">Autorrecuperación de espacio de trabajo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>Abrir Weibo</translation>
+        <translation type="obsolete">Abrir Weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>Compartir Weibo</translation>
+        <translation type="obsolete">Compartir Weibo</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation>Herramienta Weibo</translation>
+        <translation type="obsolete">Herramienta Weibo</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
-        <translation>Diseño Wps Weibo</translation>
+        <translation type="obsolete">Diseño Wps Weibo</translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation>0 más historias</translation>
+        <translation type="obsolete">0 más historias</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>Acerca de Kingsoft Writer</translation>
+        <translation type="obsolete">Acerca de Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept Deletion</source>
@@ -7325,7 +8751,11 @@ On</source>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation>Activar Kingsoft Office</translation>
+        <translation type="obsolete">Activar Kingsoft Office</translation>
+    </message>
+    <message>
+        <source>Activate WPS Office</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -7340,16 +8770,20 @@ On</source>
         <translation>Agregar al diccionario</translation>
     </message>
     <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>Formato asiático</translation>
     </message>
     <message>
         <source>Auto Backup</source>
-        <translation>Autorrecuperación</translation>
+        <translation type="obsolete">Autorrecuperación</translation>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation>Auto punto</translation>
+        <translation type="obsolete">Auto punto</translation>
     </message>
     <message>
         <source>AutoFit</source>
@@ -7360,8 +8794,16 @@ On</source>
         <translation>Autoajustar a la ventana</translation>
     </message>
     <message>
+        <source>AutoPoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Average</source>
         <translation>Promedio</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -7377,11 +8819,15 @@ On</source>
     </message>
     <message>
         <source>Break</source>
-        <translation>Salto</translation>
+        <translation type="obsolete">Salto</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
         <translation>Romper vínculo hacia delante</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -7400,8 +8846,13 @@ On</source>
         <translation>Viñetas y numeración</translation>
     </message>
     <message>
+        <source>COM 
+Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>COM AddIns</source>
-        <translation>COM AddIns</translation>
+        <translation type="obsolete">COM AddIns</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7433,7 +8884,15 @@ On</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Cambiar cuenta</translation>
+        <translation type="obsolete">Cambiar cuenta</translation>
+    </message>
+    <message>
+        <source>Change Accout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -7448,12 +8907,24 @@ On</source>
         <translation>Cambiar la versión</translation>
     </message>
     <message>
+        <source>Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check Spelling As You Type</source>
         <translation>Revisar ortografía mientras escribe</translation>
     </message>
     <message>
+        <source>Check for Updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chinese Translation</source>
-        <translation>Traducción chino</translation>
+        <translation type="obsolete">Traducción chino</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -7485,7 +8956,7 @@ On</source>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>Comentarios de la nube</translation>
+        <translation type="obsolete">Comentarios de la nube</translation>
     </message>
     <message>
         <source>Column</source>
@@ -7516,6 +8987,10 @@ On</source>
         <translation>Comentario</translation>
     </message>
     <message>
+        <source>Compared Side by Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Contents</source>
         <translation>Comentarios</translation>
     </message>
@@ -7533,7 +9008,7 @@ On</source>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation>Control de menú</translation>
+        <translation type="obsolete">Control de menú</translation>
     </message>
     <message>
         <source>Control Menu List</source>
@@ -7545,7 +9020,7 @@ On</source>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Cambiar mayúsculas y minúsculas</translation>
+        <translation type="obsolete">Cambiar mayúsculas y minúsculas</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -7576,6 +9051,10 @@ On</source>
         <translation>Punto de esquina</translation>
     </message>
     <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Create Text Box Link</source>
         <translation>Crear vínculo</translation>
     </message>
@@ -7593,7 +9072,7 @@ On</source>
     </message>
     <message>
         <source>Data Chart</source>
-        <translation>Datos de gráfico</translation>
+        <translation type="obsolete">Datos de gráfico</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -7608,6 +9087,14 @@ On</source>
         <translation>Eliminar</translation>
     </message>
     <message>
+        <source>Delete Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Comment</source>
         <translation>Eliminar comentario</translation>
     </message>
@@ -7620,8 +9107,20 @@ On</source>
         <translation>Eliminar punto</translation>
     </message>
     <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Segment</source>
         <translation>Eliminar segmento</translation>
+    </message>
+    <message>
+        <source>Delete Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -7637,7 +9136,7 @@ On</source>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Plantillas Docer en línea</translation>
+        <translation type="obsolete">Plantillas Docer en línea</translation>
     </message>
     <message>
         <source>Document Map</source>
@@ -7689,12 +9188,20 @@ Diagonal Line in Cell</source>
         <translation>Conector curvado</translation>
     </message>
     <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enclose Characters</source>
         <translation>Encerrar caracteres</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Proteger documento</translation>
+        <translation type="obsolete">Proteger documento</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -7714,23 +9221,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Expandir formato de pegado de texto</translation>
+        <translation type="obsolete">Expandir formato de pegado de texto</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Expandir formato de pegado similar</translation>
+        <translation type="obsolete">Expandir formato de pegado similar</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Expandir pegado de texto</translation>
+        <translation type="obsolete">Expandir pegado de texto</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Explorar directorio de respaldos</translation>
+        <translation type="obsolete">Explorar directorio de respaldos</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Explorar versiones de respaldos</translation>
+        <translation type="obsolete">Explorar versiones de respaldos</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -7746,7 +9253,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Comentarios</translation>
+        <translation type="obsolete">Comentarios</translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -7790,7 +9301,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Opciones de campo de formulario</translation>
+        <translation type="obsolete">Opciones de campo de formulario</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -7799,6 +9314,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Formats</source>
         <translation>Formato</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Formula</source>
@@ -7810,7 +9329,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>From Scan</source>
-        <translation>Desde escáner</translation>
+        <translation type="obsolete">Desde escáner</translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -7834,11 +9357,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation>Gráficos</translation>
+        <translation type="obsolete">Gráficos</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -7877,8 +9404,12 @@ Diagonal Line in Cell</source>
         <translation>Encabezado a la derecha</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
@@ -7886,11 +9417,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">Horizontal</translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Organizar horizontalmente</translation>
+        <translation type="obsolete">Organizar horizontalmente</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -7929,40 +9460,32 @@ Diagonal Line in Cell</source>
         <translation>Invisible</translation>
     </message>
     <message>
-        <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Kingsoft BBS</source>
-        <translation>Kingsoft BBS</translation>
+        <translation type="obsolete">Kingsoft BBS</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>Comunidad Kingsoft Office</translation>
+        <translation type="obsolete">Comunidad Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>Kingsoft Office Facebook</translation>
+        <translation type="obsolete">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Página principal de Kingsoft Office</translation>
+        <translation type="obsolete">Página principal de Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Ayuda de kingsoft Writer</translation>
+        <translation type="obsolete">Ayuda de kingsoft Writer</translation>
     </message>
     <message>
         <source>Left Tab</source>
         <translation>Tabulación izquierda</translation>
+    </message>
+    <message>
+        <source>Line Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -7974,11 +9497,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Cerrar sesión</translation>
+        <translation type="obsolete">Cerrar sesión</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -7997,6 +9520,10 @@ Diagonal Line in Cell</source>
         <translation>Marcas</translation>
     </message>
     <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Max</source>
         <translation>Max</translation>
     </message>
@@ -8009,8 +9536,16 @@ Diagonal Line in Cell</source>
         <translation>Min</translation>
     </message>
     <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
         <translation>Más colores de relleno</translation>
+    </message>
+    <message>
+        <source>More Historical Records</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move Here</source>
@@ -8038,7 +9573,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>No has iniciado sesión</translation>
+        <translation type="obsolete">No has iniciado sesión</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8049,8 +9584,20 @@ Diagonal Line in Cell</source>
         <translation>Objeto</translation>
     </message>
     <message>
+        <source>Object Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Menu List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Odd Page Section Break</source>
         <translation>Salto de sección de página impar</translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -8062,7 +9609,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>Abrir desde Klive</translation>
+        <translation type="obsolete">Abrir desde Klive</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -8074,7 +9621,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Abrir desde la nube</translation>
+        <translation type="obsolete">Abrir desde la nube</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option</source>
@@ -8089,12 +9640,24 @@ Diagonal Line in Cell</source>
         <translation>Organizar</translation>
     </message>
     <message>
+        <source>Over Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
         <translation>Salto de página</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Color de página</translation>
+        <translation type="obsolete">Color de página</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -8150,7 +9713,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>Centro de producto</translation>
+        <translation type="obsolete">Centro de producto</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -8165,12 +9728,24 @@ Diagonal Line in Cell</source>
         <translation>Comprar número de serie</translation>
     </message>
     <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reconvert</source>
         <translation>Volver a convertir</translation>
     </message>
     <message>
+        <source>Record Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reference</source>
         <translation>Referencia</translation>
+    </message>
+    <message>
+        <source>Reject Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reject Deletion</source>
@@ -8197,8 +9772,12 @@ Diagonal Line in Cell</source>
         <translation>Quitar marca de agua</translation>
     </message>
     <message>
+        <source>Repeat Header Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Repeat Headings</source>
-        <translation>Repetir encabezamientos</translation>
+        <translation type="obsolete">Repetir encabezamientos</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
@@ -8250,11 +9829,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Guardar archivo en la nube</translation>
+        <translation type="obsolete">Guardar archivo en la nube</translation>
     </message>
     <message>
         <source>Save as Picture</source>
         <translation>Guardar como imágen</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -8262,7 +9845,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Save to Klive</source>
-        <translation>Guardar en Klive</translation>
+        <translation type="obsolete">Guardar en Klive</translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Security</source>
@@ -8305,8 +9892,16 @@ Diagonal Line in Cell</source>
         <translation>Establecer valores predeterminados de autoforma</translation>
     </message>
     <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share to Weibo</source>
-        <translation>Compartir a Weibo</translation>
+        <translation type="obsolete">Compartir a Weibo</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
@@ -8329,8 +9924,20 @@ Diagonal Line in Cell</source>
         <translation>Mostrar u ocultar separador de Nota al pie/Nota al final</translation>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Smooth Point</source>
         <translation>Punto liso</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spelling Suggestions</source>
@@ -8350,7 +9957,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Detener auto respaldo</translation>
+        <translation type="obsolete">Detener auto respaldo</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -8370,7 +9977,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>Estudiar en línea</translation>
+        <translation type="obsolete">Estudiar en línea</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -8391,6 +9998,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Table</source>
         <translation>Tabla</translation>
+    </message>
+    <message>
+        <source>Table Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -8421,48 +10032,112 @@ Diagonal Line in Cell</source>
         <translation>Textura</translation>
     </message>
     <message>
+        <source>Track</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>Dos líneas en una</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ungroup</source>
         <translation>Desagrupar</translation>
     </message>
     <message>
+        <source>Unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
-        <translation>Actualización en línea</translation>
+        <translation type="obsolete">Actualización en línea</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">Vertical</translation>
+        <translation type="unfinished">Vertical</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>Organizar verticalmente</translation>
+        <translation type="obsolete">Organizar verticalmente</translation>
     </message>
     <message>
         <source>View Code</source>
         <translation>Ver código</translation>
     </message>
     <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Gridlines</source>
-        <translation>Ver cuadrículas</translation>
+        <translation type="obsolete">Ver cuadrículas</translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Shortcut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation type="obsolete">Ver en paralelo</translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Forum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Microblog</source>
         <translation>WPS Microblog</translation>
     </message>
     <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS New features</source>
-        <translation>Nuevas características de WPS</translation>
+        <translation type="obsolete">Nuevas características de WPS</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watermark</source>
         <translation>Marca de agua</translation>
+    </message>
+    <message>
+        <source>Word Count</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -8477,16 +10152,24 @@ Diagonal Line in Cell</source>
         <translation>Zoom</translation>
     </message>
     <message>
+        <source>Zoom Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Slider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>Abrir Weibo</translation>
+        <translation type="obsolete">Abrir Weibo</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
-        <translation>Diseño Wps Weibo</translation>
+        <translation type="obsolete">Diseño Wps Weibo</translation>
     </message>
 </context>
 <context>
@@ -8535,6 +10218,14 @@ Diagonal Line in Cell</source>
         <source>Custom Toolbar</source>
         <translation>Barra de herramientas personalizada</translation>
     </message>
+    <message>
+        <source>Menu Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar Commands</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
@@ -8548,7 +10239,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Borde y sombreado</translation>
+        <translation type="obsolete">Borde y sombreado</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -8557,10 +10252,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Clear Table Style</source>
         <translation>Borrar estilo de tabla</translation>
-    </message>
-    <message>
-        <source>Cross Border</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw
@@ -8580,7 +10271,15 @@ Diagonal Line in Cell</source>
         <translation>Borrador</translation>
     </message>
     <message>
-        <source>Horizontal Middle Border</source>
+        <source>Inside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8609,7 +10308,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Borde externo</translation>
+        <translation type="obsolete">Borde externo</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -8624,6 +10323,10 @@ Diagonal Line in Cell</source>
         <translation>Sombreado</translation>
     </message>
     <message>
+        <source>Table Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table Style Options</source>
         <translation>Opciones de estilo de tabla</translation>
     </message>
@@ -8635,10 +10338,6 @@ Diagonal Line in Cell</source>
         <source>Top Border</source>
         <translation>Borde superior</translation>
     </message>
-    <message>
-        <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_developtools</name>
@@ -8648,7 +10347,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>COM Add-In</source>
-        <translation>COM Add-In</translation>
+        <translation type="obsolete">COM Add-In</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -8695,8 +10398,12 @@ Diagonal Line in Cell</source>
         <translation>Etiqueta</translation>
     </message>
     <message>
+        <source>List Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>List Button</source>
-        <translation>Botón de Lista</translation>
+        <translation type="obsolete">Botón de Lista</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -8709,6 +10416,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Option Button</source>
         <translation>Botón de opción</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -8882,8 +10593,12 @@ Diagonal Line in Cell</source>
         <translation>Traer al frente</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Centrado</translation>
+        <translation type="obsolete">Centrado</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -8894,16 +10609,20 @@ Diagonal Line in Cell</source>
         <translation>Guión</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Guión-Punto</translation>
+        <translation type="obsolete">Guión-Punto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -8922,16 +10641,28 @@ Diagonal Line in Cell</source>
         <translation>Modificar puntos</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8955,7 +10686,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -9002,12 +10737,20 @@ Diagonal Line in Cell</source>
         <translation>Guión largo</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Guión-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Guión-Punto-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9044,6 +10787,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Next Text Box</source>
         <translation>Siguiente cuadro de texto</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9095,15 +10842,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Relleno de forma</translation>
+        <translation type="obsolete">Relleno de forma</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Contorno de forma</translation>
+        <translation type="obsolete">Contorno de forma</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -9111,7 +10870,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation>Estilos de forma</translation>
+        <translation type="obsolete">Estilos de forma</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -9143,7 +10902,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9182,30 +10941,50 @@ Diagonal Line in Cell</source>
         <translation>Tipo compuesto</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Estilo de ajuste</translation>
+        <translation type="obsolete">Estilo de ajuste</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>Acerca de Kingsoft Writer</translation>
+        <translation type="obsolete">Acerca de Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation>Gestión de copias de seguridad</translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>Cambiar la versión</translation>
     </message>
     <message>
-        <source>Create CloudLink</source>
+        <source>Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create CloudLink Title</source>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9214,7 +10993,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Proteger documento</translation>
+        <translation type="obsolete">Proteger documento</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9222,11 +11005,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Comentarios</translation>
+        <translation type="obsolete">Comentarios</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
         <translation>Comentarios e información del producto</translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Information</source>
@@ -9238,35 +11025,39 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>Comunidad Kingsoft Office</translation>
+        <translation type="obsolete">Comunidad Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>Kingsoft Office Facebook</translation>
+        <translation type="obsolete">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Página principal de Kingsoft Office</translation>
+        <translation type="obsolete">Página principal de Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office New features</source>
-        <translation>Nuevas funciones de Kingsoft Office</translation>
+        <translation type="obsolete">Nuevas funciones de Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
-        <translation>Documento de Kingsoft Writer</translation>
+        <translation type="obsolete">Documento de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Ayuda de Kingsoft Writer</translation>
+        <translation type="obsolete">Ayuda de Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
-        <translation>Plantilla de Kingsoft Writer</translation>
+        <translation type="obsolete">Plantilla de Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation>Documento de Microsoft Word 2007-2003</translation>
+        <translation type="obsolete">Documento de Microsoft Word 2007-2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -9294,11 +11085,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Nuevo a partir de plantillas locales</translation>
+        <translation type="obsolete">Nuevo a partir de plantillas locales</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
         <translation>Nuevo a partir de plantillas en línea</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -9306,7 +11101,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>Abrir desde Klive</translation>
+        <translation type="obsolete">Abrir desde Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -9322,7 +11117,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>Centro de producto</translation>
+        <translation type="obsolete">Centro de producto</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -9354,7 +11149,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Save to Klive</source>
-        <translation>Guardar en Klive</translation>
+        <translation type="obsolete">Guardar en Klive</translation>
+    </message>
+    <message>
+        <source>Seek Help via Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -9366,22 +11165,66 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Actualización en línea</translation>
+        <translation type="obsolete">Actualización en línea</translation>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>WPS BBS</translation>
+        <translation type="obsolete">WPS BBS</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>WPS Microblog</translation>
+        <translation type="obsolete">WPS Microblog</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Forum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Ayuda de Kingsoft Writer</translation>
+        <translation type="obsolete">Ayuda de Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9392,19 +11235,31 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Auto Text</source>
-        <translation>Autotexto</translation>
+        <translation type="obsolete">Autotexto</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Cerrar</translation>
     </message>
     <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Date/Time</source>
-        <translation>Fecha y hora</translation>
+        <translation type="obsolete">Fecha y hora</translation>
     </message>
     <message>
         <source>Fields</source>
         <translation>Campos</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header and Footer
@@ -9418,7 +11273,7 @@ Options</source>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -9554,7 +11409,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Borde y sombreado</translation>
+        <translation type="obsolete">Borde y sombreado</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -9565,8 +11424,16 @@ Header and Footer</source>
         <translation>Viñetas</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Centrado</translation>
+        <translation type="obsolete">Centrado</translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -9598,15 +11465,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Cambiar mayúsculas y minúsculas</translation>
+        <translation type="obsolete">Cambiar mayúsculas y minúsculas</translation>
     </message>
     <message>
         <source>Copy</source>
         <translation>Copiar</translation>
-    </message>
-    <message>
-        <source>Cross Border</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9618,7 +11481,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -9629,8 +11492,12 @@ Header and Footer</source>
         <translation>Edición</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Emphasis mark</source>
-        <translation>Marca de énfasis</translation>
+        <translation type="obsolete">Marca de énfasis</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -9642,19 +11509,23 @@ Header and Footer</source>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Expandir formato de pegado de texto</translation>
+        <translation type="obsolete">Expandir formato de pegado de texto</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Expandir formato de pegado similar</translation>
+        <translation type="obsolete">Expandir formato de pegado similar</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Expandir pegado de texto</translation>
+        <translation type="obsolete">Expandir pegado de texto</translation>
+    </message>
+    <message>
+        <source>Find and Replace</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation>Buscar/Reemplazar</translation>
+        <translation type="obsolete">Buscar/Reemplazar</translation>
     </message>
     <message>
         <source>Font</source>
@@ -9673,6 +11544,10 @@ Header and Footer</source>
         <translation>Copiar formato</translation>
     </message>
     <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to</source>
         <translation>Ir a</translation>
     </message>
@@ -9685,12 +11560,20 @@ Header and Footer</source>
         <translation>Resaltar</translation>
     </message>
     <message>
-        <source>Horizontal Middle Border</source>
+        <source>Increase Indent</source>
+        <translation>Aumentar sangría</translation>
+    </message>
+    <message>
+        <source>Inside Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Increase Indent</source>
-        <translation>Aumentar sangría</translation>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
@@ -9707,6 +11590,10 @@ Header and Footer</source>
     <message>
         <source>Line Spacing</source>
         <translation>Espaciado entre líneas y párrafos</translation>
+    </message>
+    <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
@@ -9742,7 +11629,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Borde externo</translation>
+        <translation type="obsolete">Borde externo</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -9753,8 +11640,12 @@ Header and Footer</source>
         <translation>Párrafo</translation>
     </message>
     <message>
+        <source>Paragraph Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ParagraphTools</source>
-        <translation>Herramientas de párrafo</translation>
+        <translation type="obsolete">Herramientas de párrafo</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -9801,16 +11692,28 @@ Header and Footer</source>
         <translation>Establecer pegar predeterminado...</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shading Color</source>
         <translation>Sombreado</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>Mostrar / Ocultar marcas de formato</translation>
+        <translation type="obsolete">Mostrar / Ocultar marcas de formato</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Mostrar / Ocultar diseño de párrafo</translation>
+        <translation type="obsolete">Mostrar / Ocultar diseño de párrafo</translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Marks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -9822,11 +11725,19 @@ Header and Footer</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>Estilo</translation>
+        <translation type="obsolete">Estilo</translation>
+    </message>
+    <message>
+        <source>Styles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Estilos / Formato</translation>
+        <translation type="obsolete">Estilos / Formato</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -9857,7 +11768,7 @@ Header and Footer</source>
         <translation>Color de subrayado</translation>
     </message>
     <message>
-        <source>Vertical Middle Border</source>
+        <source>Unformatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9873,18 +11784,30 @@ Header and Footer</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>Número</translation>
+        <translation type="obsolete">Número</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
+        <source>AutoShape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Blank Page</source>
         <translation>Página en blanco</translation>
     </message>
     <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bookmarks</source>
-        <translation>Marcador</translation>
+        <translation type="obsolete">Marcador</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -9932,11 +11855,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Custom Shape</source>
-        <translation>Forma personalizada</translation>
+        <translation type="obsolete">Forma personalizada</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Fecha y hora</translation>
+        <translation type="obsolete">Fecha y hora</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -9972,7 +11899,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Opciones de campo de formulario</translation>
+        <translation type="obsolete">Opciones de campo de formulario</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -9983,16 +11914,28 @@ Header and Footer</source>
         <translation>Formularios</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gallery</source>
         <translation>Galería</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="obsolete">Horizontal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -10012,15 +11955,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation>Insertar imagen desde archivo</translation>
+        <translation type="obsolete">Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation>Insertar imagen desde escáner</translation>
+        <translation type="obsolete">Insertar imagen desde escáner</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation>Insertar escáner</translation>
+        <translation type="obsolete">Insertar escáner</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -10067,8 +12010,13 @@ Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
-        <translation>Salto de página</translation>
+        <translation type="obsolete">Salto de página</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -10092,7 +12040,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Restablecer campo de formulario</translation>
+        <translation type="obsolete">Restablecer campo de formulario</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -10124,7 +12076,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Text Form Field</source>
-        <translation>Texto de campo de formulario</translation>
+        <translation type="obsolete">Texto de campo de formulario</translation>
+    </message>
+    <message>
+        <source>Text Form field</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -10132,7 +12088,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation type="obsolete">Vertical</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -10141,6 +12097,28 @@ Header and Footer</source>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert.BlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert.TextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10170,8 +12148,12 @@ Header and Footer</source>
         <translation>Resaltar campos de combinación</translation>
     </message>
     <message>
+        <source>Insert Merge Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Merge Fields</source>
-        <translation>Insertar campo combinado</translation>
+        <translation type="obsolete">Insertar campo combinado</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
@@ -10225,12 +12207,20 @@ Different New Document</source>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>Vista previa de resultados</translation>
+        <translation type="obsolete">Vista previa de resultados</translation>
+    </message>
+    <message>
+        <source>Preview Results</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous
 Record</source>
-        <translation>Registro anterior</translation>
+        <translation type="obsolete">Registro anterior</translation>
+    </message>
+    <message>
+        <source>Previous Record</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Start Mail Merge</source>
@@ -10273,8 +12263,12 @@ Merged Data</source>
         <translation>Expandir</translation>
     </message>
     <message>
+        <source>Go to TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to ToC</source>
-        <translation>Ir a tabla de contenidos</translation>
+        <translation type="obsolete">Ir a tabla de contenidos</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -10321,8 +12315,12 @@ Merged Data</source>
         <translation>Mostrar nivel 1;Mostrar nivel 2;Mostrar nivel 3;Mostrar nivel 4;Mostrar nivel 5;Mostrar nivel 6;Mostrar nivel 7;Mostrar nivel 8;Mostrar nivel 9;Mostrar todos los niveles</translation>
     </message>
     <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update ToC</source>
-        <translation>Actualizar tabla</translation>
+        <translation type="obsolete">Actualizar tabla</translation>
     </message>
 </context>
 <context>
@@ -10358,6 +12356,10 @@ Merged Data</source>
     <message>
         <source>Arrange</source>
         <translation>Organizar</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -10400,8 +12402,12 @@ Merged Data</source>
         <translation>Salto de sección continuo</translation>
     </message>
     <message>
+        <source>Custom Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10416,12 +12422,20 @@ Merged Data</source>
         <translation>No mostrar el número de línea para la línea en blanco</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -10429,7 +12443,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10449,7 +12463,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -10492,6 +12510,10 @@ Merged Data</source>
         <translation>Más colores de relleno</translation>
     </message>
     <message>
+        <source>More Paper Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Page Section Break</source>
         <translation>Siguiente secciòn de salto de página</translation>
     </message>
@@ -10525,7 +12547,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Color de página</translation>
+        <translation type="obsolete">Color de página</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -10581,7 +12603,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size</source>
@@ -10605,7 +12635,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -10639,6 +12669,11 @@ Merged Data</source>
         <source>Ungroup</source>
         <translation>Desagrupar</translation>
     </message>
+    <message>
+        <source>Wrap
+Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_paragraph</name>
@@ -10659,20 +12694,28 @@ Merged Data</source>
         <translation>Cerrar</translation>
     </message>
     <message>
+        <source>Demote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Demote to Body Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Demote to Common Text</source>
-        <translation>Degradar a texto común</translation>
+        <translation type="obsolete">Degradar a texto común</translation>
     </message>
     <message>
         <source>Demote to Level</source>
-        <translation>Degradar a nivel</translation>
+        <translation type="obsolete">Degradar a nivel</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Directory Level</source>
-        <translation>Nivel de directorio</translation>
+        <translation type="obsolete">Nivel de directorio</translation>
     </message>
     <message>
         <source>Document Gridlines</source>
@@ -10700,7 +12743,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Loose Line Spacing</source>
-        <translation>Disminuir interlineado</translation>
+        <translation type="obsolete">Disminuir interlineado</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -10715,16 +12758,32 @@ Merged Data</source>
         <translation>Párrafo</translation>
     </message>
     <message>
+        <source>Promote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Promote to Level</source>
-        <translation>Promover a nivel</translation>
+        <translation type="obsolete">Promover a nivel</translation>
+    </message>
+    <message>
+        <source>Promote to Level 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Promote to ToC 1</source>
-        <translation>Promover a tabla de contenido 1</translation>
+        <translation type="obsolete">Promover a tabla de contenido 1</translation>
+    </message>
+    <message>
+        <source>Reduce Line Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reduced Line Spacing</source>
-        <translation>Reducción de interlineado</translation>
+        <translation type="obsolete">Reducción de interlineado</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -10736,7 +12795,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Estilos / Formato</translation>
+        <translation type="obsolete">Estilos / Formato</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight</source>
@@ -10744,7 +12811,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation>Interlineado ajustado</translation>
+        <translation type="obsolete">Interlineado ajustado</translation>
     </message>
 </context>
 <context>
@@ -10870,16 +12937,20 @@ Merged Data</source>
         <translation>Guión</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Guión-Punto</translation>
+        <translation type="obsolete">Guión-Punto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10890,16 +12961,28 @@ Merged Data</source>
         <translation>Distribuir verticalmente</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10923,7 +13006,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -10974,12 +13061,20 @@ Merged Data</source>
         <translation>Guión largo</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Guión-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Guión-Punto-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -11010,6 +13105,26 @@ Merged Data</source>
         <translation>Sin sombra</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>Trama</translation>
     </message>
@@ -11023,15 +13138,15 @@ Merged Data</source>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation>Ajustar imagen</translation>
+        <translation type="obsolete">Ajustar imagen</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Relleno de imagen</translation>
+        <translation type="obsolete">Relleno de imagen</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Contorno de imagen</translation>
+        <translation type="obsolete">Contorno de imagen</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -11083,15 +13198,27 @@ Merged Data</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <translation>Definir color transparente</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Color de sombra</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -11103,7 +13230,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo de sombra</translation>
+        <translation type="obsolete">Estilo de sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -11187,19 +13314,19 @@ Merged Data</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Desplazar sombra hacia abajo</translation>
+        <translation type="obsolete">Desplazar sombra hacia abajo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Desplazar sombra hacia la izquierda</translation>
+        <translation type="obsolete">Desplazar sombra hacia la izquierda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Desplazar sombra hacia la derecha</translation>
+        <translation type="obsolete">Desplazar sombra hacia la derecha</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Desplazar sombra hacia arriba</translation>
+        <translation type="obsolete">Desplazar sombra hacia arriba</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11215,7 +13342,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -11246,8 +13373,16 @@ Merged Data</source>
         <translation>Tipo compuesto</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Estilo de ajuste</translation>
+        <translation type="obsolete">Estilo de ajuste</translation>
     </message>
 </context>
 <context>
@@ -11258,7 +13393,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Cerrar vista preliminar</translation>
+        <translation type="obsolete">Cerrar vista preliminar</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -11297,29 +13432,45 @@ Merged Data</source>
     </message>
     <message>
         <source>Captions</source>
-        <translation>Títulos</translation>
+        <translation type="obsolete">Títulos</translation>
     </message>
     <message>
         <source>Cross-reference</source>
         <translation>Referencia cruzada</translation>
     </message>
     <message>
+        <source>Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnotes</source>
-        <translation>Notas al pie</translation>
+        <translation type="obsolete">Notas al pie</translation>
     </message>
     <message>
         <source>Insert
 Footnote/Endnote</source>
-        <translation>Insertar Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Insertar Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Footnote</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Footnote
 and Endnote</source>
-        <translation>Insertar nota al pie y nota al final</translation>
+        <translation type="obsolete">Insertar nota al pie y nota al final</translation>
+    </message>
+    <message>
+        <source>Insert TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation>Insertar tabla de contenido</translation>
+        <translation type="obsolete">Insertar tabla de contenido</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -11366,16 +13517,44 @@ and Endnote</source>
         <translation>Buzoneo</translation>
     </message>
     <message>
+        <source>Next Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Footnote/Endnote</source>
-        <translation>Siguiente Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Siguiente Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>Previous Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Footnote/Endnote</source>
-        <translation>Mostrar Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Mostrar Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>Show Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
         <translation>Mostrar u ocultar separador de Nota al pie/Nota al final</translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -11383,11 +13562,15 @@ and Endnote</source>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation>Agregar texto</translation>
+        <translation type="obsolete">Agregar texto</translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Actualizar tabla</translation>
+        <translation type="obsolete">Actualizar tabla</translation>
     </message>
 </context>
 <context>
@@ -11405,8 +13588,12 @@ and Endnote</source>
         <translation>Aceptar cambio</translation>
     </message>
     <message>
+        <source>Accept Selected Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Accept Selection Change</source>
-        <translation>Aceptar cambio de selección</translation>
+        <translation type="obsolete">Aceptar cambio de selección</translation>
     </message>
     <message>
         <source>All Reviewers</source>
@@ -11414,7 +13601,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Change And Comment</source>
-        <translation>Cambiar y comentar</translation>
+        <translation type="obsolete">Cambiar y comentar</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
@@ -11426,11 +13613,15 @@ and Endnote</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Ortografía y gramática</translation>
+        <translation type="obsolete">Ortografía y gramática</translation>
+    </message>
+    <message>
+        <source>Chinese Transition</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Traducción chino</translation>
+        <translation type="obsolete">Traducción chino</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -11446,7 +13637,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Eliminar</translation>
+        <translation type="obsolete">Eliminar</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -11457,8 +13648,16 @@ and Endnote</source>
         <translation>Eliminar comentario</translation>
     </message>
     <message>
+        <source>Delete Comment@Review-&gt;Delete-&gt;Delete Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Display For Review</source>
-        <translation>Mostrar para revisión</translation>
+        <translation type="obsolete">Mostrar para revisión</translation>
+    </message>
+    <message>
+        <source>Display for Review</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -11538,15 +13737,27 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>Mostrar la información del revisor en el globo</translation>
+        <translation type="obsolete">Mostrar la información del revisor en el globo</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
         <translation>Mostrar revisiones en globos</translation>
     </message>
     <message>
+        <source>Show Revisor Information in Balloons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Track Changes</source>
         <translation>Control de cambios</translation>
+    </message>
+    <message>
+        <source>Tracking</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -11561,11 +13772,15 @@ and Endnote</source>
     <name>rainbow.ct_section</name>
     <message>
         <source> Contents Page</source>
-        <translation>Tabla de contenido</translation>
+        <translation type="obsolete">Tabla de contenido</translation>
     </message>
     <message>
         <source>Columns</source>
         <translation>Columnas</translation>
+    </message>
+    <message>
+        <source>Contents Page</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -11576,8 +13791,12 @@ and Endnote</source>
         <translation>Portada</translation>
     </message>
     <message>
+        <source>Cover and TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cover and ToC</source>
-        <translation>Portada y tabla de contenidos</translation>
+        <translation type="obsolete">Portada y tabla de contenidos</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -11585,7 +13804,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -11600,8 +13819,12 @@ and Endnote</source>
         <translation>Primera sección</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -11688,16 +13911,24 @@ and Endnote</source>
         <translation>Reiniciar número de página</translation>
     </message>
     <message>
+        <source>Section Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Section Manager</source>
-        <translation>Administrador de sección</translation>
+        <translation type="obsolete">Administrador de sección</translation>
     </message>
     <message>
         <source>Section Navigation</source>
         <translation>Sección de navegación</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>Mostrar / Ocultar sección de navegación</translation>
+        <translation type="obsolete">Mostrar / Ocultar sección de navegación</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -11705,7 +13936,11 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Mostrar línea de encabezado</translation>
+        <translation type="obsolete">Mostrar línea de encabezado</translation>
+    </message>
+    <message>
+        <source>Show/Hide Section Navigation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -11739,6 +13974,10 @@ and Endnote</source>
         <translation>Color 3D</translation>
     </message>
     <message>
+        <source>3-D Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D On/Off</source>
         <translation>Activar/Desactiar 3D</translation>
     </message>
@@ -11748,7 +13987,7 @@ and Endnote</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Estilo de 3D </translation>
+        <translation type="obsolete">Estilo de 3D </translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -11895,6 +14134,22 @@ and Endnote</source>
         <translation>Normal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Paralelo</translation>
     </message>
@@ -11915,6 +14170,10 @@ and Endnote</source>
         <translation>Color de sombra</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On/Off</source>
         <translation>Activar/Desactivar sombra</translation>
     </message>
@@ -11924,7 +14183,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo de sombra</translation>
+        <translation type="obsolete">Estilo de sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -12008,19 +14267,19 @@ and Endnote</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Desplazar sombra hacia abajo</translation>
+        <translation type="obsolete">Desplazar sombra hacia abajo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Desplazar sombra hacia la izquierda</translation>
+        <translation type="obsolete">Desplazar sombra hacia la izquierda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Desplazar sombra hacia la derecha</translation>
+        <translation type="obsolete">Desplazar sombra hacia la derecha</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Desplazar sombra hacia arriba</translation>
+        <translation type="obsolete">Desplazar sombra hacia arriba</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12127,7 +14386,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -12178,16 +14437,24 @@ and Endnote</source>
         <translation>Min</translation>
     </message>
     <message>
+        <source>Repeat Header Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Repeat Headings</source>
-        <translation>Repetir encabezamientos</translation>
+        <translation type="obsolete">Repetir encabezamientos</translation>
     </message>
     <message>
         <source>Rows</source>
         <translation>Filas</translation>
     </message>
     <message>
+        <source>Rows and Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rows/Columns</source>
-        <translation>Filas/Columnas</translation>
+        <translation type="obsolete">Filas/Columnas</translation>
     </message>
     <message>
         <source>Select</source>
@@ -12212,6 +14479,10 @@ and Endnote</source>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Seleccionar tabla con bordes discontinuos</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -12243,7 +14514,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation>Tablas</translation>
+        <translation type="obsolete">Tablas</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -12275,7 +14546,12 @@ and Endnote</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation>Cerrar otra ventana</translation>
+        <translation type="obsolete">Cerrar otra ventana</translation>
+    </message>
+    <message>
+        <source>Close
+Other Windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -12295,7 +14571,11 @@ Other Window</source>
     </message>
     <message>
         <source>Document View</source>
-        <translation>Vista de documento</translation>
+        <translation type="obsolete">Vista de documento</translation>
+    </message>
+    <message>
+        <source>Document Views</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -12303,11 +14583,15 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Líneas de división</translation>
+        <translation type="obsolete">Líneas de división</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Organizar horizontalmente</translation>
+        <translation type="obsolete">Organizar horizontalmente</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -12379,11 +14663,19 @@ Other Window</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>Cambiar ventana</translation>
+        <translation type="obsolete">Cambiar ventana</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
         <translation>Desplazamiento sincrónico</translation>
+    </message>
+    <message>
+        <source>Table Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -12394,8 +14686,12 @@ Other Window</source>
         <translation>Dos páginas</translation>
     </message>
     <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical Arrange</source>
-        <translation>Organizar verticalmente</translation>
+        <translation type="obsolete">Organizar verticalmente</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -12437,6 +14733,11 @@ Other Window</source>
         <translation>288 pto</translation>
     </message>
     <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
         <translation>Color 3D</translation>
     </message>
@@ -12450,7 +14751,7 @@ Other Window</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Estilo de 3D</translation>
+        <translation type="obsolete">Estilo de 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -12597,6 +14898,22 @@ Other Window</source>
         <translation>Normal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Paralelo</translation>
     </message>
@@ -12613,8 +14930,18 @@ Other Window</source>
         <translation>Sombra semitransparente</translation>
     </message>
     <message>
+        <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>Color de sombra</translation>
+        <translation type="obsolete">Color de sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -12626,7 +14953,7 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Estilo de sombra</translation>
+        <translation type="obsolete">Estilo de sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -12710,19 +15037,19 @@ Other Window</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Desplazar sombra hacia abajo</translation>
+        <translation type="obsolete">Desplazar sombra hacia abajo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Desplazar sombra hacia la izquierda</translation>
+        <translation type="obsolete">Desplazar sombra hacia la izquierda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Desplazar sombra hacia la derecha</translation>
+        <translation type="obsolete">Desplazar sombra hacia la derecha</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Desplazar sombra hacia arriba</translation>
+        <translation type="obsolete">Desplazar sombra hacia arriba</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12841,7 +15168,7 @@ Other Window</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Botón (Fino)</translation>
+        <translation type="obsolete">Botón (Fino)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
@@ -12858,6 +15185,10 @@ Other Window</source>
     <message>
         <source>Bring to Front</source>
         <translation>Traer al frente</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -12878,6 +15209,10 @@ Other Window</source>
     <message>
         <source>Center Alignment</source>
         <translation>Alineación centrada</translation>
+    </message>
+    <message>
+        <source>Character Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -12912,12 +15247,16 @@ Other Window</source>
         <translation>Guión</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Guión-Punto</translation>
+        <translation type="obsolete">Guión-Punto</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -12941,7 +15280,7 @@ Other Window</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ajustes detallados</translation>
+        <translation type="obsolete">Ajustes detallados</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -12964,16 +15303,24 @@ Other Window</source>
         <translation>Editar texto</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Igual tamaño</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mismo ancho</translation>
+        <translation type="obsolete">Mismo ancho</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -13009,7 +15356,11 @@ Other Window</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -13045,7 +15396,7 @@ Other Window</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>Insertar WordArt</translation>
+        <translation type="obsolete">Insertar WordArt</translation>
     </message>
     <message>
         <source>Left Alignment</source>
@@ -13060,12 +15411,20 @@ Other Window</source>
         <translation>Guión largo</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Guión-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto largo</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Guión-Punto-Punto largo</translation>
+        <translation type="obsolete">Guión-Punto-Punto largo</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -13136,6 +15495,10 @@ Other Window</source>
         <translation>Punto redondo</translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
         <translation>Panel de selección</translation>
     </message>
@@ -13149,7 +15512,15 @@ Other Window</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -13181,7 +15552,7 @@ Other Window</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -13193,7 +15564,15 @@ Other Window</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Estrecho</translation>
+        <translation type="obsolete">Estrecho</translation>
+    </message>
+    <message>
+        <source>Tight@Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight@Wrapping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -13245,7 +15624,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>Espaciado entre caracteres de WordArt</translation>
+        <translation type="obsolete">Espaciado entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
@@ -13261,7 +15640,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>Alto de letra de WordArt</translation>
+        <translation type="obsolete">Alto de letra de WordArt</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -13280,27 +15659,51 @@ Other Window</source>
         <translation>Texto vertical de WordArt</translation>
     </message>
     <message>
+        <source>WordArt@Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Estilo de ajuste</translation>
+        <translation type="obsolete">Estilo de ajuste</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Auto Backup</source>
-        <translation>Autorrecuperación</translation>
+        <translation type="obsolete">Autorrecuperación</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>Comentarios de la nube</translation>
+        <translation type="obsolete">Comentarios de la nube</translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Explorar directorio de respaldos</translation>
+        <translation type="obsolete">Explorar directorio de respaldos</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Explorar versiones de respaldos</translation>
+        <translation type="obsolete">Explorar versiones de respaldos</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -13308,7 +15711,15 @@ Other Window</source>
     </message>
     <message>
         <source>File Auto Backup</source>
-        <translation>Guardar archivo de autorrecuperación</translation>
+        <translation type="obsolete">Guardar archivo de autorrecuperación</translation>
+    </message>
+    <message>
+        <source>File Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
@@ -13316,19 +15727,19 @@ Other Window</source>
     </message>
     <message>
         <source>Help us improve our product.</source>
-        <translation>Ayudenos a mejorar nuestro producto.</translation>
+        <translation type="obsolete">Ayudenos a mejorar nuestro producto.</translation>
     </message>
     <message>
-        <source>KOS Create Cloud Link</source>
+        <source>Help us to improve WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation>Mi cuenta KOS</translation>
+        <translation type="obsolete">Mi cuenta KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>Consejo de mi cuenta KOS</translation>
+        <translation type="obsolete">Consejo de mi cuenta KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -13336,15 +15747,19 @@ Other Window</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>Manual Backup</source>
         <translation>Respaldo manual</translation>
     </message>
     <message>
+        <source>More from Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
-        <translation>No has iniciado sesión</translation>
+        <translation type="obsolete">No has iniciado sesión</translation>
     </message>
     <message>
         <source>Online Documents</source>
@@ -13352,67 +15767,107 @@ Other Window</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Abrir desde la nube</translation>
+        <translation type="obsolete">Abrir desde la nube</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Guardar archivo en la nube</translation>
+        <translation type="obsolete">Guardar archivo en la nube</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Detener auto respaldo</translation>
+        <translation type="obsolete">Detener auto respaldo</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Guide</source>
         <translation>Guía del usuario</translation>
     </message>
     <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSpace_Backup</source>
-        <translation>Autorrecuperación de espacio de trabajo</translation>
+        <translation type="obsolete">Autorrecuperación de espacio de trabajo</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>Abrir Weibo</translation>
+        <translation type="obsolete">Abrir Weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>Compartir Weibo</translation>
+        <translation type="obsolete">Compartir Weibo</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation>Herramienta Weibo</translation>
+        <translation type="obsolete">Herramienta Weibo</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
-        <translation>Diseño Wps Weibo</translation>
+        <translation type="obsolete">Diseño Wps Weibo</translation>
     </message>
 </context>
 <context>
     <name>tips.100%</name>
     <message>
         <source>100%</source>
-        <translation>100%</translation>
+        <translation type="obsolete">100%</translation>
     </message>
     <message>
         <source>Zoom the document to 100% of the normal size.</source>
-        <translation>Aplique un zoom del 100% del tamaño normal al documento.</translation>
+        <translation type="obsolete">Aplique un zoom del 100% del tamaño normal al documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DColor</name>
     <message>
         <source>3-D color</source>
-        <translation>Color 3D</translation>
+        <translation type="obsolete">Color 3D</translation>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
-        <translation>Haga clic en la flecha para seleccionar entre diferentes colores 3-D.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar entre diferentes colores 3-D.</translation>
     </message>
     <message>
         <source>Fill the selected 3-D shape with color.
 
 Click the arrow to select from different 3-D colors.</source>
-        <translation>Rellenar la forma 3-D seleccionada con color.
+        <translation type="obsolete">Rellenar la forma 3-D seleccionada con color.
 
 Haga clic en la flecha para seleccionar entre diferentes colores 3-D.</translation>
     </message>
@@ -13421,281 +15876,281 @@ Haga clic en la flecha para seleccionar entre diferentes colores 3-D.</translati
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Change the height of the selected 3-D shape.</source>
-        <translation>Cambiar el alto de la forma en 3-D seleccionada.</translation>
+        <translation type="obsolete">Cambiar el alto de la forma en 3-D seleccionada.</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Profundidad</translation>
+        <translation type="obsolete">Profundidad</translation>
     </message>
 </context>
 <context>
     <name>tips.3DDirectionPalette</name>
     <message>
         <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation>Elija el efecto de dirección de la Forma en 3-D seleccionada.</translation>
+        <translation type="obsolete">Elija el efecto de dirección de la Forma en 3-D seleccionada.</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Dirección</translation>
+        <translation type="obsolete">Dirección</translation>
     </message>
 </context>
 <context>
     <name>tips.3DLightingPalette</name>
     <message>
         <source>Lighting Angle</source>
-        <translation>Ángulo de iluminación</translation>
+        <translation type="obsolete">Ángulo de iluminación</translation>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation>Ajuste la dirección de la iluminación para la forma seleccionada 3-D, y la fuerza de iluminación, incluyendo brillo, la iluminación normal y tenue.</translation>
+        <translation type="obsolete">Ajuste la dirección de la iluminación para la forma seleccionada 3-D, y la fuerza de iluminación, incluyendo brillo, la iluminación normal y tenue.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DOnOff</name>
     <message>
         <source>3-D On/Off</source>
-        <translation>Activar/Desactivar 3D</translation>
+        <translation type="obsolete">Activar/Desactivar 3D</translation>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation>Activar o desactivar el efecto 3-D aplicado a la forma.</translation>
+        <translation type="obsolete">Activar o desactivar el efecto 3-D aplicado a la forma.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DStylePalette</name>
     <message>
         <source>3-D Effects</source>
-        <translation>Efectos 3D</translation>
+        <translation type="obsolete">Efectos 3D</translation>
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
-        <translation>Añadir un efecto 3-D a la forma.</translation>
+        <translation type="obsolete">Añadir un efecto 3-D a la forma.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DSurfaceMenu</name>
     <message>
         <source>Choose a surface effect for the selected 3-D shape in the document.</source>
-        <translation>Elija un efecto de superficie para la forma en 3-D seleccionada en el documento.</translation>
+        <translation type="obsolete">Elija un efecto de superficie para la forma en 3-D seleccionada en el documento.</translation>
     </message>
     <message>
         <source>Surface Effects</source>
-        <translation>Efectos de Superficie</translation>
+        <translation type="obsolete">Efectos de Superficie</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltDown</name>
     <message>
         <source>Tilt Down</source>
-        <translation>Inclinar hacia abajo</translation>
+        <translation type="obsolete">Inclinar hacia abajo</translation>
     </message>
     <message>
         <source>Tilt the shape forward.</source>
-        <translation>Incline la forma hacia adelante.</translation>
+        <translation type="obsolete">Incline la forma hacia adelante.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltLeft</name>
     <message>
         <source>Tilt Left</source>
-        <translation>Inclinar hacia la izquierda</translation>
+        <translation type="obsolete">Inclinar hacia la izquierda</translation>
     </message>
     <message>
         <source>Tilt the shape to the left.</source>
-        <translation>Incline la forma a la izquierda.</translation>
+        <translation type="obsolete">Incline la forma a la izquierda.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltRight</name>
     <message>
         <source>Tilt Right</source>
-        <translation>Inclinar hacia la derecha</translation>
+        <translation type="obsolete">Inclinar hacia la derecha</translation>
     </message>
     <message>
         <source>Tilt the shape to the right.</source>
-        <translation>Incline la forma a la derecha.</translation>
+        <translation type="obsolete">Incline la forma a la derecha.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltUp</name>
     <message>
         <source>Tilt Up</source>
-        <translation>Inclinar hacia la arriba</translation>
+        <translation type="obsolete">Inclinar hacia la arriba</translation>
     </message>
     <message>
         <source>Tilt the shape backward.</source>
-        <translation>Incline la forma hacia atrás.</translation>
+        <translation type="obsolete">Incline la forma hacia atrás.</translation>
     </message>
 </context>
 <context>
     <name>tips.AcceptChangeOnTB</name>
     <message>
         <source>Accept the current change in the document.</source>
-        <translation>Acepte el cambio actual en el documento.</translation>
+        <translation type="obsolete">Acepte el cambio actual en el documento.</translation>
     </message>
     <message>
         <source>Accept the selected change</source>
-        <translation>Aceptar el cambio seleccionado</translation>
+        <translation type="obsolete">Aceptar el cambio seleccionado</translation>
     </message>
     <message>
         <source>Click the arrow to accept all changes in the document.</source>
-        <translation>Haga clic en la flecha para aceptar todos los cambios en el documento.</translation>
+        <translation type="obsolete">Haga clic en la flecha para aceptar todos los cambios en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.AdjustTableProperties</name>
     <message>
         <source>Open the Table Properties dialog box.</source>
-        <translation>Abrir el cuadro de diálogo propiedades de la tabla.</translation>
+        <translation type="obsolete">Abrir el cuadro de diálogo propiedades de la tabla.</translation>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation>Propiedades de tabla</translation>
+        <translation type="obsolete">Propiedades de tabla</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottomCenter</name>
     <message>
         <source>Align Bottom Center</source>
-        <translation>Alinear en la parte inferior al centro</translation>
+        <translation type="obsolete">Alinear en la parte inferior al centro</translation>
     </message>
     <message>
         <source>Center text and align it to the bottom of the cell.</source>
-        <translation>Centrar el texto y alinear a la parte inferior de la celda.</translation>
+        <translation type="obsolete">Centrar el texto y alinear a la parte inferior de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottomJustified</name>
     <message>
         <source>Align Bottom Justified</source>
-        <translation>Alinear en la parte inferior justificado</translation>
+        <translation type="obsolete">Alinear en la parte inferior justificado</translation>
     </message>
     <message>
         <source>Align text to the bottom left corner of the cell.</source>
-        <translation>Alinear el texto a la esquina inferior izquierda de la celda.</translation>
+        <translation type="obsolete">Alinear el texto a la esquina inferior izquierda de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottomRight</name>
     <message>
         <source>Align Bottom Right</source>
-        <translation>Alinear en la parte inferior derecha</translation>
+        <translation type="obsolete">Alinear en la parte inferior derecha</translation>
     </message>
     <message>
         <source>Align text to the bottom right corner of the cell.</source>
-        <translation>Alinear el texto a la esquina inferior derecha de la celda.</translation>
+        <translation type="obsolete">Alinear el texto a la esquina inferior derecha de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenter</name>
     <message>
         <source>Align Center</source>
-        <translation>Alinear al medio</translation>
+        <translation type="obsolete">Alinear al medio</translation>
     </message>
     <message>
         <source>Center text vertically and horizontally within the cell.</source>
-        <translation>Centrar el texto verticalmente y horizontalmente dentro de la celda.</translation>
+        <translation type="obsolete">Centrar el texto verticalmente y horizontalmente dentro de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenterJustified</name>
     <message>
         <source>Align Center Justified</source>
-        <translation>Alinear al centro justificado</translation>
+        <translation type="obsolete">Alinear al centro justificado</translation>
     </message>
     <message>
         <source>Center text vertically and align it to the left side of the cell.</source>
-        <translation>Centrar el texto verticalmente y alinear a la izquierda de la celda.</translation>
+        <translation type="obsolete">Centrar el texto verticalmente y alinear a la izquierda de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenterRight</name>
     <message>
         <source>Align Center Right</source>
-        <translation>Alinear centrado a la derecha</translation>
+        <translation type="obsolete">Alinear centrado a la derecha</translation>
     </message>
     <message>
         <source>Center text and align it to the right side of the cell.</source>
-        <translation>Centrar el texto y alinearlo hacia el lado derecho de la celda.</translation>
+        <translation type="obsolete">Centrar el texto y alinearlo hacia el lado derecho de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignStyle</name>
     <message>
         <source>AlignStyle Content</source>
-        <translation>Alinear el estilo de contenido</translation>
+        <translation type="obsolete">Alinear el estilo de contenido</translation>
     </message>
     <message>
         <source>AlignStyle Title</source>
-        <translation>Alinear titulo de estilo</translation>
+        <translation type="obsolete">Alinear titulo de estilo</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTopCenter</name>
     <message>
         <source>Align Top Center</source>
-        <translation>Alinear en la parte superior al centro</translation>
+        <translation type="obsolete">Alinear en la parte superior al centro</translation>
     </message>
     <message>
         <source>Center text and align it to the top of the cell.</source>
-        <translation>Centrar el texto y alinearlo con la parte superior de la celda.</translation>
+        <translation type="obsolete">Centrar el texto y alinearlo con la parte superior de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTopJustified</name>
     <message>
         <source>Align Top Justified</source>
-        <translation>Alinear en la parte superior justificado</translation>
+        <translation type="obsolete">Alinear en la parte superior justificado</translation>
     </message>
     <message>
         <source>Align text to the top left corner of the cell.</source>
-        <translation>Alinear el texto a la esquina superior izquierda de la celda.</translation>
+        <translation type="obsolete">Alinear el texto a la esquina superior izquierda de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTopRight</name>
     <message>
         <source>Align Top Right</source>
-        <translation>Alinear en la parte superior derecha</translation>
+        <translation type="obsolete">Alinear en la parte superior derecha</translation>
     </message>
     <message>
         <source>Align text to the top right corner of the cell.</source>
-        <translation>Alinear el texto a la esquina superior derecha de la celda.</translation>
+        <translation type="obsolete">Alinear el texto a la esquina superior derecha de la celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation>Organizar todo</translation>
+        <translation type="obsolete">Organizar todo</translation>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
-        <translation>Coloca en mosaico todas las ventanas de los programas abiertos en paralelo en la pantalla.</translation>
+        <translation type="obsolete">Coloca en mosaico todas las ventanas de los programas abiertos en paralelo en la pantalla.</translation>
     </message>
 </context>
 <context>
     <name>tips.ArtisticWordCharacterSpacing</name>
     <message>
         <source>Change the spacing between the letters of the selected WordArt text.</source>
-        <translation>Cambiar el espaciado entre las letras del texto de WordArt seleccionado.</translation>
+        <translation type="obsolete">Cambiar el espaciado entre las letras del texto de WordArt seleccionado.</translation>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation>Espacio entre caracteres</translation>
+        <translation type="obsolete">Espacio entre caracteres</translation>
     </message>
 </context>
 <context>
     <name>tips.AutoAdjustRightIndent</name>
     <message>
         <source>Adjust Right Indent with grid</source>
-        <translation>Ajustar sangría derecha con la cuadrícula</translation>
+        <translation type="obsolete">Ajustar sangría derecha con la cuadrícula</translation>
     </message>
     <message>
         <source>Automactically adjust the document right indent when the document grid is defined.
 
 This option is available when grid is defined.</source>
-        <translation>Ajustar automáticamente la sangría derecha en el documento cuando se define la cuadrícula del documento.
+        <translation type="obsolete">Ajustar automáticamente la sangría derecha en el documento cuando se define la cuadrícula del documento.
 
 Esta opción está disponible cuando se define la cuadrícula.</translation>
     </message>
@@ -13704,98 +16159,98 @@ Esta opción está disponible cuando se define la cuadrícula.</translation>
     <name>tips.AutoFitWindow</name>
     <message>
         <source>AutoFit to Window</source>
-        <translation>Autoajustar a la ventana</translation>
+        <translation type="obsolete">Autoajustar a la ventana</translation>
     </message>
     <message>
         <source>Automatically adjust the table width according to the window size</source>
-        <translation>Ajustar automáticamente el ancho de la tabla según el tamaño de la ventana</translation>
+        <translation type="obsolete">Ajustar automáticamente el ancho de la tabla según el tamaño de la ventana</translation>
     </message>
 </context>
 <context>
     <name>tips.AutoVersion</name>
     <message>
         <source>Enable Auto Backup</source>
-        <translation>Activar la copia de seguridad automática</translation>
+        <translation type="obsolete">Activar la copia de seguridad automática</translation>
     </message>
     <message>
         <source>Enable auto backup for the current document, save backup file to File Safe each time the document is closed.</source>
-        <translation>Habilita la copia de seguridad automática para el documento actual, guarda el archivo de copia de seguridad a un archivo seguro cada vez que se cierra el documento.</translation>
+        <translation type="obsolete">Habilita la copia de seguridad automática para el documento actual, guarda el archivo de copia de seguridad a un archivo seguro cada vez que se cierra el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.Autobackup</name>
     <message>
         <source>A brief introduction to File Safe.</source>
-        <translation>Una breve introducción a archivo seguro.</translation>
+        <translation type="obsolete">Una breve introducción a archivo seguro.</translation>
     </message>
     <message>
         <source>File Safe</source>
-        <translation>Archivo seguro</translation>
+        <translation type="obsolete">Archivo seguro</translation>
     </message>
 </context>
 <context>
     <name>tips.BackgroundShapeFillColor</name>
     <message>
         <source>Choose a color for the background of the page.</source>
-        <translation>Selecciona un color para el fondo de la página.</translation>
+        <translation type="obsolete">Selecciona un color para el fondo de la página.</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Color de página</translation>
+        <translation type="obsolete">Color de página</translation>
     </message>
 </context>
 <context>
     <name>tips.Bold</name>
     <message>
         <source>Bold</source>
-        <translation>Negrita</translation>
+        <translation type="obsolete">Negrita</translation>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation>Aplica el formato de negrita al texto seleccionado.</translation>
+        <translation type="obsolete">Aplica el formato de negrita al texto seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.BreakForwardLink</name>
     <message>
         <source>Break Forward Link</source>
-        <translation>Romper vínculo hacia delante</translation>
+        <translation type="obsolete">Romper vínculo hacia delante</translation>
     </message>
     <message>
         <source>Break the link between selected text box and other text box, and place all the text within the current text box.</source>
-        <translation>Romper el vínculo entre el cuadro de texto seleccionado y otro cuadro de texto y colocar todo el texto en el cuadro de texto actual.</translation>
+        <translation type="obsolete">Romper el vínculo entre el cuadro de texto seleccionado y otro cuadro de texto y colocar todo el texto en el cuadro de texto actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.BringForward</name>
     <message>
         <source>Bring Forward</source>
-        <translation>Traer adelante</translation>
+        <translation type="obsolete">Traer adelante</translation>
     </message>
     <message>
         <source>Bring forward the selected object, or place it in front of all other objects.</source>
-        <translation>Traer el objeto seleccionado, o colocarlo delante de todos los demás objetos.</translation>
+        <translation type="obsolete">Traer el objeto seleccionado, o colocarlo delante de todos los demás objetos.</translation>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
-        <translation>Trae el objeto seleccionado hacia adelante de forma que quede oculto detrás de menos objetos.</translation>
+        <translation type="obsolete">Trae el objeto seleccionado hacia adelante de forma que quede oculto detrás de menos objetos.</translation>
     </message>
 </context>
 <context>
     <name>tips.Bullets</name>
     <message>
         <source>Bullets</source>
-        <translation>Viñetas</translation>
+        <translation type="obsolete">Viñetas</translation>
     </message>
     <message>
         <source>Click the arrow to choose different bullet styles.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</translation>
     </message>
     <message>
         <source>Start a bulleted list.
 
 Click the arrow to choose different bullet styles.</source>
-        <translation>Inicia una lista con viñetas.
+        <translation type="obsolete">Inicia una lista con viñetas.
 
 Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</translation>
     </message>
@@ -13804,79 +16259,79 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
     <name>tips.COMAddIns</name>
     <message>
         <source>Add or delete available COM Add-Ins.</source>
-        <translation>Agregar o eliminar COM Add-Ins disponibles.</translation>
+        <translation type="obsolete">Agregar o eliminar COM Add-Ins disponibles.</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>Add-Ins</translation>
+        <translation type="obsolete">Add-Ins</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_DesignMode</name>
     <message>
         <source>Design Mode</source>
-        <translation>Modo diseño</translation>
+        <translation type="obsolete">Modo diseño</translation>
     </message>
     <message>
         <source>Enter design mode to edit controls name and functions.</source>
-        <translation>Entre en el modo de diseño para editar nombre de los controles y funciones.</translation>
+        <translation type="obsolete">Entre en el modo de diseño para editar nombre de los controles y funciones.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_MoreControls</name>
     <message>
         <source>Click here to insert a control from the set of controls available on this computer.</source>
-        <translation>Haga clic aquí para insertar un control del conjunto de controles disponibles en este equipo.</translation>
+        <translation type="obsolete">Haga clic aquí para insertar un control del conjunto de controles disponibles en este equipo.</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation>Más controles</translation>
+        <translation type="obsolete">Más controles</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_Property</name>
     <message>
         <source>Controls Property</source>
-        <translation>Propiedades de controles</translation>
+        <translation type="obsolete">Propiedades de controles</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
-        <translation>Ver y editar las propiedades de los controles seleccionados.</translation>
+        <translation type="obsolete">Ver y editar las propiedades de los controles seleccionados.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
-        <translation>Iniciar el editor de Visual Basic para modificar el código de los controles seleccionados.</translation>
+        <translation type="obsolete">Iniciar el editor de Visual Basic para modificar el código de los controles seleccionados.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Ver código</translation>
+        <translation type="obsolete">Ver código</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -13885,292 +16340,292 @@ Haga clic en la flecha para seleccionar diferentes estilos de viñetas.</transla
         <source>Change all the selected text to UPPERCASE, lowercase or other common capitalizations.
 
 Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Border options.</source>
-        <translation>Cambie todo el texto seleccionado a mayúsculas, minúsculas o en otras capitalizaciones comunes.
+        <translation type="obsolete">Cambie todo el texto seleccionado a mayúsculas, minúsculas o en otras capitalizaciones comunes.
 
 Haga clic en la flecha para elegir Guía fonética, encerrar caracteres y opciones de bordes de caracteres.</translation>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Cambiar mayúsculas y minúsculas</translation>
+        <translation type="obsolete">Cambiar mayúsculas y minúsculas</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>Cambiar imagen</translation>
+        <translation type="obsolete">Cambiar imagen</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
-        <translation>Cambiar a una imagen diferente, que preserva el formato y el tamaño de la imagen actual.</translation>
+        <translation type="obsolete">Cambiar a una imagen diferente, que preserva el formato y el tamaño de la imagen actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangeTextDirection</name>
     <message>
         <source>Customize the text layout direction in the current section, the entire document, or the selected text box and table.</source>
-        <translation>Cambia la orientación del texto a vertical o apilado, o lo gira en la dirección deseada.</translation>
+        <translation type="obsolete">Cambia la orientación del texto a vertical o apilado, o lo gira en la dirección deseada.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Dirección del texto</translation>
+        <translation type="obsolete">Dirección del texto</translation>
     </message>
 </context>
 <context>
     <name>tips.CharacterBorder</name>
     <message>
         <source>Apply a border around a set of characters or sentence.</source>
-        <translation>Aplicar un borde alrededor de un conjunto de caracteres o enunciado.</translation>
+        <translation type="obsolete">Aplicar un borde alrededor de un conjunto de caracteres o enunciado.</translation>
     </message>
     <message>
         <source>Character Border</source>
-        <translation>Borde de carácter</translation>
+        <translation type="obsolete">Borde de carácter</translation>
     </message>
 </context>
 <context>
     <name>tips.CharacterShading</name>
     <message>
         <source>Character Shading</source>
-        <translation>Sombreado de carácter</translation>
+        <translation type="obsolete">Sombreado de carácter</translation>
     </message>
     <message>
         <source>Shade the selected text with gray color.</source>
-        <translation>Sombrear el texto seleccionado con color gris.</translation>
+        <translation type="obsolete">Sombrear el texto seleccionado con color gris.</translation>
     </message>
 </context>
 <context>
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Ortografía y gramática</translation>
+        <translation type="obsolete">Ortografía y gramática</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
-        <translation>Comprueba la ortografía y gramática del texto en el documento.</translation>
+        <translation type="obsolete">Comprueba la ortografía y gramática del texto en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.Chinese Translation</name>
     <message>
         <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation>Configurar la traducción al Chino simplificado tradicional basado en el carácter o palabra.</translation>
+        <translation type="obsolete">Configurar la traducción al Chino simplificado tradicional basado en el carácter o palabra.</translation>
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
-        <translation>Simplificar a Chino tradicional</translation>
+        <translation type="obsolete">Simplificar a Chino tradicional</translation>
     </message>
 </context>
 <context>
     <name>tips.CleanLineSpacing</name>
     <message>
         <source>Apply single line spacing to the selected paragraph and snap to the grid.</source>
-        <translation>Aplicar interlineado sencillo al párrafo seleccionado y ajustar a la cuadrícula.</translation>
+        <translation type="obsolete">Aplicar interlineado sencillo al párrafo seleccionado y ajustar a la cuadrícula.</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
-        <translation>Borrar interlineado</translation>
+        <translation type="obsolete">Borrar interlineado</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearFormats</name>
     <message>
         <source>Clear Formatting</source>
-        <translation>Borrar formato</translation>
+        <translation type="obsolete">Borrar formato</translation>
     </message>
     <message>
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
-        <translation>Borra todo el formato de la selección y deja el texto sin formato.</translation>
+        <translation type="obsolete">Borra todo el formato de la selección y deja el texto sin formato.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation>Borrar estilo de tabla</translation>
+        <translation type="obsolete">Borrar estilo de tabla</translation>
     </message>
     <message>
         <source>Clear table style of selected cell range.</source>
-        <translation>Borrar el estilo de tabla de un rango de celdas seleccionadas.</translation>
+        <translation type="obsolete">Borrar el estilo de tabla de un rango de celdas seleccionadas.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseDevelopmentTools</name>
     <message>
         <source>Click here to hide Developer Tools.</source>
-        <translation>Haga clic aquí para ocultar herramientas de programador.</translation>
+        <translation type="obsolete">Haga clic aquí para ocultar herramientas de programador.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseHeaderAndFooter</name>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
     <message>
         <source>Close Header and Footer Tools, and return to editing the document.</source>
-        <translation>Cerrar herramientas de encabezado y pie de página, y volver a la edición del documento.</translation>
+        <translation type="obsolete">Cerrar herramientas de encabezado y pie de página, y volver a la edición del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseMail</name>
     <message>
         <source>Click here to hide Mailings tab.</source>
-        <translation>Haga clic aquí para ocultar la pestaña correspondencia.</translation>
+        <translation type="obsolete">Haga clic aquí para ocultar la pestaña correspondencia.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOtherWindow</name>
     <message>
         <source>Close Other Windows</source>
-        <translation>Cerrar otras ventanas</translation>
+        <translation type="obsolete">Cerrar otras ventanas</translation>
     </message>
     <message>
         <source>Close all other windows except the current one.</source>
-        <translation>Cerrar todas las ventanas excepto la actual.</translation>
+        <translation type="obsolete">Cerrar todas las ventanas excepto la actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOutlineview</name>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
     <message>
         <source>Close Outline View and return to editing the document.</source>
-        <translation>Cerrar vista de esquema y regresar a la edición del documento.</translation>
+        <translation type="obsolete">Cerrar vista de esquema y regresar a la edición del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ClosePreview</name>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
     <message>
         <source>Close Print Preview, and return to editing the document.</source>
-        <translation>Cierra la vista previa de impresión y vuelve a editar el documento.</translation>
+        <translation type="obsolete">Cierra la vista previa de impresión y vuelve a editar el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation>Cerrar ventana</translation>
+        <translation type="obsolete">Cerrar ventana</translation>
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation>Cerrar la ventana actual.</translation>
+        <translation type="obsolete">Cerrar la ventana actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.CmpSideBySide</name>
     <message>
         <source>View Side by Side</source>
-        <translation>Ver en paralelo</translation>
+        <translation type="obsolete">Ver en paralelo</translation>
     </message>
     <message>
         <source>View two documents side by side to compare their contents.</source>
-        <translation>Muestra los dos documentos en paralelo para poder comparar el contenido.</translation>
+        <translation type="obsolete">Muestra los dos documentos en paralelo para poder comparar el contenido.</translation>
     </message>
 </context>
 <context>
     <name>tips.CollapseOnOutlining</name>
     <message>
         <source>Collapse</source>
-        <translation>Colapsar</translation>
+        <translation type="obsolete">Colapsar</translation>
     </message>
     <message>
         <source>Collapse the selected item.</source>
-        <translation>Contraer el elemento seleccionado.</translation>
+        <translation type="obsolete">Contraer el elemento seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.CompressPictures</name>
     <message>
         <source>Compress Picture</source>
-        <translation>Comprimir imágen</translation>
+        <translation type="obsolete">Comprimir imágen</translation>
     </message>
     <message>
         <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation>Comprimir la imágen seleccionada o todas las imágenes en el documento para reducir el tamaño de la imagen.</translation>
+        <translation type="obsolete">Comprimir la imágen seleccionada o todas las imágenes en el documento para reducir el tamaño de la imagen.</translation>
     </message>
 </context>
 <context>
     <name>tips.ConvertTabletoText</name>
     <message>
         <source>Convert Table to Text</source>
-        <translation>Convertir tabla en texto</translation>
+        <translation type="obsolete">Convertir tabla en texto</translation>
     </message>
     <message>
         <source>Convert table to text paragraph separated with commas, space or other characters.</source>
-        <translation>Convertir tabla en párrafo de texto separado por comas, espacios u otros caracteres.</translation>
+        <translation type="obsolete">Convertir tabla en párrafo de texto separado por comas, espacios u otros caracteres.</translation>
     </message>
 </context>
 <context>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation type="obsolete">Copiar</translation>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation>Copia la selección y la coloca en el portapapeles.</translation>
+        <translation type="obsolete">Copia la selección y la coloca en el portapapeles.</translation>
     </message>
 </context>
 <context>
     <name>tips.CoverPages</name>
     <message>
         <source>Choose from different cover page styles and insert into the document. You can fill in the title, author, email address and other information.</source>
-        <translation>Inserta una portada con formato completo.
+        <translation type="obsolete">Inserta una portada con formato completo.
 
 Puede agregar el título, autor, fecha y otros datos.</translation>
     </message>
     <message>
         <source>Insert Cover Page</source>
-        <translation>Insertar portada</translation>
+        <translation type="obsolete">Insertar portada</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.CreateTextBoxLink</name>
     <message>
         <source>Create Text Box Link</source>
-        <translation>Crear vínculo</translation>
+        <translation type="obsolete">Crear vínculo</translation>
     </message>
     <message>
         <source>Link the selected text box to another empty textbox so that text flows from the current text box to the linked empty text box.</source>
-        <translation>Vincula este cuadro de texto a otro para que el texto fluya entre ellos.
+        <translation type="obsolete">Vincula este cuadro de texto a otro para que el texto fluya entre ellos.
 
 El cursor del mouse cambiará para mostrar que ya puede vincular. Haga clic en un cuadro de texto vacio para vincularlo.
 
@@ -14181,11 +16636,11 @@ El texto fluirá del cuadro de texto actual al vinculado.</translation>
     <name>tips.CrossReference</name>
     <message>
         <source>Cross-reference</source>
-        <translation>Referencia cruzada</translation>
+        <translation type="obsolete">Referencia cruzada</translation>
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
-        <translation>Hace referencia a elementos como encabezados, ilustraciones y tablas insertando una referencia cruzada como, &quot;Ver tabla 6 a continuación&quot; o &quot;Volver a la página 8&quot;.  
+        <translation type="obsolete">Hace referencia a elementos como encabezados, ilustraciones y tablas insertando una referencia cruzada como, &quot;Ver tabla 6 a continuación&quot; o &quot;Volver a la página 8&quot;.  
 
 Las referencias cruzadas se actualizan automáticamente si mueve el contenido a otra ubicación. De forma predeterminada, las referencias cruzadas se insertan como hipervínculos.</translation>
     </message>
@@ -14194,316 +16649,316 @@ Las referencias cruzadas se actualizan automáticamente si mueve el contenido a 
     <name>tips.Cut</name>
     <message>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation type="obsolete">Cortar</translation>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation>Corta la selección y la pega en el portapapeles.</translation>
+        <translation type="obsolete">Corta la selección y la pega en el portapapeles.</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseIndent</name>
     <message>
         <source>Decrease Indent</source>
-        <translation>Disminuir sangría</translation>
+        <translation type="obsolete">Disminuir sangría</translation>
     </message>
     <message>
         <source>Decrease the indent level of the paragraph.</source>
-        <translation>Reduce el nivel de sangría del párrafo.</translation>
+        <translation type="obsolete">Reduce el nivel de sangría del párrafo.</translation>
     </message>
 </context>
 <context>
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation>Eliminar</translation>
+        <translation type="obsolete">Eliminar</translation>
     </message>
     <message>
         <source>Delete the current cell, row, column or the whole table.</source>
-        <translation>Eliminar la celda actual, fila, columna o toda la tabla.</translation>
+        <translation type="obsolete">Eliminar la celda actual, fila, columna o toda la tabla.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteSection</name>
     <message>
         <source>Delete Section</source>
-        <translation>Eliminar sección</translation>
+        <translation type="obsolete">Eliminar sección</translation>
     </message>
     <message>
         <source>Delete the currently selected section.</source>
-        <translation>Eliminar la actual sección seleccionada.</translation>
+        <translation type="obsolete">Eliminar la actual sección seleccionada.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteOnOutlining</name>
     <message>
         <source>Demote</source>
-        <translation>Degradar</translation>
+        <translation type="obsolete">Degradar</translation>
     </message>
     <message>
         <source>Demote this item to a lower level.</source>
-        <translation>Degradar este objeto a un nivel inferior.</translation>
+        <translation type="obsolete">Degradar este objeto a un nivel inferior.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteOnParagraph</name>
     <message>
         <source>Demote Outline Level</source>
-        <translation>Degradar nivel de esquema</translation>
+        <translation type="obsolete">Degradar nivel de esquema</translation>
     </message>
     <message>
         <source>Demote the selected paragraph to a lower outline level.</source>
-        <translation>Degradar el párrafo seleccionado a un nivel de esquema inferior.</translation>
+        <translation type="obsolete">Degradar el párrafo seleccionado a un nivel de esquema inferior.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteToLowestLevelOnOutlining</name>
     <message>
         <source>Demote this item to the lowest level of the outline.</source>
-        <translation>Degradar este elemento en el nivel más bajo del esquema.</translation>
+        <translation type="obsolete">Degradar este elemento en el nivel más bajo del esquema.</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>Degradar a cuerpo de texto</translation>
+        <translation type="obsolete">Degradar a cuerpo de texto</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteToLowestLevelOnParagraph</name>
     <message>
         <source>Demote the selected paragraph to the lowest level of the directory.</source>
-        <translation>Degradar el párrafo seleccionado al nivel más bajo del directorio.</translation>
+        <translation type="obsolete">Degradar el párrafo seleccionado al nivel más bajo del directorio.</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>Degradar a cuerpo de texto</translation>
+        <translation type="obsolete">Degradar a cuerpo de texto</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_DrawingTools</name>
     <message>
         <source>DetailedSettings DrawingTools Content</source>
-        <translation>Ajustes detallados de herramientas de dibujo de contenido</translation>
+        <translation type="obsolete">Ajustes detallados de herramientas de dibujo de contenido</translation>
     </message>
     <message>
         <source>DetailedSettings DrawingTools Title</source>
-        <translation>Ajustes detallados de herramientas de dibujo de título</translation>
+        <translation type="obsolete">Ajustes detallados de herramientas de dibujo de título</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_Home</name>
     <message>
         <source>DetailedSettings Home Content</source>
-        <translation>Ajustes detallados de contenido de inicio</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de inicio</translation>
     </message>
     <message>
         <source>DetailedSettings Home Title</source>
-        <translation>Ajustes detallados de título de inicio</translation>
+        <translation type="obsolete">Ajustes detallados de título de inicio</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_PageLayout</name>
     <message>
         <source>DetailedSettings PageLayout Content</source>
-        <translation>Ajustes detallados de conenido de diseño de página</translation>
+        <translation type="obsolete">Ajustes detallados de conenido de diseño de página</translation>
     </message>
     <message>
         <source>DetailedSettings PageLayout Title</source>
-        <translation>Ajustes detallados de título de diseño de página</translation>
+        <translation type="obsolete">Ajustes detallados de título de diseño de página</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_Paragraph</name>
     <message>
         <source>DetailedSettings Paragraph Content</source>
-        <translation>Ajustes detallados de contenido de párrafo</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de párrafo</translation>
     </message>
     <message>
         <source>DetailedSettings Paragraph Title</source>
-        <translation>Ajustes detallados de título de párrafo</translation>
+        <translation type="obsolete">Ajustes detallados de título de párrafo</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_PictureTools</name>
     <message>
         <source>DetailedSettings PictureTools Content</source>
-        <translation>Ajustes detallados de herramientas de imágen de contenido</translation>
+        <translation type="obsolete">Ajustes detallados de herramientas de imágen de contenido</translation>
     </message>
     <message>
         <source>DetailedSettings PictureTools Title</source>
-        <translation>Ajustes detallados de herramientas de imágen de título</translation>
+        <translation type="obsolete">Ajustes detallados de herramientas de imágen de título</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_Section</name>
     <message>
         <source>DetailedSettings Section Content</source>
-        <translation>Ajustes detallados de sección de contenido</translation>
+        <translation type="obsolete">Ajustes detallados de sección de contenido</translation>
     </message>
     <message>
         <source>DetailedSettings Section Title</source>
-        <translation>Ajustes detallados de sección de título</translation>
+        <translation type="obsolete">Ajustes detallados de sección de título</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_TableTools</name>
     <message>
         <source>DetailedSettings TableTools Content</source>
-        <translation>Ajustes detallados de herramientas de tabla de contenido</translation>
+        <translation type="obsolete">Ajustes detallados de herramientas de tabla de contenido</translation>
     </message>
     <message>
         <source>DetailedSettings TableTools Title</source>
-        <translation>Ajustes detallados de herramientas de tabla de título</translation>
+        <translation type="obsolete">Ajustes detallados de herramientas de tabla de título</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_WordArt</name>
     <message>
         <source>DetailedSettings WordArt Content</source>
-        <translation>Ajustes detallados de contenido de WordArt</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de WordArt</translation>
     </message>
     <message>
         <source>DetailedSettings WordArt Title</source>
-        <translation>Ajustes detallados de título de WordArt</translation>
+        <translation type="obsolete">Ajustes detallados de título de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.DevelopmentTools</name>
     <message>
         <source>Developer Tools</source>
-        <translation>Herramientas de programador</translation>
+        <translation type="obsolete">Herramientas de programador</translation>
     </message>
     <message>
         <source>Open the Developer Tools tab to insert the Option Button, Check Box and more.</source>
-        <translation>Abrir la ficha Herramientas de programador para insertar botón de opción, casilla de verificación, y más.</translation>
+        <translation type="obsolete">Abrir la ficha Herramientas de programador para insertar botón de opción, casilla de verificación, y más.</translation>
     </message>
 </context>
 <context>
     <name>tips.DirectoryLevel</name>
     <message>
         <source>Directory Level</source>
-        <translation>Nivel de directorio</translation>
+        <translation type="obsolete">Nivel de directorio</translation>
     </message>
     <message>
         <source>Set the directory level for the selected paragraph.</source>
-        <translation>Establezca el nivel de directorio para el párrafo seleccionado.</translation>
+        <translation type="obsolete">Establezca el nivel de directorio para el párrafo seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.DisableLineHeightGrid</name>
     <message>
         <source>Align the text content according to the grid.</source>
-        <translation>Alinear el contenido de texto de acuerdo a la cuadrícula.</translation>
+        <translation type="obsolete">Alinear el contenido de texto de acuerdo a la cuadrícula.</translation>
     </message>
     <message>
         <source>Snap to grid</source>
-        <translation>Ajustar a la cuadrícula</translation>
+        <translation type="obsolete">Ajustar a la cuadrícula</translation>
     </message>
 </context>
 <context>
     <name>tips.DisplayForReview</name>
     <message>
         <source>Choose how to view the proposed changes to the document.</source>
-        <translation>Elija la forma de ver los cambios propuestos en el documento.</translation>
+        <translation type="obsolete">Elija la forma de ver los cambios propuestos en el documento.</translation>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>Mostrar para revisión</translation>
+        <translation type="obsolete">Mostrar para revisión</translation>
     </message>
 </context>
 <context>
     <name>tips.DistributeColumns</name>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Distribuir columnas uniformemente</translation>
+        <translation type="obsolete">Distribuir columnas uniformemente</translation>
     </message>
     <message>
         <source>Distribute the width of the selected columns equally between them.</source>
-        <translation>Distribuir el ancho de las columnas seleccionadas por igual entre ellos.</translation>
+        <translation type="obsolete">Distribuir el ancho de las columnas seleccionadas por igual entre ellos.</translation>
     </message>
 </context>
 <context>
     <name>tips.DistributeRows</name>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Distribuir filas uniformemente</translation>
+        <translation type="obsolete">Distribuir filas uniformemente</translation>
     </message>
     <message>
         <source>Distribute the height of the selected rows equally between them.</source>
-        <translation>Distribuir la altura de las filas seleccionadas por igual entre ellos.</translation>
+        <translation type="obsolete">Distribuir la altura de las filas seleccionadas por igual entre ellos.</translation>
     </message>
 </context>
 <context>
     <name>tips.DoublePages</name>
     <message>
         <source>Two Pages</source>
-        <translation>Dos páginas</translation>
+        <translation type="obsolete">Dos páginas</translation>
     </message>
     <message>
         <source>Zoom the document so that two pages fit in the window.</source>
-        <translation>Acerca el documento para que dos páginas se ajusten en la ventana.</translation>
+        <translation type="obsolete">Acerca el documento para que dos páginas se ajusten en la ventana.</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawTable</name>
     <message>
         <source>Draw Table</source>
-        <translation>Dibujar tabla</translation>
+        <translation type="obsolete">Dibujar tabla</translation>
     </message>
     <message>
         <source>Draw the borders of a table.</source>
-        <translation>Dibuja los bordes de una tabla.</translation>
+        <translation type="obsolete">Dibuja los bordes de una tabla.</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawingToolsDetailedSettings</name>
     <message>
         <source>DrawingToolsDetailedSettings Content</source>
-        <translation>Ajustes detallados de contenido de herramientas de dibujo</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de herramientas de dibujo</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings Title</source>
-        <translation>Ajustes detallados de titulo de herramientas de dibujo </translation>
+        <translation type="obsolete">Ajustes detallados de titulo de herramientas de dibujo </translation>
     </message>
 </context>
 <context>
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
-        <translation>Crea una letra capital al principio de un párrafo.</translation>
+        <translation type="obsolete">Crea una letra capital al principio de un párrafo.</translation>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation>Letra capital</translation>
+        <translation type="obsolete">Letra capital</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation>Modificar puntos</translation>
+        <translation type="obsolete">Modificar puntos</translation>
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>
-        <translation>Cambia la forma de este dibujo, la convierte en una forma libre o edita los puntos de ajuste para determinar cómo se ajusta el texto alrededor del dibujo.</translation>
+        <translation type="obsolete">Cambia la forma de este dibujo, la convierte en una forma libre o edita los puntos de ajuste para determinar cómo se ajusta el texto alrededor del dibujo.</translation>
     </message>
 </context>
 <context>
     <name>tips.EditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation>Modificar texto</translation>
+        <translation type="obsolete">Modificar texto</translation>
     </message>
     <message>
         <source>Edit the text of the selected WordArt.</source>
-        <translation>Edita el texto para este WordArt.</translation>
+        <translation type="obsolete">Edita el texto para este WordArt.</translation>
     </message>
 </context>
 <context>
@@ -14512,13 +16967,13 @@ Las referencias cruzadas se actualizan automáticamente si mueve el contenido a 
         <source>Add black dots under selected content to show emphasis.
 
 Click the arrow to add a strikethrough.</source>
-        <translation>Añadir puntos negros bajo contenido seleccionado para mostrar énfasis.
+        <translation type="obsolete">Añadir puntos negros bajo contenido seleccionado para mostrar énfasis.
 
 Haga clic en la flecha para añadir un tachado.</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Marca de énfasis</translation>
+        <translation type="obsolete">Marca de énfasis</translation>
     </message>
 </context>
 <context>
@@ -14527,155 +16982,155 @@ Haga clic en la flecha para añadir un tachado.</translation>
         <source>Add a circle or other border around a character.
 
 Click the arrow to choose Phonetic Guide, Change Case and Character Border options.</source>
-        <translation>Añadir un círculo u otro borde alrededor del caracter.
+        <translation type="obsolete">Añadir un círculo u otro borde alrededor del caracter.
 
 Haga clic en la flecha para elegir Guía fonética, Cambiar mayúsculas y minúsculas y las opciones de Bordes de caracteres.</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>Encerrar caracteres</translation>
+        <translation type="obsolete">Encerrar caracteres</translation>
     </message>
 </context>
 <context>
     <name>tips.EnterParagraphAdjustment</name>
     <message>
         <source>Enter Paragraph Layout mode.</source>
-        <translation>Entrar a modo de diseño de párrafo.</translation>
+        <translation type="obsolete">Entrar a modo de diseño de párrafo.</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation>Diseño de párrafo</translation>
+        <translation type="obsolete">Diseño de párrafo</translation>
     </message>
 </context>
 <context>
     <name>tips.ExitParagraph</name>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
     <message>
         <source>Close the Paragraph Layout tool and return to editing the document.</source>
-        <translation>Cerrar la herramienta de diseño de párrafo y volver a editar el documento.</translation>
+        <translation type="obsolete">Cerrar la herramienta de diseño de párrafo y volver a editar el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExpandOnOutlining</name>
     <message>
         <source>Expand</source>
-        <translation>Expandir</translation>
+        <translation type="obsolete">Expandir</translation>
     </message>
     <message>
         <source>Expand the selected item.</source>
-        <translation>Expanda el elemento seleccionado.</translation>
+        <translation type="obsolete">Expanda el elemento seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorBackupDir</name>
     <message>
         <source>Explore File Safe</source>
-        <translation>Explorar archivo seguro</translation>
+        <translation type="obsolete">Explorar archivo seguro</translation>
     </message>
     <message>
         <source>View backup files and open or recover the backup files for a certain document.</source>
-        <translation>Ver archivos de copia de seguridad y abrir o recuperar los archivos de copia de seguridad para un determinado documento.</translation>
+        <translation type="obsolete">Ver archivos de copia de seguridad y abrir o recuperar los archivos de copia de seguridad para un determinado documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorVersion</name>
     <message>
         <source>View Backup History</source>
-        <translation>Ver historial de respaldo</translation>
+        <translation type="obsolete">Ver historial de respaldo</translation>
     </message>
     <message>
         <source>View the backup record history of the current document to open, delete or restore the files.</source>
-        <translation>Ver el historial de registro de copia de seguridad del documento actual para abrir, borrar o restaurar los archivos.</translation>
+        <translation type="obsolete">Ver el historial de registro de copia de seguridad del documento actual para abrir, borrar o restaurar los archivos.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExportWeiboImageCmd</name>
     <message>
         <source>Export Weibo Image</source>
-        <translation>Exportar imágen Weibo</translation>
+        <translation type="obsolete">Exportar imágen Weibo</translation>
     </message>
 </context>
 <context>
     <name>tips.FieldFormula</name>
     <message>
         <source>Add a formula to a cell, to perform a simple calculation, such as SUM, AVERAGE or MAX.</source>
-        <translation>Agregar una fórmula a una celda para realizar un cálculo simple como PROMEDIO, SUMA o RECUENTO.</translation>
+        <translation type="obsolete">Agregar una fórmula a una celda para realizar un cálculo simple como PROMEDIO, SUMA o RECUENTO.</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>Fórmula</translation>
+        <translation type="obsolete">Fórmula</translation>
     </message>
 </context>
 <context>
     <name>tips.FillColor</name>
     <message>
         <source>Click the arrow to choose different fill types.</source>
-        <translation>Haga clic en la flecha para elegir diferentes tipos de relleno.</translation>
+        <translation type="obsolete">Haga clic en la flecha para elegir diferentes tipos de relleno.</translation>
     </message>
     <message>
         <source>Fill the selected shape with color, gradient, a texture, or a picture.
 
 Click the arrow to choose different fill types.</source>
-        <translation>Rellena la forma seleccionada con un color sólido, degradado, imagen o textura.</translation>
+        <translation type="obsolete">Rellena la forma seleccionada con un color sólido, degradado, imagen o textura.</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Relleno de forma</translation>
+        <translation type="obsolete">Relleno de forma</translation>
     </message>
 </context>
 <context>
     <name>tips.Find</name>
     <message>
         <source>Click the arrow to choose other options, such as Go To.</source>
-        <translation>Busca y selecciona un texto, un formato o un tipo de información específico dentro del documento.
+        <translation type="obsolete">Busca y selecciona un texto, un formato o un tipo de información específico dentro del documento.
 
 También puede reemplazar la información con nuevo texto o formato.</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Buscar</translation>
+        <translation type="obsolete">Buscar</translation>
     </message>
     <message>
         <source>Find text in the document.
 
 Click the arrow to choose other options, such as Go To.</source>
-        <translation>Busca texto u otro contenido en el documento.</translation>
+        <translation type="obsolete">Busca texto u otro contenido en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.FirstPageIsDifferent</name>
     <message>
         <source>Different First Page</source>
-        <translation>Primera página diferente</translation>
+        <translation type="obsolete">Primera página diferente</translation>
     </message>
     <message>
         <source>Specify a unique header and footer for the first page of the document.</source>
-        <translation>Especifica un encabezado y pie de página para la primera página del documento.</translation>
+        <translation type="obsolete">Especifica un encabezado y pie de página para la primera página del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.FirstRecord</name>
     <message>
         <source>First Record</source>
-        <translation>Primer registro</translation>
+        <translation type="obsolete">Primer registro</translation>
     </message>
     <message>
         <source>Preview the first record in the recipient list.</source>
-        <translation>Mostrar el primer registro de la lista de destinatarios.</translation>
+        <translation type="obsolete">Mostrar el primer registro de la lista de destinatarios.</translation>
     </message>
 </context>
 <context>
     <name>tips.FirstSection</name>
     <message>
         <source>First Section</source>
-        <translation>Primera sección</translation>
+        <translation type="obsolete">Primera sección</translation>
     </message>
     <message>
         <source>Go to the first section of the document.</source>
-        <translation>Ir a la primera sección del documento.</translation>
+        <translation type="obsolete">Ir a la primera sección del documento.</translation>
     </message>
 </context>
 <context>
@@ -14684,125 +17139,125 @@ Click the arrow to choose other options, such as Go To.</source>
         <source>Change the text color.
 
 Click the arrow to choose a different text color.</source>
-        <translation>Cambia el color del texto.</translation>
+        <translation type="obsolete">Cambia el color del texto.</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
-        <translation>Haga clic en la flecha para elegir un color de texto diferente.</translation>
+        <translation type="obsolete">Haga clic en la flecha para elegir un color de texto diferente.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Color de fuente</translation>
+        <translation type="obsolete">Color de fuente</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.FontName</name>
     <message>
         <source>Change the font face.</source>
-        <translation>Cambia la fuente.</translation>
+        <translation type="obsolete">Cambia la fuente.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fuente</translation>
+        <translation type="obsolete">Fuente</translation>
     </message>
 </context>
 <context>
     <name>tips.FontSize</name>
     <message>
         <source>Change the font size.</source>
-        <translation>Cambia el tamaño de la fuente.</translation>
+        <translation type="obsolete">Cambia el tamaño de la fuente.</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamaño de fuente</translation>
+        <translation type="obsolete">Tamaño de fuente</translation>
     </message>
 </context>
 <context>
     <name>tips.FooterLinkToPrevious</name>
     <message>
         <source>Link the current footer to the previous section.</source>
-        <translation>Vincular el pie de página actual en la sección anterior.</translation>
+        <translation type="obsolete">Vincular el pie de página actual en la sección anterior.</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation>Igual que la sección anterior</translation>
+        <translation type="obsolete">Igual que la sección anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignCenter</name>
     <message>
         <source>Center</source>
-        <translation>Centrar</translation>
+        <translation type="obsolete">Centrar</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation>Centra el texto.</translation>
+        <translation type="obsolete">Centra el texto.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignDistributed</name>
     <message>
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
-        <translation>Alinear el párrafo tanto al margen izquierdo y derecho mediante la adición de más espacio entre caracteres como sea necesario.</translation>
+        <translation type="obsolete">Alinear el párrafo tanto al margen izquierdo y derecho mediante la adición de más espacio entre caracteres como sea necesario.</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Distribuido</translation>
+        <translation type="obsolete">Distribuido</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignJustify</name>
     <message>
         <source>Align text to both the left and right margins by adding extra space between words as necessary.</source>
-        <translation>Alinea el texto en los márgenes izquierdo y derecho y agrega espacios adicionales entre palabras si es necesario.
+        <translation type="obsolete">Alinea el texto en los márgenes izquierdo y derecho y agrega espacios adicionales entre palabras si es necesario.
 
 De esta manera se crea una apariencia homogénea en los laterales izquierdo y derecho de la página.
 </translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Justificar</translation>
+        <translation type="obsolete">Justificar</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation>Alinear texto a la izquierda</translation>
+        <translation type="obsolete">Alinear texto a la izquierda</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation>Alinea el texto a la izquierda.</translation>
+        <translation type="obsolete">Alinea el texto a la izquierda.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation>Alinear texto a la derecha</translation>
+        <translation type="obsolete">Alinear texto a la derecha</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation>alinea el texto a la derecha.</translation>
+        <translation type="obsolete">alinea el texto a la derecha.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatObject</name>
     <message>
         <source>Format Object</source>
-        <translation>Formato de objeto</translation>
+        <translation type="obsolete">Formato de objeto</translation>
     </message>
     <message>
         <source>Show the Format Object dialog box.</source>
-        <translation>Mostrar el cuadro de diálogo formato de objeto.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo formato de objeto.</translation>
     </message>
 </context>
 <context>
@@ -14811,45 +17266,45 @@ De esta manera se crea una apariencia homogénea en los laterales izquierdo y de
         <source>Copy formatting from one place to apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation>Copia el formato de un sitio y lo aplica en otro.
+        <translation type="obsolete">Copia el formato de un sitio y lo aplica en otro.
 
 Haga doble click en este botón de nuevo para aplicar el mismo formato a varias ubicaciones en el documento.</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Copiar formato</translation>
+        <translation type="obsolete">Copiar formato</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.FullScreenMode</name>
     <message>
         <source>Full Screen Mode</source>
-        <translation>Lectura de pantalla completa</translation>
+        <translation type="obsolete">Lectura de pantalla completa</translation>
     </message>
     <message>
         <source>View the document in full screen mode.</source>
-        <translation>Muestra el documento en vista de lectura a pantalla completa para maximizar el espacio disponible para lectura o comentarios del documento.</translation>
+        <translation type="obsolete">Muestra el documento en vista de lectura a pantalla completa para maximizar el espacio disponible para lectura o comentarios del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Gallery</source>
-        <translation>Galería de Kingsoft</translation>
+        <translation type="obsolete">Galería de Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 Kingsoft Gallery Online Sources require internet connection. My Gallery can be used  without internet after logging in. </source>
-        <translation>Kingsoft Gallery ofrece todo tipo de fuentes de imagen para que pueda utilizar, obtener, editar y administrar.
+        <translation type="obsolete">Kingsoft Gallery ofrece todo tipo de fuentes de imagen para que pueda utilizar, obtener, editar y administrar.
 
 Kingsoft Galería de Fuentes en línea requieren conexión a Internet. My Gallery se puede utilizar sin internet después de iniciar sesión.</translation>
     </message>
@@ -14858,87 +17313,87 @@ Kingsoft Galería de Fuentes en línea requieren conexión a Internet. My Galler
     <name>tips.GenkoSetting</name>
     <message>
         <source>Apply Genko settings to the current document.</source>
-        <translation>Aplicar la configuración Genko al documento actual.</translation>
+        <translation type="obsolete">Aplicar la configuración Genko al documento actual.</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>Configuración de Genko</translation>
+        <translation type="obsolete">Configuración de Genko</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.GotoFootnotes</name>
     <message>
         <source>Go to Footnotes or Endnotes in the document.</source>
-        <translation>Ir a notas al pie o notas al final del documento.</translation>
+        <translation type="obsolete">Ir a notas al pie o notas al final del documento.</translation>
     </message>
     <message>
         <source>Next Footnote/Endnotes</source>
-        <translation>Siguiente Nota al pie/Notas al final</translation>
+        <translation type="obsolete">Siguiente Nota al pie/Notas al final</translation>
     </message>
 </context>
 <context>
     <name>tips.GotoRecord</name>
     <message>
         <source>Go to Record</source>
-        <translation>Ir al registro</translation>
+        <translation type="obsolete">Ir al registro</translation>
     </message>
     <message>
         <source>View a specific record in the Recipient list</source>
-        <translation>Ver un registro específico en la lista de destinatarios</translation>
+        <translation type="obsolete">Ver un registro específico en la lista de destinatarios</translation>
     </message>
 </context>
 <context>
     <name>tips.GotoTocOnOutlining</name>
     <message>
         <source>Go to ToC</source>
-        <translation>Ir a tabla de contenidos</translation>
+        <translation type="obsolete">Ir a tabla de contenidos</translation>
     </message>
     <message>
         <source>Go to ToC of the document.</source>
-        <translation>Ir a tabla de contenidos del documento.</translation>
+        <translation type="obsolete">Ir a tabla de contenidos del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.Gridlines</name>
     <message>
         <source>Gridlines</source>
-        <translation>Líneas de división</translation>
+        <translation type="obsolete">Líneas de división</translation>
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation>Activar / desactivar la cuadrícula con el que puede alinear objetos en el documento.</translation>
+        <translation type="obsolete">Activar / desactivar la cuadrícula con el que puede alinear objetos en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.GrowFont</name>
     <message>
         <source>Grow Font</source>
-        <translation>Agrandar fuente</translation>
+        <translation type="obsolete">Agrandar fuente</translation>
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation>Aumenta el tamaño de la fuente.</translation>
+        <translation type="obsolete">Aumenta el tamaño de la fuente.</translation>
     </message>
 </context>
 <context>
     <name>tips.HeadRowsRepeat</name>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>Repetir filas de encabezado</translation>
+        <translation type="obsolete">Repetir filas de encabezado</translation>
     </message>
     <message>
         <source>Repeat the header rows of the selected table on every page.
 
 This only affects tables which extend beyond a single page.</source>
-        <translation>Repetir las filas de encabezado de la tabla seleccionada en cada página.
+        <translation type="obsolete">Repetir las filas de encabezado de la tabla seleccionada en cada página.
 
 Esto sólo afecta a las tablas que se extienden más allá de una sola página.</translation>
     </message>
@@ -14947,430 +17402,430 @@ Esto sólo afecta a las tablas que se extienden más allá de una sola página.<
     <name>tips.HeaderAndFooterSetting</name>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Show the Header/Footer dialog box.</source>
-        <translation>Mostrar el cuadro de diálogo Encabezado / Pie de página.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo Encabezado / Pie de página.</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderFooter</name>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
-        <translation>Edita el encabezado y pie de página del documento.</translation>
+        <translation type="obsolete">Edita el encabezado y pie de página del documento.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderFooterOptions</name>
     <message>
         <source>Apply Header and Footer settings to the current section or document, such as different first page, different odd &amp; even pages, and margin to the border.</source>
-        <translation>Aplicar la configuración de encabezado y pie de página de la sección actual o documento, como una primera página diferente, diferentes páginas impares &amp; incluir páginas, y el margen de los bordes.</translation>
+        <translation type="obsolete">Aplicar la configuración de encabezado y pie de página de la sección actual o documento, como una primera página diferente, diferentes páginas impares &amp; incluir páginas, y el margen de los bordes.</translation>
     </message>
     <message>
         <source>Header/Footer Options</source>
-        <translation>Opciones de Encabezado / Pie de página</translation>
+        <translation type="obsolete">Opciones de Encabezado / Pie de página</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderLine</name>
     <message>
         <source>Add a horizontal line to Header.</source>
-        <translation>Añadir una línea horizontal a la cabecera.</translation>
+        <translation type="obsolete">Añadir una línea horizontal a la cabecera.</translation>
     </message>
     <message>
         <source>Header Line</source>
-        <translation>Línea de encabezado</translation>
+        <translation type="obsolete">Línea de encabezado</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderLinkToPrevious</name>
     <message>
         <source>Link the current header to the previous section.</source>
-        <translation>Vincular la cabecera actual a la sección anterior.</translation>
+        <translation type="obsolete">Vincular la cabecera actual a la sección anterior.</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation>Igual que la sección anterior</translation>
+        <translation type="obsolete">Igual que la sección anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.HighlightColor</name>
     <message>
         <source>Click the arrow to select a different highlight color.</source>
-        <translation>Haga clic en la flecha para seleccionar un color de resaltado diferente.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar un color de resaltado diferente.</translation>
     </message>
     <message>
         <source>Make text look like it was marked with a highlighter pen.
 
 Click the arrow to select a different highlight color.</source>
-        <translation>Cambia el aspecto del texto como si estuviera marcado con un marcador.</translation>
+        <translation type="obsolete">Cambia el aspecto del texto como si estuviera marcado con un marcador.</translation>
     </message>
     <message>
         <source>Text Highlight Color</source>
-        <translation>Color de resaltado del texto</translation>
+        <translation type="obsolete">Color de resaltado del texto</translation>
     </message>
 </context>
 <context>
     <name>tips.HighlightMergeFields</name>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation>Resaltar campos de combinación</translation>
+        <translation type="obsolete">Resaltar campos de combinación</translation>
     </message>
     <message>
         <source>Highlight the fields you have inserted into the document.
 
 This makes it easy to see what part of your form letter will be replaced by information from the recipient list you have chosen.</source>
-        <translation>Resaltar los campos que ha insertado en el documento.
+        <translation type="obsolete">Resaltar los campos que ha insertado en el documento.
 
 Esto hace que sea fácil ver qué parte de su formulario será reemplazado por la información de la lista de destinatarios que ha elegido.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.HomeDetailedSettings</name>
     <message>
         <source>HomeDetailedSettings Content</source>
-        <translation>Ajustes detallados de contenido de inicio</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de inicio</translation>
     </message>
     <message>
         <source>HomeDetailedSettings Title</source>
-        <translation>Ajustes detallados de título</translation>
+        <translation type="obsolete">Ajustes detallados de título</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
-        <translation>Aumentar sangría</translation>
+        <translation type="obsolete">Aumentar sangría</translation>
     </message>
     <message>
         <source>Increase the indent level of the paragraph.</source>
-        <translation>Aumenta el nivel de sangría del párrafo.</translation>
+        <translation type="obsolete">Aumenta el nivel de sangría del párrafo.</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseStep</name>
     <message>
         <source>Increas the current paragraph line spacing by 0.25 times.</source>
-        <translation>Aumentar el interlineado del párrafo seleccionado en 0.25 veces.</translation>
+        <translation type="obsolete">Aumentar el interlineado del párrafo seleccionado en 0.25 veces.</translation>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation>Aumentar interlineado</translation>
+        <translation type="obsolete">Aumentar interlineado</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertAutoText</name>
     <message>
         <source>Auto Text</source>
-        <translation>Autotexto</translation>
+        <translation type="obsolete">Autotexto</translation>
     </message>
     <message>
         <source>Insert auto text in the header or footer to easily view and locate the related article.</source>
-        <translation>Insertar texto automático en el encabezado o pie de página para ver fácilmente y localizar el artículo relacionado.</translation>
+        <translation type="obsolete">Insertar texto automático en el encabezado o pie de página para ver fácilmente y localizar el artículo relacionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertBlankPage</name>
     <message>
         <source>Blank Page</source>
-        <translation>Página en blanco</translation>
+        <translation type="obsolete">Página en blanco</translation>
     </message>
     <message>
         <source>Click here to insert a horizontal or vertical blank page.</source>
-        <translation>Haga clic aquí para insertar una página en blanco horizontal o vertical.</translation>
+        <translation type="obsolete">Haga clic aquí para insertar una página en blanco horizontal o vertical.</translation>
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
-        <translation>Inserta una nueva página en blanco en la posición del cursor.</translation>
+        <translation type="obsolete">Inserta una nueva página en blanco en la posición del cursor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertBookmark</name>
     <message>
         <source>Create a bookmark to assign a name to a specific point in a document.</source>
-        <translation>Crea un marcador para asignar un nombre a un punto específico en un documento.
+        <translation type="obsolete">Crea un marcador para asignar un nombre a un punto específico en un documento.
 
 Puede crear hipervínculos para pasar directamente a la ubicación del marcador.</translation>
     </message>
     <message>
         <source>Insert Bookmark</source>
-        <translation>Marcador</translation>
+        <translation type="obsolete">Marcador</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertCaption</name>
     <message>
         <source>Add a descriptive caption to a picture or a table.</source>
-        <translation>Agrega un título descriptivo una imagen o tabla.</translation>
+        <translation type="obsolete">Agrega un título descriptivo una imagen o tabla.</translation>
     </message>
     <message>
         <source>Insert Caption</source>
-        <translation>Insertar título</translation>
+        <translation type="obsolete">Insertar título</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertCells</name>
     <message>
         <source>Insert Cells</source>
-        <translation>Insertar celdas</translation>
+        <translation type="obsolete">Insertar celdas</translation>
     </message>
     <message>
         <source>Show the Insert Cells dialog box.</source>
-        <translation>Mostrar el cuadro de diálogo Insertar celdas.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo Insertar celdas.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertChart</name>
     <message>
         <source>Insert Chart</source>
-        <translation>Insertar gráfico</translation>
+        <translation type="obsolete">Insertar gráfico</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation>Insertar un gráfico para ilustrar y comparar datos.
+        <translation type="obsolete">Insertar un gráfico para ilustrar y comparar datos.
 
 Barras, Anillos, Líneas y Superficie son algunos de los tipos disponibles.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertClipArt</name>
     <message>
         <source>Choose a Clip Art from the task pane and insert it into the document.</source>
-        <translation>Elija una imagen prediseñada desde el panel de tareas y la inserta en el documento.</translation>
+        <translation type="obsolete">Elija una imagen prediseñada desde el panel de tareas y la inserta en el documento.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>Insertar Clip Art</translation>
+        <translation type="obsolete">Insertar Clip Art</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnLeft</name>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation>Insertar columnas a la izquierda</translation>
+        <translation type="obsolete">Insertar columnas a la izquierda</translation>
     </message>
     <message>
         <source>Insert a column to the left of the selected column.</source>
-        <translation>Insertar una columna a la izquierda de la columna seleccionada.</translation>
+        <translation type="obsolete">Insertar una columna a la izquierda de la columna seleccionada.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnRight</name>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation>Insertar columnas a la derecha</translation>
+        <translation type="obsolete">Insertar columnas a la derecha</translation>
     </message>
     <message>
         <source>Insert a column to the right of the selected column.</source>
-        <translation>Insertar una columna a la derecha de la columna seleccionada.</translation>
+        <translation type="obsolete">Insertar una columna a la derecha de la columna seleccionada.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertComment</name>
     <message>
         <source>Add a comment to the document about the selection.</source>
-        <translation>Agrega un comentario sobre la selección.</translation>
+        <translation type="obsolete">Agrega un comentario sobre la selección.</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Nuevo comentario</translation>
+        <translation type="obsolete">Nuevo comentario</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation>Fecha y hora</translation>
+        <translation type="obsolete">Fecha y hora</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
-        <translation>Inserta la fecha y hora actuales en el documento actual.</translation>
+        <translation type="obsolete">Inserta la fecha y hora actuales en el documento actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertField</name>
     <message>
         <source>Insert Field</source>
-        <translation>Insertar un campo</translation>
+        <translation type="obsolete">Insertar un campo</translation>
     </message>
     <message>
         <source>Insert field into the document.</source>
-        <translation>Inserta un campo.</translation>
+        <translation type="obsolete">Inserta un campo.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert Object from File</source>
-        <translation>Insertar objeto desde archivo</translation>
+        <translation type="obsolete">Insertar objeto desde archivo</translation>
     </message>
     <message>
         <source>Insert selected file into the document.</source>
-        <translation>Insertar el archivo seleccionado en el documento.</translation>
+        <translation type="obsolete">Insertar el archivo seleccionado en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFootnote</name>
     <message>
         <source>Add a footnote or endnote to the document.</source>
-        <translation>Agrega una nota al pie o nota al final al documento.</translation>
+        <translation type="obsolete">Agrega una nota al pie o nota al final al documento.</translation>
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
-        <translation>Insertar Nota al pie / Nota al final</translation>
+        <translation type="obsolete">Insertar Nota al pie / Nota al final</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertHyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-        <translation>Crea un vínculo a una página web, una imagen, una dirección de correo electrónico o un programa.</translation>
+        <translation type="obsolete">Crea un vínculo a una página web, una imagen, una dirección de correo electrónico o un programa.</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation>Insertar hipervínculo</translation>
+        <translation type="obsolete">Insertar hipervínculo</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertIndexTables</name>
     <message>
         <source>Insert Table of Contents</source>
-        <translation>Insertar tabla de contenidos</translation>
+        <translation type="obsolete">Insertar tabla de contenidos</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
 
 Set directory level for the selected paragraph and add a Table of Contents.</source>
-        <translation>Agrega una tabla de contenido al documento.
+        <translation type="obsolete">Agrega una tabla de contenido al documento.
 
 Ajuste el nivel de directorio para el párrafo seleccionado y añade una tabla de contenidos.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMergeFields</name>
     <message>
         <source>Insert Merge Field</source>
-        <translation>Insertar campos combinados</translation>
+        <translation type="obsolete">Insertar campos combinados</translation>
     </message>
     <message>
         <source>Insert any field from your recipient list to the document, such as &quot;Last Name&quot;, &quot;Nick Name&quot;, &quot;Company Name&quot;, &quot;Department Name&quot; or &quot;Position&quot;.</source>
-        <translation>Inserte cualquier campo de la lista de destinatarios en el documento, como un &quot;Apellido&quot;,&quot;Apodo&quot;, &quot;Nombre de compañia&quot;, &quot;Nombre de departamento&quot; o &quot;Posición&quot;.</translation>
+        <translation type="obsolete">Inserte cualquier campo de la lista de destinatarios en el documento, como un &quot;Apellido&quot;,&quot;Apodo&quot;, &quot;Nombre de compañia&quot;, &quot;Nombre de departamento&quot; o &quot;Posición&quot;.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMutidiagonalCell</name>
     <message>
         <source>Insert Multi-diagonal Cell</source>
-        <translation>Insertar celda multi-diagonal</translation>
+        <translation type="obsolete">Insertar celda multi-diagonal</translation>
     </message>
     <message>
         <source>Insert different types of diagonal lines in a cell to use as headings.
 
 The diagonal lines in the table headings can be moved.</source>
-        <translation>Inserte los diferentes tipos de líneas diagonales en una celda para usar como encabezados.
+        <translation type="obsolete">Inserte los diferentes tipos de líneas diagonales en una celda para usar como encabezados.
 
 Las líneas diagonales en los encabezados de la tabla se pueden mover.</translation>
     </message>
@@ -15379,28 +17834,28 @@ Las líneas diagonales en los encabezados de la tabla se pueden mover.</translat
     <name>tips.InsertNumber</name>
     <message>
         <source>Insert Number</source>
-        <translation>Insertar número</translation>
+        <translation type="obsolete">Insertar número</translation>
     </message>
     <message>
         <source>Insert a customized number format into the document.</source>
-        <translation>Insertar un formato de número personalizado en el documento.</translation>
+        <translation type="obsolete">Insertar un formato de número personalizado en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertObject</name>
     <message>
         <source>Click the arrow to insert file content into the document.</source>
-        <translation>Haga clic en la flecha para insertar el contenido del archivo en el documento.</translation>
+        <translation type="obsolete">Haga clic en la flecha para insertar el contenido del archivo en el documento.</translation>
     </message>
     <message>
         <source>Insert Object</source>
-        <translation>Insertar objeto</translation>
+        <translation type="obsolete">Insertar objeto</translation>
     </message>
     <message>
         <source>Insert an embedded object into the document.
 
 Click the arrow to insert file content into the document.</source>
-        <translation>Inserte un objeto incrustado en el documento.
+        <translation type="obsolete">Inserte un objeto incrustado en el documento.
 
 Haga clic en la flecha para insertar el contenido del archivo en el documento.</translation>
     </message>
@@ -15409,344 +17864,336 @@ Haga clic en la flecha para insertar el contenido del archivo en el documento.</
     <name>tips.InsertPageBreak</name>
     <message>
         <source>Page Break</source>
-        <translation>Salto de página</translation>
+        <translation type="obsolete">Salto de página</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
-        <translation>Inicia la página siguiente en la posición actual.</translation>
+        <translation type="obsolete">Inicia la página siguiente en la posición actual.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPageNumbers</name>
     <message>
         <source>Insert Page Number</source>
-        <translation>Insertar número de página</translation>
+        <translation type="obsolete">Insertar número de página</translation>
     </message>
     <message>
         <source>Insert page numbers into the document.</source>
-        <translation>Insertar números de página en el documento.</translation>
+        <translation type="obsolete">Insertar números de página en el documento.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture from File</source>
-        <translation>Insertar imagen desde archivo</translation>
+        <translation type="obsolete">Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation>Inserta una imagen de un archivo.</translation>
+        <translation type="obsolete">Inserta una imagen de un archivo.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile Content2</source>
-        <translation>Haga clic aquí para insertar una imagen desde archivo.</translation>
+        <translation type="obsolete">Haga clic aquí para insertar una imagen desde archivo.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile Title2</source>
-        <translation>Insertar imagen desde archivo</translation>
+        <translation type="obsolete">Insertar imagen desde archivo</translation>
     </message>
     <message>
         <source>LinkText</source>
-        <translation>Enlazar texto</translation>
+        <translation type="obsolete">Enlazar texto</translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation>Enlazar url</translation>
+        <translation type="obsolete">Enlazar url</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowAbove</name>
     <message>
         <source>Add a new row directly above the selected row.</source>
-        <translation>Añadir una nueva fila justo encima de la fila seleccionada.</translation>
+        <translation type="obsolete">Añadir una nueva fila justo encima de la fila seleccionada.</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation>Insertar filas encima</translation>
+        <translation type="obsolete">Insertar filas encima</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowBelow</name>
     <message>
         <source>Insert Rows Below</source>
-        <translation>Insertar filas debajo</translation>
+        <translation type="obsolete">Insertar filas debajo</translation>
     </message>
     <message>
         <source>Insert a new row directly below the selected row.</source>
-        <translation>Insertar una nueva fila justo debajo de la fila seleccionada.</translation>
+        <translation type="obsolete">Insertar una nueva fila justo debajo de la fila seleccionada.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSectionAfter</name>
     <message>
         <source>Insert Section After</source>
-        <translation>Insertar sección después</translation>
+        <translation type="obsolete">Insertar sección después</translation>
     </message>
     <message>
         <source>Insert a new section after the current section.</source>
-        <translation>Inserta una nueva sección después de la sección actual.</translation>
+        <translation type="obsolete">Inserta una nueva sección después de la sección actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSectionBefore</name>
     <message>
         <source>Insert Section Before</source>
-        <translation>Insertar sección antes</translation>
+        <translation type="obsolete">Insertar sección antes</translation>
     </message>
     <message>
         <source>Insert a section before the current section.</source>
-        <translation>Insertar una sección antes de la sección actual.</translation>
+        <translation type="obsolete">Insertar una sección antes de la sección actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert Symbol</source>
-        <translation>Insertar símbolo</translation>
+        <translation type="obsolete">Insertar símbolo</translation>
     </message>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation>Inserta símbolos que no existen en el teclado, como símbolos de copyright, símbolos de marca registrada, marcas de párrafo y caracteres Unicode.</translation>
+        <translation type="obsolete">Inserta símbolos que no existen en el teclado, como símbolos de copyright, símbolos de marca registrada, marcas de párrafo y caracteres Unicode.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation>Inserta texto decorativo en el documento.</translation>
+        <translation type="obsolete">Inserta texto decorativo en el documento.</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArt</translation>
+        <translation type="obsolete">WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordField</name>
     <message>
         <source>Insert Next Fields</source>
-        <translation>Inserte siguientes campos</translation>
+        <translation type="obsolete">Inserte siguientes campos</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
-        <translation>Para resolver el problema de salto de página en la combinación de correspondencia, si N líneas son para ser mostrado en una página, entonces insertar N-1 en los siguientes campos.</translation>
+        <translation type="obsolete">Para resolver el problema de salto de página en la combinación de correspondencia, si N líneas son para ser mostrado en una página, entonces insertar N-1 en los siguientes campos.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.Italic</name>
     <message>
         <source>Italic</source>
-        <translation>Cursiva</translation>
+        <translation type="obsolete">Cursiva</translation>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation>Aplica el formato de cursiva al texto seleccionado.</translation>
+        <translation type="obsolete">Aplica el formato de cursiva al texto seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>Feedback</source>
-        <translation>Comentarios</translation>
+        <translation type="obsolete">Comentarios</translation>
     </message>
     <message>
         <source>Send feedback to us and help improve our product.</source>
-        <translation>Envíe sus comentarios para ayudar a mejorar nuestro producto.</translation>
+        <translation type="obsolete">Envíe sus comentarios para ayudar a mejorar nuestro producto.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudInformationTip</name>
     <message>
         <source>How to use Office Space</source>
-        <translation>Cómo utilizar Office Space</translation>
+        <translation type="obsolete">Cómo utilizar Office Space</translation>
     </message>
     <message>
         <source>Newbie Guide</source>
-        <translation>Guía Newbie</translation>
+        <translation type="obsolete">Guía Newbie</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCreatecloudLinkTip</name>
-    <message>
-        <source>KOSCreatecloudLinkTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSCreatecloudLinkTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
-        <translation>El nombre de usuario o contraseña no coinciden</translation>
+        <translation type="obsolete">El nombre de usuario o contraseña no coinciden</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespacePsaawordTip</name>
     <message>
         <source>Password is incorrect.</source>
-        <translation>La contraseña es incorrecta.</translation>
+        <translation type="obsolete">La contraseña es incorrecta.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceRegPsaawordTip</name>
     <message>
         <source>Password does not match.</source>
-        <translation>La contraseña no coincide.</translation>
+        <translation type="obsolete">La contraseña no coincide.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOpenCloudFileTip</name>
     <message>
         <source>Open documents saved in Cloud. Easily access them wherever you are.</source>
-        <translation>Abrir documentos guardados en la nube. Acceda fácilmente a ellos desde cualquier lugar.</translation>
+        <translation type="obsolete">Abrir documentos guardados en la nube. Acceda fácilmente a ellos desde cualquier lugar.</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Abrir desde la nube</translation>
+        <translation type="obsolete">Abrir desde la nube</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSSaveFileTocloudTip</name>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Guardar archivo en la nube</translation>
+        <translation type="obsolete">Guardar archivo en la nube</translation>
     </message>
     <message>
         <source>Save file to Cloud. Edit the same document via multiple devices.</source>
-        <translation>Guardar archivo en la nube. Edite el mismo documento a través de múltiples dispositivos.</translation>
+        <translation type="obsolete">Guardar archivo en la nube. Edite el mismo documento a través de múltiples dispositivos.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTextBtnTip</name>
     <message>
         <source>Login to use the free Cloud services such as Online Document, File Safe, Online Templates, and Resource Library.</source>
-        <translation>Inicie sesión para utilizar los servicios gratuitos de la nube, tales como documentos en línea, archivo seguro, plantillas en línea, y la biblioteca de recursos.</translation>
+        <translation type="obsolete">Inicie sesión para utilizar los servicios gratuitos de la nube, tales como documentos en línea, archivo seguro, plantillas en línea, y la biblioteca de recursos.</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>No ha iniciado sesión.</translation>
+        <translation type="obsolete">No ha iniciado sesión.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTip</name>
     <message>
         <source>Login with WPS account. Create or login your account to save documents to Cloud. You can access Cloud with any computer or mobile device. Never get lost.</source>
-        <translation>Acceda con su cuenta WPS. Cree o accede con su cuenta para guardar documentos en la nube. Se puede acceder a la nube con cualquier ordenador o dispositivo móvil. Nunca se pierden.</translation>
+        <translation type="obsolete">Acceda con su cuenta WPS. Cree o accede con su cuenta para guardar documentos en la nube. Se puede acceder a la nube con cualquier ordenador o dispositivo móvil. Nunca se pierden.</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>No ha iniciado sesión.</translation>
+        <translation type="obsolete">No ha iniciado sesión.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLogoutCloudTip</name>
     <message>
         <source>Logged in.</source>
-        <translation>Sesión iniciada.</translation>
+        <translation type="obsolete">Sesión iniciada.</translation>
     </message>
     <message>
         <source>You have logged in WPS account. View your profile or logout.</source>
-        <translation>Ha iniciado sesión en la cuenta de WPS. Mostrar su perfil o cerrar la sesión.</translation>
+        <translation type="obsolete">Ha iniciado sesión en la cuenta de WPS. Mostrar su perfil o cerrar la sesión.</translation>
     </message>
 </context>
 <context>
     <name>tips.KingsoftEquationEditor</name>
     <message>
         <source>Insert Equation</source>
-        <translation>Insertar ecuación</translation>
+        <translation type="obsolete">Insertar ecuación</translation>
     </message>
     <message>
         <source>Insert mathematical equations with Equation Editor.</source>
-        <translation>Inserta ecuaciones matemáticas comunes o permite crear ecuaciones propias con la biblioteca de símbolos matemáticos.</translation>
+        <translation type="obsolete">Inserta ecuaciones matemáticas comunes o permite crear ecuaciones propias con la biblioteca de símbolos matemáticos.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.LastRecord</name>
     <message>
         <source>Last Record</source>
-        <translation>Último registro</translation>
+        <translation type="obsolete">Último registro</translation>
     </message>
     <message>
         <source>Preview the last record in the recipient list.</source>
-        <translation>Vista previa del último registro de la lista de destinatarios.</translation>
+        <translation type="obsolete">Vista previa del último registro de la lista de destinatarios.</translation>
     </message>
 </context>
 <context>
     <name>tips.LastSection</name>
     <message>
         <source>Last Section</source>
-        <translation>Última sección</translation>
+        <translation type="obsolete">Última sección</translation>
     </message>
     <message>
         <source>Relocate to the last section of the document.</source>
-        <translation>Trasladarse a la última sección del documento.</translation>
+        <translation type="obsolete">Trasladarse a la última sección del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.LineColor</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation>Haga clic en la flecha para elegir más estilos de esquema.</translation>
+        <translation type="obsolete">Haga clic en la flecha para elegir más estilos de esquema.</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Contorno de forma</translation>
+        <translation type="obsolete">Contorno de forma</translation>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation>Especifique el color, ancho y estilo de línea para el contorno de la forma seleccionada.
+        <translation type="obsolete">Especifique el color, ancho y estilo de línea para el contorno de la forma seleccionada.
 
 Haga clic en la flecha para elegir más estilos de esquema.</translation>
     </message>
@@ -15755,35 +18202,35 @@ Haga clic en la flecha para elegir más estilos de esquema.</translation>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation>Cambia el espaciado entre líneas del texto.
+        <translation type="obsolete">Cambia el espaciado entre líneas del texto.
 
 También puede personalizar la cantidad de espacio agregado antes y despúes de los párrafos.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Espaciado entre líneas y párrafos</translation>
+        <translation type="obsolete">Espaciado entre líneas y párrafos</translation>
     </message>
 </context>
 <context>
     <name>tips.LinktoPreviousHeader</name>
     <message>
         <source>Link to Previous</source>
-        <translation>Vincular al anterior</translation>
+        <translation type="obsolete">Vincular al anterior</translation>
     </message>
     <message>
         <source>Make the header and footer of the current section the same as the previous section.</source>
-        <translation>Hacer que el encabezado y el pie de página de la sección actual sea el mismo que la sección anterior.</translation>
+        <translation type="obsolete">Hacer que el encabezado y el pie de página de la sección actual sea el mismo que la sección anterior.</translation>
     </message>
 </context>
 <context>
     <name>tips.LocateToSection</name>
     <message>
         <source>Locate to Section</source>
-        <translation>Buscar a la sección</translation>
+        <translation type="obsolete">Buscar a la sección</translation>
     </message>
     <message>
         <source>Relocate to the other section.</source>
-        <translation>Trasladarse a la otra sección.</translation>
+        <translation type="obsolete">Trasladarse a la otra sección.</translation>
     </message>
 </context>
 <context>
@@ -15792,86 +18239,86 @@ También puede personalizar la cantidad de espacio agregado antes y despúes de 
         <source>Synchronize the scrolling of two documents so that they scroll together.
 
 To enable this feature, turn on &quot;View Side by Side&quot;.</source>
-        <translation>Sincroniza el desplazamiento de los dos documentos para que se desplacen juntos.
+        <translation type="obsolete">Sincroniza el desplazamiento de los dos documentos para que se desplacen juntos.
 
 Para habilitar esta característica, habilite la &quot;función Ver en paralelo.&quot;.</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation>Desplazamiento sincrónico</translation>
+        <translation type="obsolete">Desplazamiento sincrónico</translation>
     </message>
 </context>
 <context>
     <name>tips.LooseLineSpacing</name>
     <message>
         <source>Loose Line Spacing</source>
-        <translation>Disminuir interlineado</translation>
+        <translation type="obsolete">Disminuir interlineado</translation>
     </message>
     <message>
         <source>Set 1.5 line spacing to the selected paragraph with snap to grid selected.</source>
-        <translation>Establecer el interlineado a 1.5 en el párrafo seleccionado con ajuste a la cuadrícula seleccionada.</translation>
+        <translation type="obsolete">Establecer el interlineado a 1.5 en el párrafo seleccionado con ajuste a la cuadrícula seleccionada.</translation>
     </message>
 </context>
 <context>
     <name>tips.Macro</name>
     <message>
         <source>View Macros</source>
-        <translation>Ver macros</translation>
+        <translation type="obsolete">Ver macros</translation>
     </message>
     <message>
         <source>View the list of Macros, from which you can run, create or delete a macro.</source>
-        <translation>Muestra la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
+        <translation type="obsolete">Muestra la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
 </context>
 <context>
     <name>tips.Mail</name>
     <message>
         <source>Click here to open Mailings tab, which includes features such as Mail Merge.</source>
-        <translation>Haga clic aquí para abrir ficha correspondencia, que incluye características tales como la combinación de correspondencia.</translation>
+        <translation type="obsolete">Haga clic aquí para abrir ficha correspondencia, que incluye características tales como la combinación de correspondencia.</translation>
     </message>
 </context>
 <context>
     <name>tips.MailMergeRecipients</name>
     <message>
         <source>Add or delete recipients from the Mail Merge Recipient list for receiving letters.</source>
-        <translation>Agregar o eliminar destinatarios de la lista de destinatarios de combinación de correspondencia para recibir cartas.</translation>
+        <translation type="obsolete">Agregar o eliminar destinatarios de la lista de destinatarios de combinación de correspondencia para recibir cartas.</translation>
     </message>
     <message>
         <source>Recipients</source>
-        <translation>Destinatarios</translation>
+        <translation type="obsolete">Destinatarios</translation>
     </message>
 </context>
 <context>
     <name>tips.MarkVersion</name>
     <message>
         <source>Manual Backup</source>
-        <translation>Respaldo manual</translation>
+        <translation type="obsolete">Respaldo manual</translation>
     </message>
     <message>
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
-        <translation>Sin cerrar el archivo, puede realizar una copia de respaldo del archivo actual, y añadir notas en el archivo respaldado.</translation>
+        <translation type="obsolete">Sin cerrar el archivo, puede realizar una copia de respaldo del archivo actual, y añadir notas en el archivo respaldado.</translation>
     </message>
 </context>
 <context>
     <name>tips.Markup</name>
     <message>
         <source>Revision Markup</source>
-        <translation>Marcas de revisión</translation>
+        <translation type="obsolete">Marcas de revisión</translation>
     </message>
     <message>
         <source>Show or hide revision markups in the document.</source>
-        <translation>Mostrar u ocultar las marcas de revisión en el documento.</translation>
+        <translation type="obsolete">Mostrar u ocultar las marcas de revisión en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.MatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translation>Asignar campos</translation>
+        <translation type="obsolete">Asignar campos</translation>
     </message>
     <message>
         <source>Match Fields allows you to tell Writer the meanings of different fields in the recipient list. For example, you can indicate that your custom field &quot;Zip&quot; is equivalent to normal built-in field &quot;Zip Code&quot;.</source>
-        <translation>Asignar campos le permite indicar a Writer el significado de diferentes campos en la lista de destinatarios.
+        <translation type="obsolete">Asignar campos le permite indicar a Writer el significado de diferentes campos en la lista de destinatarios.
 
 Por ejemplo, puede indicar que el campo personalizado &quot;&quot;Particular&quot;&quot; equivale al campo integrado &quot;&quot;Teléfono particular&quot;&quot;.</translation>
     </message>
@@ -15880,208 +18327,208 @@ Por ejemplo, puede indicar que el campo personalizado &quot;&quot;Particular&quo
     <name>tips.MergeCells</name>
     <message>
         <source>Merge Cells</source>
-        <translation>Combinar celdas</translation>
+        <translation type="obsolete">Combinar celdas</translation>
     </message>
     <message>
         <source>Merge the selected cells into one cell.</source>
-        <translation>Combinar las celdas seleccionadas en una sola celda.</translation>
+        <translation type="obsolete">Combinar las celdas seleccionadas en una sola celda.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToDiffNewDoc</name>
     <message>
         <source>Export the merged mail content to different documents according to the recipient list.</source>
-        <translation>Exportar el contenido de correo a diferentes documentos de acuerdo con la lista de destinatarios.</translation>
+        <translation type="obsolete">Exportar el contenido de correo a diferentes documentos de acuerdo con la lista de destinatarios.</translation>
     </message>
     <message>
         <source>Merge to Different New Documents</source>
-        <translation>Combinar en diferentes nuevos documentos</translation>
+        <translation type="obsolete">Combinar en diferentes nuevos documentos</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToEmail</name>
     <message>
         <source>Merge to Email</source>
-        <translation>Combinar en un correo electrónico</translation>
+        <translation type="obsolete">Combinar en un correo electrónico</translation>
     </message>
     <message>
         <source>Send merged content via email.</source>
-        <translation>Enviar contenido combinado por correo electrónico.</translation>
+        <translation type="obsolete">Enviar contenido combinado por correo electrónico.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToNewDoc</name>
     <message>
         <source>Export merged content to a new document.</source>
-        <translation>Exportar contenido combinado a un nuevo documento.</translation>
+        <translation type="obsolete">Exportar contenido combinado a un nuevo documento.</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
-        <translation>Combinar en un documento nuevo</translation>
+        <translation type="obsolete">Combinar en un documento nuevo</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToPrinter</name>
     <message>
         <source>Merge to Printer</source>
-        <translation>Combinar al imprimir</translation>
+        <translation type="obsolete">Combinar al imprimir</translation>
     </message>
     <message>
         <source>Print the merged content.</source>
-        <translation>Imprimir el contenido combinado.</translation>
+        <translation type="obsolete">Imprimir el contenido combinado.</translation>
     </message>
 </context>
 <context>
     <name>tips.NavigationPane</name>
     <message>
         <source>Navigation Pane</source>
-        <translation>Panel de navegación</translation>
+        <translation type="obsolete">Panel de navegación</translation>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
-        <translation>Abre el panel de navegación, que permite navegar por el documento por encabezado, página o mediante la búsqueda de texto u objetos.</translation>
+        <translation type="obsolete">Abre el panel de navegación, que permite navegar por el documento por encabezado, página o mediante la búsqueda de texto u objetos.</translation>
     </message>
 </context>
 <context>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation>Nueva ventana</translation>
+        <translation type="obsolete">Nueva ventana</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation>Abre una nueva ventana que contenga una vista del documento actual.</translation>
+        <translation type="obsolete">Abre una nueva ventana que contenga una vista del documento actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextChange</name>
     <message>
         <source>Navigate to the next revision in the document so that you can accept or reject it.</source>
-        <translation>Desplazarse hasta la próxima revisión en el documento para que pueda aceptarla o rechazarla.</translation>
+        <translation type="obsolete">Desplazarse hasta la próxima revisión en el documento para que pueda aceptarla o rechazarla.</translation>
     </message>
     <message>
         <source>Next Change</source>
-        <translation>Siguiente Cambio</translation>
+        <translation type="obsolete">Siguiente Cambio</translation>
     </message>
 </context>
 <context>
     <name>tips.NextComment</name>
     <message>
         <source>Navigate to the next comment in the document.</source>
-        <translation>Se desplaza al siguiente comentario del documento.</translation>
+        <translation type="obsolete">Se desplaza al siguiente comentario del documento.</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Siguiente comentario</translation>
+        <translation type="obsolete">Siguiente comentario</translation>
     </message>
 </context>
 <context>
     <name>tips.NextHeader</name>
     <message>
         <source>Navigate to the next section&apos;s header or footer based upon the current cursor position.</source>
-        <translation>Desplazarse hasta la siguiente sección&apos;s encabezado o pie de página basado en la posición actual del cursor.</translation>
+        <translation type="obsolete">Desplazarse hasta la siguiente sección&apos;s encabezado o pie de página basado en la posición actual del cursor.</translation>
     </message>
     <message>
         <source>Show Next</source>
-        <translation>Mostrar siguiente</translation>
+        <translation type="obsolete">Mostrar siguiente</translation>
     </message>
 </context>
 <context>
     <name>tips.NextRecord</name>
     <message>
         <source>Next Record</source>
-        <translation>Siguiente registro</translation>
+        <translation type="obsolete">Siguiente registro</translation>
     </message>
     <message>
         <source>Preview the next record in the recipient list.</source>
-        <translation>Vista previa del siguiente registro en la lista de destinatarios.</translation>
+        <translation type="obsolete">Vista previa del siguiente registro en la lista de destinatarios.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextSection</name>
     <message>
         <source>Navigate to the next part of the current section.</source>
-        <translation>Desplazarse a la siguiente parte de la sección actual.</translation>
+        <translation type="obsolete">Desplazarse a la siguiente parte de la sección actual.</translation>
     </message>
     <message>
         <source>Next Section</source>
-        <translation>Sección siguiente</translation>
+        <translation type="obsolete">Sección siguiente</translation>
     </message>
 </context>
 <context>
     <name>tips.NextTextBox</name>
     <message>
         <source>Navigate to the next text box linked to the current one.</source>
-        <translation>Desplazarse a la siguiente caja de texto vinculada a la actual.</translation>
+        <translation type="obsolete">Desplazarse a la siguiente caja de texto vinculada a la actual.</translation>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation>Siguiente cuadro de texto</translation>
+        <translation type="obsolete">Siguiente cuadro de texto</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-        <translation>Mover la sombra del objeto seleccionado hacia abajo.</translation>
+        <translation type="obsolete">Mover la sombra del objeto seleccionado hacia abajo.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>Empujar sombra hacia abajo</translation>
+        <translation type="obsolete">Empujar sombra hacia abajo</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-        <translation>Mover la sombra del objeto seleccionado a la izquierda.</translation>
+        <translation type="obsolete">Mover la sombra del objeto seleccionado a la izquierda.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>Empujar sombra a la izquierda</translation>
+        <translation type="obsolete">Empujar sombra a la izquierda</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-        <translation>Mover la sombra del objeto seleccionado a la derecha.</translation>
+        <translation type="obsolete">Mover la sombra del objeto seleccionado a la derecha.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>Empujar sombra a la derecha</translation>
+        <translation type="obsolete">Empujar sombra a la derecha</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-        <translation>Mover la sombra del objeto seleccionado hacia arriba.</translation>
+        <translation type="obsolete">Mover la sombra del objeto seleccionado hacia arriba.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>Empujar sombra hacia arriba</translation>
+        <translation type="obsolete">Empujar sombra hacia arriba</translation>
     </message>
 </context>
 <context>
     <name>tips.Numbering</name>
     <message>
         <source>Bullets</source>
-        <translation>Viñetas</translation>
+        <translation type="obsolete">Viñetas</translation>
     </message>
     <message>
         <source>Click the arrow to choose from different numbering formats.</source>
-        <translation>Haga clic en la flecha para elegir entre diferentes formatos de numeración.</translation>
+        <translation type="obsolete">Haga clic en la flecha para elegir entre diferentes formatos de numeración.</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>Numeración</translation>
+        <translation type="obsolete">Numeración</translation>
     </message>
     <message>
         <source>Start a numbered list.
 
 Click the arrow to choose from different numbering formats.</source>
-        <translation>Inicia una lista numerada.
+        <translation type="obsolete">Inicia una lista numerada.
 
 Haga clic en la flecha para seleccionar diferentes formatos de numeración.</translation>
     </message>
@@ -16090,163 +18537,163 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
     <name>tips.ObjectSelect</name>
     <message>
         <source>Selection Pane</source>
-        <translation>Panel de selección</translation>
+        <translation type="obsolete">Panel de selección</translation>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation>Muestra el panel de selección para ayudar a seleccionar objetos individuales y para cambiar el orden y la visibilidad.</translation>
+        <translation type="obsolete">Muestra el panel de selección para ayudar a seleccionar objetos individuales y para cambiar el orden y la visibilidad.</translation>
     </message>
 </context>
 <context>
     <name>tips.OnePage</name>
     <message>
         <source>One Page</source>
-        <translation>Una página</translation>
+        <translation type="obsolete">Una página</translation>
     </message>
     <message>
         <source>Zoom the document so that an entire page fits in the window.</source>
-        <translation>Acerca el documento para que se ajuste toda la página en la ventana.</translation>
+        <translation type="obsolete">Acerca el documento para que se ajuste toda la página en la ventana.</translation>
     </message>
 </context>
 <context>
     <name>tips.OpenDataSource</name>
     <message>
         <source>Click here to open or close Data Source files.</source>
-        <translation>Haga clic aquí para abrir o cerrar archivos de origen de datos.</translation>
+        <translation type="obsolete">Haga clic aquí para abrir o cerrar archivos de origen de datos.</translation>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Abrir origen de datos</translation>
+        <translation type="obsolete">Abrir origen de datos</translation>
     </message>
     <message>
         <source>Open data soucres in the local folder, such as spreadsheet files, database files and text files.</source>
-        <translation>Abrir orígenes de datos en la carpeta local, tales como hojas de cálculo, archivos de bases de datos y archivos de texto.</translation>
+        <translation type="obsolete">Abrir orígenes de datos en la carpeta local, tales como hojas de cálculo, archivos de bases de datos y archivos de texto.</translation>
     </message>
 </context>
 <context>
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-        <translation>Vista esquema</translation>
+        <translation type="obsolete">Vista esquema</translation>
     </message>
     <message>
         <source>View the document as an outline.</source>
-        <translation>Muestra el documento como un esquema y muestra las herramientas de esquema.</translation>
+        <translation type="obsolete">Muestra el documento como un esquema y muestra las herramientas de esquema.</translation>
     </message>
 </context>
 <context>
     <name>tips.OutLineLevelComboOnOutlining</name>
     <message>
         <source>Outline Level</source>
-        <translation>Nivel de esquema</translation>
+        <translation type="obsolete">Nivel de esquema</translation>
     </message>
     <message>
         <source>Set an outline level for the selected paragraph.</source>
-        <translation>Establecer un nivel de esquema para el párrafo seleccionado.</translation>
+        <translation type="obsolete">Establecer un nivel de esquema para el párrafo seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageLayoutDetailedSettings</name>
     <message>
         <source>PageLayoutDetailedSettings Content</source>
-        <translation>Ajustes detallados de contenido de diseño de página</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de diseño de página</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings Title</source>
-        <translation>Ajustes detallados de título de diseño de página</translation>
+        <translation type="obsolete">Ajustes detallados de título de diseño de página</translation>
     </message>
 </context>
 <context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
-        <translation>Insertar número de página</translation>
+        <translation type="obsolete">Insertar número de página</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
-        <translation>Inserta números de páginas en el documento.</translation>
+        <translation type="obsolete">Inserta números de páginas en el documento.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.PageNumberFormat</name>
     <message>
         <source>Page Number Format</source>
-        <translation>Formato del número de página</translation>
+        <translation type="obsolete">Formato del número de página</translation>
     </message>
     <message>
         <source>Select number formats for page numbers in the current document.</source>
-        <translation>Seleccione los formatos de número para los números de página en el documento actual.</translation>
+        <translation type="obsolete">Seleccione los formatos de número para los números de página en el documento actual.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageNumberStart</name>
     <message>
         <source>Page Number Start</source>
-        <translation>Número de página de inicio</translation>
+        <translation type="obsolete">Número de página de inicio</translation>
     </message>
     <message>
         <source>Set a page number for the current page, this becomes available when Page Number Start at is enabled.</source>
-        <translation>Establecer un número de página de la página actual, esto se convierte en disponible cuando el número de pagina se ha iniciado.</translation>
+        <translation type="obsolete">Establecer un número de página de la página actual, esto se convierte en disponible cuando el número de pagina se ha iniciado.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
-        <translation>Orientación de página</translation>
+        <translation type="obsolete">Orientación de página</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
-        <translation>Cambia el diseño de la página entre horizontal o vertical.</translation>
+        <translation type="obsolete">Cambia el diseño de la página entre horizontal o vertical.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation>Configurar página</translation>
+        <translation type="obsolete">Configurar página</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation>Mostrar el cuadro de diálogo Configurar página.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo Configurar página.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageWidth</name>
     <message>
         <source>Page Width</source>
-        <translation>Ancho de página</translation>
+        <translation type="obsolete">Ancho de página</translation>
     </message>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
-        <translation>Acerca el documento para que el ancho de la página coincida con el ancho de la ventana.</translation>
+        <translation type="obsolete">Acerca el documento para que el ancho de la página coincida con el ancho de la ventana.</translation>
     </message>
 </context>
 <context>
     <name>tips.ParagraphDetailedSettings</name>
     <message>
         <source>ParagraphDetailedSettings Content</source>
-        <translation>Ajustes detallados de contenido de párrafo</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de párrafo</translation>
     </message>
     <message>
         <source>ParagraphDetailedSettings Title</source>
-        <translation>Ajustes detallados de título de párrafo</translation>
+        <translation type="obsolete">Ajustes detallados de título de párrafo</translation>
     </message>
 </context>
 <context>
@@ -16255,93 +18702,93 @@ Haga clic en la flecha para seleccionar diferentes formatos de numeración.</tra
         <source>Display phonetic characters to clarify the pronunciation.
 
 Click the arrow to choose Change Case, Enclose Characters, and Character Border options.</source>
-        <translation>Visualizar caracteres fonéticos para aclarar la pronunciación.
+        <translation type="obsolete">Visualizar caracteres fonéticos para aclarar la pronunciación.
 
 Haga clic en la flecha para elegir cambiar mayúsculas y minúsculas, encerrar caracteres y opciones de bordes de caracteres.</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>Guía fonética</translation>
+        <translation type="obsolete">Guía fonética</translation>
     </message>
 </context>
 <context>
     <name>tips.PhoneticGuide2</name>
     <message>
         <source>Click the arrow to choose Phonetic Guide, Change Case, Enclose Characters and Character Border options.</source>
-        <translation>Haga clic en la flecha para elegir cambiar mayúsculas y minúsculas, encerrar caracteres y opciones de bordes de caracteres.</translation>
+        <translation type="obsolete">Haga clic en la flecha para elegir cambiar mayúsculas y minúsculas, encerrar caracteres y opciones de bordes de caracteres.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>Otras opciones</translation>
+        <translation type="obsolete">Otras opciones</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation>Ajustar imagen</translation>
+        <translation type="obsolete">Ajustar imagen</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation>Aumenta o disminuye el contraste y el brillo de la imagen seleccionada.</translation>
+        <translation type="obsolete">Aumenta o disminuye el contraste y el brillo de la imagen seleccionada.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureColor</name>
     <message>
         <source>Recolor</source>
-        <translation>Cambiar el color</translation>
+        <translation type="obsolete">Cambiar el color</translation>
     </message>
     <message>
         <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
-        <translation>Cambiar el color de la imagen para darle un efecto blanco y negro, de lavado o de color transparente.</translation>
+        <translation type="obsolete">Cambiar el color de la imagen para darle un efecto blanco y negro, de lavado o de color transparente.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureCrop</name>
     <message>
         <source>Crop</source>
-        <translation>Recortar</translation>
+        <translation type="obsolete">Recortar</translation>
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation>Recortar la imagen para eliminar las partes no deseadas.</translation>
+        <translation type="obsolete">Recortar la imagen para eliminar las partes no deseadas.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureFill</name>
     <message>
         <source>Click the arrow to select different fill modes.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes modos de relleno.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes modos de relleno.</translation>
     </message>
     <message>
         <source>Fill the selected object with a color, gradient, pattern and picture.
 
 Click the arrow to select different fill modes.</source>
-        <translation>Rellena el objeto seleccionado con un color, degradado, una trama o imagen.
+        <translation type="obsolete">Rellena el objeto seleccionado con un color, degradado, una trama o imagen.
 
 Haga clic en la flecha para seleccionar diferentes modos de relleno.</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Relleno de imagen</translation>
+        <translation type="obsolete">Relleno de imagen</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureOutline</name>
     <message>
         <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation>Haga clic en la flecha para seleccionar la configuración detallada para el objeto seleccionado.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar la configuración detallada para el objeto seleccionado.</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Contorno de imagen</translation>
+        <translation type="obsolete">Contorno de imagen</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
 
 Click the arrow to select detailed settings for the selected object.</source>
-        <translation>Definir la imagen de color de contorno, ancho esquema y estilo de esquema para el objeto seleccionado.
+        <translation type="obsolete">Definir la imagen de color de contorno, ancho esquema y estilo de esquema para el objeto seleccionado.
 
 Haga clic en la flecha para seleccionar la configuración detallada para el objeto seleccionado.</translation>
     </message>
@@ -16350,213 +18797,213 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
     <name>tips.PictureSetTransparentColor</name>
     <message>
         <source>PictureSetTransparentColor Content</source>
-        <translation>Ajustar el contenido del color transparente de la imágen</translation>
+        <translation type="obsolete">Ajustar el contenido del color transparente de la imágen</translation>
     </message>
     <message>
         <source>PictureSetTransparentColor Title</source>
-        <translation>Ajustar el color transparente del título deleccionado</translation>
+        <translation type="obsolete">Ajustar el color transparente del título deleccionado</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation>Cambiar el tamaño, grado de rotación y zoom de la forma seleccionada.</translation>
+        <translation type="obsolete">Cambiar el tamaño, grado de rotación y zoom de la forma seleccionada.</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Tamaño de imagen</translation>
+        <translation type="obsolete">Tamaño de imagen</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureToolsDetailedSettings</name>
     <message>
         <source>PictureToolsDetailedSettings Content</source>
-        <translation>Ajustes detallados de contenido de herramientas de imágen</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de herramientas de imágen</translation>
     </message>
     <message>
         <source>PictureToolsDetailedSettings Title</source>
-        <translation>Ajustes detallados de título de herramientas de imágen</translation>
+        <translation type="obsolete">Ajustes detallados de título de herramientas de imágen</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousChange</name>
     <message>
         <source>Navigate to the previous revision in the document so that you can accept or reject it.</source>
-        <translation>Desplazarse a la revisión anterior en el documento para que pueda aceptarla o rechazarla.</translation>
+        <translation type="obsolete">Desplazarse a la revisión anterior en el documento para que pueda aceptarla o rechazarla.</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation>Cambio anterior</translation>
+        <translation type="obsolete">Cambio anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousComment</name>
     <message>
         <source>Navigate to the previous comment in the document.</source>
-        <translation>Va al comentario anterior en el documento.</translation>
+        <translation type="obsolete">Va al comentario anterior en el documento.</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>Comentario anterior</translation>
+        <translation type="obsolete">Comentario anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousHeader</name>
     <message>
         <source>Navigate to the previous section&apos;s header or footer based on the current cursor position.</source>
-        <translation>Desplazarse a la sección anterior&apos;s encabezado o pie de página basado en la posición actial del cursor.</translation>
+        <translation type="obsolete">Desplazarse a la sección anterior&apos;s encabezado o pie de página basado en la posición actial del cursor.</translation>
     </message>
     <message>
         <source>Show Previous</source>
-        <translation>Mostrar anterior</translation>
+        <translation type="obsolete">Mostrar anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousRecord</name>
     <message>
         <source>Preview the previous record in the recipient list</source>
-        <translation>Vista previa de la marca anterior en la lista de destinatarios</translation>
+        <translation type="obsolete">Vista previa de la marca anterior en la lista de destinatarios</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>Registro anterior</translation>
+        <translation type="obsolete">Registro anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousSection</name>
     <message>
         <source>Navigate to the previous section.</source>
-        <translation>Desplazarse a la sección anterior.</translation>
+        <translation type="obsolete">Desplazarse a la sección anterior.</translation>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation>Sección anterior</translation>
+        <translation type="obsolete">Sección anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousTextBox</name>
     <message>
         <source>Navigate to the previous text box that is linked to the selected text box.</source>
-        <translation>Desplazarse al cuadro de texto anterior que está vinculado al cuadro de texto seleccionado.</translation>
+        <translation type="obsolete">Desplazarse al cuadro de texto anterior que está vinculado al cuadro de texto seleccionado.</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation>Cuadro de texto anterior</translation>
+        <translation type="obsolete">Cuadro de texto anterior</translation>
     </message>
 </context>
 <context>
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation>Aplicar ajustes detallados para la impresión, como la impresora, el intervalo de impresión, copias impresas, páginas por hoja y zoom.</translation>
+        <translation type="obsolete">Aplicar ajustes detallados para la impresión, como la impresora, el intervalo de impresión, copias impresas, páginas por hoja y zoom.</translation>
     </message>
     <message>
         <source>Click here to set details of printing, or use default settings to print directly.</source>
-        <translation>Haga clic aquí para configurar los detalles de impresión, o utilizar la configuración predeterminada para imprimir directamente.</translation>
+        <translation type="obsolete">Haga clic aquí para configurar los detalles de impresión, o utilizar la configuración predeterminada para imprimir directamente.</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Imprimir</translation>
+        <translation type="obsolete">Imprimir</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-        <translation>Impresión rápida</translation>
+        <translation type="obsolete">Impresión rápida</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation>Enviar el documento directamente a la impresora predeterminada sin realizar cambios.</translation>
+        <translation type="obsolete">Enviar el documento directamente a la impresora predeterminada sin realizar cambios.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintLayoutView</name>
     <message>
         <source>Print Layout</source>
-        <translation>Diseño de impresión</translation>
+        <translation type="obsolete">Diseño de impresión</translation>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-        <translation>Muestra el documento tal y cómo aparecerá en la págian impresa.</translation>
+        <translation type="obsolete">Muestra el documento tal y cómo aparecerá en la págian impresa.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation>Ver y hacer cambios en las páginas antes de imprimir.</translation>
+        <translation type="obsolete">Ver y hacer cambios en las páginas antes de imprimir.</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Vista preliminar</translation>
+        <translation type="obsolete">Vista preliminar</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-        <translation>Especifique el nivel de zoom del documento actual.</translation>
+        <translation type="obsolete">Especifique el nivel de zoom del documento actual.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintShowViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>Regla</translation>
+        <translation type="obsolete">Regla</translation>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
-        <translation>Muestra las reglas utilizadas para medir y alinear objetos en el documento.</translation>
+        <translation type="obsolete">Muestra las reglas utilizadas para medir y alinear objetos en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteOnOutlining</name>
     <message>
         <source>Promote</source>
-        <translation>Promover</translation>
+        <translation type="obsolete">Promover</translation>
     </message>
     <message>
         <source>Promote the selected item to a higher level.</source>
-        <translation>Promover el elemento seleccionado a un nivel superior.</translation>
+        <translation type="obsolete">Promover el elemento seleccionado a un nivel superior.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteOnParagraph</name>
     <message>
         <source>Promote directory level</source>
-        <translation>Promover a nivel de directorio</translation>
+        <translation type="obsolete">Promover a nivel de directorio</translation>
     </message>
     <message>
         <source>Promote the directory level of the selected paragraph to a higher level.</source>
-        <translation>Promover el nivel de directorio del párrafo seleccionado a un nivel superior.</translation>
+        <translation type="obsolete">Promover el nivel de directorio del párrafo seleccionado a un nivel superior.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteToHighestLevelOnOutlining</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation>Promover este tema al más alto nivel del esquema.</translation>
+        <translation type="obsolete">Promover este tema al más alto nivel del esquema.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Promover a encabezado 1</translation>
+        <translation type="obsolete">Promover a encabezado 1</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteToHighestLevelOnParagraph</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation>Promover este tema al más alto nivel del esquema.</translation>
+        <translation type="obsolete">Promover este tema al más alto nivel del esquema.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Promover a encabezado 1</translation>
+        <translation type="obsolete">Promover a encabezado 1</translation>
     </message>
 </context>
 <context>
@@ -16574,67 +19021,67 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation>Portapapeles</translation>
+        <translation type="obsolete">Portapapeles</translation>
     </message>
     <message>
         <source>View items on Clipboard.</source>
-        <translation>Ver los elementos en el portapapeles.</translation>
+        <translation type="obsolete">Ver los elementos en el portapapeles.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Font</name>
     <message>
         <source>Font</source>
-        <translation>Fuente</translation>
+        <translation type="obsolete">Fuente</translation>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-        <translation>Mostrar el cuadro de diálogo Fuente.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo Fuente.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Paragraph</name>
     <message>
         <source>Paragraph</source>
-        <translation>Párrafo</translation>
+        <translation type="obsolete">Párrafo</translation>
     </message>
     <message>
         <source>Show the Paragraph dialog box.</source>
-        <translation>Mostrar el cuadro de diálogo Párrafo.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo Párrafo.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Style</name>
     <message>
         <source>Show the Styles and Formatting task pane.</source>
-        <translation>Mostrar el panel de tareas de estilos y formato.</translation>
+        <translation type="obsolete">Mostrar el panel de tareas de estilos y formato.</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>Estilos y formato</translation>
+        <translation type="obsolete">Estilos y formato</translation>
     </message>
 </context>
 <context>
     <name>tips.RbTableOutsideBorder</name>
     <message>
         <source>Click the arrow to select different borders.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes bordes.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes bordes.</translation>
     </message>
     <message>
         <source>Customize the borders of the selected cells or text.</source>
-        <translation>Personaliza los bordes de las celdas o texto seleccionado.</translation>
+        <translation type="obsolete">Personaliza los bordes de las celdas o texto seleccionado.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Bordes exteriores</translation>
+        <translation type="obsolete">Bordes exteriores</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16643,13 +19090,13 @@ Haga clic en la flecha para seleccionar la configuración detallada para el obje
         <source>Execute sum, average, maximum or minimum value calculations for the selected row or column data.
 
 Results will be displayed in a cell following the selected cells in the same row or column. If there is no cell after that, a new row or column will be created.</source>
-        <translation>Ejecutar suma, promedio, cálculos máximos o mínimos de valor para la fila seleccionada o los datos de la columna.
+        <translation type="obsolete">Ejecutar suma, promedio, cálculos máximos o mínimos de valor para la fila seleccionada o los datos de la columna.
 
 Los resultados se mostrarán en una celda después de las celdas seleccionadas en la misma fila o columna. Si no hay ninguna celda después de eso, se creará una nueva fila o columna.</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
-        <translation>Cálculo rápido</translation>
+        <translation type="obsolete">Cálculo rápido</translation>
     </message>
 </context>
 <context>
@@ -16658,210 +19105,202 @@ Los resultados se mostrarán en una celda después de las celdas seleccionadas e
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation>Cambia el color del texto.</translation>
+        <translation type="obsolete">Cambia el color del texto.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation>Haga clic en la flecha para seleccionar un color de texto diferente.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar un color de texto diferente.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Color de fuente</translation>
+        <translation type="obsolete">Color de fuente</translation>
     </message>
 </context>
 <context>
     <name>tips.RecentTableShadingColor</name>
     <message>
         <source>Click the arrow to select different background colors.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes colores de fondo.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes colores de fondo.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different background colors.</source>
-        <translation>Colorea el fondo del texto o párrafo seleccionado.</translation>
+        <translation type="obsolete">Colorea el fondo del texto o párrafo seleccionado.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>Sombreado</translation>
+        <translation type="obsolete">Sombreado</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ReducedStep</name>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation>Espaciado entre líneas y párrafos</translation>
+        <translation type="obsolete">Espaciado entre líneas y párrafos</translation>
     </message>
     <message>
         <source>Reduce the line spacing of the selected paragraph by 0.25.</source>
-        <translation>Reducir el interlineado del párrafo seleccionado por 0.25.</translation>
+        <translation type="obsolete">Reducir el interlineado del párrafo seleccionado por 0.25.</translation>
     </message>
 </context>
 <context>
     <name>tips.RejectChangeOnTB</name>
     <message>
         <source>Click the arrow to reject all changes in the document.</source>
-        <translation>Haga clic en la flecha para rechazar todos los cambios en el documento.</translation>
+        <translation type="obsolete">Haga clic en la flecha para rechazar todos los cambios en el documento.</translation>
     </message>
     <message>
         <source>Reject the current change and delete the comment.</source>
-        <translation>Rechazar el cambio actual y eliminar el comentario.</translation>
+        <translation type="obsolete">Rechazar el cambio actual y eliminar el comentario.</translation>
     </message>
     <message>
         <source>Reject the selected change</source>
-        <translation>Rechazar el cambio seleccionado</translation>
+        <translation type="obsolete">Rechazar el cambio seleccionado</translation>
     </message>
 </context>
 <context>
     <name>tips.RejectRevisionOnTB</name>
     <message>
         <source>Click here to reject all changes in the document.</source>
-        <translation>Haga clic aquí para rechazar todos los cambios en el documento.</translation>
+        <translation type="obsolete">Haga clic aquí para rechazar todos los cambios en el documento.</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation>Rechazar cambio</translation>
+        <translation type="obsolete">Rechazar cambio</translation>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation>Rechazar el cambio actual y eliminar el comentario</translation>
+        <translation type="obsolete">Rechazar el cambio actual y eliminar el comentario</translation>
     </message>
 </context>
 <context>
     <name>tips.RelocateDownOnOutlining</name>
     <message>
         <source>Move Down</source>
-        <translation>Bajar</translation>
+        <translation type="obsolete">Bajar</translation>
     </message>
     <message>
         <source>Move the selected item down within the outline.</source>
-        <translation>Mover el elemento seleccionado hacia abajo dentro del contorno.</translation>
+        <translation type="obsolete">Mover el elemento seleccionado hacia abajo dentro del contorno.</translation>
     </message>
 </context>
 <context>
     <name>tips.RelocateUpOnOutlining</name>
     <message>
         <source>Move Up</source>
-        <translation>Subir</translation>
+        <translation type="obsolete">Subir</translation>
     </message>
     <message>
         <source>Move the selected item up within the outline.</source>
-        <translation>Mover el elemento seleccionado hacia arriba dentro del contorno.</translation>
+        <translation type="obsolete">Mover el elemento seleccionado hacia arriba dentro del contorno.</translation>
     </message>
 </context>
 <context>
     <name>tips.Replace</name>
     <message>
         <source>Replace</source>
-        <translation>Reemplazar</translation>
+        <translation type="obsolete">Reemplazar</translation>
     </message>
     <message>
         <source>Replace text content in the document.</source>
-        <translation>Reemplazar el contenido del texto en el documento.</translation>
+        <translation type="obsolete">Reemplazar el contenido del texto en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetPicture</name>
     <message>
         <source>Discard all the formatting changes you made to this picture.</source>
-        <translation>Descartar todos los cambios de formato realizados en esta imagen.</translation>
+        <translation type="obsolete">Descartar todos los cambios de formato realizados en esta imagen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Restablecer imagen</translation>
+        <translation type="obsolete">Restablecer imagen</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.RestartPageNumber</name>
     <message>
         <source>Reset the starting page number of the current document.</source>
-        <translation>Reinicie el número de página inicial del documento actual.</translation>
+        <translation type="obsolete">Reinicie el número de página inicial del documento actual.</translation>
     </message>
     <message>
         <source>Restart Page Numbering</source>
-        <translation>Reiniciar numeración de página</translation>
+        <translation type="obsolete">Reiniciar numeración de página</translation>
     </message>
 </context>
 <context>
     <name>tips.RestrictEditing</name>
-    <message>
-        <source>RestrictEditing Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RestrictEditing Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation>Regla</translation>
+        <translation type="obsolete">Regla</translation>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
-        <translation>Mostrar u ocultar la regla, que se utiliza para medir y alinear objetos en el documento.</translation>
+        <translation type="obsolete">Mostrar u ocultar la regla, que se utiliza para medir y alinear objetos en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.RunMacro</name>
     <message>
         <source>Show Macros dialog box, view the list of macros, from which you can run, delete, or create a macro directly.</source>
-        <translation>Ver la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
+        <translation type="obsolete">Ver la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
     <message>
         <source>View Macros</source>
-        <translation>Ver macros</translation>
+        <translation type="obsolete">Ver macros</translation>
     </message>
 </context>
 <context>
     <name>tips.SectionDetailedSettings</name>
     <message>
         <source>SectionDetailedSettings Content</source>
-        <translation>Ajustes detallados de sección de contenido</translation>
+        <translation type="obsolete">Ajustes detallados de sección de contenido</translation>
     </message>
     <message>
         <source>SectionDetailedSettings Title</source>
-        <translation>Ajustes detallados de título de sección</translation>
+        <translation type="obsolete">Ajustes detallados de título de sección</translation>
     </message>
 </context>
 <context>
     <name>tips.Security</name>
     <message>
         <source>Customize the macro security settings.</source>
-        <translation>Personaliza la configuración de seguridad de la macro.</translation>
+        <translation type="obsolete">Personaliza la configuración de seguridad de la macro.</translation>
     </message>
     <message>
         <source>Macros Security</source>
-        <translation>Seguridad de macros</translation>
+        <translation type="obsolete">Seguridad de macros</translation>
     </message>
 </context>
 <context>
     <name>tips.Select</name>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation type="obsolete">Seleccionar</translation>
     </message>
     <message>
         <source>Select text or objects in the document.</source>
-        <translation>Selcciona texo u objetos en el documento.
+        <translation type="obsolete">Selcciona texo u objetos en el documento.
 
 Utilice seleccionar objeto para seleccionar objetos situados detrás del texto.</translation>
     </message>
@@ -16870,189 +19309,189 @@ Utilice seleccionar objeto para seleccionar objetos situados detrás del texto.<
     <name>tips.SendBackward</name>
     <message>
         <source>Send Backward</source>
-        <translation>Enviar atrás</translation>
+        <translation type="obsolete">Enviar atrás</translation>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-        <translation>Lleva el objeto seleccionado hacia atrás para que quede oculto detrás de otros objetos.</translation>
+        <translation type="obsolete">Lleva el objeto seleccionado hacia atrás para que quede oculto detrás de otros objetos.</translation>
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation>Enviar un objeto un paso hacia atrás o colocarlo detrás de todos los demás objetos.</translation>
+        <translation type="obsolete">Enviar un objeto un paso hacia atrás o colocarlo detrás de todos los demás objetos.</translation>
     </message>
 </context>
 <context>
     <name>tips.Separator</name>
     <message>
         <source>After inserting footnote/endnote, show or hide the footnote/endnote separator line at the bottom of the document.</source>
-        <translation>Después de insertar nota al pie / nota al final, muestra u oculta la línea de separación nota / nota al final en la parte inferior del documento.</translation>
+        <translation type="obsolete">Después de insertar nota al pie / nota al final, muestra u oculta la línea de separación nota / nota al final en la parte inferior del documento.</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator Line</source>
-        <translation>Mostrar linea de separador Nota al pie/Nota al final</translation>
+        <translation type="obsolete">Mostrar linea de separador Nota al pie/Nota al final</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowColor</name>
     <message>
         <source>Click the arrow to select different shadow colors.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes colores de sombra.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes colores de sombra.</translation>
     </message>
     <message>
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-        <translation>Ajusta el color de la sombra del objeto seleccionado.
+        <translation type="obsolete">Ajusta el color de la sombra del objeto seleccionado.
 
 Haga clic en la flecha para seleccionar diferentes colores de sombra.</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>Color de sombra</translation>
+        <translation type="obsolete">Color de sombra</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowOnOff</name>
     <message>
         <source>Shadow On/Off</source>
-        <translation>Activar/Desactivar sombra</translation>
+        <translation type="obsolete">Activar/Desactivar sombra</translation>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-        <translation>Activa o desactiva la sombra del objeto seleccionado.</translation>
+        <translation type="obsolete">Activa o desactiva la sombra del objeto seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowSetting</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation>Añadir un efecto visual para el objeto seleccionado.</translation>
+        <translation type="obsolete">Añadir un efecto visual para el objeto seleccionado.</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>Efectos de sombra</translation>
+        <translation type="obsolete">Efectos de sombra</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation>Ajusta el tamaño, grados de rotación y zoom para la forma seleccionada.</translation>
+        <translation type="obsolete">Ajusta el tamaño, grados de rotación y zoom para la forma seleccionada.</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation>Tamaño de la forma</translation>
+        <translation type="obsolete">Tamaño de la forma</translation>
     </message>
 </context>
 <context>
     <name>tips.Shapes</name>
     <message>
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
-        <translation>Inserta formas previamente diseñadas como rectángulos y círculos, flechas, líneas, símbolos de diagrama de flujo y llamadas.</translation>
+        <translation type="obsolete">Inserta formas previamente diseñadas como rectángulos y círculos, flechas, líneas, símbolos de diagrama de flujo y llamadas.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>Formas</translation>
+        <translation type="obsolete">Formas</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowDocumentMap</name>
     <message>
         <source>Click here to choose which position to display the Document Map pane.</source>
-        <translation>Haga clic aquí para elegir la posición para mostrar el panel de mapa del documento.</translation>
+        <translation type="obsolete">Haga clic aquí para elegir la posición para mostrar el panel de mapa del documento.</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Mapa del documento</translation>
+        <translation type="obsolete">Mapa del documento</translation>
     </message>
     <message>
         <source>Show or hide the Document Map pane.</source>
-        <translation>Mostrar u ocultar el panel Mapa del documento.</translation>
+        <translation type="obsolete">Mostrar u ocultar el panel Mapa del documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFirstLineOnly</name>
     <message>
         <source>Show First Line Only</source>
-        <translation>Mostrar sólo primera línea</translation>
+        <translation type="obsolete">Mostrar sólo primera línea</translation>
     </message>
     <message>
         <source>Show only the first line of each item in the outline.</source>
-        <translation>Mostrar sólo la primera línea de cada elemento en el esquema.</translation>
+        <translation type="obsolete">Mostrar sólo la primera línea de cada elemento en el esquema.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFirstPageNumber</name>
     <message>
         <source>Show or hide the page number on the first page of the document.</source>
-        <translation>Mostrar u ocultar el número de página en la primera página del documento.</translation>
+        <translation type="obsolete">Mostrar u ocultar el número de página en la primera página del documento.</translation>
     </message>
     <message>
         <source>Show page number on first page</source>
-        <translation>Mostrar el número de página en la primera página</translation>
+        <translation type="obsolete">Mostrar el número de página en la primera página</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFormatting</name>
     <message>
         <source>Show Text Formatting</source>
-        <translation>Mostrar formato de texto</translation>
+        <translation type="obsolete">Mostrar formato de texto</translation>
     </message>
     <message>
         <source>Show or hide all the text formatting in the outline.</source>
-        <translation>Mostrar u ocultar todo el formato de texto en el esquema.</translation>
+        <translation type="obsolete">Mostrar u ocultar todo el formato de texto en el esquema.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowGridlines</name>
     <message>
         <source>Show or hide the gridlines within the table that has no borders.</source>
-        <translation>Muestra u oculta las líneas de cuadrícula en la tabla.</translation>
+        <translation type="obsolete">Muestra u oculta las líneas de cuadrícula en la tabla.</translation>
     </message>
     <message>
         <source>View Table Gridlines</source>
-        <translation>Ver líneas de cuadrícula de tabla</translation>
+        <translation type="obsolete">Ver líneas de cuadrícula de tabla</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHeaderOrFooter</name>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>Cambiar entre encabezado y pie de página</translation>
+        <translation type="obsolete">Cambiar entre encabezado y pie de página</translation>
     </message>
     <message>
         <source>Switch between the header and footer of the current page in the document.</source>
-        <translation>Cambie entre la cabecera y el pie de la página actual en el documento.</translation>
+        <translation type="obsolete">Cambie entre la cabecera y el pie de la página actual en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideFormattingMarks</name>
     <message>
         <source>Show all formatting symbols in the document.</source>
-        <translation>Mostrar todos los símbolos de formato en el documento.</translation>
+        <translation type="obsolete">Mostrar todos los símbolos de formato en el documento.</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation>Mostrar/Ocultar las marcas de edición</translation>
+        <translation type="obsolete">Mostrar/Ocultar las marcas de edición</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideTextOctopus</name>
     <message>
         <source>Show or hide the Paragraph Layout button in the document.</source>
-        <translation>Mostrar u ocultar el botón diseño de párrafo en el documento.</translation>
+        <translation type="obsolete">Mostrar u ocultar el botón diseño de párrafo en el documento.</translation>
     </message>
     <message>
         <source>Show/hide Paragraph Layout</source>
-        <translation>Mostrar/Ocultar diselo de párrafo</translation>
+        <translation type="obsolete">Mostrar/Ocultar diselo de párrafo</translation>
     </message>
 </context>
 <context>
@@ -17061,83 +19500,83 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
         <source>Choose which levels to show in the outline.
 
 The selected level and all higher levels will be visible.</source>
-        <translation>Elija los niveles para mostrar en el esquema.
+        <translation type="obsolete">Elija los niveles para mostrar en el esquema.
 
 El nivel seleccionado y todos los niveles superiores serán visibles.</translation>
     </message>
     <message>
         <source>Show Level</source>
-        <translation>Mostrar nivel</translation>
+        <translation type="obsolete">Mostrar nivel</translation>
     </message>
 </context>
 <context>
     <name>tips.ShrinkFont</name>
     <message>
         <source>Decrease the font size.</source>
-        <translation>Reduce el tamaño de la fuente.</translation>
+        <translation type="obsolete">Reduce el tamaño de la fuente.</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>Encoger fuente</translation>
+        <translation type="obsolete">Encoger fuente</translation>
     </message>
 </context>
 <context>
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation>Convertir el documento a Chino simplificado.</translation>
+        <translation type="obsolete">Convertir el documento a Chino simplificado.</translation>
     </message>
     <message>
         <source>Simplified</source>
-        <translation>Simplificado</translation>
+        <translation type="obsolete">Simplificado</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation>Dividir celdas</translation>
+        <translation type="obsolete">Dividir celdas</translation>
     </message>
     <message>
         <source>Split the selected cells into multiple new cells.</source>
-        <translation>Dividir las celdas seleccionadas en varias celdas nuevas.</translation>
+        <translation type="obsolete">Dividir las celdas seleccionadas en varias celdas nuevas.</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitSection</name>
     <message>
         <source>Click here to choose section break types.</source>
-        <translation>Haga clic aquí para elegir los tipos de salto de sección.</translation>
+        <translation type="obsolete">Haga clic aquí para elegir los tipos de salto de sección.</translation>
     </message>
     <message>
         <source>Insert the next section break into the document.</source>
-        <translation>Inserte el siguiente salto de sección en el documento.</translation>
+        <translation type="obsolete">Inserte el siguiente salto de sección en el documento.</translation>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Dividir sección</translation>
+        <translation type="obsolete">Dividir sección</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitTable</name>
     <message>
         <source>Split Table</source>
-        <translation>Dividir tabla</translation>
+        <translation type="obsolete">Dividir tabla</translation>
     </message>
     <message>
         <source>Split the table into two tables according to the rows or columns.</source>
-        <translation>Dividir la tabla en dos tablas de acuerdo a las filas o columnas.</translation>
+        <translation type="obsolete">Dividir la tabla en dos tablas de acuerdo a las filas o columnas.</translation>
     </message>
 </context>
 <context>
     <name>tips.StopAutoVersion</name>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Detener auto respaldo</translation>
+        <translation type="obsolete">Detener auto respaldo</translation>
     </message>
     <message>
         <source>Stop the auto backup of the current document.</source>
-        <translation>Detener la copia de seguridad automática del documento actual.</translation>
+        <translation type="obsolete">Detener la copia de seguridad automática del documento actual.</translation>
     </message>
 </context>
 <context>
@@ -17146,22 +19585,22 @@ El nivel seleccionado y todos los niveles superiores serán visibles.</translati
         <source>Draw a line through the middle of the selected text.
 
 Click the arrow to add an emphasis mark.</source>
-        <translation>Traza una línea en medio del texto seleccionado.</translation>
+        <translation type="obsolete">Traza una línea en medio del texto seleccionado.</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation>Tachado</translation>
+        <translation type="obsolete">Tachado</translation>
     </message>
 </context>
 <context>
     <name>tips.Strikethought2</name>
     <message>
         <source>Click the arrow to add a strikethrough and an emphasis mark.</source>
-        <translation>Haga clic en la flecha para añadir un tachado y una marca de énfasis.</translation>
+        <translation type="obsolete">Haga clic en la flecha para añadir un tachado y una marca de énfasis.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>Otras opciones</translation>
+        <translation type="obsolete">Otras opciones</translation>
     </message>
 </context>
 <context>
@@ -17170,11 +19609,11 @@ Click the arrow to add an emphasis mark.</source>
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation>Crea letras minúsculas debajo de la línea base del texto.</translation>
+        <translation type="obsolete">Crea letras minúsculas debajo de la línea base del texto.</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation>Subíndice</translation>
+        <translation type="obsolete">Subíndice</translation>
     </message>
 </context>
 <context>
@@ -17183,80 +19622,80 @@ Click the arrow to select superscript.</source>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation>Crea letras minúsculas encima de la línea de texto.</translation>
+        <translation type="obsolete">Crea letras minúsculas encima de la línea de texto.</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation>Superíndice</translation>
+        <translation type="obsolete">Superíndice</translation>
     </message>
 </context>
 <context>
     <name>tips.Superscript2</name>
     <message>
         <source>Click the arrow to select Superscript and Subscript.</source>
-        <translation>Haga clic en la flecha para seleccionar superíndice y subíndice.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar superíndice y subíndice.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>Otras opciones</translation>
+        <translation type="obsolete">Otras opciones</translation>
     </message>
 </context>
 <context>
     <name>tips.SwitchWindow</name>
     <message>
         <source>Switch Windows</source>
-        <translation>Cambiar ventanas</translation>
+        <translation type="obsolete">Cambiar ventanas</translation>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation>Pasa a una ventana abierta actualmente diferente.</translation>
+        <translation type="obsolete">Pasa a una ventana abierta actualmente diferente.</translation>
     </message>
 </context>
 <context>
     <name>tips.Table</name>
     <message>
         <source>Insert or draw a table into the document, and convert text to table or vice versa.</source>
-        <translation>Inserta o dibuja una tabla en el documento.</translation>
+        <translation type="obsolete">Inserta o dibuja una tabla en el documento.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation>Tabla</translation>
+        <translation type="obsolete">Tabla</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.TableAutoAdjust</name>
     <message>
         <source>TableAutoAdjust Content</source>
-        <translation>Auto ajustar contenido de tabla</translation>
+        <translation type="obsolete">Auto ajustar contenido de tabla</translation>
     </message>
     <message>
         <source>TableAutoAdjust Title</source>
-        <translation>Auto ajustar título de tabla</translation>
+        <translation type="obsolete">Auto ajustar título de tabla</translation>
     </message>
 </context>
 <context>
     <name>tips.TableBorderColor</name>
     <message>
         <source>Border Color</source>
-        <translation>Color del borde</translation>
+        <translation type="obsolete">Color del borde</translation>
     </message>
     <message>
         <source>Click the arrow to select different border colors.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes colores de bordes.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes colores de bordes.</translation>
     </message>
     <message>
         <source>Set a border color for the selected table.
 
 Click the arrow to select different border colors.</source>
-        <translation>Establecer el color del borde de la tabla seleccionada.
+        <translation type="obsolete">Establecer el color del borde de la tabla seleccionada.
 
 Haga clic en la flecha para seleccionar diferentes colores de borde.</translation>
     </message>
@@ -17265,201 +19704,201 @@ Haga clic en la flecha para seleccionar diferentes colores de borde.</translatio
     <name>tips.TableBorderStyle</name>
     <message>
         <source>Change the style of the line used to draw borders.</source>
-        <translation>Cambiar el estilo de la línea utilizada para dibujar los bordes.</translation>
+        <translation type="obsolete">Cambiar el estilo de la línea utilizada para dibujar los bordes.</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Estilo de línea</translation>
+        <translation type="obsolete">Estilo de línea</translation>
     </message>
 </context>
 <context>
     <name>tips.TableBorderWidth</name>
     <message>
         <source>Change the width of the line used to draw borders.</source>
-        <translation>Cambiar el ancho de la línea utilizada para dibujar los bordes.</translation>
+        <translation type="obsolete">Cambiar el ancho de la línea utilizada para dibujar los bordes.</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Ancho de línea</translation>
+        <translation type="obsolete">Ancho de línea</translation>
     </message>
 </context>
 <context>
     <name>tips.TableContents</name>
     <message>
         <source>Add a Table of Contents to the document before the body text.</source>
-        <translation>Añadir una tabla de contenidos al documento antes de el texto del cuerpo.</translation>
+        <translation type="obsolete">Añadir una tabla de contenidos al documento antes de el texto del cuerpo.</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation>Tabla de contenidos</translation>
+        <translation type="obsolete">Tabla de contenidos</translation>
     </message>
 </context>
 <context>
     <name>tips.TableEraser</name>
     <message>
         <source>Erase the borders of a table in the document.</source>
-        <translation>Borra los bordes de una tabla.</translation>
+        <translation type="obsolete">Borra los bordes de una tabla.</translation>
     </message>
     <message>
         <source>Table Eraser</source>
-        <translation>Borrador de tabla</translation>
+        <translation type="obsolete">Borrador de tabla</translation>
     </message>
 </context>
 <context>
     <name>tips.TableProperties</name>
     <message>
         <source>Change advanced table properties, such as text wrapping, indentations and allow rows to break across pages.</source>
-        <translation>Cambiar las propiedades de tabla avanzadas, tales como el ajuste de texto, sangrías y permiten que las filas se rompan a través de las páginas.</translation>
+        <translation type="obsolete">Cambiar las propiedades de tabla avanzadas, tales como el ajuste de texto, sangrías y permiten que las filas se rompan a través de las páginas.</translation>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation>Propiedades de tabla</translation>
+        <translation type="obsolete">Propiedades de tabla</translation>
     </message>
 </context>
 <context>
     <name>tips.TableSelectMenu</name>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation type="obsolete">Seleccionar</translation>
     </message>
     <message>
         <source>Select the current cell, row, column, or the entire table, and select tables with dashed borders.</source>
-        <translation>Seleccionar la celda actual, fila, columna o toda la tabla y seleccione las tablas con los bordes punteados.</translation>
+        <translation type="obsolete">Seleccionar la celda actual, fila, columna o toda la tabla y seleccione las tablas con los bordes punteados.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableShadingColor</name>
     <message>
         <source>Click the arrow to select different shading colors.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes colores de sombreado.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes colores de sombreado.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different shading colors.</source>
-        <translation>Colorea el fondo del texto o párrafo seleccionado.</translation>
+        <translation type="obsolete">Colorea el fondo del texto o párrafo seleccionado.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation>Sombreado</translation>
+        <translation type="obsolete">Sombreado</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.Tabs</name>
     <message>
         <source>Show the Tabs dialog box, and set tab stop position of the text.</source>
-        <translation>Mostrar el cuadro de diálogo Tabulaciones, y establecer las posiciones final de tabulación del texto.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo Tabulaciones, y establecer las posiciones final de tabulación del texto.</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>Pestañas</translation>
+        <translation type="obsolete">Pestañas</translation>
     </message>
 </context>
 <context>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide task pane in the document.</source>
-        <translation>Mostrar u ocultar el panel de tareas en el documento.</translation>
+        <translation type="obsolete">Mostrar u ocultar el panel de tareas en el documento.</translation>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation>Panel de tareas</translation>
+        <translation type="obsolete">Panel de tareas</translation>
     </message>
 </context>
 <context>
     <name>tips.TextBox</name>
     <message>
         <source>Click here to insert horizontal, vertical or multi-line text boxes.</source>
-        <translation>Haga clic aquí para insertar un cuadro de texto horizontal, vertical o cuadros de texto multilínea.</translation>
+        <translation type="obsolete">Haga clic aquí para insertar un cuadro de texto horizontal, vertical o cuadros de texto multilínea.</translation>
     </message>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation>Dibujar cuadro de texto horizontal</translation>
+        <translation type="obsolete">Dibujar cuadro de texto horizontal</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation>Inserta cuadros de texto con formato previo.</translation>
+        <translation type="obsolete">Inserta cuadros de texto con formato previo.</translation>
     </message>
 </context>
 <context>
     <name>tips.TextDirection</name>
     <message>
         <source>Customize the text layout direction to be either horizontal or vertical in the current section, entire document or selected text boxes and tables.</source>
-        <translation>Personalizar la dirección de diseño de texto sea horizontal o vertical de la sección actual, todo documento o cajas y cuadros de texto seleccionados.</translation>
+        <translation type="obsolete">Personalizar la dirección de diseño de texto sea horizontal o vertical de la sección actual, todo documento o cajas y cuadros de texto seleccionados.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Dirección del texto</translation>
+        <translation type="obsolete">Dirección del texto</translation>
     </message>
 </context>
 <context>
     <name>tips.TightLineSpacing</name>
     <message>
         <source>Set 1.0 line spacing to selected paragraphs with undefined snap to grid lines.</source>
-        <translation>Establecer el interlineado de los párrafos seleccionados a 1.0 con pegado indefinido a las líneas de cuadrícula.</translation>
+        <translation type="obsolete">Establecer el interlineado de los párrafos seleccionados a 1.0 con pegado indefinido a las líneas de cuadrícula.</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation>Interlineado ajustado</translation>
+        <translation type="obsolete">Interlineado ajustado</translation>
     </message>
 </context>
 <context>
     <name>tips.TrackChanges</name>
     <message>
         <source>Click here to choose revision markups and comment formatting, or to change reviewer information.</source>
-        <translation>Haga clic aquí para elegir las marcas de revisión y comentarios de formato, o para cambiar la información revisor.</translation>
+        <translation type="obsolete">Haga clic aquí para elegir las marcas de revisión y comentarios de formato, o para cambiar la información revisor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>Control de cambios</translation>
+        <translation type="obsolete">Control de cambios</translation>
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
-        <translation>Controla todos los cambios realizados en el documento, incluidas las insercciones, eliminaciones y cambios de formato.</translation>
+        <translation type="obsolete">Controla todos los cambios realizados en el documento, incluidas las insercciones, eliminaciones y cambios de formato.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
-        <translation>Convertir el documento a chino tradicional.</translation>
+        <translation type="obsolete">Convertir el documento a chino tradicional.</translation>
     </message>
     <message>
         <source>Traditional</source>
-        <translation>Tradicional</translation>
+        <translation type="obsolete">Tradicional</translation>
     </message>
 </context>
 <context>
     <name>tips.Underline</name>
     <message>
         <source>Click the arrow to select different underlining styles.</source>
-        <translation>Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</translation>
+        <translation type="obsolete">Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Subrayado</translation>
+        <translation type="obsolete">Subrayado</translation>
     </message>
     <message>
         <source>Underline the selected text.
 
 Click the arrow to select different underlining styles.</source>
-        <translation>Subraya el texto seleccionado.
+        <translation type="obsolete">Subraya el texto seleccionado.
 
 Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</translation>
     </message>
@@ -17468,32 +19907,32 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     <name>tips.UpdateTocOnOutlining</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
-        <translation>Actualizar tabla</translation>
+        <translation type="obsolete">Actualizar tabla</translation>
     </message>
     <message>
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
-        <translation>Actualiza la tabla de contenido para que todas las entradas hagan referencia al número de página correcto.</translation>
+        <translation type="obsolete">Actualiza la tabla de contenido para que todas las entradas hagan referencia al número de página correcto.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.VerbSideBySide</name>
     <message>
         <source>Reset Window Position</source>
-        <translation>Restablecer posición de la ventana</translation>
+        <translation type="obsolete">Restablecer posición de la ventana</translation>
     </message>
     <message>
         <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
 
 To enable this feature, turn on View Side by Side.</source>
-        <translation>Restablece la posición de la ventana del documento que se está comparando en paralelo para que compartan la pantalla.
+        <translation type="obsolete">Restablece la posición de la ventana del documento que se está comparando en paralelo para que compartan la pantalla.
 
 Para habilitar esta característica, active la función Ver en paralelo.</translation>
     </message>
@@ -17502,33 +19941,33 @@ Para habilitar esta característica, active la función Ver en paralelo.</transl
     <name>tips.ViewMergedData</name>
     <message>
         <source>Replaces the merge fields in your document with actual data from your recipient list so you can see what it looks like.</source>
-        <translation>Sustituye los campos combinados en el documento con los datos actuales de la lista de destinatarios para que pueda ver lo que aparece.</translation>
+        <translation type="obsolete">Sustituye los campos combinados en el documento con los datos actuales de la lista de destinatarios para que pueda ver lo que aparece.</translation>
     </message>
     <message>
         <source>View Merged Data</source>
-        <translation>Ver datos combinados</translation>
+        <translation type="obsolete">Ver datos combinados</translation>
     </message>
 </context>
 <context>
     <name>tips.ViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>Regla</translation>
+        <translation type="obsolete">Regla</translation>
     </message>
     <message>
         <source>View the rulers used to measure and line up text and objects within the document.</source>
-        <translation>Ver las reglas que se utilizan para medir y alinear texto y objetos en el documento.</translation>
+        <translation type="obsolete">Ver las reglas que se utilizan para medir y alinear texto y objetos en el documento.</translation>
     </message>
 </context>
 <context>
     <name>tips.VisualBasicEditor</name>
     <message>
         <source>Launch Visual Basic Editor, and edit Macros.</source>
-        <translation>Inicia el editor de Visual Basic, y el editor de macros.</translation>
+        <translation type="obsolete">Inicia el editor de Visual Basic, y el editor de macros.</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Editor de Visual Basic</translation>
+        <translation type="obsolete">Editor de Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -17537,152 +19976,152 @@ Para habilitar esta característica, active la función Ver en paralelo.</transl
         <source>Insert ghosted text and picture behind the content on the page.
 
 This is often used to indicate that the document is to be treated specially, such as encrypted and confidential material and to prohibit copying or mark the document source such as the addition of copyright logos and author information.</source>
-        <translation>Inserta texto fantasma detrás del contenido de la página.
+        <translation type="obsolete">Inserta texto fantasma detrás del contenido de la página.
 
 Generalmente se utiliza para indicar que un documento se debe tratar de manera especial, como Confidencial o Urgente.</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Marca de agua</translation>
+        <translation type="obsolete">Marca de agua</translation>
     </message>
 </context>
 <context>
     <name>tips.WebLayoutView</name>
     <message>
         <source>View the document as it would look as a Web page.</source>
-        <translation>Muestra el documento como sería como página web.</translation>
+        <translation type="obsolete">Muestra el documento como sería como página web.</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Diseño web</translation>
+        <translation type="obsolete">Diseño web</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtAlignment</name>
     <message>
         <source>Specify how individual lines of a multi-line WordArt should be aligned.</source>
-        <translation>Especificar cómo deben alinearse las líneas individuales de una multilínea de WordArt.</translation>
+        <translation type="obsolete">Especificar cómo deben alinearse las líneas individuales de una multilínea de WordArt.</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Alineación de WordArt</translation>
+        <translation type="obsolete">Alineación de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtDetailedSettings</name>
     <message>
         <source>WordArtDetailedSettings Content</source>
-        <translation>Ajustes detallados de contenido de WordArt</translation>
+        <translation type="obsolete">Ajustes detallados de contenido de WordArt</translation>
     </message>
     <message>
         <source>WordArtDetailedSettings Title</source>
-        <translation>Ajustes detallados de título de WordArt</translation>
+        <translation type="obsolete">Ajustes detallados de título de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtFill</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation>Haga clic en la flecha para llenar el WordArt en diferentes maneras.</translation>
+        <translation type="obsolete">Haga clic en la flecha para llenar el WordArt en diferentes maneras.</translation>
     </message>
     <message>
         <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
 
 Click the arrow to fill the WordArt in different ways.</source>
-        <translation>Llenar el WordArt seleccionada con un color sólido, un degradado, textura y la imagen.
+        <translation type="obsolete">Llenar el WordArt seleccionada con un color sólido, un degradado, textura y la imagen.
 
 Haga clic en la flecha para llenar el WordArt en diferentes maneras.</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>Relleno de WordArt</translation>
+        <translation type="obsolete">Relleno de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtGallery</name>
     <message>
         <source>Change the style of the selected WordArt.</source>
-        <translation>Cambiar el estilo de WordArt seleccionado.</translation>
+        <translation type="obsolete">Cambiar el estilo de WordArt seleccionado.</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Galería de WordArt</translation>
+        <translation type="obsolete">Galería de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtOutline</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation>Haga clic en la flecha para elegir más estilos de esquema.</translation>
+        <translation type="obsolete">Haga clic en la flecha para elegir más estilos de esquema.</translation>
     </message>
     <message>
         <source>Specify the color, width and line style for the outline of the selected WordArt.
 
 Click the arrow to choose more outline styles.</source>
-        <translation>Especifique el estilo de color, la anchura y la línea para el contorno de la imagen de WordArt seleccionado.
+        <translation type="obsolete">Especifique el estilo de color, la anchura y la línea para el contorno de la imagen de WordArt seleccionado.
 
 Haga clic en la flecha para elegir más estilos de esquema.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>Contorno de WordArt</translation>
+        <translation type="obsolete">Contorno de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation>Mismo altura</translation>
+        <translation type="obsolete">Mismo altura</translation>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
-        <translation>Hacer que todas las letras del WordArt seleccionado tengan exactamente la misma altura.</translation>
+        <translation type="obsolete">Hacer que todas las letras del WordArt seleccionado tengan exactamente la misma altura.</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation>Cambiar el estilo de la forma del WordArt seleccionado.</translation>
+        <translation type="obsolete">Cambiar el estilo de la forma del WordArt seleccionado.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>Forma de WordArt</translation>
+        <translation type="obsolete">Forma de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation>Ajuste el tamaño, el grado de rotación y la escala del WordArt seleccionado.</translation>
+        <translation type="obsolete">Ajuste el tamaño, el grado de rotación y la escala del WordArt seleccionado.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>Tamaño de WordArt</translation>
+        <translation type="obsolete">Tamaño de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtVerticalText</name>
     <message>
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation>Dibuja el texto en vertical, con las letras apiladas una encima de la otra.</translation>
+        <translation type="obsolete">Dibuja el texto en vertical, con las letras apiladas una encima de la otra.</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Texto vertical de WordArt</translation>
+        <translation type="obsolete">Texto vertical de WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordCount</name>
     <message>
         <source>Count the number of pages, words, characters and paragraphs in the document.</source>
-        <translation>Busca el número de palabras, caracteres, párrafos y líneas del documento.
+        <translation type="obsolete">Busca el número de palabras, caracteres, párrafos y líneas del documento.
 
 También puede descubrir el recuento de palabras en la barra de estado en la parte inferior de la ventana.</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>Contar palabras</translation>
+        <translation type="obsolete">Contar palabras</translation>
     </message>
 </context>
 <context>
@@ -17691,308 +20130,308 @@ También puede descubrir el recuento de palabras en la barra de estado en la par
         <source>Apply smart formatting to the document.
 
 Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the first line of a paragraph by 2 characters&quot;, and other specified options to the document.</source>
-        <translation>Aplicar estilos de formato en el documento.
+        <translation type="obsolete">Aplicar estilos de formato en el documento.
 
 Aplicar estilos de formato, como un &quot;eliminar espacios&quot;, &quot;sangría en la primera línea de un párrafo por 2 caracteres&quot;, y otras opciones especificadas en el documento.</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Herramientas de palabras</translation>
+        <translation type="obsolete">Herramientas de palabras</translation>
     </message>
 </context>
 <context>
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation>Autorrecuperación de contenid de espacio de trabajo</translation>
+        <translation type="obsolete">Autorrecuperación de contenid de espacio de trabajo</translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation>Autorrecuperación de espacio de trabajo</translation>
+        <translation type="obsolete">Autorrecuperación de espacio de trabajo</translation>
     </message>
 </context>
 <context>
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation>Muestra el cuadro de diálogo Zoom para especificar el nivel de zoom del documento.
+        <translation type="obsolete">Muestra el cuadro de diálogo Zoom para especificar el nivel de zoom del documento.
 
 En la mayoría de los casos, también puede usar los controles de zoom de la barra de estado en la parte inferior de la ventana para acercar o alejar el documento.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Align</name>
     <message>
         <source>Align</source>
-        <translation>Alinear</translation>
+        <translation type="obsolete">Alinear</translation>
     </message>
     <message>
         <source>Align the edges of multiple selected objects.
 
 You can also center them or distribute them evenly across the page.</source>
-        <translation>Alinea los bordes de varios objetos seleccionados.
+        <translation type="obsolete">Alinea los bordes de varios objetos seleccionados.
 
 Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Breaks</name>
     <message>
         <source>Add page, section or column breaks to the document.</source>
-        <translation>Añadir pagina, seccion o sección de salto de columna al documento.</translation>
+        <translation type="obsolete">Añadir pagina, seccion o sección de salto de columna al documento.</translation>
     </message>
     <message>
         <source>Insert Page and Section Breaks</source>
-        <translation>Insertar página y saltos de sección</translation>
+        <translation type="obsolete">Insertar página y saltos de sección</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_CharacterScaling</name>
     <message>
         <source>Character Scale</source>
-        <translation>Escalar caracteres</translation>
+        <translation type="obsolete">Escalar caracteres</translation>
     </message>
     <message>
         <source>Set character scale of the selected content.</source>
-        <translation>Establecer la escala de caracteres del contenido seleccionado.</translation>
+        <translation type="obsolete">Establecer la escala de caracteres del contenido seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_ColumnsPalette</name>
     <message>
         <source>Columns</source>
-        <translation>Columnas</translation>
+        <translation type="obsolete">Columnas</translation>
     </message>
     <message>
         <source>Split text into two or more columns.</source>
-        <translation>Divide texto en dos o más columnas.</translation>
+        <translation type="obsolete">Divide texto en dos o más columnas.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Group</name>
     <message>
         <source>Group</source>
-        <translation>Agrupar</translation>
+        <translation type="obsolete">Agrupar</translation>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
-        <translation>Agrupar los objetos juntos para que se puedan considerar como un solo objeto.</translation>
+        <translation type="obsolete">Agrupar los objetos juntos para que se puedan considerar como un solo objeto.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_LineNumber</name>
     <message>
         <source>Add line numbers in the margin alongside of each line of the document.</source>
-        <translation>Agrega números de línea a los márgenes junto a cada línea del documento.</translation>
+        <translation type="obsolete">Agrega números de línea a los márgenes junto a cada línea del documento.</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation>Números de línea</translation>
+        <translation type="obsolete">Números de línea</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_LineSpacing</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation>Cambiar el espaciado entre líneas de texto.</translation>
+        <translation type="obsolete">Cambiar el espaciado entre líneas de texto.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Espaciado entre líneas y párrafos</translation>
+        <translation type="obsolete">Espaciado entre líneas y párrafos</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Margins</name>
     <message>
         <source>Margins</source>
-        <translation>Márgenes</translation>
+        <translation type="obsolete">Márgenes</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
-        <translation>Selecciona los tamaños de los márgenes para todo el documento o para la sección actual.</translation>
+        <translation type="obsolete">Selecciona los tamaños de los márgenes para todo el documento o para la sección actual.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_PageBorder</name>
     <message>
         <source>Add or change the border around the page of the current section or the entire document.</source>
-        <translation>Agrega o cambia el borde alrededor de la página.</translation>
+        <translation type="obsolete">Agrega o cambia el borde alrededor de la página.</translation>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation>Bordes de página</translation>
+        <translation type="obsolete">Bordes de página</translation>
     </message>
 </context>
 <context>
     <name>tips.m_PageSize</name>
     <message>
         <source>Choose a paper size for the current section or the entire document.</source>
-        <translation>Elige un tamaño de papel para la sección actual.</translation>
+        <translation type="obsolete">Elige un tamaño de papel para la sección actual.</translation>
     </message>
     <message>
         <source>Page Size</source>
-        <translation>Tamáño de página</translation>
+        <translation type="obsolete">Tamáño de página</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Girar</translation>
+        <translation type="obsolete">Girar</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
-        <translation>Gira o voltea el objeto seleccionado.</translation>
+        <translation type="obsolete">Gira o voltea el objeto seleccionado.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_ShowReviewer</name>
     <message>
         <source>Choose what kind of markup to show in the document.</source>
-        <translation>Elegir qué tipo de marcado para mostrar en el documento.</translation>
+        <translation type="obsolete">Elegir qué tipo de marcado para mostrar en el documento.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Presione F1 para obtener ayuda.</translation>
+        <translation type="obsolete">Presione F1 para obtener ayuda.</translation>
     </message>
     <message>
         <source>Show Markup</source>
-        <translation>Mostrar Marcas</translation>
+        <translation type="obsolete">Mostrar Marcas</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Style</name>
     <message>
         <source>Click here to apply other options, such as clear formatting.</source>
-        <translation>Haga clic aquí para aplicar otras opciones, como un formato nuevo.</translation>
+        <translation type="obsolete">Haga clic aquí para aplicar otras opciones, como un formato nuevo.</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation>Nuevo estilo</translation>
+        <translation type="obsolete">Nuevo estilo</translation>
     </message>
     <message>
         <source>Show the New Style dialog box, and create a new style in the Styles and Formatting task pane.</source>
-        <translation>Mostrar el cuadro de diálogo nuevo estilo, y crear un nuevo estilo en el panel estilos y formatos.</translation>
+        <translation type="obsolete">Mostrar el cuadro de diálogo nuevo estilo, y crear un nuevo estilo en el panel estilos y formatos.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Wrapping</name>
     <message>
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
-        <translation>Modifica el modo en que se ajusta el texto al objeto seleccionado.
+        <translation type="obsolete">Modifica el modo en que se ajusta el texto al objeto seleccionado.
 
 Para configurar el objeto de manera que se mueva junto con el texto, seleccione &quot;En línea con el texto&quot;.</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Ajustar texto</translation>
+        <translation type="obsolete">Ajustar texto</translation>
     </message>
 </context>
 <context>
     <name>tips.m_tocLevel</name>
     <message>
         <source>Set ToC level for the selected paragraph.</source>
-        <translation>Agrega el párrafo actual como una entrada en la tabla de contenido.</translation>
+        <translation type="obsolete">Agrega el párrafo actual como una entrada en la tabla de contenido.</translation>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation>Agregar texto</translation>
+        <translation type="obsolete">Agregar texto</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation>Eliminar comentario</translation>
+        <translation type="obsolete">Eliminar comentario</translation>
     </message>
     <message>
         <source>Delete Selected Comment</source>
-        <translation>Elimina el comentario seleccionado</translation>
+        <translation type="obsolete">Elimina el comentario seleccionado</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_DeleteComment2</name>
     <message>
         <source>Click here to delete all of the comments in the document.</source>
-        <translation>Haga clic aquí patra eliminar todos los comentarios del documento.</translation>
+        <translation type="obsolete">Haga clic aquí patra eliminar todos los comentarios del documento.</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Eliminar comentario</translation>
+        <translation type="obsolete">Eliminar comentario</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation>Haga clic aquí para obtener más opciones como pegar únicamente los valores o el formato.</translation>
+        <translation type="obsolete">Haga clic aquí para obtener más opciones como pegar únicamente los valores o el formato.</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation type="obsolete">Pegar</translation>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation>Pega el contenido del portapapeles.</translation>
+        <translation type="obsolete">Pega el contenido del portapapeles.</translation>
     </message>
 </context>
 <context>
     <name>tips.weibotool</name>
     <message>
         <source>Convert document to picture and share in Weibo.</source>
-        <translation>Convertir documento a imágen y compartirlo en Weibo.</translation>
+        <translation type="obsolete">Convertir documento a imágen y compartirlo en Weibo.</translation>
     </message>
     <message>
         <source>Weibotool</source>
-        <translation>Herramienta Weibo</translation>
+        <translation type="obsolete">Herramienta Weibo</translation>
     </message>
 </context>
 <context>
@@ -18022,8 +20461,12 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Eliminar espacios</translation>
     </message>
     <message>
+        <source>Delete Spaces before First-line Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete spaces at beginning of paragraph with first-line indent</source>
-        <translation>Eliminar espacios al inicio del párrafo con sangría de primera línea</translation>
+        <translation type="obsolete">Eliminar espacios al inicio del párrafo con sangría de primera línea</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
@@ -18046,7 +20489,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>workspacemenu</name>
     <message>
         <source>Auto Backup</source>
-        <translation>Autorrecuperación</translation>
+        <translation type="obsolete">Autorrecuperación</translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -18058,39 +20501,43 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Cloud Feedback</source>
-        <translation>Comentarios de la nube</translation>
+        <translation type="obsolete">Comentarios de la nube</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Explorar directorio de respaldos</translation>
+        <translation type="obsolete">Explorar directorio de respaldos</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Explorar versiones de respaldos</translation>
+        <translation type="obsolete">Explorar versiones de respaldos</translation>
     </message>
     <message>
         <source>Export as Images</source>
         <translation>Exportar como imágenes</translation>
     </message>
     <message>
-        <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
+        <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Cerrar sesión</translation>
+        <translation type="obsolete">Cerrar sesión</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -18098,35 +20545,87 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>No has iniciado sesión</translation>
+        <translation type="obsolete">No has iniciado sesión</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Abrir desde la nube</translation>
+        <translation type="obsolete">Abrir desde la nube</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Guardar archivo en la nube</translation>
+        <translation type="obsolete">Guardar archivo en la nube</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Weibo</source>
-        <translation>Compartir a Weibo</translation>
+        <translation type="obsolete">Compartir a Weibo</translation>
     </message>
     <message>
         <source>Share via Weibo</source>
-        <translation>compartir a través de Weibo</translation>
+        <translation type="obsolete">compartir a través de Weibo</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Detener auto respaldo</translation>
+        <translation type="obsolete">Detener auto respaldo</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation>Inicio de sesión de usuario</translation>
+        <translation type="obsolete">Inicio de sesión de usuario</translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weibo Layout</source>
-        <translation>Diseño Weibo</translation>
+        <translation type="obsolete">Diseño Weibo</translation>
     </message>
 </context>
 <context>
@@ -18179,6 +20678,10 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Barra de menú</translation>
     </message>
     <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outlining</source>
         <translation>Delineado</translation>
     </message>
@@ -18203,6 +20706,10 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Estándar</translation>
     </message>
     <message>
+        <source>Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tables and Borders</source>
         <translation>Tablas y bordes</translation>
     </message>
@@ -18220,7 +20727,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Espacio de trabajo</translation>
+        <translation type="obsolete">Espacio de trabajo</translation>
     </message>
 </context>
 <context>
@@ -18238,8 +20745,12 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Alinear a la derecha</translation>
     </message>
     <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoShapes and Materials</source>
-        <translation>Autoformas y materiales</translation>
+        <translation type="obsolete">Autoformas y materiales</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -18254,12 +20765,16 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Negrita</translation>
     </message>
     <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bookmarks</source>
-        <translation>Marcador</translation>
+        <translation type="obsolete">Marcador</translation>
     </message>
     <message>
         <source>Browse Objects</source>
-        <translation>Ver objetos</translation>
+        <translation type="obsolete">Ver objetos</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -18270,6 +20785,30 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Ver por comentario</translation>
     </message>
     <message>
+        <source>Browse by Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Objects (Alt+Ctrl+Home)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Browse by Page</source>
         <translation>Ver por página</translation>
     </message>
@@ -18278,28 +20817,56 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Ver por sección</translation>
     </message>
     <message>
+        <source>Browse by Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
+        <source>Cancel Splitting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Centrado</translation>
+        <translation type="obsolete">Centrado</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Ortografía y gramática</translation>
+        <translation type="obsolete">Ortografía y gramática</translation>
+    </message>
+    <message>
+        <source>Click to turn on/off AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn on/off OverType Statusbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn on/off Reviewing function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn on/off Spell Check</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
-        <translation>Haga clic para activar / desactivar la copia de seguridad automática</translation>
+        <translation type="obsolete">Haga clic para activar / desactivar la copia de seguridad automática</translation>
     </message>
     <message>
         <source>Click to turn on/off reviewing function</source>
-        <translation>Haga clic para activar / desactivar la función de revisión</translation>
+        <translation type="obsolete">Haga clic para activar / desactivar la función de revisión</translation>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation>Haga clic para activar / desactivar la revisión ortográfica</translation>
+        <translation type="obsolete">Haga clic para activar / desactivar la revisión ortográfica</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -18311,19 +20878,19 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation>Panel de portapapeles</translation>
-    </message>
-    <message>
-        <source>CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Panel de portapapeles</translation>
     </message>
     <message>
         <source>Collapse</source>
         <translation>Colapsar</translation>
     </message>
     <message>
+        <source>Column StatusBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comment Context Menu</source>
-        <translation>Menú contextual de comentario</translation>
+        <translation type="obsolete">Menú contextual de comentario</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -18350,6 +20917,10 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Segmento de la curva</translation>
     </message>
     <message>
+        <source>Custom StatusBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cut</source>
         <translation>Cortar</translation>
     </message>
@@ -18371,15 +20942,19 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation>Colaboración del documento</translation>
+        <translation type="obsolete">Colaboración del documento</translation>
     </message>
     <message>
         <source>Edit</source>
         <translation>Editar</translation>
     </message>
     <message>
+        <source>Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Endnotes Context Menu</source>
-        <translation>Menú contextual de nota al final</translation>
+        <translation type="obsolete">Menú contextual de nota al final</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -18394,8 +20969,12 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Comentarios</translation>
     </message>
     <message>
+        <source>Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fields Context Menu</source>
-        <translation>Menú contextual de campos</translation>
+        <translation type="obsolete">Menú contextual de campos</translation>
     </message>
     <message>
         <source>File</source>
@@ -18439,11 +21018,15 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
     </message>
     <message>
         <source>Grow Font</source>
         <translation>Agrandar fuente</translation>
+    </message>
+    <message>
+        <source>Header Line Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
@@ -18483,7 +21066,11 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation>Plantillas en línea de Kingsoft</translation>
+        <translation type="obsolete">Plantillas en línea de Kingsoft</translation>
+    </message>
+    <message>
+        <source>Line StatusBar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Macros</source>
@@ -18491,11 +21078,15 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Materials</source>
-        <translation>Formas</translation>
+        <translation type="obsolete">Formas</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
         <translation>Unidad de medida. Haga clic para abrir &quot;Opciones&quot; dialogo.</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -18535,7 +21126,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>New File</source>
-        <translation>Nuevo archivo</translation>
+        <translation type="obsolete">Nuevo archivo</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -18543,7 +21134,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Nuevo a partir de plantillas locales</translation>
+        <translation type="obsolete">Nuevo a partir de plantillas locales</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -18552,6 +21143,14 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <message>
         <source>New from Online Templates</source>
         <translation>Nuevo a partir de plantillas en línea</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -18567,15 +21166,32 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Outline View</source>
-        <translation>Vista esquema</translation>
+        <translation type="obsolete">Vista esquema</translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Salto de página</translation>
+        <translation type="obsolete">Salto de página</translation>
+    </message>
+    <message>
+        <source>Page Number. Click to open &quot;Go To&quot; dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Section. Click to Open &quot;Go To&quot; dialog.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page and section of the document. Click to go to certain page or section.</source>
-        <translation>Página y sección de el documento. Haga clic aquí para ir a una determinada página o sección. </translation>
+        <translation type="obsolete">Página y sección de el documento. Haga clic aquí para ir a una determinada página o sección. </translation>
     </message>
     <message>
         <source>Paste</source>
@@ -18586,8 +21202,13 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Imprimir</translation>
     </message>
     <message>
+        <source>Print 
+Directly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Directly</source>
-        <translation>Imprimir directamente</translation>
+        <translation type="obsolete">Imprimir directamente</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -18598,12 +21219,20 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Vista preliminar</translation>
     </message>
     <message>
+        <source>Print Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Promote</source>
         <translation>Promover</translation>
     </message>
     <message>
         <source>Recent Documents</source>
         <translation>Documentos recientes</translation>
+    </message>
+    <message>
+        <source>Record Macro Statusbar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Redo</source>
@@ -18626,16 +21255,12 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Modo rotación</translation>
     </message>
     <message>
-        <source>S CloudLink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>S MsgAtMe</source>
         <translation type="obsolete">S MsgAtMe</translation>
     </message>
     <message>
         <source>S Office space</source>
-        <translation>Espacio S Office</translation>
+        <translation type="obsolete">Espacio S Office</translation>
     </message>
     <message>
         <source>Save</source>
@@ -18654,24 +21279,52 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Seleccionar todo</translation>
     </message>
     <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection and Visibility</source>
-        <translation>Selección y visibilidad</translation>
+        <translation type="obsolete">Selección y visibilidad</translation>
+    </message>
+    <message>
+        <source>Set Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Establecer idioma de corrección ortográfica</translation>
+        <translation type="obsolete">Establecer idioma de corrección ortográfica</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation>Forma y galeria</translation>
+        <translation type="obsolete">Forma y galeria</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
         <translation>Menú contextual de formas</translation>
     </message>
     <message>
+        <source>Shapes and Material</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shrink Font</source>
         <translation>Encoger fuente</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Horizontally</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Table by Column</source>
@@ -18682,8 +21335,20 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Dividir tabla por fila</translation>
     </message>
     <message>
+        <source>Split Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Status Bar</source>
         <translation>Barra de estado</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles</source>
@@ -18707,7 +21372,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Table</source>
-        <translation>Tabla</translation>
+        <translation type="obsolete">Tabla</translation>
     </message>
     <message>
         <source>Table Cells</source>
@@ -18782,6 +21447,10 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Editor de Visual Basic</translation>
     </message>
     <message>
+        <source>WPS Online Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Web Layout</source>
         <translation>Diseño web</translation>
     </message>
@@ -18810,7 +21479,11 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     <name>wpscommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Ayuda de Kingsoft Writer</translation>
+        <translation type="obsolete">Ayuda de Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18835,8 +21508,16 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation type="obsolete">Cambiar la información de usuario</translation>
     </message>
     <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Customize taskpane</source>
-        <translation>Personalizar panel de tareas</translation>
+        <translation type="obsolete">Personalizar panel de tareas</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -18844,7 +21525,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Plantillas Docer en línea</translation>
+        <translation type="obsolete">Plantillas Docer en línea</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -18852,7 +21533,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation>Enterprise Microblog</translation>
+        <translation type="obsolete">Enterprise Microblog</translation>
     </message>
     <message>
         <source>File</source>
@@ -18864,11 +21545,15 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -18883,40 +21568,60 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Insertar</translation>
     </message>
     <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Cerrar sesión</translation>
+        <translation type="obsolete">Cerrar sesión</translation>
     </message>
     <message>
         <source>Mailings</source>
         <translation>Buzoneo</translation>
     </message>
     <message>
+        <source>Maximize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Navigation Pane</source>
         <translation>Panel de navegación</translation>
     </message>
     <message>
+        <source>New Blank Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Blank File</source>
-        <translation>Nuevo archivo en blanco</translation>
+        <translation type="obsolete">Nuevo archivo en blanco</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Nuevo desde más plantillas</translation>
+        <translation type="obsolete">Nuevo desde más plantillas</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>No has iniciado sesión</translation>
+        <translation type="obsolete">No has iniciado sesión</translation>
+    </message>
+    <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -18955,8 +21660,16 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Documentos recientes</translation>
     </message>
     <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>References</source>
         <translation>Referencias</translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Review</source>
@@ -18971,8 +21684,20 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Sección de navegación</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show the Toolbar</source>
         <translation>Mostrar la barra de herramientas</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -18992,11 +21717,23 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>User Login</source>
-        <translation>Inicio de sesión de usuario</translation>
+        <translation type="obsolete">Inicio de sesión de usuario</translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
         <translation>Vista</translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -19004,19 +21741,19 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Window Close</source>
-        <translation>Cerrar ventana</translation>
+        <translation type="obsolete">Cerrar ventana</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation>Maximizar ventana</translation>
+        <translation type="obsolete">Maximizar ventana</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>Minimizar ventana</translation>
+        <translation type="obsolete">Minimizar ventana</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>Restaurar ventana</translation>
+        <translation type="obsolete">Restaurar ventana</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -19024,11 +21761,11 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Espacio de trabajo</translation>
+        <translation type="obsolete">Espacio de trabajo</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation>configuración</translation>
+        <translation type="obsolete">configuración</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -19071,12 +21808,16 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation type="obsolete">Cambiar la información de usuario</translation>
     </message>
     <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Developer</source>
         <translation>Programador</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Plantillas Docer en línea</translation>
+        <translation type="obsolete">Plantillas Docer en línea</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -19084,7 +21825,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation>Enterprise Microblog</translation>
+        <translation type="obsolete">Enterprise Microblog</translation>
     </message>
     <message>
         <source>File</source>
@@ -19096,11 +21837,15 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Encabezado/Pie de página</translation>
+        <translation type="obsolete">Encabezado/Pie de página</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -19115,24 +21860,28 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Insertar</translation>
     </message>
     <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Cerrar sesión</translation>
+        <translation type="obsolete">Cerrar sesión</translation>
     </message>
     <message>
         <source>Mailings</source>
         <translation>Buzoneo</translation>
+    </message>
+    <message>
+        <source>Maximize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -19140,7 +21889,15 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>No has iniciado sesión</translation>
+        <translation type="obsolete">No has iniciado sesión</translation>
+    </message>
+    <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Options</source>
@@ -19175,8 +21932,16 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Documentos recientes</translation>
     </message>
     <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>References</source>
         <translation>Referencias</translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Review</source>
@@ -19199,6 +21964,14 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
         <translation>Mostrar / Ocultar la barra de herramientas</translation>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stick the Toolbar</source>
         <translation>Pegar la barra de herramientas</translation>
     </message>
@@ -19216,11 +21989,23 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>User Login</source>
-        <translation>Inicio de sesión de usuario</translation>
+        <translation type="obsolete">Inicio de sesión de usuario</translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
         <translation>Vista</translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -19228,19 +22013,19 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Window Close</source>
-        <translation>Cerrar ventana</translation>
+        <translation type="obsolete">Cerrar ventana</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation>Maximizar ventana</translation>
+        <translation type="obsolete">Maximizar ventana</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>Minimizar ventana</translation>
+        <translation type="obsolete">Minimizar ventana</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>Restaurar ventana</translation>
+        <translation type="obsolete">Restaurar ventana</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -19248,7 +22033,7 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Espacio de trabajo</translation>
+        <translation type="obsolete">Espacio de trabajo</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -19258,12 +22043,16 @@ Para configurar el objeto de manera que se mueva junto con el texto, seleccione 
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>Cambiar interfaz de usuario</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>Verdadero</translation>
+        <translation type="obsolete">Verdadero</translation>
     </message>
 </context>
 <context>

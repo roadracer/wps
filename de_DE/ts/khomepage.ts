@@ -16,8 +16,25 @@
 <context>
     <name>KHomepageMainWindow</name>
     <message>
+        <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Neue Version nutzen&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Check Online Templates</source>
+        <comment>tooltip</comment>
+        <translation>Prüfe Online-Vorlagen</translation>
+    </message>
+    <message>
+        <source>Create a blank document at startup</source>
+        <translation>Beim Start leeres Dokument erstellen</translation>
+    </message>
+    <message>
         <source>Create blank document when startup</source>
         <translation type="obsolete">Beim Start leeres Dokument erstellen</translation>
+    </message>
+    <message>
+        <source>Current version:</source>
+        <translation>Aktuelle Version</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -30,12 +47,17 @@
         <translation type="obsolete">Startseite</translation>
     </message>
     <message>
-        <source>Create a blank document at startup</source>
-        <translation>Beim Start leeres Dokument erstellen</translation>
+        <source>Online Templates</source>
+        <translation type="obsolete">Online-Vorlagen</translation>
     </message>
     <message>
-        <source>Current version:</source>
-        <translation>Aktuelle Version</translation>
+        <source>Online Templates</source>
+        <comment>title</comment>
+        <translation>Online-Vorlagen</translation>
+    </message>
+    <message>
+        <source>Restart to use newer version.</source>
+        <translation>Neustarten um neue Version zu nutzen.</translation>
     </message>
     <message>
         <source>This is the latest version.</source>
@@ -46,26 +68,8 @@
         <translation>Version ist zu alt.</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Neue Version nutzen&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Restart to use newer version.</source>
-        <translation>Neustarten um neue Version zu nutzen.</translation>
-    </message>
-    <message>
-        <source>Online Templates</source>
-        <translation>Online-Vorlagen</translation>
-    </message>
-    <message>
-        <source>Check Online Templates</source>
-        <comment>tooltip</comment>
-        <translation>Prüfe Online-Vorlagen</translation>
-    </message>
-    <message>
-        <source>Online Templates</source>
-        <comment>title</comment>
-        <translation>Online-Vorlagen</translation>
+        <source>docerhomepage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

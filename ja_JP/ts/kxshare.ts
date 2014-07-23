@@ -9,12 +9,12 @@
         <translation>回復推奨</translation>
     </message>
     <message>
-        <source>Last saved</source>
-        <translation type="obsolete">前回保存時間</translation>
-    </message>
-    <message>
         <source>Backup in %1</source>
         <translation> %1を回復</translation>
+    </message>
+    <message>
+        <source>Last saved</source>
+        <translation type="obsolete">前回保存時間</translation>
     </message>
     <message>
         <source>Save in %1</source>
@@ -25,6 +25,11 @@
     <name>DiagramStyleDlg</name>
     <message>
         <source>&amp;Select a Diagram Style:</source>
+        <translatorcomment>図表スタイルギャラリー</translatorcomment>
+        <translation type="obsolete">図表スタイルの選択(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Select a diagram style:</source>
         <translatorcomment>図表スタイルギャラリー</translatorcomment>
         <translation>図表スタイルの選択(&amp;S):</translation>
     </message>
@@ -37,6 +42,10 @@
     <name>DlgKxFileConverter</name>
     <message>
         <source>&amp;Line End:</source>
+        <translation type="obsolete">行末(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Line end:</source>
         <translation>行末(&amp;L):</translation>
     </message>
     <message>
@@ -86,10 +95,6 @@
         <source>:/NetbackupWizard/ENU_emptybacktip.png</source>
         <translation type="obsolete">:/NetbackupWizard/JPN_emptybacktip.png</translation>
     </message>
-    <message>
-        <source>emptybacktip</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KAlphaPanel</name>
@@ -101,12 +106,20 @@
 <context>
     <name>KApplication</name>
     <message>
-        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
-        <translation>Kingsoft Officeの更新ファイルがダウンロードされました。今すぐインストールしますか？</translation>
+        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <translation type="obsolete">インストールやアップデート パッチが実行中です。%1 を終了する予定です。インストールやアップデートの作業が終わったら、%2 を実行してください。</translation>
     </message>
     <message>
-        <source>The installation or update patches are running now, %1 will exit. Please run %2 again after the completion of installation or updating.</source>
+        <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
         <translation>インストールやアップデート パッチが実行中です。%1 を終了する予定です。インストールやアップデートの作業が終わったら、%2 を実行してください。</translation>
+    </message>
+    <message>
+        <source>WPS Office updates have been downloaded, do you want to install them now?</source>
+        <translation type="obsolete">WPS Officeの更新ファイルがダウンロードされました。今すぐインストールしますか？</translation>
+    </message>
+    <message>
+        <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
+        <translation>WPS Officeの更新ファイルがダウンロードされました。今すぐインストールしますか？</translation>
     </message>
 </context>
 <context>
@@ -139,11 +152,23 @@
 <context>
     <name>KColorDialog</name>
     <message>
+        <source>&amp;Colors</source>
+        <translation type="obsolete">色(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Colors:</source>
+        <translation>色(&amp;C):</translation>
+    </message>
+    <message>
         <source>&amp;Green:</source>
         <translation>緑(&amp;G):</translation>
     </message>
     <message>
         <source>&amp;Lum:</source>
+        <translation type="obsolete">Lum(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Luminance:</source>
         <translation>Lum(&amp;L):</translation>
     </message>
     <message>
@@ -152,11 +177,11 @@
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>Sat(&amp;S):</translation>
+        <translation type="obsolete">Sat(&amp;S):</translation>
     </message>
     <message>
-        <source>&amp;Colors</source>
-        <translation>色(&amp;C):</translation>
+        <source>&amp;Saturation:</source>
+        <translation>Sat(&amp;S):</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
@@ -167,20 +192,12 @@
         <translation>青(&amp;B):</translation>
     </message>
     <message>
-        <source>Color mode</source>
+        <source>Color mo&amp;de</source>
         <translation>カラーモデル::</translation>
     </message>
     <message>
-        <source>HSL</source>
-        <translation>HSL</translation>
-    </message>
-    <message>
-        <source>Hu&amp;e:</source>
-        <translation>Hue(&amp;H):</translation>
-    </message>
-    <message>
-        <source>RGB</source>
-        <translation>RGB</translation>
+        <source>Color mode</source>
+        <translation type="obsolete">カラーモデル::</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -195,8 +212,20 @@
         <translation>ユーザー設定</translation>
     </message>
     <message>
+        <source>HSL</source>
+        <translation>HSL</translation>
+    </message>
+    <message>
+        <source>Hu&amp;e:</source>
+        <translation>Hue(&amp;H):</translation>
+    </message>
+    <message>
         <source>New</source>
         <translation>新規</translation>
+    </message>
+    <message>
+        <source>RGB</source>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -206,8 +235,20 @@
 <context>
     <name>KCommand</name>
     <message>
+        <source>Click here to change your interface style.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Desktop</source>
         <translation>デスクトップ</translation>
+    </message>
+    <message>
+        <source>Downloading the online font &quot;%1&quot;  failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading the online font &quot;%1&quot;  succeeded.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hei, click here.
@@ -219,8 +260,35 @@ Try to switch user interface!</source>
         <translation type="obsolete">ユーザーインターフェースを変更する場合は、ここをクリックしてください</translation>
     </message>
     <message>
+        <source>Layout changes will take effect after restart.</source>
+        <translation type="obsolete">上記2種類のインターフェースより、好みの方を選択して下さい。
+途中で切り替えも可能です。次回起動時より有効になります。</translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation type="obsolete">手動バックアップ</translation>
+    </message>
+    <message>
         <source>Mark Version</source>
         <translation type="obsolete">手動バックアップ</translation>
+    </message>
+    <message>
+        <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
+        <translation>保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office.</source>
+        <translation type="unfinished">上記2種類のインターフェースより、好みの方を選択して下さい。
+途中で切り替えも可能です。次回起動時より有効になります。</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting.</source>
+        <translation type="obsolete">上記2種類のインターフェースより、好みの方を選択して下さい。
+途中で切り替えも可能です。次回起動時より有効になります。</translation>
+    </message>
+    <message>
+        <source>WPS Office auto backup</source>
+        <translation type="obsolete">自動バックアップ</translation>
     </message>
     <message>
         <source>WPSVersionBackup</source>
@@ -228,16 +296,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>We found that the document which was not saved upon last exit , has been restored.   (if you don&apos;t need to restore the file, close it directly, and then reopen the original document.)</source>
-        <translation>保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
-    </message>
-    <message>
-        <source>Layout changes will take effect after restart.</source>
-        <translation type="unfinished">上記2種類のインターフェースより、好みの方を選択して下さい。
-途中で切り替えも可能です。次回起動時より有効になります。</translation>
-    </message>
-    <message>
-        <source>Hey, click here to switch user interface!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
     </message>
 </context>
 <context>
@@ -254,34 +313,42 @@ Try to switch user interface!</source>
         <translation>%1 個のコントロール</translation>
     </message>
     <message>
-        <source>ActiveX Control (*.ocx;*.dll)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Register Custom Control</source>
+        <source>ActiveX Control(*.ocx;*.dll)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can not register this control.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">このコントロールを登録できません</translation>
+    </message>
+    <message>
+        <source>Cannot register this control.</source>
+        <translation>このコントロールを登録できません</translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation>カスタムコントロールを登録します</translation>
     </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
-        <source>(damaged file : %1 )</source>
-        <translation>（エラーファイル %1）</translation>
+        <source>(The file %1 seems to be damaged.)</source>
+        <translation type="unfinished">（エラーファイル %1）</translation>
     </message>
     <message>
-        <source>error file list:</source>
-        <translation type="unfinished"></translation>
+        <source>(The file seems to be damaged: %1 )</source>
+        <translation type="obsolete">（エラーファイル %1）</translation>
+    </message>
+    <message>
+        <source>(damaged file : %1 )</source>
+        <translation type="obsolete">（エラーファイル %1）</translation>
     </message>
 </context>
 <context>
     <name>KDlgCrashUpload</name>
     <message>
         <source>(damaged file:????)</source>
-        <translation>（誤ったファイル）</translation>
+        <translation type="obsolete">（誤ったファイル）</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -293,15 +360,15 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Upload now</source>
-        <translation>アップロード</translation>
-    </message>
-    <message>
-        <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
-        <translation>誤った操作が行われたため、現在のファイルに重大な損害が生じる可能性があります</translation>
+        <translation>回復</translation>
     </message>
     <message>
         <source>We suggest you upload it.</source>
         <translation>アップロード推奨</translation>
+    </message>
+    <message>
+        <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
+        <translation>プログラムが強制終了されたため、編集中のファイルに重大な損害が生じる可能性があります。</translation>
     </message>
 </context>
 <context>
@@ -333,15 +400,35 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>(设置将在下次启动WPS Office时生效)</source>
-        <translation type="obsolete">(次回のKingsoft Office起動時に設定が有効になります。)</translation>
+        <translation type="obsolete">(次回のWPS Office起動時に設定が有効になります。)</translation>
     </message>
     <message>
-        <source>2012 Style Interface</source>
+        <source>2012 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2012 Style</source>
         <translation>2012　インターフェース</translation>
     </message>
     <message>
-        <source>2013 Ongmani Style Interface</source>
+        <source>2012 Style Interface</source>
+        <translation type="obsolete">2012　インターフェース</translation>
+    </message>
+    <message>
+        <source>2013 Elegant Black</source>
         <translation>2013 Ongmani インターフェース</translation>
+    </message>
+    <message>
+        <source>2013 Ongmani Style Interface</source>
+        <translation type="obsolete">2013 Ongmani インターフェース</translation>
+    </message>
+    <message>
+        <source>2013 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2013 Water Blue</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -352,8 +439,16 @@ Try to switch user interface!</source>
         <translation>UI切り替え</translation>
     </message>
     <message>
-        <source>Classic Style Interface</source>
+        <source>Classic Style</source>
         <translation>クラシックインターフェース</translation>
+    </message>
+    <message>
+        <source>Classic Style Interface</source>
+        <translation type="obsolete">クラシックインターフェース</translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation>配色</translation>
     </message>
     <message>
         <source>Do you want to switch to &quot;%1&quot; interface?</source>
@@ -365,7 +460,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation>上記2種類のインターフェースより、好みの方を選択して下さい。
+        <translation type="obsolete">上記2種類のインターフェースより、好みの方を選択して下さい。
 途中で切り替えも可能です。次回起動時より有効になります。</translation>
     </message>
     <message>
@@ -385,49 +480,55 @@ Try to switch user interface!</source>
         <translation type="obsolete">UI切り替え</translation>
     </message>
     <message>
+        <source>The layout will take effect after restarting</source>
+        <translation type="obsolete">上記2種類のインターフェースより、好みの方を選択して下さい。
+途中で切り替えも可能です。次回起動時より有効になります。</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office.</source>
+        <translation>上記2種類のインターフェースより、好みの方を選択して下さい。
+途中で切り替えも可能です。次回起動時より有効になります。</translation>
+    </message>
+    <message>
         <source>Theme Scheme</source>
-        <translation>配色</translation>
+        <translation type="obsolete">配色</translation>
     </message>
     <message>
         <source>是否确认切换到“经典界面”？</source>
         <translation type="obsolete">“クラシック”インタフェースに切り替えますか？</translation>
     </message>
-    <message>
-        <source>2012 Skin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2013 Skin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Win8 Metro Style Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>C,X,V,Z,Y</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Del</source>
         <translation>削除</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>削除</translation>
+        <translation type="obsolete">削除</translation>
     </message>
     <message>
         <source>Tab,Enter,Num Enter,Left,Up,Right,Down,Esc,Delete,C,X,V,Z,Y</source>
         <translation>Tab, Enter, Num, Enter, Left, Up, Right, Down, Esc, Delete, C, X, V, Z, Y</translation>
-    </message>
-    <message>
-        <source>C,X,V,Z,Y</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encrypt</source>
+        <translation type="obsolete">暗号化(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Encryption</source>
         <translation>暗号化(&amp;E)</translation>
     </message>
 </context>
@@ -461,10 +562,18 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>&amp;Read Only</source>
+        <translation type="obsolete">読み取り専用(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Read-only</source>
         <translation>読み取り専用(&amp;R)</translation>
     </message>
     <message>
         <source>Enter password to modify, or open read only.</source>
+        <translation type="obsolete">読み取り専用ファイルを開いたり、変更する場合はパスワードを入力して下さい</translation>
+    </message>
+    <message>
+        <source>Enter password to modify, or open read-only file.</source>
         <translation>読み取り専用ファイルを開いたり、変更する場合はパスワードを入力して下さい</translation>
     </message>
     <message>
@@ -510,48 +619,56 @@ Try to switch user interface!</source>
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
+        <source>&amp;Follow system locale</source>
+        <translation>システム言語に従ってください(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Install new language</source>
+        <translation>新しい言語をインストールする(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation type="obsolete">個人的なテンプレートをリセット(&amp;R)</translation>
+    </message>
+    <message>
         <source>Choose Language</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたの言語を選択してください</translation>
     </message>
     <message>
         <source>Choose Language Installation Package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Follow system locale</source>
+        <translation type="obsolete">システム言語に従ってください</translation>
+    </message>
+    <message>
+        <source>Get &amp;More...</source>
+        <translation>もっと...(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>情報</translation>
+    </message>
+    <message>
         <source>Install Language Package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>installation fails, make sure to install the complete package!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Information</source>
+        <source>Installation fails, make sure to install the complete package.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Install new language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get &amp;More...</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">セットには、起動後に有効になります。</translation>
     </message>
     <message>
         <source>ZIP File (*.zip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Follow system locale</source>
-        <translation type="unfinished"></translation>
+        <source>Settings will take effect after the application restarts.</source>
+        <translation type="unfinished">セットには、起動後に有効になります。</translation>
     </message>
 </context>
 <context>
@@ -591,23 +708,31 @@ Try to switch user interface!</source>
 <context>
     <name>KRegisterDlg</name>
     <message>
-        <source>Initi&amp;als:</source>
-        <translation>略語(&amp;A):</translation>
-    </message>
-    <message>
         <source>&amp;Organization:</source>
-        <translation>組織(&amp;O):</translation>
+        <translation type="obsolete">組織(&amp;O):</translation>
     </message>
     <message>
-        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
+        <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
         <translation>入力した名前がドキュメントの作者名に反映されます</translation>
     </message>
     <message>
+        <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
+        <translation type="obsolete">入力した名前がドキュメントの作者名に反映されます</translation>
+    </message>
+    <message>
         <source>* &amp;Name:</source>
-        <translation>* 名前(&amp;N):</translation>
+        <translation type="obsolete">* 名前(&amp;N):</translation>
     </message>
     <message>
         <source>* &amp;Serial No.:</source>
+        <translation type="obsolete">* シリアル番号(&amp;S):</translation>
+    </message>
+    <message>
+        <source>* Name:</source>
+        <translation>* 名前(&amp;N):</translation>
+    </message>
+    <message>
+        <source>* Serial No.:</source>
         <translation>* シリアル番号(&amp;S):</translation>
     </message>
     <message>
@@ -615,58 +740,78 @@ Try to switch user interface!</source>
         <translation>文書のユーザー情報</translation>
     </message>
     <message>
-        <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>シリアル番号の保存に失敗しました。 管理者権限があるかどうかをご確認ください。</translation>
+        <source>Initi&amp;als:</source>
+        <translation type="obsolete">略語(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Initials:</source>
+        <translation>略語(&amp;A):</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <source>The items with &quot;*&quot; must be inputted.</source>
+        <source>Organization:</source>
+        <translation>組織(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
+        <translation>シリアル番号の保存に失敗しました。 管理者権限があるかどうかをご確認ください。</translation>
+    </message>
+    <message>
+        <source>The items with &quot;*&quot; must be entered.</source>
         <translation>「*」項目は入力必須項目です。</translation>
     </message>
     <message>
-        <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
+        <source>The items with &quot;*&quot; must be inputted.</source>
+        <translation type="obsolete">「*」項目は入力必須項目です。</translation>
+    </message>
+    <message>
+        <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
         <translation>無効なシリアル番号。 入力フォーマット、サポート バージョン、有効期間等をご確認ください。</translation>
     </message>
     <message>
+        <source>The serial number you typed is invalid. Please check the input format, its supported version and the valid date.</source>
+        <translation type="obsolete">無効なシリアル番号。 入力フォーマット、サポート バージョン、有効期間等をご確認ください。</translation>
+    </message>
+    <message>
         <source>You&apos;ve reached the maximum retry steps, program will terminate.</source>
+        <translation type="obsolete">リトライ回数が最大値を超えました。プログラムがすぐに終了します。</translation>
+    </message>
+    <message>
+        <source>Your input is incorrect and the program will exit.</source>
         <translation>リトライ回数が最大値を超えました。プログラムがすぐに終了します。</translation>
     </message>
 </context>
 <context>
     <name>KShowMoreWindowDlg</name>
     <message>
+        <source>Active Window:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Compare Side by Side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <source>Compare Side by Side</source>
-        <translation type="obsolete">ウインドウの選択</translation>
-    </message>
-    <message>
-        <source>Compare Side by Side Window</source>
+        <source>Please select the window to compare:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select Window</source>
+        <source>Side by Side Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch Window to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please Choose the Window to Compare</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Active Window:</source>
+        <source>Switch window to:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -759,12 +904,12 @@ Try to switch user interface!</source>
         <translation type="obsolete">kuiファイルのインストールに失敗しました。詳細な情報はログをご参照ください。</translation>
     </message>
     <message>
-        <source>Kingsoft Office</source>
-        <translation type="obsolete">キングソフト オフィス</translation>
-    </message>
-    <message>
         <source>Setting will applied when next time started.</source>
         <translation type="obsolete">次回起動時から設定が有効になります。</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation type="obsolete">キングソフト オフィス</translation>
     </message>
     <message>
         <source>classics</source>
@@ -777,6 +922,14 @@ Try to switch user interface!</source>
     <message>
         <source>modern</source>
         <translation type="obsolete">2012</translation>
+    </message>
+    <message>
+        <source>2012 Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic Skin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -845,12 +998,12 @@ Try to switch user interface!</source>
         <translation type="obsolete">(標準テキスト)</translation>
     </message>
     <message>
-        <source>S&amp;ubset:</source>
-        <translation type="obsolete">種類(&amp;U):</translation>
-    </message>
-    <message>
         <source>Fro&amp;m:</source>
         <translation type="obsolete">コード体系(&amp;M):</translation>
+    </message>
+    <message>
+        <source>S&amp;ubset:</source>
+        <translation type="obsolete">種類(&amp;U):</translation>
     </message>
 </context>
 <context>
@@ -1218,20 +1371,28 @@ Try to switch user interface!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Kingsoft Presentation</source>
-        <translation>バージョン情報</translation>
-    </message>
-    <message>
-        <source>About Kingsoft Spreadsheets</source>
-        <translation>バージョン情報</translation>
-    </message>
-    <message>
-        <source>About Kingsoft Writer</source>
-        <translation>バージョン情報</translation>
-    </message>
-    <message>
-        <source>About Kingsoft Office</source>
+        <source>About WPS Office</source>
         <translation>WPSについて</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation>バージョン情報</translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets</source>
+        <translation>バージョン情報</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation>バージョン情報</translation>
+    </message>
+    <message>
+        <source>Cannot find help file or help file encountered an error!</source>
+        <translation>ヘルプファイルが存在しないか、破損している可能性があります</translation>
+    </message>
+    <message>
+        <source>Cannot find help file or help file error!</source>
+        <translation type="obsolete">ヘルプファイルが存在しないか、破損している可能性があります</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1239,7 +1400,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Help file doesn&apos;t exist or is broken!</source>
-        <translation>ヘルプファイルが存在しないか、破損している可能性があります</translation>
+        <translation type="obsolete">ヘルプファイルが存在しないか、破損している可能性があります</translation>
     </message>
     <message>
         <source>Part of %1</source>
@@ -1247,8 +1408,8 @@ Try to switch user interface!</source>
         <translation>%1 の一部</translation>
     </message>
     <message>
-        <source>Part of %1 trial version</source>
-        <translation></translation>
+        <source>Part of %1 activation version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Product ID: </source>
@@ -1258,20 +1419,47 @@ Try to switch user interface!</source>
         <source>res:/icons/kxshare/%1.png</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>KxApiDefaultDlg</name>
     <message>
-        <source>Part of %1 activation version</source>
-        <translation type="unfinished"></translation>
+        <source>No</source>
+        <translation>いいえ</translation>
+    </message>
+    <message>
+        <source>The %1 method is not impl,do you want to use the default value while it will be a risk.</source>
+        <translation type="obsolete">%1の方法では実装できませんでした。危険性はありますが既定値を使用しますか？</translation>
+    </message>
+    <message>
+        <source>This method %1 is not implemented. If the default value is used, then may bring risk.</source>
+        <translation>%1の方法では実装できませんでした。危険性はありますが既定値を使用しますか？</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>はい</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Critical</source>
-        <translation>重要</translation>
+        <translation type="obsolete">重要</translation>
+    </message>
+    <message>
+        <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
+        <translation>UI XMLファイルのロードに失敗しました！詳細な情報はKDebugConsoleやログをご利用ください。</translation>
     </message>
     <message>
         <source>Loading UI xml file is failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation>UI XMLファイルのロードに失敗しました！詳細な情報はKDebugConsoleやログをご利用ください。</translation>
+        <translation type="obsolete">UI XMLファイルのロードに失敗しました！詳細な情報はKDebugConsoleやログをご利用ください。</translation>
+    </message>
+    <message>
+        <source>Loading the UI XML document failed. Please read the logs for more details or use KDebugConsole.</source>
+        <translation type="obsolete">UI XMLファイルのロードに失敗しました！詳細な情報はKDebugConsoleやログをご利用ください。</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation>重要</translation>
     </message>
 </context>
 <context>
@@ -1279,6 +1467,10 @@ Try to switch user interface!</source>
     <message>
         <source>Action Buttons</source>
         <translation>動作設定ボタン</translation>
+    </message>
+    <message>
+        <source>Basic Shapes</source>
+        <translation>基本図形</translation>
     </message>
     <message>
         <source>Block Arrows</source>
@@ -1302,7 +1494,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation>基本図形</translation>
+        <translation type="obsolete">基本図形</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
@@ -1324,8 +1516,12 @@ Try to switch user interface!</source>
         <translation>アドインの追加に失敗しました</translation>
     </message>
     <message>
-        <source>Failed to modify the Add-In settings</source>
+        <source>Failed to modify Add-In settings</source>
         <translation>アドインの設定変更に失敗しました</translation>
+    </message>
+    <message>
+        <source>Failed to modify the Add-In settings</source>
+        <translation type="obsolete">アドインの設定変更に失敗しました</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
@@ -1344,8 +1540,12 @@ Try to switch user interface!</source>
         <translation>読み込み</translation>
     </message>
     <message>
-        <source>Load on Demand (currently loaded)</source>
+        <source>Load on Demand (Currently loaded)</source>
         <translation>読み込み中です</translation>
+    </message>
+    <message>
+        <source>Load on Demand (currently loaded)</source>
+        <translation type="obsolete">読み込み中です</translation>
     </message>
     <message>
         <source>background-color: rgb(%1, %2, %3);</source>
@@ -1356,7 +1556,7 @@ Try to switch user interface!</source>
     <name>KxChangeIconDlg</name>
     <message>
         <source>&quot;%1&quot; has no icon.</source>
-        <translation>%1 のアイコンはありません</translation>
+        <translation type="obsolete">%1 のアイコンはありません</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -1377,6 +1577,10 @@ Try to switch user interface!</source>
     <message>
         <source>Icon Files(*.ico)</source>
         <translation>アイコンファイル</translation>
+    </message>
+    <message>
+        <source>There is no icon in &quot;%1&quot;.</source>
+        <translation>%1 のアイコンはありません</translation>
     </message>
 </context>
 <context>
@@ -1405,6 +1609,10 @@ Try to switch user interface!</source>
         <translation>直線(&amp;S)</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation>定義</translation>
+    </message>
+    <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1415,10 +1623,6 @@ Try to switch user interface!</source>
     <message>
         <source>No Line</source>
         <translation>線なし</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>定義</translation>
     </message>
 </context>
 <context>
@@ -1436,13 +1640,17 @@ Try to switch user interface!</source>
     <name>KxCommandListModel</name>
     <message>
         <source>Failed to add new command! It may exist already.</source>
+        <translation type="obsolete">操作失敗</translation>
+    </message>
+    <message>
+        <source>Failed to add new command.</source>
         <translation>操作失敗</translation>
     </message>
 </context>
 <context>
     <name>KxControlToolboxToolBarViewCommand</name>
     <message>
-        <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
+        <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1451,7 +1659,7 @@ Try to switch user interface!</source>
     <name>KxControlsListCommand</name>
     <message>
         <source>Register Custom Control...</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムコントロールを登録します</translation>
     </message>
 </context>
 <context>
@@ -1461,11 +1669,39 @@ Try to switch user interface!</source>
         <translation>（既定）</translation>
     </message>
     <message>
-        <source>Add dictionary file</source>
+        <source>Add Custom Dictionary</source>
         <translation>辞書ファイルの追加</translation>
     </message>
     <message>
-        <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
+        <source>Add dictionary file</source>
+        <translation type="obsolete">辞書ファイルの追加</translation>
+    </message>
+    <message>
+        <source>All Files (*.*)</source>
+        <translation type="obsolete">すべてファイル(*.*)</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished">すべてファイル(*.*)</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Custom Dictionary</source>
+        <translation>新しい辞書ファイル</translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1474,14 +1710,22 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>New dictionary file</source>
-        <translation>新しい辞書ファイル</translation>
+        <translation type="obsolete">新しい辞書ファイル</translation>
     </message>
     <message>
-        <source>Removing this custom dictionary might affect other programs of Kingsoft Office, do you want to continue?</source>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <translation>ユーザー設定を削除すると、その他のプログラムに影響を与える可能性があります。続行しますか？</translation>
     </message>
     <message>
-        <source>dictionary file(*.dic)|*.dic</source>
+        <source>Removing this custom dictionary might affect other programs of WPS Office, do you want to continue?</source>
+        <translation type="obsolete">ユーザー設定を削除すると、その他のプログラムに影響を与える可能性があります。続行しますか？</translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1489,7 +1733,25 @@ Try to switch user interface!</source>
     <name>KxCustomListModel</name>
     <message>
         <source>  Option Card</source>
+        <translation type="obsolete">タップ</translation>
+    </message>
+    <message>
+        <source>  Option Tab</source>
         <translation>タップ</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Group</name>
+    <message>
+        <source>Custom Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomRibbonEx_Tab</name>
+    <message>
+        <source>Custom Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1527,20 +1789,32 @@ Try to switch user interface!</source>
         <translation>追加</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
+        <source>Are you sure to reset the &apos;%1&apos; command?</source>
         <translation>“%1”コマンドをリセットしてよろしいですか？</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
+        <translation type="obsolete">“%1”コマンドをリセットしてよろしいですか？</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
         <translation>開始(&amp;G)</translation>
     </message>
     <message>
-        <source>Command &amp;Bars</source>
-        <translation>コマンドバー(&amp;B):</translation>
+        <source>Comman&amp;ds</source>
+        <translation type="obsolete">コマンド(&amp;D):</translation>
     </message>
     <message>
-        <source>Comman&amp;ds</source>
+        <source>Comman&amp;ds:</source>
         <translation>コマンド(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Command &amp;Bars</source>
+        <translation type="obsolete">コマンドバー(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Command &amp;Bars:</source>
+        <translation>コマンドバー(&amp;B):</translation>
     </message>
     <message>
         <source>Copy P&amp;icture</source>
@@ -1552,11 +1826,15 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>D</source>
-        <translation>D</translation>
+        <translation type="obsolete">D</translation>
     </message>
     <message>
         <source>Dialog</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>D</translation>
     </message>
     <message>
         <source>Move To</source>
@@ -1580,10 +1858,14 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation>リセット</translation>
+        <translation type="obsolete">リセット</translation>
     </message>
     <message>
         <source>U</source>
+        <translation type="obsolete">U</translation>
+    </message>
+    <message>
+        <source>Up</source>
         <translation>U</translation>
     </message>
 </context>
@@ -1625,6 +1907,10 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>&amp;New</source>
+        <translation type="obsolete">新規作成(&amp;N)...</translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
         <translation>新規作成(&amp;N)...</translation>
     </message>
     <message>
@@ -1637,34 +1923,54 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>R&amp;ename</source>
+        <translation type="obsolete">名前の変更(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>R&amp;ename...</source>
         <translation>名前の変更(&amp;E)...</translation>
     </message>
     <message>
-        <source>Tool&amp;bars:</source>
+        <source>Tool&amp;bars</source>
         <translation>ツールバー(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Tool&amp;bars:</source>
+        <translation type="obsolete">ツールバー(&amp;B)</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarWTB</name>
     <message>
         <source>Adding toolbar is successful!</source>
-        <translation>ツールバーの追加に成功しました。</translation>
+        <translation type="obsolete">ツールバーの追加に成功しました。</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the &apos;%1&apos; toolbar?</source>
+        <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
         <translation>“%1”ツールバーを削除してよろしいですか？</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the &apos;%1&apos; toolbar?</source>
+        <source>Are you sure to reset the &apos;%1&apos; toolbar?</source>
         <translation>“%1”ツールバーをリセットしてよろしいですか？</translation>
     </message>
     <message>
-        <source>Please input &amp;toolbar&apos;s name:</source>
+        <source>Are you sure you want to delete the &apos;%1&apos; toolbar?</source>
+        <translation type="obsolete">“%1”ツールバーを削除してよろしいですか？</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the &apos;%1&apos; toolbar?</source>
+        <translation type="obsolete">“%1”ツールバーをリセットしてよろしいですか？</translation>
+    </message>
+    <message>
+        <source>Please enter &amp;toolbar&apos;s name:</source>
         <translation>名前を入力(&amp;T):</translation>
     </message>
     <message>
+        <source>Please input &amp;toolbar&apos;s name:</source>
+        <translation type="obsolete">名前を入力(&amp;T):</translation>
+    </message>
+    <message>
         <source>Renaming toolbar is successful!</source>
-        <translation>ツールバーの名前の変更に成功しました。</translation>
+        <translation type="obsolete">ツールバーの名前の変更に成功しました。</translation>
     </message>
     <message>
         <source>The toolbar exist, change another name.</source>
@@ -1672,14 +1978,26 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
+        <translation type="obsolete">ツールバーの名称がないので、入力して下さい。</translation>
+    </message>
+    <message>
+        <source>The toolbar name must not be blank.</source>
         <translation>ツールバーの名称がないので、入力して下さい。</translation>
+    </message>
+    <message>
+        <source>Toolbar has been added.</source>
+        <translation>ツールバーの追加に成功しました。</translation>
+    </message>
+    <message>
+        <source>Toolbar has been renamed.</source>
+        <translation>ツールバーの名前の変更に成功しました。</translation>
     </message>
 </context>
 <context>
     <name>KxDevelopToolsTriggerCommand</name>
     <message>
         <source>To work with Developer tab (including Macros, Control
-Toolbox), please purchase Kingsoft Office Professional.</source>
+Toolbox), please purchase WPS Office Professional.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1687,51 +2005,55 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>Cycle Diagram</source>
-        <translation>循環</translation>
+        <translation type="unfinished">循環</translation>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation>組織図</translation>
+        <translation type="obsolete">組織図</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished">組織図</translation>
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation>ピラミッド</translation>
+        <translation type="unfinished">ピラミッド</translation>
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation>放射図</translation>
+        <translation type="unfinished">放射図</translation>
     </message>
     <message>
         <source>Target Diagram</source>
-        <translation>ターゲット図</translation>
+        <translation type="unfinished">ターゲット図</translation>
     </message>
     <message>
         <source>Used to show a process with a continuous cycle</source>
-        <translation>連続性のある循環プロセスを表示するために使用します</translation>
+        <translation type="unfinished">連続性のある循環プロセスを表示するために使用します</translation>
     </message>
     <message>
         <source>Used to show areas of overlap between elements</source>
-        <translation>要素間の重複領域を表示するために使用します</translation>
+        <translation type="unfinished">要素間の重複領域を表示するために使用します</translation>
     </message>
     <message>
         <source>Used to show foundation-based relationships</source>
-        <translation>基礎ベースの関係性を表示するために使用します</translation>
+        <translation type="unfinished">基礎ベースの関係性を表示するために使用します</translation>
     </message>
     <message>
         <source>Used to show hierarchical relationships</source>
-        <translation>階層関係を表示するために使用します</translation>
+        <translation type="unfinished">階層関係を表示するために使用します</translation>
     </message>
     <message>
         <source>Used to show relationships of core elements</source>
-        <translation>コア要素の関係性を表示するために使用します</translation>
+        <translation type="unfinished">コア要素の関係性を表示するために使用します</translation>
     </message>
     <message>
         <source>Used to show steps toward a goal</source>
-        <translation>目標に向かってのステップを表示するために使用します</translation>
+        <translation type="unfinished">目標に向かってのステップを表示するために使用します</translation>
     </message>
     <message>
         <source>Venn diagram</source>
-        <translation>ペン図</translation>
+        <translation type="unfinished">ペン図</translation>
     </message>
 </context>
 <context>
@@ -1745,8 +2067,12 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation>削除(&amp;R)</translation>
     </message>
     <message>
-        <source>Available A&amp;dd-Ins:</source>
+        <source>A&amp;dd-Ins available:</source>
         <translation>有効なプラグイン(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Available A&amp;dd-Ins:</source>
+        <translation type="obsolete">有効なプラグイン(&amp;D):</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -1842,12 +2168,24 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
         <translation>辞書リスト(&amp;L)</translation>
     </message>
     <message>
+        <source>Full Path</source>
+        <translation>方向</translation>
+    </message>
+    <message>
+        <source>Set &amp;Default</source>
+        <translation type="obsolete">既定設定(&amp;D)</translation>
+    </message>
+    <message>
         <source>Set &amp;default</source>
+        <translation type="obsolete">既定設定(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
         <translation>既定設定(&amp;D)</translation>
     </message>
     <message>
         <source>path</source>
-        <translation>方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
 </context>
 <context>
@@ -1919,11 +2257,19 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgEncryptionType</name>
     <message>
         <source>&amp;Choose an encryption type:</source>
+        <translation type="obsolete">暗号化の種類の選択(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Choose encryption type:</source>
         <translation>暗号化の種類の選択(&amp;C):</translation>
     </message>
     <message>
-        <source>Choose a &amp;key length:</source>
+        <source>Choose &amp;key length:</source>
         <translation type="unfinished">キーの長さ(&amp;K):</translation>
+    </message>
+    <message>
+        <source>Choose a &amp;key length:</source>
+        <translation type="obsolete">キーの長さ(&amp;K):</translation>
     </message>
     <message>
         <source>Encryption Type</source>
@@ -1985,8 +2331,16 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">色(&amp;1)</translation>
     </message>
     <message>
+        <source>Color &amp;1:</source>
+        <translation type="unfinished">色(&amp;1:)</translation>
+    </message>
+    <message>
         <source>Color &amp;2</source>
         <translation type="obsolete">色(&amp;2)</translation>
+    </message>
+    <message>
+        <source>Color &amp;2:</source>
+        <translation type="unfinished">色(&amp;2:)</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -1994,7 +2348,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curtain of Night</source>
-        <translation type="obsolete">夜のとばり</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dar&amp;k</source>
@@ -2101,6 +2455,10 @@ p, li { white-space: pre-wrap; }
         <translation>海</translation>
     </message>
     <message>
+        <source>Pa&amp;ttern:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parchment</source>
         <translation>羊皮紙</translation>
     </message>
@@ -2192,22 +2550,6 @@ p, li { white-space: pre-wrap; }
         <source>Wheat</source>
         <translation>小麦</translation>
     </message>
-    <message>
-        <source>Color &amp;1:</source>
-        <translation type="unfinished">色(&amp;1:)</translation>
-    </message>
-    <message>
-        <source>Color &amp;2:</source>
-        <translation type="unfinished">色(&amp;2:)</translation>
-    </message>
-    <message>
-        <source>Pa&amp;ttern:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CurtainOfNight</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgFormatShape</name>
@@ -2219,7 +2561,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgGenerally</name>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
         <translation>Kingsoft オンラインストア</translation>
     </message>
     <message>
@@ -2329,7 +2671,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cust&amp;om Symbols:</source>
+        <translation type="obsolete">ユーザー設定(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Cust&amp;om symbols:</source>
         <translation>ユーザー設定(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Fro&amp;m:</source>
+        <translation>コード体系(&amp;M):</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
@@ -2370,10 +2720,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Symbol</source>
         <translation>記号と特殊文字</translation>
-    </message>
-    <message>
-        <source>Fro&amp;m:</source>
-        <translation>コード体系(&amp;M):</translation>
     </message>
 </context>
 <context>
@@ -2502,6 +2848,10 @@ installed, or you are sure all documents you open are safe.</source>
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Set as &amp;Default Template</source>
+        <translation type="obsolete">既定のテンプレートに設定(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Set as &amp;default template</source>
         <translation>既定のテンプレートに設定(&amp;D)</translation>
     </message>
     <message>
@@ -2547,6 +2897,10 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>&amp;Choose command form:</source>
+        <translation type="obsolete">メニューから選択(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Choose command from:</source>
         <translation>メニューから選択(&amp;C):</translation>
     </message>
     <message>
@@ -2554,20 +2908,24 @@ installed, or you are sure all documents you open are safe.</source>
         <translation>&lt;&lt;削除(&amp;R)</translation>
     </message>
     <message>
-        <source>Only apply to the current document</source>
-        <translation>現在の文書にのみ適用</translation>
-    </message>
-    <message>
         <source>Apply to all documents(default)</source>
         <translation>すべての既定の文書に適用</translation>
     </message>
     <message>
         <source>Cust&amp;omize Quick Access</source>
+        <translation type="obsolete">クイックツールバーを設定(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Cust&amp;omize Quick Access:</source>
         <translation>クイックツールバーを設定(&amp;O):</translation>
     </message>
     <message>
         <source>Customize Quick Access</source>
         <translation>クイックツールバーを設定</translation>
+    </message>
+    <message>
+        <source>Only apply to the current document</source>
+        <translation>現在の文書にのみ適用</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
@@ -2589,10 +2947,6 @@ installed, or you are sure all documents you open are safe.</source>
         <translation>ID</translation>
     </message>
     <message>
-        <source>Recent File Management</source>
-        <translation>最近使用したファイルの管理</translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation>名前</translation>
     </message>
@@ -2605,9 +2959,23 @@ installed, or you are sure all documents you open are safe.</source>
         <translation>方向</translation>
     </message>
     <message>
+        <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This operation will not delete the files but only remove the records.
+Double-click or use the popup menu to open the file. This operation will clear the selection of the items.</source>
+        <translation type="obsolete">最近使用したファイルのリストから削除したい項目を選択し、「OK」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
+    </message>
+    <message>
+        <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished">最近使用したファイルのリストから削除したい項目を選択し、「OK」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
+    </message>
+    <message>
         <source>Please select the records which you want to remove from the recent file list, then press OK button to commit.It will not delete the files but only remove the records.
 Double click any item can open the file, or you can use the popup menu. This will clear the selection of the items.</source>
-        <translation>最近使用したファイルのリストから削除したい項目を選択し、「OK」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
+        <translation type="obsolete">最近使用したファイルのリストから削除したい項目を選択し、「OK」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
+    </message>
+    <message>
+        <source>Recent File Management</source>
+        <translation>最近使用したファイルの管理</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
@@ -2632,7 +3000,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; Kingsoft Online Store &lt;/a&gt;.</source>
+        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
         <translation></translation>
     </message>
     <message>
@@ -2644,15 +3012,23 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>閲覧モード</translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Infotip</source>
         <translation>テキストラベル</translation>
     </message>
     <message>
-        <source>Thanks for using Kingsoft Office 2012 Beta2.</source>
-        <translation>Kingsoft Office 2012　Beta2をご利用していただありがとうございました</translation>
+        <source>TextLabel</source>
+        <translation type="obsolete">テキストラベル</translation>
     </message>
     <message>
-        <source>The trial period of your Kingsoft Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of Kingsoft Office.</source>
+        <source>Thanks for using WPS Office 2012 Beta2.</source>
+        <translation>WPS Office 2012　Beta2をご利用していただありがとうございました</translation>
+    </message>
+    <message>
+        <source>The trial period of your WPS Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of WPS Office.</source>
+        <translation type="obsolete">ご利用いただきBetaバージョンを使用期限に切れました。「閲覧モード」で編集できません。</translation>
+    </message>
+    <message>
+        <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
         <translation>ご利用いただきBetaバージョンを使用期限に切れました。「閲覧モード」で編集できません。</translation>
     </message>
     <message>
@@ -2671,6 +3047,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters, we can&apos;t handle it.</source>
+        <translation type="obsolete">使用できない記号が含まれているため、処理できません</translation>
+    </message>
+    <message>
+        <source>The word contains unallowable characters. We cannot handle it.</source>
         <translation>使用できない記号が含まれているため、処理できません</translation>
     </message>
 </context>
@@ -2678,11 +3058,19 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxEditWordArtTextDlg</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation>無効な整数です</translation>
+        <translation type="obsolete">無効な整数です</translation>
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
+        <translation type="obsolete">システム上に%1 フォントがないため、この文字列は代用フォントにて表示されますが、使用してもよいですか？</translation>
+    </message>
+    <message>
+        <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
         <translation>システム上に%1 フォントがないため、この文字列は代用フォントにて表示されますが、使用してもよいですか？</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation>無効な整数です</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
@@ -2704,27 +3092,54 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation></translation>
     </message>
     <message>
+        <source>Please input a password between </source>
+        <translation>間の数字を入力して下さい</translation>
+    </message>
+    <message>
         <source>Standard Encryption</source>
-        <translation>Office Standard</translation>
+        <translation>標準暗号化</translation>
     </message>
     <message>
         <source>XOR Encryption</source>
-        <translation>Office XOR</translation>
+        <translation>弱い暗号化(XOR)</translation>
+    </message>
+</context>
+<context>
+    <name>KxEulaDlg</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished">キングソフト オフィス</translation>
     </message>
     <message>
-        <source>Please input a password between </source>
-        <translation>間の数字を入力して下さい</translation>
+        <source>End-User License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Decline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxFeekbackCommand</name>
     <message>
-        <source>No E-Mail Client!</source>
-        <translation>Eメール クライアントなし!</translation>
-    </message>
-    <message>
         <source>Feedback</source>
         <translation>改善要望</translation>
+    </message>
+    <message>
+        <source>No E-Mail Client!</source>
+        <translation type="obsolete">Eメール クライアントなし!</translation>
+    </message>
+    <message>
+        <source>No E-Mail Client.</source>
+        <translation>Eメール クライアントなし!</translation>
     </message>
 </context>
 <context>
@@ -2747,6 +3162,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>&amp;Encrypt button tab in field dialog</source>
         <comment>Encrypt button tab in filedialog</comment>
+        <translation type="obsolete">暗号化(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Encryption...</source>
+        <comment>Encrypt button tab in filedialog</comment>
         <translation>暗号化(&amp;E)...</translation>
     </message>
 </context>
@@ -2757,8 +3177,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>すべての図</translation>
     </message>
     <message>
-        <source>An error occurred while importing this file. %1</source>
+        <source>An error occurred while importing this file %1.</source>
         <translation>%1 ファイルをインポート中にエラーが発生しました</translation>
+    </message>
+    <message>
+        <source>An error occurred while importing this file. %1</source>
+        <translation type="obsolete">%1 ファイルをインポート中にエラーが発生しました</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
@@ -3023,46 +3447,58 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsExplorer</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation>戻る(&amp;R)</translation>
+        <translation type="obsolete">戻る(&amp;R)</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>開く</translation>
+        <translation type="obsolete">開く</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsLoginDlg</name>
     <message>
         <source>&amp;Password:</source>
-        <translation>パスワード(&amp;P):</translation>
+        <translation type="obsolete">パスワード(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Save Acount</source>
-        <translation>アカウント情報を保存する(&amp;S)</translation>
+        <translation type="obsolete">アカウント情報を保存する(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;UserName:</source>
-        <translation>アカウント(&amp;U):</translation>
+        <translation type="obsolete">アカウント(&amp;U):</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation>認証コード:</translation>
+        <translation type="obsolete">認証コード:</translation>
     </message>
     <message>
         <source>Failed to get captcha image!</source>
-        <translation>認証コードの取得に失敗しました</translation>
+        <translation type="obsolete">認証コードの取得に失敗しました</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
     </message>
     <message>
-        <source>Network Error!Failed to get File List!</source>
-        <translation>ネットワークエラーのためファイルリストの取得に失敗しました</translation>
+        <source>Network Error! Failed to get File List!</source>
+        <translation type="obsolete">ネットワークエラーのためファイルリストの取得に失敗しました</translation>
+    </message>
+    <message>
+        <source>Network Error! Failed to login!</source>
+        <translation type="obsolete">ネットワークエラーのためログインに失敗しました</translation>
+    </message>
+    <message>
+        <source>Network Error! Get file List failed!</source>
+        <translation type="obsolete">ネットワークエラーのためファイルリストの取得に失敗しました</translation>
     </message>
     <message>
         <source>Network Error! Login failed!</source>
-        <translation>ネットワークエラーのためログインに失敗しました</translation>
+        <translation type="obsolete">ネットワークエラーのためログインに失敗しました</translation>
+    </message>
+    <message>
+        <source>Network Error!Failed to get File List!</source>
+        <translation type="obsolete">ネットワークエラーのためファイルリストの取得に失敗しました</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -3073,56 +3509,68 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">アカウント:</translation>
     </message>
     <message>
-        <source>Username or password is invalid!</source>
-        <translation>無効なアカウントまたはパスワードです</translation>
+        <source>Username or password invalid!</source>
+        <translation type="obsolete">無効なアカウントまたはパスワードです</translation>
     </message>
     <message>
         <source>Username or password is empty!</source>
-        <translation>アカウントまたはパスワードが入力されていません</translation>
+        <translation type="obsolete">アカウントまたはパスワードが入力されていません</translation>
+    </message>
+    <message>
+        <source>Username or password is invalid!</source>
+        <translation type="obsolete">無効なアカウントまたはパスワードです</translation>
     </message>
     <message>
         <source>change a captcha!</source>
-        <translation>認証コードを変更</translation>
+        <translation type="obsolete">認証コードを変更</translation>
     </message>
     <message>
         <source>login...</source>
-        <translation>ログイン...</translation>
+        <translation type="obsolete">ログイン...</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsModel</name>
     <message>
         <source>Document Name</source>
-        <translation>ドキュメント名</translation>
+        <translation type="obsolete">ドキュメント名</translation>
     </message>
     <message>
         <source>Last Modified Date</source>
-        <translation>更新時刻</translation>
+        <translation type="obsolete">更新時刻</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsModule</name>
     <message>
         <source>Failed to create file! File may be opened or no permission to create file!</source>
-        <translation>ファイルがすでに開かれているか、権限がないため作成できませんでした。</translation>
+        <translation type="obsolete">ファイルがすでに開かれているか、権限がないため作成できませんでした。</translation>
+    </message>
+    <message>
+        <source>Network Error! Failed to open file!</source>
+        <translation type="obsolete">ネットワークエラーのためファイルを開けませんでした</translation>
+    </message>
+    <message>
+        <source>Network Error! Failed to upload file!</source>
+        <translation type="obsolete">ネットワークエラーのためファイルをアップロードできませんでした</translation>
     </message>
     <message>
         <source>Network Error! Open file failed!</source>
-        <translation>ネットワークエラーのためファイルを開けませんでした</translation>
+        <translation type="obsolete">ネットワークエラーのためファイルを開けませんでした</translation>
     </message>
     <message>
         <source>Network Error! Upload file failed!</source>
-        <translation>ネットワークエラーのためファイルをアップロードできませんでした</translation>
+        <translation type="obsolete">ネットワークエラーのためファイルをアップロードできませんでした</translation>
     </message>
 </context>
 <context>
     <name>KxHideorShowButton</name>
     <message>
-        <source>Show Taskpane</source>
+        <source>Hide Task Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide Taskpane</source>
+        <source>Show Task Window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3130,6 +3578,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxHyperlinkDlg</name>
     <message>
         <source>All Files (*.*)</source>
+        <translation type="obsolete">すべてファイル(*.*)</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
         <translation>すべてファイル(*.*)</translation>
     </message>
     <message>
@@ -3160,12 +3612,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxInputDialogCommand</name>
     <message>
-        <source>Custom:</source>
-        <translation>カスタム:</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom:</source>
+        <translation>カスタム:</translation>
     </message>
 </context>
 <context>
@@ -3188,6 +3640,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Cannot create a link to the file &quot;%1&quot;.</source>
         <translation>%1 ファイルへのリンクが作成できません</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>ファイル</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document as an icon.</source>
@@ -3242,24 +3698,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>ファイルの内容をシートに挿入します。挿入後、ソース、ファイルを作成したアプリケーションを使って、この内容を編集できます</translation>
     </message>
     <message>
-        <source>Kingsoft Presentation cannot access %1, the file name is invalid.</source>
-        <translation>Kingsoft Presentationは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets cannot access %1, the file name is invalid.</source>
-        <translation>Kingsoft Spreadsheetsは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
-    </message>
-    <message>
-        <source>Kingsoft Writer cannot access %1, the file name is invalid.</source>
-        <translation>Kingsoft Writerは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
-    </message>
-    <message>
         <source>Presentations and Shows(*.dps;*.ppt)</source>
         <translation type="obsolete">プレゼンテーションとショー(*.dps, *.ppt）</translation>
     </message>
     <message>
-        <source>File</source>
-        <translation>ファイル</translation>
+        <source>WPS Presentation cannot access %1, the file name is invalid.</source>
+        <translation type="obsolete">WPS Presentationは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot access %1. The file name is invalid.</source>
+        <translation>WPS Presentationは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot access %1, the file name is invalid.</source>
+        <translation type="obsolete">WPS Spreadsheetsは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot access %1. The file name is invalid.</source>
+        <translation>WPS Spreadsheetsは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot access %1, the file name is invalid.</source>
+        <translation type="obsolete">WPS Writerは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot access %1. The file name is invalid.</source>
+        <translation>WPS Writerは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
     </message>
 </context>
 <context>
@@ -3269,8 +3733,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>(標準テキスト)</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset the Symbol toolbar?</source>
+        <source>Are you sure to reset the Symbol toolbar?</source>
         <translation>記号と特殊文字ツールバーを再設定してもよいですか？</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the Symbol toolbar?</source>
+        <translation type="obsolete">記号と特殊文字ツールバーを再設定してもよいですか？</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3314,12 +3782,24 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxMacroActionButtonCommand</name>
     <message>
-        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
+        <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
         <translation>マクロ&quot;%1&quot;を実行できません。マクロがこのブック内で利用できないか、すべてのマクロが無効になっている可能性があります</translation>
+    </message>
+    <message>
+        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
+        <translation type="obsolete">マクロ&quot;%1&quot;を実行できません。マクロがこのブック内で利用できないか、すべてのマクロが無効になっている可能性があります</translation>
+    </message>
+    <message>
+        <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook, or all macros may have been disabled.</source>
+        <translation type="obsolete">マクロ&quot;%1&quot;を実行できません。マクロがこのブック内で利用できないか、すべてのマクロが無効になっている可能性があります</translation>
     </message>
 </context>
 <context>
     <name>KxMacroCommand</name>
+    <message>
+        <source>Click to purchase now.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Click to try it now.</source>
         <translation type="obsolete">「すぐに試用」をクリックする</translation>
@@ -3333,21 +3813,17 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>いいえ</translation>
     </message>
     <message>
-        <source>To work with macros, please purchase Kingsoft Office Professional.
+        <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation>マクロを利用したい場合ではKingsoft Office VBAバージョンをご購入するお勧めます。</translation>
-    </message>
-    <message>
-        <source>Click to purchase now.</source>
-        <translation type="unfinished"></translation>
+        <translation>マクロを利用したい場合ではWPS Office VBAバージョンをご購入するお勧めます。</translation>
     </message>
 </context>
 <context>
     <name>KxMacroListCommand</name>
     <message>
-        <source>To work with macros, please purchase Kingsoft Office Professional.
+        <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished">マクロを利用したい場合ではKingsoft Office VBAバージョンをご購入するお勧めます。</translation>
+        <translation type="unfinished">マクロを利用したい場合ではWPS Office VBAバージョンをご購入するお勧めます。</translation>
     </message>
 </context>
 <context>
@@ -3429,6 +3905,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>&amp;Open From File...</source>
+        <translation type="obsolete">ファイルから開く(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>&amp;Open from File...</source>
         <translation>ファイルから開く(&amp;O)...</translation>
     </message>
     <message>
@@ -3481,7 +3961,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Hot&amp;key:</source>
-        <translation>ショットカット(&amp;K):</translation>
+        <translation type="obsolete">ショットカット(&amp;K):</translation>
     </message>
     <message>
         <source>Image and Text</source>
@@ -3492,8 +3972,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>画像:</translation>
     </message>
     <message>
-        <source>JPEG JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
+        <source>JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
         <translation>JPEGファイル交換フォーマット(*.jpg *.jpeg *.jpe)</translation>
+    </message>
+    <message>
+        <source>JPEG JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
+        <translation type="obsolete">JPEGファイル交換フォーマット(*.jpg *.jpeg *.jpe)</translation>
     </message>
     <message>
         <source>Modify Commands</source>
@@ -3516,20 +4000,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>表示(&amp;W)</translation>
     </message>
     <message>
+        <source>Shortcut &amp;key</source>
+        <translation>ショットカット(&amp;K):</translation>
+    </message>
+    <message>
         <source>Tag Image File Format(*tif *tiff)</source>
         <translation>Tag (*tif *tiff)</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)</source>
+        <translation>Windows ビットマップ【(*.bmp)</translation>
     </message>
     <message>
         <source>Windows Enhanced MetaFile(*.wmf)</source>
         <translation>Windows プリミティブファイル(*.wmf)</translation>
     </message>
     <message>
+        <source>Windows Enhanced Metafile(*.emf)</source>
+        <translation>Windows 強調プリミティブファイル(*.emf)</translation>
+    </message>
+    <message>
         <source>Windows Window Bitmap(*.bmp)</source>
-        <translation>Windows ビットマップ【(*.bmp)</translation>
+        <translation type="obsolete">Windows ビットマップ【(*.bmp)</translation>
     </message>
     <message>
         <source>Windows Window Enhanced MetaFile(*.emf)</source>
-        <translation>Windows 強調プリミティブファイル(*.emf)</translation>
+        <translation type="obsolete">Windows 強調プリミティブファイル(*.emf)</translation>
     </message>
 </context>
 <context>
@@ -3547,8 +4043,70 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>空白のワークブック</translation>
     </message>
     <message>
+        <source>Download</source>
+        <translation>ダウンロード</translation>
+    </message>
+    <message>
         <source>General</source>
         <translation>標準</translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFonts</name>
+    <message>
+        <source>Click to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fold online fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For more details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More online fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause. Click to continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pay font, which is free for VIP.
+Click the icon for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using online fonts needs to sign in.
+Click the icon to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired.
+Click to recharge for more discounts.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3562,12 +4120,16 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>ビューワーモードへ</translation>
     </message>
     <message>
-        <source>Input Serial Nummber</source>
-        <translation>シリアル入力</translation>
+        <source>Input Serial Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Online Store.</source>
-        <translation>オンラインショップでシリアルを購入する.</translation>
+        <source>Input Serial Nummber</source>
+        <translation type="obsolete">シリアル入力</translation>
+    </message>
+    <message>
+        <source>Purchase Now</source>
+        <translation>今すぐ購入</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
@@ -3578,31 +4140,39 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>Personalにアップデートする</translation>
     </message>
     <message>
-        <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
-        <translation>ご利用していただきシリアル番号を期限が過ぎたため、これ以降キーボード入力無効になります。シリアルを購入し、全ての機能を引き続きご利用ください。</translation>
+        <source>WPS Office Free.</source>
+        <translation>WPS Office 無料版</translation>
     </message>
     <message>
-        <source>Your Kingsoft Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>試用期限が過ぎたため、これ以降はキーボード入力無効のビューワーモードでのみお使いいただけます。シリアルを購入し、全ての機能を引き続きご利用下さい。</translation>
+        <source>WPS Online Store.</source>
+        <translation>オンラインショップでシリアルを購入する.</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードも可能です</translation>
     </message>
     <message>
-        <source>Kingsoft Office Free.</source>
-        <translation type="unfinished"></translation>
+        <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
+        <translation type="obsolete">ご利用していただきシリアル番号を期限が過ぎたため、これ以降キーボード入力無効になります。シリアルを購入し、全ての機能を引き続きご利用ください。</translation>
     </message>
     <message>
-        <source>Purchase Now</source>
-        <translation type="unfinished"></translation>
+        <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
+        <translation>ご利用していただきシリアル番号を期限が過ぎたため、これ以降キーボード入力無効になります。シリアルを購入し、全ての機能を引き続きご利用ください。</translation>
+    </message>
+    <message>
+        <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
+        <translation>試用期限が過ぎたため、これ以降はキーボード入力無効のビューワーモードでのみお使いいただけます。シリアルを購入し、全ての機能を引き続きご利用下さい。</translation>
     </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
     <message>
-        <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation>元ファイルへのショートカットが作成され、ハイパーリンクとして貼り付けされます。元ファイルが変更されると、ドキュメントに反映されます</translation>
+    </message>
+    <message>
+        <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <translation type="obsolete">元ファイルへのショートカットが作成され、ハイパーリンクとして貼り付けされます。元ファイルが変更されると、ドキュメントに反映されます</translation>
     </message>
     <message>
         <source>Result:</source>
@@ -3613,7 +4183,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>未知の書式ソース</translation>
     </message>
     <message>
-        <source>Kingsoft Writer</source>
+        <source>WPS Writer</source>
         <translation>WPSヘルプ</translation>
     </message>
 </context>
@@ -3632,6 +4202,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxPrinter</name>
     <message>
         <source>&amp;Inverse ouput</source>
+        <translation type="obsolete">反面印刷(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Inverse output</source>
         <translation>反面印刷(&amp;I)</translation>
     </message>
     <message>
@@ -3645,6 +4219,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Comment:</source>
         <translation>コメント:</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">エラー</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
@@ -3687,8 +4265,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>状態:</translation>
     </message>
     <message>
-        <source>The printer &quot;%1&quot; returned an error!</source>
+        <source>The printer &quot;%1&quot; encountered an error!</source>
         <translation>%1 プリンターからエラーが返されました</translation>
+    </message>
+    <message>
+        <source>The printer &quot;%1&quot; returned an error!</source>
+        <translation type="obsolete">%1 プリンターからエラーが返されました</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -3717,8 +4299,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxPropertyDlg</name>
     <message>
+        <source>%L1 byte</source>
+        <translation>%L1 バイト</translation>
+    </message>
+    <message>
         <source>%L1byte</source>
-        <translation>% L 1バイト</translation>
+        <translation type="obsolete">%L1バイト</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -3727,14 +4313,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>&amp;Modify</source>
         <translation>変更(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Property</source>
-        <translation>プロパティ</translation>
-    </message>
-    <message>
-        <source>Your input data do not match the type specified, value should be text!</source>
-        <translation>入力したデータは修正できません。値はテキストになります</translation>
     </message>
     <message>
         <source>Checker</source>
@@ -3765,6 +4343,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>完了日</translation>
     </message>
     <message>
+        <source>Forward to</source>
+        <translation>宛先</translation>
+    </message>
+    <message>
         <source>From</source>
         <translation>差出人</translation>
     </message>
@@ -3775,6 +4357,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Layout</source>
         <translation>配置</translation>
+    </message>
+    <message>
+        <source>N&amp;o</source>
+        <translation type="obsolete">いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>No</source>
@@ -3801,12 +4387,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>プロジェクト</translation>
     </message>
     <message>
+        <source>Property</source>
+        <translation>プロパティ</translation>
+    </message>
+    <message>
         <source>Publisher</source>
         <translation>発行側</translation>
     </message>
     <message>
         <source>Purpose</source>
         <translation>目的</translation>
+    </message>
+    <message>
+        <source>Record Date</source>
+        <translation>記録日</translation>
     </message>
     <message>
         <source>Recorder</source>
@@ -3829,16 +4423,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>進捗状況</translation>
     </message>
     <message>
-        <source>Record Date</source>
-        <translation>記録日</translation>
-    </message>
-    <message>
         <source>Target</source>
         <translation>行先</translation>
     </message>
     <message>
-        <source>Forward to</source>
-        <translation>宛先</translation>
+        <source>The value entered does not match the specified type. The value will be stored as text.</source>
+        <translation>入力したデータは修正できません。値はテキストになります</translation>
     </message>
     <message>
         <source>Typer</source>
@@ -3853,16 +4443,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>はい</translation>
     </message>
     <message>
+        <source>Your input data do not match the type specified, value should be text!</source>
+        <translation type="obsolete">入力したデータは修正できません。値はテキストになります</translation>
+    </message>
+    <message>
         <source>yyyy-MM-dd</source>
         <translation>yyyy-MM-dd</translation>
-    </message>
-    <message>
-        <source>yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>no</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3876,12 +4462,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>すべてのコマンド</translation>
     </message>
     <message>
-        <source>Are you sure to reset the customization data of all users?</source>
+        <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
         <translation>クイックツールバーをリセットしてもよろしいですか？</translation>
+    </message>
+    <message>
+        <source>Are you sure to reset the customization data of all users?</source>
+        <translation type="obsolete">クイックツールバーをリセットしてもよろしいですか？</translation>
     </message>
     <message>
         <source>Border</source>
         <translation>枠線</translation>
+    </message>
+    <message>
+        <source>Common</source>
+        <translation>コマンド</translation>
     </message>
     <message>
         <source>Move down</source>
@@ -3904,8 +4498,16 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>リセット</translation>
     </message>
     <message>
+        <source>Reset Custom</source>
+        <translation>ユーザー設定リセット</translation>
+    </message>
+    <message>
         <source>Separator</source>
         <translation>区切り</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation>サイズ</translation>
     </message>
     <message>
         <source>The selected command is already on the Quick Access Toolbar!</source>
@@ -3915,18 +4517,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>Undo</source>
         <translation>元に戻す</translation>
     </message>
-    <message>
-        <source>Common</source>
-        <translation>コマンド</translation>
-    </message>
-    <message>
-        <source>Reset Custom</source>
-        <translation>ユーザー設定リセット</translation>
-    </message>
-    <message>
-        <source>Shape Size</source>
-        <translation>サイズ</translation>
-    </message>
 </context>
 <context>
     <name>KxRecentFileManageDlg</name>
@@ -3935,8 +4525,8 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>開く(&amp;O)</translation>
     </message>
     <message>
-        <source>Delete Record</source>
-        <translation type="unfinished"></translation>
+        <source>Delete</source>
+        <translation type="unfinished">削除</translation>
     </message>
 </context>
 <context>
@@ -3958,6 +4548,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxRecentFilePageCommand</name>
     <message>
         <source>Can not find the folder &quot;%1&quot;, it may be deleted, moved or renamed </source>
+        <translation type="obsolete">&quot;%1&quot; フォルダは削除されたか、移動されたか、ファイル名が変更されたため開けません</translation>
+    </message>
+    <message>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation>&quot;%1&quot; フォルダは削除されたか、移動されたか、ファイル名が変更されたため開けません</translation>
     </message>
 </context>
@@ -3971,30 +4565,47 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxSerchCtrl</name>
     <message>
-        <source>Please input command name to search</source>
+        <source>Please enter name to search</source>
         <translation>検索</translation>
+    </message>
+    <message>
+        <source>Please input command name to search</source>
+        <translation type="obsolete">検索</translation>
     </message>
 </context>
 <context>
     <name>KxSetSpellcheckLanguageDlg</name>
     <message>
-        <source>Choose Spellcheck Installation Package</source>
+        <source>Choose installation package of Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ZIP File (*.zip)</source>
+        <source>Install the Spell Check package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install Spellcheck Package</source>
+        <source>Installation fails, make sure to install the complete package.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Installation fails, make sure to install the complete package!</source>
+        <source>The installation is failed, for the language of the package is being used.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Spellcheck language already exists.</source>
+        <source>The installed user package has been removed, 
+but the included system package is reserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall Spell Check Package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zip File (*.zip)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4013,33 +4624,49 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxStartup</name>
     <message>
         <source>Could not complete the process because a modal dialog is open! Click OK to close the dialog and try again.</source>
-        <translation>モーダル ​​ダイアログ ボックス! ファイルは処理できません!</translation>
+        <translation type="obsolete">モーダル ​​ダイアログ ボックス! ファイルは処理できません!</translation>
     </message>
     <message>
-        <source> is not a valid file!</source>
+        <source>Not a valid file.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
+        <translation>モーダル ​​ダイアログ ボックス! ファイルは処理できません!</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinModel</name>
     <message>
-        <source>ongmani</source>
-        <translation type="unfinished"></translation>
+        <source>2012 Style</source>
+        <translation type="unfinished">2012　インターフェース</translation>
     </message>
     <message>
-        <source>rainbow</source>
-        <translation type="unfinished"></translation>
+        <source>2013 Elegant Black</source>
+        <translation type="unfinished">2013 Ongmani インターフェース</translation>
+    </message>
+    <message>
+        <source>Classic Style</source>
+        <translation type="unfinished">クラシック</translation>
     </message>
     <message>
         <source>classics</source>
-        <translation type="unfinished">クラシック</translation>
+        <translation type="obsolete">クラシック</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinWidget</name>
     <message>
-        <source>Skin manager</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">閉じる</translation>
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
@@ -4047,37 +4674,35 @@ Double click any item can open the file, or you can use the popup menu. This wil
 途中で切り替えも可能です。次回起動時より有効になります。</translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation type="unfinished">OK(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">キャンセル(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <source>Skin Management</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxSwitchUiTip</name>
     <message>
-        <source>The change takes effect the next time the Kingsoft Office is started.</source>
+        <source>I already know</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I have understood</source>
-        <translation type="unfinished"></translation>
+        <source>The layout will take effect after restarting</source>
+        <translation type="obsolete">上記2種類のインターフェースより、好みの方を選択して下さい。
+途中で切り替えも可能です。次回起動時より有効になります。</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restarting WPS Office</source>
+        <translation type="unfinished">上記2種類のインターフェースより、好みの方を選択して下さい。
+途中で切り替えも可能です。次回起動時より有効になります。</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchView</name>
     <message>
-        <source>This locale can not use the skin!</source>
+        <source>Current locale cannot apply this skin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>restart will change</source>
+        <source>Restart to make changes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4085,10 +4710,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxSymbolGalleryModel</name>
     <message>
         <source>Custom Symbols</source>
+        <translation type="obsolete">カスタム記号</translation>
+    </message>
+    <message>
+        <source>Custom Symbols:</source>
         <translation>カスタム記号</translation>
     </message>
     <message>
         <source>Recently Used Symbols</source>
+        <translation type="obsolete">最近使った記号と特殊文字</translation>
+    </message>
+    <message>
+        <source>Recently Used Symbols:</source>
         <translation>最近使った記号と特殊文字</translation>
     </message>
 </context>
@@ -4099,43 +4732,55 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Missing Cups libraries. Cannot access the printer!</source>
+        <translation type="obsolete">liccups so が見つからないためプリンタに接続できません</translation>
+    </message>
+    <message>
+        <source>Missing Cups libraries. Cannot access the printer.</source>
+        <translation>liccups so が見つからないためプリンタに接続できません</translation>
+    </message>
+    <message>
         <source>Missing font: %1, can not show some symbols(formula) correctly!</source>
         <translation type="obsolete">%1 フォントが見つからないため、記号が正確に表示できません</translation>
     </message>
     <message>
+        <source>Missing font: %1. Cannot show some symbols or formula correctly!</source>
+        <translation type="obsolete">%1 フォントが見つからないため、記号が正確に表示できません</translation>
+    </message>
+    <message>
         <source>Missing libcups.so: can not access printer!</source>
-        <translation>liccups so が見つからないためプリンタに接続できません</translation>
+        <translation type="obsolete">liccups so が見つからないためプリンタに接続できません</translation>
     </message>
     <message>
         <source>Missing necessary symbol font, can not show some symbols(formula) correctly.</source>
         <translation type="obsolete">必要な記号フォントが失われると、記号が正しく表示できなくなります</translation>
     </message>
     <message>
-        <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
-        <translation>Kingsoft Office for Linuxの非対称解像度画面はテストされていません</translation>
+        <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some formula symbols might not be displayed correctly due to missing fonts: %1</source>
-        <translation type="unfinished"></translation>
+        <source>System DPI is asymmetric. WPS Office may have display issues.</source>
+        <translation>WPS Office for Linuxの非対称解像度画面はテストされていません</translation>
+    </message>
+    <message>
+        <source>WPS Office for Linux on asymmetry dpi screen not tested currently!</source>
+        <translation type="obsolete">WPS Office for Linuxの非対称解像度画面はテストされていません</translation>
+    </message>
+    <message>
+        <source>WPS for Linux on asymmetry dpi screen not tested currently!</source>
+        <translation type="obsolete">WPS Office for Linuxの非対称解像度画面はテストされていません</translation>
     </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
-        <source>Checking...</source>
-        <translation>確認中です</translation>
-    </message>
-    <message>
         <source>Checking completed!</source>
         <translation>完了しました</translation>
     </message>
     <message>
-        <source>System Checking</source>
-        <translation type="obsolete">システム問題レポート</translation>
-    </message>
-    <message>
-        <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
-        <translation type="obsolete">WPS for Linuxにていくつかの問題を検出ししたため、コンピューター上で正しく実行することができません</translation>
+        <source>Checking...</source>
+        <translation>確認中です</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -4146,20 +4791,40 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>アイコン</translation>
     </message>
     <message>
+        <source>Problems below are detected in the system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Resolution</source>
         <translation>固定</translation>
+    </message>
+    <message>
+        <source>Some issues are detected in your system, which may cause WPS Office for Linux run improperly on your computer.</source>
+        <translation type="obsolete">WPS for Linuxにていくつかの問題を検出ししたため、コンピューター上で正しく実行することができません</translation>
     </message>
     <message>
         <source>System Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The following issues were detected on this system:</source>
-        <translation type="unfinished"></translation>
+        <source>System Checking</source>
+        <translation type="obsolete">システム問題レポート</translation>
     </message>
 </context>
 <context>
     <name>KxTabbarMenuActCommand</name>
+    <message>
+        <source>Disable Title Switching in Task Window</source>
+        <translation type="unfinished">タイトルドラッグメニューを無効にする</translation>
+    </message>
+    <message>
+        <source>Disable select drag menu</source>
+        <translation type="obsolete">ドラッグメニューの選択を無効にする</translation>
+    </message>
+    <message>
+        <source>Disable title drag menu</source>
+        <translation type="obsolete">タイトルドラッグメニューを無効にする</translation>
+    </message>
     <message>
         <source>Dock left</source>
         <translation type="unfinished">左を減らす</translation>
@@ -4169,32 +4834,36 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="unfinished">右を減らす</translation>
     </message>
     <message>
+        <source>Enable Title Switching in Task Window</source>
+        <translation type="unfinished">タイトルドラッグメニューを有効にする</translation>
+    </message>
+    <message>
+        <source>Enable select drag menu</source>
+        <translation type="obsolete">ドラッグメニューの選択を有効にする</translation>
+    </message>
+    <message>
+        <source>Enable title drag menu</source>
+        <translation type="obsolete">タイトルドラッグメニューを有効にする</translation>
+    </message>
+    <message>
         <source>Hide</source>
         <translation type="unfinished">非表示</translation>
     </message>
     <message>
-        <source>Disable title drag menu</source>
-        <translation type="unfinished">タイトルドラッグメニューを無効にする</translation>
-    </message>
-    <message>
-        <source>Enable title drag menu</source>
-        <translation type="unfinished">タイトルドラッグメニューを有効にする</translation>
-    </message>
-    <message>
-        <source>hide button text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>show button text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable select drag menu</source>
+        <source>Hide Custom Button in Task Window</source>
         <translation type="unfinished">ドラッグメニューの選択を無効にする</translation>
     </message>
     <message>
-        <source>Enable select drag menu</source>
+        <source>Show Button Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Custom Button in Task Window</source>
         <translation type="unfinished">ドラッグメニューの選択を有効にする</translation>
+    </message>
+    <message>
+        <source>Show Icon Only</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4210,6 +4879,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
 </context>
 <context>
     <name>KxTaskTabbar</name>
+    <message>
+        <source>Pannel position</source>
+        <translation type="obsolete">パネルの位置</translation>
+    </message>
+    <message>
+        <source>Task pane location</source>
+        <translation type="obsolete">パネルの位置</translation>
+    </message>
+    <message>
+        <source>Task window location</source>
+        <translation>パネルの位置</translation>
+    </message>
     <message>
         <source>disable select drag menu</source>
         <translation type="obsolete">ドラッグメニューの選択を無効にする</translation>
@@ -4237,10 +4918,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>hide</source>
         <translation type="obsolete">非表示</translation>
-    </message>
-    <message>
-        <source>Pannel position</source>
-        <translation>パネルの位置</translation>
     </message>
 </context>
 <context>
@@ -4272,8 +4949,12 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTextBoxWidget</name>
     <message>
-        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
         <translation>テキストボックス内に削除されたオブジェクト、またはテーブルが含まれています。テキストボックスサイズの変更や回転といったプロパティの設定をする場合は、オブジェクトやテーブルを含むことができません。続行しますか？</translation>
+    </message>
+    <message>
+        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <translation type="obsolete">テキストボックス内に削除されたオブジェクト、またはテーブルが含まれています。テキストボックスサイズの変更や回転といったプロパティの設定をする場合は、オブジェクトやテーブルを含むことができません。続行しますか？</translation>
     </message>
 </context>
 <context>
@@ -4283,14 +4964,22 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>フオーム</translation>
     </message>
     <message>
-        <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
+        <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
         <translation>申し訳ごありませんが失敗しました。修正を試みましたが、画面に戻ります</translation>
+    </message>
+    <message>
+        <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
+        <translation type="obsolete">申し訳ごありませんが失敗しました。修正を試みましたが、画面に戻ります</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShape</name>
     <message>
         <source>Auto Shapes:</source>
+        <translation type="obsolete">コレクタ</translation>
+    </message>
+    <message>
+        <source>AutoShapes:</source>
         <translation>コレクタ</translation>
     </message>
     <message>
@@ -4317,6 +5006,10 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">参照</translation>
     </message>
     <message>
+        <source>Clear Backup Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete all</source>
         <translation type="obsolete">すべて削除</translation>
     </message>
@@ -4329,39 +5022,39 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation type="obsolete">重要なファイルを保存したら、これらのドキュメントを削除してもかまいません。</translation>
     </message>
     <message>
-        <source>Show backup file notice.</source>
-        <translation type="obsolete">バックアップファイルの表示</translation>
+        <source>Open Backup Folder</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View Other Backups</source>
-        <translation type="obsolete">表示</translation>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show backup file notice.</source>
+        <translation type="obsolete">バックアップファイルの表示</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
         <translation>強制終了されたファイルは、下記のファイルリストから回復できますす。</translation>
     </message>
     <message>
-        <source>Clear Backup Files</source>
-        <translation type="obsolete">削除</translation>
-    </message>
-    <message>
-        <source>Clear Backups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Backup Folder</source>
-        <translation type="unfinished"></translation>
+        <source>View Other Backups</source>
+        <translation type="obsolete">表示</translation>
     </message>
 </context>
 <context>
     <name>KxTpBackup</name>
+    <message>
+        <source>Are you sure to delete all files?</source>
+        <translation>すべてのファイルを削除しますか</translation>
+    </message>
     <message>
         <source>Browse...</source>
         <translation type="obsolete">参照</translation>
     </message>
     <message>
         <source>Cannot Remove All Backup Files</source>
-        <translation>すべてのバックアップファイルを削除できません</translation>
+        <translation type="obsolete">すべてのバックアップファイルを削除できません</translation>
     </message>
     <message>
         <source>Cannot Remove Backup File</source>
@@ -4381,7 +5074,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Remove All Warnings</source>
-        <translation>すべてのファイルを削除しますか</translation>
+        <translation type="obsolete">すべてのファイルを削除しますか</translation>
+    </message>
+    <message>
+        <source>Some files cannot be deleted. They may be occupied.</source>
+        <translation>すべてのバックアップファイルを削除できません</translation>
     </message>
 </context>
 <context>
@@ -4395,96 +5092,108 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>クリップアート</translation>
     </message>
     <message>
-        <source>Preview:</source>
+        <source>Preview</source>
         <translation>プレビュー:</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation type="obsolete">プレビュー:</translation>
     </message>
 </context>
 <context>
     <name>KxTpGoogleDocs</name>
     <message>
         <source>&lt;a href=&apos;lkCancelOpen&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkCancelOpen&apos;&gt;キャンセル&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&apos;lkCancelOpen&apos;&gt;キャンセル&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;lkCancelUpload&apos;&gt;Cancel&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkCancelUpload&apos;&gt;キャンセル&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&apos;lkCancelUpload&apos;&gt;キャンセル&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;lkSignIn&apos;&gt;Sign In&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkSignIn&apos;&gt;ログイン&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&apos;lkSignIn&apos;&gt;ログイン&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;lkSignOut&apos;&gt;Sign Out&lt;/a&gt;</source>
-        <translation>&lt;a href=&apos;lkSignOut&apos;&gt;ログアウト&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&apos;lkSignOut&apos;&gt;ログアウト&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Are you sure to logout from Google Docs?</source>
-        <translation>Google Docsをログアウトしてもよろしいですか</translation>
+        <translation type="obsolete">Google Docsをログアウトしてもよろしいですか</translation>
     </message>
     <message>
         <source>Cancel Opening</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Cancel Uploading</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation>ロード</translation>
+        <translation type="obsolete">ロード</translation>
     </message>
     <message>
         <source>Open from Google Docs</source>
-        <translation>Google Docsから開く</translation>
+        <translation type="obsolete">Google Docsから開く</translation>
     </message>
     <message>
         <source>Opening...</source>
-        <translation>開く...</translation>
+        <translation type="obsolete">開く...</translation>
     </message>
     <message>
         <source>Sign in Google Docs</source>
-        <translation>Google Docsからログイント</translation>
+        <translation type="obsolete">Google Docsからログイント</translation>
     </message>
     <message>
         <source>Sign out from Google Docs</source>
-        <translation>Google Docsからログアウト</translation>
+        <translation type="obsolete">Google Docsからログアウト</translation>
     </message>
     <message>
         <source>The file format is not supported to upload!</source>
-        <translation>ファイル形式に対応していないため、アップロードできません</translation>
+        <translation type="obsolete">ファイル形式に対応していないため、アップロードできません</translation>
     </message>
     <message>
         <source>This file can not be uploaded automatically
  because it is of Google Docs format.
  you can click Upload to upload it.</source>
-        <translation>Google Docs形式のファイルは自動的にアップロードされません。
+        <translation type="obsolete">Google Docs形式のファイルは自動的にアップロードされません。
 アップロードボタンをクリックしてアップロードして下さい。</translation>
     </message>
     <message>
         <source>Upload Google Docs format file may lose data, continue?</source>
-        <translation>Google Docs形式のファイルをアップロードするとデータが失われる可能性があります。続行しますか？</translation>
+        <translation type="obsolete">Google Docs形式のファイルをアップロードするとデータが失われる可能性があります。続行しますか？</translation>
     </message>
     <message>
         <source>Upload to Google Docs</source>
-        <translation>Google Docsにアップロード</translation>
+        <translation type="obsolete">Google Docsにアップロード</translation>
     </message>
     <message>
         <source>Uploading...</source>
-        <translation>アップロード...</translation>
+        <translation type="obsolete">アップロード...</translation>
     </message>
     <message>
         <source>filename.wps</source>
-        <translation>ファイル名.wps</translation>
+        <translation type="obsolete">ファイル名.wps</translation>
     </message>
 </context>
 <context>
     <name>KxTpNativeWrapperContainer</name>
     <message>
         <source>Customize Animation:</source>
+        <translation type="obsolete">ユーザー設定アニメーション</translation>
+    </message>
+    <message>
+        <source>Customize animation:</source>
         <translation>ユーザー設定アニメーション</translation>
     </message>
     <message>
         <source>Object Select</source>
+        <translation type="obsolete">オブジェクトと選択</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
         <translation>オブジェクトと選択</translation>
     </message>
 </context>
@@ -4495,11 +5204,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>デザインテンプレート</translation>
     </message>
     <message>
-        <source>Kingsoft Online Templates</source>
-        <translation>オンラインテンプレート</translation>
+        <source>Manage</source>
+        <translation type="obsolete">管理</translation>
     </message>
     <message>
-        <source>Manage</source>
+        <source>Management</source>
         <translation>管理</translation>
     </message>
     <message>
@@ -4511,16 +5220,28 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>新規空白</translation>
     </message>
     <message>
-        <source>New from Default Template</source>
-        <translation>既定のテンプレート</translation>
-    </message>
-    <message>
         <source>New From Other Templates...</source>
         <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <source>New from Default Template</source>
+        <translation>既定のテンプレート</translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation>オンラインテンプレート</translation>
+    </message>
+    <message>
+        <source>New from Other Templates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
         <translation>最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <translation type="obsolete">最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -4535,8 +5256,8 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>最近使用したドキュメント</translation>
     </message>
     <message>
-        <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <source>WPS Online Templates</source>
+        <translation type="obsolete">オンラインテンプレート</translation>
     </message>
 </context>
 <context>
@@ -4546,11 +5267,11 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>デザインテンプレート</translation>
     </message>
     <message>
-        <source>Kingsoft Online Templates</source>
-        <translation>オンラインテンプレート</translation>
+        <source>Manage</source>
+        <translation type="obsolete">管理</translation>
     </message>
     <message>
-        <source>Manage</source>
+        <source>Management</source>
         <translation>管理</translation>
     </message>
     <message>
@@ -4562,16 +5283,32 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>新規空白</translation>
     </message>
     <message>
-        <source>New from Default Template</source>
-        <translation>既定のテンプレート</translation>
-    </message>
-    <message>
         <source>New From Other Templates...</source>
         <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
-        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <source>New from Default Template</source>
+        <translation>既定のテンプレート</translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation>オンラインテンプレート</translation>
+    </message>
+    <message>
+        <source>New from Other Templates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
         <translation>最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog box,and remove some or all of the recent file records.</source>
+        <translation type="obsolete">最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
+    </message>
+    <message>
+        <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
+        <translation type="obsolete">最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -4586,8 +5323,8 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>最近使用したドキュメント</translation>
     </message>
     <message>
-        <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <source>WPS Online Templates</source>
+        <translation type="obsolete">オンラインテンプレート</translation>
     </message>
 </context>
 <context>
@@ -4624,7 +5361,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxTrialExpireDlg</name>
     <message>
-        <source>quit</source>
+        <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4647,7 +5384,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Continue trial</source>
-        <translation>試用を続ける</translation>
+        <translation type="obsolete">試用を続ける</translation>
     </message>
     <message>
         <source>Download</source>
@@ -4662,13 +5399,17 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <translation>購入</translation>
     </message>
     <message>
-        <source>Purchase now to get full version of Kingsoft Office Professional.</source>
-        <translation>Kingsoft Office Professonaを購入する</translation>
+        <source>Purchase now to get full version of WPS Office Professional.</source>
+        <translation>WPS Office Professonaを購入する</translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
         <translation>プロフェッショナルバージョンをお試しいただくと、今まで以上の機能を使用できます</translation>
+    </message>
+    <message>
+        <source>Continue Trial</source>
+        <translation type="unfinished">試用を続ける</translation>
     </message>
 </context>
 <context>
@@ -4758,6 +5499,10 @@ of services and features.</source>
         <translation>線の色</translation>
     </message>
     <message>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>pt, 2, 0, 1584, 0.25</source>
         <translation>pt, 2, 0, 1584, 0.25</translation>
     </message>
@@ -4768,10 +5513,6 @@ of services and features.</source>
     <message>
         <source>ucWeight</source>
         <translation>太さ</translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4790,6 +5531,10 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Left</source>
+        <translation type="obsolete">左(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Left:</source>
         <translation>左(&amp;L)</translation>
     </message>
     <message>
@@ -4884,12 +5629,20 @@ of services and features.</source>
         <translation>%, 0, 0, 10675, 1</translation>
     </message>
     <message>
+        <source>&amp;Best scale for slide show</source>
+        <translation>スライドショーに最適なサイズ</translation>
+    </message>
+    <message>
         <source>&amp;Height:</source>
         <translation>高さ(&amp;H):</translation>
     </message>
     <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation>元のサイズを基準にする</translation>
+    </message>
+    <message>
         <source>&amp;Rotation:</source>
-        <translation>回転(&amp;R):</translation>
+        <translation type="obsolete">回転(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -4917,7 +5670,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Best scale for slide show</source>
-        <translation>スライドショーに最適なサイズ</translation>
+        <translation type="obsolete">スライドショーに最適なサイズ</translation>
     </message>
     <message>
         <source>Form</source>
@@ -4940,8 +5693,12 @@ of services and features.</source>
         <translation>元のサイズ</translation>
     </message>
     <message>
+        <source>Re&amp;set</source>
+        <translation>リセット</translation>
+    </message>
+    <message>
         <source>Relative to original  picture size</source>
-        <translation>元のサイズを基準にする</translation>
+        <translation type="obsolete">元のサイズを基準にする</translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
@@ -4949,7 +5706,11 @@ of services and features.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation>リセット</translation>
+        <translation type="obsolete">リセット</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation>回転(&amp;R):</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -5007,6 +5768,10 @@ of services and features.</source>
         <translation>テンプレート(&amp;T)</translation>
     </message>
     <message>
+        <source>Cannot be previewed.</source>
+        <translation>選択したアイコンはプレビューできません</translation>
+    </message>
+    <message>
         <source>Create new</source>
         <translation>新規作成</translation>
     </message>
@@ -5037,7 +5802,7 @@ of services and features.</source>
     <message>
         <source>The icon you selected
 cannot be previewed.</source>
-        <translation>選択したアイコンはプレビューできません</translation>
+        <translation type="obsolete">選択したアイコンはプレビューできません</translation>
     </message>
     <message>
         <source>Up</source>
@@ -5060,23 +5825,31 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation>上(&amp;T):</translation>
+        <translation type="obsolete">上(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
         <translation>オブジェクト内でテキストを折り返す(&amp;W)</translation>
     </message>
     <message>
+        <source>Allow text to be wrapped by &amp;external object</source>
+        <translation>外部オブジェクトに合わせてテキストを折り返す(&amp;E)</translation>
+    </message>
+    <message>
         <source>Allow text to rotate with object</source>
+        <translation type="obsolete">テキストがオブジェクトと同時に回転する</translation>
+    </message>
+    <message>
+        <source>Allow text to rotate with object(&amp;F)</source>
         <translation>テキストがオブジェクトと同時に回転する</translation>
     </message>
     <message>
         <source>Allow text to scale to frame</source>
-        <translation>テキストを外枠の拡大/縮小に合わせる</translation>
+        <translation type="obsolete">テキストを外枠の拡大/縮小に合わせる</translation>
     </message>
     <message>
-        <source>Allow text to be wrapped by &amp;external object</source>
-        <translation>外部オブジェクトに合わせてテキストを折り返す(&amp;E)</translation>
+        <source>Allow text to scale to frame(&amp;Z)</source>
+        <translation>テキストを外枠の拡大/縮小に合わせる</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -5104,11 +5877,19 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Resize autoshape to &amp;fit text</source>
+        <translation type="obsolete">オートシェイプをテキストに合わせたサイズにする(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Resize autoshape to fit &amp;text</source>
         <translation>オートシェイプをテキストに合わせたサイズにする(&amp;F)</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within autoshape by 90°</source>
         <translation>オートシェープ内で90度回転する(&amp;E)</translation>
+    </message>
+    <message>
+        <source>T&amp;op:</source>
+        <translation>上(&amp;T):</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
@@ -5161,8 +5942,16 @@ cannot be previewed.</source>
         <translation>アクア</translation>
     </message>
     <message>
+        <source>Armenian</source>
+        <translation type="obsolete">アルメニア語</translation>
+    </message>
+    <message>
+        <source>Auto Backup</source>
+        <translation type="obsolete">自動バックアップ</translation>
+    </message>
+    <message>
         <source>AutoBackup</source>
-        <translation>自動バックアップ</translation>
+        <translation type="unfinished">自動バックアップ</translation>
     </message>
     <message>
         <source>Baby Blue</source>
@@ -5221,17 +6010,34 @@ cannot be previewed.</source>
         <translation>濃い黄</translation>
     </message>
     <message>
-        <source>Do not check it when starting Kingsoft Office next time</source>
+        <source>Do not check it when starting WPS Office next time</source>
+        <translation type="obsolete">次回から起動時に確認しません</translation>
+    </message>
+    <message>
+        <source>Do not check this when starting WPS Office next time</source>
         <translation>次回から起動時に確認しません</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
+        <translation type="obsolete">次回から表示しません</translation>
+    </message>
+    <message>
+        <source>Do not show this message again.</source>
         <translation>次回から表示しません</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
+        <translation type="obsolete">次回より表示しません</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again. 
+Always take this action.</source>
         <translation>次回より表示しません</translation>
+    </message>
+    <message>
+        <source>File &quot;%1&quot; already exists. Are you sure you want to overwrite the existing file?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gold</source>
@@ -5334,9 +6140,8 @@ Always take this action</source>
         <translation>緑</translation>
     </message>
     <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open doc, xls and ppt files)</source>
-        <translation type="obsolete">Kingsoft Officeを既定のオフィスソフトに設定しますか？（Word、Excel、PowerPointファイルがKingsoft Officeで開くようになります。）</translation>
+        <source>Invalid file name, please enter the correct file name</source>
+        <translation type="unfinished">ファイル名が正しくありません。再入力してください。</translation>
     </message>
     <message>
         <source>Laurel Green</source>
@@ -5375,16 +6180,24 @@ Always take this action</source>
         <translation>オレンジ</translation>
     </message>
     <message>
+        <source>Overwrite file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pink</source>
         <translation>ピンク</translation>
     </message>
     <message>
         <source>Pink Rose</source>
-        <translation>ローズ</translation>
+        <translation type="obsolete">ローズ</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation>プラム</translation>
     </message>
     <message>
         <source>Plum Purple</source>
-        <translation>プラム</translation>
+        <translation type="obsolete">プラム</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
@@ -5395,6 +6208,14 @@ Always take this action</source>
         <translation>赤</translation>
     </message>
     <message>
+        <source>Rose</source>
+        <translation>ローズ</translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sea Green</source>
         <translation>シーグリーン</translation>
     </message>
@@ -5403,16 +6224,43 @@ Always take this action</source>
         <translation>スカイブルー</translation>
     </message>
     <message>
+        <source>Tamil</source>
+        <translation type="obsolete">タミール語</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation type="obsolete">タイ語</translation>
+    </message>
+    <message>
+        <source>The chosen spelling language has been deleted. Please choose a language again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
+(The system uses WPS Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Thumb Blue</source>
         <translation>インディゴ</translation>
     </message>
     <message>
         <source>To find a file which is closed abnormally, please go to &quot;Backup Management&quot;.</source>
-        <translation type="obsolete">Kingsoft Officeを正常に終了できなかった場合、「ドキュメントの回復」から作成中だったファイルを開くことができます。</translation>
+        <translation type="obsolete">WPS Officeを正常に終了できなかった場合、「ドキュメントの回復」から作成中だったファイルを開くことができます。</translation>
     </message>
     <message>
         <source>Violet</source>
         <translation>紫</translation>
+    </message>
+    <message>
+        <source>WPS Office is not the default office software, do you want to set it as the default one?
+(The system uses WPS Office as the default one to open doc, xls and ppt files)</source>
+        <translation type="obsolete">WPS Officeを既定のオフィスソフトに設定しますか？（Word、Excel、PowerPointファイルがWPS Officeで開くようになります。）</translation>
+    </message>
+    <message>
+        <source>WPS Office is not the default office software. Do you want to set it as the default one?
+(The system uses WPS Office as the default one to open %1 files)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wathet Blue</source>
@@ -5430,45 +6278,11 @@ Always take this action</source>
         <source>custom %1</source>
         <translation>%1 のユーザー設定</translation>
     </message>
-    <message>
-        <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A file named &quot;%1&quot; already exists. Are you sure want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thai</source>
-        <translation type="obsolete">タイ語</translation>
-    </message>
-    <message>
-        <source>Armenian</source>
-        <translation type="obsolete">アルメニア語</translation>
-    </message>
-    <message>
-        <source>Tamil</source>
-        <translation type="obsolete">タミール語</translation>
-    </message>
-    <message>
-        <source>The selected dict has been deleted, please select another dict.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your system registry anomaly, will lead to some objects can&apos;t use, whether the repair?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
-(The system uses Kingsoft Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
-        <source>This locale can not use the skin!</source>
+        <source>Current locale cannot apply this skin.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5493,7 +6307,7 @@ Always take this action</source>
 <context>
     <name>SelPictureWidgetRainbow</name>
     <message>
-        <source>2012 Style: Click it to enjoy Kingsoft Office Professional.</source>
+        <source>2012 Style: Click it to enjoy WPS Office Professional.</source>
         <translation type="obsolete">2012 インターフェース：クリックすると2012 インターフェースに切り替えます。</translation>
     </message>
     <message>
@@ -5504,21 +6318,30 @@ Always take this action</source>
 <context>
     <name>TextDescribe</name>
     <message>
-        <source>Kingsoft Office Free only supports classic style interface.
-You can download Kingsoft Office Professional to enjoy the 2012 style interface.</source>
-        <translation>Kingsoft Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
+        <source>
+The settings will take effect after restarting WPS Office.</source>
+        <translation>WPS Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
     </message>
     <message>
-        <source>Kingsoft Office Professional supports switching between two interface styles.
+        <source>WPS Office Free only supports classic style interface.
+You can download WPS Office Professional to enjoy the 2012 style interface.</source>
+        <translation>WPS Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
+    </message>
+    <message>
+        <source>WPS Office Professional supports switching between two interface styles.
 The settings will take effect after restarting the application.</source>
-        <translation>Kingsoft Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
+        <translation type="obsolete">WPS Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
     </message>
 </context>
 <context>
     <name>ThemeSchemeWidget</name>
     <message>
-        <source>default</source>
+        <source>Default</source>
         <translation>既定</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation type="obsolete">既定</translation>
     </message>
 </context>
 <context>
@@ -5540,11 +6363,19 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>&amp;Tech Support...</source>
+        <translation type="obsolete">技術サポート(&amp;T)...</translation>
+    </message>
+    <message>
+        <source>&amp;Technical Support...</source>
         <translation>技術サポート(&amp;T)...</translation>
     </message>
     <message>
         <source>1988-2013 Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="obsolete">1988-2013  中国・北京金山軟件有限公司および珠海金山軟件有限公司</translation>
+    </message>
+    <message>
+        <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation>2014 Kingsoft Office Software Co., Ltd.</translation>
     </message>
     <message>
         <source>All rights reserved.</source>
@@ -5572,9 +6403,24 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>apidefaultDlg</name>
     <message>
-        <source>2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <source>!NO_TRANS!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished">テキストラベル</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">テキストラベル</translation>
     </message>
 </context>
 <context>
@@ -5597,6 +6443,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Select pictures</source>
+        <translation type="obsolete">選択された図(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Selected pictures</source>
         <translation>選択された図(&amp;S)</translation>
     </message>
     <message>
@@ -5623,6 +6473,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <source>Options</source>
         <translation>オプション</translation>
     </message>
+    <message>
+        <source>Selected pictures</source>
+        <translation type="obsolete">選択された図(&amp;S)</translation>
+    </message>
 </context>
 <context>
     <name>creditsDlg</name>
@@ -5645,6 +6499,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation>適用する</translation>
     </message>
     <message>
+        <source>Chinese Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>S&amp;elected Slide</source>
         <translation>選択したスライド(&amp;E)</translation>
     </message>
@@ -5653,28 +6511,24 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Simplified and Traditonal Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Traditional Chinese to &amp;Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translation Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>変換指示</translation>
     </message>
     <message>
         <source>Translation Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>変換単位</translation>
     </message>
     <message>
         <source>Translation by &amp;Character</source>
-        <translation type="unfinished"></translation>
+        <translation>文字列に変換</translation>
     </message>
     <message>
         <source>Translation by &amp;Word</source>
-        <translation type="unfinished"></translation>
+        <translation>単語に変換</translation>
     </message>
     <message>
         <source>W&amp;hole Document</source>
@@ -5700,12 +6554,17 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation>場所(&amp;E):</translation>
     </message>
     <message>
-        <source>E&amp;xisting File or Web Page</source>
+        <source>E&amp;xisting File
+or Web Page</source>
         <translation>元のファイルまたはウェブページ(&amp;X)</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
         <translation>Eメールアドレス(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Email Button</source>
+        <translation>Eメールボタン</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -5721,8 +6580,12 @@ Document</source>
         <translation>このドキュメント内(&amp;A)</translation>
     </message>
     <message>
-        <source>Re&amp;cently used e-mail addresses:</source>
+        <source>Re&amp;cently used E-mail addresses:</source>
         <translation>最近使用したEメールアドレス(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Re&amp;cently used e-mail addresses:</source>
+        <translation type="obsolete">最近使用したEメールアドレス(&amp;C):</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
@@ -5731,10 +6594,6 @@ Document</source>
     <message>
         <source>ScreenTi&amp;p...</source>
         <translation>画面表示(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>Email Button</source>
-        <translation>Eメールボタン</translation>
     </message>
 </context>
 <context>
@@ -5747,19 +6606,15 @@ Document</source>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
-        <source>Set Spellcheck Language</source>
+        <source>Available Languages:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Available Language:</source>
-        <translation type="unfinished"></translation>
+        <source>Close</source>
+        <translation type="unfinished">閉じる</translation>
     </message>
     <message>
-        <source>The speller automatically use dictonaries of the selected language,if available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set as default</source>
+        <source>Install</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5767,12 +6622,20 @@ Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install</source>
+        <source>Set Default</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <source>Set Spell Check Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check engine will use the chosen language for checking automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5790,11 +6653,23 @@ Document</source>
         <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
-        <source>Change &amp;Icon...</source>
+        <source>Change &amp;Icon</source>
         <translation>アイコンの変更(&amp;I)...</translation>
     </message>
     <message>
+        <source>Change &amp;Icon...</source>
+        <translation type="obsolete">アイコンの変更(&amp;I)...</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>テキストラベル</translation>
+    </message>
+    <message>
         <source>Paste &amp;Link</source>
+        <translation type="obsolete">貼り付けとリンク(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Paste &amp;link</source>
         <translation>貼り付けとリンク(&amp;L)</translation>
     </message>
     <message>
@@ -5811,7 +6686,7 @@ Document</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>テキストラベル</translation>
+        <translation type="obsolete">テキストラベル</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -5820,6 +6695,10 @@ Document</source>
 </context>
 <context>
     <name>tpropertydlg</name>
+    <message>
+        <source>&amp;Add</source>
+        <translation>追加</translation>
+    </message>
     <message>
         <source>&amp;Author:</source>
         <translation>作成者(&amp;A):</translation>
@@ -5833,6 +6712,10 @@ Document</source>
         <translation>削除(&amp;D)</translation>
     </message>
     <message>
+        <source>&amp;Keyword:</source>
+        <translation>キーワード(&amp;K):</translation>
+    </message>
+    <message>
         <source>&amp;Manager:</source>
         <translation>管理者(&amp;M):</translation>
     </message>
@@ -5842,6 +6725,10 @@ Document</source>
     </message>
     <message>
         <source>&amp;Read only</source>
+        <translation type="obsolete">読み取り専用(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Read-only</source>
         <translation>読み取り専用(&amp;R)</translation>
     </message>
     <message>
@@ -5869,12 +6756,8 @@ Document</source>
         <translation>はい(&amp;Y)</translation>
     </message>
     <message>
-        <source>&amp;Keyword:</source>
-        <translation>キーワード(&amp;K):</translation>
-    </message>
-    <message>
         <source>ADD</source>
-        <translation>追加</translation>
+        <translation type="obsolete">追加</translation>
     </message>
     <message>
         <source>Accessed:</source>
@@ -5893,12 +6776,24 @@ Document</source>
         <translation>会社名(&amp;O):</translation>
     </message>
     <message>
+        <source>Cat&amp;egory:</source>
+        <translation>種類(&amp;E):</translation>
+    </message>
+    <message>
         <source>Checked by</source>
+        <translation type="obsolete">確認者</translation>
+    </message>
+    <message>
+        <source>Checker</source>
         <translation>確認者</translation>
     </message>
     <message>
         <source>Client</source>
         <translation>クライアント</translation>
+    </message>
+    <message>
+        <source>Completion date</source>
+        <translation>完了日</translation>
     </message>
     <message>
         <source>Created:</source>
@@ -5914,7 +6809,7 @@ Document</source>
     </message>
     <message>
         <source>Date completed</source>
-        <translation>完了日</translation>
+        <translation type="obsolete">完了日</translation>
     </message>
     <message>
         <source>Department</source>
@@ -5931,10 +6826,6 @@ Document</source>
     <message>
         <source>Forward to</source>
         <translation>宛先</translation>
-    </message>
-    <message>
-        <source>Cat&amp;egory:</source>
-        <translation>種類(&amp;E):</translation>
     </message>
     <message>
         <source>General</source>
@@ -6048,15 +6939,15 @@ Document</source>
 <context>
     <name>updateMessageDlg</name>
     <message>
+        <source>A new version is detected. Do you want to download the updated one?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New version is prepared. Would you like to get it now?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore this version.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

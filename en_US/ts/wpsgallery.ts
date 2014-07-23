@@ -24,10 +24,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>EditGallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -56,7 +52,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Most Number Of Caption Is 5.</source>
+        <source>Edit Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The most number of caption is 5.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -74,15 +74,15 @@
 <context>
     <name>QApplication</name>
     <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
+        <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <source>\WPS Office\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

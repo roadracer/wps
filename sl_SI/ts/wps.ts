@@ -105,19 +105,19 @@
     </message>
     <message>
         <source>Black </source>
-        <translation>Črna</translation>
+        <translation type="obsolete">Črna</translation>
     </message>
     <message>
         <source>Deep cyan</source>
-        <translation>Globoki cijan</translation>
+        <translation type="obsolete">Globoki cijan</translation>
     </message>
     <message>
         <source>Deep blue</source>
-        <translation>Globoka modrina</translation>
+        <translation type="obsolete">Globoka modrina</translation>
     </message>
     <message>
         <source>Indigo blue</source>
-        <translation>Indigo modra</translation>
+        <translation type="obsolete">Indigo modra</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -125,15 +125,15 @@
     </message>
     <message>
         <source>Light blue</source>
-        <translation>Svetlo modra</translation>
+        <translation type="obsolete">Svetlo modra</translation>
     </message>
     <message>
         <source>Shadow blue</source>
-        <translation>Senčno modra</translation>
+        <translation type="obsolete">Senčno modra</translation>
     </message>
     <message>
         <source>Lilac</source>
-        <translation>Lila</translation>
+        <translation type="obsolete">Lila</translation>
     </message>
     <message>
         <source>Cyan</source>
@@ -144,24 +144,16 @@
         <translation>Akvamarin</translation>
     </message>
     <message>
-        <source>Lazulite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Light turquoise</source>
-        <translation>Svetlo turkizna</translation>
+        <translation type="obsolete">Svetlo turkizna</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation>Magenta</translation>
+        <translation type="obsolete">Magenta</translation>
     </message>
     <message>
         <source>Pink</source>
         <translation>Roza</translation>
-    </message>
-    <message>
-        <source>Glauconite</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Turquoise</source>
@@ -169,15 +161,15 @@
     </message>
     <message>
         <source>Light green</source>
-        <translation>Svetlo zelena</translation>
+        <translation type="obsolete">Svetlo zelena</translation>
     </message>
     <message>
         <source>Light yellow</source>
-        <translation>Svetlo rumena</translation>
+        <translation type="obsolete">Svetlo rumena</translation>
     </message>
     <message>
         <source>Tea brown</source>
-        <translation>Čajno rjava</translation>
+        <translation type="obsolete">Čajno rjava</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -185,11 +177,11 @@
     </message>
     <message>
         <source>Deep green</source>
-        <translation>Temno zelena</translation>
+        <translation type="obsolete">Temno zelena</translation>
     </message>
     <message>
         <source>Emerald</source>
-        <translation>Smaragdna</translation>
+        <translation type="obsolete">Smaragdna</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -197,11 +189,11 @@
     </message>
     <message>
         <source>Golden</source>
-        <translation>Zlata</translation>
+        <translation type="obsolete">Zlata</translation>
     </message>
     <message>
         <source>Light orange</source>
-        <translation>Svetlo oranžna</translation>
+        <translation type="obsolete">Svetlo oranžna</translation>
     </message>
     <message>
         <source>Red</source>
@@ -209,7 +201,7 @@
     </message>
     <message>
         <source>Plum red</source>
-        <translation>Slivovo rdeča</translation>
+        <translation type="obsolete">Slivovo rdeča</translation>
     </message>
     <message>
         <source>Green</source>
@@ -221,11 +213,11 @@
     </message>
     <message>
         <source>Deep Yellow</source>
-        <translation>Temno rumena</translation>
+        <translation type="obsolete">Temno rumena</translation>
     </message>
     <message>
         <source>Olive green</source>
-        <translation>Olivno zelena</translation>
+        <translation type="obsolete">Olivno zelena</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -237,14 +229,102 @@
     </message>
     <message>
         <source>Deep red</source>
-        <translation>Temno rdeča</translation>
+        <translation type="obsolete">Temno rdeča</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Cyan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChangeCaseDlg</name>
     <message>
         <source>Convert Case</source>
-        <translation>Pretvori velike v male črke</translation>
+        <translation type="obsolete">Pretvori velike v male črke</translation>
     </message>
     <message>
         <source>&amp;Sentence case</source>
@@ -281,6 +361,10 @@
     <message>
         <source>&amp;Title case</source>
         <translation>&amp;Velike Začetnice Besed</translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -321,11 +405,11 @@
     <name>DlgColumnsManager</name>
     <message>
         <source>ColumnsManager</source>
-        <translation>Upravitelj stolpcev</translation>
+        <translation type="obsolete">Upravitelj stolpcev</translation>
     </message>
     <message>
         <source>Col#:</source>
-        <translation>Št. stolp.:</translation>
+        <translation type="obsolete">Št. stolp.:</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
@@ -338,6 +422,14 @@
     <message>
         <source>1:</source>
         <translation>1:</translation>
+    </message>
+    <message>
+        <source>Columns Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Col #:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -464,7 +556,7 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Oblivanje z besedilom</translation>
+        <translation type="obsolete">Oblivanje z besedilom</translation>
     </message>
     <message>
         <source>Wrapping style</source>
@@ -492,7 +584,7 @@
     </message>
     <message>
         <source>In &amp;front of text</source>
-        <translation>Pred &amp;besedilom</translation>
+        <translation type="obsolete">Pred &amp;besedilom</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
@@ -541,6 +633,14 @@
     <message>
         <source>Ri&amp;ght</source>
         <translation>&amp;Desno</translation>
+    </message>
+    <message>
+        <source>Text wrapping</source>
+        <translation type="unfinished">Oblivanje z besedilom</translation>
+    </message>
+    <message>
+        <source>In fro&amp;nt of text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -873,7 +973,11 @@
     </message>
     <message>
         <source>Headings</source>
-        <translation>Naslovi</translation>
+        <translation type="obsolete">Naslovi</translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <translation type="unfinished">Naslov</translation>
     </message>
 </context>
 <context>
@@ -888,11 +992,7 @@
     </message>
     <message>
         <source>Error occurs when adding new words.</source>
-        <translation>Med dodajanjem novih besed preide do napake.</translation>
-    </message>
-    <message>
-        <source>Always suggest corrections(&amp;L)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Med dodajanjem novih besed preide do napake.</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -907,12 +1007,24 @@
         <translation>Preverjanje črkovanja je dokončano.</translation>
     </message>
     <message>
-        <source>Spelling check of selected text is complete. Continue to check the rest part of the document?</source>
+        <source>Cannot Check Spelling On Original Revision Status</source>
+        <translation type="obsolete">Preverjanje črkovanja na izvirni reviziji ni mogoče</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding new words.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot Check Spelling On Original Revision Status</source>
-        <translation>Preverjanje črkovanja na izvirni reviziji ni mogoče</translation>
+        <source>A&amp;lways suggest corrections</source>
+        <translation type="unfinished">&amp;Vedno predlagaj popravke</translation>
+    </message>
+    <message>
+        <source>Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot check spelling on original revision status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -961,18 +1073,22 @@
     <name>KxCombineCharactersDlg</name>
     <message>
         <source>Value should be between 1 and 16383.</source>
-        <translation>Vrednost bi morala biti med 1 in 16383.</translation>
+        <translation type="obsolete">Vrednost bi morala biti med 1 in 16383.</translation>
     </message>
     <message>
         <source>What you entered is invalid.</source>
         <translation>Vaš vnos ni veljaven.</translation>
+    </message>
+    <message>
+        <source>Value must be between 1 and 16838.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Do you want to replace the title?</source>
-        <translation>Ali želite zamenjati naslov?</translation>
+        <translation type="obsolete">Ali želite zamenjati naslov?</translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
@@ -980,18 +1096,30 @@
     </message>
     <message>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="obsolete">Naslov</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected table of contents?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <translation type="unfinished">Naslov</translation>
     </message>
 </context>
 <context>
     <name>KxContentsOptionsDlg</name>
     <message>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="obsolete">Naslov</translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
         <translation>Vhod mora biti med %1 in %2.</translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <translation type="unfinished">Naslov</translation>
     </message>
 </context>
 <context>
@@ -1005,7 +1133,7 @@
     <name>KxCoverSectionGalleryCommand</name>
     <message>
         <source>Delete Cover Page</source>
-        <translation>Izbriši naslovnico</translation>
+        <translation type="obsolete">Izbriši naslovnico</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -1013,7 +1141,15 @@
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
-        <translation>Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
+        <translation type="obsolete">Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
+    </message>
+    <message>
+        <source>Remove Cover Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="unfinished">Izbrane nastavitve za levi in desni rob, za razmik med stolpci ali za zamike odstavkov so v nekaterih odsekih prevelike za širino strani.</translation>
     </message>
 </context>
 <context>
@@ -1032,11 +1168,11 @@
     </message>
     <message>
         <source>Paragraph number (No context)</source>
-        <translation>Številka odstavka (brez konteksta)</translation>
+        <translation type="obsolete">Številka odstavka (brez konteksta)</translation>
     </message>
     <message>
         <source>Paragraph number (Full context)</source>
-        <translation>Številka odstavka (polni kontekst)</translation>
+        <translation type="obsolete">Številka odstavka (polni kontekst)</translation>
     </message>
     <message>
         <source>Paragraph text</source>
@@ -1044,7 +1180,7 @@
     </message>
     <message>
         <source>See above/below</source>
-        <translation>Poglej nad/pod</translation>
+        <translation type="obsolete">Poglej nad/pod</translation>
     </message>
     <message>
         <source>Head text</source>
@@ -1052,14 +1188,6 @@
     </message>
     <message>
         <source>Head number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Head number (No context)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Head number (Full context)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1072,7 +1200,7 @@
     </message>
     <message>
         <source>Footnote number (With format)</source>
-        <translation>Števlka sprotne opombe (s formatom)</translation>
+        <translation type="obsolete">Števlka sprotne opombe (s formatom)</translation>
     </message>
     <message>
         <source>Endnote number</source>
@@ -1080,7 +1208,7 @@
     </message>
     <message>
         <source>Endnote number(With format)</source>
-        <translation>Številka končne opombe(s formatom)</translation>
+        <translation type="obsolete">Številka končne opombe(s formatom)</translation>
     </message>
     <message>
         <source>Entire caption</source>
@@ -1096,27 +1224,7 @@
     </message>
     <message>
         <source>For which number item:</source>
-        <translation>Za kateri oštevilčeni element:</translation>
-    </message>
-    <message>
-        <source>References which title(&amp;W):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>References which bookmark(&amp;W):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>References which footnote(&amp;W):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>References which endnote(&amp;W):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>References which caption(&amp;W):</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Za kateri oštevilčeni element:</translation>
     </message>
     <message>
         <source>Numbered Item</source>
@@ -1128,11 +1236,71 @@
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Zaznamki</translation>
+        <translation type="obsolete">Zaznamki</translation>
+    </message>
+    <message>
+        <source>Paragraph number (no context)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph number (full context)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Above/below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Head number (no context)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Head number (full context)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnote number (formatted)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Endnote number (formatted)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which numbered item:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which heading:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which bookmark:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which footnote:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which endnote:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which caption:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished">Zaznamek</translation>
     </message>
 </context>
 <context>
@@ -1147,7 +1315,7 @@
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>Scheme&amp;1</source>
@@ -1193,6 +1361,10 @@
         <source>Set the background color to white and the text color to black as default.</source>
         <translation>Nastavi barvo ozadja na belo in barvo besedila kot privzeto.</translation>
     </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxCustomDictionaryDlg</name>
@@ -1206,23 +1378,63 @@
     </message>
     <message>
         <source>New dictionary file</source>
-        <translation>Nova datoteka slovarja</translation>
+        <translation type="obsolete">Nova datoteka slovarja</translation>
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
-        <translation>datoteka slovarja(*.dic)|*.dic</translation>
+        <translation type="obsolete">datoteka slovarja(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Add dictionary file</source>
-        <translation>Dodaj datoteko slovarja</translation>
+        <translation type="obsolete">Dodaj datoteko slovarja</translation>
     </message>
     <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
-        <translation>Vse datoteke(*.*)|*.*|datoteka slovarja(*.dic)|*.dic</translation>
+        <translation type="obsolete">Vse datoteke(*.*)|*.*|datoteka slovarja(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Remove this custom dictionary might affect other programs of Kingsoft office, continue or not?</source>
-        <translation type="unfinished">Odstrani osebni slovar, ki lahko vprilva na druge Kingsoft office programe, nadaljujte ali ne?</translation>
+        <translation type="obsolete">Odstrani osebni slovar, ki lahko vprilva na druge Kingsoft office programe, nadaljujte ali ne?</translation>
+    </message>
+    <message>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary might remove the custom dictionary used by other WPS programs. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1258,11 +1470,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter user names,separated by semicolons:</source>
+        <source>Example:user1;DOMAIN\name;someone@example.com</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Example:user1;DOMAIN\name;someone@example.com</source>
+        <source>Enter user names, separated by semicolons:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1270,7 +1482,7 @@
     <name>KxDlgBookmarks</name>
     <message>
         <source>Bookmarks</source>
-        <translation>Zaznamki</translation>
+        <translation type="obsolete">Zaznamki</translation>
     </message>
     <message>
         <source>&amp;Bookmark name:</source>
@@ -1307,6 +1519,10 @@
     <message>
         <source>Cancel</source>
         <translation>Prekliči</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished">Zaznamek</translation>
     </message>
 </context>
 <context>
@@ -1623,11 +1839,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Behind inserting Point</source>
-        <translation type="unfinished">Za vstavljeno točko</translation>
+        <translation type="obsolete">Za vstavljeno točko</translation>
     </message>
     <message>
         <source>Selected text</source>
         <translation>Označeno besedilo</translation>
+    </message>
+    <message>
+        <source>This point forward</source>
+        <translation type="unfinished">Od te točke naprej</translation>
     </message>
 </context>
 <context>
@@ -1662,14 +1882,18 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>N&amp;umber...</source>
-        <translation>O&amp;številčevanje...</translation>
+        <translation type="obsolete">O&amp;številčevanje...</translation>
+    </message>
+    <message>
+        <source>N&amp;umbering...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgCaptionNumber</name>
     <message>
         <source>Caption Number</source>
-        <translation>Številka napisa</translation>
+        <translation type="obsolete">Številka napisa</translation>
     </message>
     <message>
         <source>&amp;Format:</source>
@@ -1677,11 +1901,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Include &amp;chapter number</source>
-        <translation>V&amp;ključi številko poglavja</translation>
+        <translation type="obsolete">V&amp;ključi številko poglavja</translation>
     </message>
     <message>
         <source>Cha&amp;pter style level:</source>
-        <translation>Poglavj&amp;e se začne s slogom:</translation>
+        <translation type="obsolete">Poglavj&amp;e se začne s slogom:</translation>
     </message>
     <message>
         <source>Us&amp;e separator:</source>
@@ -1689,11 +1913,31 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Example:</source>
-        <translation>Primer:</translation>
+        <translation type="obsolete">Primer:</translation>
     </message>
     <message>
         <source>Chart II-1, Table 1-A</source>
-        <translation>Slika II-1, Tabela 1-A</translation>
+        <translation type="obsolete">Slika II-1, Tabela 1-A</translation>
+    </message>
+    <message>
+        <source>Caption Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Include &amp;chapter number;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cha&amp;pter starts with style:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Examples:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Figure II-1, Table 1-A</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1735,7 +1979,7 @@ use buttons to apply borders</source>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>Spelling</source>
-        <translation>Črkovanje</translation>
+        <translation type="obsolete">Črkovanje</translation>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
@@ -1790,7 +2034,11 @@ use buttons to apply borders</source>
         <translation>&amp;Razveljavi</translation>
     </message>
     <message>
-        <source>&amp;Set Spellcheck Language</source>
+        <source>Spell Check</source>
+        <translation type="unfinished">Preverjanje črkovanja</translation>
+    </message>
+    <message>
+        <source>&amp;Set Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1798,7 +2046,7 @@ use buttons to apply borders</source>
     <name>KxDlgCheckboxFormField</name>
     <message>
         <source>Checkbox Form Field Options</source>
-        <translation>Možnosti potrditvenega polja obrazca</translation>
+        <translation type="obsolete">Možnosti potrditvenega polja obrazca</translation>
     </message>
     <message>
         <source>Check box size</source>
@@ -1846,7 +2094,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation>&amp;Zaznamki</translation>
+        <translation type="obsolete">&amp;Zaznamki</translation>
     </message>
     <message>
         <source>Check box e&amp;nabled</source>
@@ -1859,6 +2107,14 @@ use buttons to apply borders</source>
     <message>
         <source>Add Help &amp;Text...</source>
         <translation>Dodaj &amp;napotek ...</translation>
+    </message>
+    <message>
+        <source>Check Box Form Field Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bookmark:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1968,7 +2224,7 @@ use buttons to apply borders</source>
     <name>KxDlgContents</name>
     <message>
         <source>Contents</source>
-        <translation>Vsebine</translation>
+        <translation type="obsolete">Vsebine</translation>
     </message>
     <message>
         <source>Table of &amp;Contents</source>
@@ -2006,6 +2262,10 @@ use buttons to apply borders</source>
         <source>Print Preview</source>
         <translation>Predogled tiskanja</translation>
     </message>
+    <message>
+        <source>Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgContentsOptions</name>
@@ -2027,7 +2287,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>ToC &amp;level:</source>
-        <translation>&amp;Raven v kazalu vsebine:</translation>
+        <translation type="obsolete">&amp;Raven v kazalu vsebine:</translation>
     </message>
     <message>
         <source>&amp;Outline levels</source>
@@ -2040,6 +2300,10 @@ use buttons to apply borders</source>
     <message>
         <source>&amp;Reset</source>
         <translation>P&amp;onastavi</translation>
+    </message>
+    <message>
+        <source>TOC &amp;level:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2065,7 +2329,7 @@ use buttons to apply borders</source>
     <name>KxDlgConvertTabletoText</name>
     <message>
         <source>Convert Table to Text </source>
-        <translation>Pretvori tabelo v besedilo</translation>
+        <translation type="obsolete">Pretvori tabelo v besedilo</translation>
     </message>
     <message>
         <source>Separate text with</source>
@@ -2073,7 +2337,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Paragraph marks</source>
-        <translation>&amp;Oznakami odstavkov</translation>
+        <translation type="obsolete">&amp;Oznakami odstavkov</translation>
     </message>
     <message>
         <source>&amp;Tabs</source>
@@ -2094,6 +2358,14 @@ use buttons to apply borders</source>
     <message>
         <source>&amp;Convert nested tables</source>
         <translation>&amp;Pretvori ugnezdene tabele</translation>
+    </message>
+    <message>
+        <source>Convert Table to Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Paragraphs</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2164,7 +2436,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Paragraph marks</source>
-        <translation>&amp;Oznakami odstavkov</translation>
+        <translation type="obsolete">&amp;Oznakami odstavkov</translation>
     </message>
     <message>
         <source>rd2</source>
@@ -2193,6 +2465,10 @@ use buttons to apply borders</source>
     <message>
         <source>cancel</source>
         <translation>prekliči</translation>
+    </message>
+    <message>
+        <source>&amp;Paragraphs</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2239,7 +2515,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Reference content:</source>
-        <translation>Vstavi &amp;sklicevanje na:</translation>
+        <translation type="obsolete">Vstavi &amp;sklicevanje na:</translation>
     </message>
     <message>
         <source>cbxRefContent</source>
@@ -2261,6 +2537,10 @@ use buttons to apply borders</source>
         <source>lwRefItem</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Insert &amp;reference to:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgCustomDictionary</name>
@@ -2277,10 +2557,6 @@ use buttons to apply borders</source>
         <translation>&amp;Spremeni ...</translation>
     </message>
     <message>
-        <source>Set &amp;default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;New...</source>
         <translation>N&amp;ovo ...</translation>
     </message>
@@ -2294,11 +2570,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>path</source>
-        <translation>pot</translation>
+        <translation type="obsolete">pot</translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Zapri</translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2380,7 +2664,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Number style</source>
-        <translation>Slog števil&amp;ke</translation>
+        <translation type="obsolete">Slog števil&amp;ke</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
@@ -2423,10 +2707,6 @@ use buttons to apply borders</source>
         <translation>Položaj besedila</translation>
     </message>
     <message>
-        <source>Ta&amp;b space after:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>cm</source>
         <translation>cm</translation>
     </message>
@@ -2438,12 +2718,20 @@ use buttons to apply borders</source>
         <source>&amp;Indent at:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Number style:</source>
+        <translation type="unfinished">Slog števil&amp;ke:</translation>
+    </message>
+    <message>
+        <source>Ta&amp;b space after</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgDeleteCells</name>
     <message>
         <source>Cells</source>
-        <translation>Celice</translation>
+        <translation type="obsolete">Celice</translation>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
@@ -2460,6 +2748,10 @@ use buttons to apply borders</source>
     <message>
         <source>Delete entire &amp;column</source>
         <translation>Izbriši cel &amp;stolpec</translation>
+    </message>
+    <message>
+        <source>Delete Cells</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2498,7 +2790,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Snap to</source>
-        <translation>Pripenjanje predmetov</translation>
+        <translation type="obsolete">Pripenjanje predmetov</translation>
     </message>
     <message>
         <source>&amp;Snap objects to grid</source>
@@ -2536,6 +2828,10 @@ use buttons to apply borders</source>
         <source>&amp;Horizontal every:</source>
         <translation>V&amp;odoravno vsako:</translation>
     </message>
+    <message>
+        <source>Object snapping</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgDropCap</name>
@@ -2557,7 +2853,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Margin</source>
-        <translation>&amp;Rob</translation>
+        <translation type="obsolete">&amp;Rob</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2572,7 +2868,11 @@ use buttons to apply borders</source>
         <translation>Višina v vrstica&amp;h:</translation>
     </message>
     <message>
-        <source>To te&amp;xt:</source>
+        <source>In &amp;margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distance from te&amp;xt:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2580,11 +2880,7 @@ use buttons to apply borders</source>
     <name>KxDlgDropDownFormField</name>
     <message>
         <source>Drop-down Form Field Options</source>
-        <translation>Možnosti za spustna polja obrazca</translation>
-    </message>
-    <message>
-        <source>Item in Drop-down list</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Možnosti za spustna polja obrazca</translation>
     </message>
     <message>
         <source>bnUp</source>
@@ -2658,6 +2954,14 @@ use buttons to apply borders</source>
         <source>Add Help &amp;Text...</source>
         <translation>Dodaj &amp;napotek ...</translation>
     </message>
+    <message>
+        <source>Drop-Down Form Field Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Items in Drop-down list</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEditDictionary</name>
@@ -2684,6 +2988,26 @@ use buttons to apply borders</source>
     <message>
         <source>Close</source>
         <translation>Zapri</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEmbedPrivateFonts</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document has applied online font. If your document needs to be circulated, we recommend that you save the font in document. 
+If unnecessary, please click Cancel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2881,7 +3205,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paste &amp;bookmarks:</source>
-        <translation>Prilepi zaznamek:</translation>
+        <translation type="obsolete">Prilepi zaznamek:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -2896,27 +3220,40 @@ use buttons to apply borders</source>
         <translation>Predogled:</translation>
     </message>
     <message>
-        <source>&amp;Examples:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Style name:</source>
         <translation>&amp;Ime sloga:</translation>
     </message>
     <message>
         <source>Insert para&amp;graph number</source>
-        <translation>&amp;Vstavi številko odstavka</translation>
+        <translation type="obsolete">&amp;Vstavi številko odstavka</translation>
     </message>
     <message>
-        <source>Suppress all non_&amp;delimiter chars</source>
+        <source>Paste &amp;bookmark:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click below button for advanced setting</source>
+        <source>Click the button below to set advanced field options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Contents...</source>
+        <source>Table of Contents...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Examples:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert para&amp;graph number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support all non_&amp;delimiter chars:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2924,7 +3261,7 @@ use buttons to apply borders</source>
     <name>KxDlgFindReplace</name>
     <message>
         <source>Find and Replace</source>
-        <translation type="obsolete">Najdi in zamenjaj</translation>
+        <translation type="unfinished">Najdi in zamenjaj</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
@@ -2932,7 +3269,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Match Byte</source>
-        <translation>Ujemanje bajtov</translation>
+        <translation type="obsolete">Ujemanje bajtov</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
@@ -2964,19 +3301,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Matc&amp;h case</source>
-        <translation type="obsolete">Razlikovanje veliki&amp;h in malih črk</translation>
+        <translation type="unfinished">Razlikovanje veliki&amp;h in malih črk</translation>
     </message>
     <message>
         <source>Find whole words onl&amp;y</source>
-        <translation type="obsolete">Išči samo &amp;cele besede</translation>
+        <translation type="unfinished">Išči samo &amp;cele besede</translation>
     </message>
     <message>
         <source>&amp;Use wildcards</source>
-        <translation type="obsolete">&amp;Uporabi nadomestne znake</translation>
+        <translation type="unfinished">&amp;Uporabi nadomestne znake</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Janpannese)</source>
-        <translation>&amp;Zveni kot (japonščina)</translation>
+        <translation type="obsolete">&amp;Zveni kot (japonščina)</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -2988,7 +3325,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Sp&amp;ecial Characters</source>
-        <translation>Pose&amp;bno</translation>
+        <translation type="obsolete">Pose&amp;bno</translation>
     </message>
     <message>
         <source>Re&amp;place</source>
@@ -2996,7 +3333,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Replace w&amp;ith:</source>
-        <translation type="obsolete">Zam&amp;enjaj z:</translation>
+        <translation type="unfinished">Zam&amp;enjaj z:</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -3036,15 +3373,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Enter + and - to move relative to the current location. Example:+4 will move forward four items</source>
-        <translation>Vnesite + ali -, da se premaknete glede na trenutno mesto. Primer: +4 pomeni premik naprej za štiri elemente</translation>
+        <translation type="obsolete">Vnesite + ali -, da se premaknete glede na trenutno mesto. Primer: +4 pomeni premik naprej za štiri elemente</translation>
     </message>
     <message>
         <source>&amp;Enter section number:</source>
-        <translation type="obsolete">Š&amp;tevilka odseka:</translation>
+        <translation type="unfinished">Š&amp;tevilka odseka:</translation>
     </message>
     <message>
         <source>&amp;Enter Bookmark Name:</source>
-        <translation>&amp;Ime zaznamka:</translation>
+        <translation type="obsolete">&amp;Ime zaznamka:</translation>
     </message>
     <message>
         <source>Previou&amp;s</source>
@@ -3055,15 +3392,7 @@ use buttons to apply borders</source>
         <translation>Na&amp;slednje</translation>
     </message>
     <message>
-        <source>KxDlgFindReplace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format options:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3071,55 +3400,15 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;More Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>F&amp;ormat</source>
         <translation type="unfinished">Oblik&amp;a</translation>
-    </message>
-    <message>
-        <source>Match half/full For&amp;ms</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ma&amp;tch Suffix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore Sp&amp;ace</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sear&amp;ch:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Matc&amp;h Case</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Match Prefi&amp;x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find Whole Words Onl&amp;y</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Use Wildcards</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore Punct(&amp;S)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>find options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace W&amp;ith:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3131,19 +3420,144 @@ use buttons to apply borders</source>
         <translation type="unfinished">Zaznamek</translation>
     </message>
     <message>
-        <source>&amp;Enter note number:</source>
+        <source>Format:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>highlight the &amp;result</source>
+        <source>Match Case</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>F&amp;ind Scope</source>
+        <source>&amp;More</source>
+        <translation type="unfinished">&amp;Več</translation>
+    </message>
+    <message>
+        <source>Sp&amp;ecial</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Find &amp;Back</source>
+        <source>Match half/full for&amp;ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ma&amp;tch suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore white-sp&amp;ace characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sounds Like(&amp;Japanese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match prefi&amp;x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore punctuation character&amp;s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished">Vrstica</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <translation type="unfinished">Sprotna opomba</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <translation type="unfinished">Končna opomba</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished">Tabela</translation>
+    </message>
+    <message>
+        <source>Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <translation type="unfinished">Naslov</translation>
+    </message>
+    <message>
+        <source>Enter + and - to move relative to the current location. 
+Example: +4 will move forward four items:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter line number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter bookmark name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter reviewer&apos;s name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter footnote number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter endnote number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter field name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter table number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter graphic number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter equation number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter object name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter heading number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reading Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find &amp;In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Previous(&amp;B)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3154,12 +3568,12 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Find Style</source>
+        <source>Find Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>description</source>
-        <translation type="unfinished"></translation>
+        <source>Description</source>
+        <translation type="unfinished">Opis</translation>
     </message>
 </context>
 <context>
@@ -3190,7 +3604,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Complex Scripts</source>
-        <translation>Kompleksne abecede</translation>
+        <translation type="obsolete">Kompleksne abecede</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -3198,7 +3612,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Font Sty&amp;le:</source>
-        <translation>Slo&amp;g pisave:</translation>
+        <translation type="obsolete">Slo&amp;g pisave:</translation>
     </message>
     <message>
         <source>Si&amp;ze:</source>
@@ -3278,11 +3692,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation>To je TrueType pisava. Za zaslon in tiskalnik se bo uporabljala ista pisava.</translation>
+        <translation type="obsolete">To je TrueType pisava. Za zaslon in tiskalnik se bo uporabljala ista pisava.</translation>
     </message>
     <message>
         <source>Cha&amp;racter Spacing </source>
-        <translation>Raz&amp;mik med znaki </translation>
+        <translation type="obsolete">Raz&amp;mik med znaki </translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
@@ -3339,6 +3753,22 @@ use buttons to apply borders</source>
     <message>
         <source>&amp;Default...</source>
         <translation>&amp;Privzeto ...</translation>
+    </message>
+    <message>
+        <source>Complex scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font sty&amp;le:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cha&amp;racter Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3431,6 +3861,14 @@ use buttons to apply borders</source>
         <source>&amp;Insert</source>
         <translation>&amp;Vstavi</translation>
     </message>
+    <message>
+        <source>S&amp;quare Bracket Format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[1],[2],[3],...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFormatRestrictions</name>
@@ -3451,27 +3889,27 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The current permission to use the style(&amp;P):</source>
+        <source>Styles are currently allowed(&amp;P):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The restriction of the use of style(&amp;E):</source>
+        <source>R&amp;estrictions on the styles:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> Restrict(&amp;L) &gt; </source>
+        <source> &amp;Limit &gt; </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> All Restrict(&amp;R) &gt;&gt; </source>
+        <source> Limit All(&amp;R) &gt;&gt; </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> &lt; Permit(&amp;A) </source>
+        <source> &lt; &amp;Allow </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> &lt;&lt; All Permit(&amp;O) </source>
+        <source> &lt;&lt; All&amp;ow All </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3625,23 +4063,39 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Align paragraph and table edges with border</source>
-        <translation>&amp;Poravnaj obrobe odstavka in robove tabele z robom strani</translation>
+        <translation type="obsolete">&amp;Poravnaj obrobe odstavka in robove tabele z robom strani</translation>
     </message>
     <message>
         <source>A&amp;lways front</source>
-        <translation>&amp;Vedno prikaži v ospredju</translation>
+        <translation type="obsolete">&amp;Vedno prikaži v ospredju</translation>
     </message>
     <message>
         <source>&amp;Header</source>
-        <translation>&amp;Glava</translation>
+        <translation type="obsolete">&amp;Glava</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation>&amp;Noga</translation>
+        <translation type="obsolete">&amp;Noga</translation>
     </message>
     <message>
         <source>Preview</source>
         <translation>Predogled</translation>
+    </message>
+    <message>
+        <source>&amp;Align paragraph borders and table edges with page border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;lways display in front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surround &amp;header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surround &amp;footer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3780,7 +4234,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Auto column width  </source>
-        <translation>Samodejno p&amp;rilagodi vsebini</translation>
+        <translation type="obsolete">Samodejno p&amp;rilagodi vsebini</translation>
     </message>
     <message>
         <source>pt, 2, -2.14748e+09, 2.14748e+09, 10</source>
@@ -3789,6 +4243,10 @@ use buttons to apply borders</source>
     <message>
         <source>Remember dimen&amp;sions for new tables</source>
         <translation>&amp;Zapomni si mere za nove tabele</translation>
+    </message>
+    <message>
+        <source>Auto column width(&amp;F)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3822,15 +4280,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Add &amp;line number</source>
-        <translation>Oštevilči &amp;vrstice</translation>
+        <translation type="obsolete">Oštevilči &amp;vrstice</translation>
     </message>
     <message>
         <source>Distance from &amp;text:</source>
-        <translation>Od &amp;besedila:</translation>
+        <translation type="obsolete">Od &amp;besedila:</translation>
     </message>
     <message>
         <source>Start number(&amp;A):</source>
-        <translation>Z&amp;ačni z:</translation>
+        <translation type="obsolete">Z&amp;ačni z:</translation>
     </message>
     <message>
         <source>Count &amp;by:</source>
@@ -3838,15 +4296,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>millimeter</source>
-        <translation>milimeter</translation>
+        <translation type="obsolete">milimeter</translation>
     </message>
     <message>
         <source>Restart mode:</source>
-        <translation>Oštevilčevanje:</translation>
+        <translation type="obsolete">Oštevilčevanje:</translation>
     </message>
     <message>
         <source>Line num reset &amp;page</source>
-        <translation>Začni z vsako &amp;stranjo</translation>
+        <translation type="obsolete">Začni z vsako &amp;stranjo</translation>
     </message>
     <message>
         <source>buttonGroup_mode</source>
@@ -3854,11 +4312,43 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Line num reset &amp;section</source>
-        <translation>Začni z vsakim o&amp;dsekom</translation>
+        <translation type="obsolete">Začni z vsakim o&amp;dsekom</translation>
     </message>
     <message>
         <source>Line num &amp;continuous</source>
-        <translation>&amp;Zvezno</translation>
+        <translation type="obsolete">&amp;Zvezno</translation>
+    </message>
+    <message>
+        <source>Add &amp;line numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start &amp;at:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <source>Numbering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart each &amp;page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart each &amp;section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continuous</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4097,7 +4587,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Open folder after merge.</source>
+        <source>&amp;Open folder after merge</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4137,7 +4627,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>attachment</source>
-        <translation>priloga</translation>
+        <translation type="obsolete">priloga</translation>
     </message>
     <message>
         <source>Pure text</source>
@@ -4181,6 +4671,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>edTo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attachment</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4547,7 +5041,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Edit options</source>
-        <translation>Možnosti urejanja</translation>
+        <translation type="obsolete">Možnosti urejanja</translation>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
@@ -4578,10 +5072,6 @@ use buttons to apply borders</source>
         <translation>Samooblikovanje</translation>
     </message>
     <message>
-        <source>&amp;AutoFormat apply lists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A&amp;uto circle number</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4592,34 +5082,6 @@ use buttons to apply borders</source>
     <message>
         <source>Capitalize first letter of &amp;sentences</source>
         <translation>Prvo besedo &amp;stavka piši z veliko začetnico</translation>
-    </message>
-    <message>
-        <source>Capitalize first letter of the names of the &amp;week</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mark &amp;ordinal numbers as superscripts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Hyperlink the internet or network address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Correct accidental of caps &amp;lock key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The &amp;beginning of a paragraph applies first line indent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-adjust the space &amp;format at the end of a line which are aligned right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto convert straight &amp;quote to curly quote</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut and paste options</source>
@@ -4635,7 +5097,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>With text format</source>
-        <translation type="unfinished">Z obliko besedila</translation>
+        <translation type="obsolete">Z obliko besedila</translation>
     </message>
     <message>
         <source>Matching the current format</source>
@@ -4643,7 +5105,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text without format</source>
-        <translation type="unfinished">Besedilo brez oblike</translation>
+        <translation type="obsolete">Besedilo brez oblike</translation>
     </message>
     <message>
         <source>General and Save</source>
@@ -4671,7 +5133,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Nedavni dokumenti</translation>
+        <translation type="obsolete">Nedavni dokumenti</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -4719,7 +5181,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Timing Backup</source>
-        <translation>Časovna izbira varnostnega kopiranja</translation>
+        <translation type="obsolete">Časovna izbira varnostnega kopiranja</translation>
     </message>
     <message>
         <source>ch</source>
@@ -4739,18 +5201,6 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed &amp;true type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Just embed used chars</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Do not embed normal fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4939,7 +5389,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Show reviewer information in the balloon</source>
-        <translation>Pokaži informacije pregledovalca v oblačku</translation>
+        <translation type="obsolete">Pokaži informacije pregledovalca v oblačku</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
@@ -4979,7 +5429,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Printing (With balloons)</source>
-        <translation>Tiskanje (z oblački)</translation>
+        <translation type="obsolete">Tiskanje (z oblački)</translation>
     </message>
     <message>
         <source>&amp;Paper orientation:</source>
@@ -5082,10 +5532,6 @@ use buttons to apply borders</source>
         <translation>Možnosti šifriranja datoteke za ta dokument</translation>
     </message>
     <message>
-        <source>You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Document passw&amp;ord:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5111,7 +5557,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Privacy Options</source>
-        <translation>Možnosti zasebnosti</translation>
+        <translation type="obsolete">Možnosti zasebnosti</translation>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
@@ -5122,16 +5568,12 @@ use buttons to apply borders</source>
         <translation>Varnost makrov</translation>
     </message>
     <message>
-        <source>Adjust the security level to open files that might contain macro viruses and specify the names of trusted developers.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Macros and Security...</source>
-        <translation>Makri in varnost ...</translation>
+        <translation type="obsolete">Makri in varnost ...</translation>
     </message>
     <message>
         <source>Security troubles</source>
-        <translation>Varnostni problemi</translation>
+        <translation type="obsolete">Varnostni problemi</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -5182,10 +5624,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission p&amp;rint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Permit to cop&amp;y</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5195,11 +5633,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Low quality printing only</source>
-        <translation>Samo nizka kakovost tiskanja</translation>
+        <translation type="obsolete">Samo nizka kakovost tiskanja</translation>
     </message>
     <message>
         <source>Free print</source>
-        <translation>Brezplačno natisni</translation>
+        <translation type="obsolete">Brezplačno natisni</translation>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
@@ -5207,7 +5645,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Spelling</source>
-        <translation>Črkovanje</translation>
+        <translation type="obsolete">Črkovanje</translation>
     </message>
     <message>
         <source>Check s&amp;pelling as you type</source>
@@ -5231,7 +5669,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ignore internet and &amp;network paths</source>
-        <translation>Prez&amp;ri internetne naslove in naslove datotek</translation>
+        <translation type="obsolete">Prez&amp;ri internetne naslove in naslove datotek</translation>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
@@ -5318,10 +5756,6 @@ use buttons to apply borders</source>
         <translation>Zavihki dokumenta</translation>
     </message>
     <message>
-        <source>Tab style:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Autofit the tab width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5347,7 +5781,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Other options</source>
-        <translation>Ostale možnosti</translation>
+        <translation type="obsolete">Ostale možnosti</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -5358,24 +5792,185 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Double-click the blank place to create a &amp;new document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ctrl+Tab to &amp;switch tabs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Warn me when closing all tabs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;Timing Backup</source>
+        <source>RadioButton</source>
+        <translation type="obsolete">Izbirni gumb</translation>
+    </message>
+    <message>
+        <source>Editing options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>RadioButton</source>
-        <translation type="unfinished">Izbirni gumb</translation>
+        <source>Max U&amp;ndo/Redo:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steps(Need restart program)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Auto numbered lists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capitalize names of days of the &amp;week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace &amp;ordinals with superscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink Internet or network path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Correct accidental usage of Caps &amp;Lock key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Beginning of paragraph applies first line indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-adjust the space &amp;format at the end of lines which are aligned right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto convert straight &amp;quote to smart quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto d&amp;elete paragraph indent when align center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unformatted text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert/paste pictures as(&amp;Z):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;timing backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smart Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed &amp;TrueType</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Just embed characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Do not embed common system fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options for current document only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print only the data from a form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show revisor information in balloons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing (with balloons)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the recommended width(&amp;F)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a password below to protect this document.
+The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros &amp;Security...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security threats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished">Preverjanje črkovanja</translation>
+    </message>
+    <message>
+        <source>Ignore Internet and &amp;network paths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click in the space to create a &amp;new document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5521,7 +6116,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Multiple pages</source>
-        <translation>Več stra&amp;ni</translation>
+        <translation type="obsolete">Več stra&amp;ni</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -5537,11 +6132,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Sheets per boo&amp;klet</source>
-        <translation>Št. listov na knjiži&amp;co</translation>
+        <translation type="obsolete">Št. listov na knjiži&amp;co</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation>Samodejno</translation>
+        <translation type="obsolete">Samodejno</translation>
     </message>
     <message>
         <source>All</source>
@@ -5839,6 +6434,22 @@ use buttons to apply borders</source>
         <source>&amp;Default...</source>
         <translation>&amp;Privzeto ...</translation>
     </message>
+    <message>
+        <source>&amp;Multiple pages:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mirror margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheets per boo&amp;klet:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Samodejno</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgParagraph</name>
@@ -5884,11 +6495,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right-to-left</source>
-        <translation>Od desne proti levi</translation>
+        <translation type="obsolete">Od desne proti levi</translation>
     </message>
     <message>
         <source>Left-to-right</source>
-        <translation>Od leve proti desni</translation>
+        <translation type="obsolete">Od leve proti desni</translation>
     </message>
     <message>
         <source>Indentation</source>
@@ -6000,7 +6611,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Multiple, 2, 0.06, 132, 0.5</source>
-        <translation type="obsolete">Več, 2, 0,06, 132, 0,5</translation>
+        <translation type="unfinished">Več, 2, 0,06, 132, 0,5</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
@@ -6139,7 +6750,11 @@ use buttons to apply borders</source>
         <translation>&amp;Tabulatorji ...</translation>
     </message>
     <message>
-        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <source>Right-to-le&amp;ft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left-to-right</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6258,7 +6873,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12</source>
-        <translation>Vnesite številke strani in/ali obsege strani, ločene z vejicami. Primer: 1,5-12</translation>
+        <translation type="obsolete">Vnesite številke strani in/ali obsege strani, ločene z vejicami. Primer: 1,5-12</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -6298,35 +6913,35 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>1 page</source>
-        <translation>1 stran</translation>
+        <translation type="obsolete">1 stran</translation>
     </message>
     <message>
         <source>2 pages</source>
-        <translation>2 strani</translation>
+        <translation type="obsolete">2 strani</translation>
     </message>
     <message>
         <source>4 pages</source>
-        <translation>4 strani</translation>
+        <translation type="obsolete">4 strani</translation>
     </message>
     <message>
         <source>6 pages</source>
-        <translation>6 strani</translation>
+        <translation type="obsolete">6 strani</translation>
     </message>
     <message>
         <source>8 pages</source>
-        <translation>8 strani</translation>
+        <translation type="obsolete">8 strani</translation>
     </message>
     <message>
         <source>9 pages</source>
-        <translation>9 strani</translation>
+        <translation type="obsolete">9 strani</translation>
     </message>
     <message>
         <source>16 pages</source>
-        <translation>16 strani</translation>
+        <translation type="obsolete">16 strani</translation>
     </message>
     <message>
         <source>32 pages</source>
-        <translation>32 strani</translation>
+        <translation type="obsolete">32 strani</translation>
     </message>
     <message>
         <source>Scale to paper si&amp;ze:</source>
@@ -6351,6 +6966,42 @@ use buttons to apply borders</source>
     <message>
         <source>Even pages</source>
         <translation>Sode strani</translation>
+    </message>
+    <message>
+        <source>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12.</source>
+        <translation type="unfinished">Vnesite številke strani in/ali obsege strani, ločene z vejicami. Primer: 1,5-12 {1,3,5-12.?}</translation>
+    </message>
+    <message>
+        <source>1 Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4 Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9 Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>16 Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>32 Pages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6380,19 +7031,19 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Protection Password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The password can be set to null, but a malicious user could delete password and edit documents, recommended fill password.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Enter new passowrd(optional):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reenter &amp;password to confirm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protection password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document is not encrypted. Malicious users can edit the file and remove the password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter new password(optional):</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6407,7 +7058,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>In protecting Window, Selected Section also been Protected. </source>
+        <source>Checked sections will be protected when the document is protected for Forms.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6901,7 +7552,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text Form Field</source>
-        <translation>Vnosno polje obrazca</translation>
+        <translation type="obsolete">Vnosno polje obrazca</translation>
     </message>
     <message>
         <source>Fill-in e&amp;nabled</source>
@@ -6929,7 +7580,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Bookmarks:</source>
-        <translation type="unfinished">&amp;Zaznamki:</translation>
+        <translation type="obsolete">&amp;Zaznamki:</translation>
     </message>
     <message>
         <source>&amp;Maximum length:</source>
@@ -6946,6 +7597,14 @@ use buttons to apply borders</source>
     <message>
         <source>Add Help &amp;Text...</source>
         <translation>Dodaj &amp;napotek ...</translation>
+    </message>
+    <message>
+        <source>Text form field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bookmark:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6990,11 +7649,7 @@ use buttons to apply borders</source>
     <name>KxDlgUpdateTableOfContents</name>
     <message>
         <source>Update Table Of Contents</source>
-        <translation>Posodobitev kazala vsebine</translation>
-    </message>
-    <message>
-        <source>NO_TRANS! Kingsoft Writer is updating the table of contents. Select one of the following options:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Posodobitev kazala vsebine</translation>
     </message>
     <message>
         <source>Update &amp;page numbers only</source>
@@ -7003,6 +7658,14 @@ use buttons to apply borders</source>
     <message>
         <source>Update &amp;entire table</source>
         <translation>Posodobi &amp;celotno kazalo</translation>
+    </message>
+    <message>
+        <source>Update Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7022,6 +7685,56 @@ use buttons to apply borders</source>
     <message>
         <source>View &amp;endnote area</source>
         <translation>Pogledati &amp;končne opombe</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsPrintSetup</name>
+    <message>
+        <source>Print Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set as &amp;Default Printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting the default printer or options will affect WPS Writer and all other Windows-based applications.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options...</source>
+        <translation type="unfinished">&amp;Možnosti ...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Prekliči</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsRecordMacro</name>
+    <message>
+        <source>Record Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Macro name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Store macro in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Description:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7052,7 +7765,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>RadioButton</source>
-        <translation>Izbirni gumb</translation>
+        <translation type="obsolete">Izbirni gumb</translation>
     </message>
     <message>
         <source>&amp;200%</source>
@@ -7069,6 +7782,10 @@ use buttons to apply borders</source>
     <message>
         <source>%</source>
         <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Smart Backup</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7118,13 +7835,17 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The %1 DropDown Item is not allowed to be empty.</source>
-        <translation>%1 spustni element ne sme biti prazen.</translation>
+        <translation type="obsolete">%1 spustni element ne sme biti prazen.</translation>
+    </message>
+    <message>
+        <source>Drop-down item %1 is not allowed to be empty.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxEditDictionaryDlg</name>
     <message>
-        <source>The word contains unallowable characters, we can&apos;t handle it.</source>
+        <source>The word contains unallowable characters. We cannot handle it.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7150,15 +7871,15 @@ use buttons to apply borders</source>
 <context>
     <name>KxExpUserListPanel</name>
     <message>
-        <source>&amp;Find next region this user can edit</source>
+        <source>&amp;Find Next Region This User Can Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Show all regions this user can edit</source>
+        <source>&amp;Show All Regions This User Can Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Remove all editing permissions for this user</source>
+        <source>&amp;Remove All Editing Permissions For This User</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7170,11 +7891,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation>Potrditev gesla se ne ujema.</translation>
+        <translation type="obsolete">Potrditev gesla se ne ujema.</translation>
     </message>
     <message>
         <source>Permissions Password and Document Open Password must be different.</source>
-        <translation>Geslo za dovoljenja in geslo za odpiranje dokumenta morata biti drugačni.</translation>
+        <translation type="obsolete">Geslo za dovoljenja in geslo za odpiranje dokumenta morata biti drugačni.</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
@@ -7202,7 +7923,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
-        <translation>Datoteka, ki ste jo določili, že obstaja. Ali ste prepričani, da želite zamenjati z obstoječo datoteko ?</translation>
+        <translation type="obsolete">Datoteka, ki ste jo določili, že obstaja. Ali ste prepričani, da želite zamenjati z obstoječo datoteko ?</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7217,7 +7950,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Kingsoft Writer encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
-        <translation>Kingsoft Writer je med izvažanjem PDF datoteke naletel na napako. Določite ime datoteke za vaš PDF.</translation>
+        <translation type="obsolete">Kingsoft Writer je med izvažanjem PDF datoteke naletel na napako. Določite ime datoteke za vaš PDF.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7229,7 +7962,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Exporting %1 page...</source>
-        <translation>Izvažanje %1 stran ...</translation>
+        <translation type="obsolete">Izvažanje %1 stran ...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -7244,7 +7977,15 @@ use buttons to apply borders</source>
         <translation>Izvažanje PDF datoteke je dokončano.</translation>
     </message>
     <message>
-        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <source>PDF Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7327,10 +8068,6 @@ use buttons to apply borders</source>
         <translation>Vstavi samodejno zaporedno številko</translation>
     </message>
     <message>
-        <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>TC</source>
         <translation>TC</translation>
     </message>
@@ -7351,12 +8088,8 @@ use buttons to apply borders</source>
         <translation>Trenutna ura</translation>
     </message>
     <message>
-        <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:TOC \o 1-3 \h  \u</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>ToC</source>
-        <translation>Kazalo vsebine</translation>
+        <translation type="obsolete">Kazalo vsebine</translation>
     </message>
     <message>
         <source>Create a table of contents</source>
@@ -7379,10 +8112,6 @@ use buttons to apply borders</source>
         <translation>Število strani v dokumentu</translation>
     </message>
     <message>
-        <source>Presume set the KingSoft variable assignment as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>DocVariable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7396,11 +8125,86 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert the text of a paragraph with styles.</source>
-        <translation>Vstavi besedilo odstavka s slogi.</translation>
+        <translation type="obsolete">Vstavi besedilo odstavka s slogi.</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
         <translation>&amp;Formula:</translation>
+    </message>
+    <message>
+        <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents, click Options, then select Table entry fields. Field code: TC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the last print date is August 8 of 2008. Field code:PrintDate \@ yyyy-M-d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrintDate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>last print time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:ToC \o 1-3 \h  \u</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
+        <comment>wps-&gt; insert field -&gt; mergefield</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MergeField</source>
+        <comment>wps-&gt; insert field</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert a mail merge field</source>
+        <comment>wps-&gt; insert field -&gt; mergefield</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the text from a like-styled paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IncludePicture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert a picture from a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Picture]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the author of this document is WPS. Field code: DOCPPROPERTY Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocProperty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert a document property</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7411,7 +8215,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Sounds Like(English)</source>
-        <translation>Zveni kot (angleščina)</translation>
+        <translation type="obsolete">Zveni kot (angleščina)</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document.</source>
@@ -7423,7 +8227,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The &quot;Find what&quot; text contains invalid &quot;Mode match&quot; expression.</source>
-        <translation>Besedilo polja Najdi vsebuje neveljaven »Način ujemanja« izraz.</translation>
+        <translation type="obsolete">Besedilo polja Najdi vsebuje neveljaven »Način ujemanja« izraz.</translation>
     </message>
     <message>
         <source>Kingsoft Writer has finished searching the document and made %1 replacements.</source>
@@ -7431,7 +8235,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Kingsoft Writer Cannot replace the found item with text containing a break.</source>
-        <translation>Kingsoft Writer ne more zamenjati najdenega elementa z besedilom, ki vsebuje prelom.</translation>
+        <translation type="obsolete">Kingsoft Writer ne more zamenjati najdenega elementa z besedilom, ki vsebuje prelom.</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -7443,47 +8247,39 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Kingsoft Writer could not determine the destination.</source>
-        <translation>Kingsoft Writer ni mogel določiti cilja.</translation>
+        <translation type="obsolete">Kingsoft Writer ni mogel določiti cilja.</translation>
     </message>
     <message>
         <source>Bookmark does not exist or is hidden.</source>
-        <translation>Zaznamek ne obstaja ali je skit.</translation>
+        <translation type="obsolete">Zaznamek ne obstaja ali je skit.</translation>
     </message>
     <message>
         <source>Match case</source>
-        <translation>Razlikovanje velikih in malih črk</translation>
+        <translation type="obsolete">Razlikovanje velikih in malih črk</translation>
     </message>
     <message>
         <source>,Match case</source>
-        <translation>,Razlikovanje velikih in malih črk</translation>
+        <translation type="obsolete">,Razlikovanje velikih in malih črk</translation>
     </message>
     <message>
         <source>Find whole words only</source>
-        <translation>Išči samo cele besede</translation>
+        <translation type="obsolete">Išči samo cele besede</translation>
     </message>
     <message>
         <source>,Find whole words only</source>
-        <translation>,Išči samo cele besede</translation>
+        <translation type="obsolete">,Išči samo cele besede</translation>
     </message>
     <message>
         <source>,Use Wildcards</source>
-        <translation>,Uporabi nadomestne vzorce</translation>
-    </message>
-    <message>
-        <source>Match half/full Forms</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>,Match half/full Forms</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">,Uporabi nadomestne vzorce</translation>
     </message>
     <message>
         <source>Sounds like(Japannese)</source>
-        <translation>Zveni kot (japonščina)</translation>
+        <translation type="obsolete">Zveni kot (japonščina)</translation>
     </message>
     <message>
         <source>,Sounds like(Japannese)</source>
-        <translation>,Zveni kot (japonščina)</translation>
+        <translation type="obsolete">,Zveni kot (japonščina)</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -7491,11 +8287,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="obsolete">&amp;Več</translation>
+        <translation type="unfinished">&amp;Več</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="obsolete">M&amp;anj</translation>
+        <translation type="unfinished">M&amp;anj</translation>
     </message>
     <message>
         <source>Text Boxes in Main Document</source>
@@ -7515,11 +8311,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation>Sprotne opombe</translation>
+        <translation type="obsolete">Sprotne opombe</translation>
     </message>
     <message>
         <source>Endnotes</source>
-        <translation>Končne opombe</translation>
+        <translation type="obsolete">Končne opombe</translation>
     </message>
     <message>
         <source>Text Boxes in Headers and Footers</source>
@@ -7551,7 +8347,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Any &amp;Character</source>
-        <translation>Polj&amp;uben znak</translation>
+        <translation type="obsolete">Polj&amp;uben znak</translation>
     </message>
     <message>
         <source>Any Di&amp;git</source>
@@ -7599,7 +8395,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Find What Text</source>
-        <translation>&amp;Najdi besedilo</translation>
+        <translation type="obsolete">&amp;Najdi besedilo</translation>
     </message>
     <message>
         <source>no items were found.</source>
@@ -7610,10 +8406,6 @@ use buttons to apply borders</source>
         <translation type="unfinished">Možnosti iskanja:</translation>
     </message>
     <message>
-        <source>Format options:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text Boxes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7622,15 +8414,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>has finished searching the %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The search item was not found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>has finished searching and made %1 replacements.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7638,111 +8422,7 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>,Match Prefix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Match Suffix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>,Match Suffix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore Punct</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>,Ignore Punct</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>,Ignore Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>style:%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>not highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Options(&amp;L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;More Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[only format]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;clear Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>find font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>replace font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>find Para</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>replace Para</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>find Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>replace Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>find Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>replace Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7755,14 +8435,6 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Headers and Footers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Footnotes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Endnotes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7782,26 +8454,226 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;clear All Highlight</source>
+        <source>Format:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS has find %1 item that fit the condition.</source>
+        <source>Sounds like(English)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS can not find item that fit the condition.</source>
+        <source>Footnote</source>
+        <translation type="unfinished">Sprotna opomba</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <translation type="unfinished">Končna opomba</translation>
+    </message>
+    <message>
+        <source>WPS Writer has completed its search of %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS has highlight %1 item. If you want to clear the highlight, please click highlight ALL button, and click clear highlight</source>
+        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All done. WPS Writer made %1 replacements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot replace the found item with text containing a break.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Reviewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not determine the destination.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark does not exist or is hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Case</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Match Case</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whole Words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Whole Words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Use Wildcards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match half/full width forms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Match Byte</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sounds like(Japanese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Sounds like(Japanese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Match Prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Match Suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore punctuation characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Ignore punctuation characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore white-space characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, Ignore white-space characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Style:%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Only format]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any &amp;Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Find What</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font...</source>
+        <translation type="unfinished">&amp;Pisava ...</translation>
+    </message>
+    <message>
+        <source>&amp;Paragraph...</source>
+        <translation type="unfinished">&amp;Odstavek ...</translation>
+    </message>
+    <message>
+        <source>&amp;Tabs...</source>
+        <translation type="unfinished">&amp;Tabulatorji ...</translation>
+    </message>
+    <message>
+        <source>&amp;Style...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Highlight</source>
+        <translation type="unfinished">O&amp;značeno</translation>
+    </message>
+    <message>
+        <source>&amp;Clear Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clear Highlighting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer found %1 items matching this criteria</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer found no items matching this criteria</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer highlighted %1 items. To clear highlighting, click Reading Highlight and then click Clear Highlighting.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxFindStyleDlg</name>
     <message>
-        <source>No Style</source>
+        <source>  (No style)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7809,7 +8681,7 @@ use buttons to apply borders</source>
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian Text Font)</source>
-        <translation>(Uporabi azijske pisave)</translation>
+        <translation type="obsolete">(Uporabi azijske pisave)</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -7817,11 +8689,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation>To je pisava TrueType. Za zaslon in tiskalnik se bo uporabljala ista pisava.</translation>
+        <translation type="obsolete">To je pisava TrueType. Za zaslon in tiskalnik se bo uporabljala ista pisava.</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
-        <translation>Ta slog pisave je potvorjen za prikaz. Pri tiskanju bo uporabljena najbolj podobna pisava.</translation>
+        <translation type="obsolete">Ta slog pisave je potvorjen za prikaz. Pri tiskanju bo uporabljena najbolj podobna pisava.</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
@@ -7852,10 +8724,6 @@ use buttons to apply borders</source>
         <translation>(Brez)</translation>
     </message>
     <message>
-        <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The number must be between %1 and %2.</source>
         <translation>Število mora biti med %1 in %2.</translation>
     </message>
@@ -7865,16 +8733,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>This font style name does not exist.</source>
-        <translation>To ime sloga pisave ne obstaja.</translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for font?
-This change will affect all the new documents based on the %1 template.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">To ime sloga pisave ne obstaja.</translation>
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
-        <translation>Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
+        <translation type="obsolete">Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
@@ -7882,7 +8745,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Measured value must be between %1 pt and %2 pt</source>
-        <translation>Izmerjena vrednost mora biti med % pt in %2 pt</translation>
+        <translation type="obsolete">Izmerjena vrednost mora biti med % pt in %2 pt</translation>
     </message>
     <message>
         <source>Not Italic</source>
@@ -7890,6 +8753,39 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Not Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Use Asian text font)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font has not been installed. The most similar available font will be printed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all new documents based on the %1 template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Measurement must be between %1 pt and %2 pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7937,7 +8833,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Kingsoft Writer</source>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
@@ -7955,27 +8851,31 @@ This change will affect all the new documents based on the %1 template.</source>
         <source>The measurement must be between 1 and 12.</source>
         <translation>Mera mora biti med 1 in 12.</translation>
     </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFormatRestrictionsDlg</name>
     <message>
-        <source>The Document Used Styles</source>
+        <source>Used in this document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Built-in Styles</source>
+        <source>Built-in</source>
+        <translation type="unfinished">Vgrajeno</translation>
+    </message>
+    <message>
+        <source>User-defined styles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The User Defined Styles</source>
-        <translation type="unfinished"></translation>
+        <source>All styles</source>
+        <translation type="unfinished">Vsi slogi</translation>
     </message>
     <message>
-        <source>The All Styles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document may contain formatting or styles that arent&apos;t allowed.Do you want to remove them?</source>
+        <source>This document may contain formatting or styles that are not allowed. Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7997,19 +8897,31 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxHyperlinkWpsPage</name>
     <message>
         <source>top of document</source>
-        <translation>vrh dokumenta</translation>
+        <translation type="obsolete">vrh dokumenta</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="obsolete">Naslov</translation>
     </message>
     <message>
         <source>BookMark</source>
-        <translation>Zaznamek</translation>
+        <translation type="obsolete">Zaznamek</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
         <translation>&lt;&lt;Izbor v dokumentu&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Top of document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Headings</source>
+        <translation type="unfinished">Naslovi</translation>
+    </message>
+    <message>
+        <source>Bookmarks</source>
+        <translation type="unfinished">Zaznamki</translation>
     </message>
 </context>
 <context>
@@ -8215,7 +9127,11 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxInsertTableRowsDlg</name>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation>Vrednost bi morala biti med %1 in %2.</translation>
+        <translation type="obsolete">Vrednost bi morala biti med %1 in %2.</translation>
+    </message>
+    <message>
+        <source>The input value must be between %1 and %2.</source>
+        <translation type="unfinished">Vhodna vrednost mora biti med %1 in %2.</translation>
     </message>
 </context>
 <context>
@@ -8270,16 +9186,20 @@ This change will affect all the new documents based on the %1 template.</source>
 <context>
     <name>KxMergeToEmailDlg</name>
     <message>
-        <source>Not a valid e-mail address, Kingsoft Writer cannot merge documents by mail transfer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Kingsoft Writer</source>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>Number is invalid.</source>
         <translation>Številka ni veljavna.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8338,10 +9258,6 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>Line spacing: Double, </source>
         <translation>Razmik vrstic: Dvojno, </translation>
-    </message>
-    <message>
-        <source>This style contains cycle base style table.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -8434,7 +9350,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
-        <translation>Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
+        <translation type="obsolete">Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
     </message>
     <message>
         <source>The font &apos;%1&apos; is not available in your system. Do you want to use it anyway?</source>
@@ -8512,11 +9428,19 @@ Cancel:	Return to the dialog.</source>
         <source>None</source>
         <translation>Brez</translation>
     </message>
+    <message>
+        <source>This style contains cycle base style table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxNewLabelDlg</name>
     <message>
-        <source>This caption label is not valid</source>
+        <source>This caption label is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8737,7 +9661,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
-        <translation type="unfinished">Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
+        <translation type="obsolete">Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8752,7 +9680,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Dokumenti</translation>
+        <translation type="obsolete">Dokumenti</translation>
     </message>
     <message>
         <source>User templates</source>
@@ -8767,16 +9695,32 @@ Cancel:	Return to the dialog.</source>
         <translation>Izberi mapo:</translation>
     </message>
     <message>
-        <source>Kingsoft Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The key length of the file encryption must not be longer than 15 characters.</source>
-        <translation>Dolžina ključa za šifriranje datotek ne sme biti daljša od 15 znakov.</translation>
+        <translation type="obsolete">Dolžina ključa za šifriranje datotek ne sme biti daljša od 15 znakov.</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation>Potrditev gesla se ne ujema.</translation>
+        <translation type="obsolete">Potrditev gesla se ne ujema.</translation>
+    </message>
+    <message>
+        <source>Document path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password of the file encryption must be no longer than 15 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Undo/Redo steps must be between %1 and %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8959,7 +9903,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
-        <translation>Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
+        <translation type="obsolete">Shranjevanje ni uspelo, predloga »Normal« je zasedena.</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8983,7 +9927,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation>Mera mora biti med %1 in %2.</translation>
+        <translation type="obsolete">Mera mora biti med %1 in %2.</translation>
     </message>
     <message>
         <source>Settings you chose for the left/right margins are too large for the page width in some sections.</source>
@@ -8993,12 +9937,27 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
         <source>Settings you chose for the top/bottom margins are too large for the page height in some sections.</source>
         <translation>Izbrane nastavitve za zgornji/spodnji rob so v nekaterih odsekih prevelike za višino strani.</translation>
     </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxParagraphDlg</name>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished">To ni veljavna mera.</translation>
+    </message>
 </context>
 <context>
     <name>KxPhoneticGuideDlg</name>
     <message>
         <source>Please choose the base text for the Phonetic Guide.</source>
-        <translation>Izberite osnovno besedilo za fonetični vodnik.</translation>
+        <translation type="obsolete">Izberite osnovno besedilo za fonetični vodnik.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -9007,6 +9966,10 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     <message>
         <source>The number must be between %1 and %1.</source>
         <translation>Število mora biti med %1 in %1.</translation>
+    </message>
+    <message>
+        <source>Please select the base text for the Phonetic Guide.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9029,11 +9992,15 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>The printer &quot;%1&quot; returned an error!</source>
-        <translation>Tiskalnik &quot;%&quot; je vrnil napako!</translation>
+        <translation type="obsolete">Tiskalnik &quot;%&quot; je vrnil napako!</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>Vhodna vrednost mora biti med %1 in %2.</translation>
+    </message>
+    <message>
+        <source>The printer &quot;%1&quot; encountered an error!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9044,7 +10011,11 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>The password confirmation does not match.</source>
-        <translation>Potrditev gesla se ne ujema.</translation>
+        <translation type="obsolete">Potrditev gesla se ne ujema.</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9134,7 +10105,11 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>Hide Paragraph Layout icon</source>
-        <translation>Skrij ikono postavitve odstavka</translation>
+        <translation type="obsolete">Skrij ikono postavitve odstavka</translation>
+    </message>
+    <message>
+        <source>Hide Paragraph Layout Icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9209,11 +10184,15 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
-        <translation>Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
+        <translation type="obsolete">Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
     </message>
     <message>
         <source>Text direction</source>
         <translation>Smer besedila</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="unfinished">Izbrane nastavitve za levi in desni rob, za razmik med stolpci ali za zamike odstavkov so v nekaterih odsekih prevelike za širino strani.</translation>
     </message>
 </context>
 <context>
@@ -9264,7 +10243,7 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
     </message>
     <message>
         <source>What you entered has formatting error.</source>
-        <translation>Vaš vnos ima napako oblikovanja.</translation>
+        <translation type="obsolete">Vaš vnos ima napako oblikovanja.</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%1 characters.</source>
@@ -9274,23 +10253,15 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
         <source>The bookmark name is not valid.</source>
         <translation>Ime zaznamka ni veljavno.</translation>
     </message>
+    <message>
+        <source>What you entered contains formatting error.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtection</name>
     <message>
-        <source>Limit formating to a selection of styles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting the document protection type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Read Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9337,51 +10308,27 @@ Ta sprememba bo vplivala na vse nove dokumente, ki bodo temeljili na predlogi %1
         <source>Stop Protection...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Limit formatting to a selection of styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the protection way in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
-    <message>
-        <source>Select Sections...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Users...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you make this change in document protection, WPS will ignore all the exceptions in this document.
-
-Do you want to remove the ignored exceptions?</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Section </source>
         <translation type="unfinished">Odsek</translation>
     </message>
     <message>
-        <source>Read only, Can prevent the document has been modified. However, you can set the edit region.
-Select the part of the contents in the document, and select the users can edit.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tracked changes, Allows you to modify the document, but modify records will be tracked to show.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comments, Only allowed to insert annotations in the document. However, you can set the edit region.
-Select the part of the contents in the document, and select the users can edit.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Filling in forms, Can prevent the document has been modified, only fill in the form field content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You may only view this region.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You may edit in this region,but all change will be tracked.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9424,16 +10371,50 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Current user</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Select sections...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More users...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you make this change in document protection, WPS Writer will ignore all the exceptions in this document.
+
+Do you want to remove the ignored exceptions?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can prevent the document from being modified in Read-only way. However, you can set the region to allow editing.
+
+Select parts of the document and choose users who are allowed to freely edit them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are allowed to modify the document and records will be shown in Tracked changes way.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may only insert comments into regions that are allowed to be edited in the document.
+
+Select parts of the document and choose users who are allowed to freely edit them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can prevent the document from being modified in Filling in forms way. However,you can only fill in form.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may edit in this region,but all changes will be tracked.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpStyeFormat</name>
     <message>
         <source>Drawing Grid</source>
-        <translation>Risalna mreža</translation>
-    </message>
-    <message>
-        <source>Selected Words Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Risalna mreža</translation>
     </message>
     <message>
         <source>New Style...</source>
@@ -9445,11 +10426,23 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Select Style to Apply</source>
-        <translation>Izberi slog za uporabo</translation>
+        <translation type="obsolete">Izberi slog za uporabo</translation>
     </message>
     <message>
         <source>Show:</source>
         <translation>Pokaži:</translation>
+    </message>
+    <message>
+        <source>From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatting of selected text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick formatting to apply</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9572,11 +10565,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Characters (No spaces)</source>
-        <translation>Znaki (brez presledkov)</translation>
+        <translation type="obsolete">Znaki (brez presledkov)</translation>
     </message>
     <message>
         <source>Characters (With spaces)</source>
-        <translation>Znaki (s presledki)</translation>
+        <translation type="obsolete">Znaki (s presledki)</translation>
     </message>
     <message>
         <source>Paragraphs</source>
@@ -9602,6 +10595,14 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
+    <message>
+        <source>Characters (no spaces)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Characters (with spaces)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
@@ -9621,51 +10622,19 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsBookmarkPane</name>
     <message>
         <source>Document bookmarks:</source>
-        <translation>Zaznamki dokumenta:</translation>
+        <translation type="obsolete">Zaznamki dokumenta:</translation>
     </message>
     <message>
         <source>Sort by name.</source>
-        <translation>Razvrsti po imenu.</translation>
+        <translation type="obsolete">Razvrsti po imenu.</translation>
     </message>
     <message>
         <source>Sort by location.</source>
-        <translation>Razvrsti po mestu.</translation>
-    </message>
-    <message>
-        <source>DeleteAll</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to the bookmark position(G)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sort by name(N)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sort by location(L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename(R)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete(D)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Razvrsti po mestu.</translation>
     </message>
     <message>
         <source>Whether to delete all bookmarks?</source>
-        <translation>Ali želite izbrisati vse zaznamke?</translation>
-    </message>
-    <message>
-        <source>ShowBookmark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HideBookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Ali želite izbrisati vse zaznamke?</translation>
     </message>
     <message>
         <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
@@ -9673,7 +10642,59 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>The bookmark already exists, please change the name !</source>
-        <translation>Zaznamek že obstaja, prosim nastavite drugo ime !</translation>
+        <translation type="obsolete">Zaznamek že obstaja, prosim nastavite drugo ime !</translation>
+    </message>
+    <message>
+        <source>Document Bookmark:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Go to Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by &amp;Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by &amp;Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Izbriši</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all bookmarks?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark already exists, please change the name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9767,6 +10788,70 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Next Bookmark</source>
         <translation>Naslednji zaznamek</translation>
     </message>
+    <message>
+        <source>Previous Find/Goto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Find/Goto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The search item was not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Find What text contains an invalid Pattern Matching expression.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsCloumnGalleryModel</name>
@@ -9803,7 +10888,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Table Content</source>
-        <translation>Vsebina tabele</translation>
+        <translation type="obsolete">Vsebina tabele</translation>
+    </message>
+    <message>
+        <source>Table of Content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10063,14 +11152,6 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The current watermark name already exists, please replace it with another name!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The current watermark already exists, please replace it with another name!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Size Tooltip</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10094,6 +11175,14 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Please select a picture.</source>
         <translation>Izberite sliko.</translation>
     </message>
+    <message>
+        <source>The current watermark name already exists. Please replace it with another name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current watermark name contains special characters. Please replace it with another name.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDeleteSectionCommand</name>
@@ -10114,14 +11203,10 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Different first page</source>
-        <translation>Drugače za prvo stran</translation>
+        <translation type="obsolete">Drugače za prvo stran</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Different odd &amp;even Pages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10134,22 +11219,14 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Show odd page header line</source>
-        <translation type="unfinished">Pokaži glavo vrstice </translation>
+        <translation type="obsolete">Pokaži glavo vrstice </translation>
     </message>
     <message>
         <source>Alt+B</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show even page header line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show first page header line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10161,15 +11238,7 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Odd header link to previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alt+E</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Even header link to previous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10177,15 +11246,7 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>First header link to previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alt+I</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Odd footer link to previous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10193,15 +11254,7 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Even footer link to previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alt+K</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First footer link to previous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10214,7 +11267,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>&amp;Header</source>
-        <translation type="unfinished">&amp;Glava</translation>
+        <translation type="obsolete">&amp;Glava</translation>
     </message>
     <message>
         <source>None</source>
@@ -10242,7 +11295,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation>&amp;Noga</translation>
+        <translation type="obsolete">&amp;Noga</translation>
     </message>
     <message>
         <source>Footer left</source>
@@ -10264,12 +11317,107 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Footer outside</source>
         <translation>Noga zunaj</translation>
     </message>
+    <message>
+        <source>Different first p&amp;age</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Different odd and &amp;even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show odd page header line(&amp;B)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show even page header line(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show first page hea&amp;der line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd h&amp;eader link to previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even header link to previous(&amp;G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;irst header link to previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd footer link to previous(&amp;J)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even footer lin&amp;k to previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First footer &amp;link to previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surround &amp;header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surround &amp;footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgTemplateAndAddin</name>
+    <message>
+        <source>Templates and Add-ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Navadno</translation>
+    </message>
+    <message>
+        <source>&amp;Attach...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Global templates and add-ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked items are currently loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;dd...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Odstrani</translation>
+    </message>
+    <message>
+        <source> Full path: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
     <message>
         <source>Document map</source>
-        <translation>Zgradba dokumenta</translation>
+        <translation type="obsolete">Zgradba dokumenta</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -10283,19 +11431,31 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Bookmark</source>
         <translation>Zaznamek</translation>
     </message>
+    <message>
+        <source>Document Map</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation>Brez barve</translation>
+        <translation type="obsolete">Brez barve</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">Brez polnila</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFillColorModel2</name>
     <message>
         <source>No Color</source>
-        <translation>Brez barve</translation>
+        <translation type="obsolete">Brez barve</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">Brez polnila</translation>
     </message>
 </context>
 <context>
@@ -10328,9 +11488,41 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
 </context>
 <context>
+    <name>KxWpsHeaderLineBaseCommand</name>
+    <message>
+        <source>Show header line</source>
+        <translation type="unfinished">Pokaži glavo vrstice</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderLineColorModel</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Samodejno</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderLineMoreColorCommand</name>
+    <message>
+        <source>Show Header Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertKeyCommand</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zapri</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsInsertPictureCommand</name>
     <message>
-        <source>The inserted picture is displayed incompletely, do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10396,13 +11588,129 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
 </context>
 <context>
+    <name>KxWpsLocateCloseBtn</name>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zapri</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsLocateWidget</name>
+    <message>
+        <source>Welcome Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to last editing position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to previous position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A few seconds ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 minutes ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 hours ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>yyyy years MM months dd days</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPageDifferCommand</name>
     <message>
         <source>Different first page</source>
         <translation>Drugače za prvo stran</translation>
     </message>
     <message>
-        <source>Different odd &amp;even Pages</source>
+        <source>Different odd &amp;even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageMarginCommand</name>
+    <message>
+        <source>Page Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins, column spacing, or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageMarginModel</name>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Custom Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Navadno</translation>
+    </message>
+    <message>
+        <source>Narrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moderate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top: %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom: %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left: %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right: %1 %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10483,7 +11791,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
-        <translation>Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
+        <translation type="obsolete">Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="unfinished">Izbrane nastavitve za levi in desni rob, za razmik med stolpci ali za zamike odstavkov so v nekaterih odsekih prevelike za širino strani.</translation>
     </message>
 </context>
 <context>
@@ -10495,6 +11807,137 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>Landscape</source>
         <translation>Ležeče</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageSizeCommand</name>
+    <message>
+        <source>Paper Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins, column spacing, or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageSizeModel</name>
+    <message>
+        <source>A3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tabloid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legal_CN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Letter_CN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Letter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>inch</source>
+        <translation type="unfinished">palec</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <source>point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%2 x %3%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPictureWrapTypeComboBox</name>
+    <message>
+        <source>In Line With Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPrintSetupDlg</name>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zapri</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsRecordMacroDlg</name>
+    <message>
+        <source>All Document(%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1(document)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro recorded %2 by %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name you entered is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10540,23 +11983,18 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsShowHeaderLineCommand</name>
     <message>
         <source>Show header line</source>
-        <translation>Pokaži glavo vrstice</translation>
+        <translation type="obsolete">Pokaži glavo vrstice</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShowHeaderLineModel</name>
+    <message>
+        <source>No Line</source>
+        <translation type="unfinished">Brez črte</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSmartPageNumDeletePane</name>
-    <message>
-        <source>Delete current &amp;page page numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete &amp;below pages page numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete current &amp;section page numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Delete &amp;all page numbers</source>
         <translation type="unfinished"></translation>
@@ -10566,24 +12004,36 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation>V redu</translation>
     </message>
     <message>
-        <source>Delete current page page numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete below pages page numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete current section page numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete all page numbers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation type="unfinished">Prekliči</translation>
+    </message>
+    <message>
+        <source>Delete current &amp;page&apos;s page number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete &amp;below pages&apos; page numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current &amp;section&apos;s page numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current page&apos;s page number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete below pages&apos; page numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current section&apos;s page numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10594,10 +12044,6 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Page number &amp;position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page number &amp;apply scope</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10618,23 +12064,23 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>align left</source>
-        <translation>poravnaj levo</translation>
+        <translation type="obsolete">poravnaj levo</translation>
     </message>
     <message>
         <source>align center</source>
-        <translation>poravnaj na sredino</translation>
+        <translation type="obsolete">poravnaj na sredino</translation>
     </message>
     <message>
         <source>align right</source>
-        <translation>poravnaj desno</translation>
+        <translation type="obsolete">poravnaj desno</translation>
     </message>
     <message>
         <source>align inside</source>
-        <translation>poravnava znotraj</translation>
+        <translation type="obsolete">poravnava znotraj</translation>
     </message>
     <message>
         <source>align outside</source>
-        <translation>poravnava zunaj</translation>
+        <translation type="obsolete">poravnava zunaj</translation>
     </message>
     <message>
         <source>Current page</source>
@@ -10654,7 +12100,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Page X Of y</source>
-        <translation>Stran X od y</translation>
+        <translation type="obsolete">Stran X od y</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -10670,7 +12116,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Page X Of Y</source>
-        <translation>Stran X od Y</translation>
+        <translation type="obsolete">Stran X od Y</translation>
     </message>
     <message>
         <source>Insert page number</source>
@@ -10686,7 +12132,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Page 1 Of x</source>
-        <translation>Stran 1 od x</translation>
+        <translation type="obsolete">Stran 1 od x</translation>
     </message>
     <message>
         <source>Page 2</source>
@@ -10694,7 +12140,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Page 2 Of X</source>
-        <translation>Stran 2 od X</translation>
+        <translation type="obsolete">Stran 2 od X</translation>
     </message>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
@@ -10703,6 +12149,46 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>Cancel</source>
         <translation type="unfinished">Prekliči</translation>
+    </message>
+    <message>
+        <source>Appl&amp;y to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align inside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align outside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page X of y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page X of Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 1 of x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 2 of X</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10713,13 +12199,34 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
 </context>
 <context>
-    <name>KxWpsStatusPageInfo</name>
+    <name>KxWpsSpellCheckCommand</name>
     <message>
-        <source>Page: %1/%2 Section: %3/%4</source>
+        <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Page Num: %1 Page: %2/%3 Section: %4/%5</source>
+        <source>Close</source>
+        <translation type="unfinished">Zapri</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusColumnInfoCommand</name>
+    <message>
+        <source>Column: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusPageAreaInfoCommand</name>
+    <message>
+        <source>Page: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusPageNumberInfoCommand</name>
+    <message>
+        <source>Page Num: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10727,14 +12234,46 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsStatusPositionInfo</name>
     <message>
         <source>Row: %1 Column: %2</source>
-        <translation>Vrstica: %1 Stolpec: %2</translation>
+        <translation type="obsolete">Vrstica: %1 Stolpec: %2</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusRowInfoCommand</name>
+    <message>
+        <source>Row: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusSectionInfoCommand</name>
+    <message>
+        <source>Section: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusTrackCommand</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zapri</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusWordCountInfo</name>
     <message>
         <source>Words: </source>
-        <translation>Besede:</translation>
+        <translation type="obsolete">Besede:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusWordCountInfoCommand</name>
+    <message>
+        <source>Words: </source>
+        <translation type="unfinished">Besede:</translation>
     </message>
 </context>
 <context>
@@ -10766,14 +12305,77 @@ Select the part of the contents in the document, and select the users can edit.<
     <name>KxWpsTableFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation>Brez barve</translation>
+        <translation type="obsolete">Brez barve</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">Brez polnila</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTemplateAndAddinDlg</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">V redu</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Prekliči</translation>
+    </message>
+    <message>
+        <source>Word Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Word Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Web Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attach Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Template Normal.WPT has opened to load.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full path:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
-        <translation>Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
+        <translation type="obsolete">Nastavitve usmerjenosti ne delujejo iz neznanega razloga, na primer premajhna širina stolpcev. Prosim prilagodite vaše nastavitve.</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="unfinished">Izbrane nastavitve za levi in desni rob, za razmik med stolpci ali za zamike odstavkov so v nekaterih odsekih prevelike za širino strani.</translation>
     </message>
 </context>
 <context>
@@ -10818,7 +12420,7 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Preset</source>
-        <translation>Prednastavitev</translation>
+        <translation type="obsolete">Prednastavitev</translation>
     </message>
 </context>
 <context>
@@ -10864,16 +12466,8 @@ Select the part of the contents in the document, and select the users can edit.<
 <context>
     <name>QObject</name>
     <message>
-        <source>The number input must be between 1 and 63</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You must type a character for the custom separator.</source>
         <translation>Vnesti morate znak za osebno ločilo.</translation>
-    </message>
-    <message>
-        <source>&quot;%1&quot; is already open, opening again will cause the changes made to the document be discarded, continue to open &quot;%2&quot;?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -10883,30 +12477,50 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Track</source>
         <translation>Skladba</translation>
     </message>
+    <message>
+        <source>The number input must be between 1 and 63.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 File(*.wpsx)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A macro is currently recording. Click to stop recording.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No macros is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
     <message>
-        <source>Clear Formatting(C)</source>
+        <source>&amp;Clear Formatting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>new(N)...</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;New...</source>
+        <translation type="unfinished">N&amp;ovo ...</translation>
     </message>
     <message>
-        <source>modify(M)...</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished">&amp;Spremeni ...</translation>
     </message>
 </context>
 <context>
     <name>StyleFormatPanel</name>
     <message>
-        <source>modify(M)...</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished">&amp;Spremeni ...</translation>
     </message>
     <message>
-        <source>delete(D)...</source>
+        <source>&amp;Delete...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10944,23 +12558,15 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Export Options</source>
-        <translation>Možnosti izvoza</translation>
-    </message>
-    <message>
-        <source>Summar&amp;y Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Možnosti izvoza</translation>
     </message>
     <message>
         <source>&amp;Comment</source>
-        <translation>&amp;Pripomba</translation>
+        <translation type="obsolete">&amp;Pripomba</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
         <translation>&amp;Hiperpovezava</translation>
-    </message>
-    <message>
-        <source>Li&amp;nk of footnotes and endnotes</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
@@ -10983,19 +12589,11 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation>Nastavitve dovoljenja</translation>
     </message>
     <message>
-        <source>Password to prot&amp;ect permissions settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Password:</source>
         <translation>&amp;Geslo:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note:only set password,option following can be valid on note,and protected without others on note.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11011,28 +12609,12 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission P&amp;rint:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>printPermission</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Printing not allowed</source>
         <translation>Tiskanje ni dovoljeno</translation>
     </message>
     <message>
-        <source>Print low quality only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Free Print</source>
-        <translation>Brezplačno natisni</translation>
-    </message>
-    <message>
-        <source>File Open password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Brezplačno natisni</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
@@ -11046,12 +12628,56 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>Close when e&amp;xport completes</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Možnosti izvoza</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to protect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation>Izvozi Adobe PDF datoteko</translation>
+        <translation type="obsolete">Izvozi Adobe PDF datoteko</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
@@ -11060,6 +12686,10 @@ Select the part of the contents in the document, and select the users can edit.<
     <message>
         <source>Cancel</source>
         <translation>Prekliči</translation>
+    </message>
+    <message>
+        <source>Export to Adobe PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11076,72 +12706,84 @@ Select the part of the contents in the document, and select the users can edit.<
         <translation>Vodni žig</translation>
     </message>
     <message>
-        <source>WaterMarkSetting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>p&amp;ictureWaterMark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>chose&amp;Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;horiAlign:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;vertiAlign:   </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>f&amp;ormat:</source>
-        <translation>oblik&amp;a:</translation>
-    </message>
-    <message>
-        <source>&amp;zoom:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;erosion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>te&amp;xtWaterMark</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">oblik&amp;a:</translation>
     </message>
     <message>
         <source>%</source>
         <translation type="unfinished">%</translation>
     </message>
     <message>
-        <source>conten&amp;t:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;font:</source>
-        <translation>pi&amp;sava</translation>
-    </message>
-    <message>
-        <source>font&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">pi&amp;sava</translation>
     </message>
     <message>
         <source>font&amp;Color:</source>
-        <translation>Barva pisav&amp;e:</translation>
+        <translation type="obsolete">Barva pisav&amp;e:</translation>
     </message>
     <message>
-        <source>t&amp;ransparency: </source>
+        <source>Watermark setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>preview</source>
+        <source>P&amp;icture watermark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>appl&amp;y to:</source>
+        <source>Select &amp;Picture</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ormat:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Zoom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Washout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xt watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conten&amp;t:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation type="unfinished">&amp;Velikost:</translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;ransparency:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Predogled</translation>
+    </message>
+    <message>
+        <source>Appl&amp;y to:</source>
+        <translation type="unfinished">Up&amp;orabi za:</translation>
     </message>
 </context>
 </TS>

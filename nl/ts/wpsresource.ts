@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="nl">
 <defaultcodec>UTF-8</defaultcodec>
@@ -210,8 +210,12 @@
         <translation>Opdrachtknop</translation>
     </message>
     <message>
+        <source>Control List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Controls List</source>
-        <translation>Bedieningslijst</translation>
+        <translation type="obsolete">Bedieningslijst</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -226,8 +230,12 @@
         <translation>Label</translation>
     </message>
     <message>
+        <source>List Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>List Button</source>
-        <translation>Lijst Knop</translation>
+        <translation type="obsolete">Lijst Knop</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -413,8 +421,12 @@
         <translation>Boven Uitlijnen</translation>
     </message>
     <message>
+        <source>Align or Distribute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align/Distribute/Equalize</source>
-        <translation>Uitluinen/Verspreiden/Gelijkmaken</translation>
+        <translation type="obsolete">Uitluinen/Verspreiden/Gelijkmaken</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -470,7 +482,11 @@
     </message>
     <message>
         <source>Auto Shapes</source>
-        <translation>Autovormen</translation>
+        <translation type="obsolete">Autovormen</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -493,12 +509,16 @@
         <translation>Streepje</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Streep-punt</translation>
+        <translation type="obsolete">Streep-punt</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -521,16 +541,24 @@
         <translation>Punten bewerken</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -570,7 +598,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontaal</translation>
+        <translation type="obsolete">Horizontaal</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -597,24 +629,36 @@
         <translation>Links</translation>
     </message>
     <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Color</source>
         <translation>Lijnkleur</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation>Lijnen</translation>
+        <translation type="obsolete">Lijnen</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <translation>Lange Streep</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Lange Streep-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Lange Streep-Punt-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -654,7 +698,7 @@
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Object selecteren</translation>
+        <translation type="obsolete">Object selecteren</translation>
     </message>
     <message>
         <source>Order</source>
@@ -689,8 +733,12 @@
         <translation>90° Rechtsom Draaien</translation>
     </message>
     <message>
+        <source>Rotate or Flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rotate/Flip</source>
-        <translation>Draai</translation>
+        <translation type="obsolete">Draai</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -721,12 +769,16 @@
         <translation>AutoShape Standaarden Instellen</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Settings</source>
         <translation>Schaduw Instellingen</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduwstijl</translation>
+        <translation type="obsolete">Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -822,7 +874,7 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Through</source>
@@ -846,18 +898,30 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikaal</translation>
+        <translation type="obsolete">Vertikaal</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weight</source>
         <translation>Dikte</translation>
     </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
     <message>
+        <source>1.5 Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>1.5 lines</source>
-        <translation>1.5 Lijnen</translation>
+        <translation type="obsolete">1.5 Lijnen</translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -877,15 +941,23 @@
     </message>
     <message>
         <source>Double</source>
-        <translation>Dubbel</translation>
+        <translation type="obsolete">Dubbel</translation>
+    </message>
+    <message>
+        <source>Double Space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
         <translation>Dubbel Doorhalen</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Emphasis mark</source>
-        <translation>Nadruk Teken</translation>
+        <translation type="obsolete">Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -897,7 +969,11 @@
     </message>
     <message>
         <source>Single</source>
-        <translation>Enkel</translation>
+        <translation type="obsolete">Enkel</translation>
+    </message>
+    <message>
+        <source>Single Space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -1008,7 +1084,11 @@
     </message>
     <message>
         <source>Styles Window</source>
-        <translation>Stijlvenster</translation>
+        <translation type="obsolete">Stijlvenster</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1019,34 +1099,58 @@
     </message>
     <message>
         <source>Number</source>
-        <translation>Nummer</translation>
+        <translation type="obsolete">Nummer</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>classics.forms</name>
     <message>
+        <source>Check Box Form Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check box Form Field</source>
-        <translation>Selectievakje Formulierveld</translation>
+        <translation type="obsolete">Selectievakje Formulierveld</translation>
+    </message>
+    <message>
+        <source>Drop-Down Form Field</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drop-down Form Field</source>
-        <translation>Selectielijst Formulierveld</translation>
+        <translation type="obsolete">Selectielijst Formulierveld</translation>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Formulierveld Optie</translation>
+        <translation type="obsolete">Formulierveld Optie</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Form Field Shading</source>
         <translation>Formulierveld Schaduw</translation>
     </message>
     <message>
+        <source>Protect Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Protection Form</source>
-        <translation>Beveilig Formulier</translation>
+        <translation type="obsolete">Beveilig Formulier</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Formulierveld Herstellen</translation>
+        <translation type="obsolete">Formulierveld Herstellen</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -1072,11 +1176,23 @@
     </message>
     <message>
         <source>Insert Auto Text</source>
-        <translation>Voeg Auto Tekst In</translation>
+        <translation type="obsolete">Voeg Auto Tekst In</translation>
+    </message>
+    <message>
+        <source>Insert AutoText</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Date</source>
         <translation>Voeg Datum In</translation>
+    </message>
+    <message>
+        <source>Insert Number of Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Page Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Time</source>
@@ -1092,11 +1208,11 @@
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>Aantal Pagina&apos;s</translation>
+        <translation type="obsolete">Aantal Pagina&apos;s</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Paginanummer</translation>
+        <translation type="obsolete">Paginanummer</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -1112,7 +1228,11 @@
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>Vorige Header</translation>
+        <translation type="obsolete">Vorige Header</translation>
+    </message>
+    <message>
+        <source>Show Previous</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
@@ -1164,13 +1284,13 @@
     <message>
         <source>Merge
 to Email</source>
-        <translation>Samenvoegen
+        <translation type="obsolete">Samenvoegen
 naar Email</translation>
     </message>
     <message>
         <source>Merge to
 Different New Document</source>
-        <translation>Samenvoegen naar
+        <translation type="obsolete">Samenvoegen naar
 Ander Nieuw Document</translation>
     </message>
     <message>
@@ -1204,7 +1324,7 @@ Ander Nieuw Document</translation>
     <message>
         <source>View
 Merged Data</source>
-        <translation>Bekijk
+        <translation type="obsolete">Bekijk
 Samengevoegde Data</translation>
     </message>
     <message>
@@ -1215,8 +1335,12 @@ Samengevoegde Data</translation>
 <context>
     <name>classics.outlining</name>
     <message>
+        <source>Go to TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to ToC</source>
-        <translation>Ga naar Inhoudstabel</translation>
+        <translation type="obsolete">Ga naar Inhoudstabel</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -1239,6 +1363,10 @@ Samengevoegde Data</translation>
         <translation>Toon enkel eerste lijn</translation>
     </message>
     <message>
+        <source>Show Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Level</source>
         <translation>Toon Niveau</translation>
     </message>
@@ -1248,11 +1376,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Show Text Formatting</source>
-        <translation>Toon Tekstopmaak</translation>
+        <translation type="obsolete">Toon Tekstopmaak</translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Wijzig Inhoudstabel</translation>
+        <translation type="obsolete">Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
@@ -1379,7 +1511,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Through</source>
@@ -1400,6 +1532,10 @@ Samengevoegde Data</translation>
     <message>
         <source>Weight</source>
         <translation>Dikte</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1453,7 +1589,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation>Wijzigingsvoorstellen Weergeven</translation>
+        <translation type="obsolete">Wijzigingsvoorstellen Weergeven</translation>
+    </message>
+    <message>
+        <source>Display for Review</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final</source>
@@ -1489,7 +1629,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Reject Change / Delete Comment</source>
-        <translation>Verwerp Wijziging / Verwijder Opmerking</translation>
+        <translation type="obsolete">Verwerp Wijziging / Verwijder Opmerking</translation>
+    </message>
+    <message>
+        <source>Reject Change/Delete Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reject Selected Comment</source>
@@ -1512,8 +1656,12 @@ Samengevoegde Data</translation>
         <translation>Toon Revisies in Ballonnen</translation>
     </message>
     <message>
+        <source>Show Revisor Information in Balloons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation>Toon de Revisor Informatie in de Ballon</translation>
+        <translation type="obsolete">Toon de Revisor Informatie in de Ballon</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1531,6 +1679,22 @@ Samengevoegde Data</translation>
         <translation>Meer Schaduwkleuren</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Semitransparent Shadow</source>
         <translation>Semitransparante Schaduw</translation>
     </message>
@@ -1544,19 +1708,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Verschuif Schaduw Omlaag</translation>
+        <translation type="obsolete">Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Verschuif Schaduw naar Links</translation>
+        <translation type="obsolete">Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Shuif Schaduw naar Rechts</translation>
+        <translation type="obsolete">Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Schuif Schaduw Omhoog</translation>
+        <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
 </context>
 <context>
@@ -1587,7 +1751,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
-        <translation>Enterprise Microblogging</translation>
+        <translation type="obsolete">Enterprise Microblogging</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1595,15 +1759,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Uitgebreid Plakken Opgemaakte Tekst</translation>
+        <translation type="obsolete">Uitgebreid Plakken Opgemaakte Tekst</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Uitgebreid Plakken Zelfde Opmaak</translation>
+        <translation type="obsolete">Uitgebreid Plakken Zelfde Opmaak</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Tekst Uitgebreid Plakken</translation>
+        <translation type="obsolete">Tekst Uitgebreid Plakken</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -1616,6 +1780,10 @@ Samengevoegde Data</translation>
     <message>
         <source>Format Painter</source>
         <translation>Opmaak Kopiëren/Plakken</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1631,7 +1799,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Homepage</translation>
+        <translation type="obsolete">Homepage</translation>
     </message>
     <message>
         <source>Insert Horizontal Blank Page</source>
@@ -1650,12 +1818,24 @@ Samengevoegde Data</translation>
         <translation>Voeg Witte Pagina Verticaal in</translation>
     </message>
     <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Max</source>
         <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
         <translation>Min</translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -1675,15 +1855,23 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Show / Hide Editing Marks</source>
-        <translation>Toon/Verberg Opmaaksymbolen</translation>
+        <translation type="obsolete">Toon/Verberg Opmaaksymbolen</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Toon / Verberg Paragraafopmaak</translation>
+        <translation type="obsolete">Toon / Verberg Paragraafopmaak</translation>
     </message>
     <message>
         <source>Show Document Map</source>
         <translation>Toon Navigatievenster</translation>
+    </message>
+    <message>
+        <source>Show/Hide Editing Marks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1692,6 +1880,14 @@ Samengevoegde Data</translation>
     <message>
         <source>Switch Language</source>
         <translation>Wijzig taal</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1733,11 +1929,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>Cellen</translation>
+        <translation type="obsolete">Cellen</translation>
+    </message>
+    <message>
+        <source>Cells@Table-&gt;Insert</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Kolommen</translation>
+        <translation type="obsolete">Kolommen</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
@@ -1746,6 +1946,18 @@ Samengevoegde Data</translation>
     <message>
         <source>Columns to the Right</source>
         <translation>Kolommen Naar Rechts</translation>
+    </message>
+    <message>
+        <source>Delete Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -1780,8 +1992,12 @@ Samengevoegde Data</translation>
         <translation>Lijnstijl</translation>
     </message>
     <message>
+        <source>Line Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Width</source>
-        <translation>Lijndikte</translation>
+        <translation type="obsolete">Lijndikte</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1805,7 +2021,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Rijen</translation>
+        <translation type="obsolete">Rijen</translation>
     </message>
     <message>
         <source>Rows Above</source>
@@ -1891,11 +2107,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Onderkant (Curve)</translation>
+        <translation type="obsolete">Onderkant (Curve)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Onderkant (Stroom)</translation>
+        <translation type="obsolete">Onderkant (Stroom)</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Pour)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -1914,8 +2138,12 @@ Samengevoegde Data</translation>
         <translation>Waterval Omhoog</translation>
     </message>
     <message>
+        <source>Center Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center Alignment</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation type="obsolete">Midden Uitlijnen</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -2022,8 +2250,12 @@ Samengevoegde Data</translation>
         <translation>WordArt Invoegen</translation>
     </message>
     <message>
+        <source>Left Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left Alignment</source>
-        <translation>Links Uitlijnen</translation>
+        <translation type="obsolete">Links Uitlijnen</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -2042,8 +2274,12 @@ Samengevoegde Data</translation>
         <translation>Tekst zonder opmaak</translation>
     </message>
     <message>
+        <source>Right Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Right Alignment</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation type="obsolete">Rechts Uitlijnen</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -2075,7 +2311,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Through</source>
@@ -2083,7 +2319,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Contour</translation>
+        <translation type="obsolete">Contour</translation>
+    </message>
+    <message>
+        <source>Tight@Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight@Wrapping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2141,12 +2385,24 @@ Samengevoegde Data</translation>
         <source>WordArt Vertical Text</source>
         <translation>WordArt Vertikale Tekst</translation>
     </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
         <translation>Aangepaste Werkbalk</translation>
+    </message>
+    <message>
+        <source>Menu Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar Commands</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2165,19 +2421,24 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Rand en schaduw</translation>
+        <translation type="obsolete">Rand en schaduw</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
         <translation>Onderrand</translation>
     </message>
     <message>
-        <source>Clear Table Style</source>
-        <translation>Tabelstijl wissen</translation>
+        <source>Clear
+Table Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cross Border</source>
-        <translation></translation>
+        <source>Clear Table Style</source>
+        <translation type="obsolete">Tabelstijl wissen</translation>
     </message>
     <message>
         <source>Draw
@@ -2187,26 +2448,26 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation type="obsolete">Teken Diagonale Lijn In Cel</translation>
-    </message>
-    <message>
-        <source>Draw MutidiagonalCell</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teken Diagonale Lijn In Cel</translation>
     </message>
     <message>
         <source>Draw Table</source>
         <translation>Teken Tabel</translation>
     </message>
     <message>
-        <source>DrawMutidiagonalCell</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Eraser</source>
         <translation>Gom</translation>
     </message>
     <message>
-        <source>Horizontal Middle Border</source>
+        <source>Inside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2218,8 +2479,12 @@ Diagonale Lijn in Cel</translation>
         <translation>Lijn Stijl</translation>
     </message>
     <message>
+        <source>Line Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Width</source>
-        <translation>Lijn Dikte</translation>
+        <translation type="obsolete">Lijn Dikte</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2259,30 +2524,30 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="obsolete">Tabel Stijlen</translation>
+        <translation type="unfinished">Tabel Stijlen</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation>Tabelstijl</translation>
+        <translation type="obsolete">Tabelstijl</translation>
     </message>
     <message>
         <source>Top Border</source>
         <translation>Bovenrand</translation>
-    </message>
-    <message>
-        <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_developtools</name>
     <message>
         <source> Add-Ins</source>
-        <translation> Invoegtoepassingen</translation>
+        <translation type="obsolete"> Invoegtoepassingen</translation>
     </message>
     <message>
         <source>Add-Ins</source>
         <translation>Invoegtoepassingen</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2301,6 +2566,11 @@ Diagonale Lijn in Cel</translation>
         <translation>Opdrachtknop</translation>
     </message>
     <message>
+        <source>Control 
+Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Control List</source>
         <translation>Bedieningslijst</translation>
     </message>
@@ -2310,15 +2580,20 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>ControlProperties</source>
-        <translation>Bedieningseigenschappen</translation>
+        <translation type="obsolete">Bedieningseigenschappen</translation>
     </message>
     <message>
         <source>Design Mode</source>
         <translation>Ontwerpmodus</translation>
     </message>
     <message>
+        <source>Exit
+Design Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Exit Design Mode</source>
-        <translation>Verlaat Ontwerpmodus</translation>
+        <translation type="obsolete">Verlaat Ontwerpmodus</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2329,8 +2604,12 @@ Diagonale Lijn in Cel</translation>
         <translation>Label</translation>
     </message>
     <message>
+        <source>List Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>List Button</source>
-        <translation>Lijst Knop</translation>
+        <translation type="obsolete">Lijst Knop</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -2343,6 +2622,10 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Option Button</source>
         <translation>Opties Knop</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -2369,8 +2652,13 @@ Diagonale Lijn in Cel</translation>
         <translation>Bekijk Code</translation>
     </message>
     <message>
+        <source>Visual Basic
+Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Visual Basic Editor</source>
-        <translation>Visual Basic Editor</translation>
+        <translation type="obsolete">Visual Basic Editor</translation>
     </message>
 </context>
 <context>
@@ -2550,8 +2838,12 @@ Aan</translation>
         <translation>Naar Voorkant</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Gecentreerd</translation>
+        <translation type="obsolete">Gecentreerd</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -2562,16 +2854,20 @@ Aan</translation>
         <translation>Streepje</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation type="obsolete">Punt-Streep</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -2590,20 +2886,36 @@ Aan</translation>
         <translation>Bewerk Punten</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>EmphasisMark</source>
-        <translation>Accent</translation>
+        <translation type="obsolete">Accent</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2619,7 +2931,7 @@ Aan</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Lettertype Kleur</translation>
+        <translation type="obsolete">Lettertype Kleur</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -2639,7 +2951,11 @@ Aan</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -2667,7 +2983,7 @@ Aan</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Horizontaal Tekstvak</translation>
+        <translation type="obsolete">Horizontaal Tekstvak</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -2698,12 +3014,20 @@ Aan</translation>
         <translation>Lange Streep</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Lange Streep-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Lange Streep-Punt-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>More</source>
@@ -2744,6 +3068,10 @@ Aan</translation>
     <message>
         <source>Next Text Box</source>
         <translation>Volgende Tekstvak</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2798,16 +3126,25 @@ Aan</translation>
         <translation>Naar Achterkant</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On</source>
-        <translation>Schaduw Aan/Uit</translation>
+        <translation type="obsolete">Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Afbeeldingsinhoud</translation>
+        <translation type="obsolete">Afbeeldingsinhoud</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Omlijning van Vorm</translation>
+        <translation type="obsolete">Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -2835,19 +3172,32 @@ Aan</translation>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation>Doorhalen</translation>
+        <translation type="obsolete">Doorhalen</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Box</source>
         <translation>Tekstvak</translation>
     </message>
     <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Direction</source>
-        <translation>Tekstrichting</translation>
+        <translation type="obsolete">Tekstrichting</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -2883,38 +3233,62 @@ Aan</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>Verticaal Tekstvak</translation>
+        <translation type="obsolete">Verticaal Tekstvak</translation>
     </message>
     <message>
         <source>Weight</source>
         <translation>Dikte</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>Info over Kingsoft Writer</translation>
+        <translation type="obsolete">Info over Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation>Backupbeheer</translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>Versie wijzigen</translation>
     </message>
     <message>
+        <source>Check for Updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Create CloudLink</source>
-        <translation>CloudLink aanmaken</translation>
+        <translation type="obsolete">CloudLink aanmaken</translation>
     </message>
     <message>
         <source>Create CloudLink Title</source>
-        <translation>Maak CloudLink Titel</translation>
+        <translation type="obsolete">Maak CloudLink Titel</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -2922,7 +3296,11 @@ Aan</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Encryptie</translation>
+        <translation type="obsolete">Encryptie</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -2930,7 +3308,15 @@ Aan</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation type="obsolete">Feedback</translation>
+    </message>
+    <message>
+        <source>Feedback and Product Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Information</source>
@@ -2938,47 +3324,55 @@ Aan</translation>
     </message>
     <message>
         <source>File Menu Help</source>
-        <translation>Help</translation>
+        <translation type="obsolete">Help</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help Title</source>
-        <translation>Help Titel</translation>
+        <translation type="obsolete">Help Titel</translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation>Kingsoft BBS</translation>
+        <translation type="obsolete">Kingsoft BBS</translation>
     </message>
     <message>
         <source>Kingsoft Facebook</source>
-        <translation>Kingsoft Facebook</translation>
+        <translation type="obsolete">Kingsoft Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>Kingsoft Office Community</translation>
+        <translation type="obsolete">Kingsoft Office Community</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>Kingsoft Office Facebook</translation>
+        <translation type="obsolete">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Kingsoft Office Homepage</translation>
+        <translation type="obsolete">Kingsoft Office Homepage</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
-        <translation>Kingsoft Writer Document</translation>
+        <translation type="obsolete">Kingsoft Writer Document</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
-        <translation>Kingsoft Writer Sjabloon</translation>
+        <translation type="obsolete">Kingsoft Writer Sjabloon</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation>KingsoftOffice</translation>
+        <translation type="obsolete">KingsoftOffice</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation>Microsoft Word 97-2003 document</translation>
+        <translation type="obsolete">Microsoft Word 97-2003 document</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -3006,11 +3400,15 @@ Aan</translation>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Nieuw van Locaal Sjabloon</translation>
+        <translation type="obsolete">Nieuw van Locaal Sjabloon</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
         <translation>Nieuw van Online Sjabloon</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -3018,7 +3416,7 @@ Aan</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>Open vanuit Klive</translation>
+        <translation type="obsolete">Open vanuit Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -3034,7 +3432,7 @@ Aan</translation>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>Product Centrum</translation>
+        <translation type="obsolete">Product Centrum</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -3062,11 +3460,15 @@ Aan</translation>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation>Sla Op Naar Klive</translation>
+        <translation type="obsolete">Sla Op Naar Klive</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
         <translation>Sla een Kopie van het Documen Op</translation>
+    </message>
+    <message>
+        <source>Seek Help via Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -3082,18 +3484,58 @@ Aan</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Update Online</translation>
+        <translation type="obsolete">Update Online</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Forum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation>WPS Nieuwe Functies</translation>
+        <translation type="obsolete">WPS Nieuwe Functies</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Kingsoft Writer Hulp</translation>
+        <translation type="obsolete">Kingsoft Writer Hulp</translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3104,7 +3546,11 @@ Aan</translation>
     </message>
     <message>
         <source>Auto Text</source>
-        <translation>Autotekst</translation>
+        <translation type="obsolete">Autotekst</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -3116,19 +3562,37 @@ Aan</translation>
     </message>
     <message>
         <source>Date / Time</source>
-        <translation>Datum / Tijd</translation>
+        <translation type="obsolete">Datum / Tijd</translation>
+    </message>
+    <message>
+        <source>Date and
+Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
         <translation>Velden</translation>
     </message>
     <message>
+        <source>Header Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer
+Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header&amp;Footer  Options</source>
-        <translation>Header&amp;Footer Opties</translation>
+        <translation type="obsolete">Header&amp;Footer Opties</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -3143,20 +3607,39 @@ Aan</translation>
         <translation>Afbeelding invoegen</translation>
     </message>
     <message>
+        <source>Link to
+Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Link to Previous</source>
-        <translation>Koppel aan Vorige</translation>
+        <translation type="obsolete">Koppel aan Vorige</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Navigation</source>
         <translation>Navigatie</translation>
     </message>
     <message>
+        <source>Next
+Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Header</source>
-        <translation>Volgende Header</translation>
+        <translation type="obsolete">Volgende Header</translation>
+    </message>
+    <message>
+        <source>Page
+Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Paginanummer</translation>
+        <translation type="obsolete">Paginanummer</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -3171,12 +3654,26 @@ Aan</translation>
         <translation>Afbeelding</translation>
     </message>
     <message>
+        <source>Previous
+Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Previous Header</source>
-        <translation>Vorige Header</translation>
+        <translation type="obsolete">Vorige Header</translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch between
+Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>Wissel Tussen Header en Footer</translation>
+        <translation type="obsolete">Wissel Tussen Header en Footer</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
@@ -3263,7 +3760,11 @@ Aan</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Rand en schaduw</translation>
+        <translation type="obsolete">Rand en schaduw</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -3274,8 +3775,16 @@ Aan</translation>
         <translation>Opsommingstekens</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Gecentreerd</translation>
+        <translation type="obsolete">Gecentreerd</translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -3307,7 +3816,7 @@ Aan</translation>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Omzetten Hoofdletters/Kleine Letters</translation>
+        <translation type="obsolete">Omzetten Hoofdletters/Kleine Letters</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3315,7 +3824,7 @@ Aan</translation>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation>Over Randen</translation>
+        <translation type="obsolete">Over Randen</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -3327,7 +3836,7 @@ Aan</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -3338,8 +3847,12 @@ Aan</translation>
         <translation>Bewerken</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Emphasis mark</source>
-        <translation>Nadruk Teken</translation>
+        <translation type="obsolete">Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -3351,23 +3864,28 @@ Aan</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Uitgebreid Plakken Opgemaakte Tekst</translation>
+        <translation type="obsolete">Uitgebreid Plakken Opgemaakte Tekst</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Uitgebreid Plakken Zelfde Opmaak</translation>
+        <translation type="obsolete">Uitgebreid Plakken Zelfde Opmaak</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Tekst Uitgebreid Plakken</translation>
+        <translation type="obsolete">Tekst Uitgebreid Plakken</translation>
     </message>
     <message>
         <source>Find</source>
         <translation>Zoeken</translation>
     </message>
     <message>
+        <source>Find and 
+Replace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find/Replace</source>
-        <translation>Zoeken/Vervangen</translation>
+        <translation type="obsolete">Zoeken/Vervangen</translation>
     </message>
     <message>
         <source>Font</source>
@@ -3375,7 +3893,7 @@ Aan</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Lettertype Kleur</translation>
+        <translation type="obsolete">Lettertype Kleur</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -3392,8 +3910,17 @@ Painter</source>
 Kopiëren/Plakken</translation>
     </message>
     <message>
+        <source>Format 
+Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Painter</source>
-        <translation>Opmaak Kopiëren/Plakken</translation>
+        <translation type="obsolete">Opmaak Kopiëren/Plakken</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to</source>
@@ -3409,15 +3936,27 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Home Object Select</source>
-        <translation>Thuisobject Selecteren</translation>
+        <translation type="obsolete">Thuisobject Selecteren</translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation>Horizontale Middenrand</translation>
+        <translation type="obsolete">Horizontale Middenrand</translation>
     </message>
     <message>
         <source>Increase Indent</source>
         <translation>Vergroot Inspringing</translation>
+    </message>
+    <message>
+        <source>Inside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3434,6 +3973,10 @@ Kopiëren/Plakken</translation>
     <message>
         <source>Line Spacing</source>
         <translation>Regelafstand</translation>
+    </message>
+    <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
@@ -3460,8 +4003,13 @@ Kopiëren/Plakken</translation>
         <translation>Meer Onderlijnen</translation>
     </message>
     <message>
+        <source>New 
+Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Style</source>
-        <translation>Nieuwe Stijl</translation>
+        <translation type="obsolete">Nieuwe Stijl</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -3469,7 +4017,7 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Buitenste rand</translation>
+        <translation type="obsolete">Buitenste rand</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -3525,23 +4073,39 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">Selectievenster</translation>
+        <translation type="unfinished">Selectievenster</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
         <translation>Standaard Plakken Instellen</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shading Color</source>
-        <translation>Schaduwkleur</translation>
+        <translation type="obsolete">Schaduwkleur</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>Toon / Verberg Wijzigingsaanduidingen</translation>
+        <translation type="obsolete">Toon / Verberg Wijzigingsaanduidingen</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Toon / Verberg Paragraafopmaak</translation>
+        <translation type="obsolete">Toon / Verberg Paragraafopmaak</translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Marks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -3553,11 +4117,19 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stijl</translation>
+        <translation type="obsolete">Stijl</translation>
+    </message>
+    <message>
+        <source>Styles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Stijlen / Opmaak</translation>
+        <translation type="obsolete">Stijlen / Opmaak</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -3570,6 +4142,10 @@ Kopiëren/Plakken</translation>
     <message>
         <source>Tabs</source>
         <translation>Tabbladen</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -3588,8 +4164,12 @@ Kopiëren/Plakken</translation>
         <translation>Onderlijnkleur</translation>
     </message>
     <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical Middle Border</source>
-        <translation>Verticale Middenrand</translation>
+        <translation type="obsolete">Verticale Middenrand</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -3604,18 +4184,30 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Nummer</translation>
+        <translation type="obsolete">Nummer</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_insert</name>
     <message>
+        <source>AutoShape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Blank Page</source>
         <translation>Lege Pagina</translation>
     </message>
     <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bookmarks</source>
-        <translation>Bladwijzers</translation>
+        <translation type="obsolete">Bladwijzers</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -3643,7 +4235,7 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>Opmerkingen</translation>
+        <translation type="obsolete">Opmerkingen</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -3663,11 +4255,15 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Custom Shape</source>
-        <translation>Aangepaste Afbeelding</translation>
+        <translation type="obsolete">Aangepaste Afbeelding</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Datum/Tijd</translation>
+        <translation type="obsolete">Datum/Tijd</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -3703,7 +4299,11 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Formulierveld Optie</translation>
+        <translation type="obsolete">Formulierveld Optie</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -3714,12 +4314,25 @@ Kopiëren/Plakken</translation>
         <translation>Formulier</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gallery</source>
         <translation>Gallerij</translation>
     </message>
     <message>
+        <source>Header and 
+Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3727,7 +4340,7 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Horizontal Blank Page</source>
-        <translation>Horizontaal Witte Pagina</translation>
+        <translation type="obsolete">Horizontaal Witte Pagina</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -3747,15 +4360,27 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation>Afbeelding uit Bestand toevoegen</translation>
+        <translation type="obsolete">Afbeelding uit Bestand toevoegen</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation>Afbeelding uit Scan Toevoegen</translation>
+        <translation type="obsolete">Afbeelding uit Scan Toevoegen</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation>Scan Invoegen</translation>
+        <translation type="obsolete">Scan Invoegen</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text from File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Watermark</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -3786,12 +4411,22 @@ Kopiëren/Plakken</translation>
         <translation>Oneven-pagina-einde</translation>
     </message>
     <message>
+        <source>Page
+Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
-        <translation>Pagina-einde</translation>
+        <translation type="obsolete">Pagina-einde</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Paginanummer</translation>
+        <translation type="obsolete">Paginanummer</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -3811,7 +4446,11 @@ Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Formulierveld Herstellen</translation>
+        <translation type="obsolete">Formulierveld Herstellen</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -3820,7 +4459,7 @@ Kopiëren/Plakken</translation>
     <message>
         <source>Sym
 bol</source>
-        <translation>Symbool</translation>
+        <translation type="obsolete">Symbool</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -3856,15 +4495,19 @@ bol</source>
     </message>
     <message>
         <source>Text from File</source>
-        <translation>Tekst Uit Bestand</translation>
+        <translation type="obsolete">Tekst Uit Bestand</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical Blank Page</source>
-        <translation>Verticaal Witte Pagina</translation>
+        <translation type="obsolete">Verticaal Witte Pagina</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>Verticaal Tekstvak</translation>
+        <translation type="obsolete">Verticaal Tekstvak</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -3902,8 +4545,12 @@ bol</source>
         <translation>Markeer Samenvoegvelden</translation>
     </message>
     <message>
+        <source>Insert Merge Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Merge Fields</source>
-        <translation>Samenvoegvelden Invoegen</translation>
+        <translation type="obsolete">Samenvoegvelden Invoegen</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
@@ -3924,13 +4571,13 @@ bol</source>
     <message>
         <source>Merge
 to Email</source>
-        <translation>Samenvoegen
+        <translation type="obsolete">Samenvoegen
 naar Email</translation>
     </message>
     <message>
         <source>Merge to
 Different New Document</source>
-        <translation>Samenvoegen naar
+        <translation type="obsolete">Samenvoegen naar
 Ander Nieuw Document</translation>
     </message>
     <message>
@@ -3959,7 +4606,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>Bekijk Resultaat</translation>
+        <translation type="obsolete">Bekijk Resultaat</translation>
+    </message>
+    <message>
+        <source>Preview Results</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -3997,12 +4648,20 @@ Ander Nieuw Document</translation>
         <translation>Verlaag naar Tekstlichaam</translation>
     </message>
     <message>
+        <source>Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Expand</source>
         <translation>Uitvouwen</translation>
     </message>
     <message>
+        <source>Go to TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to ToC</source>
-        <translation>Ga naar Inhoudstabel</translation>
+        <translation type="obsolete">Ga naar Inhoudstabel</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -4010,11 +4669,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>Ga Omlaag</translation>
+        <translation type="obsolete">Ga Omlaag</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Ga Omhoog</translation>
+        <translation type="obsolete">Ga Omhoog</translation>
     </message>
     <message>
         <source>Outline Level</source>
@@ -4049,8 +4708,16 @@ Ander Nieuw Document</translation>
         <translation>Toon Niveau 1;Toon Niveau 2;Toon Niveau 3;Toon Niveau 4;Toon Niveau 5;Toon Niveau 6;Toon Niveau 7;Toon Niveau 8;Toon Niveau 9;Toon alle niveaus</translation>
     </message>
     <message>
+        <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update ToC</source>
-        <translation>Wijzig Inhoudstabel</translation>
+        <translation type="obsolete">Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
@@ -4128,8 +4795,12 @@ Ander Nieuw Document</translation>
         <translation>Doorlopende Sectie-einde</translation>
     </message>
     <message>
+        <source>Custom Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4144,12 +4815,20 @@ Ander Nieuw Document</translation>
         <translation>Toon Regelnummers niet voor Lege Regels</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -4157,7 +4836,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4177,7 +4856,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -4220,6 +4903,10 @@ Ander Nieuw Document</translation>
         <translation>Meer Opvulkleuren</translation>
     </message>
     <message>
+        <source>More Paper Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Page Section Break</source>
         <translation>Sectie-einde Op Volgende Pagina</translation>
     </message>
@@ -4240,20 +4927,35 @@ Ander Nieuw Document</translation>
         <translation>Oriëntering</translation>
     </message>
     <message>
+        <source>Page
+Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Background</source>
         <translation>Pagina Achtergrond</translation>
     </message>
     <message>
         <source>Page Border</source>
-        <translation>Paginarand</translation>
+        <translation type="obsolete">Paginarand</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-einde</translation>
+        <translation type="obsolete">Pagina-einde</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Paginakleur</translation>
+        <translation type="obsolete">Paginakleur</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4297,7 +4999,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Rotate Style</source>
-        <translation>Rotatiestijl</translation>
+        <translation type="obsolete">Rotatiestijl</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -4313,7 +5015,15 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Naar Achterkant</translation>
+        <translation type="obsolete">Naar Achterkant</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size</source>
@@ -4328,8 +5038,13 @@ Ander Nieuw Document</translation>
         <translation>Onderdruk voor Huidige Paragraaf</translation>
     </message>
     <message>
+        <source>Text
+Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Direction</source>
-        <translation>Tekstrichting</translation>
+        <translation type="obsolete">Tekstrichting</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -4337,7 +5052,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -4371,6 +5086,10 @@ Ander Nieuw Document</translation>
         <source>Ungroup</source>
         <translation>Degroepeer</translation>
     </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_paragraph</name>
@@ -4395,8 +5114,12 @@ Ander Nieuw Document</translation>
         <translation>Opsommingstekens</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Gecentreerd</translation>
+        <translation type="obsolete">Gecentreerd</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
@@ -4411,20 +5134,28 @@ Ander Nieuw Document</translation>
         <translation>Sluiten</translation>
     </message>
     <message>
+        <source>Demote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Demote to Body Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Demote to Common Text</source>
-        <translation>Verlaag naar Normale Tekst</translation>
+        <translation type="obsolete">Verlaag naar Normale Tekst</translation>
     </message>
     <message>
         <source>Demote to Level</source>
-        <translation>Verlaag naar Niveau</translation>
+        <translation type="obsolete">Verlaag naar Niveau</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Directory Level</source>
-        <translation>Directory Niveau</translation>
+        <translation type="obsolete">Directory Niveau</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -4476,7 +5207,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Line Space</source>
-        <translation>Regelafstand</translation>
+        <translation type="obsolete">Regelafstand</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -4488,7 +5219,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Loose Line Spacing</source>
-        <translation>Ruime Regelafstand</translation>
+        <translation type="obsolete">Ruime Regelafstand</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -4500,7 +5231,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation>Meer Onderlijnkleuren</translation>
+        <translation type="obsolete">Meer Onderlijnkleuren</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -4519,16 +5254,32 @@ Ander Nieuw Document</translation>
         <translation>Paragraaf</translation>
     </message>
     <message>
+        <source>Promote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Promote to Level</source>
-        <translation>Opwaarderen naar Niveau</translation>
+        <translation type="obsolete">Opwaarderen naar Niveau</translation>
+    </message>
+    <message>
+        <source>Promote to Level 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Promote to ToC 1</source>
-        <translation>Promoveer tot Inhoudstabel 1</translation>
+        <translation type="obsolete">Promoveer tot Inhoudstabel 1</translation>
+    </message>
+    <message>
+        <source>Reduce Line Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reduced Line Spacing</source>
-        <translation>Verminderde Regelafstand</translation>
+        <translation type="obsolete">Verminderde Regelafstand</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -4540,7 +5291,15 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Stijlen / Opmaak</translation>
+        <translation type="obsolete">Stijlen / Opmaak</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight</source>
@@ -4548,15 +5307,19 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation>Kleine Regelafstand</translation>
+        <translation type="obsolete">Kleine Regelafstand</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation>Onderlijnkleur</translation>
+        <translation type="obsolete">Onderlijnkleur</translation>
     </message>
     <message>
         <source>Underline</source>
         <translation>Onderstrepen</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4567,7 +5330,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Nummer</translation>
+        <translation type="obsolete">Nummer</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4607,6 +5374,10 @@ Ander Nieuw Document</translation>
     <message>
         <source>6 pt</source>
         <translation>6 pt</translation>
+    </message>
+    <message>
+        <source>Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Align</source>
@@ -4665,8 +5436,13 @@ Ander Nieuw Document</translation>
         <translation>Naar Voorkant</translation>
     </message>
     <message>
+        <source>Change
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Picture</source>
-        <translation>Afbeelding Wijzigen</translation>
+        <translation type="obsolete">Afbeelding Wijzigen</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4677,8 +5453,13 @@ Ander Nieuw Document</translation>
         <translation>Kleur</translation>
     </message>
     <message>
+        <source>Compress
+Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
-        <translation>Afbeeldingen Comprimeren</translation>
+        <translation type="obsolete">Afbeeldingen Comprimeren</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -4689,16 +5470,20 @@ Ander Nieuw Document</translation>
         <translation>Streepje</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Streep-punt</translation>
+        <translation type="obsolete">Streep-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4719,6 +5504,10 @@ Ander Nieuw Document</translation>
     <message>
         <source>Even Width</source>
         <translation>Gelijke Breedte</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4742,7 +5531,11 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4773,6 +5566,11 @@ Ander Nieuw Document</translation>
         <translation>Invoegen</translation>
     </message>
     <message>
+        <source>Insert
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Clip Art</source>
         <translation>Clip Art Invoegen</translation>
     </message>
@@ -4782,7 +5580,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>InsertPicture</source>
-        <translation>AfbeeldingInvoegen</translation>
+        <translation type="obsolete">AfbeeldingInvoegen</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4797,12 +5595,20 @@ Ander Nieuw Document</translation>
         <translation>Lange Streep</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Lange Streep-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Lange Streep-Punt-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4833,6 +5639,26 @@ Ander Nieuw Document</translation>
         <translation>Geen schaduw</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>Patroon</translation>
     </message>
@@ -4845,20 +5671,25 @@ Ander Nieuw Document</translation>
         <translation>Afbeelding</translation>
     </message>
     <message>
+        <source>Picture
+Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture Adjust</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation type="obsolete">Wijzig Afbeelding</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Opvulkleur</translation>
+        <translation type="obsolete">Opvulkleur</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeeldingsrand</translation>
+        <translation type="obsolete">Afbeeldingsrand</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Formaat</translation>
+        <translation type="obsolete">Formaat</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -4869,8 +5700,13 @@ Ander Nieuw Document</translation>
         <translation>Relatief aan Pagina</translation>
     </message>
     <message>
+        <source>Reset
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reset Picture</source>
-        <translation>Beginwaarden van Afbeelding</translation>
+        <translation type="obsolete">Beginwaarden van Afbeelding</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -4889,8 +5725,13 @@ Ander Nieuw Document</translation>
         <translation>Ronde Punt</translation>
     </message>
     <message>
+        <source>Selection
+Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
-        <translation>Selectievenster</translation>
+        <translation type="obsolete">Selectievenster</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -4906,19 +5747,36 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Naar Achterkant</translation>
+        <translation type="obsolete">Naar Achterkant</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <translation>Doorzichtige Kleur Instellen</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Schaduwkleur</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On</source>
-        <translation>Schaduw Aan/Uit</translation>
+        <translation type="obsolete">Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -4926,7 +5784,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduwstijl</translation>
+        <translation type="obsolete">Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -5010,19 +5868,19 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Verschuif Schaduw Omlaag</translation>
+        <translation type="obsolete">Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Verschuif Schaduw naar Links</translation>
+        <translation type="obsolete">Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Shuif Schaduw naar Rechts</translation>
+        <translation type="obsolete">Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Schuif Schaduw Omhoog</translation>
+        <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5038,7 +5896,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -5069,8 +5927,16 @@ Ander Nieuw Document</translation>
         <translation>Dikte</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -5081,7 +5947,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Sluit Voorbeeld</translation>
+        <translation type="obsolete">Sluit Voorbeeld</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -5093,7 +5959,7 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>PrintZoom</source>
-        <translation>AfdrukkenZoom</translation>
+        <translation type="obsolete">AfdrukkenZoom</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5124,29 +5990,54 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Captions</source>
-        <translation>Onderschiften</translation>
+        <translation type="obsolete">Onderschiften</translation>
     </message>
     <message>
         <source>Cross-reference</source>
         <translation>Kruisverwijzing</translation>
     </message>
     <message>
+        <source>Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote
+Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnotes</source>
-        <translation>Voetnoten</translation>
+        <translation type="obsolete">Voetnoten</translation>
+    </message>
+    <message>
+        <source>Footnotes and Endnotes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert
 Footnote/Endnote</source>
-        <translation>Invoegen
+        <translation type="obsolete">Invoegen
 Voetnoot/Eindnoot</translation>
     </message>
     <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Footnote/Endnote</source>
-        <translation>Voetnoot/Eindnoot Invoegen</translation>
+        <translation type="obsolete">Voetnoot/Eindnoot Invoegen</translation>
+    </message>
+    <message>
+        <source>Insert TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation>Inhoudstabel Invoegen</translation>
+        <translation type="obsolete">Inhoudstabel Invoegen</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -5194,16 +6085,44 @@ Voetnoot/Eindnoot</translation>
         <translation>Mailings</translation>
     </message>
     <message>
+        <source>Next Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Footnote/Endnote</source>
-        <translation>Volgende Voetnoot/Eindnoot</translation>
+        <translation type="obsolete">Volgende Voetnoot/Eindnoot</translation>
+    </message>
+    <message>
+        <source>Previous Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>Toon Voetnoot/Eindnoot Scheidingslijn</translation>
+        <translation type="obsolete">Toon Voetnoot/Eindnoot Scheidingslijn</translation>
+    </message>
+    <message>
+        <source>Show Or Hide Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>Toon of Verberg Voetnoot/Eindnoot Separator</translation>
+        <translation type="obsolete">Toon of Verberg Voetnoot/Eindnoot Separator</translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -5211,11 +6130,15 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation>Inhoudstabel Niveau</translation>
+        <translation type="obsolete">Inhoudstabel Niveau</translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Wijzig Inhoudstabel</translation>
+        <translation type="obsolete">Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
@@ -5250,11 +6173,11 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Change and Comment</source>
-        <translation>Aanpassen en en Opmerking Geven</translation>
+        <translation type="obsolete">Aanpassen en en Opmerking Geven</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Spellingscontrole</translation>
+        <translation type="obsolete">Spellingscontrole</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5273,16 +6196,25 @@ Voetnoot/Eindnoot</translation>
         <translation>Verwijderen</translation>
     </message>
     <message>
+        <source>Delete 
+Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete All Comments in Document</source>
         <translation>Verwijder Alle Opmerkingen in Document</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Verwijder Opmerking</translation>
+        <translation type="obsolete">Verwijder Opmerking</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation>Wijzigingsvoorstellen Weergeven</translation>
+        <translation type="obsolete">Wijzigingsvoorstellen Weergeven</translation>
+    </message>
+    <message>
+        <source>Display for Review</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -5290,11 +6222,16 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Nieuwe Opmerking</translation>
+        <translation type="obsolete">Nieuwe Opmerking</translation>
     </message>
     <message>
         <source>Language</source>
         <translation>Taal</translation>
+    </message>
+    <message>
+        <source>New
+Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next</source>
@@ -5306,7 +6243,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Volgende opmerking</translation>
+        <translation type="obsolete">Volgende opmerking</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -5318,7 +6255,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>Vorige Opmerking</translation>
+        <translation type="obsolete">Vorige Opmerking</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -5358,23 +6295,45 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>Toon de Revisor Informatie in de Ballon</translation>
+        <translation type="obsolete">Toon de Revisor Informatie in de Ballon</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
         <translation>Toon Revisies in Ballonnen</translation>
     </message>
     <message>
+        <source>Show Revisor Information in Balloons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track
+Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Track Changes</source>
-        <translation>Hou Wijzigingen Bij</translation>
+        <translation type="obsolete">Hou Wijzigingen Bij</translation>
+    </message>
+    <message>
+        <source>Tracking</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
         <translation>Gebruik Ballonnen</translation>
     </message>
     <message>
+        <source>Word
+Count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Word Count</source>
-        <translation>Woorden Tellen</translation>
+        <translation type="obsolete">Woorden Tellen</translation>
     </message>
 </context>
 <context>
@@ -5384,24 +6343,43 @@ Voetnoot/Eindnoot</translation>
         <translation>Kolommen</translation>
     </message>
     <message>
+        <source>Contents
+Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Contents Page</source>
-        <translation>Inhoudspagina</translation>
+        <translation type="obsolete">Inhoudspagina</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
         <translation>Doorlopende Sectie-einde</translation>
     </message>
     <message>
+        <source>Cover
+Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cover Pages</source>
-        <translation>Voorpagina&apos;s</translation>
+        <translation type="obsolete">Voorpagina&apos;s</translation>
+    </message>
+    <message>
+        <source>Cover and TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cover and ToC</source>
-        <translation>Voorpagina en Inhoudstabel</translation>
+        <translation type="obsolete">Voorpagina en Inhoudstabel</translation>
+    </message>
+    <message>
+        <source>Delete
+Section</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Section</source>
-        <translation>Verwijder Sectie</translation>
+        <translation type="obsolete">Verwijder Sectie</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -5409,7 +6387,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>DetailedSettings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -5424,8 +6402,21 @@ Voetnoot/Eindnoot</translation>
         <translation>Eerste Sectie</translation>
     </message>
     <message>
+        <source>Header Line Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and
+Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -5456,6 +6447,10 @@ Voetnoot/Eindnoot</translation>
         <translation>Vinden in Hoofdstuk</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Columns</source>
         <translation>Meer Kolommen</translation>
     </message>
@@ -5484,12 +6479,22 @@ Voetnoot/Eindnoot</translation>
         <translation>Oriëntering</translation>
     </message>
     <message>
+        <source>Page
+Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Number</source>
-        <translation>Paginanummer</translation>
+        <translation type="obsolete">Paginanummer</translation>
+    </message>
+    <message>
+        <source>Page Number
+Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Number Format</source>
-        <translation>Paginanummer Opmaak</translation>
+        <translation type="obsolete">Paginanummer Opmaak</translation>
     </message>
     <message>
         <source>Page Number Start</source>
@@ -5512,16 +6517,34 @@ Voetnoot/Eindnoot</translation>
         <translation>Herbegin Paginanummer</translation>
     </message>
     <message>
+        <source>Section
+Navigation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Section Manager</source>
-        <translation>Sectiebeheer</translation>
+        <translation type="obsolete">Sectiebeheer</translation>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>Sectienavigatie</translation>
+        <translation type="obsolete">Sectienavigatie</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show
+Header Line</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>Toon / Verberg Sectienavigatie</translation>
+        <translation type="obsolete">Toon / Verberg Sectienavigatie</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -5529,11 +6552,20 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Toon Koptekstlijn</translation>
+        <translation type="obsolete">Toon Koptekstlijn</translation>
+    </message>
+    <message>
+        <source>Show/Hide Section Navigation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split
+Section</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Verdeel Sectie</translation>
+        <translation type="obsolete">Verdeel Sectie</translation>
     </message>
     <message>
         <source>Three</source>
@@ -5559,20 +6591,40 @@ Voetnoot/Eindnoot</translation>
         <translation>288 pt</translation>
     </message>
     <message>
+        <source>3-D
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
-        <translation>3-D Kleur</translation>
+        <translation type="obsolete">3-D Kleur</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D Aan/Uit</translation>
+        <translation type="obsolete">3-D Aan/Uit</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3-D Eigenschappen</translation>
+        <translation type="obsolete">3-D Eigenschappen</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D Stijl</translation>
+        <translation type="obsolete">3-D Stijl</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -5719,6 +6771,22 @@ Voetnoot/Eindnoot</translation>
         <translation>Normaal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Parallel</translation>
     </message>
@@ -5736,25 +6804,40 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation>Schaduw
 Aan/Uit</translation>
     </message>
     <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>Schaduwkleur</translation>
+        <translation type="obsolete">Schaduwkleur</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>Schaduw Aan/Uit</translation>
+        <translation type="obsolete">Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Schaduw Instellingen</translation>
+        <translation type="obsolete">Schaduw Instellingen</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduwstijl</translation>
+        <translation type="obsolete">Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -5838,19 +6921,19 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Verschuif Schaduw Omlaag</translation>
+        <translation type="obsolete">Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Verschuif Schaduw naar Links</translation>
+        <translation type="obsolete">Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Shuif Schaduw naar Rechts</translation>
+        <translation type="obsolete">Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Schuif Schaduw Omhoog</translation>
+        <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5928,6 +7011,10 @@ Aan/Uit</translation>
         <translation>Uitlijning</translation>
     </message>
     <message>
+        <source>AutoFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoFit to Window</source>
         <translation>Automatisch Schalen aan Venster</translation>
     </message>
@@ -5941,7 +7028,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>Cellen</translation>
+        <translation type="obsolete">Cellen</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -5949,7 +7036,7 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Kolommen</translation>
+        <translation type="obsolete">Kolommen</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -5962,6 +7049,22 @@ Aan/Uit</translation>
     <message>
         <source>Delete</source>
         <translation>Verwijderen</translation>
+    </message>
+    <message>
+        <source>Delete Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -5980,8 +7083,12 @@ Aan/Uit</translation>
         <translation>Teken Tabel</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>EmphasisMark</source>
-        <translation>Accent</translation>
+        <translation type="obsolete">Accent</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -6064,16 +7171,24 @@ Aan/Uit</translation>
         <translation>Meer Onderlijnen</translation>
     </message>
     <message>
+        <source>Repeat Header Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Repeat Headings</source>
-        <translation>Koptekst Herhalen</translation>
+        <translation type="obsolete">Koptekst Herhalen</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Rijen</translation>
+        <translation type="obsolete">Rijen</translation>
+    </message>
+    <message>
+        <source>Rows and Columns</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>Rijen/Kolommen</translation>
+        <translation type="obsolete">Rijen/Kolommen</translation>
     </message>
     <message>
         <source>Select</source>
@@ -6123,7 +7238,11 @@ Delen</translation>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation>Doorhalen</translation>
+        <translation type="obsolete">Doorhalen</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sum</source>
@@ -6139,15 +7258,20 @@ Delen</translation>
     </message>
     <message>
         <source>TableAutoAdjust</source>
-        <translation>Tabel Automatisch Aanpassen</translation>
+        <translation type="obsolete">Tabel Automatisch Aanpassen</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>Tabellen</translation>
+        <translation type="obsolete">Tabellen</translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Tekstrichting</translation>
+        <translation type="obsolete">Tekstrichting</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -6155,11 +7279,15 @@ Delen</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation>Onderlijnkleur</translation>
+        <translation type="obsolete">Onderlijnkleur</translation>
     </message>
     <message>
         <source>Underline</source>
         <translation>Onderstrepen</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -6173,12 +7301,26 @@ Delen</translation>
         <translation>100%</translation>
     </message>
     <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange
+All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arrange All</source>
-        <translation>Alle Vensters</translation>
+        <translation type="obsolete">Alle Vensters</translation>
+    </message>
+    <message>
+        <source>COM
+Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>COM Add-Ins</translation>
+        <translation type="obsolete">COM Add-Ins</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6187,7 +7329,7 @@ Delen</translation>
     <message>
         <source>Close
 Other Windows</source>
-        <translation>Sluit
+        <translation type="obsolete">Sluit
 Andere Vensters</translation>
     </message>
     <message>
@@ -6199,32 +7341,46 @@ Andere Vensters</translation>
         <translation>Venster sluiten</translation>
     </message>
     <message>
-        <source>Compared Side By Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Developer</source>
         <translation>Ontwikkelaar</translation>
     </message>
     <message>
+        <source>Document
+Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Map</source>
-        <translation>Navigatievenster</translation>
+        <translation type="obsolete">Navigatievenster</translation>
     </message>
     <message>
         <source>Document View</source>
-        <translation>Documentbeeld</translation>
+        <translation type="obsolete">Documentbeeld</translation>
+    </message>
+    <message>
+        <source>Document Views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full 
+Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>Volledig scherm</translation>
+        <translation type="obsolete">Volledig scherm</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Rasterlijnen</translation>
+        <translation type="obsolete">Rasterlijnen</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Horizontaal Schikken</translation>
+        <translation type="obsolete">Horizontaal Schikken</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -6243,8 +7399,13 @@ Andere Vensters</translation>
         <translation>Sectienavigatie</translation>
     </message>
     <message>
+        <source>New
+Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Window</source>
-        <translation>Nieuw venster</translation>
+        <translation type="obsolete">Nieuw venster</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -6267,8 +7428,13 @@ Andere Vensters</translation>
         <translation>Plaat er Rechts van</translation>
     </message>
     <message>
+        <source>Print 
+Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Layout</source>
-        <translation>Print Opmaak</translation>
+        <translation type="obsolete">Print Opmaak</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -6296,15 +7462,24 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Show View Gridlines</source>
-        <translation>Toon meer Rasterlijnen</translation>
+        <translation type="obsolete">Toon meer Rasterlijnen</translation>
+    </message>
+    <message>
+        <source>Switch
+Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>Ander Venster</translation>
+        <translation type="obsolete">Ander Venster</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
         <translation>Synchroon Scrollen</translation>
+    </message>
+    <message>
+        <source>Table Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -6315,8 +7490,21 @@ Andere Vensters</translation>
         <translation>Twee Pagina&apos;s</translation>
     </message>
     <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical Arrange</source>
-        <translation>Vertikaal Schikken</translation>
+        <translation type="obsolete">Vertikaal Schikken</translation>
+    </message>
+    <message>
+        <source>View
+Side by Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -6354,12 +7542,27 @@ Andere Vensters</translation>
         <translation>288 pt</translation>
     </message>
     <message>
+        <source>3-D
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
-        <translation>3-D Kleur</translation>
+        <translation type="obsolete">3-D Kleur</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D Aan/Uit</translation>
+        <translation type="obsolete">3-D Aan/Uit</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -6367,7 +7570,7 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D Stijl</translation>
+        <translation type="obsolete">3-D Stijl</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -6514,6 +7717,22 @@ Andere Vensters</translation>
         <translation>Normaal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Parallel</translation>
     </message>
@@ -6531,25 +7750,40 @@ Andere Vensters</translation>
     </message>
     <message>
         <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation>Schaduw
 Aan/Uit</translation>
     </message>
     <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>Schaduwkleur</translation>
+        <translation type="obsolete">Schaduwkleur</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>Schaduw Aan/Uit</translation>
+        <translation type="obsolete">Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Schaduw Instellingen</translation>
+        <translation type="obsolete">Schaduw Instellingen</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduwstijl</translation>
+        <translation type="obsolete">Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -6633,19 +7867,19 @@ Aan/Uit</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Verschuif Schaduw Omlaag</translation>
+        <translation type="obsolete">Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Verschuif Schaduw naar Links</translation>
+        <translation type="obsolete">Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Shuif Schaduw naar Rechts</translation>
+        <translation type="obsolete">Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Schuif Schaduw Omhoog</translation>
+        <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6749,6 +7983,10 @@ Aan</translation>
         <translation>Boven Uitlijnen</translation>
     </message>
     <message>
+        <source>Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arch Down (Curve)</source>
         <translation>Omlaag Buigen (Curve)</translation>
     </message>
@@ -6774,11 +8012,11 @@ Aan</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Onderkant (Curve)</translation>
+        <translation type="obsolete">Onderkant (Curve)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Onderkant (Stroom)</translation>
+        <translation type="obsolete">Onderkant (Stroom)</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -6791,6 +8029,14 @@ Aan</translation>
     <message>
         <source>Bring to Front</source>
         <translation>Naar Voorkant</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Pour)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -6810,8 +8056,17 @@ Aan</translation>
         <translation>Waterval Omhoog</translation>
     </message>
     <message>
+        <source>Center Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center Alignment</source>
-        <translation>Midden Uitlijnen</translation>
+        <translation type="obsolete">Midden Uitlijnen</translation>
+    </message>
+    <message>
+        <source>Character 
+Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -6846,12 +8101,16 @@ Aan</translation>
         <translation>Streepje</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation type="obsolete">Punt-Streep</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -6875,7 +8134,7 @@ Aan</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -6898,16 +8157,24 @@ Aan</translation>
         <translation>Tekst Bewerken</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -6924,6 +8191,10 @@ Aan</translation>
     <message>
         <source>Fade Up</source>
         <translation>Omhoog Vervagen</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -6943,7 +8214,11 @@ Aan</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -6979,11 +8254,15 @@ Aan</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>WordArt Invoegen</translation>
+        <translation type="obsolete">WordArt Invoegen</translation>
+    </message>
+    <message>
+        <source>Left Align</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left Alignment</source>
-        <translation>Links Uitlijnen</translation>
+        <translation type="obsolete">Links Uitlijnen</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -6995,12 +8274,20 @@ Aan</translation>
         <translation>Lange Streep</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Lange Streep-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Lange Streep-Punt-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -7024,7 +8311,11 @@ Aan</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Object Selecteren</translation>
+        <translation type="obsolete">Object Selecteren</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -7047,8 +8338,12 @@ Aan</translation>
         <translation>Relatief aan Pagina</translation>
     </message>
     <message>
+        <source>Right Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Right Alignment</source>
-        <translation>Rechts Uitlijnen</translation>
+        <translation type="obsolete">Rechts Uitlijnen</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -7075,6 +8370,14 @@ Aan</translation>
         <translation>Ronde Punt</translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Send Backward</source>
         <translation>Naar Achteren</translation>
     </message>
@@ -7084,7 +8387,15 @@ Aan</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Naar Achterkant</translation>
+        <translation type="obsolete">Naar Achterkant</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -7120,7 +8431,7 @@ Aan</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -7132,7 +8443,15 @@ Aan</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Contour</translation>
+        <translation type="obsolete">Contour</translation>
+    </message>
+    <message>
+        <source>Tight@Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight@Wrapping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -7149,6 +8468,10 @@ Aan</translation>
     <message>
         <source>Ungroup</source>
         <translation>Degroepeer</translation>
+    </message>
+    <message>
+        <source>Vertical Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -7179,37 +8502,52 @@ Aan</translation>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt
+Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt
+Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt 
+Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
-        <translation>Uitlijnen</translation>
+        <translation type="obsolete">Uitlijnen</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>Tekenafstand</translation>
+        <translation type="obsolete">Tekenafstand</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
         <translatorcomment>Not Sure</translatorcomment>
-        <translation>Opvullen</translation>
+        <translation type="obsolete">Opvullen</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Stijl Bewerken</translation>
+        <translation type="obsolete">Stijl Bewerken</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>Omtrek van Vorm</translation>
+        <translation type="obsolete">Omtrek van Vorm</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>WordArt Zefde Letterhoogte</translation>
+        <translation type="obsolete">WordArt Zefde Letterhoogte</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>WordArt Vorm</translation>
+        <translation type="obsolete">WordArt Vorm</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>WordArt Grootte</translation>
+        <translation type="obsolete">WordArt Grootte</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -7217,30 +8555,54 @@ Aan</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>WordArt Vertikale Tekst</translation>
+        <translation type="obsolete">WordArt Vertikale Tekst</translation>
+    </message>
+    <message>
+        <source>WordArt@Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Auto Backup</source>
-        <translation>Automatische Backup</translation>
+        <translation type="obsolete">Automatische Backup</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>Cloud Feedback</translation>
+        <translation type="obsolete">Cloud Feedback</translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Bekijk Backupmap</translation>
+        <translation type="obsolete">Bekijk Backupmap</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Bekijk Backupversies</translation>
+        <translation type="obsolete">Bekijk Backupversies</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -7248,39 +8610,59 @@ Aan</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
-        <translation>Automatische Bestandsbackup</translation>
+        <translation type="obsolete">Automatische Bestandsbackup</translation>
+    </message>
+    <message>
+        <source>File Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
-        <translation>KOS Maak Cloud Link</translation>
+        <translation type="obsolete">KOS Maak Cloud Link</translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation>KOS Mijn Account</translation>
+        <translation type="obsolete">KOS Mijn Account</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>KOS Mijn Account Tip</translation>
+        <translation type="obsolete">KOS Mijn Account Tip</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation>KOS User Cloud</translation>
+        <translation type="obsolete">KOS User Cloud</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation>KOS User cloud tip</translation>
+        <translation type="obsolete">KOS User cloud tip</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation>KOS User guid</translation>
+        <translation type="obsolete">KOS User guid</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
-        <translation>KOS User guid tip</translation>
+        <translation type="obsolete">KOS User guid tip</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>KOS User login</translation>
+        <translation type="obsolete">KOS User login</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -7291,59 +8673,115 @@ Aan</translation>
         <translation>Manuele Backup</translation>
     </message>
     <message>
+        <source>More from Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
-        <translation>Niet Ingelogd</translation>
+        <translation type="obsolete">Niet Ingelogd</translation>
+    </message>
+    <message>
+        <source>Online Documents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Open Uit Cloud</translation>
+        <translation type="obsolete">Open Uit Cloud</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Sla pestand op in Cloud</translation>
+        <translation type="obsolete">Sla pestand op in Cloud</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Stop Automatische Backup</translation>
+        <translation type="obsolete">Stop Automatische Backup</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Guide</source>
-        <translation>Gebruiksershandleiding</translation>
+        <translation type="obsolete">Gebruiksershandleiding</translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation>Werkruimte_Backup</translation>
+        <translation type="obsolete">Werkruimte_Backup</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>Inloggen</translation>
+        <translation type="obsolete">Inloggen</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>openwebweibo</translation>
+        <translation type="obsolete">openwebweibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>weibodelen</translation>
+        <translation type="obsolete">weibodelen</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation>weibogereedschap</translation>
+        <translation type="obsolete">weibogereedschap</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
-        <translation>wpsweibolayout</translation>
+        <translation type="obsolete">wpsweibolayout</translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation>0 Meer Geschiedenis</translation>
+        <translation type="obsolete">0 Meer Geschiedenis</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>Info over Kingsoft Writer</translation>
+        <translation type="obsolete">Info over Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept Deletion</source>
@@ -7359,7 +8797,11 @@ Aan</translation>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation>Kingsoft Office Activeren</translation>
+        <translation type="obsolete">Kingsoft Office Activeren</translation>
+    </message>
+    <message>
+        <source>Activate WPS Office</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -7374,16 +8816,20 @@ Aan</translation>
         <translation>Woordenboek Toevoegen</translation>
     </message>
     <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>Aziatische Layout</translation>
     </message>
     <message>
         <source>Auto Backup</source>
-        <translation>Automatische Backup</translation>
+        <translation type="obsolete">Automatische Backup</translation>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation>Automatisch Punt</translation>
+        <translation type="obsolete">Automatisch Punt</translation>
     </message>
     <message>
         <source>AutoFit</source>
@@ -7394,8 +8840,16 @@ Aan</translation>
         <translation>Automatisch Schalen aan Venster</translation>
     </message>
     <message>
+        <source>AutoPoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Average</source>
         <translation>Gemiddelde</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -7411,11 +8865,15 @@ Aan</translation>
     </message>
     <message>
         <source>Break</source>
-        <translation>Einde</translation>
+        <translation type="obsolete">Einde</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
         <translation>Doorsturlink Breken</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -7434,8 +8892,13 @@ Aan</translation>
         <translation>Opsommingstekens en nummering</translation>
     </message>
     <message>
+        <source>COM 
+Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>COM AddIns</source>
-        <translation>COM AddIns</translation>
+        <translation type="obsolete">COM AddIns</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7467,7 +8930,15 @@ Aan</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Account Wijzigen</translation>
+        <translation type="obsolete">Account Wijzigen</translation>
+    </message>
+    <message>
+        <source>Change Accout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -7482,12 +8953,24 @@ Aan</translation>
         <translation>Versie wijzigen</translation>
     </message>
     <message>
+        <source>Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check Spelling As You Type</source>
         <translation>Controleer Spelling Tijdens het Typen</translation>
     </message>
     <message>
+        <source>Check for Updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chinese Translation</source>
-        <translation>Chinese Vertaling</translation>
+        <translation type="obsolete">Chinese Vertaling</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -7520,7 +9003,7 @@ Aan</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>Cloud Feedback</translation>
+        <translation type="obsolete">Cloud Feedback</translation>
     </message>
     <message>
         <source>Column</source>
@@ -7551,6 +9034,10 @@ Aan</translation>
         <translation>Opmerking</translation>
     </message>
     <message>
+        <source>Compared Side by Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Contents</source>
         <translation>Inhoud</translation>
     </message>
@@ -7568,7 +9055,7 @@ Aan</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation>Bedieningsmenu</translation>
+        <translation type="obsolete">Bedieningsmenu</translation>
     </message>
     <message>
         <source>Control Menu List</source>
@@ -7580,7 +9067,7 @@ Aan</translation>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Omzetten Hoofdletters/Kleine Letters</translation>
+        <translation type="obsolete">Omzetten Hoofdletters/Kleine Letters</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -7611,6 +9098,10 @@ Aan</translation>
         <translation>Hoekpunt</translation>
     </message>
     <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Create Text Box Link</source>
         <translation>Maak Tekstvak Link</translation>
     </message>
@@ -7628,7 +9119,7 @@ Aan</translation>
     </message>
     <message>
         <source>Data Chart</source>
-        <translation>Datakaart</translation>
+        <translation type="obsolete">Datakaart</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -7643,6 +9134,14 @@ Aan</translation>
         <translation>Verwijderen</translation>
     </message>
     <message>
+        <source>Delete Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Comment</source>
         <translation>Verwijder Opmerking</translation>
     </message>
@@ -7655,8 +9154,20 @@ Aan</translation>
         <translation>Verwijder Punt</translation>
     </message>
     <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Segment</source>
         <translation>Verwijder Segment</translation>
+    </message>
+    <message>
+        <source>Delete Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -7672,7 +9183,7 @@ Aan</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Docer Online Sjablonen</translation>
+        <translation type="obsolete">Docer Online Sjablonen</translation>
     </message>
     <message>
         <source>Document Map</source>
@@ -7725,12 +9236,20 @@ Diagonale Lijn in Cel</translation>
         <translation>Elleboog Connector</translation>
     </message>
     <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enclose Characters</source>
         <translation>Sluit Tekens In</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Encryptie</translation>
+        <translation type="obsolete">Encryptie</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -7750,23 +9269,23 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Uitgebreid Plakken Opgemaakte Tekst</translation>
+        <translation type="obsolete">Uitgebreid Plakken Opgemaakte Tekst</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Uitgebreid Plakken Zelfde Opmaak</translation>
+        <translation type="obsolete">Uitgebreid Plakken Zelfde Opmaak</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Tekst Uitgebreid Plakken</translation>
+        <translation type="obsolete">Tekst Uitgebreid Plakken</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Bekijk Backupmap</translation>
+        <translation type="obsolete">Bekijk Backupmap</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Bekijk Backupversies</translation>
+        <translation type="obsolete">Bekijk Backupversies</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -7782,7 +9301,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation type="obsolete">Feedback</translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -7826,7 +9349,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Formulierveld Optie</translation>
+        <translation type="obsolete">Formulierveld Optie</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -7837,6 +9364,10 @@ Diagonale Lijn in Cel</translation>
         <translation>Vormeffecten</translation>
     </message>
     <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula</source>
         <translation>Formule</translation>
     </message>
@@ -7845,7 +9376,7 @@ Diagonale Lijn in Cel</translation>
         <translation>Uit Bestand</translation>
     </message>
     <message>
-        <source>From Scan</source>
+        <source>From Scanner</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7870,11 +9401,15 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation>Grafiek</translation>
+        <translation type="obsolete">Grafiek</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -7913,8 +9448,12 @@ Diagonale Lijn in Cel</translation>
         <translation>Koptekst Rechts</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
@@ -7922,11 +9461,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">Horizontaal</translation>
+        <translation type="unfinished">Horizontaal</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Horizontaal Schikken</translation>
+        <translation type="obsolete">Horizontaal Schikken</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -7965,40 +9504,32 @@ Diagonale Lijn in Cel</translation>
         <translation>Onzichtbaar</translation>
     </message>
     <message>
-        <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Kingsoft BBS</source>
-        <translation>Kingsoft BBS</translation>
+        <translation type="obsolete">Kingsoft BBS</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>Kingsoft Office Community</translation>
+        <translation type="obsolete">Kingsoft Office Community</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>Kingsoft Office Facebook</translation>
+        <translation type="obsolete">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Kingsoft Office Homepage</translation>
+        <translation type="obsolete">Kingsoft Office Homepage</translation>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Kingsoft Writer Hulp</translation>
+        <translation type="obsolete">Kingsoft Writer Hulp</translation>
     </message>
     <message>
         <source>Left Tab</source>
         <translation>Links Tabblad</translation>
+    </message>
+    <message>
+        <source>Line Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -8010,11 +9541,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Inloggen</translation>
+        <translation type="obsolete">Inloggen</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Uitloggen</translation>
+        <translation type="obsolete">Uitloggen</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -8033,6 +9564,10 @@ Diagonale Lijn in Cel</translation>
         <translation>Markeringen</translation>
     </message>
     <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Max</source>
         <translation>Max</translation>
     </message>
@@ -8045,8 +9580,16 @@ Diagonale Lijn in Cel</translation>
         <translation>Min</translation>
     </message>
     <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
         <translation>Meer Opvulkleuren</translation>
+    </message>
+    <message>
+        <source>More Historical Records</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move Here</source>
@@ -8074,7 +9617,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>Niet Ingelogd</translation>
+        <translation type="obsolete">Niet Ingelogd</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8085,8 +9628,20 @@ Diagonale Lijn in Cel</translation>
         <translation>Object</translation>
     </message>
     <message>
+        <source>Object Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Menu List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Odd Page Section Break</source>
         <translation>Sectie-einde op Oneven Pagina&apos;s</translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -8098,7 +9653,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>Open vanuit Klive</translation>
+        <translation type="obsolete">Open vanuit Klive</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -8110,7 +9665,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Open Uit Cloud</translation>
+        <translation type="obsolete">Open Uit Cloud</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option</source>
@@ -8125,12 +9684,24 @@ Diagonale Lijn in Cel</translation>
         <translation>Sorteer</translation>
     </message>
     <message>
+        <source>Over Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
         <translation>Pagina-einde</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Paginakleur</translation>
+        <translation type="obsolete">Paginakleur</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -8186,7 +9757,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>Product Centrum</translation>
+        <translation type="obsolete">Product Centrum</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -8201,12 +9772,24 @@ Diagonale Lijn in Cel</translation>
         <translation>Koop Serienummer</translation>
     </message>
     <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reconvert</source>
         <translation>Heromzetten</translation>
     </message>
     <message>
+        <source>Record Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reference</source>
         <translation>Referentie</translation>
+    </message>
+    <message>
+        <source>Reject Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reject Deletion</source>
@@ -8233,8 +9816,12 @@ Diagonale Lijn in Cel</translation>
         <translation>Verwijder Watermerk</translation>
     </message>
     <message>
+        <source>Repeat Header Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Repeat Headings</source>
-        <translation>Koptekst Herhalen</translation>
+        <translation type="obsolete">Koptekst Herhalen</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
@@ -8286,11 +9873,15 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Sla pestand op in Cloud</translation>
+        <translation type="obsolete">Sla pestand op in Cloud</translation>
     </message>
     <message>
         <source>Save as Picture</source>
         <translation>Sla Op als Afbeelding</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -8298,7 +9889,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Save to Klive</source>
-        <translation>Sla Op naar Klive</translation>
+        <translation type="obsolete">Sla Op naar Klive</translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Security</source>
@@ -8341,8 +9936,16 @@ Diagonale Lijn in Cel</translation>
         <translation>AutoShape Standaarden Instellen</translation>
     </message>
     <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share to Weibo</source>
-        <translation>Deel naar Weibo</translation>
+        <translation type="obsolete">Deel naar Weibo</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
@@ -8365,8 +9968,20 @@ Diagonale Lijn in Cel</translation>
         <translation>Toon of Verberg Voetnoot/Eindnoot Separator</translation>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Smooth Point</source>
         <translation>Boogpunt</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spelling Suggestions</source>
@@ -8386,7 +10001,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Stop Automatische Backup</translation>
+        <translation type="obsolete">Stop Automatische Backup</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -8406,7 +10021,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>StudeerOnline</translation>
+        <translation type="obsolete">StudeerOnline</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -8427,6 +10042,10 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Table</source>
         <translation>Tabel</translation>
+    </message>
+    <message>
+        <source>Table Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -8457,48 +10076,112 @@ Diagonale Lijn in Cel</translation>
         <translation>Bitmappatroon</translation>
     </message>
     <message>
+        <source>Track</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>Twee Lijnen in Een</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ungroup</source>
         <translation>Degroepeer</translation>
     </message>
     <message>
+        <source>Unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
-        <translation>Update Online</translation>
+        <translation type="obsolete">Update Online</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">Vertikaal</translation>
+        <translation type="unfinished">Vertikaal</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>Vertikaal Schikken</translation>
+        <translation type="obsolete">Vertikaal Schikken</translation>
     </message>
     <message>
         <source>View Code</source>
         <translation>Bekijk Code</translation>
     </message>
     <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Gridlines</source>
-        <translation>Toon Rasterlijnen</translation>
+        <translation type="obsolete">Toon Rasterlijnen</translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Shortcut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>Bekijk Naast Elkaar</translation>
+        <translation type="obsolete">Bekijk Naast Elkaar</translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Forum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Microblog</source>
         <translation>WPS Microblog</translation>
     </message>
     <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS New features</source>
-        <translation>WPS Nieuwe Functies</translation>
+        <translation type="obsolete">WPS Nieuwe Functies</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watermark</source>
         <translation>Watermerk</translation>
+    </message>
+    <message>
+        <source>Word Count</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -8513,16 +10196,24 @@ Diagonale Lijn in Cel</translation>
         <translation>In-/Uitzoomen</translation>
     </message>
     <message>
+        <source>Zoom Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Slider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>login</source>
-        <translation>Inloggen</translation>
+        <translation type="obsolete">Inloggen</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>openwebweibo</translation>
+        <translation type="obsolete">openwebweibo</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
-        <translation>wpsweibolayout</translation>
+        <translation type="obsolete">wpsweibolayout</translation>
     </message>
 </context>
 <context>
@@ -8571,6 +10262,14 @@ Diagonale Lijn in Cel</translation>
         <source>Custom Toolbar</source>
         <translation>Aangepaste Werkbalk</translation>
     </message>
+    <message>
+        <source>Menu Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbar Commands</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
@@ -8584,7 +10283,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Rand en schaduw</translation>
+        <translation type="obsolete">Rand en schaduw</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -8593,10 +10296,6 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Clear Table Style</source>
         <translation>Verwijder Tabelstijl</translation>
-    </message>
-    <message>
-        <source>Cross Border</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw
@@ -8617,7 +10316,15 @@ Diagonale Lijn in Cel</translation>
         <translation>Gom</translation>
     </message>
     <message>
-        <source>Horizontal Middle Border</source>
+        <source>Inside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8646,7 +10353,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Buitenste rand</translation>
+        <translation type="obsolete">Buitenste rand</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -8661,6 +10368,10 @@ Diagonale Lijn in Cel</translation>
         <translation>Schaduwkleur</translation>
     </message>
     <message>
+        <source>Table Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table Style Options</source>
         <translation>Tabelstijl Opties</translation>
     </message>
@@ -8672,10 +10383,6 @@ Diagonale Lijn in Cel</translation>
         <source>Top Border</source>
         <translation>Bovenrand</translation>
     </message>
-    <message>
-        <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_developtools</name>
@@ -8685,7 +10392,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>COM Add-In</source>
-        <translation>COM Add-In</translation>
+        <translation type="obsolete">COM Add-In</translation>
+    </message>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -8732,8 +10443,12 @@ Diagonale Lijn in Cel</translation>
         <translation>Label</translation>
     </message>
     <message>
+        <source>List Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>List Button</source>
-        <translation>Lijst Knop</translation>
+        <translation type="obsolete">Lijst Knop</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -8746,6 +10461,10 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Option Button</source>
         <translation>Opties Knop</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -8919,8 +10638,12 @@ Diagonale Lijn in Cel</translation>
         <translation>Naar Voorkant</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Gecentreerd</translation>
+        <translation type="obsolete">Gecentreerd</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -8931,16 +10654,20 @@ Diagonale Lijn in Cel</translation>
         <translation>Streepje</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Punt-Streep</translation>
+        <translation type="obsolete">Punt-Streep</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -8959,16 +10686,28 @@ Diagonale Lijn in Cel</translation>
         <translation>Wijzig Punten</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8992,7 +10731,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -9039,12 +10782,20 @@ Diagonale Lijn in Cel</translation>
         <translation>Lange Streep</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Lange Streep-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Lange Streep-Punt-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9081,6 +10832,10 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Next Text Box</source>
         <translation>Volgende Tekstvak</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9132,15 +10887,27 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Naar Achterkant</translation>
+        <translation type="obsolete">Naar Achterkant</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Afbeeldingsinhoud</translation>
+        <translation type="obsolete">Afbeeldingsinhoud</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Omlijning van Vorm</translation>
+        <translation type="obsolete">Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -9148,7 +10915,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation>Vorm Stijlen</translation>
+        <translation type="obsolete">Vorm Stijlen</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -9180,7 +10947,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9219,30 +10986,54 @@ Diagonale Lijn in Cel</translation>
         <translation>Dikte</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>Info over Kingsoft Writer</translation>
+        <translation type="obsolete">Info over Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation>Backupbeheer</translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>Versie wijzigen</translation>
     </message>
     <message>
-        <source>Create CloudLink</source>
-        <translation>CloudLink aanmaken</translation>
+        <source>Check for Updates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create CloudLink Title</source>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create CloudLink</source>
+        <translation type="obsolete">CloudLink aanmaken</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9251,7 +11042,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Encryptie</translation>
+        <translation type="obsolete">Encryptie</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9259,11 +11054,15 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation type="obsolete">Feedback</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
         <translation>Feedback en Productinformatie</translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Information</source>
@@ -9275,35 +11074,39 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>Kingsoft Office Community</translation>
+        <translation type="obsolete">Kingsoft Office Community</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>Kingsoft Office Facebook</translation>
+        <translation type="obsolete">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>Kingsoft Office Homepage</translation>
+        <translation type="obsolete">Kingsoft Office Homepage</translation>
     </message>
     <message>
         <source>Kingsoft Office New features</source>
-        <translation>Kingsoft Office Nieuwe Functies</translation>
+        <translation type="obsolete">Kingsoft Office Nieuwe Functies</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
-        <translation>Kingsoft Writer Document</translation>
+        <translation type="obsolete">Kingsoft Writer Document</translation>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Kingsoft Writer Hulp</translation>
+        <translation type="obsolete">Kingsoft Writer Hulp</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
-        <translation>Kingsoft Writer Sjabloon</translation>
+        <translation type="obsolete">Kingsoft Writer Sjabloon</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2013 Document</source>
-        <translation>Microsoft Word 97-2003 document</translation>
+        <translation type="obsolete">Microsoft Word 97-2003 document</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -9331,11 +11134,15 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Nieuw van Locaal Sjabloon</translation>
+        <translation type="obsolete">Nieuw van Locaal Sjabloon</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
         <translation>Nieuw van Online Sjabloon</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -9343,7 +11150,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>Open vanuit Klive</translation>
+        <translation type="obsolete">Open vanuit Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -9359,7 +11166,7 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>Product Centrum</translation>
+        <translation type="obsolete">Product Centrum</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -9391,7 +11198,11 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Save to Klive</source>
-        <translation>Sla Op Naar Klive</translation>
+        <translation type="obsolete">Sla Op Naar Klive</translation>
+    </message>
+    <message>
+        <source>Seek Help via Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -9407,22 +11218,66 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>Update Online</translation>
+        <translation type="obsolete">Update Online</translation>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>WPS BBS</translation>
+        <translation type="obsolete">WPS BBS</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>WPS Microblog</translation>
+        <translation type="obsolete">WPS Microblog</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Forum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Kingsoft Writer Hulp</translation>
+        <translation type="obsolete">Kingsoft Writer Hulp</translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9433,19 +11288,31 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Auto Text</source>
-        <translation>Autotekst</translation>
+        <translation type="obsolete">Autotekst</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Sluiten</translation>
     </message>
     <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Date/Time</source>
-        <translation>Datum/Tijd</translation>
+        <translation type="obsolete">Datum/Tijd</translation>
     </message>
     <message>
         <source>Fields</source>
         <translation>Velden</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header and Footer
@@ -9459,7 +11326,7 @@ Opties</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -9595,7 +11462,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation>Rand en schaduw</translation>
+        <translation type="obsolete">Rand en schaduw</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -9606,8 +11477,16 @@ Header and Footer</source>
         <translation>Opsommingstekens</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Gecentreerd</translation>
+        <translation type="obsolete">Gecentreerd</translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -9639,15 +11518,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Omzetten Hoofdletters/Kleine Letters</translation>
+        <translation type="obsolete">Omzetten Hoofdletters/Kleine Letters</translation>
     </message>
     <message>
         <source>Copy</source>
         <translation>Kopiëren</translation>
-    </message>
-    <message>
-        <source>Cross Border</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9659,7 +11534,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -9670,8 +11545,12 @@ Header and Footer</source>
         <translation>Bewerken</translation>
     </message>
     <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Emphasis mark</source>
-        <translation>Nadruk Teken</translation>
+        <translation type="obsolete">Nadruk Teken</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -9683,19 +11562,23 @@ Header and Footer</source>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>Uitgebreid Plakken Opgemaakte Tekst</translation>
+        <translation type="obsolete">Uitgebreid Plakken Opgemaakte Tekst</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation>Uitgebreid Plakken Zelfde Opmaak</translation>
+        <translation type="obsolete">Uitgebreid Plakken Zelfde Opmaak</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>Tekst Uitgebreid Plakken</translation>
+        <translation type="obsolete">Tekst Uitgebreid Plakken</translation>
+    </message>
+    <message>
+        <source>Find and Replace</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation>Zoeken/Vervangen</translation>
+        <translation type="obsolete">Zoeken/Vervangen</translation>
     </message>
     <message>
         <source>Font</source>
@@ -9714,6 +11597,10 @@ Header and Footer</source>
         <translation>Opmaak Kopiëren/Plakken</translation>
     </message>
     <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to</source>
         <translation>Ga naar</translation>
     </message>
@@ -9726,12 +11613,20 @@ Header and Footer</source>
         <translation>Markeer</translation>
     </message>
     <message>
-        <source>Horizontal Middle Border</source>
+        <source>Increase Indent</source>
+        <translation>Vergroot Inspringing</translation>
+    </message>
+    <message>
+        <source>Inside Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Increase Indent</source>
-        <translation>Vergroot Inspringing</translation>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
@@ -9748,6 +11643,10 @@ Header and Footer</source>
     <message>
         <source>Line Spacing</source>
         <translation>Regelafstand</translation>
+    </message>
+    <message>
+        <source>Matching Current Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
@@ -9783,7 +11682,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>Buitenste rand</translation>
+        <translation type="obsolete">Buitenste rand</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -9794,8 +11693,12 @@ Header and Footer</source>
         <translation>Paragraaf</translation>
     </message>
     <message>
+        <source>Paragraph Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ParagraphTools</source>
-        <translation>ParagraafGereedschappen</translation>
+        <translation type="obsolete">ParagraafGereedschappen</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -9842,16 +11745,28 @@ Header and Footer</source>
         <translation>Standaard Plakken Instellen</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shading Color</source>
         <translation>Schaduwkleur</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>Toon / Verberg Wijzigingsaanduidingen</translation>
+        <translation type="obsolete">Toon / Verberg Wijzigingsaanduidingen</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>Toon / Verberg Paragraafopmaak</translation>
+        <translation type="obsolete">Toon / Verberg Paragraafopmaak</translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Paragraph Marks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -9863,11 +11778,19 @@ Header and Footer</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stijl</translation>
+        <translation type="obsolete">Stijl</translation>
+    </message>
+    <message>
+        <source>Styles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Stijlen / Opmaak</translation>
+        <translation type="obsolete">Stijlen / Opmaak</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -9898,7 +11821,7 @@ Header and Footer</source>
         <translation>Onderlijnkleur</translation>
     </message>
     <message>
-        <source>Vertical Middle Border</source>
+        <source>Unformatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9914,18 +11837,30 @@ Header and Footer</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>Nummer</translation>
+        <translation type="obsolete">Nummer</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
+        <source>AutoShape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Blank Page</source>
         <translation>Lege pagina</translation>
     </message>
     <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bookmarks</source>
-        <translation>Bladwijzers</translation>
+        <translation type="obsolete">Bladwijzers</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -9973,11 +11908,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Custom Shape</source>
-        <translation>Aangepaste Afbeelding</translation>
+        <translation type="obsolete">Aangepaste Afbeelding</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Datum/Tijd</translation>
+        <translation type="obsolete">Datum/Tijd</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -10013,7 +11952,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>Formulierveld Optie</translation>
+        <translation type="obsolete">Formulierveld Optie</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -10024,16 +11967,28 @@ Header and Footer</source>
         <translation>Formulier</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gallery</source>
         <translation>Gallerij</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontaal</translation>
+        <translation type="obsolete">Horizontaal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -10053,15 +12008,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture From File</source>
-        <translation>Afbeelding uit bestand invoegen</translation>
+        <translation type="obsolete">Afbeelding uit bestand invoegen</translation>
     </message>
     <message>
         <source>Insert Picture From Scan</source>
-        <translation>Afbeelding uit scanner invoegen</translation>
+        <translation type="obsolete">Afbeelding uit scanner invoegen</translation>
     </message>
     <message>
         <source>Insert Scan</source>
-        <translation>Scan invoegen</translation>
+        <translation type="obsolete">Scan invoegen</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -10108,8 +12063,13 @@ Header and Footer</source>
         <translation>Sectie-einde op oneven pagina&apos;s</translation>
     </message>
     <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
-        <translation>Pagina-einde</translation>
+        <translation type="obsolete">Pagina-einde</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -10133,7 +12093,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>Formulierveld Herstellen</translation>
+        <translation type="obsolete">Formulierveld Herstellen</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -10165,7 +12129,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Text Form Field</source>
-        <translation>Tekst Formulierveld</translation>
+        <translation type="obsolete">Tekst Formulierveld</translation>
+    </message>
+    <message>
+        <source>Text Form field</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -10173,7 +12141,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikaal</translation>
+        <translation type="obsolete">Vertikaal</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -10182,6 +12150,28 @@ Header and Footer</source>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert.BlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert.TextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10211,8 +12201,12 @@ Header and Footer</source>
         <translation>Markeer Samenvoegvelden</translation>
     </message>
     <message>
+        <source>Insert Merge Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Merge Fields</source>
-        <translation>Voeg Samenvoegvelden toe</translation>
+        <translation type="obsolete">Voeg Samenvoegvelden toe</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
@@ -10268,13 +12262,21 @@ Ander Nieuw Document</translation>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>Bekijk Resultaat</translation>
+        <translation type="obsolete">Bekijk Resultaat</translation>
+    </message>
+    <message>
+        <source>Preview Results</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous
 Record</source>
-        <translation>Vorige
+        <translation type="obsolete">Vorige
 Vermelding</translation>
+    </message>
+    <message>
+        <source>Previous Record</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Start Mail Merge</source>
@@ -10318,8 +12320,12 @@ Samengevoegde Data</translation>
         <translation>Uitvouwen</translation>
     </message>
     <message>
+        <source>Go to TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Go to ToC</source>
-        <translation>Ga naar Inhoudstabel</translation>
+        <translation type="obsolete">Ga naar Inhoudstabel</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -10366,8 +12372,12 @@ Samengevoegde Data</translation>
         <translation>Toon Niveau 1;Toon Niveau 2;Toon Niveau 3;Toon Niveau 4;Toon Niveau 5;Toon Niveau 6;Toon Niveau 7;Toon Niveau 8;Toon Niveau 9;Toon alle niveaus</translation>
     </message>
     <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update ToC</source>
-        <translation>Wijzig Inhoudstabel</translation>
+        <translation type="obsolete">Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
@@ -10403,6 +12413,10 @@ Samengevoegde Data</translation>
     <message>
         <source>Arrange</source>
         <translation>Schikken</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -10445,8 +12459,12 @@ Samengevoegde Data</translation>
         <translation>Doorlopende Sectie-einde</translation>
     </message>
     <message>
+        <source>Custom Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10461,12 +12479,20 @@ Samengevoegde Data</translation>
         <translation>Toon Regelnummers niet voor Lege Regels</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -10474,7 +12500,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10494,7 +12520,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -10537,6 +12567,10 @@ Samengevoegde Data</translation>
         <translation>Meer Opvulkleuren</translation>
     </message>
     <message>
+        <source>More Paper Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Page Section Break</source>
         <translation>Sectie-einde Op Volgende Pagina</translation>
     </message>
@@ -10570,7 +12604,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Paginakleur</translation>
+        <translation type="obsolete">Paginakleur</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -10626,7 +12660,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Naar Achterkant</translation>
+        <translation type="obsolete">Naar Achterkant</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size</source>
@@ -10650,7 +12692,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -10684,6 +12726,11 @@ Samengevoegde Data</translation>
         <source>Ungroup</source>
         <translation>Degroepeer</translation>
     </message>
+    <message>
+        <source>Wrap
+Text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_paragraph</name>
@@ -10704,20 +12751,28 @@ Samengevoegde Data</translation>
         <translation>Sluiten</translation>
     </message>
     <message>
+        <source>Demote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Demote to Body Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Demote to Common Text</source>
-        <translation>Verlaag naar Normale Tekst</translation>
+        <translation type="obsolete">Verlaag naar Normale Tekst</translation>
     </message>
     <message>
         <source>Demote to Level</source>
-        <translation>Verlaag naar Niveau</translation>
+        <translation type="obsolete">Verlaag naar Niveau</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Directory Level</source>
-        <translation>Directory Niveau</translation>
+        <translation type="obsolete">Directory Niveau</translation>
     </message>
     <message>
         <source>Document Gridlines</source>
@@ -10745,7 +12800,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Loose Line Spacing</source>
-        <translation>Ruime Regelafstand</translation>
+        <translation type="obsolete">Ruime Regelafstand</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -10760,16 +12815,32 @@ Samengevoegde Data</translation>
         <translation>Paragraaf</translation>
     </message>
     <message>
+        <source>Promote TOC Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Promote to Level</source>
-        <translation>Opwaarderen naar Niveau</translation>
+        <translation type="obsolete">Opwaarderen naar Niveau</translation>
+    </message>
+    <message>
+        <source>Promote to Level 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Promote to ToC 1</source>
-        <translation>Promoveer tot Inhoudstabel 1</translation>
+        <translation type="obsolete">Promoveer tot Inhoudstabel 1</translation>
+    </message>
+    <message>
+        <source>Reduce Line Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reduced Line Spacing</source>
-        <translation>Verminderde Regelafstand</translation>
+        <translation type="obsolete">Verminderde Regelafstand</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -10781,7 +12852,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>Stijlen / Opmaak</translation>
+        <translation type="obsolete">Stijlen / Opmaak</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight</source>
@@ -10789,7 +12868,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation>Kleine Regelafstand</translation>
+        <translation type="obsolete">Kleine Regelafstand</translation>
     </message>
 </context>
 <context>
@@ -10915,16 +12994,20 @@ Samengevoegde Data</translation>
         <translation>Streepje</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Streep-punt</translation>
+        <translation type="obsolete">Streep-punt</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10935,16 +13018,28 @@ Samengevoegde Data</translation>
         <translation>Verticaal Verdelen</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10968,7 +13063,11 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -11019,12 +13118,20 @@ Samengevoegde Data</translation>
         <translation>Lange Streep</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Lange Streep-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Lange Streep-Punt-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -11055,6 +13162,26 @@ Samengevoegde Data</translation>
         <translation>Geen schaduw</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>Patroon</translation>
     </message>
@@ -11068,15 +13195,15 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation>Wijzig Afbeelding</translation>
+        <translation type="obsolete">Wijzig Afbeelding</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Opvulkleur</translation>
+        <translation type="obsolete">Opvulkleur</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeeldingsrand</translation>
+        <translation type="obsolete">Afbeeldingsrand</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -11128,15 +13255,27 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Naar Achterkant</translation>
+        <translation type="obsolete">Naar Achterkant</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <translation>Doorzichtige Kleur Instellen</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Schaduwkleur</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -11148,7 +13287,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduwstijl</translation>
+        <translation type="obsolete">Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -11232,19 +13371,19 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Verschuif Schaduw Omlaag</translation>
+        <translation type="obsolete">Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Verschuif Schaduw naar Links</translation>
+        <translation type="obsolete">Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Shuif Schaduw naar Rechts</translation>
+        <translation type="obsolete">Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Schuif Schaduw Omhoog</translation>
+        <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11260,7 +13399,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -11291,8 +13430,16 @@ Samengevoegde Data</translation>
         <translation>Dikte</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
 </context>
 <context>
@@ -11303,7 +13450,7 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>Sluit Voorbeeld</translation>
+        <translation type="obsolete">Sluit Voorbeeld</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -11342,31 +13489,47 @@ Samengevoegde Data</translation>
     </message>
     <message>
         <source>Captions</source>
-        <translation>Onderschiften</translation>
+        <translation type="obsolete">Onderschiften</translation>
     </message>
     <message>
         <source>Cross-reference</source>
         <translation>Kruisverwijzing</translation>
     </message>
     <message>
+        <source>Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnotes</source>
-        <translation>Voetnoten</translation>
+        <translation type="obsolete">Voetnoten</translation>
     </message>
     <message>
         <source>Insert
 Footnote/Endnote</source>
-        <translation>Invoegen
+        <translation type="obsolete">Invoegen
 Voetnoot/Eindnoot</translation>
+    </message>
+    <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Footnote</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Footnote
 and Endnote</source>
-        <translation>Voetnoot en
+        <translation type="obsolete">Voetnoot en
 Eindnoot Invoegen</translation>
     </message>
     <message>
+        <source>Insert TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert ToC</source>
-        <translation>Inhoudstabel Invoegen</translation>
+        <translation type="obsolete">Inhoudstabel Invoegen</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -11413,16 +13576,44 @@ Eindnoot Invoegen</translation>
         <translation>Mailings</translation>
     </message>
     <message>
+        <source>Next Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Footnote/Endnote</source>
-        <translation>Volgende Voetnoot/Eindnoot</translation>
+        <translation type="obsolete">Volgende Voetnoot/Eindnoot</translation>
+    </message>
+    <message>
+        <source>Previous Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Footnote/Endnote</source>
-        <translation>Voetnoot/Eindnoot Tonen</translation>
+        <translation type="obsolete">Voetnoot/Eindnoot Tonen</translation>
+    </message>
+    <message>
+        <source>Show Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
         <translation>Toon of Verberg Voetnoot/Eindnoot Afscheiding</translation>
+    </message>
+    <message>
+        <source>TOC Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -11430,11 +13621,15 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation>Inhoudstabel Niveau</translation>
+        <translation type="obsolete">Inhoudstabel Niveau</translation>
+    </message>
+    <message>
+        <source>Update TOC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>Wijzig Inhoudstabel</translation>
+        <translation type="obsolete">Wijzig Inhoudstabel</translation>
     </message>
 </context>
 <context>
@@ -11452,8 +13647,12 @@ Eindnoot Invoegen</translation>
         <translation>Aanvaard Wijziging</translation>
     </message>
     <message>
+        <source>Accept Selected Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Accept Selection Change</source>
-        <translation>Aanvaard Geselecteerde Veranderingen</translation>
+        <translation type="obsolete">Aanvaard Geselecteerde Veranderingen</translation>
     </message>
     <message>
         <source>All Reviewers</source>
@@ -11461,7 +13660,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Change And Comment</source>
-        <translation>Aanpassen en Opmerking Maken</translation>
+        <translation type="obsolete">Aanpassen en Opmerking Maken</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
@@ -11473,11 +13672,15 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Spellingscontrole</translation>
+        <translation type="obsolete">Spellingscontrole</translation>
+    </message>
+    <message>
+        <source>Chinese Transition</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Chinese Vertaling</translation>
+        <translation type="obsolete">Chinese Vertaling</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -11493,7 +13696,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Verwijderen</translation>
+        <translation type="obsolete">Verwijderen</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -11504,8 +13707,16 @@ Eindnoot Invoegen</translation>
         <translation>Verwijder Opmerking</translation>
     </message>
     <message>
+        <source>Delete Comment@Review-&gt;Delete-&gt;Delete Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Display For Review</source>
-        <translation>Wijzigingsvoorstellen Weergeven</translation>
+        <translation type="obsolete">Wijzigingsvoorstellen Weergeven</translation>
+    </message>
+    <message>
+        <source>Display for Review</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -11585,15 +13796,27 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>Toon de Revisor Informatie in de Ballon</translation>
+        <translation type="obsolete">Toon de Revisor Informatie in de Ballon</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
         <translation>Toon Revisies in Ballonnen</translation>
     </message>
     <message>
+        <source>Show Revisor Information in Balloons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Track Changes</source>
         <translation>Hou Wijzigingen Bij</translation>
+    </message>
+    <message>
+        <source>Tracking</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -11608,11 +13831,15 @@ Eindnoot Invoegen</translation>
     <name>rainbow.ct_section</name>
     <message>
         <source> Contents Page</source>
-        <translation>Inhoudspagina</translation>
+        <translation type="obsolete">Inhoudspagina</translation>
     </message>
     <message>
         <source>Columns</source>
         <translation>Kolommen</translation>
+    </message>
+    <message>
+        <source>Contents Page</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -11623,8 +13850,12 @@ Eindnoot Invoegen</translation>
         <translation>Voorbladen</translation>
     </message>
     <message>
+        <source>Cover and TOC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cover and ToC</source>
-        <translation>Voorpagina en Inhoudstabel</translation>
+        <translation type="obsolete">Voorpagina en Inhoudstabel</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -11632,7 +13863,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -11647,8 +13878,12 @@ Eindnoot Invoegen</translation>
         <translation>Eerste Sectie</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -11735,16 +13970,24 @@ Eindnoot Invoegen</translation>
         <translation>Herbegin Paginanummer</translation>
     </message>
     <message>
+        <source>Section Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Section Manager</source>
-        <translation>Sectiebeheer</translation>
+        <translation type="obsolete">Sectiebeheer</translation>
     </message>
     <message>
         <source>Section Navigation</source>
         <translation>Sectienavigatie</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>Toon / Verberg Sectienavigatie</translation>
+        <translation type="obsolete">Toon / Verberg Sectienavigatie</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -11752,7 +13995,11 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Toon Koptekstlijn</translation>
+        <translation type="obsolete">Toon Koptekstlijn</translation>
+    </message>
+    <message>
+        <source>Show/Hide Section Navigation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -11786,6 +14033,10 @@ Eindnoot Invoegen</translation>
         <translation>3-D Kleur</translation>
     </message>
     <message>
+        <source>3-D Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D On/Off</source>
         <translation>3-D Aan/Uit</translation>
     </message>
@@ -11795,7 +14046,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D Stijl</translation>
+        <translation type="obsolete">3-D Stijl</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -11942,6 +14193,22 @@ Eindnoot Invoegen</translation>
         <translation>Normaal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Parallel</translation>
     </message>
@@ -11962,6 +14229,10 @@ Eindnoot Invoegen</translation>
         <translation>Schaduwkleur</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On/Off</source>
         <translation>Schaduw Aan/Uit</translation>
     </message>
@@ -11971,7 +14242,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduwstijl</translation>
+        <translation type="obsolete">Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -12055,19 +14326,19 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Verschuif Schaduw Omlaag</translation>
+        <translation type="obsolete">Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Verschuif Schaduw naar Links</translation>
+        <translation type="obsolete">Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Shuif Schaduw naar Rechts</translation>
+        <translation type="obsolete">Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Schuif Schaduw Omhoog</translation>
+        <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12174,7 +14445,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -12225,16 +14496,24 @@ Eindnoot Invoegen</translation>
         <translation>Min</translation>
     </message>
     <message>
+        <source>Repeat Header Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Repeat Headings</source>
-        <translation>Koptekst Herhalen</translation>
+        <translation type="obsolete">Koptekst Herhalen</translation>
     </message>
     <message>
         <source>Rows</source>
         <translation>Rijen</translation>
     </message>
     <message>
+        <source>Rows and Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rows/Columns</source>
-        <translation>Rijen/Kolommen</translation>
+        <translation type="obsolete">Rijen/Kolommen</translation>
     </message>
     <message>
         <source>Select</source>
@@ -12259,6 +14538,10 @@ Eindnoot Invoegen</translation>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Selecteer Tabel met Gestreepte Rand</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -12290,7 +14573,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>Tabellen</translation>
+        <translation type="obsolete">Tabellen</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -12322,7 +14605,12 @@ Eindnoot Invoegen</translation>
     <message>
         <source>Close
 Other Window</source>
-        <translation>Sluit Ander Venster</translation>
+        <translation type="obsolete">Sluit Ander Venster</translation>
+    </message>
+    <message>
+        <source>Close
+Other Windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -12342,7 +14630,11 @@ Other Window</source>
     </message>
     <message>
         <source>Document View</source>
-        <translation>Documentbeeld</translation>
+        <translation type="obsolete">Documentbeeld</translation>
+    </message>
+    <message>
+        <source>Document Views</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -12350,11 +14642,15 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Rasterlijnen</translation>
+        <translation type="obsolete">Rasterlijnen</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>Horizontaal Schikken</translation>
+        <translation type="obsolete">Horizontaal Schikken</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -12426,11 +14722,19 @@ Other Window</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>Ander Venster</translation>
+        <translation type="obsolete">Ander Venster</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
         <translation>Synchroon Scrollen</translation>
+    </message>
+    <message>
+        <source>Table Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -12441,8 +14745,12 @@ Other Window</source>
         <translation>Twee Pagina&apos;s</translation>
     </message>
     <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical Arrange</source>
-        <translation>Vertikaal Schikken</translation>
+        <translation type="obsolete">Vertikaal Schikken</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -12484,6 +14792,11 @@ Other Window</source>
         <translation>288 pt</translation>
     </message>
     <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
         <translation>3-D Kleur</translation>
     </message>
@@ -12497,7 +14810,7 @@ Other Window</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3-D Stijl</translation>
+        <translation type="obsolete">3-D Stijl</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -12644,6 +14957,22 @@ Other Window</source>
         <translation>Normaal</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>Parallel</translation>
     </message>
@@ -12660,8 +14989,18 @@ Other Window</source>
         <translation>Semitransparante Schaduw</translation>
     </message>
     <message>
+        <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>Schaduwkleur</translation>
+        <translation type="obsolete">Schaduwkleur</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -12673,7 +15012,7 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>Schaduwstijl</translation>
+        <translation type="obsolete">Schaduwstijl</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -12757,19 +15096,19 @@ Other Window</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>Verschuif Schaduw Omlaag</translation>
+        <translation type="obsolete">Verschuif Schaduw Omlaag</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>Verschuif Schaduw naar Links</translation>
+        <translation type="obsolete">Verschuif Schaduw naar Links</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>Shuif Schaduw naar Rechts</translation>
+        <translation type="obsolete">Shuif Schaduw naar Rechts</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>Schuif Schaduw Omhoog</translation>
+        <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12888,7 +15227,7 @@ Other Window</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>Onderkant (Curve)</translation>
+        <translation type="obsolete">Onderkant (Curve)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
@@ -12905,6 +15244,10 @@ Other Window</source>
     <message>
         <source>Bring to Front</source>
         <translation>Naar Voorkant</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -12925,6 +15268,10 @@ Other Window</source>
     <message>
         <source>Center Alignment</source>
         <translation>Midden Uitlijnen</translation>
+    </message>
+    <message>
+        <source>Character Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -12959,12 +15306,16 @@ Other Window</source>
         <translation>Streepje</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Streepjes</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Streep-punt</translation>
+        <translation type="obsolete">Streep-punt</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -12988,7 +15339,7 @@ Other Window</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Gedetailleerde Instellingen</translation>
+        <translation type="obsolete">Gedetailleerde Instellingen</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -13011,16 +15362,24 @@ Other Window</source>
         <translation>Tekst Bewerken</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Gelijke Grootte</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Gelijke Breedte</translation>
+        <translation type="obsolete">Gelijke Breedte</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -13056,7 +15415,11 @@ Other Window</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Kleurovergang</translation>
+        <translation type="obsolete">Kleurovergang</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid</source>
@@ -13092,7 +15455,7 @@ Other Window</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>WordArt Invoegen</translation>
+        <translation type="obsolete">WordArt Invoegen</translation>
     </message>
     <message>
         <source>Left Alignment</source>
@@ -13107,12 +15470,20 @@ Other Window</source>
         <translation>Lange Streep</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Lange Streep-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Lange Streep-Punt-Punt</translation>
+        <translation type="obsolete">Lange Streep-Punt-Punt</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -13183,6 +15554,10 @@ Other Window</source>
         <translation>Ronde Punt</translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
         <translation>Selectievenster</translation>
     </message>
@@ -13196,7 +15571,15 @@ Other Window</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>Naar Achterkant</translation>
+        <translation type="obsolete">Naar Achterkant</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -13228,7 +15611,7 @@ Other Window</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -13240,7 +15623,15 @@ Other Window</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>Contour</translation>
+        <translation type="obsolete">Contour</translation>
+    </message>
+    <message>
+        <source>Tight@Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight@Wrapping</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -13292,7 +15683,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>Tekenafstand</translation>
+        <translation type="obsolete">Tekenafstand</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
@@ -13308,7 +15699,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>WordArt Zefde Letterhoogte</translation>
+        <translation type="obsolete">WordArt Zefde Letterhoogte</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -13327,27 +15718,51 @@ Other Window</source>
         <translation>WordArt Vertikale Tekst</translation>
     </message>
     <message>
+        <source>WordArt@Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text@rainbow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Auto Backup</source>
-        <translation>Automatische Backup</translation>
+        <translation type="obsolete">Automatische Backup</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>Cloud Feedback</translation>
+        <translation type="obsolete">Cloud Feedback</translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Bekijk Backupmap</translation>
+        <translation type="obsolete">Bekijk Backupmap</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Bekijk Backupversies</translation>
+        <translation type="obsolete">Bekijk Backupversies</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -13355,7 +15770,15 @@ Other Window</source>
     </message>
     <message>
         <source>File Auto Backup</source>
-        <translation>Automatische Bestandsbackup</translation>
+        <translation type="obsolete">Automatische Bestandsbackup</translation>
+    </message>
+    <message>
+        <source>File Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
@@ -13363,19 +15786,19 @@ Other Window</source>
     </message>
     <message>
         <source>Help us improve our product.</source>
-        <translation>Help ons ons product te verbeteren.</translation>
+        <translation type="obsolete">Help ons ons product te verbeteren.</translation>
     </message>
     <message>
-        <source>KOS Create Cloud Link</source>
+        <source>Help us to improve WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation>KOS Mijn Account</translation>
+        <translation type="obsolete">KOS Mijn Account</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>KOS Mijn Account Tip</translation>
+        <translation type="obsolete">KOS Mijn Account Tip</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -13383,15 +15806,19 @@ Other Window</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>Inloggen</translation>
+        <translation type="obsolete">Inloggen</translation>
     </message>
     <message>
         <source>Manual Backup</source>
         <translation>Manuele Backup</translation>
     </message>
     <message>
+        <source>More from Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
-        <translation>Niet Ingelogd</translation>
+        <translation type="obsolete">Niet Ingelogd</translation>
     </message>
     <message>
         <source>Online Documents</source>
@@ -13399,67 +15826,107 @@ Other Window</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Open Uit Cloud</translation>
+        <translation type="obsolete">Open Uit Cloud</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Sla pestand op in Cloud</translation>
+        <translation type="obsolete">Sla pestand op in Cloud</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Stop Automatische Backup</translation>
+        <translation type="obsolete">Stop Automatische Backup</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Guide</source>
         <translation>Gebruiksershandleiding</translation>
     </message>
     <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSpace_Backup</source>
-        <translation>Werkruimte_Backup</translation>
+        <translation type="obsolete">Werkruimte_Backup</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>openwebweibo</translation>
+        <translation type="obsolete">openwebweibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>weibodelen</translation>
+        <translation type="obsolete">weibodelen</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation>weibogereedschap</translation>
+        <translation type="obsolete">weibogereedschap</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
-        <translation>wpsweibolayout</translation>
+        <translation type="obsolete">wpsweibolayout</translation>
     </message>
 </context>
 <context>
     <name>tips.100%</name>
     <message>
         <source>100%</source>
-        <translation>100%</translation>
+        <translation type="obsolete">100%</translation>
     </message>
     <message>
         <source>Zoom the document to 100% of the normal size.</source>
-        <translation type="unfinished">Zoom het document in naar 100% van de normale grootte.</translation>
+        <translation type="obsolete">Zoom het document in naar 100% van de normale grootte.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DColor</name>
     <message>
         <source>3-D color</source>
-        <translation>3-D Kleur</translation>
+        <translation type="obsolete">3-D Kleur</translation>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
-        <translation>Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
+        <translation type="obsolete">Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     </message>
     <message>
         <source>Fill the selected 3-D shape with color.
 
 Click the arrow to select from different 3-D colors.</source>
-        <translation>Klik op de geselecteerde 3-D vorm met kleur.
+        <translation type="obsolete">Klik op de geselecteerde 3-D vorm met kleur.
 
 Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     </message>
@@ -13468,379 +15935,379 @@ Klik op de pijl om te selecteren uit verschillende 3-D kleuren.</translation>
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Change the height of the selected 3-D shape.</source>
-        <translation>De hoogte van de geselecteerde 3-D vorm aanpassen.</translation>
+        <translation type="obsolete">De hoogte van de geselecteerde 3-D vorm aanpassen.</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Diepte</translation>
+        <translation type="obsolete">Diepte</translation>
     </message>
 </context>
 <context>
     <name>tips.3DDirectionPalette</name>
     <message>
         <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation>Het richtingseffect van de geselecteerde 3-D vorm Kiezen.</translation>
+        <translation type="obsolete">Het richtingseffect van de geselecteerde 3-D vorm Kiezen.</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Richting</translation>
+        <translation type="obsolete">Richting</translation>
     </message>
 </context>
 <context>
     <name>tips.3DLightingPalette</name>
     <message>
         <source>Lighting Angle</source>
-        <translation>Belichtingshoek</translation>
+        <translation type="obsolete">Belichtingshoek</translation>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation>De Belichtingshoek en Belichtingssterkte van de geselecteerde 3-D vorm instellen.</translation>
+        <translation type="obsolete">De Belichtingshoek en Belichtingssterkte van de geselecteerde 3-D vorm instellen.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DOnOff</name>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D Aan/Uit</translation>
+        <translation type="obsolete">3-D Aan/Uit</translation>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation>Het 3-D effect van de vorm aan of uitzetten.</translation>
+        <translation type="obsolete">Het 3-D effect van de vorm aan of uitzetten.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DStylePalette</name>
     <message>
         <source>3-D Effects</source>
-        <translation>3_D Effecten</translation>
+        <translation type="obsolete">3_D Effecten</translation>
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
-        <translation>Een 3-D effect aan de afbeelding toevoegen.</translation>
+        <translation type="obsolete">Een 3-D effect aan de afbeelding toevoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DSurfaceMenu</name>
     <message>
         <source>Choose a surface effect for the selected 3-D shape in the document.</source>
-        <translation>Een oppervlakteeffect voor de geselecteerde 3-D vorm in het document kiezen.</translation>
+        <translation type="obsolete">Een oppervlakteeffect voor de geselecteerde 3-D vorm in het document kiezen.</translation>
     </message>
     <message>
         <source>Surface Effects</source>
-        <translation>Oppervlakte effecten</translation>
+        <translation type="obsolete">Oppervlakte effecten</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltDown</name>
     <message>
         <source>Tilt Down</source>
-        <translation>Draai Omlaag</translation>
+        <translation type="obsolete">Draai Omlaag</translation>
     </message>
     <message>
         <source>Tilt the shape forward.</source>
-        <translation>Kantel de vorm voorwaarts.</translation>
+        <translation type="obsolete">Kantel de vorm voorwaarts.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltLeft</name>
     <message>
         <source>Tilt Left</source>
-        <translation>Draai Links</translation>
+        <translation type="obsolete">Draai Links</translation>
     </message>
     <message>
         <source>Tilt the shape to the left.</source>
-        <translation>Kantel de vorm naar links.</translation>
+        <translation type="obsolete">Kantel de vorm naar links.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltRight</name>
     <message>
         <source>Tilt Right</source>
-        <translation>Draai Rechts</translation>
+        <translation type="obsolete">Draai Rechts</translation>
     </message>
     <message>
         <source>Tilt the shape to the right.</source>
-        <translation>Kantel de vorm naar rechts.</translation>
+        <translation type="obsolete">Kantel de vorm naar rechts.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltUp</name>
     <message>
         <source>Tilt Up</source>
-        <translation>Draai Omhoog</translation>
+        <translation type="obsolete">Draai Omhoog</translation>
     </message>
     <message>
         <source>Tilt the shape backward.</source>
-        <translation>Kantel de vorm naar achter.</translation>
+        <translation type="obsolete">Kantel de vorm naar achter.</translation>
     </message>
 </context>
 <context>
     <name>tips.AcceptChangeOnTB</name>
     <message>
         <source>Accept the current change in the document.</source>
-        <translation>Huidige wijzigingen in het document aanvaarden.</translation>
+        <translation type="obsolete">Huidige wijzigingen in het document aanvaarden.</translation>
     </message>
     <message>
         <source>Accept the selected change</source>
-        <translation>Geselecteerde wijzigingen aanvaarden.</translation>
+        <translation type="obsolete">Geselecteerde wijzigingen aanvaarden.</translation>
     </message>
     <message>
         <source>Click the arrow to accept all changes in the document.</source>
-        <translation>Klik op de pijl om alle veranderingen in het documen te aanvaarden.</translation>
+        <translation type="obsolete">Klik op de pijl om alle veranderingen in het documen te aanvaarden.</translation>
     </message>
 </context>
 <context>
     <name>tips.AdjustTableProperties</name>
     <message>
         <source>Open the Table Properties dialog box.</source>
-        <translation>Open het tabeleigenschappen dialoogvenster.</translation>
+        <translation type="obsolete">Open het tabeleigenschappen dialoogvenster.</translation>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation>Tabeleigenschappen</translation>
+        <translation type="obsolete">Tabeleigenschappen</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottomCenter</name>
     <message>
         <source>Align Bottom Center</source>
-        <translation>Gecentreerd Onder Uitlijnen</translation>
+        <translation type="obsolete">Gecentreerd Onder Uitlijnen</translation>
     </message>
     <message>
         <source>Center text and align it to the bottom of the cell.</source>
-        <translation>Centreer tekst en lijn uit naar de onderkant van de cel.</translation>
+        <translation type="obsolete">Centreer tekst en lijn uit naar de onderkant van de cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottomJustified</name>
     <message>
         <source>Align Bottom Justified</source>
-        <translation>Linksonder Uitlijnen</translation>
+        <translation type="obsolete">Linksonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the bottom left corner of the cell.</source>
-        <translation>Tekst uitlijnen naar de onderste linkse hoek van de cel</translation>
+        <translation type="obsolete">Tekst uitlijnen naar de onderste linkse hoek van de cel</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottomRight</name>
     <message>
         <source>Align Bottom Right</source>
-        <translation>Rechtsonder Uitlijnen</translation>
+        <translation type="obsolete">Rechtsonder Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the bottom right corner of the cell.</source>
-        <translation>Tekst uitlijnen naar de onderste rechtse hoek van de cel</translation>
+        <translation type="obsolete">Tekst uitlijnen naar de onderste rechtse hoek van de cel</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenter</name>
     <message>
         <source>Align Center</source>
-        <translation>Centreren</translation>
+        <translation type="obsolete">Centreren</translation>
     </message>
     <message>
         <source>Center text vertically and horizontally within the cell.</source>
-        <translation>Tekst verticaal en horizontaal centreren in de cel.</translation>
+        <translation type="obsolete">Tekst verticaal en horizontaal centreren in de cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenterJustified</name>
     <message>
         <source>Align Center Justified</source>
-        <translation>Linksmidden Uitlijnen</translation>
+        <translation type="obsolete">Linksmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Center text vertically and align it to the left side of the cell.</source>
-        <translation>Tekst verticaal centreren en uitlijnen naar de linkse kant van de cell.</translation>
+        <translation type="obsolete">Tekst verticaal centreren en uitlijnen naar de linkse kant van de cell.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenterRight</name>
     <message>
         <source>Align Center Right</source>
-        <translation>Rechtsmidden Uitlijnen</translation>
+        <translation type="obsolete">Rechtsmidden Uitlijnen</translation>
     </message>
     <message>
         <source>Center text and align it to the right side of the cell.</source>
-        <translation>Tekst Centreren en uitlijnen naar de rechterkant van de cel.</translation>
+        <translation type="obsolete">Tekst Centreren en uitlijnen naar de rechterkant van de cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignStyle</name>
     <message>
         <source>AlignStyle Content</source>
-        <translation>Uitlijnstijl Inhoud</translation>
+        <translation type="obsolete">Uitlijnstijl Inhoud</translation>
     </message>
     <message>
         <source>AlignStyle Title</source>
-        <translation>Uitlijnstijl Titel</translation>
+        <translation type="obsolete">Uitlijnstijl Titel</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTopCenter</name>
     <message>
         <source>Align Top Center</source>
-        <translation>Gecentreerd Boven Uitlijnen</translation>
+        <translation type="obsolete">Gecentreerd Boven Uitlijnen</translation>
     </message>
     <message>
         <source>Center text and align it to the top of the cell.</source>
-        <translation>Tekst centreren en uitlijnen aan de bovenkant van de cel.</translation>
+        <translation type="obsolete">Tekst centreren en uitlijnen aan de bovenkant van de cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTopJustified</name>
     <message>
         <source>Align Top Justified</source>
-        <translation>Linksboven Uitlijnen</translation>
+        <translation type="obsolete">Linksboven Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the top left corner of the cell.</source>
-        <translation>Tekst uitlijnen naar de linkerbovenhoek van de cel.</translation>
+        <translation type="obsolete">Tekst uitlijnen naar de linkerbovenhoek van de cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTopRight</name>
     <message>
         <source>Align Top Right</source>
-        <translation>Rechtboven Uitlijnen</translation>
+        <translation type="obsolete">Rechtboven Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the top right corner of the cell.</source>
-        <translation>Tekst uitlijnen naar de rechterbovenhoek van de cel.</translation>
+        <translation type="obsolete">Tekst uitlijnen naar de rechterbovenhoek van de cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation>Alle Vensters</translation>
+        <translation type="obsolete">Alle Vensters</translation>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
-        <translation>Plaats alle geopende documenten naast elkaar in hetzelfde programmavenster.</translation>
+        <translation type="obsolete">Plaats alle geopende documenten naast elkaar in hetzelfde programmavenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.ArtisticWordCharacterSpacing</name>
     <message>
         <source>Change the spacing between the letters of the selected WordArt text.</source>
-        <translation>De ruimte tussen de letters van de geselecteerde WordArt tekst aanpassen.</translation>
+        <translation type="obsolete">De ruimte tussen de letters van de geselecteerde WordArt tekst aanpassen.</translation>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation>Letterruimte</translation>
+        <translation type="obsolete">Letterruimte</translation>
     </message>
 </context>
 <context>
     <name>tips.AutoAdjustRightIndent</name>
     <message>
         <source>Adjust Right Indent with grid</source>
-        <translation>Rechtse inspringing met raster aanpassen</translation>
+        <translation type="obsolete">Rechtse inspringing met raster aanpassen</translation>
     </message>
     <message>
         <source>Automactically adjust the document right indent when the document grid is defined.
 
 This option is available when grid is defined.</source>
-        <translation>De rechtse inspringen automatisch aanpassen wanneer de documentraster gedefinieerd is.</translation>
+        <translation type="obsolete">De rechtse inspringen automatisch aanpassen wanneer de documentraster gedefinieerd is.</translation>
     </message>
 </context>
 <context>
     <name>tips.AutoFitWindow</name>
     <message>
         <source>AutoFit to Window</source>
-        <translation>Automatisch Schalen aan Venster</translation>
+        <translation type="obsolete">Automatisch Schalen aan Venster</translation>
     </message>
     <message>
         <source>Automatically adjust the table width according to the window size</source>
-        <translation>De tabelbreedte automatisch aanpassen aan de venstergrootte.</translation>
+        <translation type="obsolete">De tabelbreedte automatisch aanpassen aan de venstergrootte.</translation>
     </message>
 </context>
 <context>
     <name>tips.AutoVersion</name>
     <message>
         <source>Enable Auto Backup</source>
-        <translation>Automatische Backups Aanzetten</translation>
+        <translation type="obsolete">Automatische Backups Aanzetten</translation>
     </message>
     <message>
         <source>Enable auto backup for the current document, save backup file to File Safe each time the document is closed.</source>
-        <translation>Automatische backups aanzetten voor het huidige document. Backup wordt opgeslagen in bestandskluis iedere keer het document word gesloten.</translation>
+        <translation type="obsolete">Automatische backups aanzetten voor het huidige document. Backup wordt opgeslagen in bestandskluis iedere keer het document word gesloten.</translation>
     </message>
 </context>
 <context>
     <name>tips.Autobackup</name>
     <message>
         <source>A brief introduction to File Safe.</source>
-        <translation>Een korte introductie tot de bestandskluis.</translation>
+        <translation type="obsolete">Een korte introductie tot de bestandskluis.</translation>
     </message>
     <message>
         <source>File Safe</source>
-        <translation>Bestandskluis</translation>
+        <translation type="obsolete">Bestandskluis</translation>
     </message>
 </context>
 <context>
     <name>tips.BackgroundShapeFillColor</name>
     <message>
         <source>Choose a color for the background of the page.</source>
-        <translation>Kies een kleur voor de achtergrond van de pagina.</translation>
+        <translation type="obsolete">Kies een kleur voor de achtergrond van de pagina.</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Paginakleur</translation>
+        <translation type="obsolete">Paginakleur</translation>
     </message>
 </context>
 <context>
     <name>tips.Bold</name>
     <message>
         <source>Bold</source>
-        <translation>Vet</translation>
+        <translation type="obsolete">Vet</translation>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation>Maak de geselecteerde tekst vet.</translation>
+        <translation type="obsolete">Maak de geselecteerde tekst vet.</translation>
     </message>
 </context>
 <context>
     <name>tips.BreakForwardLink</name>
     <message>
         <source>Break Forward Link</source>
-        <translation>Doorsturlink Breken</translation>
+        <translation type="obsolete">Doorsturlink Breken</translation>
     </message>
     <message>
         <source>Break the link between selected text box and other text box, and place all the text within the current text box.</source>
-        <translation>Breek de connectie tussen geselecteerde tekstvak en het andere tekstvak en plaats alle tekst in het huidig tekstvak.</translation>
+        <translation type="obsolete">Breek de connectie tussen geselecteerde tekstvak en het andere tekstvak en plaats alle tekst in het huidig tekstvak.</translation>
     </message>
 </context>
 <context>
     <name>tips.BringForward</name>
     <message>
         <source>Bring Forward</source>
-        <translation>Naar Voren</translation>
+        <translation type="obsolete">Naar Voren</translation>
     </message>
     <message>
         <source>Bring forward the selected object, or place it in front of all other objects.</source>
-        <translation>Breng het geselecteerd object naar voor of plaats het voor alle andere objecten.</translation>
+        <translation type="obsolete">Breng het geselecteerd object naar voor of plaats het voor alle andere objecten.</translation>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
-        <translation>Breng het geselecteerde object naar voor zodat het niet geblokkeerd word door de andere objecten.</translation>
+        <translation type="obsolete">Breng het geselecteerde object naar voor zodat het niet geblokkeerd word door de andere objecten.</translation>
     </message>
 </context>
 <context>
     <name>tips.Bullets</name>
     <message>
         <source>Bullets</source>
-        <translation>Opsommingstekens</translation>
+        <translation type="obsolete">Opsommingstekens</translation>
     </message>
     <message>
         <source>Click the arrow to choose different bullet styles.</source>
-        <translation>Klik op de pijl om tussen verschillende stijlen van opsommingstekens te kiezen.</translation>
+        <translation type="obsolete">Klik op de pijl om tussen verschillende stijlen van opsommingstekens te kiezen.</translation>
     </message>
     <message>
         <source>Start a bulleted list.
 
 Click the arrow to choose different bullet styles.</source>
-        <translation>Begin een opsomming.
+        <translation type="obsolete">Begin een opsomming.
 
 Klik op de pijl om tussen verschillende stijlen van opsommingstekens te kiezen.</translation>
     </message>
@@ -13849,79 +16316,79 @@ Klik op de pijl om tussen verschillende stijlen van opsommingstekens te kiezen.<
     <name>tips.COMAddIns</name>
     <message>
         <source>Add or delete available COM Add-Ins.</source>
-        <translation>Voeg toe of verwijder beschikbare COM Add-Ins.</translation>
+        <translation type="obsolete">Voeg toe of verwijder beschikbare COM Add-Ins.</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>Invoegtoepassingen</translation>
+        <translation type="obsolete">Invoegtoepassingen</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_DesignMode</name>
     <message>
         <source>Design Mode</source>
-        <translation>Ontwerpmodus</translation>
+        <translation type="obsolete">Ontwerpmodus</translation>
     </message>
     <message>
         <source>Enter design mode to edit controls name and functions.</source>
-        <translation>Ga in design modus om de namen en functies van de elementen te wijzigen.</translation>
+        <translation type="obsolete">Ga in design modus om de namen en functies van de elementen te wijzigen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_MoreControls</name>
     <message>
         <source>Click here to insert a control from the set of controls available on this computer.</source>
-        <translation>Klik hier om een beschikbaar element in te voegen.</translation>
+        <translation type="obsolete">Klik hier om een beschikbaar element in te voegen.</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation>Meer Knoppen</translation>
+        <translation type="obsolete">Meer Knoppen</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_Property</name>
     <message>
         <source>Controls Property</source>
-        <translation>Elementen Eigenschap</translation>
+        <translation type="obsolete">Elementen Eigenschap</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
-        <translation>Bekijk en wijzig de eigenschappen van de geselecteerde elementen.</translation>
+        <translation type="obsolete">Bekijk en wijzig de eigenschappen van de geselecteerde elementen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
-        <translation>Start Visual Basic Editor op om de code van de geselecteerde elementen te wijzigen.</translation>
+        <translation type="obsolete">Start Visual Basic Editor op om de code van de geselecteerde elementen te wijzigen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Bekijk Code</translation>
+        <translation type="obsolete">Bekijk Code</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -13930,617 +16397,605 @@ Klik op de pijl om tussen verschillende stijlen van opsommingstekens te kiezen.<
         <source>Change all the selected text to UPPERCASE, lowercase or other common capitalizations.
 
 Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Border options.</source>
-        <translation>Verander de geselecteerde tekst naar HOOFDLETTERS of kleine letters.
+        <translation type="obsolete">Verander de geselecteerde tekst naar HOOFDLETTERS of kleine letters.
 
 Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakterrand opties.</translation>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>Omzetten Hoofdletters/Kleine Letters</translation>
+        <translation type="obsolete">Omzetten Hoofdletters/Kleine Letters</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>Afbeelding Wijzigen</translation>
+        <translation type="obsolete">Afbeelding Wijzigen</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
-        <translation>Een andere afbeelding weergeven, met behoud van opmaak en het formaat van de huidige afbeelding.</translation>
+        <translation type="obsolete">Een andere afbeelding weergeven, met behoud van opmaak en het formaat van de huidige afbeelding.</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangeTextDirection</name>
     <message>
         <source>Customize the text layout direction in the current section, the entire document, or the selected text box and table.</source>
-        <translation>Pas de tekstrichting aan in de huidige sectie, het volledig document of het geselecteerde tekstvak en tabel.</translation>
+        <translation type="obsolete">Pas de tekstrichting aan in de huidige sectie, het volledig document of het geselecteerde tekstvak en tabel.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Tekstrichting</translation>
+        <translation type="obsolete">Tekstrichting</translation>
     </message>
 </context>
 <context>
     <name>tips.CharacterBorder</name>
     <message>
         <source>Apply a border around a set of characters or sentence.</source>
-        <translation>Maak een rand rond een set tekens of een zin.</translation>
+        <translation type="obsolete">Maak een rand rond een set tekens of een zin.</translation>
     </message>
     <message>
         <source>Character Border</source>
-        <translation>Karacterrand</translation>
+        <translation type="obsolete">Karacterrand</translation>
     </message>
 </context>
 <context>
     <name>tips.CharacterShading</name>
     <message>
         <source>Character Shading</source>
-        <translation>Letterschaduw</translation>
+        <translation type="obsolete">Letterschaduw</translation>
     </message>
     <message>
         <source>Shade the selected text with gray color.</source>
-        <translation>Maak een grijze schaduw rond de geselecteerde tekst.</translation>
+        <translation type="obsolete">Maak een grijze schaduw rond de geselecteerde tekst.</translation>
     </message>
 </context>
 <context>
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>Spellingscontrole</translation>
+        <translation type="obsolete">Spellingscontrole</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
-        <translation>Controleer de spelling van het volledige document.</translation>
+        <translation type="obsolete">Controleer de spelling van het volledige document.</translation>
     </message>
 </context>
 <context>
     <name>tips.Chinese Translation</name>
     <message>
         <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation>Vereenvoudig chinees naar traditioneel chinees instellen gebaseerd op het teken of woord.</translation>
+        <translation type="obsolete">Vereenvoudig chinees naar traditioneel chinees instellen gebaseerd op het teken of woord.</translation>
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
-        <translation>Vereenvoudigd naar Traditioneel Chinees</translation>
+        <translation type="obsolete">Vereenvoudigd naar Traditioneel Chinees</translation>
     </message>
 </context>
 <context>
     <name>tips.CleanLineSpacing</name>
     <message>
         <source>Apply single line spacing to the selected paragraph and snap to the grid.</source>
-        <translation>Pas enkele regelafstand toe op de geselecteerde paragraaf en lijn uit op raster.</translation>
+        <translation type="obsolete">Pas enkele regelafstand toe op de geselecteerde paragraaf en lijn uit op raster.</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
-        <translation>Regelafstand Schoonmaken</translation>
+        <translation type="obsolete">Regelafstand Schoonmaken</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearFormats</name>
     <message>
         <source>Clear Formatting</source>
-        <translation>Wis Opmaak</translation>
+        <translation type="obsolete">Wis Opmaak</translation>
     </message>
     <message>
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
-        <translation>Verwijder alle opmaak van de geselecteerde tekst zodat enkel de platte tekst overblijft.</translation>
+        <translation type="obsolete">Verwijder alle opmaak van de geselecteerde tekst zodat enkel de platte tekst overblijft.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation>Tabelstijl wissen</translation>
+        <translation type="obsolete">Tabelstijl wissen</translation>
     </message>
     <message>
         <source>Clear table style of selected cell range.</source>
-        <translation>Verwijder de tabelstijl van de geselecteerde cellen.</translation>
+        <translation type="obsolete">Verwijder de tabelstijl van de geselecteerde cellen.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseDevelopmentTools</name>
     <message>
         <source>Click here to hide Developer Tools.</source>
-        <translation>Klik hier om de Ontwikkelaarstools te verbergen.</translation>
+        <translation type="obsolete">Klik hier om de Ontwikkelaarstools te verbergen.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation type="obsolete">Sluiten</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseHeaderAndFooter</name>
     <message>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation type="obsolete">Sluiten</translation>
     </message>
     <message>
         <source>Close Header and Footer Tools, and return to editing the document.</source>
-        <translation>Sluit de koptekst en voettekst tools en ga verder met het bewerken van het document.</translation>
+        <translation type="obsolete">Sluit de koptekst en voettekst tools en ga verder met het bewerken van het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseMail</name>
     <message>
         <source>Click here to hide Mailings tab.</source>
-        <translation>Klik hier om het brieven tabblad te verwijderen.</translation>
+        <translation type="obsolete">Klik hier om het brieven tabblad te verwijderen.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation type="obsolete">Sluiten</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOtherWindow</name>
     <message>
         <source>Close Other Windows</source>
-        <translation>Sluit Andere Vensters</translation>
+        <translation type="obsolete">Sluit Andere Vensters</translation>
     </message>
     <message>
         <source>Close all other windows except the current one.</source>
-        <translation>Sluit alle vensters behalve het huidige.</translation>
+        <translation type="obsolete">Sluit alle vensters behalve het huidige.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOutlineview</name>
     <message>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation type="obsolete">Sluiten</translation>
     </message>
     <message>
         <source>Close Outline View and return to editing the document.</source>
-        <translation>Sluit de Overzichtsweergave en ga verder met het document te bewerken.</translation>
+        <translation type="obsolete">Sluit de Overzichtsweergave en ga verder met het document te bewerken.</translation>
     </message>
 </context>
 <context>
     <name>tips.ClosePreview</name>
     <message>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation type="obsolete">Sluiten</translation>
     </message>
     <message>
         <source>Close Print Preview, and return to editing the document.</source>
-        <translation>Sluit het afdrukvoorbeeld en ga verder met het document te bewerken.</translation>
+        <translation type="obsolete">Sluit het afdrukvoorbeeld en ga verder met het document te bewerken.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation>Venster sluiten</translation>
+        <translation type="obsolete">Venster sluiten</translation>
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation>Sluit het huidig venster.</translation>
+        <translation type="obsolete">Sluit het huidig venster.</translation>
     </message>
 </context>
 <context>
     <name>tips.CmpSideBySide</name>
     <message>
         <source>View Side by Side</source>
-        <translation>Bekijk Naast Elkaar</translation>
+        <translation type="obsolete">Bekijk Naast Elkaar</translation>
     </message>
     <message>
         <source>View two documents side by side to compare their contents.</source>
-        <translation>Bekijk twee documenten naast elkaar om ze te vergelijken.</translation>
+        <translation type="obsolete">Bekijk twee documenten naast elkaar om ze te vergelijken.</translation>
     </message>
 </context>
 <context>
     <name>tips.CollapseOnOutlining</name>
     <message>
         <source>Collapse</source>
-        <translation>Samenvouwen</translation>
+        <translation type="obsolete">Samenvouwen</translation>
     </message>
     <message>
         <source>Collapse the selected item.</source>
-        <translation>Het geselecteerde item samenvouwen.</translation>
+        <translation type="obsolete">Het geselecteerde item samenvouwen.</translation>
     </message>
 </context>
 <context>
     <name>tips.CompressPictures</name>
     <message>
         <source>Compress Picture</source>
-        <translation>Comprimeer Afbeelding</translation>
+        <translation type="obsolete">Comprimeer Afbeelding</translation>
     </message>
     <message>
         <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation>Afbeeldingen in het document comprimeren om de afbeeldingsgrootte te verkleinen.</translation>
+        <translation type="obsolete">Afbeeldingen in het document comprimeren om de afbeeldingsgrootte te verkleinen.</translation>
     </message>
 </context>
 <context>
     <name>tips.ConvertTabletoText</name>
     <message>
         <source>Convert Table to Text</source>
-        <translation>Zet Tabel om naar Tekst</translation>
+        <translation type="obsolete">Zet Tabel om naar Tekst</translation>
     </message>
     <message>
         <source>Convert table to text paragraph separated with commas, space or other characters.</source>
-        <translation>De tabel omzetten naar een tekstparagraaf, verdeeld door komma&apos;s, spaties en andere tekens.</translation>
+        <translation type="obsolete">De tabel omzetten naar een tekstparagraaf, verdeeld door komma&apos;s, spaties en andere tekens.</translation>
     </message>
 </context>
 <context>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
-        <translation>Kopiëren</translation>
+        <translation type="obsolete">Kopiëren</translation>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation>Kopieer de selectie en zet het op het klembord.</translation>
+        <translation type="obsolete">Kopieer de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.CoverPages</name>
     <message>
         <source>Choose from different cover page styles and insert into the document. You can fill in the title, author, email address and other information.</source>
-        <translation>Kies uit verschillende voorpagina&apos;s en voeg ze toe aan het document. Je kan de titel, auteur, email adress en andere informatie invullen.</translation>
+        <translation type="obsolete">Kies uit verschillende voorpagina&apos;s en voeg ze toe aan het document. Je kan de titel, auteur, email adress en andere informatie invullen.</translation>
     </message>
     <message>
         <source>Insert Cover Page</source>
-        <translation>Voorpagina invoegen</translation>
+        <translation type="obsolete">Voorpagina invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.CreateTextBoxLink</name>
     <message>
         <source>Create Text Box Link</source>
-        <translation>Maak Tekstvak Link</translation>
+        <translation type="obsolete">Maak Tekstvak Link</translation>
     </message>
     <message>
         <source>Link the selected text box to another empty textbox so that text flows from the current text box to the linked empty text box.</source>
-        <translation>Connecteer het geselecteerde tekstvak en een ander, leeg tekstvak zodat de tekst overgaat van het ene in de andere tekstvak.</translation>
+        <translation type="obsolete">Connecteer het geselecteerde tekstvak en een ander, leeg tekstvak zodat de tekst overgaat van het ene in de andere tekstvak.</translation>
     </message>
 </context>
 <context>
     <name>tips.CrossReference</name>
     <message>
         <source>Cross-reference</source>
-        <translation>Kruisverwijzing</translation>
+        <translation type="obsolete">Kruisverwijzing</translation>
     </message>
     <message>
         <source>Use cross-reference to refer to headings and figures in the document.</source>
-        <translation>Gebruik een kruisverwijzing om te verwijzen naar koptekst en afbeeldingen in het document.</translation>
+        <translation type="obsolete">Gebruik een kruisverwijzing om te verwijzen naar koptekst en afbeeldingen in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.Cut</name>
     <message>
         <source>Cut</source>
-        <translation>Knippen</translation>
+        <translation type="obsolete">Knippen</translation>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation>Knip de selectie en zet het op het klembord.</translation>
+        <translation type="obsolete">Knip de selectie en zet het op het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseIndent</name>
     <message>
         <source>Decrease Indent</source>
-        <translation>Verklein Inspringing</translation>
+        <translation type="obsolete">Verklein Inspringing</translation>
     </message>
     <message>
         <source>Decrease the indent level of the paragraph.</source>
-        <translation>Verklein de inspringing van de paragraaf.</translation>
+        <translation type="obsolete">Verklein de inspringing van de paragraaf.</translation>
     </message>
 </context>
 <context>
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation>Verwijderen</translation>
+        <translation type="obsolete">Verwijderen</translation>
     </message>
     <message>
         <source>Delete the current cell, row, column or the whole table.</source>
-        <translation>Verwijder de huidige cel, rij, kolom of de volledige tabel.</translation>
+        <translation type="obsolete">Verwijder de huidige cel, rij, kolom of de volledige tabel.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteSection</name>
     <message>
         <source>Delete Section</source>
-        <translation>Verwijder Sectie</translation>
+        <translation type="obsolete">Verwijder Sectie</translation>
     </message>
     <message>
         <source>Delete the currently selected section.</source>
-        <translation>Verwijder de geselecteerde sectie.</translation>
+        <translation type="obsolete">Verwijder de geselecteerde sectie.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteOnOutlining</name>
     <message>
         <source>Demote</source>
-        <translation>Verlaag</translation>
+        <translation type="obsolete">Verlaag</translation>
     </message>
     <message>
         <source>Demote this item to a lower level.</source>
-        <translation>Verlaag dit item tot een lager niveau.</translation>
+        <translation type="obsolete">Verlaag dit item tot een lager niveau.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteOnParagraph</name>
     <message>
         <source>Demote Outline Level</source>
-        <translation>Verlaag het Uitlijningsniveau</translation>
+        <translation type="obsolete">Verlaag het Uitlijningsniveau</translation>
     </message>
     <message>
         <source>Demote the selected paragraph to a lower outline level.</source>
-        <translation>Verlaag de geselecteerde paragraaf naar een lager uitlijningsniveau.</translation>
+        <translation type="obsolete">Verlaag de geselecteerde paragraaf naar een lager uitlijningsniveau.</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteToLowestLevelOnOutlining</name>
     <message>
         <source>Demote this item to the lowest level of the outline.</source>
-        <translation>Verlaag dit item naar het laagste uitlijningsniveau.</translation>
+        <translation type="obsolete">Verlaag dit item naar het laagste uitlijningsniveau.</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>Verlaag naar Tekstlichaam</translation>
+        <translation type="obsolete">Verlaag naar Tekstlichaam</translation>
     </message>
 </context>
 <context>
     <name>tips.DemoteToLowestLevelOnParagraph</name>
     <message>
         <source>Demote the selected paragraph to the lowest level of the directory.</source>
-        <translation>Verlaag de geselecteerde paragraaf naar de laagste directoryniveau.</translation>
+        <translation type="obsolete">Verlaag de geselecteerde paragraaf naar de laagste directoryniveau.</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>Verlaag naar Tekstlichaam</translation>
+        <translation type="obsolete">Verlaag naar Tekstlichaam</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_DrawingTools</name>
     <message>
         <source>DetailedSettings DrawingTools Content</source>
-        <translation>DetailedSettings DrawingTools Content</translation>
+        <translation type="obsolete">DetailedSettings DrawingTools Content</translation>
     </message>
     <message>
         <source>DetailedSettings DrawingTools Title</source>
-        <translation>DetailedSettings DrawingTools Title</translation>
+        <translation type="obsolete">DetailedSettings DrawingTools Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_Home</name>
     <message>
         <source>DetailedSettings Home Content</source>
-        <translation>DetailedSettings Home Content</translation>
+        <translation type="obsolete">DetailedSettings Home Content</translation>
     </message>
     <message>
         <source>DetailedSettings Home Title</source>
-        <translation>DetailedSettings Home Title</translation>
+        <translation type="obsolete">DetailedSettings Home Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_PageLayout</name>
     <message>
         <source>DetailedSettings PageLayout Content</source>
-        <translation>DetailedSettings PageLayout Content</translation>
+        <translation type="obsolete">DetailedSettings PageLayout Content</translation>
     </message>
     <message>
         <source>DetailedSettings PageLayout Title</source>
-        <translation>DetailedSettings PageLayout Title</translation>
+        <translation type="obsolete">DetailedSettings PageLayout Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_Paragraph</name>
     <message>
         <source>DetailedSettings Paragraph Content</source>
-        <translation>DetailedSettings Paragraph Content</translation>
+        <translation type="obsolete">DetailedSettings Paragraph Content</translation>
     </message>
     <message>
         <source>DetailedSettings Paragraph Title</source>
-        <translation>DetailedSettings Paragraph Title</translation>
+        <translation type="obsolete">DetailedSettings Paragraph Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_PictureTools</name>
     <message>
         <source>DetailedSettings PictureTools Content</source>
-        <translation>DetailedSettings PictureTools Content</translation>
+        <translation type="obsolete">DetailedSettings PictureTools Content</translation>
     </message>
     <message>
         <source>DetailedSettings PictureTools Title</source>
-        <translation>DetailedSettings PictureTools Title</translation>
+        <translation type="obsolete">DetailedSettings PictureTools Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_Section</name>
     <message>
         <source>DetailedSettings Section Content</source>
-        <translation>DetailedSettings Section Content</translation>
+        <translation type="obsolete">DetailedSettings Section Content</translation>
     </message>
     <message>
         <source>DetailedSettings Section Title</source>
-        <translation>DetailedSettings Section Title</translation>
+        <translation type="obsolete">DetailedSettings Section Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_TableTools</name>
     <message>
         <source>DetailedSettings TableTools Content</source>
-        <translation>DetailedSettings TableTools Content</translation>
+        <translation type="obsolete">DetailedSettings TableTools Content</translation>
     </message>
     <message>
         <source>DetailedSettings TableTools Title</source>
-        <translation>DetailedSettings TableTools Title</translation>
+        <translation type="obsolete">DetailedSettings TableTools Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_WordArt</name>
     <message>
         <source>DetailedSettings WordArt Content</source>
-        <translation>DetailedSettings WordArt Content</translation>
+        <translation type="obsolete">DetailedSettings WordArt Content</translation>
     </message>
     <message>
         <source>DetailedSettings WordArt Title</source>
-        <translation>DetailedSettings WordArt Title</translation>
+        <translation type="obsolete">DetailedSettings WordArt Title</translation>
     </message>
 </context>
 <context>
     <name>tips.DevelopmentTools</name>
     <message>
         <source>Developer Tools</source>
-        <translation>Ontwikkelaarstools</translation>
+        <translation type="obsolete">Ontwikkelaarstools</translation>
     </message>
     <message>
         <source>Open the Developer Tools tab to insert the Option Button, Check Box and more.</source>
-        <translation>Open het ontwikkelaarstools tabblad om de Opties knop en het selectievak.in te voegen.</translation>
+        <translation type="obsolete">Open het ontwikkelaarstools tabblad om de Opties knop en het selectievak.in te voegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.DirectoryLevel</name>
     <message>
         <source>Directory Level</source>
-        <translation>Directory Niveau</translation>
+        <translation type="obsolete">Directory Niveau</translation>
     </message>
     <message>
         <source>Set the directory level for the selected paragraph.</source>
-        <translation>Het directory niveau voor de geselecteerde paragraaf instellen.</translation>
+        <translation type="obsolete">Het directory niveau voor de geselecteerde paragraaf instellen.</translation>
     </message>
 </context>
 <context>
     <name>tips.DisableLineHeightGrid</name>
     <message>
         <source>Align the text content according to the grid.</source>
-        <translation>Lijn de tekstinhoud uit op het raster.</translation>
+        <translation type="obsolete">Lijn de tekstinhoud uit op het raster.</translation>
     </message>
     <message>
         <source>Snap to grid</source>
-        <translation>Uitlijnen op raster</translation>
+        <translation type="obsolete">Uitlijnen op raster</translation>
     </message>
 </context>
 <context>
     <name>tips.DisplayForReview</name>
     <message>
         <source>Choose how to view the proposed changes to the document.</source>
-        <translation>Kies hoe de voorgestelde wijzigingen weergegeven worden.</translation>
+        <translation type="obsolete">Kies hoe de voorgestelde wijzigingen weergegeven worden.</translation>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>Wijzigingsvoorstellen Weergeven</translation>
+        <translation type="obsolete">Wijzigingsvoorstellen Weergeven</translation>
     </message>
 </context>
 <context>
     <name>tips.DistributeColumns</name>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>Kolommen Gelijk Verdelen</translation>
+        <translation type="obsolete">Kolommen Gelijk Verdelen</translation>
     </message>
     <message>
         <source>Distribute the width of the selected columns equally between them.</source>
-        <translation>De breedte van de geselecteerde kolommen gelijkmaken.</translation>
+        <translation type="obsolete">De breedte van de geselecteerde kolommen gelijkmaken.</translation>
     </message>
 </context>
 <context>
     <name>tips.DistributeRows</name>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>Rijen Gelijk Verdelen</translation>
+        <translation type="obsolete">Rijen Gelijk Verdelen</translation>
     </message>
     <message>
         <source>Distribute the height of the selected rows equally between them.</source>
-        <translation>De hoogte van de geselecteerde rijen gelijk verdelen.</translation>
+        <translation type="obsolete">De hoogte van de geselecteerde rijen gelijk verdelen.</translation>
     </message>
 </context>
 <context>
     <name>tips.DoublePages</name>
     <message>
         <source>Two Pages</source>
-        <translation>Twee Pagina&apos;s</translation>
+        <translation type="obsolete">Twee Pagina&apos;s</translation>
     </message>
     <message>
         <source>Zoom the document so that two pages fit in the window.</source>
-        <translation>Het document zoomen zodat je twee pagina&apos;s ziet.</translation>
+        <translation type="obsolete">Het document zoomen zodat je twee pagina&apos;s ziet.</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawTable</name>
     <message>
         <source>Draw Table</source>
-        <translation>Teken Tabel</translation>
+        <translation type="obsolete">Teken Tabel</translation>
     </message>
     <message>
         <source>Draw the borders of a table.</source>
-        <translation>Teken de randen van de tabel.</translation>
+        <translation type="obsolete">Teken de randen van de tabel.</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawingToolsDetailedSettings</name>
-    <message>
-        <source>DrawingToolsDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DrawingToolsDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
-        <translation>Paragraaf laten beginnen met een grote letter of initiaalletter.</translation>
-    </message>
-    <message>
-        <source>Drop Cap</source>
-        <translation></translation>
+        <translation type="obsolete">Paragraaf laten beginnen met een grote letter of initiaalletter.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation>Punten bewerken</translation>
+        <translation type="obsolete">Punten bewerken</translation>
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>
-        <translation>Bewerk de hoekpunten om de afbeelding aan te passen.</translation>
+        <translation type="obsolete">Bewerk de hoekpunten om de afbeelding aan te passen.</translation>
     </message>
 </context>
 <context>
     <name>tips.EditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation>Bewerk WordArt Tekst</translation>
+        <translation type="obsolete">Bewerk WordArt Tekst</translation>
     </message>
     <message>
         <source>Edit the text of the selected WordArt.</source>
-        <translation>Bewerk de tekst van de geselecteerde WordArt.</translation>
+        <translation type="obsolete">Bewerk de tekst van de geselecteerde WordArt.</translation>
     </message>
 </context>
 <context>
@@ -14549,13 +17004,13 @@ Klik op de pijl om te kiezen tussen fonetische gids, tekens insluiten en karakte
         <source>Add black dots under selected content to show emphasis.
 
 Click the arrow to add a strikethrough.</source>
-        <translation>Zwarte punten toevoegen onder de geselecteerde inhoud om een nadruk te leggen.
+        <translation type="obsolete">Zwarte punten toevoegen onder de geselecteerde inhoud om een nadruk te leggen.
 
 Klik op de pijl om de tekst te doorstrepen.</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Nadruk Teken</translation>
+        <translation type="obsolete">Nadruk Teken</translation>
     </message>
 </context>
 <context>
@@ -14564,122 +17019,122 @@ Klik op de pijl om de tekst te doorstrepen.</translation>
         <source>Add a circle or other border around a character.
 
 Click the arrow to choose Phonetic Guide, Change Case and Character Border options.</source>
-        <translation>Een cirkel of een andere rand rond de letter maken.
+        <translation type="obsolete">Een cirkel of een andere rand rond de letter maken.
 
 Klik op de pijl om een fonetische gids te kiezen of de rand aan te passen.</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>Sluit Tekens In</translation>
+        <translation type="obsolete">Sluit Tekens In</translation>
     </message>
 </context>
 <context>
     <name>tips.EnterParagraphAdjustment</name>
     <message>
         <source>Enter Paragraph Layout mode.</source>
-        <translation>Ga naar paragraafopmaak modus.</translation>
+        <translation type="obsolete">Ga naar paragraafopmaak modus.</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
-        <translation>Paragraafopmaak</translation>
+        <translation type="obsolete">Paragraafopmaak</translation>
     </message>
 </context>
 <context>
     <name>tips.ExitParagraph</name>
     <message>
         <source>Close</source>
-        <translation>Sluiten</translation>
+        <translation type="obsolete">Sluiten</translation>
     </message>
     <message>
         <source>Close the Paragraph Layout tool and return to editing the document.</source>
-        <translation>Sluit de paragraafopmaak hulpvenster en ga verder met het document aan te passen.</translation>
+        <translation type="obsolete">Sluit de paragraafopmaak hulpvenster en ga verder met het document aan te passen.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExpandOnOutlining</name>
     <message>
         <source>Expand</source>
-        <translation>Uitvouwen</translation>
+        <translation type="obsolete">Uitvouwen</translation>
     </message>
     <message>
         <source>Expand the selected item.</source>
-        <translation>Het geselecteerde item uitvouwen.</translation>
+        <translation type="obsolete">Het geselecteerde item uitvouwen.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorBackupDir</name>
     <message>
         <source>Explore File Safe</source>
-        <translation>Bestandenkluis Bekijken</translation>
+        <translation type="obsolete">Bestandenkluis Bekijken</translation>
     </message>
     <message>
         <source>View backup files and open or recover the backup files for a certain document.</source>
-        <translation>Bekijk de backupbestanden en bekijk of herstel de backup van een bepaald document.</translation>
+        <translation type="obsolete">Bekijk de backupbestanden en bekijk of herstel de backup van een bepaald document.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorVersion</name>
     <message>
         <source>View Backup History</source>
-        <translation>Bekijk Backupgeschiedenis</translation>
+        <translation type="obsolete">Bekijk Backupgeschiedenis</translation>
     </message>
     <message>
         <source>View the backup record history of the current document to open, delete or restore the files.</source>
-        <translation>Bekijk de backupgeschiedenis van het huidig document en open, verwijder of herstel een vorige versie.</translation>
+        <translation type="obsolete">Bekijk de backupgeschiedenis van het huidig document en open, verwijder of herstel een vorige versie.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExportWeiboImageCmd</name>
     <message>
         <source>Export Weibo Image</source>
-        <translation>Exporteer Weibo Afbeelding</translation>
+        <translation type="obsolete">Exporteer Weibo Afbeelding</translation>
     </message>
 </context>
 <context>
     <name>tips.FieldFormula</name>
     <message>
         <source>Add a formula to a cell, to perform a simple calculation, such as SUM, AVERAGE or MAX.</source>
-        <translation>Een formule aan een cel toevoegen om een berekening uit te voegen zoals SOM, GEMIDDELDE of MAX.</translation>
+        <translation type="obsolete">Een formule aan een cel toevoegen om een berekening uit te voegen zoals SOM, GEMIDDELDE of MAX.</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>Formule</translation>
+        <translation type="obsolete">Formule</translation>
     </message>
 </context>
 <context>
     <name>tips.FillColor</name>
     <message>
         <source>Click the arrow to choose different fill types.</source>
-        <translation>Klik op de pijl om verschillende inhoudstypes te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om verschillende inhoudstypes te selecteren.</translation>
     </message>
     <message>
         <source>Fill the selected shape with color, gradient, a texture, or a picture.
 
 Click the arrow to choose different fill types.</source>
-        <translation>Vul de geselecteerde vorm met een kleur, kleurovergang, tekstuur of een afbeelding.
+        <translation type="obsolete">Vul de geselecteerde vorm met een kleur, kleurovergang, tekstuur of een afbeelding.
 
 Klik op de pijl om verschillende inhoudtypes te selecteren. </translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Afbeeldingsinhoud</translation>
+        <translation type="obsolete">Afbeeldingsinhoud</translation>
     </message>
 </context>
 <context>
     <name>tips.Find</name>
     <message>
         <source>Click the arrow to choose other options, such as Go To.</source>
-        <translation>Klik op de pijl om andere opties te kiezen, zoals Ga Naar.</translation>
+        <translation type="obsolete">Klik op de pijl om andere opties te kiezen, zoals Ga Naar.</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Zoeken</translation>
+        <translation type="obsolete">Zoeken</translation>
     </message>
     <message>
         <source>Find text in the document.
 
 Click the arrow to choose other options, such as Go To.</source>
-        <translation>Zoek tekst in het document.
+        <translation type="obsolete">Zoek tekst in het document.
 
 Klik op de pijl om andere opties te kiezen, zoals Ga Naar.</translation>
     </message>
@@ -14688,33 +17143,33 @@ Klik op de pijl om andere opties te kiezen, zoals Ga Naar.</translation>
     <name>tips.FirstPageIsDifferent</name>
     <message>
         <source>Different First Page</source>
-        <translation>Eerste Pagina Verschillend</translation>
+        <translation type="obsolete">Eerste Pagina Verschillend</translation>
     </message>
     <message>
         <source>Specify a unique header and footer for the first page of the document.</source>
-        <translation>Specifieer een unieke koptekst en voettekst voor de eerste pagina van het document.</translation>
+        <translation type="obsolete">Specifieer een unieke koptekst en voettekst voor de eerste pagina van het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.FirstRecord</name>
     <message>
         <source>First Record</source>
-        <translation>Eerste Vermelding</translation>
+        <translation type="obsolete">Eerste Vermelding</translation>
     </message>
     <message>
         <source>Preview the first record in the recipient list.</source>
-        <translation>Bekijk de eerste vermelding in de ontvangerslijst.</translation>
+        <translation type="obsolete">Bekijk de eerste vermelding in de ontvangerslijst.</translation>
     </message>
 </context>
 <context>
     <name>tips.FirstSection</name>
     <message>
         <source>First Section</source>
-        <translation>Eerste Sectie</translation>
+        <translation type="obsolete">Eerste Sectie</translation>
     </message>
     <message>
         <source>Go to the first section of the document.</source>
-        <translation>Ga naar de eerste sectie van het document.</translation>
+        <translation type="obsolete">Ga naar de eerste sectie van het document.</translation>
     </message>
 </context>
 <context>
@@ -14723,124 +17178,124 @@ Klik op de pijl om andere opties te kiezen, zoals Ga Naar.</translation>
         <source>Change the text color.
 
 Click the arrow to choose a different text color.</source>
-        <translation>Pas de tekstkleur aan.
+        <translation type="obsolete">Pas de tekstkleur aan.
 
 Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
-        <translation>Klik op de pijl om een andere tekstkleur te kiezen.</translation>
+        <translation type="obsolete">Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Tekstkleur</translation>
+        <translation type="obsolete">Tekstkleur</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.FontName</name>
     <message>
         <source>Change the font face.</source>
-        <translation>Verander het lettertype.</translation>
+        <translation type="obsolete">Verander het lettertype.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Lettertype</translation>
+        <translation type="obsolete">Lettertype</translation>
     </message>
 </context>
 <context>
     <name>tips.FontSize</name>
     <message>
         <source>Change the font size.</source>
-        <translation>Verander de lettergrootte.</translation>
+        <translation type="obsolete">Verander de lettergrootte.</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tekengrootte</translation>
+        <translation type="obsolete">Tekengrootte</translation>
     </message>
 </context>
 <context>
     <name>tips.FooterLinkToPrevious</name>
     <message>
         <source>Link the current footer to the previous section.</source>
-        <translation>Link de huidige voettekst aan de vorige sectie.</translation>
+        <translation type="obsolete">Link de huidige voettekst aan de vorige sectie.</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation>Zelfde als vorige sectie</translation>
+        <translation type="obsolete">Zelfde als vorige sectie</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignCenter</name>
     <message>
         <source>Center</source>
-        <translation>Centreren</translation>
+        <translation type="obsolete">Centreren</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation>Centreer tekst.</translation>
+        <translation type="obsolete">Centreer tekst.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignDistributed</name>
     <message>
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
-        <translation>De paragraaf zowel links als rechts uitlijnen door extra plaats tussen de tekens te laten.</translation>
+        <translation type="obsolete">De paragraaf zowel links als rechts uitlijnen door extra plaats tussen de tekens te laten.</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>Recht Uitlijnen</translation>
+        <translation type="obsolete">Recht Uitlijnen</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignJustify</name>
     <message>
         <source>Align text to both the left and right margins by adding extra space between words as necessary.</source>
-        <translation>De paragraaf zowel links als rechts uitlijnen door extra plaats tussen de woorden te laten.</translation>
+        <translation type="obsolete">De paragraaf zowel links als rechts uitlijnen door extra plaats tussen de woorden te laten.</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Uitvullen</translation>
+        <translation type="obsolete">Uitvullen</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation>Tekst Links Uitlijnen</translation>
+        <translation type="obsolete">Tekst Links Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation>Tekst links uitlijnen.</translation>
+        <translation type="obsolete">Tekst links uitlijnen.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation>Tekst Rechts Uitlijnen</translation>
+        <translation type="obsolete">Tekst Rechts Uitlijnen</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation>Tekst rechts uitlijnen.</translation>
+        <translation type="obsolete">Tekst rechts uitlijnen.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatObject</name>
     <message>
         <source>Format Object</source>
-        <translation>Objectopmaak</translation>
+        <translation type="obsolete">Objectopmaak</translation>
     </message>
     <message>
         <source>Show the Format Object dialog box.</source>
-        <translation>Toon het objectopmaak dialoogvenster.</translation>
+        <translation type="obsolete">Toon het objectopmaak dialoogvenster.</translation>
     </message>
 </context>
 <context>
@@ -14849,45 +17304,45 @@ Klik op de pijl om een andere tekstkleur te kiezen.</translation>
         <source>Copy formatting from one place to apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation>Kopieer de opmaak van een plaats en pas ze toe op een andere plaats.
+        <translation type="obsolete">Kopieer de opmaak van een plaats en pas ze toe op een andere plaats.
 
 Dubbelklik deze knop om dezelfde opmaak op verschillende plaatsen in het document toe te passen.</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Opmaak Kopiëren/Plakken</translation>
+        <translation type="obsolete">Opmaak Kopiëren/Plakken</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.FullScreenMode</name>
     <message>
         <source>Full Screen Mode</source>
-        <translation>Volledig scherm modus</translation>
+        <translation type="obsolete">Volledig scherm modus</translation>
     </message>
     <message>
         <source>View the document in full screen mode.</source>
-        <translation>Bekijk het document in volledig scherm modus.</translation>
+        <translation type="obsolete">Bekijk het document in volledig scherm modus.</translation>
     </message>
 </context>
 <context>
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Gallery</source>
-        <translation>Kingsoft Gallerij</translation>
+        <translation type="obsolete">Kingsoft Gallerij</translation>
     </message>
     <message>
         <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 Kingsoft Gallery Online Sources require internet connection. My Gallery can be used  without internet after logging in. </source>
-        <translation>Met Kingsoft Gallerij kan jeafbeeldingen selecteren uit verschillende afbeeldingsbronnen.
+        <translation type="obsolete">Met Kingsoft Gallerij kan jeafbeeldingen selecteren uit verschillende afbeeldingsbronnen.
 
 Kingsoft Gallerij Online heeft internetverbinding nodig. Mijn Gallerij kan gebruikt worden zonder het internet na in te loggen.</translation>
     </message>
@@ -14896,87 +17351,87 @@ Kingsoft Gallerij Online heeft internetverbinding nodig. Mijn Gallerij kan gebru
     <name>tips.GenkoSetting</name>
     <message>
         <source>Apply Genko settings to the current document.</source>
-        <translation>Genko instellingen toepassen op het huidige document.</translation>
+        <translation type="obsolete">Genko instellingen toepassen op het huidige document.</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>Genko Instelling</translation>
+        <translation type="obsolete">Genko Instelling</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.GotoFootnotes</name>
     <message>
         <source>Go to Footnotes or Endnotes in the document.</source>
-        <translation>Ga naar de volgende voetnoot of eindnoot in het document.</translation>
+        <translation type="obsolete">Ga naar de volgende voetnoot of eindnoot in het document.</translation>
     </message>
     <message>
         <source>Next Footnote/Endnotes</source>
-        <translation>Volgende voetnoot/eindnoot</translation>
+        <translation type="obsolete">Volgende voetnoot/eindnoot</translation>
     </message>
 </context>
 <context>
     <name>tips.GotoRecord</name>
     <message>
         <source>Go to Record</source>
-        <translation>Ga naar Vermelding</translation>
+        <translation type="obsolete">Ga naar Vermelding</translation>
     </message>
     <message>
         <source>View a specific record in the Recipient list</source>
-        <translation>Bekijk een specifieke vermelding in de ontvangers lijst</translation>
+        <translation type="obsolete">Bekijk een specifieke vermelding in de ontvangers lijst</translation>
     </message>
 </context>
 <context>
     <name>tips.GotoTocOnOutlining</name>
     <message>
         <source>Go to ToC</source>
-        <translation>Ga naar Inhoudstabel</translation>
+        <translation type="obsolete">Ga naar Inhoudstabel</translation>
     </message>
     <message>
         <source>Go to ToC of the document.</source>
-        <translation>Ga naar de inhoudstafel van het document.</translation>
+        <translation type="obsolete">Ga naar de inhoudstafel van het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.Gridlines</name>
     <message>
         <source>Gridlines</source>
-        <translation>Rasterlijnen</translation>
+        <translation type="obsolete">Rasterlijnen</translation>
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation>Zet de rasterlijnen aan of uit. Op de rasterlijnen kan je objecten in het document uitlijnen.</translation>
+        <translation type="obsolete">Zet de rasterlijnen aan of uit. Op de rasterlijnen kan je objecten in het document uitlijnen.</translation>
     </message>
 </context>
 <context>
     <name>tips.GrowFont</name>
     <message>
         <source>Grow Font</source>
-        <translation>Vergroot Lettertype</translation>
+        <translation type="obsolete">Vergroot Lettertype</translation>
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation>Lettergrootte vergroten.</translation>
+        <translation type="obsolete">Lettergrootte vergroten.</translation>
     </message>
 </context>
 <context>
     <name>tips.HeadRowsRepeat</name>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>Koprijen Herhalen</translation>
+        <translation type="obsolete">Koprijen Herhalen</translation>
     </message>
     <message>
         <source>Repeat the header rows of the selected table on every page.
 
 This only affects tables which extend beyond a single page.</source>
-        <translation>Herhaal de koprijen van de geselecteerde tabel op iedere pagina.
+        <translation type="obsolete">Herhaal de koprijen van de geselecteerde tabel op iedere pagina.
 
 Dit heeft enkel invloed op tabellen die groter zijn dan één pagina.</translation>
     </message>
@@ -14985,430 +17440,422 @@ Dit heeft enkel invloed op tabellen die groter zijn dan één pagina.</translati
     <name>tips.HeaderAndFooterSetting</name>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Show the Header/Footer dialog box.</source>
-        <translation>Toon het koptekst/voettekst dialoogvenster.</translation>
+        <translation type="obsolete">Toon het koptekst/voettekst dialoogvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderFooter</name>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Set Header and Footer for the document.</source>
-        <translation>De koptekst en voettekst van het document instellen.</translation>
+        <translation type="obsolete">De koptekst en voettekst van het document instellen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderFooterOptions</name>
     <message>
         <source>Apply Header and Footer settings to the current section or document, such as different first page, different odd &amp; even pages, and margin to the border.</source>
-        <translation>Koptekst en voetteksts instellingen toepassen op de huidige sectie of document, zoals eerste pagina anders, Even pagina&apos;s anders en randen.</translation>
+        <translation type="obsolete">Koptekst en voetteksts instellingen toepassen op de huidige sectie of document, zoals eerste pagina anders, Even pagina&apos;s anders en randen.</translation>
     </message>
     <message>
         <source>Header/Footer Options</source>
-        <translation>Koptekst/Voettekst Opties</translation>
+        <translation type="obsolete">Koptekst/Voettekst Opties</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderLine</name>
     <message>
         <source>Add a horizontal line to Header.</source>
-        <translation>Voeg een horizontale lijn toe aan de koptekst.</translation>
+        <translation type="obsolete">Voeg een horizontale lijn toe aan de koptekst.</translation>
     </message>
     <message>
         <source>Header Line</source>
-        <translation>Koptekst Lijn</translation>
+        <translation type="obsolete">Koptekst Lijn</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderLinkToPrevious</name>
     <message>
         <source>Link the current header to the previous section.</source>
-        <translation>Link de huidige koptektst aan de volgende sectie.</translation>
+        <translation type="obsolete">Link de huidige koptektst aan de volgende sectie.</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
-        <translation>Zelfde Als Vorige Sectie</translation>
+        <translation type="obsolete">Zelfde Als Vorige Sectie</translation>
     </message>
 </context>
 <context>
     <name>tips.HighlightColor</name>
     <message>
         <source>Click the arrow to select a different highlight color.</source>
-        <translation>Klik op de pijl om een ander markeerkleur te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om een ander markeerkleur te selecteren.</translation>
     </message>
     <message>
         <source>Make text look like it was marked with a highlighter pen.
 
 Click the arrow to select a different highlight color.</source>
-        <translation>Laat de tekst eruitzien alsof ze gemarkeerd is met een fluostift.
+        <translation type="obsolete">Laat de tekst eruitzien alsof ze gemarkeerd is met een fluostift.
 
 Klik op de pijl om een andere markeerkleur te kiezen.</translation>
     </message>
     <message>
         <source>Text Highlight Color</source>
-        <translation>Tekst Markeerkleur</translation>
+        <translation type="obsolete">Tekst Markeerkleur</translation>
     </message>
 </context>
 <context>
     <name>tips.HighlightMergeFields</name>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation>Markeer Samenvoegvelden</translation>
+        <translation type="obsolete">Markeer Samenvoegvelden</translation>
     </message>
     <message>
         <source>Highlight the fields you have inserted into the document.
 
 This makes it easy to see what part of your form letter will be replaced by information from the recipient list you have chosen.</source>
-        <translation>Markeer de velden die je in het document hebt ingevoegd.
+        <translation type="obsolete">Markeer de velden die je in het document hebt ingevoegd.
 
 Dit laat je zien welk deel van het formulier zal vervangen worden door de informatie uit de ontvangerslijst.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.HomeDetailedSettings</name>
-    <message>
-        <source>HomeDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HomeDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
-        <translation>Vergroot Inspringing</translation>
+        <translation type="obsolete">Vergroot Inspringing</translation>
     </message>
     <message>
         <source>Increase the indent level of the paragraph.</source>
-        <translation>Het inspringingsniveau van de paragraaf vergroten.</translation>
+        <translation type="obsolete">Het inspringingsniveau van de paragraaf vergroten.</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseStep</name>
     <message>
         <source>Increas the current paragraph line spacing by 0.25 times.</source>
-        <translation>De regelafstand van de huidige paragraaf 0.25 keer vergroten.</translation>
+        <translation type="obsolete">De regelafstand van de huidige paragraaf 0.25 keer vergroten.</translation>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation>Regelafstand Vergroten</translation>
+        <translation type="obsolete">Regelafstand Vergroten</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertAutoText</name>
     <message>
         <source>Auto Text</source>
-        <translation>Autotekst</translation>
+        <translation type="obsolete">Autotekst</translation>
     </message>
     <message>
         <source>Insert auto text in the header or footer to easily view and locate the related article.</source>
-        <translation>Autotekst in de koptekst of voettekst invoegen om het gerelateerd artikel gemakkelijk te vinden.</translation>
+        <translation type="obsolete">Autotekst in de koptekst of voettekst invoegen om het gerelateerd artikel gemakkelijk te vinden.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertBlankPage</name>
     <message>
         <source>Blank Page</source>
-        <translation>Lege Pagina</translation>
+        <translation type="obsolete">Lege Pagina</translation>
     </message>
     <message>
         <source>Click here to insert a horizontal or vertical blank page.</source>
-        <translation>Klik hier om een horizontale of vertikale witte pagina in te voegen.</translation>
+        <translation type="obsolete">Klik hier om een horizontale of vertikale witte pagina in te voegen.</translation>
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
-        <translation>Een witte pagina invoegen op de plaats van de cursor.</translation>
+        <translation type="obsolete">Een witte pagina invoegen op de plaats van de cursor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertBookmark</name>
     <message>
         <source>Create a bookmark to assign a name to a specific point in a document.</source>
-        <translation>Een bladwijzer maken om een naam aan een specifieke plaats in het document te geven.</translation>
+        <translation type="obsolete">Een bladwijzer maken om een naam aan een specifieke plaats in het document te geven.</translation>
     </message>
     <message>
         <source>Insert Bookmark</source>
-        <translation>Bladwijzer Invoegen</translation>
+        <translation type="obsolete">Bladwijzer Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertCaption</name>
     <message>
         <source>Add a descriptive caption to a picture or a table.</source>
-        <translation>Een bijschrift toevoegen onder een afbeelding of tabel.</translation>
+        <translation type="obsolete">Een bijschrift toevoegen onder een afbeelding of tabel.</translation>
     </message>
     <message>
         <source>Insert Caption</source>
-        <translation>Bijschrift Invoegen</translation>
+        <translation type="obsolete">Bijschrift Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertCells</name>
     <message>
         <source>Insert Cells</source>
-        <translation>Cellen invoegen</translation>
+        <translation type="obsolete">Cellen invoegen</translation>
     </message>
     <message>
         <source>Show the Insert Cells dialog box.</source>
-        <translation>Toon het Cellen Invoegen dialoogvenster.</translation>
+        <translation type="obsolete">Toon het Cellen Invoegen dialoogvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertChart</name>
     <message>
         <source>Insert Chart</source>
-        <translation>Diagram invoegen</translation>
+        <translation type="obsolete">Diagram invoegen</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation>Voeg een diagram in om data te illustreren en te vergelijken.
+        <translation type="obsolete">Voeg een diagram in om data te illustreren en te vergelijken.
 
 Je kan kiezen uit oa. Staaf-, Taart-, Vlak- en Spinnewebdiagram.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertClipArt</name>
     <message>
         <source>Choose a Clip Art from the task pane and insert it into the document.</source>
-        <translation>Kies een Clipart uit het taakvenster en voeg het toe aan het document.</translation>
+        <translation type="obsolete">Kies een Clipart uit het taakvenster en voeg het toe aan het document.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>Clip Art Invoegen</translation>
+        <translation type="obsolete">Clip Art Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnLeft</name>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation>Kolommen Links invoegen</translation>
+        <translation type="obsolete">Kolommen Links invoegen</translation>
     </message>
     <message>
         <source>Insert a column to the left of the selected column.</source>
-        <translation>Een kolom links van de geselecteerde kolom invoegen.</translation>
+        <translation type="obsolete">Een kolom links van de geselecteerde kolom invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnRight</name>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation>Kolom Rechts Invoegen</translation>
+        <translation type="obsolete">Kolom Rechts Invoegen</translation>
     </message>
     <message>
         <source>Insert a column to the right of the selected column.</source>
-        <translation>Een kolom rechts van de geselecteerde kolom invoegen.</translation>
+        <translation type="obsolete">Een kolom rechts van de geselecteerde kolom invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertComment</name>
     <message>
         <source>Add a comment to the document about the selection.</source>
-        <translation>Een opmerking over de selectie toevoegen.</translation>
+        <translation type="obsolete">Een opmerking over de selectie toevoegen.</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Nieuwe Opmerking</translation>
+        <translation type="obsolete">Nieuwe Opmerking</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation>Datum en tijd</translation>
+        <translation type="obsolete">Datum en tijd</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
-        <translation>De huidige datum of tijd invoegen.</translation>
+        <translation type="obsolete">De huidige datum of tijd invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertField</name>
     <message>
         <source>Insert Field</source>
-        <translation>Veld Invoegen</translation>
+        <translation type="obsolete">Veld Invoegen</translation>
     </message>
     <message>
         <source>Insert field into the document.</source>
-        <translation>Een veld invoegen in het document.</translation>
+        <translation type="obsolete">Een veld invoegen in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert Object from File</source>
-        <translation>Object uit Bestand Invoegen</translation>
+        <translation type="obsolete">Object uit Bestand Invoegen</translation>
     </message>
     <message>
         <source>Insert selected file into the document.</source>
-        <translation>Geselecteerd bestand invoegen in het document.</translation>
+        <translation type="obsolete">Geselecteerd bestand invoegen in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFootnote</name>
     <message>
         <source>Add a footnote or endnote to the document.</source>
-        <translation>Een voetnoot of eindnoot aan het document toevoegen.</translation>
+        <translation type="obsolete">Een voetnoot of eindnoot aan het document toevoegen.</translation>
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
-        <translation>Voetnoot / Eindnoot Toevoegen</translation>
+        <translation type="obsolete">Voetnoot / Eindnoot Toevoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertHyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-        <translation>Maak een link naar een website, een afbeelding of een emailadres.</translation>
+        <translation type="obsolete">Maak een link naar een website, een afbeelding of een emailadres.</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation>Voeg Hyperlink in</translation>
+        <translation type="obsolete">Voeg Hyperlink in</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertIndexTables</name>
     <message>
         <source>Insert Table of Contents</source>
-        <translation>Inhoudstabel Toevoegen</translation>
+        <translation type="obsolete">Inhoudstabel Toevoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
 
 Set directory level for the selected paragraph and add a Table of Contents.</source>
-        <translation>Toon het inhoudstabel dialoogvenster, en voeg een inhoudstabel toe aan het document.
+        <translation type="obsolete">Toon het inhoudstabel dialoogvenster, en voeg een inhoudstabel toe aan het document.
 
 Het inhoudsniveau voor de geselecteerde paragraaf instellen en toevoegen aan de inhoudstabel.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMergeFields</name>
     <message>
         <source>Insert Merge Field</source>
-        <translation>Samenvoegveld Invoegen</translation>
+        <translation type="obsolete">Samenvoegveld Invoegen</translation>
     </message>
     <message>
         <source>Insert any field from your recipient list to the document, such as &quot;Last Name&quot;, &quot;Nick Name&quot;, &quot;Company Name&quot;, &quot;Department Name&quot; or &quot;Position&quot;.</source>
-        <translation>Een veld uit de ontvangerslijst toevoegen aan het document zoals &quot;Achternaam&quot;, &quot;Nickname&quot; of &quot;Bedrijfsnaam&quot;.</translation>
+        <translation type="obsolete">Een veld uit de ontvangerslijst toevoegen aan het document zoals &quot;Achternaam&quot;, &quot;Nickname&quot; of &quot;Bedrijfsnaam&quot;.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMutidiagonalCell</name>
     <message>
         <source>Insert Multi-diagonal Cell</source>
-        <translation>Diagonale Cel Invoegen</translation>
+        <translation type="obsolete">Diagonale Cel Invoegen</translation>
     </message>
     <message>
         <source>Insert different types of diagonal lines in a cell to use as headings.
 
 The diagonal lines in the table headings can be moved.</source>
-        <translation>Verschillende type&apos;s Diagonale cellen toevoegen als Titelcel.
+        <translation type="obsolete">Verschillende type&apos;s Diagonale cellen toevoegen als Titelcel.
 
 De diagonale lijnen in de tabeltitels kunnen verplaatst worden.</translation>
     </message>
@@ -15417,28 +17864,28 @@ De diagonale lijnen in de tabeltitels kunnen verplaatst worden.</translation>
     <name>tips.InsertNumber</name>
     <message>
         <source>Insert Number</source>
-        <translation>Nummer Invoegen</translation>
+        <translation type="obsolete">Nummer Invoegen</translation>
     </message>
     <message>
         <source>Insert a customized number format into the document.</source>
-        <translation>Een aangepast nummerformaat toevoegen aan het document.</translation>
+        <translation type="obsolete">Een aangepast nummerformaat toevoegen aan het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertObject</name>
     <message>
         <source>Click the arrow to insert file content into the document.</source>
-        <translation>Klik op de pijl om bestandinhoud toe te voegen aan het document.</translation>
+        <translation type="obsolete">Klik op de pijl om bestandinhoud toe te voegen aan het document.</translation>
     </message>
     <message>
         <source>Insert Object</source>
-        <translation>Object Invoegen</translation>
+        <translation type="obsolete">Object Invoegen</translation>
     </message>
     <message>
         <source>Insert an embedded object into the document.
 
 Click the arrow to insert file content into the document.</source>
-        <translation>Een ingesloten object aan het document toevoegen.
+        <translation type="obsolete">Een ingesloten object aan het document toevoegen.
 
 Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</translation>
     </message>
@@ -15447,344 +17894,320 @@ Klik op de pijl om de inhoud van een bestand aan het document toe te voegen.</tr
     <name>tips.InsertPageBreak</name>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-einde</translation>
+        <translation type="obsolete">Pagina-einde</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
-        <translation>Begin een nieuwe pagina achter de huidige positie. De inhoud achter de huidige positie zullen op de volgende pagina gezet worden.</translation>
+        <translation type="obsolete">Begin een nieuwe pagina achter de huidige positie. De inhoud achter de huidige positie zullen op de volgende pagina gezet worden.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPageNumbers</name>
     <message>
         <source>Insert Page Number</source>
-        <translation>Paginanummer Invoegen</translation>
+        <translation type="obsolete">Paginanummer Invoegen</translation>
     </message>
     <message>
         <source>Insert page numbers into the document.</source>
-        <translation>Paginanummers in het document invoegen.</translation>
+        <translation type="obsolete">Paginanummers in het document invoegen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture from File</source>
-        <translation>Afbeelding uit Bestand</translation>
+        <translation type="obsolete">Afbeelding uit Bestand</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation>Een afbeelding die op je computer staat invoegen.</translation>
-    </message>
-    <message>
-        <source>InsertPictureFromFile Content2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertPictureFromFile Title2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Een afbeelding die op je computer staat invoegen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowAbove</name>
     <message>
         <source>Add a new row directly above the selected row.</source>
-        <translation>Een nieuwe rij boven de geselecteerde rij invoegen.</translation>
+        <translation type="obsolete">Een nieuwe rij boven de geselecteerde rij invoegen.</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation>Rijen Erboven Invoegen</translation>
+        <translation type="obsolete">Rijen Erboven Invoegen</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowBelow</name>
     <message>
         <source>Insert Rows Below</source>
-        <translation>Rijen ERonder Invoegen</translation>
+        <translation type="obsolete">Rijen ERonder Invoegen</translation>
     </message>
     <message>
         <source>Insert a new row directly below the selected row.</source>
-        <translation>Een nieuwe rij onder de geselecteerde rij invoegen.</translation>
+        <translation type="obsolete">Een nieuwe rij onder de geselecteerde rij invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSectionAfter</name>
     <message>
         <source>Insert Section After</source>
-        <translation>Sectie Invoegen Na</translation>
+        <translation type="obsolete">Sectie Invoegen Na</translation>
     </message>
     <message>
         <source>Insert a new section after the current section.</source>
-        <translation>Een nieuwe sectie achter de huidige sectie invoegen.</translation>
+        <translation type="obsolete">Een nieuwe sectie achter de huidige sectie invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSectionBefore</name>
     <message>
         <source>Insert Section Before</source>
-        <translation>Sectie Invoegen Voor</translation>
+        <translation type="obsolete">Sectie Invoegen Voor</translation>
     </message>
     <message>
         <source>Insert a section before the current section.</source>
-        <translation>Een nieuwe sectie voor de huidige sectie invoegen.</translation>
+        <translation type="obsolete">Een nieuwe sectie voor de huidige sectie invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert Symbol</source>
-        <translation>Symbool Invoegen</translation>
+        <translation type="obsolete">Symbool Invoegen</translation>
     </message>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation>Symbolen invoegen die niet op je toetsenbord staan, zoals het copyright symbool.</translation>
+        <translation type="obsolete">Symbolen invoegen die niet op je toetsenbord staan, zoals het copyright symbool.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation>Decoratieve tekst in het document toevoegen.</translation>
+        <translation type="obsolete">Decoratieve tekst in het document toevoegen.</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArt</translation>
+        <translation type="obsolete">WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordField</name>
     <message>
         <source>Insert Next Fields</source>
-        <translation>Voeg Volgende Velden Toe</translation>
+        <translation type="obsolete">Voeg Volgende Velden Toe</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
-        <translation>Als er X aantal lijnen worden getoond op een pagina, voeg dan X-1 aantal velden in.</translation>
+        <translation type="obsolete">Als er X aantal lijnen worden getoond op een pagina, voeg dan X-1 aantal velden in.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.Italic</name>
     <message>
         <source>Italic</source>
-        <translation>Cursief</translation>
+        <translation type="obsolete">Cursief</translation>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation>De geselecteerde tekst cusief(schuin) zetten.</translation>
+        <translation type="obsolete">De geselecteerde tekst cusief(schuin) zetten.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation type="obsolete">Feedback</translation>
     </message>
     <message>
         <source>Send feedback to us and help improve our product.</source>
-        <translation>Zeg je mening over ons product zodat we het kunnen verbeteren.</translation>
+        <translation type="obsolete">Zeg je mening over ons product zodat we het kunnen verbeteren.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudInformationTip</name>
     <message>
         <source>How to use Office Space</source>
-        <translation>Hoe Office Space gebruiken</translation>
+        <translation type="obsolete">Hoe Office Space gebruiken</translation>
     </message>
     <message>
         <source>Newbie Guide</source>
-        <translation>Gids voor Dummies</translation>
+        <translation type="obsolete">Gids voor Dummies</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCreatecloudLinkTip</name>
-    <message>
-        <source>KOSCreatecloudLinkTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSCreatecloudLinkTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>User Name or Password does not match</source>
-        <translation>Gebruikersnaam of Wachtwoord klopt niet</translation>
+        <translation type="obsolete">Gebruikersnaam of Wachtwoord klopt niet</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespacePsaawordTip</name>
     <message>
         <source>Password is incorrect.</source>
-        <translation>Wachtwoord is incorrect.</translation>
+        <translation type="obsolete">Wachtwoord is incorrect.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceRegPsaawordTip</name>
     <message>
         <source>Password does not match.</source>
-        <translation>Wachtwoord klopt niet.</translation>
+        <translation type="obsolete">Wachtwoord klopt niet.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOpenCloudFileTip</name>
     <message>
         <source>Open documents saved in Cloud. Easily access them wherever you are.</source>
-        <translation>Open documenten opgeslagen op het internet. Eenvoudige toegang, gelijk waar je bent.</translation>
+        <translation type="obsolete">Open documenten opgeslagen op het internet. Eenvoudige toegang, gelijk waar je bent.</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Open Uit Cloud</translation>
+        <translation type="obsolete">Open Uit Cloud</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSSaveFileTocloudTip</name>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Sla bestand op in de Cloud</translation>
+        <translation type="obsolete">Sla bestand op in de Cloud</translation>
     </message>
     <message>
         <source>Save file to Cloud. Edit the same document via multiple devices.</source>
-        <translation>Bestand opslaan op het internet. Hetzelfde document op meerdere toestellen aanpassen.</translation>
+        <translation type="obsolete">Bestand opslaan op het internet. Hetzelfde document op meerdere toestellen aanpassen.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTextBtnTip</name>
     <message>
         <source>Login to use the free Cloud services such as Online Document, File Safe, Online Templates, and Resource Library.</source>
-        <translation>Inloggen om de gratis Cloud service te gebruiken zoals Online Documenten, Bestandskluis, Online Templates en hulpbronnenbibliotheek</translation>
+        <translation type="obsolete">Inloggen om de gratis Cloud service te gebruiken zoals Online Documenten, Bestandskluis, Online Templates en hulpbronnenbibliotheek</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>Niet ingelogd.</translation>
+        <translation type="obsolete">Niet ingelogd.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTip</name>
     <message>
         <source>Login with WPS account. Create or login your account to save documents to Cloud. You can access Cloud with any computer or mobile device. Never get lost.</source>
-        <translation>Inloggen met uw WPS account. Registreer of log in om uw bestanden op te slaan in de Cloud. U heeft toegang tot de cloud vanaf iedere computer of mobiel toestel. Raak bestanden nooit meer kwijt.</translation>
+        <translation type="obsolete">Inloggen met uw WPS account. Registreer of log in om uw bestanden op te slaan in de Cloud. U heeft toegang tot de cloud vanaf iedere computer of mobiel toestel. Raak bestanden nooit meer kwijt.</translation>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation>Niet ingelogd.</translation>
+        <translation type="obsolete">Niet ingelogd.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLogoutCloudTip</name>
     <message>
         <source>Logged in.</source>
-        <translation>Ingelogd</translation>
+        <translation type="obsolete">Ingelogd</translation>
     </message>
     <message>
         <source>You have logged in WPS account. View your profile or logout.</source>
-        <translation>Je bent ingelogd met je WPS account. Bekijk je profiel of log uit.</translation>
+        <translation type="obsolete">Je bent ingelogd met je WPS account. Bekijk je profiel of log uit.</translation>
     </message>
 </context>
 <context>
     <name>tips.KingsoftEquationEditor</name>
     <message>
         <source>Insert Equation</source>
-        <translation>Formule Invoegen</translation>
+        <translation type="obsolete">Formule Invoegen</translation>
     </message>
     <message>
         <source>Insert mathematical equations with Equation Editor.</source>
-        <translation>Wiskundige formule invoegen dmv de Formule-Editor</translation>
+        <translation type="obsolete">Wiskundige formule invoegen dmv de Formule-Editor</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.LastRecord</name>
     <message>
         <source>Last Record</source>
-        <translation>Laatste Verwijzing</translation>
+        <translation type="obsolete">Laatste Verwijzing</translation>
     </message>
     <message>
         <source>Preview the last record in the recipient list.</source>
-        <translation>Bekijk de laatste vermelding in de lijst met ontvangers.</translation>
+        <translation type="obsolete">Bekijk de laatste vermelding in de lijst met ontvangers.</translation>
     </message>
 </context>
 <context>
     <name>tips.LastSection</name>
     <message>
         <source>Last Section</source>
-        <translation>Laatste Sectie</translation>
+        <translation type="obsolete">Laatste Sectie</translation>
     </message>
     <message>
         <source>Relocate to the last section of the document.</source>
-        <translation>Verplaats naar de laatste sectie van het document.</translation>
+        <translation type="obsolete">Verplaats naar de laatste sectie van het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.LineColor</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation>Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
+        <translation type="obsolete">Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Omlijning van Vorm</translation>
+        <translation type="obsolete">Omlijning van Vorm</translation>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation>Specifieer het kleur, de dikte en de lijnstijl voor de Omlijning van de geselecterde vorm.
+        <translation type="obsolete">Specifieer het kleur, de dikte en de lijnstijl voor de Omlijning van de geselecterde vorm.
 
 Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     </message>
@@ -15793,33 +18216,33 @@ Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation>Pas de plaats tussen de lijnen tekst aan.</translation>
+        <translation type="obsolete">Pas de plaats tussen de lijnen tekst aan.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Regelafstand</translation>
+        <translation type="obsolete">Regelafstand</translation>
     </message>
 </context>
 <context>
     <name>tips.LinktoPreviousHeader</name>
     <message>
         <source>Link to Previous</source>
-        <translation>Koppel aan Vorige</translation>
+        <translation type="obsolete">Koppel aan Vorige</translation>
     </message>
     <message>
         <source>Make the header and footer of the current section the same as the previous section.</source>
-        <translation>Maak de koptekts en voettekst van de huidige sectie gelijk aan die van de vorige sectie.</translation>
+        <translation type="obsolete">Maak de koptekts en voettekst van de huidige sectie gelijk aan die van de vorige sectie.</translation>
     </message>
 </context>
 <context>
     <name>tips.LocateToSection</name>
     <message>
         <source>Locate to Section</source>
-        <translation>Vinden in Hoofdstuk</translation>
+        <translation type="obsolete">Vinden in Hoofdstuk</translation>
     </message>
     <message>
         <source>Relocate to the other section.</source>
-        <translation>Verplaats naar de andere sectie.</translation>
+        <translation type="obsolete">Verplaats naar de andere sectie.</translation>
     </message>
 </context>
 <context>
@@ -15828,294 +18251,294 @@ Klik op de pijl om meer omlijningsstijlen te kiezen.</translation>
         <source>Synchronize the scrolling of two documents so that they scroll together.
 
 To enable this feature, turn on &quot;View Side by Side&quot;.</source>
-        <translation>Synchroniseer het scrollen van twee documenten zodat ze tezamen schrollen.
+        <translation type="obsolete">Synchroniseer het scrollen van twee documenten zodat ze tezamen schrollen.
 
 Om dit te doen, zet &quot;Bekijk Naast Elkaar&quot; aan.</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation>Synchroon Scrollen</translation>
+        <translation type="obsolete">Synchroon Scrollen</translation>
     </message>
 </context>
 <context>
     <name>tips.LooseLineSpacing</name>
     <message>
         <source>Loose Line Spacing</source>
-        <translation>Ruime Regelafstand</translation>
+        <translation type="obsolete">Ruime Regelafstand</translation>
     </message>
     <message>
         <source>Set 1.5 line spacing to the selected paragraph with snap to grid selected.</source>
-        <translation>De regelafstand van de geselecteerde paragraaf op 1.5 instellen en uitlijnen op raster.</translation>
+        <translation type="obsolete">De regelafstand van de geselecteerde paragraaf op 1.5 instellen en uitlijnen op raster.</translation>
     </message>
 </context>
 <context>
     <name>tips.Macro</name>
     <message>
         <source>View Macros</source>
-        <translation>Bekijk de Macro&apos;s</translation>
+        <translation type="obsolete">Bekijk de Macro&apos;s</translation>
     </message>
     <message>
         <source>View the list of Macros, from which you can run, create or delete a macro.</source>
-        <translation>Bekijk de lijst van Macro&apos;s, voer hem uit, maak een nieuwe macro of verwijder een bestaande.</translation>
+        <translation type="obsolete">Bekijk de lijst van Macro&apos;s, voer hem uit, maak een nieuwe macro of verwijder een bestaande.</translation>
     </message>
 </context>
 <context>
     <name>tips.Mail</name>
     <message>
         <source>Click here to open Mailings tab, which includes features such as Mail Merge.</source>
-        <translation>Klik hier om het Brieven tabblad te openen, daar vind je oa Brieven Samenvoegen.</translation>
+        <translation type="obsolete">Klik hier om het Brieven tabblad te openen, daar vind je oa Brieven Samenvoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.MailMergeRecipients</name>
     <message>
         <source>Add or delete recipients from the Mail Merge Recipient list for receiving letters.</source>
-        <translation>Ontvangers toevoegen of verwijderen uit de Brieven Samenvoegen Ontvangerslijst.</translation>
+        <translation type="obsolete">Ontvangers toevoegen of verwijderen uit de Brieven Samenvoegen Ontvangerslijst.</translation>
     </message>
     <message>
         <source>Recipients</source>
-        <translation>Ontvangers</translation>
+        <translation type="obsolete">Ontvangers</translation>
     </message>
 </context>
 <context>
     <name>tips.MarkVersion</name>
     <message>
         <source>Manual Backup</source>
-        <translation>Manuele Backup</translation>
+        <translation type="obsolete">Manuele Backup</translation>
     </message>
     <message>
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
-        <translation>Het bestand manueel backuppen en opmerkingen toevoegen aan het backupbestand zonder het bestand te sluiten.</translation>
+        <translation type="obsolete">Het bestand manueel backuppen en opmerkingen toevoegen aan het backupbestand zonder het bestand te sluiten.</translation>
     </message>
 </context>
 <context>
     <name>tips.Markup</name>
     <message>
         <source>Revision Markup</source>
-        <translation>Revisie Opmaak</translation>
+        <translation type="obsolete">Revisie Opmaak</translation>
     </message>
     <message>
         <source>Show or hide revision markups in the document.</source>
-        <translation>Toon of verberg opmaakrevisies in het document.</translation>
+        <translation type="obsolete">Toon of verberg opmaakrevisies in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.MatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translation>Koppel Velden</translation>
+        <translation type="obsolete">Koppel Velden</translation>
     </message>
     <message>
         <source>Match Fields allows you to tell Writer the meanings of different fields in the recipient list. For example, you can indicate that your custom field &quot;Zip&quot; is equivalent to normal built-in field &quot;Zip Code&quot;.</source>
-        <translation>Met Koppel Velden kan je het programma de betekenis van een veld tonen. Je kan bijvoorbeeld aanduiden dat jouw veld &quot;Zip&quot; hetzelfde is als het ingebouwd veld &quot;Zip Code&quot;.</translation>
+        <translation type="obsolete">Met Koppel Velden kan je het programma de betekenis van een veld tonen. Je kan bijvoorbeeld aanduiden dat jouw veld &quot;Zip&quot; hetzelfde is als het ingebouwd veld &quot;Zip Code&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeCells</name>
     <message>
         <source>Merge Cells</source>
-        <translation>Cellen Samenvoegen</translation>
+        <translation type="obsolete">Cellen Samenvoegen</translation>
     </message>
     <message>
         <source>Merge the selected cells into one cell.</source>
-        <translation>Geselecteerde sellen samenvoegen tot een cel.</translation>
+        <translation type="obsolete">Geselecteerde sellen samenvoegen tot een cel.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToDiffNewDoc</name>
     <message>
         <source>Export the merged mail content to different documents according to the recipient list.</source>
-        <translation>Exporteer de samengevoegde briefinhoud naar verschillende documenten ahv je ontvangerslijst.</translation>
+        <translation type="obsolete">Exporteer de samengevoegde briefinhoud naar verschillende documenten ahv je ontvangerslijst.</translation>
     </message>
     <message>
         <source>Merge to Different New Documents</source>
-        <translation>Samenvoegen naar Nieuwe Documenten</translation>
+        <translation type="obsolete">Samenvoegen naar Nieuwe Documenten</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToEmail</name>
     <message>
         <source>Merge to Email</source>
-        <translation>Samenvoegen naar Email</translation>
+        <translation type="obsolete">Samenvoegen naar Email</translation>
     </message>
     <message>
         <source>Send merged content via email.</source>
-        <translation>Verzend de samengevoegde inhoud via email.</translation>
+        <translation type="obsolete">Verzend de samengevoegde inhoud via email.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToNewDoc</name>
     <message>
         <source>Export merged content to a new document.</source>
-        <translation>Exporteer samengevoegde inhoud naar een nieuw document.</translation>
+        <translation type="obsolete">Exporteer samengevoegde inhoud naar een nieuw document.</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
-        <translation>Samenvoegen naar Nieuw Document</translation>
+        <translation type="obsolete">Samenvoegen naar Nieuw Document</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToPrinter</name>
     <message>
         <source>Merge to Printer</source>
-        <translation>Samenvoegen Naar Printer</translation>
+        <translation type="obsolete">Samenvoegen Naar Printer</translation>
     </message>
     <message>
         <source>Print the merged content.</source>
-        <translation>De samengevoegde inhoud afdrukken.</translation>
+        <translation type="obsolete">De samengevoegde inhoud afdrukken.</translation>
     </message>
 </context>
 <context>
     <name>tips.NavigationPane</name>
     <message>
         <source>Navigation Pane</source>
-        <translation>Sectienavigatie</translation>
+        <translation type="obsolete">Sectienavigatie</translation>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
-        <translation>Toon of verberg het navigatievenster.</translation>
+        <translation type="obsolete">Toon of verberg het navigatievenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation>Nieuw venster</translation>
+        <translation type="obsolete">Nieuw venster</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation>Open een nieuw venster die het huidig document toont.</translation>
+        <translation type="obsolete">Open een nieuw venster die het huidig document toont.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextChange</name>
     <message>
         <source>Navigate to the next revision in the document so that you can accept or reject it.</source>
-        <translation>Ga naar de volgende revisie in het document zodat je die kan goed- of afkeuren.</translation>
+        <translation type="obsolete">Ga naar de volgende revisie in het document zodat je die kan goed- of afkeuren.</translation>
     </message>
     <message>
         <source>Next Change</source>
-        <translation>Volgende wijziging</translation>
+        <translation type="obsolete">Volgende wijziging</translation>
     </message>
 </context>
 <context>
     <name>tips.NextComment</name>
     <message>
         <source>Navigate to the next comment in the document.</source>
-        <translation>Ga naar de volgende opmerking in het document.</translation>
+        <translation type="obsolete">Ga naar de volgende opmerking in het document.</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>Volgende opmerking</translation>
+        <translation type="obsolete">Volgende opmerking</translation>
     </message>
 </context>
 <context>
     <name>tips.NextHeader</name>
     <message>
         <source>Navigate to the next section&apos;s header or footer based upon the current cursor position.</source>
-        <translation>Ga naar de koptekst of voettekst van de volgende sectie.</translation>
+        <translation type="obsolete">Ga naar de koptekst of voettekst van de volgende sectie.</translation>
     </message>
     <message>
         <source>Show Next</source>
-        <translation>Toon Volgende</translation>
+        <translation type="obsolete">Toon Volgende</translation>
     </message>
 </context>
 <context>
     <name>tips.NextRecord</name>
     <message>
         <source>Next Record</source>
-        <translation>Volgende Vermelding</translation>
+        <translation type="obsolete">Volgende Vermelding</translation>
     </message>
     <message>
         <source>Preview the next record in the recipient list.</source>
-        <translation>Toon het volgde record in de ontvangerslijst.</translation>
+        <translation type="obsolete">Toon het volgde record in de ontvangerslijst.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextSection</name>
     <message>
         <source>Navigate to the next part of the current section.</source>
-        <translation>Ga naar het volgende deel van de huidige sectie.</translation>
+        <translation type="obsolete">Ga naar het volgende deel van de huidige sectie.</translation>
     </message>
     <message>
         <source>Next Section</source>
-        <translation>Volgende Sectie</translation>
+        <translation type="obsolete">Volgende Sectie</translation>
     </message>
 </context>
 <context>
     <name>tips.NextTextBox</name>
     <message>
         <source>Navigate to the next text box linked to the current one.</source>
-        <translation>Ga naar de volgende tekstbox die aan de vorige gelinkt is.</translation>
+        <translation type="obsolete">Ga naar de volgende tekstbox die aan de vorige gelinkt is.</translation>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation>Volgende Tekstvak</translation>
+        <translation type="obsolete">Volgende Tekstvak</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-        <translation>Verplaats de schaduw van het geselecteerde object naar omlaag.</translation>
+        <translation type="obsolete">Verplaats de schaduw van het geselecteerde object naar omlaag.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>Verplaats Schaduw Omlaag</translation>
+        <translation type="obsolete">Verplaats Schaduw Omlaag</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-        <translation>Verplaats de schaduw van het geselecteerde object naar links.</translation>
+        <translation type="obsolete">Verplaats de schaduw van het geselecteerde object naar links.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>Verplaats Schaduw naar Links</translation>
+        <translation type="obsolete">Verplaats Schaduw naar Links</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-        <translation>Verplaats de schaduw van het geselecteerde object naar rechts.</translation>
+        <translation type="obsolete">Verplaats de schaduw van het geselecteerde object naar rechts.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>Verplaats Schaduw naar Rechts</translation>
+        <translation type="obsolete">Verplaats Schaduw naar Rechts</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-        <translation>Verplaats de schaduw van het geselecteerde object naar Omhoog.</translation>
+        <translation type="obsolete">Verplaats de schaduw van het geselecteerde object naar Omhoog.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>Verplaats Schaduw Omhoog</translation>
+        <translation type="obsolete">Verplaats Schaduw Omhoog</translation>
     </message>
 </context>
 <context>
     <name>tips.Numbering</name>
     <message>
         <source>Bullets</source>
-        <translation>Opsommingstekens</translation>
+        <translation type="obsolete">Opsommingstekens</translation>
     </message>
     <message>
         <source>Click the arrow to choose from different numbering formats.</source>
-        <translation>Klik op de pijl om te kiezen tussen verschillende soorten nummeringstekens.</translation>
+        <translation type="obsolete">Klik op de pijl om te kiezen tussen verschillende soorten nummeringstekens.</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>Nummering</translation>
+        <translation type="obsolete">Nummering</translation>
     </message>
     <message>
         <source>Start a numbered list.
 
 Click the arrow to choose from different numbering formats.</source>
-        <translation>Start een genummerde lijst.
+        <translation type="obsolete">Start een genummerde lijst.
 
 Klik op de pijl om te kiezen tussen verschillende nummeringsformaten.</translation>
     </message>
@@ -16124,164 +18547,148 @@ Klik op de pijl om te kiezen tussen verschillende nummeringsformaten.</translati
     <name>tips.ObjectSelect</name>
     <message>
         <source>Selection Pane</source>
-        <translation>Selectievenster</translation>
+        <translation type="obsolete">Selectievenster</translation>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation>Toon het selectievenster om een object gemakkelijk te vinden.</translation>
+        <translation type="obsolete">Toon het selectievenster om een object gemakkelijk te vinden.</translation>
     </message>
 </context>
 <context>
     <name>tips.OnePage</name>
     <message>
         <source>One Page</source>
-        <translation>Eén Pagina</translation>
+        <translation type="obsolete">Eén Pagina</translation>
     </message>
     <message>
         <source>Zoom the document so that an entire page fits in the window.</source>
-        <translation>Het document inzoomen zodat een volledige pagina in een venster past.</translation>
+        <translation type="obsolete">Het document inzoomen zodat een volledige pagina in een venster past.</translation>
     </message>
 </context>
 <context>
     <name>tips.OpenDataSource</name>
     <message>
         <source>Click here to open or close Data Source files.</source>
-        <translation>Klik hier om een databronbestand te openen of te sluiten.</translation>
+        <translation type="obsolete">Klik hier om een databronbestand te openen of te sluiten.</translation>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Open Databron</translation>
+        <translation type="obsolete">Open Databron</translation>
     </message>
     <message>
         <source>Open data soucres in the local folder, such as spreadsheet files, database files and text files.</source>
-        <translation>Open databronnen, zoals spreadsheets, database bestanden en tekstbestanden.</translation>
+        <translation type="obsolete">Open databronnen, zoals spreadsheets, database bestanden en tekstbestanden.</translation>
     </message>
 </context>
 <context>
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-        <translation>Overzichtsweergave</translation>
+        <translation type="obsolete">Overzichtsweergave</translation>
     </message>
     <message>
         <source>View the document as an outline.</source>
-        <translation>Bekijk het document als een overzicht.</translation>
+        <translation type="obsolete">Bekijk het document als een overzicht.</translation>
     </message>
 </context>
 <context>
     <name>tips.OutLineLevelComboOnOutlining</name>
     <message>
         <source>Outline Level</source>
-        <translation>Omlijningsniveau</translation>
+        <translation type="obsolete">Omlijningsniveau</translation>
     </message>
     <message>
         <source>Set an outline level for the selected paragraph.</source>
-        <translation>Het omlijningsniveau van de geselecteerde paragraaf instellen.</translation>
+        <translation type="obsolete">Het omlijningsniveau van de geselecteerde paragraaf instellen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageLayoutDetailedSettings</name>
-    <message>
-        <source>PageLayoutDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PageLayoutDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.PageNumber</name>
     <message>
         <source>Insert Page Number</source>
-        <translation>Paginanummer Invoegen</translation>
+        <translation type="obsolete">Paginanummer Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
-        <translation>Toon het paginanummers dialoogvenster en pas de paginanummer instellingen toe op de huidige sectie of het volledige document.</translation>
+        <translation type="obsolete">Toon het paginanummers dialoogvenster en pas de paginanummer instellingen toe op de huidige sectie of het volledige document.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.PageNumberFormat</name>
     <message>
         <source>Page Number Format</source>
-        <translation>Paginanummer Opmaak</translation>
+        <translation type="obsolete">Paginanummer Opmaak</translation>
     </message>
     <message>
         <source>Select number formats for page numbers in the current document.</source>
-        <translation>Kies een nummeringsopmaak voor de paginanummers in het huidige document.</translation>
+        <translation type="obsolete">Kies een nummeringsopmaak voor de paginanummers in het huidige document.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageNumberStart</name>
     <message>
         <source>Page Number Start</source>
-        <translation>Begin van Paginanummer</translation>
+        <translation type="obsolete">Begin van Paginanummer</translation>
     </message>
     <message>
         <source>Set a page number for the current page, this becomes available when Page Number Start at is enabled.</source>
-        <translation>Een paginanummer voor de huidige pagina instellen. Dit wordt beschikbaar als Begin van Paginanummer aan staat.</translation>
+        <translation type="obsolete">Een paginanummer voor de huidige pagina instellen. Dit wordt beschikbaar als Begin van Paginanummer aan staat.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
-        <translation>Oriëntatie Pagina</translation>
+        <translation type="obsolete">Oriëntatie Pagina</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
-        <translation>Schakelen tussen staande en liggende pagina-indeling.</translation>
+        <translation type="obsolete">Schakelen tussen staande en liggende pagina-indeling.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation>Pagina-Instellingen</translation>
+        <translation type="obsolete">Pagina-Instellingen</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation>Toon het pagina-instellingen dialoogvenster.</translation>
+        <translation type="obsolete">Toon het pagina-instellingen dialoogvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageWidth</name>
     <message>
         <source>Page Width</source>
-        <translation>Paginabreedte</translation>
+        <translation type="obsolete">Paginabreedte</translation>
     </message>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
-        <translation>Het document inzoomen zodat de breedte van het document gelijk is aan de breedte van het venster.</translation>
+        <translation type="obsolete">Het document inzoomen zodat de breedte van het document gelijk is aan de breedte van het venster.</translation>
     </message>
 </context>
 <context>
     <name>tips.ParagraphDetailedSettings</name>
-    <message>
-        <source>ParagraphDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ParagraphDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.PhoneticGuide</name>
@@ -16289,308 +18696,292 @@ Klik op de pijl om te kiezen tussen verschillende nummeringsformaten.</translati
         <source>Display phonetic characters to clarify the pronunciation.
 
 Click the arrow to choose Change Case, Enclose Characters, and Character Border options.</source>
-        <translation>Fonetisch schrift tonen om de uitspraak duidelijk te maken.
+        <translation type="obsolete">Fonetisch schrift tonen om de uitspraak duidelijk te maken.
 
 Klik op de pijl om de hoofdletters, ingesloten tekens en tekenrandopties te tonen.</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>Fonetische Begeleiding</translation>
+        <translation type="obsolete">Fonetische Begeleiding</translation>
     </message>
 </context>
 <context>
     <name>tips.PhoneticGuide2</name>
     <message>
         <source>Click the arrow to choose Phonetic Guide, Change Case, Enclose Characters and Character Border options.</source>
-        <translation>Klik op de pijl om meer opties te tonen zoals Fonetische Gids, Hoofdletters Aanpassen, Tekens Insluiten en Tekenrandopties.</translation>
+        <translation type="obsolete">Klik op de pijl om meer opties te tonen zoals Fonetische Gids, Hoofdletters Aanpassen, Tekens Insluiten en Tekenrandopties.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>Andere Opties</translation>
+        <translation type="obsolete">Andere Opties</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation>Afbeelding aanpassen</translation>
+        <translation type="obsolete">Afbeelding aanpassen</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation>Het contrast of de helderheid van de geselecteerde afbeelding aanpassen.</translation>
+        <translation type="obsolete">Het contrast of de helderheid van de geselecteerde afbeelding aanpassen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureColor</name>
     <message>
         <source>Recolor</source>
-        <translation>Verkleur</translation>
+        <translation type="obsolete">Verkleur</translation>
     </message>
     <message>
         <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
-        <translation>Verkleur de afbeelding om het zwart/wit, uitgewassen of transparante kleur te geven.</translation>
+        <translation type="obsolete">Verkleur de afbeelding om het zwart/wit, uitgewassen of transparante kleur te geven.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureCrop</name>
     <message>
         <source>Crop</source>
-        <translation>Bijsnijden</translation>
+        <translation type="obsolete">Bijsnijden</translation>
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation>Afbeelding bijsnijden om ongewenste delen de verwijderen.</translation>
+        <translation type="obsolete">Afbeelding bijsnijden om ongewenste delen de verwijderen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureFill</name>
     <message>
         <source>Click the arrow to select different fill modes.</source>
-        <translation>Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
     </message>
     <message>
         <source>Fill the selected object with a color, gradient, pattern and picture.
 
 Click the arrow to select different fill modes.</source>
-        <translation>Vul de geselecteerde afbeelding op met een kleur, een kleurovergang, een pattroon of een afbeelding.
+        <translation type="obsolete">Vul de geselecteerde afbeelding op met een kleur, een kleurovergang, een pattroon of een afbeelding.
 
 Klik op de pijl om verschillende opvulwijzen te selecteren.</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Opvulkleur</translation>
+        <translation type="obsolete">Opvulkleur</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureOutline</name>
     <message>
         <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation>Klik op de pijl om gedetailleerde instellingen voor het object te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om gedetailleerde instellingen voor het object te selecteren.</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Afbeeldingsrand</translation>
+        <translation type="obsolete">Afbeeldingsrand</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
 
 Click the arrow to select detailed settings for the selected object.</source>
-        <translation>De afbeeldingsomlijningskleur, de omlijningsbreedte en de omlijningsstijl voor het geselecteerde object instellen.
+        <translation type="obsolete">De afbeeldingsomlijningskleur, de omlijningsbreedte en de omlijningsstijl voor het geselecteerde object instellen.
 
 Klik op de pijl om geavanseerde instellingen van het object aan te passen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureSetTransparentColor</name>
-    <message>
-        <source>PictureSetTransparentColor Content</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>PictureSetTransparentColor Title</source>
-        <translation></translation>
-    </message>
 </context>
 <context>
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation>De grootte, de draaiing en de schaling van de geselecteerde vorm aanpassen.</translation>
+        <translation type="obsolete">De grootte, de draaiing en de schaling van de geselecteerde vorm aanpassen.</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Formaat</translation>
+        <translation type="obsolete">Formaat</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureToolsDetailedSettings</name>
-    <message>
-        <source>PictureToolsDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PictureToolsDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.PreviousChange</name>
     <message>
         <source>Navigate to the previous revision in the document so that you can accept or reject it.</source>
-        <translation>Ga naar de vorige revisie in het document zodat je die kan aanvaarden of afwijzen.</translation>
+        <translation type="obsolete">Ga naar de vorige revisie in het document zodat je die kan aanvaarden of afwijzen.</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation>Vorige Wijziging</translation>
+        <translation type="obsolete">Vorige Wijziging</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousComment</name>
     <message>
         <source>Navigate to the previous comment in the document.</source>
-        <translation>Ga naar de vorige opmerking in het document.</translation>
+        <translation type="obsolete">Ga naar de vorige opmerking in het document.</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>Vorige Opmerking</translation>
+        <translation type="obsolete">Vorige Opmerking</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousHeader</name>
     <message>
         <source>Navigate to the previous section&apos;s header or footer based on the current cursor position.</source>
-        <translation>Ga naar de koptekst of voettekst van de vorige sectie.</translation>
+        <translation type="obsolete">Ga naar de koptekst of voettekst van de vorige sectie.</translation>
     </message>
     <message>
         <source>Show Previous</source>
-        <translation>Toon Vorig</translation>
+        <translation type="obsolete">Toon Vorig</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousRecord</name>
     <message>
         <source>Preview the previous record in the recipient list</source>
-        <translation>Bekijk de vorige vermelding in de ontvangerslijst</translation>
+        <translation type="obsolete">Bekijk de vorige vermelding in de ontvangerslijst</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>Vorige Vermelding</translation>
+        <translation type="obsolete">Vorige Vermelding</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousSection</name>
     <message>
         <source>Navigate to the previous section.</source>
-        <translation>Ga naar de vorige sectie.</translation>
+        <translation type="obsolete">Ga naar de vorige sectie.</translation>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation>Vorige Sectie</translation>
+        <translation type="obsolete">Vorige Sectie</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousTextBox</name>
     <message>
         <source>Navigate to the previous text box that is linked to the selected text box.</source>
-        <translation>Ga naar het vorig tekstvak die aan dit tekstvak gelinkt is.</translation>
+        <translation type="obsolete">Ga naar het vorig tekstvak die aan dit tekstvak gelinkt is.</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation>Vorig Tekstvak</translation>
+        <translation type="obsolete">Vorig Tekstvak</translation>
     </message>
 </context>
 <context>
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation>Gedetailleerde afdrukinstellingen zoals printer, afdrukbereik, pagina&apos;s per vel en schaling aanpassen.</translation>
+        <translation type="obsolete">Gedetailleerde afdrukinstellingen zoals printer, afdrukbereik, pagina&apos;s per vel en schaling aanpassen.</translation>
     </message>
     <message>
         <source>Click here to set details of printing, or use default settings to print directly.</source>
-        <translation>Klik hier op de gedetailleerde afdrukinstellingen in te stellen, of gebruik de standaardinstellingen om snel te printen.</translation>
+        <translation type="obsolete">Klik hier op de gedetailleerde afdrukinstellingen in te stellen, of gebruik de standaardinstellingen om snel te printen.</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Afdrukken</translation>
+        <translation type="obsolete">Afdrukken</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-        <translation>Snelprinten</translation>
+        <translation type="obsolete">Snelprinten</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation>Het document afdrukken met de standaard printer en standaardinstellingen.</translation>
+        <translation type="obsolete">Het document afdrukken met de standaard printer en standaardinstellingen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintLayoutView</name>
     <message>
         <source>Print Layout</source>
-        <translation>Print Opmaak</translation>
+        <translation type="obsolete">Print Opmaak</translation>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-        <translation>Bekijk het document zoals het weergegeven zou worden op een afgedrukte pagina.</translation>
+        <translation type="obsolete">Bekijk het document zoals het weergegeven zou worden op een afgedrukte pagina.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation>Bekijk en maak aanpassingen voor het printen.</translation>
+        <translation type="obsolete">Bekijk en maak aanpassingen voor het printen.</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Afdrukvoorbeeld</translation>
+        <translation type="obsolete">Afdrukvoorbeeld</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-        <translation>Het zoomniveau van het huidig document aanpassen.</translation>
+        <translation type="obsolete">Het zoomniveau van het huidig document aanpassen.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>In-/Uitzoomen</translation>
+        <translation type="obsolete">In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintShowViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>Liniaal</translation>
+        <translation type="obsolete">Liniaal</translation>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
-        <translation>Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
+        <translation type="obsolete">Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteOnOutlining</name>
     <message>
         <source>Promote</source>
-        <translation>Opwaarderen</translation>
+        <translation type="obsolete">Opwaarderen</translation>
     </message>
     <message>
         <source>Promote the selected item to a higher level.</source>
-        <translation>Het geselecteerde item naar een hoger niveau opwaarderen.</translation>
+        <translation type="obsolete">Het geselecteerde item naar een hoger niveau opwaarderen.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteOnParagraph</name>
     <message>
         <source>Promote directory level</source>
-        <translation>Directory Niveau Opwaarderen</translation>
+        <translation type="obsolete">Directory Niveau Opwaarderen</translation>
     </message>
     <message>
         <source>Promote the directory level of the selected paragraph to a higher level.</source>
-        <translation>Verhoog de geselecteerde paragraaf naar een hoger directoryniveau.</translation>
+        <translation type="obsolete">Verhoog de geselecteerde paragraaf naar een hoger directoryniveau.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteToHighestLevelOnOutlining</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation>Het item opwaarderen to het hoogste schetsniveau.</translation>
+        <translation type="obsolete">Het item opwaarderen to het hoogste schetsniveau.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Opwaarderen tot Kop 1</translation>
+        <translation type="obsolete">Opwaarderen tot Kop 1</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteToHighestLevelOnParagraph</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation>Het item opwaarderen to het hoogste schetsniveau.</translation>
+        <translation type="obsolete">Het item opwaarderen to het hoogste schetsniveau.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Opwaarderen tot Kop 1</translation>
+        <translation type="obsolete">Opwaarderen tot Kop 1</translation>
     </message>
 </context>
 <context>
@@ -16608,67 +18999,67 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation>Klembord</translation>
+        <translation type="obsolete">Klembord</translation>
     </message>
     <message>
         <source>View items on Clipboard.</source>
-        <translation>Bekijk items op het klembord.</translation>
+        <translation type="obsolete">Bekijk items op het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Font</name>
     <message>
         <source>Font</source>
-        <translation>Lettertype</translation>
+        <translation type="obsolete">Lettertype</translation>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-        <translation>Toon het lettertype dialoogvenster.</translation>
+        <translation type="obsolete">Toon het lettertype dialoogvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Paragraph</name>
     <message>
         <source>Paragraph</source>
-        <translation>Paragraaf</translation>
+        <translation type="obsolete">Paragraaf</translation>
     </message>
     <message>
         <source>Show the Paragraph dialog box.</source>
-        <translation>Toon het paragraaf dialoogvenster.</translation>
+        <translation type="obsolete">Toon het paragraaf dialoogvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Style</name>
     <message>
         <source>Show the Styles and Formatting task pane.</source>
-        <translation>Toon het stijlen en opmaak taakvenster.</translation>
+        <translation type="obsolete">Toon het stijlen en opmaak taakvenster.</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>Stijlen en Opmaak</translation>
+        <translation type="obsolete">Stijlen en Opmaak</translation>
     </message>
 </context>
 <context>
     <name>tips.RbTableOutsideBorder</name>
     <message>
         <source>Click the arrow to select different borders.</source>
-        <translation>klik op de pijl om verschillende randen te selecteren.</translation>
+        <translation type="obsolete">klik op de pijl om verschillende randen te selecteren.</translation>
     </message>
     <message>
         <source>Customize the borders of the selected cells or text.</source>
-        <translation>Randen van de geselecteerke cellen of tekst aanpassen.</translation>
+        <translation type="obsolete">Randen van de geselecteerke cellen of tekst aanpassen.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Buitenste randen</translation>
+        <translation type="obsolete">Buitenste randen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16677,13 +19068,13 @@ Klik op de pijl om geavanseerde instellingen van het object aan te passen.</tran
         <source>Execute sum, average, maximum or minimum value calculations for the selected row or column data.
 
 Results will be displayed in a cell following the selected cells in the same row or column. If there is no cell after that, a new row or column will be created.</source>
-        <translation>Execute sum, average, maximum or minimum value calculations for the selected row or column data.
+        <translation type="obsolete">Execute sum, average, maximum or minimum value calculations for the selected row or column data.
 
 Results will be displayed in a cell following the selected cells in the same row or column. If there is no cell after that, a new row or column will be created.</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
-        <translation>Snelle Berekening</translation>
+        <translation type="obsolete">Snelle Berekening</translation>
     </message>
 </context>
 <context>
@@ -16692,404 +19083,388 @@ Results will be displayed in a cell following the selected cells in the same row
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation>Tekstkleur aanpassen.
+        <translation type="obsolete">Tekstkleur aanpassen.
 
 Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation>Klik op de pijl om een andere tekstkleur te kiezen.</translation>
+        <translation type="obsolete">Klik op de pijl om een andere tekstkleur te kiezen.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Tekstkleur</translation>
+        <translation type="obsolete">Tekstkleur</translation>
     </message>
 </context>
 <context>
     <name>tips.RecentTableShadingColor</name>
     <message>
         <source>Click the arrow to select different background colors.</source>
-        <translation>Klik op de pijl om een ander achtergrondkleur te kiezen.</translation>
+        <translation type="obsolete">Klik op de pijl om een ander achtergrondkleur te kiezen.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different background colors.</source>
-        <translation>Kleur de achtergrond achter de geselecteerde tekst of paragraaf.
+        <translation type="obsolete">Kleur de achtergrond achter de geselecteerde tekst of paragraaf.
 
 Klik op de pijl om een andere achtergrondkleur te kiezen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>Schaduwkleur</translation>
+        <translation type="obsolete">Schaduwkleur</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ReducedStep</name>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation>Regelafstand Verminderen</translation>
+        <translation type="obsolete">Regelafstand Verminderen</translation>
     </message>
     <message>
         <source>Reduce the line spacing of the selected paragraph by 0.25.</source>
-        <translation>Regelafstand van de geselecteerde paragraaf verminderen met 0.25.</translation>
+        <translation type="obsolete">Regelafstand van de geselecteerde paragraaf verminderen met 0.25.</translation>
     </message>
 </context>
 <context>
     <name>tips.RejectChangeOnTB</name>
     <message>
         <source>Click the arrow to reject all changes in the document.</source>
-        <translation>Klik op de pijl om alle veranderingen in het documen af te wijzen.</translation>
+        <translation type="obsolete">Klik op de pijl om alle veranderingen in het documen af te wijzen.</translation>
     </message>
     <message>
         <source>Reject the current change and delete the comment.</source>
-        <translation>De huidige wijziging afwijzen en de opmerking verwijderen.</translation>
+        <translation type="obsolete">De huidige wijziging afwijzen en de opmerking verwijderen.</translation>
     </message>
     <message>
         <source>Reject the selected change</source>
-        <translation>De geselecteerde wijziging afwijzen</translation>
+        <translation type="obsolete">De geselecteerde wijziging afwijzen</translation>
     </message>
 </context>
 <context>
     <name>tips.RejectRevisionOnTB</name>
     <message>
         <source>Click here to reject all changes in the document.</source>
-        <translation>Klik hier om alle aanpassingen in het document af te wijzen.</translation>
+        <translation type="obsolete">Klik hier om alle aanpassingen in het document af te wijzen.</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation>Verwerp Wijziging</translation>
+        <translation type="obsolete">Verwerp Wijziging</translation>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
-        <translation>De geselecteerde wijziging in het document afwijzen</translation>
+        <translation type="obsolete">De geselecteerde wijziging in het document afwijzen</translation>
     </message>
 </context>
 <context>
     <name>tips.RelocateDownOnOutlining</name>
     <message>
         <source>Move Down</source>
-        <translation>Ga Omlaag</translation>
+        <translation type="obsolete">Ga Omlaag</translation>
     </message>
     <message>
         <source>Move the selected item down within the outline.</source>
-        <translation>Het geselecteerde object binnen de omlijning omlaag verplaatsen.</translation>
+        <translation type="obsolete">Het geselecteerde object binnen de omlijning omlaag verplaatsen.</translation>
     </message>
 </context>
 <context>
     <name>tips.RelocateUpOnOutlining</name>
     <message>
         <source>Move Up</source>
-        <translation>Ga Omhoog</translation>
+        <translation type="obsolete">Ga Omhoog</translation>
     </message>
     <message>
         <source>Move the selected item up within the outline.</source>
-        <translation>Het geselecteerde object binnen de omlijning omhoog verplaatsen.</translation>
+        <translation type="obsolete">Het geselecteerde object binnen de omlijning omhoog verplaatsen.</translation>
     </message>
 </context>
 <context>
     <name>tips.Replace</name>
     <message>
         <source>Replace</source>
-        <translation>Vervangen</translation>
+        <translation type="obsolete">Vervangen</translation>
     </message>
     <message>
         <source>Replace text content in the document.</source>
-        <translation>De geselecteerde tekst vervangen.</translation>
+        <translation type="obsolete">De geselecteerde tekst vervangen.</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetPicture</name>
     <message>
         <source>Discard all the formatting changes you made to this picture.</source>
-        <translation>Alle wijzigingen aan de afbeelding ongedaan maken.</translation>
+        <translation type="obsolete">Alle wijzigingen aan de afbeelding ongedaan maken.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Beginwaarden van Afbeelding</translation>
+        <translation type="obsolete">Beginwaarden van Afbeelding</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.RestartPageNumber</name>
     <message>
         <source>Reset the starting page number of the current document.</source>
-        <translation>De startpaginanummer van het huidige document herstellen.</translation>
+        <translation type="obsolete">De startpaginanummer van het huidige document herstellen.</translation>
     </message>
     <message>
         <source>Restart Page Numbering</source>
-        <translation>Herstart Paginanummering</translation>
+        <translation type="obsolete">Herstart Paginanummering</translation>
     </message>
 </context>
 <context>
     <name>tips.RestrictEditing</name>
-    <message>
-        <source>RestrictEditing Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RestrictEditing Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation>Liniaal</translation>
+        <translation type="obsolete">Liniaal</translation>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
-        <translation>Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
+        <translation type="obsolete">Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
     </message>
 </context>
 <context>
     <name>tips.RunMacro</name>
     <message>
         <source>Show Macros dialog box, view the list of macros, from which you can run, delete, or create a macro directly.</source>
-        <translation>Toon het Macro&apos;s dialoogvenster, bekijk de lijst van Macro&apos;s, voer hem uit, maak een nieuwe macro of verwijder een bestaande.</translation>
+        <translation type="obsolete">Toon het Macro&apos;s dialoogvenster, bekijk de lijst van Macro&apos;s, voer hem uit, maak een nieuwe macro of verwijder een bestaande.</translation>
     </message>
     <message>
         <source>View Macros</source>
-        <translation>Bekijk Macro&apos;s</translation>
+        <translation type="obsolete">Bekijk Macro&apos;s</translation>
     </message>
 </context>
 <context>
     <name>tips.SectionDetailedSettings</name>
-    <message>
-        <source>SectionDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SectionDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Security</name>
     <message>
         <source>Customize the macro security settings.</source>
-        <translation>De Macro beveiligingsinstellingen aanpassen.</translation>
+        <translation type="obsolete">De Macro beveiligingsinstellingen aanpassen.</translation>
     </message>
     <message>
         <source>Macros Security</source>
-        <translation>Macro&apos;s Beveiliging</translation>
+        <translation type="obsolete">Macro&apos;s Beveiliging</translation>
     </message>
 </context>
 <context>
     <name>tips.Select</name>
     <message>
         <source>Select</source>
-        <translation>Selecteren</translation>
+        <translation type="obsolete">Selecteren</translation>
     </message>
     <message>
         <source>Select text or objects in the document.</source>
-        <translation>Selecteer tekst of objecten in het document.</translation>
+        <translation type="obsolete">Selecteer tekst of objecten in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.SendBackward</name>
     <message>
         <source>Send Backward</source>
-        <translation>Naar Achteren</translation>
+        <translation type="obsolete">Naar Achteren</translation>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-        <translation>Een object een stap naar achter verplaatsen.</translation>
+        <translation type="obsolete">Een object een stap naar achter verplaatsen.</translation>
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation>Zet het geselecteerd object naar achter of plaats het achter alle andere objecten.</translation>
+        <translation type="obsolete">Zet het geselecteerd object naar achter of plaats het achter alle andere objecten.</translation>
     </message>
 </context>
 <context>
     <name>tips.Separator</name>
     <message>
         <source>After inserting footnote/endnote, show or hide the footnote/endnote separator line at the bottom of the document.</source>
-        <translation>Na de voetnoot/eindnoot in te voegen, toon of verberg de voetnoot/eindnoot scheidingslijn aan de onderkant van het document.</translation>
+        <translation type="obsolete">Na de voetnoot/eindnoot in te voegen, toon of verberg de voetnoot/eindnoot scheidingslijn aan de onderkant van het document.</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator Line</source>
-        <translation>Toon Voetnoot/Eindnoot Scheidingslijn</translation>
+        <translation type="obsolete">Toon Voetnoot/Eindnoot Scheidingslijn</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowColor</name>
     <message>
         <source>Click the arrow to select different shadow colors.</source>
-        <translation>Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-        <translation>De schaduwkleur van het geselecteerde object instellen.
+        <translation type="obsolete">De schaduwkleur van het geselecteerde object instellen.
 
 Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>Schaduwkleur</translation>
+        <translation type="obsolete">Schaduwkleur</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowOnOff</name>
     <message>
         <source>Shadow On/Off</source>
-        <translation>
+        <translation type="obsolete">
 Schaduw Aan/Uit</translation>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-        <translation>De schaduw van het geselecteerde object aan of uit zetten.</translation>
+        <translation type="obsolete">De schaduw van het geselecteerde object aan of uit zetten.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowSetting</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation>Een visueel effect aan het geselecteerde object geven.</translation>
+        <translation type="obsolete">Een visueel effect aan het geselecteerde object geven.</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>Schaduw Effecten</translation>
+        <translation type="obsolete">Schaduw Effecten</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation>De grootte, de draaiing en de schaling van de geselecteerde vorm instellen.</translation>
+        <translation type="obsolete">De grootte, de draaiing en de schaling van de geselecteerde vorm instellen.</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation>Vorm Grootte</translation>
+        <translation type="obsolete">Vorm Grootte</translation>
     </message>
 </context>
 <context>
     <name>tips.Shapes</name>
     <message>
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
-        <translation>Voorgemaakte vormen invoegen, zoals lijnen, rechthoeken, fowchart symbolen en bijschrift.</translation>
+        <translation type="obsolete">Voorgemaakte vormen invoegen, zoals lijnen, rechthoeken, fowchart symbolen en bijschrift.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>Vormen</translation>
+        <translation type="obsolete">Vormen</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowDocumentMap</name>
     <message>
         <source>Click here to choose which position to display the Document Map pane.</source>
-        <translation>Klik hier om de wijzigen hoe het Navigatievenster getoont wordt.</translation>
+        <translation type="obsolete">Klik hier om de wijzigen hoe het Navigatievenster getoont wordt.</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Navigatievenster</translation>
+        <translation type="obsolete">Navigatievenster</translation>
     </message>
     <message>
         <source>Show or hide the Document Map pane.</source>
-        <translation>Toon of verberg het Navigatievenster.</translation>
+        <translation type="obsolete">Toon of verberg het Navigatievenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFirstLineOnly</name>
     <message>
         <source>Show First Line Only</source>
-        <translation>Toon enkel eerste lijn</translation>
+        <translation type="obsolete">Toon enkel eerste lijn</translation>
     </message>
     <message>
         <source>Show only the first line of each item in the outline.</source>
-        <translation>Toon enkel de eerste lijn van elk item in de schets.</translation>
+        <translation type="obsolete">Toon enkel de eerste lijn van elk item in de schets.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFirstPageNumber</name>
     <message>
         <source>Show or hide the page number on the first page of the document.</source>
-        <translation>Toon of verberg het paginanummer op de eerste pagina van het document.</translation>
+        <translation type="obsolete">Toon of verberg het paginanummer op de eerste pagina van het document.</translation>
     </message>
     <message>
         <source>Show page number on first page</source>
-        <translation>Toon paginanummer op eerste pagina</translation>
+        <translation type="obsolete">Toon paginanummer op eerste pagina</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFormatting</name>
     <message>
         <source>Show Text Formatting</source>
-        <translation>Toon Tekstopmaak</translation>
+        <translation type="obsolete">Toon Tekstopmaak</translation>
     </message>
     <message>
         <source>Show or hide all the text formatting in the outline.</source>
-        <translation>Toon of verberg alle tekstopmaak in de schets.</translation>
+        <translation type="obsolete">Toon of verberg alle tekstopmaak in de schets.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowGridlines</name>
     <message>
         <source>Show or hide the gridlines within the table that has no borders.</source>
-        <translation>Toon of verberg de rasterlijnen in de tabel die geen randen heeft.</translation>
+        <translation type="obsolete">Toon of verberg de rasterlijnen in de tabel die geen randen heeft.</translation>
     </message>
     <message>
         <source>View Table Gridlines</source>
-        <translation>Toon Tabelrasterlijnen</translation>
+        <translation type="obsolete">Toon Tabelrasterlijnen</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHeaderOrFooter</name>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>Wissel Tussen Header en Footer</translation>
+        <translation type="obsolete">Wissel Tussen Header en Footer</translation>
     </message>
     <message>
         <source>Switch between the header and footer of the current page in the document.</source>
-        <translation>Wissel tussen de koptekst en de voettekst van de huidige pagina in het document.</translation>
+        <translation type="obsolete">Wissel tussen de koptekst en de voettekst van de huidige pagina in het document.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideFormattingMarks</name>
     <message>
         <source>Show all formatting symbols in the document.</source>
-        <translation>Toon alle opmaaksymbolen in het document.</translation>
+        <translation type="obsolete">Toon alle opmaaksymbolen in het document.</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation>Toon/Verberg Opmaaksymbolen</translation>
+        <translation type="obsolete">Toon/Verberg Opmaaksymbolen</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideTextOctopus</name>
     <message>
         <source>Show or hide the Paragraph Layout button in the document.</source>
-        <translation>Toon of verberg de paragraafopmaak knop in het document.</translation>
+        <translation type="obsolete">Toon of verberg de paragraafopmaak knop in het document.</translation>
     </message>
     <message>
         <source>Show/hide Paragraph Layout</source>
-        <translation>Toon/Verberg Paragraafopmaak</translation>
+        <translation type="obsolete">Toon/Verberg Paragraafopmaak</translation>
     </message>
 </context>
 <context>
@@ -17098,83 +19473,83 @@ Schaduw Aan/Uit</translation>
         <source>Choose which levels to show in the outline.
 
 The selected level and all higher levels will be visible.</source>
-        <translation>Kies welke niveaus in de schets getoont worden.
+        <translation type="obsolete">Kies welke niveaus in de schets getoont worden.
 
 Het geselecteerde niveau en alle hogere niveaus zullen zichtbaar zijn.</translation>
     </message>
     <message>
         <source>Show Level</source>
-        <translation>Toon Niveau</translation>
+        <translation type="obsolete">Toon Niveau</translation>
     </message>
 </context>
 <context>
     <name>tips.ShrinkFont</name>
     <message>
         <source>Decrease the font size.</source>
-        <translation>Verklein de grootte van het lettertype.</translation>
+        <translation type="obsolete">Verklein de grootte van het lettertype.</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>Verklein Lettertype</translation>
+        <translation type="obsolete">Verklein Lettertype</translation>
     </message>
 </context>
 <context>
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation>Het document omzetten naar vereenvoudigd Chinees.</translation>
+        <translation type="obsolete">Het document omzetten naar vereenvoudigd Chinees.</translation>
     </message>
     <message>
         <source>Simplified</source>
-        <translation>Vereenvoudigd</translation>
+        <translation type="obsolete">Vereenvoudigd</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation>Deel Cellen</translation>
+        <translation type="obsolete">Deel Cellen</translation>
     </message>
     <message>
         <source>Split the selected cells into multiple new cells.</source>
-        <translation>Verdeel de geselecteerde cellen in meerdere nieuwe cellen.</translation>
+        <translation type="obsolete">Verdeel de geselecteerde cellen in meerdere nieuwe cellen.</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitSection</name>
     <message>
         <source>Click here to choose section break types.</source>
-        <translation>Klik hier om de sectieeindes te kiezen.</translation>
+        <translation type="obsolete">Klik hier om de sectieeindes te kiezen.</translation>
     </message>
     <message>
         <source>Insert the next section break into the document.</source>
-        <translation>Een nieuw sectieeinde in het document invoegen.</translation>
+        <translation type="obsolete">Een nieuw sectieeinde in het document invoegen.</translation>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Verdeel Sectie</translation>
+        <translation type="obsolete">Verdeel Sectie</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitTable</name>
     <message>
         <source>Split Table</source>
-        <translation>Deel Tabel</translation>
+        <translation type="obsolete">Deel Tabel</translation>
     </message>
     <message>
         <source>Split the table into two tables according to the rows or columns.</source>
-        <translation>Verdeel de tabel in twee tabellen ahv. de rijen of kolommen.</translation>
+        <translation type="obsolete">Verdeel de tabel in twee tabellen ahv. de rijen of kolommen.</translation>
     </message>
 </context>
 <context>
     <name>tips.StopAutoVersion</name>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Stop Automatische Backup</translation>
+        <translation type="obsolete">Stop Automatische Backup</translation>
     </message>
     <message>
         <source>Stop the auto backup of the current document.</source>
-        <translation>Stop het automatisch backuppen van het huidige document.</translation>
+        <translation type="obsolete">Stop het automatisch backuppen van het huidige document.</translation>
     </message>
 </context>
 <context>
@@ -17183,24 +19558,24 @@ Het geselecteerde niveau en alle hogere niveaus zullen zichtbaar zijn.</translat
         <source>Draw a line through the middle of the selected text.
 
 Click the arrow to add an emphasis mark.</source>
-        <translation>Teken een lijn door het midden van de geselecteerde tekst.
+        <translation type="obsolete">Teken een lijn door het midden van de geselecteerde tekst.
 
 Klik op de pijl om een accent in te voegen.</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation>Doorhalen</translation>
+        <translation type="obsolete">Doorhalen</translation>
     </message>
 </context>
 <context>
     <name>tips.Strikethought2</name>
     <message>
         <source>Click the arrow to add a strikethrough and an emphasis mark.</source>
-        <translation>Klik op de pijl om een doorhaling en een accent in te voegen.</translation>
+        <translation type="obsolete">Klik op de pijl om een doorhaling en een accent in te voegen.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>Andere Opties</translation>
+        <translation type="obsolete">Andere Opties</translation>
     </message>
 </context>
 <context>
@@ -17209,13 +19584,13 @@ Klik op de pijl om een accent in te voegen.</translation>
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation>Maak kleine letters onder de tekstgrondlijn.
+        <translation type="obsolete">Maak kleine letters onder de tekstgrondlijn.
 
 klik op de pijl om superscript te selecteren.</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation>Subscript</translation>
+        <translation type="obsolete">Subscript</translation>
     </message>
 </context>
 <context>
@@ -17224,82 +19599,82 @@ klik op de pijl om superscript te selecteren.</translation>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation>Maak kleine letters boven de tekstlijn.
+        <translation type="obsolete">Maak kleine letters boven de tekstlijn.
 
 Klik op de pijl om subscript te selecteren.</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation>Superscript</translation>
+        <translation type="obsolete">Superscript</translation>
     </message>
 </context>
 <context>
     <name>tips.Superscript2</name>
     <message>
         <source>Click the arrow to select Superscript and Subscript.</source>
-        <translation>Klik op de pijl om Superscript en Subscript te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om Superscript en Subscript te selecteren.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>Andere Opties</translation>
+        <translation type="obsolete">Andere Opties</translation>
     </message>
 </context>
 <context>
     <name>tips.SwitchWindow</name>
     <message>
         <source>Switch Windows</source>
-        <translation>Wissel Vensters</translation>
+        <translation type="obsolete">Wissel Vensters</translation>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation>Wissel naar een ander open venster.</translation>
+        <translation type="obsolete">Wissel naar een ander open venster.</translation>
     </message>
 </context>
 <context>
     <name>tips.Table</name>
     <message>
         <source>Insert or draw a table into the document, and convert text to table or vice versa.</source>
-        <translation>Een tabel tekenen of invoegen in het huidige document en zet tekst om naar tabel of omgekeerd.</translation>
+        <translation type="obsolete">Een tabel tekenen of invoegen in het huidige document en zet tekst om naar tabel of omgekeerd.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation>Tabel</translation>
+        <translation type="obsolete">Tabel</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.TableAutoAdjust</name>
     <message>
         <source>TableAutoAdjust Content</source>
-        <translation>TableAutoAdjust Content</translation>
+        <translation type="obsolete">TableAutoAdjust Content</translation>
     </message>
     <message>
         <source>TableAutoAdjust Title</source>
-        <translation>TableAutoAdjust Title</translation>
+        <translation type="obsolete">TableAutoAdjust Title</translation>
     </message>
 </context>
 <context>
     <name>tips.TableBorderColor</name>
     <message>
         <source>Border Color</source>
-        <translation>Randkleur</translation>
+        <translation type="obsolete">Randkleur</translation>
     </message>
     <message>
         <source>Click the arrow to select different border colors.</source>
-        <translation>Klik op de pijl om verschillende randkleuren te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Set a border color for the selected table.
 
 Click the arrow to select different border colors.</source>
-        <translation>De randkleur van de geselecteerde tabel instellen.
+        <translation type="obsolete">De randkleur van de geselecteerde tabel instellen.
 
 Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     </message>
@@ -17308,203 +19683,203 @@ Klik op de pijl om verschillende randkleuren te selecteren.</translation>
     <name>tips.TableBorderStyle</name>
     <message>
         <source>Change the style of the line used to draw borders.</source>
-        <translation>De stijl van de randlijn aanpassen.</translation>
+        <translation type="obsolete">De stijl van de randlijn aanpassen.</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Lijnstijl</translation>
+        <translation type="obsolete">Lijnstijl</translation>
     </message>
 </context>
 <context>
     <name>tips.TableBorderWidth</name>
     <message>
         <source>Change the width of the line used to draw borders.</source>
-        <translation>De breedte van de randlijn aanpassen.</translation>
+        <translation type="obsolete">De breedte van de randlijn aanpassen.</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Lijndikte</translation>
+        <translation type="obsolete">Lijndikte</translation>
     </message>
 </context>
 <context>
     <name>tips.TableContents</name>
     <message>
         <source>Add a Table of Contents to the document before the body text.</source>
-        <translation>Een inhoudstabel aan het document toevoegen voor de tekst.</translation>
+        <translation type="obsolete">Een inhoudstabel aan het document toevoegen voor de tekst.</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation>Inhoudstabel</translation>
+        <translation type="obsolete">Inhoudstabel</translation>
     </message>
 </context>
 <context>
     <name>tips.TableEraser</name>
     <message>
         <source>Erase the borders of a table in the document.</source>
-        <translation>Wis de randen van een tabel in het document.</translation>
+        <translation type="obsolete">Wis de randen van een tabel in het document.</translation>
     </message>
     <message>
         <source>Table Eraser</source>
-        <translation>Tabel Gom</translation>
+        <translation type="obsolete">Tabel Gom</translation>
     </message>
 </context>
 <context>
     <name>tips.TableProperties</name>
     <message>
         <source>Change advanced table properties, such as text wrapping, indentations and allow rows to break across pages.</source>
-        <translation>De geavanceerde tabeleigenschappen aanpassen, zoals tesktterugloop, inspringen, en rijen over meerdere pagina&apos;s.</translation>
+        <translation type="obsolete">De geavanceerde tabeleigenschappen aanpassen, zoals tesktterugloop, inspringen, en rijen over meerdere pagina&apos;s.</translation>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation>Tabeleigenschappen</translation>
+        <translation type="obsolete">Tabeleigenschappen</translation>
     </message>
 </context>
 <context>
     <name>tips.TableSelectMenu</name>
     <message>
         <source>Select</source>
-        <translation>Selecteren</translation>
+        <translation type="obsolete">Selecteren</translation>
     </message>
     <message>
         <source>Select the current cell, row, column, or the entire table, and select tables with dashed borders.</source>
-        <translation>Selecteer de huidige cel, rij, kolom of de volledige tabel.</translation>
+        <translation type="obsolete">Selecteer de huidige cel, rij, kolom of de volledige tabel.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableShadingColor</name>
     <message>
         <source>Click the arrow to select different shading colors.</source>
-        <translation>Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
+        <translation type="obsolete">Klik op de pijl om verschillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different shading colors.</source>
-        <translation>Kleur de achtergrond achter de geselecteerde tekst of paragraaf.
+        <translation type="obsolete">Kleur de achtergrond achter de geselecteerde tekst of paragraaf.
 
 Klik op de pijl om verchillende schaduwkleuren te selecteren.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation>Schaduw</translation>
+        <translation type="obsolete">Schaduw</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.Tabs</name>
     <message>
         <source>Show the Tabs dialog box, and set tab stop position of the text.</source>
-        <translation>Toon het tabbladen dialoogvenster en stel de tabstoppositie van de tekst in.</translation>
+        <translation type="obsolete">Toon het tabbladen dialoogvenster en stel de tabstoppositie van de tekst in.</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>Tabbladen</translation>
+        <translation type="obsolete">Tabbladen</translation>
     </message>
 </context>
 <context>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide task pane in the document.</source>
-        <translation>Toon of verberg het taakvenster in het document.</translation>
+        <translation type="obsolete">Toon of verberg het taakvenster in het document.</translation>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation>Taakvenster</translation>
+        <translation type="obsolete">Taakvenster</translation>
     </message>
 </context>
 <context>
     <name>tips.TextBox</name>
     <message>
         <source>Click here to insert horizontal, vertical or multi-line text boxes.</source>
-        <translation>Klik hier omhorizontale, verticale of meerlijnige tekstvakken toe te voegen.</translation>
+        <translation type="obsolete">Klik hier omhorizontale, verticale of meerlijnige tekstvakken toe te voegen.</translation>
     </message>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation>Teken Horizontaal Tekstvak</translation>
+        <translation type="obsolete">Teken Horizontaal Tekstvak</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation>Een tekstvak in het document invoegen.</translation>
+        <translation type="obsolete">Een tekstvak in het document invoegen.</translation>
     </message>
 </context>
 <context>
     <name>tips.TextDirection</name>
     <message>
         <source>Customize the text layout direction to be either horizontal or vertical in the current section, entire document or selected text boxes and tables.</source>
-        <translation>De tekstopmaakrichting aanpassen zodat die horizontaal of verticaal komt te staan.</translation>
+        <translation type="obsolete">De tekstopmaakrichting aanpassen zodat die horizontaal of verticaal komt te staan.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Tekstrichting</translation>
+        <translation type="obsolete">Tekstrichting</translation>
     </message>
 </context>
 <context>
     <name>tips.TightLineSpacing</name>
     <message>
         <source>Set 1.0 line spacing to selected paragraphs with undefined snap to grid lines.</source>
-        <translation>Regalafstand van de geselecteerde paragraaf wijzigen naar 1.0.</translation>
+        <translation type="obsolete">Regalafstand van de geselecteerde paragraaf wijzigen naar 1.0.</translation>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation>Kleine Regelafstand</translation>
+        <translation type="obsolete">Kleine Regelafstand</translation>
     </message>
 </context>
 <context>
     <name>tips.TrackChanges</name>
     <message>
         <source>Click here to choose revision markups and comment formatting, or to change reviewer information.</source>
-        <translation>Klik hier om de controlemarkeringen en opmerkingopmaak te kiezen of revisorinformatie aan te passen.</translation>
+        <translation type="obsolete">Klik hier om de controlemarkeringen en opmerkingopmaak te kiezen of revisorinformatie aan te passen.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>Hou Wijzigingen Bij</translation>
+        <translation type="obsolete">Hou Wijzigingen Bij</translation>
     </message>
     <message>
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
-        <translation>Alle wijzigingen die in het document zijn aangebracht bijhouden, inclusief invoegings-, verwijdernings- en opmaakwijzigingen.</translation>
+        <translation type="obsolete">Alle wijzigingen die in het document zijn aangebracht bijhouden, inclusief invoegings-, verwijdernings- en opmaakwijzigingen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
-        <translation>Het document omzetten naar Traditioneel Chinees.</translation>
+        <translation type="obsolete">Het document omzetten naar Traditioneel Chinees.</translation>
     </message>
     <message>
         <source>Traditional</source>
-        <translation>Traditioneel</translation>
+        <translation type="obsolete">Traditioneel</translation>
     </message>
 </context>
 <context>
     <name>tips.Underline</name>
     <message>
         <source>Click the arrow to select different underlining styles.</source>
-        <translation>Klik op de pijl om verschillende onderstreepstijlen te kiezen.</translation>
+        <translation type="obsolete">Klik op de pijl om verschillende onderstreepstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Onderstrepen</translation>
+        <translation type="obsolete">Onderstrepen</translation>
     </message>
     <message>
         <source>Underline the selected text.
 
 Click the arrow to select different underlining styles.</source>
-        <translation>Onderstreep de geselecteerde tekst.
+        <translation type="obsolete">Onderstreep de geselecteerde tekst.
 
 Klik op de pijl om verschillende onderstreepstijlen te kiezen.</translation>
     </message>
@@ -17513,32 +19888,32 @@ Klik op de pijl om verschillende onderstreepstijlen te kiezen.</translation>
     <name>tips.UpdateTocOnOutlining</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
-        <translation>Inhoudstabel updaten</translation>
+        <translation type="obsolete">Inhoudstabel updaten</translation>
     </message>
     <message>
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
-        <translation>De inhoudstabel bijwerken zodat alle vermeldingen naar de juiste pagina verwijzen.</translation>
+        <translation type="obsolete">De inhoudstabel bijwerken zodat alle vermeldingen naar de juiste pagina verwijzen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.VerbSideBySide</name>
     <message>
         <source>Reset Window Position</source>
-        <translation>Vensterpositie Herstellen</translation>
+        <translation type="obsolete">Vensterpositie Herstellen</translation>
     </message>
     <message>
         <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
 
 To enable this feature, turn on View Side by Side.</source>
-        <translation>De vensterpositie van de documenten herstellen.
+        <translation type="obsolete">De vensterpositie van de documenten herstellen.
 
 Om deze functie aan te zetten, zet Bekijk Naast Elkaar aan.</translation>
     </message>
@@ -17547,33 +19922,33 @@ Om deze functie aan te zetten, zet Bekijk Naast Elkaar aan.</translation>
     <name>tips.ViewMergedData</name>
     <message>
         <source>Replaces the merge fields in your document with actual data from your recipient list so you can see what it looks like.</source>
-        <translation>De samenvoegvelden in het document vervangen door de eigenlijke data uit de ontvangerslijst.</translation>
+        <translation type="obsolete">De samenvoegvelden in het document vervangen door de eigenlijke data uit de ontvangerslijst.</translation>
     </message>
     <message>
         <source>View Merged Data</source>
-        <translation>Bekijk Samengevoegde Data</translation>
+        <translation type="obsolete">Bekijk Samengevoegde Data</translation>
     </message>
 </context>
 <context>
     <name>tips.ViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>Liniaal</translation>
+        <translation type="obsolete">Liniaal</translation>
     </message>
     <message>
         <source>View the rulers used to measure and line up text and objects within the document.</source>
-        <translation>Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
+        <translation type="obsolete">Toon of verberg de meetlat waarmee je objecten kan uitlijnen en meten.</translation>
     </message>
 </context>
 <context>
     <name>tips.VisualBasicEditor</name>
     <message>
         <source>Launch Visual Basic Editor, and edit Macros.</source>
-        <translation>Visual Basic Editor opstarten en Macro&apos;s aanpassen.</translation>
+        <translation type="obsolete">Visual Basic Editor opstarten en Macro&apos;s aanpassen.</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Visual Basic Editor</translation>
+        <translation type="obsolete">Visual Basic Editor</translation>
     </message>
 </context>
 <context>
@@ -17582,150 +19957,142 @@ Om deze functie aan te zetten, zet Bekijk Naast Elkaar aan.</translation>
         <source>Insert ghosted text and picture behind the content on the page.
 
 This is often used to indicate that the document is to be treated specially, such as encrypted and confidential material and to prohibit copying or mark the document source such as the addition of copyright logos and author information.</source>
-        <translation>Zeer lichte tekst en/of afbeelding invoegen achter de paginainhoud.
+        <translation type="obsolete">Zeer lichte tekst en/of afbeelding invoegen achter de paginainhoud.
 
 Dit wordt veel gebruikt om aan te duiden dat het document een speciale behandeling moet krijgen zoals &quot;Vertrouwelijk&quot; of &quot;Auteursrechtelijk Beschermd&quot;.</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Watermerk</translation>
+        <translation type="obsolete">Watermerk</translation>
     </message>
 </context>
 <context>
     <name>tips.WebLayoutView</name>
     <message>
         <source>View the document as it would look as a Web page.</source>
-        <translation>Het document weergeven zoals het er zou uitzien als een webpagina.</translation>
+        <translation type="obsolete">Het document weergeven zoals het er zou uitzien als een webpagina.</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Weblayout</translation>
+        <translation type="obsolete">Weblayout</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtAlignment</name>
     <message>
         <source>Specify how individual lines of a multi-line WordArt should be aligned.</source>
-        <translation>Specifieer hoe individuele lijnen van een meerlijnige WordArt uitgelijnd worden.</translation>
+        <translation type="obsolete">Specifieer hoe individuele lijnen van een meerlijnige WordArt uitgelijnd worden.</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Uitlijnen</translation>
+        <translation type="obsolete">Uitlijnen</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtDetailedSettings</name>
-    <message>
-        <source>WordArtDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArtDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.WordArtFill</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation>Klik op de pijl om de WordArt op verschillende manieren uit te lijnen.</translation>
+        <translation type="obsolete">Klik op de pijl om de WordArt op verschillende manieren uit te lijnen.</translation>
     </message>
     <message>
         <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
 
 Click the arrow to fill the WordArt in different ways.</source>
-        <translation>De geselecteerde WordArt opvullen met een vaste kleur, kleurovergang, tekstuur of afbeelding.
+        <translation type="obsolete">De geselecteerde WordArt opvullen met een vaste kleur, kleurovergang, tekstuur of afbeelding.
 
 Klik op de pijl om de WordArt op verschillende manieren op te vullen.</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>Opvullen</translation>
+        <translation type="obsolete">Opvullen</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtGallery</name>
     <message>
         <source>Change the style of the selected WordArt.</source>
-        <translation>De stijl van de geselecteerde WordArt aanpassen.</translation>
+        <translation type="obsolete">De stijl van de geselecteerde WordArt aanpassen.</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>Stijl Bewerken</translation>
+        <translation type="obsolete">Stijl Bewerken</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtOutline</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation>Klik op de pijl om uit meer omlijningsstijlen te kiezen.</translation>
+        <translation type="obsolete">Klik op de pijl om uit meer omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>Specify the color, width and line style for the outline of the selected WordArt.
 
 Click the arrow to choose more outline styles.</source>
-        <translation>Specifieer de kleur, dikte en lijn stijl voor de omlijning van de geselecteerde WordArt.
+        <translation type="obsolete">Specifieer de kleur, dikte en lijn stijl voor de omlijning van de geselecteerde WordArt.
 
 Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>Omtrek van Vorm</translation>
+        <translation type="obsolete">Omtrek van Vorm</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation>Gelijke Hoogte</translation>
+        <translation type="obsolete">Gelijke Hoogte</translation>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
-        <translation>Geef alle letters van de geselecteerde WordArt dezelfde hoogte.</translation>
+        <translation type="obsolete">Geef alle letters van de geselecteerde WordArt dezelfde hoogte.</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation>De vormstijl van de geselecteerde WordArt aanpassen.</translation>
+        <translation type="obsolete">De vormstijl van de geselecteerde WordArt aanpassen.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>WordArt Vorm</translation>
+        <translation type="obsolete">WordArt Vorm</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation>De grootte, de draaiing en de schaling van de geselecteerde WordArt instellen.</translation>
+        <translation type="obsolete">De grootte, de draaiing en de schaling van de geselecteerde WordArt instellen.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>WordArt Grootte</translation>
+        <translation type="obsolete">WordArt Grootte</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtVerticalText</name>
     <message>
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation>Teken de tekst verticaal, met de letters boven elkaar gezet.</translation>
+        <translation type="obsolete">Teken de tekst verticaal, met de letters boven elkaar gezet.</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>WordArt Vertikale Tekst</translation>
+        <translation type="obsolete">WordArt Vertikale Tekst</translation>
     </message>
 </context>
 <context>
     <name>tips.WordCount</name>
     <message>
         <source>Count the number of pages, words, characters and paragraphs in the document.</source>
-        <translation>Tel het aantal pagina&apos;s, woorden, tekens en paragrafen in het document.</translation>
+        <translation type="obsolete">Tel het aantal pagina&apos;s, woorden, tekens en paragrafen in het document.</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>Woorden Tellen</translation>
+        <translation type="obsolete">Woorden Tellen</translation>
     </message>
 </context>
 <context>
@@ -17734,304 +20101,304 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
         <source>Apply smart formatting to the document.
 
 Apply smart formatting, such as &quot;delete spaces&quot;, &quot;indent the first line of a paragraph by 2 characters&quot;, and other specified options to the document.</source>
-        <translation>Slimme opmaak toepassen op het document.
+        <translation type="obsolete">Slimme opmaak toepassen op het document.
 
 Slimme opmaak toepassen op het document, zoals &quot;verwijder spaties&quot;, &quot;spring de eerste lijn van een paragraaf in met 2 tekens&quot;, en andere speciale opties.</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Woord Gereedschap</translation>
+        <translation type="obsolete">Woord Gereedschap</translation>
     </message>
 </context>
 <context>
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation>WorkSpace_Backup Content</translation>
+        <translation type="obsolete">WorkSpace_Backup Content</translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation>WorkSpace_Backup Title</translation>
+        <translation type="obsolete">WorkSpace_Backup Title</translation>
     </message>
 </context>
 <context>
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation>Open het In-/Uitzoomen dialoogvenster om het zoomniveau van het document aan te passen.</translation>
+        <translation type="obsolete">Open het In-/Uitzoomen dialoogvenster om het zoomniveau van het document aan te passen.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>In-/Uitzoomen</translation>
+        <translation type="obsolete">In-/Uitzoomen</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Align</name>
     <message>
         <source>Align</source>
-        <translation>Uitlijnen</translation>
+        <translation type="obsolete">Uitlijnen</translation>
     </message>
     <message>
         <source>Align the edges of multiple selected objects.
 
 You can also center them or distribute them evenly across the page.</source>
-        <translation>De randen van de geselecteerde objecten uitlijnen.
+        <translation type="obsolete">De randen van de geselecteerde objecten uitlijnen.
 
 Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Breaks</name>
     <message>
         <source>Add page, section or column breaks to the document.</source>
-        <translation>Een pagina-, sectie- of kolomeinde toevoegen aan het document.</translation>
+        <translation type="obsolete">Een pagina-, sectie- of kolomeinde toevoegen aan het document.</translation>
     </message>
     <message>
         <source>Insert Page and Section Breaks</source>
-        <translation>Pagina- en Sectieeindes Invoegen</translation>
+        <translation type="obsolete">Pagina- en Sectieeindes Invoegen</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_CharacterScaling</name>
     <message>
         <source>Character Scale</source>
-        <translation>Tekengrootte</translation>
+        <translation type="obsolete">Tekengrootte</translation>
     </message>
     <message>
         <source>Set character scale of the selected content.</source>
-        <translation>De tekengrootte van de geselecteerde inhoud aanpassen.</translation>
+        <translation type="obsolete">De tekengrootte van de geselecteerde inhoud aanpassen.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_ColumnsPalette</name>
     <message>
         <source>Columns</source>
-        <translation>Kolommen</translation>
+        <translation type="obsolete">Kolommen</translation>
     </message>
     <message>
         <source>Split text into two or more columns.</source>
-        <translation>De tekst verdelen in twee of meer kolommen.</translation>
+        <translation type="obsolete">De tekst verdelen in twee of meer kolommen.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Group</name>
     <message>
         <source>Group</source>
-        <translation>Groeperen</translation>
+        <translation type="obsolete">Groeperen</translation>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
-        <translation>Objecten groeperen zodat je ze kan selecteren als één object.</translation>
+        <translation type="obsolete">Objecten groeperen zodat je ze kan selecteren als één object.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_LineNumber</name>
     <message>
         <source>Add line numbers in the margin alongside of each line of the document.</source>
-        <translation>Regelnummers tonen in de marge van het document.</translation>
+        <translation type="obsolete">Regelnummers tonen in de marge van het document.</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation>Regelnummers</translation>
+        <translation type="obsolete">Regelnummers</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_LineSpacing</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation>De regelafstand tussen verschillende lijnen tekst aanpassen.</translation>
+        <translation type="obsolete">De regelafstand tussen verschillende lijnen tekst aanpassen.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Regelafstand</translation>
+        <translation type="obsolete">Regelafstand</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Margins</name>
     <message>
         <source>Margins</source>
-        <translation>Marges</translation>
+        <translation type="obsolete">Marges</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Select the margin sizes for the entire document or the current section.</source>
-        <translation>De grootte van de marge voor het volledige document of de huidige sectie selecteren.</translation>
+        <translation type="obsolete">De grootte van de marge voor het volledige document of de huidige sectie selecteren.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_PageBorder</name>
     <message>
         <source>Add or change the border around the page of the current section or the entire document.</source>
-        <translation>De rand rond de selectie aanpassen.</translation>
+        <translation type="obsolete">De rand rond de selectie aanpassen.</translation>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation>Paginaranden</translation>
+        <translation type="obsolete">Paginaranden</translation>
     </message>
 </context>
 <context>
     <name>tips.m_PageSize</name>
     <message>
         <source>Choose a paper size for the current section or the entire document.</source>
-        <translation>Een papiergrootte voor de huidige sectie of het volledige document kiezen.</translation>
+        <translation type="obsolete">Een papiergrootte voor de huidige sectie of het volledige document kiezen.</translation>
     </message>
     <message>
         <source>Page Size</source>
-        <translation>Paginagrootte</translation>
+        <translation type="obsolete">Paginagrootte</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Draaien</translation>
+        <translation type="obsolete">Draaien</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
-        <translation>Het geselecteerde object draaien of kantelen.</translation>
+        <translation type="obsolete">Het geselecteerde object draaien of kantelen.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_ShowReviewer</name>
     <message>
         <source>Choose what kind of markup to show in the document.</source>
-        <translation>Kies welke markeringen te tonen in het document.</translation>
+        <translation type="obsolete">Kies welke markeringen te tonen in het document.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>Druk op F1 voor meer hulp.</translation>
+        <translation type="obsolete">Druk op F1 voor meer hulp.</translation>
     </message>
     <message>
         <source>Show Markup</source>
-        <translation>Markeringen Tonen</translation>
+        <translation type="obsolete">Markeringen Tonen</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation>http://help.kingsoftstore.com/writer</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Style</name>
     <message>
         <source>Click here to apply other options, such as clear formatting.</source>
-        <translation>Klik hier op andere opties toe te passen, zoals verwijder opmaak.</translation>
+        <translation type="obsolete">Klik hier op andere opties toe te passen, zoals verwijder opmaak.</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation>Nieuwe Stijl</translation>
+        <translation type="obsolete">Nieuwe Stijl</translation>
     </message>
     <message>
         <source>Show the New Style dialog box, and create a new style in the Styles and Formatting task pane.</source>
-        <translation>Toon het nieuwe stijl dialoogvenster, en maak een nieuwe stijl in het stijlen en opmaak taakvenster.</translation>
+        <translation type="obsolete">Toon het nieuwe stijl dialoogvenster, en maak een nieuwe stijl in het stijlen en opmaak taakvenster.</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Wrapping</name>
     <message>
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
-        <translation>Verander de manier waarop tekst om een object geplaats word, zoals Om Kader of achter tekst.</translation>
+        <translation type="obsolete">Verander de manier waarop tekst om een object geplaats word, zoals Om Kader of achter tekst.</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>Tekstterugloop</translation>
+        <translation type="obsolete">Tekstterugloop</translation>
     </message>
 </context>
 <context>
     <name>tips.m_tocLevel</name>
     <message>
         <source>Set ToC level for the selected paragraph.</source>
-        <translation>Zet het inhoudstabelniveau voor de geselecteerde paragraaf.</translation>
+        <translation type="obsolete">Zet het inhoudstabelniveau voor de geselecteerde paragraaf.</translation>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation>Inhoudstabel Niveau</translation>
+        <translation type="obsolete">Inhoudstabel Niveau</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation>Verwijder Opmerking</translation>
+        <translation type="obsolete">Verwijder Opmerking</translation>
     </message>
     <message>
         <source>Delete Selected Comment</source>
-        <translation>Verwijder geselecteerde opmerking</translation>
+        <translation type="obsolete">Verwijder geselecteerde opmerking</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_DeleteComment2</name>
     <message>
         <source>Click here to delete all of the comments in the document.</source>
-        <translation>Klik hier om alle opmerkingen in het document te verwijderen.</translation>
+        <translation type="obsolete">Klik hier om alle opmerkingen in het document te verwijderen.</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>Verwijder Opmerking</translation>
+        <translation type="obsolete">Verwijder Opmerking</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation>Klik hier voor meer opties zoals platte tekst plakken of opmaak.</translation>
+        <translation type="obsolete">Klik hier voor meer opties zoals platte tekst plakken of opmaak.</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Plakken</translation>
+        <translation type="obsolete">Plakken</translation>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation>Plak de inhoud van het klembord.</translation>
+        <translation type="obsolete">Plak de inhoud van het klembord.</translation>
     </message>
 </context>
 <context>
     <name>tips.weibotool</name>
     <message>
         <source>Convert document to picture and share in Weibo.</source>
-        <translation>Converteer document tot afbeelding en deel in Weibo.</translation>
+        <translation type="obsolete">Converteer document tot afbeelding en deel in Weibo.</translation>
     </message>
     <message>
         <source>Weibotool</source>
-        <translation>Weibotool</translation>
+        <translation type="obsolete">Weibotool</translation>
     </message>
 </context>
 <context>
@@ -18061,8 +20428,12 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Verwijder spaties</translation>
     </message>
     <message>
+        <source>Delete Spaces before First-line Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete spaces at beginning of paragraph with first-line indent</source>
-        <translation>Verwijder spaties aan het begin van paragraaf met eerste lijn inspringen</translation>
+        <translation type="obsolete">Verwijder spaties aan het begin van paragraaf met eerste lijn inspringen</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
@@ -18085,7 +20456,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <name>workspacemenu</name>
     <message>
         <source>Auto Backup</source>
-        <translation>Automatische Backup</translation>
+        <translation type="obsolete">Automatische Backup</translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -18097,39 +20468,43 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Cloud Feedback</source>
-        <translation>Cloud Feedback</translation>
+        <translation type="obsolete">Cloud Feedback</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>Bekijk Backupmap</translation>
+        <translation type="obsolete">Bekijk Backupmap</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>Bekijk Backupversies</translation>
+        <translation type="obsolete">Bekijk Backupversies</translation>
     </message>
     <message>
         <source>Export as Images</source>
         <translation>Exporteer als Afbeeldingen</translation>
     </message>
     <message>
-        <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
+        <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Inloggen</translation>
+        <translation type="obsolete">Inloggen</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Uitloggen</translation>
+        <translation type="obsolete">Uitloggen</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -18137,35 +20512,87 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>Niet Ingelogd</translation>
+        <translation type="obsolete">Niet Ingelogd</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>Open Uit Cloud</translation>
+        <translation type="obsolete">Open Uit Cloud</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>Sla pestand op in Cloud</translation>
+        <translation type="obsolete">Sla pestand op in Cloud</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Weibo</source>
-        <translation>Deel naar Weibo</translation>
+        <translation type="obsolete">Deel naar Weibo</translation>
     </message>
     <message>
         <source>Share via Weibo</source>
-        <translation>Deel via Weibo</translation>
+        <translation type="obsolete">Deel via Weibo</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>Stop Automatische Backup</translation>
+        <translation type="obsolete">Stop Automatische Backup</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation>Gebruikerslogin</translation>
+        <translation type="obsolete">Gebruikerslogin</translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weibo Layout</source>
-        <translation>Weibo Opmaak</translation>
+        <translation type="obsolete">Weibo Opmaak</translation>
     </message>
 </context>
 <context>
@@ -18218,6 +20645,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Menubalk</translation>
     </message>
     <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outlining</source>
         <translation>Schetsen</translation>
     </message>
@@ -18242,6 +20673,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Standaard</translation>
     </message>
     <message>
+        <source>Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tables and Borders</source>
         <translation>Tabellen en Randen</translation>
     </message>
@@ -18259,7 +20694,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Werkplaats</translation>
+        <translation type="obsolete">Werkplaats</translation>
     </message>
 </context>
 <context>
@@ -18277,8 +20712,12 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Rechts Uitlijnen</translation>
     </message>
     <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoShapes and Materials</source>
-        <translation>AutoVormen en Materialen</translation>
+        <translation type="obsolete">AutoVormen en Materialen</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -18293,12 +20732,16 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Vet</translation>
     </message>
     <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bookmarks</source>
-        <translation>Bladwijzers</translation>
+        <translation type="obsolete">Bladwijzers</translation>
     </message>
     <message>
         <source>Browse Objects</source>
-        <translation>Objecten bekijken</translation>
+        <translation type="obsolete">Objecten bekijken</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -18309,6 +20752,30 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Bekijken per Opmerking</translation>
     </message>
     <message>
+        <source>Browse by Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Footnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse by Objects (Alt+Ctrl+Home)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Browse by Page</source>
         <translation>Bekijken per Pagina</translation>
     </message>
@@ -18317,28 +20784,56 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Bekijken per Sectie</translation>
     </message>
     <message>
+        <source>Browse by Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
     <message>
+        <source>Cancel Splitting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Centered</source>
-        <translation>Gecentreerd</translation>
+        <translation type="obsolete">Gecentreerd</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Spellingscontrole</translation>
+        <translation type="obsolete">Spellingscontrole</translation>
+    </message>
+    <message>
+        <source>Click to turn on/off AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn on/off OverType Statusbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn on/off Reviewing function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn on/off Spell Check</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
-        <translation>Klik om automatische backup aan of uit te zetten</translation>
+        <translation type="obsolete">Klik om automatische backup aan of uit te zetten</translation>
     </message>
     <message>
         <source>Click to turn on/off reviewing function</source>
-        <translation>Klik om de revisiefunctie aan of uit te zetten</translation>
+        <translation type="obsolete">Klik om de revisiefunctie aan of uit te zetten</translation>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation>Klik om de spellingscontrole aan of uit te zetten</translation>
+        <translation type="obsolete">Klik om de spellingscontrole aan of uit te zetten</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -18350,19 +20845,19 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation>Klembordvenster</translation>
-    </message>
-    <message>
-        <source>CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Klembordvenster</translation>
     </message>
     <message>
         <source>Collapse</source>
         <translation>Samenvouwen</translation>
     </message>
     <message>
+        <source>Column StatusBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comment Context Menu</source>
-        <translation>Opmerkingen Contextmenu</translation>
+        <translation type="obsolete">Opmerkingen Contextmenu</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -18389,6 +20884,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Buig Segment</translation>
     </message>
     <message>
+        <source>Custom StatusBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cut</source>
         <translation>Knippen</translation>
     </message>
@@ -18410,15 +20909,19 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation>Documentsamenwerking</translation>
+        <translation type="obsolete">Documentsamenwerking</translation>
     </message>
     <message>
         <source>Edit</source>
         <translation>Bewerken</translation>
     </message>
     <message>
+        <source>Endnote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Endnotes Context Menu</source>
-        <translation>Eindnoten Contextmenu</translation>
+        <translation type="obsolete">Eindnoten Contextmenu</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -18433,8 +20936,12 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Feedback</translation>
     </message>
     <message>
+        <source>Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fields Context Menu</source>
-        <translation>Velden Contextmenu</translation>
+        <translation type="obsolete">Velden Contextmenu</translation>
     </message>
     <message>
         <source>File</source>
@@ -18478,11 +20985,15 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
     </message>
     <message>
         <source>Grow Font</source>
         <translation>Vergroot Lettertype</translation>
+    </message>
+    <message>
+        <source>Header Line Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
@@ -18522,7 +21033,11 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation>Kingsoft Online Templates</translation>
+        <translation type="obsolete">Kingsoft Online Templates</translation>
+    </message>
+    <message>
+        <source>Line StatusBar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Macros</source>
@@ -18530,11 +21045,15 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Materials</source>
-        <translation>Materialen</translation>
+        <translation type="obsolete">Materialen</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
         <translation>Meeteenheid. Klik om het &quot;Opties&quot; dialoogvenster te openen.</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -18574,7 +21093,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>New File</source>
-        <translation>Nieuw bestand</translation>
+        <translation type="obsolete">Nieuw bestand</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -18582,7 +21101,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>Nieuw van Locaal Sjabloon</translation>
+        <translation type="obsolete">Nieuw van Locaal Sjabloon</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -18591,6 +21110,14 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>New from Online Templates</source>
         <translation>Nieuw van Online Sjabloon</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -18606,15 +21133,32 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Outline View</source>
-        <translation>Overzichtsweergave</translation>
+        <translation type="obsolete">Overzichtsweergave</translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>Pagina-einde</translation>
+        <translation type="obsolete">Pagina-einde</translation>
+    </message>
+    <message>
+        <source>Page Number. Click to open &quot;Go To&quot; dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Section. Click to Open &quot;Go To&quot; dialog.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page and section of the document. Click to go to certain page or section.</source>
-        <translation>Pagina en sectie van het document. Clik om naar een specifieke pagina of sectie te gaan.</translation>
+        <translation type="obsolete">Pagina en sectie van het document. Clik om naar een specifieke pagina of sectie te gaan.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -18625,8 +21169,13 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Afdrukken</translation>
     </message>
     <message>
+        <source>Print 
+Directly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Directly</source>
-        <translation>Rechtstreeks Afdrukken</translation>
+        <translation type="obsolete">Rechtstreeks Afdrukken</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -18637,12 +21186,20 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Afdrukvoorbeeld</translation>
     </message>
     <message>
+        <source>Print Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Promote</source>
         <translation>Opwaarderen</translation>
     </message>
     <message>
         <source>Recent Documents</source>
         <translation>Recente documenten</translation>
+    </message>
+    <message>
+        <source>Record Macro Statusbar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Redo</source>
@@ -18665,16 +21222,12 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Draaimodus</translation>
     </message>
     <message>
-        <source>S CloudLink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>S MsgAtMe</source>
         <translation type="obsolete">S MsgAtMe</translation>
     </message>
     <message>
         <source>S Office space</source>
-        <translation>S Office space</translation>
+        <translation type="obsolete">S Office space</translation>
     </message>
     <message>
         <source>Save</source>
@@ -18693,24 +21246,52 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Alles selecteren</translation>
     </message>
     <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection and Visibility</source>
-        <translation>Selectie en Zichtbaarheid</translation>
+        <translation type="obsolete">Selectie en Zichtbaarheid</translation>
+    </message>
+    <message>
+        <source>Set Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>Controletaal Aanpassen</translation>
+        <translation type="obsolete">Controletaal Aanpassen</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation>ShapeAndGallery</translation>
+        <translation type="obsolete">ShapeAndGallery</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
         <translation>Vormen Contextmenu</translation>
     </message>
     <message>
+        <source>Shapes and Material</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shrink Font</source>
         <translation>Verklein Lettertype</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Horizontally</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Table by Column</source>
@@ -18721,8 +21302,20 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Tabel Opdelen Per Rij</translation>
     </message>
     <message>
+        <source>Split Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Status Bar</source>
         <translation>Statusbar</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles</source>
@@ -18746,7 +21339,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Table</source>
-        <translation>Tabel</translation>
+        <translation type="obsolete">Tabel</translation>
     </message>
     <message>
         <source>Table Cells</source>
@@ -18821,6 +21414,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Visual Basic Editor</translation>
     </message>
     <message>
+        <source>WPS Online Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Web Layout</source>
         <translation>Weblayout</translation>
     </message>
@@ -18849,7 +21446,11 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <name>wpscommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>Kingsoft Writer Hulp</translation>
+        <translation type="obsolete">Kingsoft Writer Hulp</translation>
+    </message>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18874,8 +21475,16 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation type="obsolete">Gebruikersinformatie Wijzigen</translation>
     </message>
     <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize Task Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Customize taskpane</source>
-        <translation>Taakblad Aanpassen</translation>
+        <translation type="obsolete">Taakblad Aanpassen</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -18883,15 +21492,11 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Docer Online Sjablonen</translation>
+        <translation type="obsolete">Docer Online Sjablonen</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
         <translation>Tekengereedschap</translation>
-    </message>
-    <message>
-        <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -18903,11 +21508,15 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -18922,40 +21531,60 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Invoegen</translation>
     </message>
     <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Login</source>
-        <translation>Inloggen</translation>
+        <translation type="obsolete">Inloggen</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Uitloggen</translation>
+        <translation type="obsolete">Uitloggen</translation>
     </message>
     <message>
         <source>Mailings</source>
         <translation>Mailings</translation>
     </message>
     <message>
+        <source>Maximize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Navigation Pane</source>
         <translation>Sectienavigatie</translation>
     </message>
     <message>
+        <source>New Blank Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Blank File</source>
-        <translation>Nieuw leeg bestand</translation>
+        <translation type="obsolete">Nieuw leeg bestand</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Nieuw uit Meer Templates</translation>
+        <translation type="obsolete">Nieuw uit Meer Templates</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>Niet Ingelogd</translation>
+        <translation type="obsolete">Niet Ingelogd</translation>
+    </message>
+    <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -18994,8 +21623,16 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Recente documenten</translation>
     </message>
     <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>References</source>
         <translation>Verwijzingen</translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Review</source>
@@ -19010,8 +21647,20 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Sectienavigatie</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show the Toolbar</source>
         <translation>Toon de Werkbalk</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -19031,11 +21680,23 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>User Login</source>
-        <translation>Gebruikerslogin</translation>
+        <translation type="obsolete">Gebruikerslogin</translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
         <translation>Beeld</translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -19043,19 +21704,19 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Window Close</source>
-        <translation>Venster Sluiten</translation>
+        <translation type="obsolete">Venster Sluiten</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation>Venster maximaliseren</translation>
+        <translation type="obsolete">Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>Venster minimaliseren</translation>
+        <translation type="obsolete">Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>Venster Herstellen</translation>
+        <translation type="obsolete">Venster Herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -19063,11 +21724,11 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Werkplaats</translation>
+        <translation type="obsolete">Werkplaats</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation>Instelling</translation>
+        <translation type="obsolete">Instelling</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -19110,20 +21771,20 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation type="obsolete">Gebruikersinformatie Wijzigen</translation>
     </message>
     <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Developer</source>
         <translation>Ontwikkelaar</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation>Docer Online Sjablonen</translation>
+        <translation type="obsolete">Docer Online Sjablonen</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
         <translation>Tekengereedschap</translation>
-    </message>
-    <message>
-        <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -19135,11 +21796,15 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation type="obsolete">Google Docs</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Koptekts/Voettekst</translation>
+        <translation type="obsolete">Koptekts/Voettekst</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -19154,24 +21819,28 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Invoegen</translation>
     </message>
     <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Login</source>
-        <translation>Inloggen</translation>
+        <translation type="obsolete">Inloggen</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Uitloggen</translation>
+        <translation type="obsolete">Uitloggen</translation>
     </message>
     <message>
         <source>Mailings</source>
         <translation>Mailings</translation>
+    </message>
+    <message>
+        <source>Maximize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -19179,7 +21848,15 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>Niet Ingelogd</translation>
+        <translation type="obsolete">Niet Ingelogd</translation>
+    </message>
+    <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Options</source>
@@ -19214,8 +21891,16 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Recente documenten</translation>
     </message>
     <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>References</source>
         <translation>Verwijzingen</translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Review</source>
@@ -19238,6 +21923,14 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Toon/Verberg de Werkbalk</translation>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stick the Toolbar</source>
         <translation>Werkbalk Vastplakken</translation>
     </message>
@@ -19255,11 +21948,23 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>User Login</source>
-        <translation>Gebruikerslogin</translation>
+        <translation type="obsolete">Gebruikerslogin</translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
         <translation>Beeld</translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -19267,19 +21972,19 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Window Close</source>
-        <translation>Venster sluiten</translation>
+        <translation type="obsolete">Venster sluiten</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation>Venster maximaliseren</translation>
+        <translation type="obsolete">Venster maximaliseren</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>Venster minimaliseren</translation>
+        <translation type="obsolete">Venster minimaliseren</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>Venster herstellen</translation>
+        <translation type="obsolete">Venster herstellen</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -19287,7 +21992,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Work Space</source>
-        <translation>Werkplaats</translation>
+        <translation type="obsolete">Werkplaats</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -19297,12 +22002,16 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>Wijzig UI</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>Waar</translation>
+        <translation type="obsolete">Waar</translation>
     </message>
 </context>
 <context>

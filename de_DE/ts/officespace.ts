@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KActiveDialogAtStartup</name>
     <message>
-        <source>https://vip.wps.cn/openapi/card/activate</source>
+        <source>https://vip.wps.cn/api/card/activate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15,6 +16,10 @@
         <translation>Formular</translation>
     </message>
     <message>
+        <source>TextLabel</source>
+        <translation type="unfinished">Text-Beschriftung</translation>
+    </message>
+    <message>
         <source>qq login</source>
         <translation type="obsolete">qq Login</translation>
     </message>
@@ -23,49 +28,89 @@
         <translation type="obsolete">sina webo Login</translation>
     </message>
     <message>
-        <source>wps password logn</source>
-        <translation type="obsolete">wps Passwort Login</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished">Text-Beschriftung</translation>
-    </message>
-    <message>
         <source>webHomeLink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>introduce</source>
+        <source>wps password logn</source>
+        <translation type="obsolete">wps Passwort Login</translation>
+    </message>
+    <message>
+        <source>Introduction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>homepage link of qingbangong</source>
+        <source>Homepage link of WPS Office Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>help link of qingbangong</source>
+        <source>Help link of WPS Office Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCheckCloudFileTip</name>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document is updated. Go and check the updates.</source>
+        <comment>allow with %1 for modifier</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KCloudFileStateItem</name>
     <message>
-        <source>nologin, check fail</source>
+        <source>Check failed because account was logged off. Please login again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>nologin, upload fail</source>
+        <source>This file does not belong to the current user. Please change the account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>file is not belong to current user</source>
+        <source>Upload failed because the account was logged off. Please login again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
     <message>
-        <source>window_title</source>
+        <source>Failed to connect to server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name</source>
+        <translation type="obsolete">Dateiname</translation>
+    </message>
+    <message>
+        <source>From the current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N/A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows dialog title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -73,198 +118,192 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>qingdizhi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>dir</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>filename</source>
+        <source>File name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>none</source>
+        <source>Source path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>user cancel task</source>
+        <source>Cloud path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>has new version, please check on cloud</source>
+        <source>File Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>has new version, please refresh</source>
+        <source>Consistent with cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>checking new file version</source>
+        <source>Cloud Docs:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>uploading to cloud server</source>
+        <source>Share Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>file has been synced</source>
+        <source>Manually stopped uploading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sync ok</source>
+        <source>New version is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>default error message</source>
+        <source>Checking updates in the cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cloud fileName</source>
+        <source>Uploading to File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cloud dir</source>
+        <source>Uploaded %1 minutes ago</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>check</source>
+        <source>Uploaded to File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading to cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a historical version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked %1 minutes ago</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>KCloudFileUpdateView</name>
+    <name>KCloudNewVersionTip</name>
     <message>
-        <source>UpdateNewVersionView</source>
+        <source>Refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>clickLabel</source>
+        <source>View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>tipLabel</source>
+        <source>This document is updated. Go and check the updates.</source>
+        <comment>allow with %1 for modifier</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>some one update document, click refresh.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>refresh  cloud document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>some one updated document, click check.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>check cloud document</source>
+        <source>This document is updated. Click Refresh and check.</source>
+        <comment>allow with %1 for modifier</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
-        <source>link</source>
-        <translation>Link</translation>
-    </message>
-    <message>
-        <source>Type:</source>
-        <translation>Typ:</translation>
-    </message>
-    <message>
-        <source>Size:</source>
-        <translation>Größe:</translation>
-    </message>
-    <message>
-        <source>modifyTime:</source>
-        <translation>Änderungszeit:</translation>
-    </message>
-    <message>
-        <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation>http://www.kingsoftstore.com/support/pc-office</translation>
-    </message>
-    <message>
-        <source>Kingsoft Office auto backup</source>
-        <translation>Kingsoft Office automatisches Backup</translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini Name.</translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini Name.</source>
-        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini Name.</translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Auto Backup\Desktop.ini Name.</translation>
-    </message>
-    <message>
-        <source>Manual Backup</source>
-        <translation>Manuelles Backup</translation>
-    </message>
-    <message>
         <source>Explore Versions</source>
         <translation>Versionen durchsuchen</translation>
-    </message>
-    <message>
-        <source>Login klive before auto backup.</source>
-        <translation>Vor der automatischen Sicherung in klive einloggen</translation>
-    </message>
-    <message>
-        <source>Login klive before activating auto backup.</source>
-        <translation>Vor der Aktivierung der automatischen Sicherung in klive einloggen</translation>
-    </message>
-    <message>
-        <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Für Ihr Dokument wurde nun die automatische Sicherung aktiviert!&lt;br /&gt;Die Sicherung wird jedesmal bei schließen der Datei im Office Speicher erstellt</translation>
-    </message>
-    <message>
-        <source>Login File Safe before manual backup.</source>
-        <translation>Für ein manuelle Sicherung bitte bei File Safe einloggen</translation>
-    </message>
-    <message>
-        <source>Login klive before explore versions.</source>
-        <translation>Vor dem durchsuchen der Versionen, bei klive einloggen</translation>
-    </message>
-    <message>
-        <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>Für das Dokument ist kein automatische Sicherung aktiviert. Ein Sicherung ist daher nicht verfügung.</translation>
-    </message>
-    <message>
-        <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Login klive before canceling auto backup.</source>
-        <translation>Vor dem abbrechend der automatischen Sicherung bei klive einloggen.</translation>
-    </message>
-    <message>
-        <source>Login klive before explor backup dir.</source>
-        <translation>Vor dem durchsuchen des Sicherungsverzeichnisses bei klive einloggen</translation>
-    </message>
-    <message>
-        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation type="unfinished">Es sind keine Sicherungdateien im Sicherungsverzeichnis vorhanden.&lt;br /&gt;Dies, kann weil:&lt;br /&gt;1.Es wurde auf dem aktuellen PC keine Sicherung erstellt&lt;br /&gt;2. Sicherungen wurden manuell geleert.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
         <translation>Wichtig! directory.txt nicht löschen</translation>
     </message>
     <message>
-        <source>Login klive before opening files.</source>
-        <translation>Vorm öffnen in klive einloggen.</translation>
+        <source>Login File Safe before manual backup.</source>
+        <translation>Für ein manuelle Sicherung bitte bei File Safe einloggen</translation>
+    </message>
+    <message>
+        <source>Login klive before activating auto backup.</source>
+        <translation>Vor der Aktivierung der automatischen Sicherung in klive einloggen</translation>
+    </message>
+    <message>
+        <source>Login klive before auto backup.</source>
+        <translation>Vor der automatischen Sicherung in klive einloggen</translation>
+    </message>
+    <message>
+        <source>Login klive before canceling auto backup.</source>
+        <translation>Vor dem abbrechend der automatischen Sicherung bei klive einloggen.</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>
         <translation>Vorm löschen in klive einloggen.</translation>
+    </message>
+    <message>
+        <source>Login klive before explor backup dir.</source>
+        <translation>Vor dem durchsuchen des Sicherungsverzeichnisses bei klive einloggen</translation>
+    </message>
+    <message>
+        <source>Login klive before explore versions.</source>
+        <translation>Vor dem durchsuchen der Versionen, bei klive einloggen</translation>
+    </message>
+    <message>
+        <source>Login klive before opening files.</source>
+        <translation>Vorm öffnen in klive einloggen.</translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation>Manuelles Backup</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation>Größe:</translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
+        <translation type="unfinished">Es sind keine Sicherungdateien im Sicherungsverzeichnis vorhanden.&lt;br /&gt;Dies, kann weil:&lt;br /&gt;1.Es wurde auf dem aktuellen PC keine Sicherung erstellt&lt;br /&gt;2. Sicherungen wurden manuell geleert.</translation>
+    </message>
+    <message>
+        <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
+        <translation>Für das Dokument ist kein automatische Sicherung aktiviert. Ein Sicherung ist daher nicht verfügung.</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>Typ:</translation>
+    </message>
+    <message>
+        <source>WPS Office auto backup</source>
+        <translation type="obsolete">WPS Office automatisches Backup</translation>
+    </message>
+    <message>
+        <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation>Für Ihr Dokument wurde nun die automatische Sicherung aktiviert!&lt;br /&gt;Die Sicherung wird jedesmal bei schließen der Datei im Office Speicher erstellt</translation>
+    </message>
+    <message>
+        <source>\WPS Office\AppData\Auto Backup\Desktop.ini name.</source>
+        <translation type="obsolete">\WPS Office\AppData\Auto Backup\Desktop.ini Name.</translation>
+    </message>
+    <message>
+        <source>\WPS Office\AppData\Desktop.ini Name.</source>
+        <translation type="obsolete">\WPS Office\AppData\Desktop.ini Name.</translation>
+    </message>
+    <message>
+        <source>\WPS Office\Desktop.ini name.</source>
+        <translation type="obsolete">\WPS Office\Desktop.ini Name.</translation>
+    </message>
+    <message>
+        <source>http://www.kingsoftstore.com/support/pc-office</source>
+        <translation>http://www.kingsoftstore.com/support/pc-office</translation>
+    </message>
+    <message>
+        <source>link</source>
+        <translation>Link</translation>
+    </message>
+    <message>
+        <source>modifyTime:</source>
+        <translation>Änderungszeit:</translation>
     </message>
     <message>
         <source>netbackup recover file</source>
@@ -275,14 +314,62 @@
         <translation>Netzbackup rollback fehlgeschlagen.</translation>
     </message>
     <message>
+        <source>Kingsoft Office auto backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCouldFastLinkButton</name>
+    <message>
+        <source>Cloud Docs Management</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KCreateCloudLinkDlg</name>
     <message>
-        <source>Sure you want to cancel the emission qing address?</source>
+        <source>Sure you want to cancel the generation of share link?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDataRecoverButton</name>
+    <message>
+        <source>Kingsoft Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDataRecoverDownloadTip</name>
+    <message>
+        <source>Loading the Data Recovery Master. Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDownloadingTip</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Erstellen</translation>
+    </message>
+    <message>
+        <source>Continue opening the updated version of your document.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -297,34 +384,40 @@
 <context>
     <name>KFileListView</name>
     <message>
+        <source>Are you sure you want to delete &apos;%1&apos; files?</source>
+        <translation type="obsolete">Sind Sie sicher, dass Sie die Dateien &apos;%1&apos; löschen wollen?</translation>
+    </message>
+    <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished">Sind Sie sicher, dass Sie &apos;%1&apos; löschen möchten?</translation>
+        <translation type="obsolete">Sind Sie sicher, dass Sie &apos;%1&apos; löschen möchten?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the file&apos;%1&apos;?</source>
+        <translation type="obsolete">Sind Sie sicher, dass Sie &apos;%1&apos; löschen möchten?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete these%1items?</source>
+        <translation type="obsolete">Sind Sie sicher, dass Sie die Dateien &apos;%1&apos; löschen wollen?</translation>
     </message>
     <message>
         <source>Delete file</source>
         <translation>Lösche Datei</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete &apos;%1&apos; files?</source>
-        <translation>Sind Sie sicher, dass Sie die Dateien &apos;%1&apos; löschen wollen?</translation>
+        <source>Delete many objects</source>
+        <translation type="obsolete">Lösche viele Objekte</translation>
     </message>
     <message>
-        <source>Delete many objects</source>
+        <source>Delete multiple items</source>
         <translation type="unfinished">Lösche viele Objekte</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the file &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KFileModeDelegate</name>
-    <message>
-        <source>The file path cannot be longer than 255 characters !</source>
-        <translation>Der Dateipfad darf nicht länger wie 255 Zeichen sein.</translation>
-    </message>
-    <message>
-        <source>The file name must not contain any of the characters:
-      \ / : * ? &quot; &lt; &gt; | !</source>
-        <translation>Der Dateiname darf keins der folgenden Zeichen enthalten:
-        \ / : * ? &quot; &lt; &gt; | !</translation>
-    </message>
     <message>
         <source>Changing the file suffix may lead to file opening failure!
 Are you sure to change?</source>
@@ -332,320 +425,512 @@ Are you sure to change?</source>
 Sind Sie sicher?</translation>
     </message>
     <message>
-        <source>rename</source>
-        <translation>umbenennen</translation>
+        <source>The file name already exists!</source>
+        <translation type="obsolete">Der Dateiname existiert bereits!</translation>
     </message>
     <message>
         <source>The file name cannot be empty !</source>
         <comment>The file name cannot been empty!</comment>
-        <translation>Der Dateiname darf nicht leer sein!</translation>
+        <translation type="obsolete">Der Dateiname darf nicht leer sein!</translation>
     </message>
     <message>
-        <source>The file name already exists!</source>
-        <translation>Der Dateiname existiert bereits!</translation>
+        <source>The file name must not contain any of the characters:
+      \ / : * ? &quot; &lt; &gt; | !</source>
+        <translation type="obsolete">Der Dateiname darf keins der folgenden Zeichen enthalten:
+        \ / : * ? &quot; &lt; &gt; | !</translation>
+    </message>
+    <message>
+        <source>The file path cannot be longer than 255 characters !</source>
+        <translation type="obsolete">Der Dateipfad darf nicht länger wie 255 Zeichen sein.</translation>
+    </message>
+    <message>
+        <source>The file path cannot be longer than 255 characters.</source>
+        <translation>Der Dateipfad darf nicht länger wie 255 Zeichen sein.</translation>
+    </message>
+    <message>
+        <source>The same file or folder already exists!</source>
+        <translation type="obsolete">Der Dateiname existiert bereits!</translation>
+    </message>
+    <message>
+        <source>rename</source>
+        <translation>umbenennen</translation>
+    </message>
+    <message>
+        <source>File names cannot contain any of the following characters:
+      \ / : * ? &quot; &lt; &gt; | !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file name cannot be empty.</source>
+        <comment>The file name cannot been empty!</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file name already exists.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KFileViewPage</name>
     <message>
-        <source>Save to Cloud</source>
-        <translation>In der Cloud speichern</translation>
-    </message>
-    <message>
-        <source>Back to previous directory</source>
-        <extracomment>Back to previous directory</extracomment>
-        <translation>Zurück zum vorherigen Verzeichnis</translation>
-    </message>
-    <message>
-        <source>Forward to directory</source>
-        <translation>Weiter zum Verzeichnis</translation>
-    </message>
-    <message>
-        <source>Online Documents</source>
-        <translation>Online-Dokumente</translation>
-    </message>
-    <message>
-        <source>Upward directory</source>
-        <translation>Verzeichnis aufwärts</translation>
-    </message>
-    <message>
-        <source>Create new folder</source>
-        <translation>Neuen Ordner erstellen</translation>
-    </message>
-    <message>
-        <source>&quot;view&quot; menu</source>
-        <translation>&quot;Zeige&quot; Menü</translation>
-    </message>
-    <message>
-        <source>Click here to send feedback</source>
-        <translation>Hier klicken um Feedback zu senden</translation>
-    </message>
-    <message>
-        <source>File &amp;Name:</source>
-        <translation>Datei&amp;name:</translation>
-    </message>
-    <message>
-        <source>Save &amp;Type:</source>
-        <translation>Speicher&amp;typ</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation>&amp;Speichern</translation>
-    </message>
-    <message>
-        <source>&amp;Encryption</source>
-        <translation>V&amp;erschlüsselung</translation>
+        <source> - Copy</source>
+        <translation type="obsolete"> - bac</translation>
     </message>
     <message>
         <source> - bac</source>
-        <translation> - bac</translation>
+        <translation type="obsolete"> - bac</translation>
     </message>
     <message>
-        <source>&amp;Open</source>
-        <translation>&amp;Öffnen</translation>
+        <source>&quot;View&quot; menu</source>
+        <translation type="unfinished">&quot;Zeige&quot; Menü</translation>
     </message>
     <message>
-        <source>Open &amp;Type:</source>
-        <translation type="unfinished">Öffnungstyp</translation>
-    </message>
-    <message>
-        <source>&amp;View Mode</source>
-        <translation>Anzeigemodus</translation>
-    </message>
-    <message>
-        <source>&amp;Small</source>
-        <translation>Klein</translation>
-    </message>
-    <message>
-        <source>&amp;Middle</source>
-        <translation>&amp;Mittel</translation>
-    </message>
-    <message>
-        <source>&amp;List</source>
-        <translation>&amp;Liste</translation>
-    </message>
-    <message>
-        <source>&amp;Details</source>
-        <translation>&amp;Details</translation>
-    </message>
-    <message>
-        <source>&amp;Content</source>
-        <translation>Inhalt</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <translation>&amp;Hilfe</translation>
-    </message>
-    <message>
-        <source>F1</source>
-        <translation>F1</translation>
-    </message>
-    <message>
-        <source>Rena&amp;me</source>
-        <translation>U&amp;mbenennen</translation>
-    </message>
-    <message>
-        <source>F2</source>
-        <translation>F2</translation>
-    </message>
-    <message>
-        <source>R&amp;efresh</source>
-        <translation>R&amp;efresh</translation>
-    </message>
-    <message>
-        <source>Cu&amp;t</source>
-        <translation>Ausschneiden</translation>
-    </message>
-    <message>
-        <source>Cut the current selection&apos;s contents to the clipboard</source>
-        <translation>Aktuelle Auswahl ausschneiden</translation>
-    </message>
-    <message>
-        <source>&amp;Copy</source>
-        <translation>Kopieren</translation>
-    </message>
-    <message>
-        <source>Copy the current selection&apos;s contents to the clipboard</source>
-        <translation>Aktuelle Auswahl in die Zwischenablage kopieren</translation>
-    </message>
-    <message>
-        <source>&amp;Paste</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>Paste the clipboard&apos;s contents into the current selection</source>
-        <translation>Zwischenablage in die aktuelle Auswahl einfügen</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation>Löschen</translation>
-    </message>
-    <message>
-        <source>Delete the current selection&apos;s contents</source>
-        <translation>Den Inhalt der aktuelle Auswahl löschen</translation>
-    </message>
-    <message>
-        <source>D&amp;irect Delete</source>
-        <translation>D&amp;irektes Löschen</translation>
-    </message>
-    <message>
-        <source>Select &amp;All</source>
-        <translation>&amp;Alles auswählen</translation>
-    </message>
-    <message>
-        <source>Select all the files!</source>
-        <translation>Wähle alle Dateien aus!</translation>
-    </message>
-    <message>
-        <source>&amp;Undo</source>
-        <translation>R&amp;ückgängig</translation>
-    </message>
-    <message>
-        <source>Undo</source>
-        <translation>Rückgängig</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Ctrl+W</source>
-        <translation>Strg+W</translation>
-    </message>
-    <message>
-        <source>Close the dialog!</source>
-        <translation>Dialog schließen!</translation>
-    </message>
-    <message>
-        <source>Create Quick &amp;Link</source>
-        <translation>Erstelle Schnellverknüpfung</translation>
-    </message>
-    <message>
-        <source>Create Quick Link</source>
-        <translation>Erstelle Schnellverknüpfung</translation>
-    </message>
-    <message>
-        <source>&amp;back</source>
-        <translation>zurück</translation>
-    </message>
-    <message>
-        <source>Go back directory</source>
-        <translation type="unfinished">Zurück-Verzeichnis</translation>
-    </message>
-    <message>
-        <source>&amp;Forward</source>
-        <translation>Vorwärts</translation>
-    </message>
-    <message>
-        <source>Go ahead directory</source>
-        <translation>vorheriges Verzeichnis</translation>
-    </message>
-    <message>
-        <source>&amp;Up</source>
-        <translation>Auf</translation>
-    </message>
-    <message>
-        <source>Alt+Up</source>
-        <translation>ALT+Auf</translation>
-    </message>
-    <message>
-        <source>Go up directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Replace</source>
-        <translation>Ersetzen</translation>
-    </message>
-    <message>
-        <source>New &amp;Folder</source>
-        <translation>Neuer Ordner</translation>
-    </message>
-    <message>
-        <source>Updating netword status, please wait...</source>
-        <translation>Netzwerkstatus aktualisieren, bitte warten...</translation>
-    </message>
-    <message>
-        <source>File %1 does not exist .</source>
-        <translation>Datei %1 existiert nicht.</translation>
-    </message>
-    <message>
-        <source>Please save groupfile in group.</source>
-        <translation type="obsolete">Gruppendatei bitte in Gruppe speichern.</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation>Speichern unter</translation>
-    </message>
-    <message>
-        <source>File name too long, please enter a name smaller than %1.</source>
-        <translation>Dateiname ist zu lang. Bitte einen Namen der kleiner als %1 ist eingeben.</translation>
-    </message>
-    <message>
-        <source>File name error, please enter a correct file name format.</source>
-        <translation type="obsolete">Dateinamen-Fehler. Bitte ein gültiges Format angeben.</translation>
+        <source>&quot;view&quot; menu</source>
+        <translation type="obsolete">&quot;Zeige&quot; Menü</translation>
     </message>
     <message>
         <source>%1 already exists, are you sure you want to replace it?</source>
         <translation type="obsolete">%1 existiert bereits, möchten Sie diese ersetzen?</translation>
     </message>
     <message>
-        <source>Confirm to Save As</source>
-        <translation>Speichern unter bestätigen</translation>
+        <source>%1The above file name is invalid !</source>
+        <translation type="obsolete">%1 Der oben genannte Dateiname ist ungültig!</translation>
     </message>
     <message>
-        <source>Loading files, please wait...</source>
-        <translation>Lade Dateien, bitte warten...</translation>
+        <source>%1The above file names are not valid.</source>
+        <translation type="obsolete">%1 Der oben genannte Dateiname ist ungültig!</translation>
     </message>
     <message>
-        <source>&amp;Sort Mode</source>
-        <translation>&amp;Sortiermodus</translation>
-    </message>
-    <message>
-        <source>FileName</source>
-        <translation>Dateiname</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Größe</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>Typ</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation>Uhrzeit</translation>
+        <source>&amp;Ascend</source>
+        <translation type="obsolete">&amp;Aufsteigend</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation>&amp;Aufsteigend</translation>
+        <translation type="unfinished">&amp;Aufsteigend</translation>
+    </message>
+    <message>
+        <source>&amp;Back</source>
+        <translation type="obsolete">zurück</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>&amp;Content</source>
+        <translation type="unfinished">Inhalt</translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation>Kopieren</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>&amp;Descend</source>
+        <translation type="obsolete">Absteigen&amp;d</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation>Absteigen&amp;d</translation>
+        <translation type="unfinished">Absteigen&amp;d</translation>
     </message>
     <message>
-        <source>The directory is empty !</source>
-        <translation>Das Verzeichnis ist leer!</translation>
+        <source>&amp;Details</source>
+        <translation type="obsolete">&amp;Details</translation>
     </message>
     <message>
-        <source>%1The above file name is invalid !</source>
-        <translation>%1 Der oben genannte Dateiname ist ungültig!</translation>
+        <source>&amp;Encrypt</source>
+        <translation>V&amp;erschlüsselung</translation>
     </message>
     <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
+        <source>&amp;Encryption</source>
+        <translation type="obsolete">V&amp;erschlüsselung</translation>
     </message>
     <message>
-        <source>help</source>
+        <source>&amp;Forward</source>
+        <translation type="unfinished">Vorwärts</translation>
+    </message>
+    <message>
+        <source>&amp;Help</source>
+        <translation type="unfinished">&amp;Hilfe</translation>
+    </message>
+    <message>
+        <source>&amp;List</source>
+        <translation type="unfinished">&amp;Liste</translation>
+    </message>
+    <message>
+        <source>&amp;Middle</source>
+        <translation type="unfinished">&amp;Mittel</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation>&amp;Öffnen</translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="unfinished">Ersetzen</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation>&amp;Speichern</translation>
+    </message>
+    <message>
+        <source>&amp;Small</source>
+        <translation type="unfinished">Klein</translation>
+    </message>
+    <message>
+        <source>&amp;Sort Mode</source>
+        <translation type="unfinished">&amp;Sortiermodus</translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished">R&amp;ückgängig</translation>
+    </message>
+    <message>
+        <source>&amp;Undo the last action</source>
+        <translation type="obsolete">R&amp;ückgängig</translation>
+    </message>
+    <message>
+        <source>&amp;Up</source>
+        <translation type="unfinished">Auf</translation>
+    </message>
+    <message>
+        <source>&amp;View Mode</source>
+        <translation type="unfinished">Anzeigemodus</translation>
+    </message>
+    <message>
+        <source>&amp;back</source>
+        <translation type="obsolete">zurück</translation>
+    </message>
+    <message>
+        <source>Alt+Up</source>
+        <translation>ALT+Auf</translation>
+    </message>
+    <message>
+        <source>Back to previous directory</source>
+        <translation type="obsolete">Zurück zum vorherigen Verzeichnis</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Click here to send feedback</source>
+        <translation type="obsolete">Hier klicken um Feedback zu senden</translation>
+    </message>
+    <message>
+        <source>Close dialog window</source>
+        <translation>Dialog schließen!</translation>
+    </message>
+    <message>
+        <source>Close the dialog!</source>
+        <translation type="obsolete">Dialog schließen!</translation>
+    </message>
+    <message>
+        <source>Confirm save as</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File %1 is not existence .</source>
+        <source>Confirm to Save As</source>
+        <translation type="obsolete">Speichern unter bestätigen</translation>
+    </message>
+    <message>
+        <source>Copy selected content to clipboard</source>
+        <translation>Aktuelle Auswahl in die Zwischenablage kopieren</translation>
+    </message>
+    <message>
+        <source>Copy the current selection&apos;s contents to the clipboard</source>
+        <translation type="obsolete">Aktuelle Auswahl in die Zwischenablage kopieren</translation>
+    </message>
+    <message>
+        <source>Create &amp;shortcut</source>
+        <translation type="obsolete">Erstelle Schnellverknüpfung</translation>
+    </message>
+    <message>
+        <source>Create Quick &amp;Link</source>
+        <translation type="obsolete">Erstelle Schnellverknüpfung</translation>
+    </message>
+    <message>
+        <source>Create Quick Link</source>
+        <translation type="obsolete">Erstelle Schnellverknüpfung</translation>
+    </message>
+    <message>
+        <source>Create new folder</source>
+        <translation type="obsolete">Neuen Ordner erstellen</translation>
+    </message>
+    <message>
+        <source>Create shortcut</source>
+        <translation>Erstelle Schnellverknüpfung</translation>
+    </message>
+    <message>
+        <source>Ctrl+W</source>
+        <translation>Strg+W</translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation type="unfinished">Ausschneiden</translation>
+    </message>
+    <message>
+        <source>Cut and paste currently selected content to clipboard</source>
+        <translation>Aktuelle Auswahl ausschneiden</translation>
+    </message>
+    <message>
+        <source>Cut the current selection&apos;s contents to the clipboard</source>
+        <translation type="obsolete">Aktuelle Auswahl ausschneiden</translation>
+    </message>
+    <message>
+        <source>Cut(C)</source>
+        <translation type="obsolete">Ausschneiden</translation>
+    </message>
+    <message>
+        <source>D&amp;irect Delete</source>
+        <translation type="obsolete">D&amp;irektes Löschen</translation>
+    </message>
+    <message>
+        <source>Delete selected content</source>
+        <translation>Den Inhalt der aktuelle Auswahl löschen</translation>
+    </message>
+    <message>
+        <source>Delete the current selection&apos;s contents</source>
+        <translation type="obsolete">Den Inhalt der aktuelle Auswahl löschen</translation>
+    </message>
+    <message>
+        <source>Error saving the new folder, you can only make replacements in the current view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F1</source>
+        <translation>F1</translation>
+    </message>
+    <message>
+        <source>F2</source>
+        <translation>F2</translation>
+    </message>
+    <message>
+        <source>File %1 does not exist .</source>
+        <translation type="obsolete">Datei %1 existiert nicht.</translation>
+    </message>
+    <message>
+        <source>File &amp;Name:</source>
+        <translation type="unfinished">Datei&amp;name:</translation>
+    </message>
+    <message>
+        <source>File &amp;name:</source>
+        <translation type="obsolete">Datei&amp;name:</translation>
+    </message>
+    <message>
+        <source>File name</source>
+        <translation type="obsolete">Dateiname</translation>
+    </message>
+    <message>
+        <source>File name error, please enter a correct file name format.</source>
+        <translation type="obsolete">Dateinamen-Fehler. Bitte ein gültiges Format angeben.</translation>
+    </message>
+    <message>
+        <source>File name too long, please enter a name smaller than %1.</source>
+        <translation type="obsolete">Dateiname ist zu lang. Bitte einen Namen der kleiner als %1 ist eingeben.</translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="obsolete">Dateiname</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Weiter zum Verzeichnis</translation>
+    </message>
+    <message>
+        <source>Forward to directory</source>
+        <translation type="obsolete">Weiter zum Verzeichnis</translation>
+    </message>
+    <message>
+        <source>Go ahead directory</source>
+        <translation type="obsolete">vorheriges Verzeichnis</translation>
+    </message>
+    <message>
+        <source>Go back directory</source>
+        <translation type="obsolete">Zurück-Verzeichnis</translation>
+    </message>
+    <message>
+        <source>Go to the previous folder</source>
+        <extracomment>Back to previous directory</extracomment>
+        <translation>Zurück zum vorherigen Verzeichnis</translation>
+    </message>
+    <message>
+        <source>Go up</source>
+        <translation>Verzeichnis aufwärts</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="obsolete">Gruppe</translation>
+    </message>
+    <message>
+        <source>Homepage</source>
+        <translation>Online-Dokumente</translation>
+    </message>
+    <message>
+        <source>Loading files, please wait...</source>
+        <translation type="obsolete">Lade Dateien, bitte warten...</translation>
+    </message>
+    <message>
+        <source>New &amp;Folder</source>
+        <translation type="obsolete">Neuer Ordner</translation>
+    </message>
+    <message>
+        <source>New Folder</source>
+        <translation>Neuen Ordner erstellen</translation>
+    </message>
+    <message>
+        <source>Not file found</source>
+        <translation>Das Verzeichnis ist leer!</translation>
+    </message>
+    <message>
+        <source>Online Documents</source>
+        <translation type="obsolete">Online-Dokumente</translation>
+    </message>
+    <message>
+        <source>Open &amp;Type:</source>
+        <translation type="unfinished">Öffnungstyp</translation>
+    </message>
+    <message>
+        <source>Open &amp;type:</source>
+        <translation type="obsolete">Öffnungstyp</translation>
+    </message>
+    <message>
+        <source>Paste the clipboard&apos;s contents into the current selection</source>
+        <translation type="obsolete">Zwischenablage in die aktuelle Auswahl einfügen</translation>
+    </message>
+    <message>
+        <source>Please save groupfile in group.</source>
+        <translation type="obsolete">Gruppendatei bitte in Gruppe speichern.</translation>
+    </message>
+    <message>
+        <source>R&amp;efresh</source>
+        <translation type="obsolete">R&amp;efresh</translation>
+    </message>
+    <message>
+        <source>Rena&amp;me</source>
+        <translation type="obsolete">U&amp;mbenennen</translation>
+    </message>
+    <message>
+        <source>Replace(R)</source>
+        <translation type="obsolete">Ersetzen</translation>
+    </message>
+    <message>
+        <source>Save &amp;Type:</source>
+        <translation type="unfinished">Speicher&amp;typ</translation>
+    </message>
+    <message>
+        <source>Save &amp;type:</source>
+        <translation type="obsolete">Speicher&amp;typ</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished">Speichern unter</translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="obsolete">In der Cloud speichern</translation>
+    </message>
+    <message>
+        <source>Save to cloud documents</source>
+        <translation type="obsolete">In der Cloud speichern</translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <translation type="unfinished">&amp;Alles auswählen</translation>
+    </message>
+    <message>
+        <source>Select all the files!</source>
+        <translation type="unfinished">Wähle alle Dateien aus!</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Größe</translation>
+    </message>
+    <message>
+        <source>Sort by(S)</source>
+        <translation type="obsolete">&amp;Sortiermodus</translation>
+    </message>
+    <message>
+        <source>The directory is empty !</source>
+        <translation type="obsolete">Das Verzeichnis ist leer!</translation>
+    </message>
+    <message>
+        <source>The file name is too long. Please enter a file name less than %1characters.</source>
+        <translation type="obsolete">Dateiname ist zu lang. Bitte einen Namen der kleiner als %1 ist eingeben.</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="obsolete">Uhrzeit</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="obsolete">Typ</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve file list. Please check the network and try again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished">Rückgängig</translation>
+    </message>
+    <message>
+        <source>Undo the last action</source>
+        <translation type="obsolete">Rückgängig</translation>
+    </message>
+    <message>
+        <source>Updating netword status, please wait...</source>
+        <translation type="obsolete">Netzwerkstatus aktualisieren, bitte warten...</translation>
+    </message>
+    <message>
+        <source>Upward directory</source>
+        <translation type="obsolete">Verzeichnis aufwärts</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation>Hier klicken um Feedback zu senden</translation>
+    </message>
+    <message>
+        <source>WPS cloud document</source>
+        <translation type="obsolete">Gruppe</translation>
+    </message>
+    <message>
+        <source>rena&amp;me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>r&amp;efresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;irecDelete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go Ahead dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go up dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>new &amp;folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Live state init, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file name is too long. Please enter a file name less than %1 characters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -653,15 +938,86 @@ Sind Sie sicher?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 already exists, Sure you want to replace it?</source>
+        <source>Files loading, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Save error, you could replace save in current view only.</source>
+        <source>%1 The above file names are not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get Files Error!</source>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> - replica</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste the clipboard&apos;s contents into the current directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Shortcut(&amp;L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ba&amp;ckward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go back dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
+        <source>File %1 does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 already exists. Sure you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished">Größe:</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished">Typ:</translation>
+    </message>
+    <message>
+        <source>Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KForceCloseFailTip</name>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document is in edit mode. Please exit this mode first.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -669,26 +1025,57 @@ Sind Sie sicher?</translation>
     <name>KLiveEmbedDialogImpl</name>
     <message>
         <source>Open Cloud</source>
-        <translation>Cloud öffnen</translation>
+        <translation type="obsolete">Cloud öffnen</translation>
+    </message>
+    <message>
+        <source>Open from cloud documents</source>
+        <translation type="obsolete">Cloud öffnen</translation>
     </message>
     <message>
         <source>Save to Cloud</source>
-        <translation>In der Cloud speichern</translation>
+        <translation type="obsolete">In der Cloud speichern</translation>
+    </message>
+    <message>
+        <source>Save to cloud documents</source>
+        <translation type="obsolete">In der Cloud speichern</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KLiveSvr</name>
     <message>
         <source>please login kuaipan</source>
-        <translation type="unfinished">Bitte einloggen kuaipan</translation>
+        <translation type="obsolete">Bitte einloggen kuaipan</translation>
+    </message>
+    <message>
+        <source>Please login Cloud Docs manually to use the feature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLocalNewVersionTip</name>
+    <message>
+        <source>Ignore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available in the cloud. Do you want to update the local document?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KOpenCloudLinkOKTip</name>
-    <message>
-        <source>看不见的标题</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;span&gt;open_ok_tip_1&lt;/span&gt;
@@ -698,55 +1085,216 @@ Sind Sie sicher?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>i_know_and_never_show_again</source>
+        <source>I knew it and do not prompt again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOpenFromOtherDeviceTip</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Erstellen</translation>
+    </message>
+    <message>
+        <source>This document is from another device. The cloud document has been automatically called and opened for you.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KQingClient</name>
     <message>
-        <source>ERR_ParentNotExists</source>
+        <source>A file with this name already exists</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_PermissionDenied</source>
+        <source>A folder with this name already exists</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_ParentWasDeleted</source>
+        <source>Folder cannot be created in the current location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_ParentNotFolder</source>
+        <source>Parent folder does not exist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_FileNameConflict</source>
+        <source>Parent folder has been deleted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_FileNameError</source>
+        <source>The current user is not a member of this group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_GroupClosed</source>
+        <source>This group has been archived</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_NotGroupMember</source>
+        <source>Unacceptable name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ERR_FolderExist</source>
+        <source>You do not have this permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingFilePage</name>
+    <message>
+        <source>Add star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all non-starred records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all starred records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roaming your document...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1
+size:%2
+path:%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingFloatingWidget</name>
+    <message>
+        <source>document be deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cacel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingGuidFilePage</name>
+    <message>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roam to mobile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingHomepage</name>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingItemDelagate</name>
+    <message>
+        <source>Adding star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operating</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingRecentTailPanel</name>
+    <message>
+        <source>More roaming documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All file types:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingSave2PrivateTip</name>
+    <message>
+        <source>Document has been saved automatically to the private space root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to view private space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Erstellen</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingTabHeader</name>
+    <message>
+        <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KSendCloudLinkOKTip</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished">Formular</translation>
-    </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;span&gt;send_ok_tip_1&lt;/span&gt;
@@ -756,37 +1304,93 @@ Sind Sie sicher?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>never_show_again</source>
+        <source>Form</source>
+        <translation type="unfinished">Formular</translation>
+    </message>
+    <message>
+        <source>Do not prompt again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>check_my_cloudlink</source>
+        <source>View my Share Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipBase</name>
+    <message>
+        <source>UpdateNewVersionView</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>button1Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>button2Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>closeLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>textLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTpRoamingPage</name>
+    <message>
+        <source>You have opened File Roaming:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Look up my File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUserCenterCommand</name>
+    <message>
+        <source>You have logged in WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUserPanelJsObject</name>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close the currently opened document before sign out</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxCheckUploadDlg</name>
     <message>
-        <source>commit error, please retry</source>
+        <source>Documents saving to the cloud failed. Please check the internet and retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>commit ok, will uploading at background</source>
+        <source>Checking completed and will upload it at background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Checking upload, Please wait..</source>
+        <source>Checking cloud saving permissions. Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckUpload</name>
     <message>
-        <source>Committing</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
     <message>
-        <source>Checking upload, Please wait..</source>
+        <source>Submit for review</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -794,39 +1398,59 @@ Sind Sie sicher?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <source>Checking cloud saving permissions. Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgNewFolder</name>
     <message>
+        <source>&amp;Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>&amp;Input new FolderName:</source>
+        <translation type="obsolete">Neuen Ordnernamen e&amp;ingeben:</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished">Erstellen</translation>
+    </message>
+    <message>
+        <source>Creating a new folder. Please wait...</source>
+        <translation>Erneure Ordner, bitte warten...</translation>
+    </message>
+    <message>
+        <source>Enter a new name:</source>
+        <translation type="obsolete">Neuen Ordnernamen e&amp;ingeben:</translation>
+    </message>
+    <message>
         <source>New Folder</source>
         <translation>Neuer Ornder</translation>
     </message>
     <message>
-        <source>&amp;Input new FolderName:</source>
-        <translation>Neuen Ordnernamen e&amp;ingeben:</translation>
+        <source>Newing Folder, Please wait..</source>
+        <translation type="obsolete">Erneure Ordner, bitte warten...</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">Erstellen</translation>
     </message>
     <message>
         <source>TextLabel</source>
         <translation type="obsolete">Text-Beschriftung</translation>
     </message>
     <message>
-        <source>Newing Folder, Please wait..</source>
-        <translation>Erneure Ordner, bitte warten...</translation>
-    </message>
-    <message>
-        <source>Create</source>
-        <translation>Erstellen</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>Abbrechen</translation>
+        <source>Enter a new name(&amp;I):</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgSyncProcess</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
     <message>
         <source>Synchronize progress</source>
         <translation>Synchronisierungsfortschritt</translation>
@@ -835,51 +1459,12 @@ Sind Sie sicher?</translation>
         <source>Synchronizing, please wait...</source>
         <translation>Synchronisiere, bitte warten...</translation>
     </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
 </context>
 <context>
     <name>KxFileDialog</name>
     <message>
-        <source>Modified Date</source>
-        <comment>description for content mode</comment>
-        <translation>Änderungsdatum</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <comment>description for content mode</comment>
-        <translation>Größe</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <comment>description for content mode</comment>
-        <translation>Typ</translation>
-    </message>
-    <message>
-        <source>file manage</source>
-        <comment>right link in filedialog</comment>
-        <translation>Dateiverwaltung</translation>
-    </message>
-    <message>
-        <source>Local</source>
-        <comment>Local tab in filedialog</comment>
-        <translation>Lokal</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <comment>Group tab in filedialog</comment>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Save backup file to File Safe.</source>
-        <comment>saveToKLive checkbox tab in filedialog</comment>
-        <translation type="unfinished">Speichere Backupfile in Filesafe</translation>
-    </message>
-    <message>
         <source>Drive</source>
-        <translation>Laufwerk</translation>
+        <translation type="unfinished">Laufwerk</translation>
     </message>
     <message>
         <source>File</source>
@@ -891,13 +1476,9 @@ Sind Sie sicher?</translation>
         <translation>Dateiordner</translation>
     </message>
     <message>
-        <source>Shortcut</source>
-        <comment>All other platforms</comment>
-        <translation>Tastekürzel</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation>Unbekannt</translation>
+        <source>Group</source>
+        <comment>Group tab in filedialog</comment>
+        <translation type="obsolete">Gruppe</translation>
     </message>
     <message>
         <source>Group</source>
@@ -906,28 +1487,23 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Group Folder</source>
+        <comment>FolderType</comment>
+        <translation type="obsolete">Gruppenordner</translation>
+    </message>
+    <message>
+        <source>Group Folder</source>
         <comment>Match Windows Explorer</comment>
         <translation type="obsolete">Gruppenordner</translation>
     </message>
     <message>
-        <source>Private Space</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
+        <source>Local</source>
+        <comment>Local tab in filedialog</comment>
+        <translation type="obsolete">Lokal</translation>
     </message>
     <message>
-        <source>Qing Address</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send Address</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Receive Address</source>
-        <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
+        <source>Modified Date</source>
+        <comment>description for content mode</comment>
+        <translation>Änderungsdatum</translation>
     </message>
     <message>
         <source>My Group</source>
@@ -940,28 +1516,105 @@ Sind Sie sicher?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Group Folder</source>
+        <source>Partition</source>
+        <translation type="obsolete">Laufwerk</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
         <comment>FolderType</comment>
-        <translation type="unfinished">Gruppenordner</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Qing Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receive Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save backup file to File Safe.</source>
+        <comment>saveToKLive checkbox tab in filedialog</comment>
+        <translation type="unfinished">Speichere Backupfile in Filesafe</translation>
+    </message>
+    <message>
+        <source>Send Address</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut</source>
+        <comment>All other platforms</comment>
+        <translation>Tastekürzel</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <comment>description for content mode</comment>
+        <translation type="obsolete">Größe</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <comment>description for content mode</comment>
+        <translation type="obsolete">Typ</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">Unbekannt</translation>
+    </message>
+    <message>
+        <source>Unknown:</source>
+        <translation type="obsolete">Unbekannt</translation>
+    </message>
+    <message>
+        <source>file manage</source>
+        <comment>right link in filedialog</comment>
+        <translation type="obsolete">Dateiverwaltung</translation>
+    </message>
+    <message>
+        <source>Local document</source>
+        <comment>Local tab in filedialog</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <comment>description for content mode</comment>
+        <translation type="unfinished">Größe:</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <comment>description for content mode</comment>
+        <translation type="unfinished">Typ:</translation>
+    </message>
+    <message>
+        <source>Cloud Docs</source>
+        <comment>Group tab in filedialog</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <comment>FolderType</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxFileSystemModel</name>
     <message>
-        <source>%1 TB</source>
-        <translation>%1 TB</translation>
-    </message>
-    <message>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
+    </message>
+    <message>
+        <source>%1 KB</source>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <source>%1 MB</source>
         <translation>%1 MB</translation>
     </message>
     <message>
-        <source>%1 KB</source>
-        <translation>%1 KB</translation>
+        <source>%1 TB</source>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <source>%1 bytes</source>
@@ -969,19 +1622,11 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>&lt;b&gt;The file &quot;%1&quot; is open.&lt;/b&gt;&lt;p&gt;Please close the file and try again.</source>
-        <translation>&lt;b&gt;Die Datei &quot;%1&quot; is geöffnet.&lt;/b&gt;&lt;p&gt;Bitte Datei schließen und wiederholen.</translation>
+        <translation type="obsolete">&lt;b&gt;Die Datei &quot;%1&quot; is geöffnet.&lt;/b&gt;&lt;p&gt;Bitte Datei schließen und wiederholen.</translation>
     </message>
     <message>
         <source>File is being used.</source>
-        <translation>Datei ist in Benutzung</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Name</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Größe</translation>
+        <translation type="obsolete">Datei ist in Benutzung</translation>
     </message>
     <message>
         <source>Kind</source>
@@ -989,77 +1634,189 @@ Sind Sie sicher?</translation>
         <translation>Art</translation>
     </message>
     <message>
+        <source>Modified Date</source>
+        <translation type="obsolete">Änderungsdatum</translation>
+    </message>
+    <message>
+        <source>Modified on: </source>
+        <translation type="obsolete">Änderungsdatum</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Name</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Größe</translation>
+    </message>
+    <message>
+        <source>The file is in use</source>
+        <translation>Datei ist in Benutzung</translation>
+    </message>
+    <message>
         <source>Type</source>
         <comment>All other platforms</comment>
         <translation>Typ</translation>
     </message>
     <message>
-        <source>Modified Date</source>
-        <translation>Änderungsdatum</translation>
+        <source>&lt;b&gt;Operation failed for the file &quot;%1&quot; is open.&lt;/b&gt;&lt;p&gt;Please close the file and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished">Größe:</translation>
+    </message>
+    <message>
+        <source>Modified Date:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxLiveStateUpdateCache</name>
     <message>
-        <source>Not Logged in</source>
-        <translation>Nicht eingeloggt</translation>
+        <source>I known</source>
+        <translation type="obsolete">Ich weiß</translation>
     </message>
     <message>
-        <source>OS_Login tip</source>
-        <translation>OS_Login tip</translation>
+        <source>I understand</source>
+        <translation type="obsolete">Ich weiß</translation>
+    </message>
+    <message>
+        <source>Logged in</source>
+        <translation type="obsolete">Eingeloggt.</translation>
     </message>
     <message>
         <source>Logged in.</source>
-        <translation>Eingeloggt.</translation>
+        <translation type="obsolete">Eingeloggt.</translation>
+    </message>
+    <message>
+        <source>Not Logged in</source>
+        <translation type="obsolete">Nicht eingeloggt</translation>
+    </message>
+    <message>
+        <source>Not logged in</source>
+        <translation type="obsolete">Nicht eingeloggt</translation>
+    </message>
+    <message>
+        <source>OS_Login tip</source>
+        <translation type="obsolete">OS_Login tip</translation>
     </message>
     <message>
         <source>OS_Logout tip</source>
-        <translation>OS_Logout tip</translation>
-    </message>
-    <message>
-        <source>click icon</source>
-        <translation>Klicksymbol</translation>
+        <translation type="obsolete">OS_Logout tip</translation>
     </message>
     <message>
         <source>To view, launch collaboration information.</source>
+        <translation type="obsolete">Zu anzeigen, die Informatioen zur Zusammenarbeit starten.</translation>
+    </message>
+    <message>
+        <source>You can use free cloud services such as&amp;lt;br /&gt;online documents, the file safe,&amp;lt;br /&gt;online templates and material collections after login.</source>
+        <translation type="obsolete">OS_Login tip</translation>
+    </message>
+    <message>
+        <source>You can view or send collaborative information.</source>
         <translation>Zu anzeigen, die Informatioen zur Zusammenarbeit starten.</translation>
     </message>
     <message>
-        <source>I known</source>
-        <translation type="unfinished">Ich weiß</translation>
+        <source>You have logged in to the wps account: &amp;lt;br/&gt;%1&amp;lt;br/&gt;. You can %2change your login account or log out.</source>
+        <translation type="obsolete">OS_Logout tip</translation>
+    </message>
+    <message>
+        <source>click icon</source>
+        <translation type="obsolete">Klicksymbol</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Erstellen</translation>
+    </message>
+    <message>
+        <source>Click icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been offline for a long time, in order to update your business authorization, please login to your account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number of equipments you are authorizing has reached its limit and the current equipment no longer gets a business authorization. You can offline other equipments in order to make the current equipment authorized.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equipment Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have logged in to the WPS Office account: &lt;br/&gt;%1&lt;br/&gt; You can %2 change your login account or sign out.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxLiveTabDialogExControl</name>
     <message>
-        <source>qing support collaboration office files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please enter from here</source>
+        <source>Enter here</source>
         <translation type="unfinished">Bitte hier eingeben</translation>
     </message>
     <message>
         <source>I known</source>
-        <translation>Ich weiß</translation>
+        <translation type="obsolete">Ich weiß</translation>
+    </message>
+    <message>
+        <source>I understand</source>
+        <translation type="obsolete">Ich weiß</translation>
+    </message>
+    <message>
+        <source>Please enter from here</source>
+        <translation type="obsolete">Bitte hier eingeben</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Erstellen</translation>
+    </message>
+    <message>
+        <source>Files in the Cloud Docs support multi-user collaborations</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxMovieButton</name>
     <message>
-        <source>Refresh file list</source>
+        <source>Refresh document list</source>
         <translation>Dateiliste aktualisieren</translation>
     </message>
     <message>
+        <source>Refresh file list</source>
+        <translation type="obsolete">Dateiliste aktualisieren</translation>
+    </message>
+    <message>
         <source>Synchronizing...</source>
-        <translation>Synchronisiere...</translation>
+        <translation type="unfinished">Synchronisiere...</translation>
+    </message>
+    <message>
+        <source>Syncing...</source>
+        <translation type="obsolete">Synchronisiere...</translation>
     </message>
 </context>
 <context>
     <name>KxNewFolderDlg</name>
     <message>
-        <source>The file path cannot be longer than 255 characters !</source>
-        <translation>Der Dateipfad darf nicht länger als 255 Zeichen sein</translation>
+        <source>Error creating new folder: %1</source>
+        <translation>Neuer Ordner Fehler:%1</translation>
+    </message>
+    <message>
+        <source>The file name already exists!</source>
+        <translation type="obsolete">Der Dateiname existiert bereits!</translation>
     </message>
     <message>
         <source>The file name must not contain any of the characters:
@@ -1068,18 +1825,26 @@ Sind Sie sicher?</translation>
       \ / : * ? &quot; &lt; &gt; | !</translation>
     </message>
     <message>
-        <source>The file name already exists!</source>
+        <source>The file path cannot be longer than 255 characters !</source>
+        <translation type="obsolete">Der Dateipfad darf nicht länger als 255 Zeichen sein</translation>
+    </message>
+    <message>
+        <source>The file path cannot be longer than 255 characters.</source>
+        <translation>Der Dateipfad darf nicht länger als 255 Zeichen sein</translation>
+    </message>
+    <message>
+        <source>The same file or folder already exists!</source>
         <translation>Der Dateiname existiert bereits!</translation>
     </message>
     <message>
         <source>new foler error:%1</source>
-        <translation>Neuer Ordner Fehler:%1</translation>
+        <translation type="obsolete">Neuer Ordner Fehler:%1</translation>
     </message>
 </context>
 <context>
     <name>KxTpCloudLinkWidget</name>
     <message>
-        <source>sending cloudlink failed</source>
+        <source>Transmitting share link failed. Please check the network or operation authorization.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1097,39 +1862,79 @@ Sind Sie sicher?</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>&apos;%1&apos; exists, can&apos;t complete the operation</source>
+        <source>&apos;%1&apos; already exists. Operation cannot be completed.</source>
         <translation>&apos;%1&apos; beendet, Vorgang kann nicht abgeschlossen werden</translation>
     </message>
     <message>
-        <source>Are you sure you want to forever delete &apos;%1&apos; files?</source>
-        <translation>Sind Sie sicher, dass Sie die Datei &apos;%1&apos; unwiderruflich löschen?</translation>
+        <source>&apos;%1&apos; exists, can&apos;t complete the operation</source>
+        <translation type="obsolete">&apos;%1&apos; beendet, Vorgang kann nicht abgeschlossen werden</translation>
     </message>
     <message>
-        <source>Delete many objects</source>
-        <translation>Viele Objekte löschen</translation>
-    </message>
-    <message>
-        <source>Can&apos;t complete the operation for &apos;%1&apos; is write protected.</source>
+        <source>&apos;%1&apos; is protected. Operation cannot be completed.</source>
         <translation>Vorgang kann nicht abgeschlossen werden. &apos;%1&apos; ist schreibgeschützt. </translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;permanently?</source>
+        <translation type="obsolete">Sind Sie sicher, dass Sie &apos;%1&apos; dauerhaft löschen möchten?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the file &apos;%1&apos; permanently?</source>
         <translation>Sind Sie sicher, dass Sie &apos;%1&apos; dauerhaft löschen möchten?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this %1 item permanently?</source>
+        <translation type="obsolete">Sind Sie sicher, dass Sie die Datei &apos;%1&apos; unwiderruflich löschen?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to forever delete &apos;%1&apos; files?</source>
+        <translation type="obsolete">Sind Sie sicher, dass Sie die Datei &apos;%1&apos; unwiderruflich löschen?</translation>
+    </message>
+    <message>
+        <source>Can&apos;t complete the operation for &apos;%1&apos; is write protected.</source>
+        <translation type="obsolete">Vorgang kann nicht abgeschlossen werden. &apos;%1&apos; ist schreibgeschützt. </translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete file</source>
         <translation>Datei löschen</translation>
     </message>
     <message>
-        <source>Failed to delete the following files! Please check if the files are being used.</source>
-        <translation>Fehler beim löschen der Dateien! Bitte prüfen ob diese noch in Benutzung sind.</translation>
+        <source>Delete many objects</source>
+        <translation type="obsolete">Viele Objekte löschen</translation>
+    </message>
+    <message>
+        <source>Delete multiple items</source>
+        <translation>Viele Objekte löschen</translation>
     </message>
     <message>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
         <translation>Fehler beim ausschneiden der Dateien! Bitte prüfen ob diese noch in Benutzung sind.</translation>
     </message>
     <message>
-        <source>qingbangong</source>
+        <source>Failed to delete the following files! Please check if the files are being used.</source>
+        <translation>Fehler beim löschen der Dateien! Bitte prüfen ob diese noch in Benutzung sind.</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this &apos;%1&apos; item permanently?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete From The Listing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1138,6 +1943,17 @@ Sind Sie sicher?</translation>
     <message>
         <source>Form</source>
         <translation>Formular</translation>
+    </message>
+</context>
+<context>
+    <name>kxChangeLoginCommand</name>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please close all opened documents of current user before changing account</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1155,7 +1971,37 @@ Sind Sie sicher?</translation>
     <name>kxKOSLoginCommand</name>
     <message>
         <source>OS_Login tip</source>
-        <translation>OS_Login tip</translation>
+        <translation type="obsolete">OS_Login tip</translation>
+    </message>
+    <message>
+        <source>You can use free cloud services such as&amp;lt;br /&gt;online documents, the file safe,&amp;lt;br /&gt;online templates and material collections after login.</source>
+        <translation type="obsolete">OS_Login tip</translation>
+    </message>
+    <message>
+        <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSLogoutCommand</name>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close the currently opened document before sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.DataRecover</name>
+    <message>
+        <source>Data Recovery Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Recovery Content</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

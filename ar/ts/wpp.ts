@@ -151,10 +151,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Styl 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>First Row</source>
         <translation type="unfinished"></translation>
     </message>
@@ -176,6 +172,14 @@
     </message>
     <message>
         <source>Last Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-</source>
+        <translation type="unfinished">3-</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -202,11 +206,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add Design</source>
+        <source>Show &amp;Large Previews</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show &amp;Large Previews</source>
+        <source>Add &amp;Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -276,11 +280,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fi&amp;nd What:</source>
+        <source>Re&amp;place with:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Re&amp;place with:</source>
+        <source>Fi&amp;nd what:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -354,7 +358,7 @@
     <name>DlgKxSetupShow</name>
     <message>
         <source>Slide Show Settings</source>
-        <translation>إعدادات استعراض الشريحة</translation>
+        <translation type="obsolete">إعدادات استعراض الشريحة</translation>
     </message>
     <message>
         <source>Show type</source>
@@ -437,11 +441,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Double-&amp;Screen Extend Mode Guide</source>
+        <source>Sho&amp;w presenter view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sho&amp;w presenter view</source>
+        <source>Set Up Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-&amp;Screen Extend Mode Wizard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -659,10 +667,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Animate grid and legend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Diagram Animation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -676,10 +680,6 @@
     </message>
     <message>
         <source>Play options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound &amp;Volume:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -712,6 +712,14 @@
     </message>
     <message>
         <source>&amp;Zoom to full screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Animate gridline and legend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound &amp;volume:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -829,14 +837,15 @@
 <context>
     <name>KWppZoomSlider</name>
     <message id="0">
-        <source>Slide Zoom Fit</source>
+        <source>Fit slide to current window</source>
+        <oldsource>Slide Zoom Fit</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
-        <source>WPS WORD</source>
+        <source>WPS Presentation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -900,15 +909,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Always suggest corrections(&amp;L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore words in &amp;UPPERCASE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ignore words that contain num&amp;bers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;lways suggest corrections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore words in &amp;uppercase</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -950,19 +959,19 @@
 <context>
     <name>KxCommentWidget</name>
     <message>
-        <source>PowerPoint reached the beginning of the presentation.Do you want to continue from the end?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PowerPoint reached the end of the presentation.Do you want to continue from the beginning?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete all comments and ink annotations in this presentation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation reached the beginning of the slide. Do you want to continue from the end?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation reached the end of the slide. Do you want to continue from the beginning?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -977,15 +986,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copy %1of %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copy %1 of </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy %1 of %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1004,7 +1013,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can&apos;t have two custom shows with the same name. Please enter a new name.</source>
+        <source>You cannot have two custom shows with the same name. Please enter a new name.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1031,11 +1040,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I&amp;gnor the back ground of main</source>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>I&amp;gnore the background of master slide</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1050,20 +1059,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Background music file cannot be saved in the presentation file directly. It needs to be distributed together with the presentation file. You can put it with the presentation file in the same folder to play.</source>
+        <source>&amp;Do not prompt next time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Do not prompt next time.</source>
+        <source>Background music file cannot be saved in
+the presentation file directly.You can put it with the presentation file in the same folder to play.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgBrowseSlides</name>
-    <message>
-        <source>Browse Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&amp;Show:</source>
         <translation type="unfinished"></translation>
@@ -1074,6 +1080,10 @@
     </message>
     <message>
         <source>&amp;Go To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1112,20 +1122,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Begin at:</source>
+        <source>R&amp;eset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>R&amp;eset</source>
+        <source>&amp;Begin a&amp;t:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckSpelling</name>
-    <message>
-        <source>Spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&amp;Paragraph:</source>
         <translation type="unfinished"></translation>
@@ -1179,7 +1185,11 @@
         <translation>إغلاق</translation>
     </message>
     <message>
-        <source>&amp;Set Spellcheck Language</source>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Set Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1205,10 +1215,6 @@
 <context>
     <name>KxDlgDeletebkmusic</name>
     <message>
-        <source>Delete Background music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Icon</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1218,6 +1224,10 @@
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Background Music</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1296,7 +1306,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
+        <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1391,7 +1401,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set as De&amp;fault</source>
+        <source>Set as Default(&amp;C)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1473,10 +1483,6 @@
 <context>
     <name>KxDlgInsertMedia</name>
     <message>
-        <source>WPS preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Icon</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1489,7 +1495,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>When &amp;Click</source>
+        <source>WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When &amp;Clicked</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1504,7 +1514,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number of &amp;cols:</source>
+        <source>Number of &amp;columns:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1519,7 +1529,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Ok</source>
+        <source>&amp;OK</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1573,10 +1583,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Display options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1596,6 +1602,10 @@
         <source>File:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Sound &amp;volume:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgOption</name>
@@ -1610,10 +1620,6 @@
     <message>
         <source>Show</source>
         <translation>استعراض</translation>
-    </message>
-    <message>
-        <source>Start&amp;up Task Window</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide &amp;layout task pane while insert new slides</source>
@@ -1648,10 +1654,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show &amp;menu on right mouse click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;End with black slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1668,10 +1670,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Entris</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recovery options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1684,10 +1682,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Munites</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User Information</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1696,19 +1690,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Intia&amp;ls:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save &amp;presentation files as:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft  Presentation File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1721,18 +1707,6 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start With</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start With:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Home Pa&amp;ge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1784,16 +1758,8 @@
         <translation>عرض الإطار</translation>
     </message>
     <message>
-        <source>&amp;Color/grayscale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color</source>
         <translation>لون</translation>
-    </message>
-    <message>
-        <source>Gray</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
@@ -1836,14 +1802,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document passw&amp;ord</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reenter &amp;password:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1864,19 +1822,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Caution: Please keep your password properly. Losing or forgetting the password will cause the file never to be recovered. (Remember that passwords are case sensitive.)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore words in &amp;UPPERCASE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1888,11 +1834,84 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &amp;Timing Backup</source>
+        <source>&amp;Smart Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Smart Backup</source>
+        <source>Start&amp;up task window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show menu on right mouse click(&amp;P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;timing backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Initia&amp;ls:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates(&amp;G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color/Grayscale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">بالأسود والأبيض فقط</translation>
+    </message>
+    <message>
+        <source>Enter a password below to protect this document.
+The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document passw&amp;ord:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore words in &amp;uppercase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1903,23 +1922,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Package Instruction:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Folder &amp;Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Location:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Browse</source>
+        <source>Package into specified folder:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Also Packaged As Compressed File</source>
+        <source>Folder &amp;name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Also packaged as compressed file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2022,15 +2041,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Notes,handouts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>P&amp;ortrait</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>L&amp;andscape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes, handouts and outline</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2048,10 +2067,6 @@
 <context>
     <name>KxDlgReplaceFont</name>
     <message>
-        <source>Replace Fonts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Re&amp;place:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2064,16 +2079,16 @@
         <translation>إغلاق</translation>
     </message>
     <message>
-        <source>Replace with(&amp;w):</source>
+        <source>Replace Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace &amp;with:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgSaveInk</name>
-    <message>
-        <source>!NO_TRANS!Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Do you want to keep your ink annotations?</source>
         <translation type="unfinished"></translation>
@@ -2086,6 +2101,10 @@
         <source>&amp;Discard</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSlideShowHelp</name>
@@ -2094,19 +2113,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>During the slide show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Left Click, Space, &apos;N&apos;, Right or Down Arrow Enter, or Page Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Advance to the next slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Backspace, &apos;P&apos;, Left or Up Arrow, or Page Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2122,10 +2129,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Esc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>End of the slide show</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2138,15 +2141,31 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Right Click, or Shift+F10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pop up the shortcut menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>During the slide show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click, space, &apos;N&apos;, right or down arrow enter, or page down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backspace, &apos;P&apos;, left or up arrow, or page up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press Esc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click, or Shift+F10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut menu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2165,19 +2184,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sound &amp;Volume:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Total playing time:</source>
+        <source>File:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File:</source>
+        <source>Sound &amp;volume:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Playing Time:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2192,7 +2211,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number of &amp;cols:</source>
+        <source>Number of &amp;columns:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2204,10 +2223,6 @@
     </message>
     <message>
         <source>Zoom to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Fix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2240,6 +2255,10 @@
     </message>
     <message>
         <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2321,10 +2340,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Other presentation file...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Other file...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2356,12 +2371,16 @@
         <source>Action on mouse over</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Other WPS Presentation file...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWppColorScheme</name>
     <message>
         <source>Color Schemes</source>
-        <translation>أنظمة الألوان</translation>
+        <translation type="obsolete">أنظمة الألوان</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -2384,15 +2403,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> De&amp;lete Scheme </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Color Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> De&amp;lete Color Scheme </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2403,19 +2426,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use extended mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This wizard will help you to understand the various settings of the double-screen extended mode. Plase use the following links to view the help files:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>   Use extend mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>   This wizard will help you to understand the various settings of the double-screen extended mode. Please use the following links to view the help files:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2473,10 +2496,6 @@
     </message>
     <message>
         <source>Sli&amp;des:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter slide numbers and/or slide ranges. For example, 1,3,5-12</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2551,6 +2570,10 @@
         <source>Pr&amp;eview</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
@@ -2582,10 +2605,6 @@
 <context>
     <name>KxExportPDFDlg</name>
     <message>
-        <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PDF File(*.pdf)|*.pdf||</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2596,14 +2615,6 @@
     <message>
         <source>Notes</source>
         <translation>ملاحظات</translation>
-    </message>
-    <message>
-        <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The password confirmation does not match.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Input permission password.</source>
@@ -2618,47 +2629,59 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The file you specified already exists. Are you sure to replace the existing one?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file name is the same as an existing directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The slide you selected to export doesn&apos;t exist. Please select another one.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All slides of custom show are skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All slides in this range are skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The selected slides are skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current slide is skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All slides in current presentation are skipped.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory you specified does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Adobe PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2697,15 +2720,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation encountered an error while trying exporting to PDF!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Encountered an error when opening PDF file!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pdf Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <source>PDF Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2728,15 +2751,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation has finished searching the document.</source>
+        <source>WPS Presentation has finished searching the document.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation has finished searching the document. The search item was not found.</source>
+        <source>WPS Presentation has finished searching the document. The search item was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation has finished searching the document and made %1 replacements.</source>
+        <source>WPS Presentation has finished searching the document and made %1 replacements.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2751,15 +2774,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This font style name does not exist.</source>
+        <source>This font style is not available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This font size is not available. </source>
+        <source>This font size is not available.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2829,15 +2852,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom Present</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Slide %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2870,6 +2893,38 @@
         <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>First Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row And First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row And Last Row</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxLineWeightGroup</name>
@@ -2893,55 +2948,57 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The reentered password erro?</source>
+        <source>Comfirmation password does not match.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxPackageBaseCommand</name>
     <message>
-        <source>The file was not saved, please save the file before the packaging operation</source>
+        <source>The file was not saved. Please save the file before the packaging operation.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxPackgeCommand</name>
     <message>
-        <source>Packaged into folder tooltip on File pull-down menu panel</source>
+        <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
+ folder, in order to play this file on another computer.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxPackgeDlg</name>
     <message>
-        <source>File name contain illegal characters</source>
+        <source>File name contains illegal characters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Folder already exists, please specify another folder</source>
+        <source>File or folder with specified name already exists. Please specify another name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Specified directory does not exist</source>
+        <source>Specified directory does not exist. Please specify another directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Opt Position</source>
+        <source>Location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zip file &amp;Name(N):</source>
+        <source>Zip file &amp;name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Package into compressed file instruction</source>
+        <source>Package into specified folder:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxPackgeToZipCommand</name>
     <message>
-        <source>Packaged into Zip tooltip on File pull-down menu panel</source>
+        <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
+ Zip folder, in order to play this file on another computer.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3008,7 +3065,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your system have not %1,so the font showed is a similar font,do you want to continue?</source>
+        <source>The font %1 is not available on your system, so a substitute is being displayed. Do you want to use this font anyway?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3049,13 +3106,41 @@
         <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>First Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row And First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row And Last Row</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpAnimationScheme</name>
-    <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Animation Schemes</source>
         <translation>مخططات الحركة</translation>
@@ -3084,6 +3169,10 @@
         <source>AutoPreview</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpAnimationSchemeWidget</name>
@@ -3099,15 +3188,15 @@
 <context>
     <name>KxTpColorScheme</name>
     <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color Schemes</source>
         <translation>أنظمة الألوان</translation>
     </message>
     <message>
         <source>Apply a color scheme:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3129,15 +3218,15 @@
 <context>
     <name>KxTpSlideDesign</name>
     <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Design Templates</source>
         <translation>قوالب التصميم</translation>
     </message>
     <message>
         <source>Apply a design template:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3159,11 +3248,11 @@
 <context>
     <name>KxTpSlideLayout</name>
     <message>
-        <source>Apply Slide Layout:</source>
+        <source>Show when inserting new slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show when inserting new slides</source>
+        <source>Apply a design template:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3171,7 +3260,7 @@
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation type="obsolete">تكبير</translation>
+        <translation type="unfinished">تكبير</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3187,10 +3276,6 @@
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>loop play, to the next voice began</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3230,7 +3315,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Transition</source>
+        <source>Loop until next sound</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3314,7 +3399,7 @@
     <name>KxWppActionSettingsDlg</name>
     <message>
         <source>Open</source>
-        <translation>فتح</translation>
+        <translation type="obsolete">فتح</translation>
     </message>
     <message>
         <source>Play</source>
@@ -3325,15 +3410,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please choose a program to launch</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Program(*.exe);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hyperlink to Other Kingsoft Presentation Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3350,6 +3427,18 @@
     </message>
     <message>
         <source>Hyperlink To URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please Choose a Program to Launch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlink to Other WPS Presentation Files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3394,11 +3483,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> De&amp;lete Scheme </source>
+        <source> De&amp;lete Color Scheme </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The last color scheme can&apos;t be deleted. A presentation must always contain at least one standard color scheme.</source>
+        <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3556,27 +3645,27 @@
 <context>
     <name>KxWppDesignItem</name>
     <message>
-        <source>Apply to Master</source>
+        <source>Apply to &amp;Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply to All Slides</source>
+        <source>Apply to &amp;All Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply to Selected Slides</source>
+        <source>Apply to &amp;Selected Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace All Designs</source>
+        <source>Replace &amp;All Designs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace Selected Designs</source>
+        <source>Replace &amp;Selected Designs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add Design</source>
+        <source>Add &amp;Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3602,7 +3691,7 @@
 <context>
     <name>KxWppFillColorModel</name>
     <message>
-        <source>No Color</source>
+        <source>No Fill</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3647,10 +3736,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>These customed play slides is marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Selected slides have marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3659,38 +3744,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <source>Slides in this custom show have marked as hidden!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All slides among the range must be marked as hidden!</source>
+        <source>All slides among this range are marked as hidden!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppTransModel</name>
     <message>
-        <source>Transition Group 01</source>
+        <source>None</source>
+        <translation type="unfinished">لا شيء</translation>
+    </message>
+    <message>
+        <source>Fade and Dissolve</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transition Group 02</source>
+        <source>Wipe</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transition Group 03</source>
+        <source>Push and Cover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transition Group 04</source>
+        <source>Stripe and Cross</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transition Group 05</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition Group 06</source>
+        <source>Random</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3741,10 +3830,6 @@
 <context>
     <name>QMyMessageBox</name>
     <message>
-        <source>File package has been completed,you can carry out other operations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open the folder</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3760,13 +3845,13 @@
         <source>Open the compressed file</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File package has been completed, you can carry out other operations.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <source>You can not use the date format that is inconsistent with the slide master language. The current date on the master is formatted for %1. To change the master, please click on &apos;Apply to All&apos; instead of &apos;Apply&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Chinese(Taiwan)</source>
         <translation type="unfinished"></translation>
@@ -3785,94 +3870,6 @@
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Background Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Text and Line Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Shadow Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Caption Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Filling Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text and Hyperlink Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By Emphasize Text and Visited Hyperlink Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Primary_Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Blue_Shaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Fire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Square_shadows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Black_Gradient</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Stripes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Braces</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Thick_Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_3D_Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Bookend_Fills</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Classics</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart_Style_Double_Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4111,6 +4108,110 @@
         <source>Random</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You cannot use a date format in a different language than the slide master. The current date on the master is formatted for %1. To change the master, click Apply to All instead of Apply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the %1 Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the %1 Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Background Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Text and Lines Sheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Shadows Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Title Text Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Fills Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Accent Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Accent and Hyperlink Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Accent and Followed Hyperlink Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Shaows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Style Stripes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Braces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thick Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookend Fills</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -4144,10 +4245,6 @@
     <message>
         <source>Custom Animation</source>
         <translation>حركة مخصصة</translation>
-    </message>
-    <message>
-        <source>Customize Animation:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Effects</source>
@@ -4206,10 +4303,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Re-Order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play</source>
         <translation>تشغيل</translation>
     </message>
@@ -4219,6 +4312,14 @@
     </message>
     <message>
         <source>AutoPreview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Animation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re-order</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4248,15 +4349,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Range</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Current Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4264,19 +4357,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>C&amp;ustom shows:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sl&amp;ides:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter slide numbers or ranges.For example, 1,3,5-12</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4292,24 +4373,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Notes Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outline View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color/&amp;grayscale:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color</source>
         <translation>لون</translation>
-    </message>
-    <message>
-        <source>Pure Black and White</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
@@ -4368,19 +4433,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Passw&amp;ord to protect permissions settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Password:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note:only set password,option following can be valid on note,and protected without others on note.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4396,23 +4453,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission Print:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print low quality only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Free Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Open password:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4427,13 +4468,69 @@
         <source>Close when e&amp;xport completes</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">عرض الإطار</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">بالأسود والأبيض فقط</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
-    <message>
-        <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
@@ -4446,12 +4543,16 @@
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export to Adobe PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgFormatTable</name>
     <message>
         <source>Border</source>
-        <translation>جانب</translation>
+        <translation type="obsolete">جانب</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -4570,18 +4671,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Top centered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Middle centered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom centered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Internal margin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4609,6 +4698,22 @@
         <source>Rotat&amp;e text within cell by 90 degrees</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Format Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Center</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxUiHyperlinkwpp</name>
@@ -4628,10 +4733,6 @@
 <context>
     <name>kxdlgexportpresentationhint</name>
     <message>
-        <source>Kingsoft Presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Do you want to export every slide in the presentation or only the current slide?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4645,6 +4746,10 @@
     </message>
     <message>
         <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

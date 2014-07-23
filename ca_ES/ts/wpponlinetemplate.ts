@@ -4,11 +4,11 @@
 <context>
     <name>KLiveService</name>
     <message>
-        <source>please install kuaipan manul</source>
+        <source>Please install Klive manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>please login kuaipan</source>
+        <source>Please sign in Klive manually.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -30,26 +30,26 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My Favorit</source>
+        <source>Local Templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Local Templates</source>
+        <source>My Favorite</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <source>\WPS Office\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\Office Space\Desktop.ini name.</source>
+        <source>\WPS Office\Office Space\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</source>
+        <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

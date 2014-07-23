@@ -5,11 +5,19 @@
     <name>KLiveService</name>
     <message>
         <source>please install kuaipan manul</source>
-        <translation>por favor, intale kuaipa manul</translation>
+        <translation type="obsolete">por favor, intale kuaipa manul</translation>
     </message>
     <message>
         <source>please login kuaipan</source>
-        <translation>por favor, acesse kuaipan</translation>
+        <translation type="obsolete">por favor, acesse kuaipan</translation>
+    </message>
+    <message>
+        <source>Please install Klive manually.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please sign in Klive manually.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -31,26 +39,42 @@
     </message>
     <message>
         <source>My Favorit</source>
-        <translation>Meus favoritos</translation>
+        <translation type="obsolete">Meus favoritos</translation>
     </message>
     <message>
         <source>Local Templates</source>
         <translation>Modelos locais</translation>
+    </message>
+    <message>
+        <source>My Favorite</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Office Space\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Office Space\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\Office Space\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Office Space\My Templates\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\Office Space\My Templates\Desktop.ini nome.</translation>
+    </message>
+    <message>
+        <source>\WPS Office\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Office\Office Space\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

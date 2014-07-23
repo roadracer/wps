@@ -191,23 +191,27 @@
     </message>
     <message>
         <source>Change to Cycle</source>
-        <translation>تغيير إلى شكل دائري</translation>
+        <translation type="obsolete">تغيير إلى شكل دائري</translation>
     </message>
     <message>
         <source>Change to Pyramid</source>
-        <translation>تغيير إلى شكل هرمي</translation>
+        <translation type="obsolete">تغيير إلى شكل هرمي</translation>
     </message>
     <message>
         <source>Change to Radial</source>
-        <translation>تغيير إلى شكل شعاعي</translation>
+        <translation type="obsolete">تغيير إلى شكل شعاعي</translation>
     </message>
     <message>
         <source>Change to Target</source>
-        <translation>تغيير إلى شكل هدف</translation>
+        <translation type="obsolete">تغيير إلى شكل هدف</translation>
     </message>
     <message>
         <source>Change to Venn</source>
-        <translation>تغيير إلى شكل فين</translation>
+        <translation type="obsolete">تغيير إلى شكل فين</translation>
+    </message>
+    <message>
+        <source>Cycle</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -222,8 +226,24 @@
         <translation>تحريك الشكل إلى الأمام</translation>
     </message>
     <message>
+        <source>Pyramid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reverse Diagram</source>
         <translation>عكس الرسم التخطيطي</translation>
+    </message>
+    <message>
+        <source>Target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -354,7 +374,7 @@
     </message>
     <message>
         <source>Align / Distribute / Equalize</source>
-        <translation>محاذاة / توزيع / مساواة</translation>
+        <translation type="obsolete">محاذاة / توزيع / مساواة</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -379,6 +399,10 @@
     <message>
         <source>Align Top</source>
         <translation>محاذاة إلى الأعلى</translation>
+    </message>
+    <message>
+        <source>Align or Distribute</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -434,7 +458,11 @@
     </message>
     <message>
         <source>Auto Shapes</source>
-        <translation>أشكال تلقائية</translation>
+        <translation type="obsolete">أشكال تلقائية</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -449,16 +477,24 @@
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Diagram</source>
@@ -534,7 +570,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>أفقي</translation>
+        <translation type="obsolete">أفقي</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -549,20 +589,28 @@
         <translation>إدراج WordArt</translation>
     </message>
     <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Color</source>
         <translation>لون خط الرسم</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation>خطوط الرسم</translation>
+        <translation type="obsolete">خطوط الرسم</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -593,6 +641,10 @@
         <translation>بدون ظل</translation>
     </message>
     <message>
+        <source>Nudge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Order</source>
         <translation>ترتيب</translation>
     </message>
@@ -614,7 +666,7 @@
     </message>
     <message>
         <source>Rotate / Flip</source>
-        <translation>دوران/انعكاس</translation>
+        <translation type="obsolete">دوران/انعكاس</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -623,6 +675,10 @@
     <message>
         <source>Rotate Right 90°</source>
         <translation>دوران لليمين 90°</translation>
+    </message>
+    <message>
+        <source>Rotate or Flip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -649,12 +705,16 @@
         <translation>تعيين افتراضات الشكل التلقائي</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Settings</source>
         <translation>إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -738,7 +798,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation>تحريك</translation>
+        <translation type="obsolete">تحريك</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -758,7 +818,11 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation>عمودي</translation>
+        <translation type="obsolete">عمودي</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weight</source>
@@ -910,7 +974,11 @@
     </message>
     <message>
         <source>Number</source>
-        <translation>رقم</translation>
+        <translation type="obsolete">رقم</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1137,8 +1205,12 @@
         <translation>الصفحة السابقة</translation>
     </message>
     <message>
+        <source>Print Hidden Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Skipped Slides</source>
-        <translation>طباعة الشرائح المتخطاة</translation>
+        <translation type="obsolete">طباعة الشرائح المتخطاة</translation>
     </message>
     <message>
         <source>Print What</source>
@@ -1149,8 +1221,12 @@
         <translation>ترتيب الطباعة</translation>
     </message>
     <message>
+        <source>Pure Black and White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pure black and white</source>
-        <translation>بالأسود والأبيض فقط</translation>
+        <translation type="obsolete">بالأسود والأبيض فقط</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1213,6 +1289,22 @@
         <translation>مزيد من ألوان الظل</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Semitransparent Shadow</source>
         <translation>ظل نصف شفاف</translation>
     </message>
@@ -1226,26 +1318,30 @@
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>إزاحة الظل إلى الأسفل</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>إزاحة الظل إلى اليسار</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>إزاحة الظل إلى اليمين</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>إزاحة الظل إلى الأعلى</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
 </context>
 <context>
     <name>classics.slide_master_view</name>
     <message>
         <source>Close</source>
-        <translation>إغلاق</translation>
+        <translation type="obsolete">إغلاق</translation>
+    </message>
+    <message>
+        <source>Close Master View</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -1313,11 +1409,7 @@ Master</source>
     </message>
     <message>
         <source>Data Table</source>
-        <translation>جدول البيانات</translation>
-    </message>
-    <message>
-        <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">جدول البيانات</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1332,20 +1424,28 @@ Master</source>
         <translation>نسخ التنسيق</translation>
     </message>
     <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gallery</source>
         <translation>معرض رسوم</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>محرر مستندات غوغل</translation>
+        <translation type="obsolete">محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>الصفحة الرئيسية</translation>
+        <translation type="obsolete">الصفحة الرئيسية</translation>
+    </message>
+    <message>
+        <source>Insert Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
-        <translation>إدراج مخطط بيانات</translation>
+        <translation type="obsolete">إدراج مخطط بيانات</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -1356,12 +1456,20 @@ Master</source>
         <translation>إدراج جدول</translation>
     </message>
     <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste Special</source>
         <translation>لصق خاص</translation>
     </message>
     <message>
         <source>Print Directly</source>
-        <translation>طباعة مباشرة</translation>
+        <translation type="obsolete">طباعة مباشرة</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1376,12 +1484,24 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text</source>
-        <translation>نص</translation>
+        <translation type="obsolete">نص</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>With Text Format</source>
-        <translation>مع تنسيق النص</translation>
+        <translation type="obsolete">مع تنسيق النص</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1423,7 +1543,15 @@ Master</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>أعمدة</translation>
+        <translation type="obsolete">أعمدة</translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -1471,7 +1599,7 @@ Master</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>صفوف</translation>
+        <translation type="obsolete">صفوف</translation>
     </message>
     <message>
         <source>Select Column</source>
@@ -1514,11 +1642,19 @@ Master</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>القاع (منحنى)</translation>
+        <translation type="obsolete">القاع (منحنى)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>القاع (متدفق)</translation>
+        <translation type="obsolete">القاع (متدفق)</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Pour)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -1755,12 +1891,22 @@ Master</source>
         <translation>تحريك</translation>
     </message>
     <message>
+        <source>Animation
+Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Animation Schemes</source>
-        <translation>مخططات الحركة</translation>
+        <translation type="obsolete">مخططات الحركة</translation>
+    </message>
+    <message>
+        <source>Custom
+Animation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation>حركة مخصصة</translation>
+        <translation type="obsolete">حركة مخصصة</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1768,11 +1914,20 @@ Master</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation>تحويل</translation>
+        <translation type="obsolete">تحويل</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition
+Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transition Effect</source>
-        <translation>تأثير الانتقال</translation>
+        <translation type="obsolete">تأثير الانتقال</translation>
     </message>
 </context>
 <context>
@@ -1782,24 +1937,39 @@ Master</source>
         <translation>خلفية</translation>
     </message>
     <message>
+        <source>Color
+Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Color Schemes</source>
-        <translation>أنظمة الألوان</translation>
+        <translation type="obsolete">أنظمة الألوان</translation>
     </message>
     <message>
         <source>Design Templates</source>
         <translation>قوالب التصميم</translation>
     </message>
     <message>
+        <source>Edit
+Slide Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit Slide Master</source>
-        <translation>تحرير نموذج الشريحة</translation>
+        <translation type="obsolete">تحرير نموذج الشريحة</translation>
     </message>
     <message>
         <source>Landscape</source>
         <translation>منظر طبيعي</translation>
     </message>
     <message>
+        <source>Page
+Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Setup</source>
-        <translation>إعداد الصفحة</translation>
+        <translation type="obsolete">إعداد الصفحة</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -1810,12 +1980,22 @@ Master</source>
         <translation>حفظ صورة الخلفية</translation>
     </message>
     <message>
+        <source>Slide
+Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide
+Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Layout</source>
-        <translation>تخطيط الشريحة</translation>
+        <translation type="obsolete">تخطيط الشريحة</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation>اتجاه الشريحة</translation>
+        <translation type="obsolete">اتجاه الشريحة</translation>
     </message>
 </context>
 <context>
@@ -1825,12 +2005,21 @@ Master</source>
         <translation>جوانب</translation>
     </message>
     <message>
+        <source>Clear
+Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Table Style</source>
-        <translation>مسح نمط الجدول</translation>
+        <translation type="obsolete">مسح نمط الجدول</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -1871,8 +2060,13 @@ Master</source>
         <translation>وظائف إضافية</translation>
     </message>
     <message>
+        <source>COM
+Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>COM Add-Ins</source>
-        <translation>وظائف إضافية COM</translation>
+        <translation type="obsolete">وظائف إضافية COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -1891,8 +2085,13 @@ Master</source>
         <translation>زر أمر</translation>
     </message>
     <message>
+        <source>Control 
+Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Control Properties</source>
-        <translation>خصائص التحكم</translation>
+        <translation type="obsolete">خصائص التحكم</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -1951,8 +2150,13 @@ Master</source>
         <translation>عرض الكود</translation>
     </message>
     <message>
+        <source>Visual Basic
+Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Visual Basic Editor</source>
-        <translation>محرر Visual-Basic</translation>
+        <translation type="obsolete">محرر Visual-Basic</translation>
     </message>
 </context>
 <context>
@@ -2172,16 +2376,24 @@ On</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -2197,7 +2409,7 @@ On</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -2226,6 +2438,10 @@ On</source>
     <message>
         <source>Equal Width</source>
         <translation>متساوية العرض</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2257,7 +2473,11 @@ On</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -2277,7 +2497,11 @@ On</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>أفقي</translation>
+        <translation type="obsolete">أفقي</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -2320,8 +2544,12 @@ On</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More</source>
@@ -2350,6 +2578,10 @@ On</source>
     <message>
         <source>More Lines</source>
         <translation>مزيد من خطوط الرسم</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -2400,6 +2632,10 @@ On</source>
         <translation>تأخير</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation>ظل</translation>
     </message>
@@ -2409,11 +2645,11 @@ On</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>تعبئة الشكل</translation>
+        <translation type="obsolete">تعبئة الشكل</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>إطار الشكل</translation>
+        <translation type="obsolete">إطار الشكل</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -2518,22 +2754,30 @@ On</source>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation>حول العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">حول العرض التقديمي لـ Kingsoft</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation>إدارة النسخ الاحتياطي</translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create CloudLink</source>
+        <source>Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create CloudLink Title</source>
+        <source>Data Recovery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2542,7 +2786,11 @@ On</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>تشفير</translation>
+        <translation type="obsolete">تشفير</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -2550,11 +2798,15 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>تعليقات</translation>
+        <translation type="obsolete">تعليقات</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
         <translation>تعليقات ومعلومات المنتج</translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Information</source>
@@ -2570,27 +2822,27 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>مجتمع Kingsoft-Office</translation>
+        <translation type="obsolete">مجتمع Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>تعليقات Kingsoft-Office</translation>
+        <translation type="obsolete">تعليقات Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>الصفحة الرئيسية لـ Kingsoft-Office</translation>
+        <translation type="obsolete">الصفحة الرئيسية لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office New features</source>
-        <translation>ميزات جديدة لـ Kingsoft-Office</translation>
+        <translation type="obsolete">ميزات جديدة لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Presentation File</source>
-        <translation>ملف العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">ملف العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation>قالب العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">قالب العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
@@ -2614,10 +2866,10 @@ On</source>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>ملف فارغ جديد</translation>
+        <translation type="obsolete">ملف فارغ جديد</translation>
     </message>
     <message>
-        <source>New From Default Template</source>
+        <source>New Blank Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2633,8 +2885,12 @@ On</source>
         <translation>مستند جديد من قوالب الإنترنت</translation>
     </message>
     <message>
+        <source>New from Other Templates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Templates</source>
-        <translation>مستند جديد من قوالب</translation>
+        <translation type="obsolete">مستند جديد من قوالب</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2642,7 +2898,7 @@ On</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>فتح من Klive</translation>
+        <translation type="obsolete">فتح من Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -2650,7 +2906,11 @@ On</source>
     </message>
     <message>
         <source>Package Presentation into compress file</source>
-        <translation>تجميع العرض التقديمي في ملف مضغوط</translation>
+        <translation type="obsolete">تجميع العرض التقديمي في ملف مضغوط</translation>
+    </message>
+    <message>
+        <source>Package into Compressed File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -2666,7 +2926,7 @@ On</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>مركز المنتجات</translation>
+        <translation type="obsolete">مركز المنتجات</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -2690,11 +2950,15 @@ On</source>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation>حفظ إلى Klive</translation>
+        <translation type="obsolete">حفظ إلى Klive</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
         <translation>حفظ نسخة من المستند</translation>
+    </message>
+    <message>
+        <source>Seek Help via Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -2709,20 +2973,52 @@ On</source>
         <translation type="obsolete">دراسة عبر الإنترنت</translation>
     </message>
     <message>
-        <source>Translate to Document</source>
+        <source>Transfer to WPS Writer Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>تحديث على الإنترنت</translation>
+        <translation type="obsolete">تحديث على الإنترنت</translation>
     </message>
     <message>
         <source>WPS BBS</source>
         <translation>WPS BBS</translation>
     </message>
     <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Microblog</source>
-        <translation>المدونة الصغيرة لـ WPS</translation>
+        <translation type="obsolete">المدونة الصغيرة لـ WPS</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -2733,7 +3029,11 @@ On</source>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">مساعدة العرض التقديمي لـ Kingsoft</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2807,8 +3107,13 @@ On</source>
         <translation>3 نقطة</translation>
     </message>
     <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Style</source>
-        <translation>نمط 3D</translation>
+        <translation type="obsolete">نمط 3D</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -2940,7 +3245,7 @@ On</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation>في الوسط</translation>
+        <translation type="obsolete">في الوسط</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -2963,16 +3268,24 @@ On</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -2988,7 +3301,7 @@ On</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -3027,6 +3340,10 @@ On</source>
         <translation>متساوية العرض</translation>
     </message>
     <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find</source>
         <translation>بحث</translation>
     </message>
@@ -3044,11 +3361,16 @@ On</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>لون الكتابة</translation>
+        <translation type="obsolete">لون الكتابة</translation>
     </message>
     <message>
         <source>Font Size</source>
         <translation>حجم الكتابة</translation>
+    </message>
+    <message>
+        <source>Format 
+Painter</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -3056,7 +3378,11 @@ On</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>نسخ التنسيق</translation>
+        <translation type="obsolete">نسخ التنسيق</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -3073,12 +3399,21 @@ Slide</source>
 الحالية</translation>
     </message>
     <message>
+        <source>From Current 
+Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>From Current Slide</source>
-        <translation>من الشريحة الحالية</translation>
+        <translation type="obsolete">من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -3098,11 +3433,11 @@ Slide</source>
     </message>
     <message>
         <source>Home_Shape Fill</source>
-        <translation>تعبئة شكل الصفحة الرئيسية</translation>
+        <translation type="obsolete">تعبئة شكل الصفحة الرئيسية</translation>
     </message>
     <message>
         <source>Home_Shape Line</source>
-        <translation>خط رسم شكل الصفحة الرئيسية</translation>
+        <translation type="obsolete">خط رسم شكل الصفحة الرئيسية</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3149,8 +3484,12 @@ Slide</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More</source>
@@ -3191,6 +3530,10 @@ Slide</source>
     <message>
         <source>No Shadow</source>
         <translation>بدون ظل</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -3245,12 +3588,20 @@ Slide</source>
         <translation>دوران</translation>
     </message>
     <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rotate Left 90掳</source>
-        <translation>دوران لليسار 90°</translation>
+        <translation type="obsolete">دوران لليسار 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate Right 90掳</source>
-        <translation>دوران لليمين 90°</translation>
+        <translation type="obsolete">دوران لليمين 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3277,12 +3628,21 @@ Slide</source>
         <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation>ظل</translation>
     </message>
     <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -3291,10 +3651,6 @@ Slide</source>
     <message>
         <source>Slide</source>
         <translation>شريحة</translation>
-    </message>
-    <message>
-        <source>Slide Show From Beginning</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3314,11 +3670,15 @@ Slide</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>نص</translation>
+        <translation type="obsolete">نص</translation>
     </message>
     <message>
         <source>Text Box</source>
         <translation>مربع نص</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Texture</source>
@@ -3329,12 +3689,16 @@ Slide</source>
         <translation>مسطر</translation>
     </message>
     <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>فك التجميع</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation>محاذاة إلى الأسفل</translation>
+        <translation type="obsolete">محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3346,7 +3710,7 @@ Slide</source>
     </message>
     <message>
         <source>With Text Format</source>
-        <translation>مع تنسيق النص</translation>
+        <translation type="obsolete">مع تنسيق النص</translation>
     </message>
 </context>
 <context>
@@ -3392,22 +3756,35 @@ Slide</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>رقم</translation>
+        <translation type="obsolete">رقم</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_insert</name>
     <message>
+        <source>Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Action Settings</source>
-        <translation>إعدادات الإجراءات</translation>
+        <translation type="obsolete">إعدادات الإجراءات</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
         <translation>كليب فني</translation>
     </message>
     <message>
+        <source>Background
+Music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Background Music</source>
-        <translation>موسيقى الخلفية</translation>
+        <translation type="obsolete">موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3415,11 +3792,15 @@ Slide</source>
     </message>
     <message>
         <source>Data Table</source>
-        <translation>جدول البيانات</translation>
+        <translation type="obsolete">جدول البيانات</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>تاريخ/وقت</translation>
+        <translation type="obsolete">تاريخ/وقت</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -3438,12 +3819,13 @@ Slide</source>
         <translation>معرض رسوم</translation>
     </message>
     <message>
-        <source>Header and Footer</source>
+        <source>Header and 
+Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>رأس وتذييل الصفحة</translation>
+        <translation type="obsolete">رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3462,8 +3844,12 @@ Slide</source>
         <translation>إدراج كليب فني</translation>
     </message>
     <message>
+        <source>Insert Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Data Chart</source>
-        <translation>إدراج مخطط بيانات</translation>
+        <translation type="obsolete">إدراج مخطط بيانات</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -3506,12 +3892,21 @@ Slide</source>
         <translation>كائن</translation>
     </message>
     <message>
+        <source>Organization
+Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Organization Chart</source>
-        <translation>مخطط هيكلي</translation>
+        <translation type="obsolete">مخطط هيكلي</translation>
     </message>
     <message>
         <source>Package File</source>
         <translation>تجميع الملف</translation>
+    </message>
+    <message>
+        <source>Package into Compressed File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -3519,7 +3914,7 @@ Slide</source>
     </message>
     <message>
         <source>Packge into zip</source>
-        <translation>تجميع في zip</translation>
+        <translation type="obsolete">تجميع في zip</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -3530,8 +3925,13 @@ Slide</source>
         <translation>أشكال</translation>
     </message>
     <message>
+        <source>Slide
+Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Number</source>
-        <translation>رقم الشريحة</translation>
+        <translation type="obsolete">رقم الشريحة</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -3669,20 +4069,32 @@ Slide</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Layout</source>
@@ -3693,6 +4105,10 @@ Slide</source>
         <translation>تأثيرات خط الرسم</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
         <translation>لوحة نمط الخط</translation>
     </message>
@@ -3701,8 +4117,12 @@ Slide</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -3726,7 +4146,11 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation>تخطيط OrgChart</translation>
+        <translation type="obsolete">تخطيط OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3742,7 +4166,7 @@ Slide</source>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation>خط الشكل</translation>
+        <translation type="obsolete">خط الشكل</translation>
     </message>
     <message>
         <source>Smart Choice</source>
@@ -3757,12 +4181,20 @@ Slide</source>
         <translation>نقطة مربعة</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Font Color</source>
-        <translation>لون الكتابة</translation>
+        <translation type="obsolete">لون الكتابة</translation>
     </message>
     <message>
         <source>TextAdapted</source>
-        <translation>نص مقتبس</translation>
+        <translation type="obsolete">نص مقتبس</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -3792,15 +4224,15 @@ Slide</source>
     </message>
     <message>
         <source>Add One Assistant</source>
-        <translation>إضافة مساعد واحد</translation>
+        <translation type="obsolete">إضافة مساعد واحد</translation>
     </message>
     <message>
         <source>Add One Coworker</source>
-        <translation>إضافة زميل عمل واحد</translation>
+        <translation type="obsolete">إضافة زميل عمل واحد</translation>
     </message>
     <message>
         <source>Add One Subordinate</source>
-        <translation>إضافة مرؤوس واحد</translation>
+        <translation type="obsolete">إضافة مرؤوس واحد</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
@@ -3816,7 +4248,11 @@ Slide</source>
     </message>
     <message>
         <source>All OrgChart</source>
-        <translation>جميع OrgChart</translation>
+        <translation type="obsolete">جميع OrgChart</translation>
+    </message>
+    <message>
+        <source>All Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Both Hanging</source>
@@ -3843,12 +4279,20 @@ Slide</source>
         <translation>تعليق من اليسار</translation>
     </message>
     <message>
+        <source>Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reset Shape</source>
         <translation>إعادة تعيين الشكل</translation>
     </message>
     <message>
         <source>ResetLayout</source>
-        <translation>إعادة تعيين التخطيط</translation>
+        <translation type="obsolete">إعادة تعيين التخطيط</translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -3860,7 +4304,7 @@ Slide</source>
     </message>
     <message>
         <source>level</source>
-        <translation>مستوى</translation>
+        <translation type="obsolete">مستوى</translation>
     </message>
 </context>
 <context>
@@ -3900,6 +4344,10 @@ Slide</source>
     <message>
         <source>6 pt</source>
         <translation>6 نقطة</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Align</source>
@@ -3950,16 +4398,26 @@ Slide</source>
         <translation>تقديم</translation>
     </message>
     <message>
+        <source>Change
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Picture</source>
-        <translation>تغيير الصورة</translation>
+        <translation type="obsolete">تغيير الصورة</translation>
     </message>
     <message>
         <source>Color</source>
         <translation>لون</translation>
     </message>
     <message>
+        <source>Compress
+Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
-        <translation>ضغط الصور</translation>
+        <translation type="obsolete">ضغط الصور</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -3970,20 +4428,28 @@ Slide</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4004,6 +4470,10 @@ Slide</source>
     <message>
         <source>Equal Width</source>
         <translation>متساوية العرض</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4027,7 +4497,11 @@ Slide</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4070,8 +4544,12 @@ Slide</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4102,6 +4580,26 @@ Slide</source>
         <translation>بدون ظل</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>زخرفة</translation>
     </message>
@@ -4114,20 +4612,25 @@ Slide</source>
         <translation>صورة</translation>
     </message>
     <message>
+        <source>Picture
+Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture Adjust</source>
-        <translation>تعديل الصورة</translation>
+        <translation type="obsolete">تعديل الصورة</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>تعبئة الصورة</translation>
+        <translation type="obsolete">تعبئة الصورة</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>إطار الصورة</translation>
+        <translation type="obsolete">إطار الصورة</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>حجم الصورة</translation>
+        <translation type="obsolete">حجم الصورة</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -4138,8 +4641,13 @@ Slide</source>
         <translation>نسبي إلى الشريحة</translation>
     </message>
     <message>
+        <source>Reset
+Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reset Picture</source>
-        <translation>إعادة تعيين الصورة</translation>
+        <translation type="obsolete">إعادة تعيين الصورة</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -4174,6 +4682,10 @@ Slide</source>
         <translation>تعيين اللون الشفاف</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow
 On/Off</source>
         <translation>تشغيل/إيقاف
@@ -4184,32 +4696,36 @@ On/Off</source>
         <translation>لون الظل</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On/Off</source>
-        <translation>تشغيل/إيقاف الظل</translation>
+        <translation type="obsolete">تشغيل/إيقاف الظل</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>إعدادات الظل</translation>
+        <translation type="obsolete">إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>إزاحة الظل إلى الأسفل</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>إزاحة الظل إلى اليسار</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>إزاحة الظل إلى اليمين</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>إزاحة الظل إلى الأعلى</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -4254,8 +4770,13 @@ On/Off</source>
         <translation>لون</translation>
     </message>
     <message>
+        <source>Frame
+Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Frame Slides</source>
-        <translation>شرائح الإطار</translation>
+        <translation type="obsolete">شرائح الإطار</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
@@ -4282,16 +4803,26 @@ On/Off</source>
         <translation>نشرات (9 شرائح في كل صفحة)</translation>
     </message>
     <message>
+        <source>Header and 
+Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header and Footer</source>
-        <translation>رأس وتذييل الصفحة</translation>
+        <translation type="obsolete">رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Landscape</source>
         <translation>منظر طبيعي</translation>
     </message>
     <message>
+        <source>Next
+Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next Page</source>
-        <translation>الصفحة التالية</translation>
+        <translation type="obsolete">الصفحة التالية</translation>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
@@ -4302,36 +4833,64 @@ On/Off</source>
         <translation>صفحات الملاحظات (3 شرائح في كل صفحة)</translation>
     </message>
     <message>
+        <source>Outline View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outline view</source>
-        <translation>عرض الإطار</translation>
+        <translation type="obsolete">عرض الإطار</translation>
     </message>
     <message>
         <source>Portrait</source>
         <translation>لوحة</translation>
     </message>
     <message>
+        <source>Previous
+Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Previous Page</source>
-        <translation>الصفحة السابقة</translation>
+        <translation type="obsolete">الصفحة السابقة</translation>
     </message>
     <message>
         <source>Print</source>
         <translation>طباعة</translation>
     </message>
     <message>
+        <source>Print
+Hidden Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print 
+Directly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Directly</source>
-        <translation>طباعة مباشرة</translation>
+        <translation type="obsolete">طباعة مباشرة</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
-        <translation>طباعة الشرائح المتخطاة</translation>
+        <translation type="obsolete">طباعة الشرائح المتخطاة</translation>
+    </message>
+    <message>
+        <source>Printing
+Order</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation>ترتيب الطباعة</translation>
+        <translation type="obsolete">ترتيب الطباعة</translation>
+    </message>
+    <message>
+        <source>Pure Black and White</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation>بالأسود والأبيض فقط</translation>
+        <translation type="obsolete">بالأسود والأبيض فقط</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4346,8 +4905,12 @@ On/Off</source>
         <translation>شرائح</translation>
     </message>
     <message>
+        <source>Zoom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ZoomPercent</source>
-        <translation>نسبة التكبير</translation>
+        <translation type="obsolete">نسبة التكبير</translation>
     </message>
 </context>
 <context>
@@ -4368,7 +4931,7 @@ On/Off</source>
     <name>ongmani.ct_review</name>
     <message>
         <source>Check Spelling</source>
-        <translation>تدقيق إملائي</translation>
+        <translation type="obsolete">تدقيق إملائي</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -4383,20 +4946,38 @@ On/Off</source>
         <translation>تحويل إلى الصينية التقليدية</translation>
     </message>
     <message>
+        <source>Delete 
+Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete All Mark In Current Presentation</source>
-        <translation>حذف جميع العلامات في العرض التقديمي الحالي</translation>
+        <translation type="obsolete">حذف جميع العلامات في العرض التقديمي الحالي</translation>
     </message>
     <message>
         <source>Delete All Mark In Current Slide</source>
-        <translation>حذف جميع العلامات في الشريحة الحالية</translation>
+        <translation type="obsolete">حذف جميع العلامات في الشريحة الحالية</translation>
+    </message>
+    <message>
+        <source>Delete All Mark in this Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete All Mark on the Current Slide</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>حذف التعليق</translation>
+        <translation type="obsolete">حذف التعليق</translation>
+    </message>
+    <message>
+        <source>Edit
+Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>تحرير التعليق</translation>
+        <translation type="obsolete">تحرير التعليق</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -4411,16 +4992,29 @@ On/Off</source>
         <translation>علامة</translation>
     </message>
     <message>
+        <source>New 
+Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Comment</source>
-        <translation>تعليق جديد</translation>
+        <translation type="obsolete">تعليق جديد</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>التعليق التالي</translation>
+        <translation type="obsolete">التعليق التالي</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>التعليق السابق</translation>
+        <translation type="obsolete">التعليق السابق</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -4428,11 +5022,20 @@ On/Off</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>تعيين لغة التدقيق الإملائي</translation>
+        <translation type="obsolete">تعيين لغة التدقيق الإملائي</translation>
+    </message>
+    <message>
+        <source>Show/Hide
+Mark</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide Mark</source>
-        <translation>إظهار/إخفاء العلامة</translation>
+        <translation type="obsolete">إظهار/إخفاء العلامة</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4450,20 +5053,40 @@ On/Off</source>
         <translation>288 نقطة</translation>
     </message>
     <message>
+        <source>3-D
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
-        <translation>لون 3D</translation>
+        <translation type="obsolete">لون 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>تشغيل/إيقاف 3D</translation>
+        <translation type="obsolete">تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>إعدادات 3D</translation>
+        <translation type="obsolete">إعدادات 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3D</translation>
+        <translation type="obsolete">نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -4530,6 +5153,22 @@ On/Off</source>
         <translation>عادي</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>موازي</translation>
     </message>
@@ -4547,41 +5186,56 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation>تشغيل/إيقاف
 الظل</translation>
     </message>
     <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>لون الظل</translation>
+        <translation type="obsolete">لون الظل</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>تشغيل/إيقاف الظل</translation>
+        <translation type="obsolete">تشغيل/إيقاف الظل</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>إعدادات الظل</translation>
+        <translation type="obsolete">إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>إزاحة الظل إلى الأسفل</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>إزاحة الظل إلى اليسار</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>إزاحة الظل إلى اليمين</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>إزاحة الظل إلى الأعلى</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -4640,7 +5294,7 @@ On/Off</source>
     </message>
     <message>
         <source>Backdrop</source>
-        <translation>ستار خلفي</translation>
+        <translation type="obsolete">ستار خلفي</translation>
     </message>
     <message>
         <source>Background</source>
@@ -4665,8 +5319,13 @@ Master View</source>
 عرض النماذج</translation>
     </message>
     <message>
+        <source>Delete 
+Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Master</source>
-        <translation>حذف النموذج</translation>
+        <translation type="obsolete">حذف النموذج</translation>
     </message>
     <message>
         <source>Edit Master</source>
@@ -4689,8 +5348,13 @@ Master View</source>
         <translation>مائل</translation>
     </message>
     <message>
+        <source>Master 
+Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Master Layout</source>
-        <translation>تخطيط النموذج</translation>
+        <translation type="obsolete">تخطيط النموذج</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -4703,28 +5367,53 @@ Master View</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation>نموذج شريحة
+        <translation type="obsolete">نموذج شريحة
 جديد</translation>
     </message>
     <message>
+        <source>New Slide 
+Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
-        <translation>نموذج شريحة جديد</translation>
+        <translation type="obsolete">نموذج شريحة جديد</translation>
+    </message>
+    <message>
+        <source>New Title 
+Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>نموذج عنوان جديد</translation>
+        <translation type="obsolete">نموذج عنوان جديد</translation>
+    </message>
+    <message>
+        <source>Preserve 
+Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation>حماية النموذج</translation>
+        <translation type="obsolete">حماية النموذج</translation>
+    </message>
+    <message>
+        <source>Rename 
+Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation>إعادة تسمية النموذج</translation>
+        <translation type="obsolete">إعادة تسمية النموذج</translation>
+    </message>
+    <message>
+        <source>Save 
+Background Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>حفظ صورة الخلفية</translation>
+        <translation type="obsolete">حفظ صورة الخلفية</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -4771,14 +5460,28 @@ Master</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>رقم</translation>
+        <translation type="obsolete">رقم</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
+        <source>Custom 
+Slide Shows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Slide Shows</source>
-        <translation>استعراضات مخصصة للشرائح</translation>
+        <translation type="obsolete">استعراضات مخصصة للشرائح</translation>
+    </message>
+    <message>
+        <source>From
+Beginning</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -4792,23 +5495,37 @@ Slide</source>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation>من الشريحة الحالية</translation>
+        <translation type="obsolete">من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Hide Slide</source>
         <translation>إخفاء الشريحة</translation>
     </message>
     <message>
+        <source>Rehearse 
+Timings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rehearse Timings</source>
-        <translation>تدريب على الوقت</translation>
+        <translation type="obsolete">تدريب على الوقت</translation>
     </message>
     <message>
         <source>Set Up</source>
         <translation>إعداد</translation>
     </message>
     <message>
+        <source>Set Up Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Up Slide Show</source>
-        <translation>إعداد استعراض الشريحة</translation>
+        <translation type="obsolete">إعداد استعراض الشريحة</translation>
+    </message>
+    <message>
+        <source>Slide
+Transition</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Show
@@ -4817,16 +5534,17 @@ Settings</source>
 استعراض الشرائح</translation>
     </message>
     <message>
-        <source>Slide Show From Beginning</source>
+        <source>Slide Transition</source>
+        <translation type="obsolete">انتقال الشريحة</translation>
+    </message>
+    <message>
+        <source>Speaker
+Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Transition</source>
-        <translation>انتقال الشريحة</translation>
-    </message>
-    <message>
         <source>Speaker Notes</source>
-        <translation>ملاحظات المحاضر</translation>
+        <translation type="obsolete">ملاحظات المحاضر</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
@@ -4872,6 +5590,10 @@ Settings</source>
         <translation>محاذاة</translation>
     </message>
     <message>
+        <source>Alilgn Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arrange</source>
         <translation>تنظيم</translation>
     </message>
@@ -4897,7 +5619,11 @@ Settings</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>أعمدة</translation>
+        <translation type="obsolete">أعمدة</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -4910,6 +5636,14 @@ Settings</source>
     <message>
         <source>Delete</source>
         <translation>حذف</translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -4989,19 +5723,40 @@ Settings</source>
     </message>
     <message>
         <source>Left</source>
-        <translation>يسار</translation>
+        <translation type="obsolete">يسار</translation>
+    </message>
+    <message>
+        <source>Margins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Merge</source>
         <translation>دمج</translation>
     </message>
     <message>
+        <source>Merge
+Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Cells</source>
-        <translation>دمج الخلايا</translation>
+        <translation type="obsolete">دمج الخلايا</translation>
     </message>
     <message>
         <source>More Font Colors</source>
         <translation>مزيد من ألوان الكتابة</translation>
+    </message>
+    <message>
+        <source>Narrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -5013,11 +5768,15 @@ Settings</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>صفوف</translation>
+        <translation type="obsolete">صفوف</translation>
+    </message>
+    <message>
+        <source>Rows and Columns</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>صفوف/أعمدة</translation>
+        <translation type="obsolete">صفوف/أعمدة</translation>
     </message>
     <message>
         <source>Select</source>
@@ -5048,8 +5807,13 @@ Settings</source>
         <translation>ظل</translation>
     </message>
     <message>
+        <source>Split
+Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Split Cells</source>
-        <translation>تقسيم الخلايا</translation>
+        <translation type="obsolete">تقسيم الخلايا</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -5064,46 +5828,61 @@ Settings</source>
         <translation>جدول</translation>
     </message>
     <message>
+        <source>Text
+Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Direction</source>
-        <translation>اتجاه الكتابة</translation>
+        <translation type="obsolete">اتجاه الكتابة</translation>
     </message>
     <message>
         <source>Text Margin</source>
-        <translation>هامش النص</translation>
+        <translation type="obsolete">هامش النص</translation>
     </message>
     <message>
         <source>Text Margin Custom</source>
-        <translation>تخصيص هامش النص</translation>
+        <translation type="obsolete">تخصيص هامش النص</translation>
     </message>
     <message>
         <source>Text Margin Narrow</source>
-        <translation>تضييق نطاق هامش النص</translation>
+        <translation type="obsolete">تضييق نطاق هامش النص</translation>
     </message>
     <message>
         <source>Text Margin None</source>
-        <translation>لا هامش النص</translation>
+        <translation type="obsolete">لا هامش النص</translation>
     </message>
     <message>
         <source>Text Margin Normal</source>
-        <translation>هامش نص عادي</translation>
+        <translation type="obsolete">هامش نص عادي</translation>
     </message>
     <message>
         <source>Text Margin Wide</source>
-        <translation>هامش نص واسع</translation>
+        <translation type="obsolete">هامش نص واسع</translation>
     </message>
     <message>
         <source>Underline</source>
         <translation>مسطر</translation>
     </message>
+    <message>
+        <source>Wide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
     <message>
-        <source>Arrange All</source>
-        <translation>تنظيم الكل</translation>
+        <source>Arrange
+All</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>COM Add-Ins</source>
+        <source>Arrange All</source>
+        <translation type="obsolete">تنظيم الكل</translation>
+    </message>
+    <message>
+        <source>COM
+Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5126,28 +5905,42 @@ Other Window</source>
         <translation>إغلاق النافذة</translation>
     </message>
     <message>
+        <source>Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Developer Tools</source>
-        <translation>أدوات التطوير</translation>
+        <translation type="obsolete">أدوات التطوير</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>ملاءمة</translation>
+        <translation type="obsolete">ملاءمة</translation>
+    </message>
+    <message>
+        <source>Fit to
+Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid and
+Guides</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation>شبكة وإرشادات</translation>
+        <translation type="obsolete">شبكة وإرشادات</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>خطوط الشبكة</translation>
+        <translation type="obsolete">خطوط الشبكة</translation>
     </message>
     <message>
         <source>Horizontal Tile</source>
-        <translation>تجانب أفقي</translation>
+        <translation type="obsolete">تجانب أفقي</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation>ماكرو</translation>
+        <translation type="obsolete">ماكرو</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -5158,8 +5951,13 @@ Other Window</source>
         <translation>عرض النماذج</translation>
     </message>
     <message>
+        <source>New
+Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Window</source>
-        <translation>نافذة جديدة</translation>
+        <translation type="obsolete">نافذة جديدة</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -5186,24 +5984,51 @@ Other Window</source>
         <translation>استعراض المزيد من النوافذ</translation>
     </message>
     <message>
+        <source>Slide 
+Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide 
+Sorter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Master</source>
-        <translation>نموذج شريحة</translation>
+        <translation type="obsolete">نموذج شريحة</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation>فارز الشرائح</translation>
+        <translation type="obsolete">فارز الشرائح</translation>
+    </message>
+    <message>
+        <source>Switch
+Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>تبديل النافذة</translation>
+        <translation type="obsolete">تبديل النافذة</translation>
     </message>
     <message>
         <source>Task Window</source>
         <translation>نافذة المهام</translation>
     </message>
     <message>
+        <source>Tile Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical Tile</source>
-        <translation>تجانب عمودي</translation>
+        <translation type="obsolete">تجانب عمودي</translation>
+    </message>
+    <message>
+        <source>View Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -5233,12 +6058,27 @@ Other Window</source>
         <translation>288 نقطة</translation>
     </message>
     <message>
+        <source>3-D
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
-        <translation>لون 3D</translation>
+        <translation type="obsolete">لون 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>تشغيل/إيقاف 3D</translation>
+        <translation type="obsolete">تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -5246,7 +6086,7 @@ Other Window</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3D</translation>
+        <translation type="obsolete">نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -5313,6 +6153,22 @@ Other Window</source>
         <translation>عادي</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>موازي</translation>
     </message>
@@ -5330,41 +6186,56 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation>تشغيل/إيقاف
 الظل</translation>
     </message>
     <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>لون الظل</translation>
+        <translation type="obsolete">لون الظل</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>تشغيل/إيقاف الظل</translation>
+        <translation type="obsolete">تشغيل/إيقاف الظل</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>إعدادات الظل</translation>
+        <translation type="obsolete">إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>إزاحة الظل إلى الأسفل</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>إزاحة الظل إلى اليسار</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>إزاحة الظل إلى اليمين</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>إزاحة الظل إلى الأعلى</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5468,6 +6339,10 @@ On</source>
         <translation>محاذاة إلى الأعلى</translation>
     </message>
     <message>
+        <source>Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arch Down (Curve)</source>
         <translation>قوس لأسفل (منحني)</translation>
     </message>
@@ -5489,15 +6364,23 @@ On</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>القاع (منحنى)</translation>
+        <translation type="obsolete">القاع (منحنى)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>القاع (متدفق)</translation>
+        <translation type="obsolete">القاع (متدفق)</translation>
     </message>
     <message>
         <source>Bring Forward</source>
         <translation>تقديم</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Pour)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -5518,6 +6401,11 @@ On</source>
     <message>
         <source>Center</source>
         <translation>توسيط</translation>
+    </message>
+    <message>
+        <source>Character 
+Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -5552,16 +6440,24 @@ On</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -5585,7 +6481,7 @@ On</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -5636,6 +6532,10 @@ On</source>
         <translation>تلاشي للأعلى</translation>
     </message>
     <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontal</source>
         <translation>انعكاس أفقي</translation>
     </message>
@@ -5653,7 +6553,11 @@ On</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -5681,7 +6585,7 @@ On</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>إدراج WordArt</translation>
+        <translation type="obsolete">إدراج WordArt</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -5696,8 +6600,12 @@ On</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -5718,6 +6626,10 @@ On</source>
     <message>
         <source>Normal</source>
         <translation>عادي</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5764,12 +6676,20 @@ On</source>
         <translation>نقطة دائرية</translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
         <translation>لوحة التحديد</translation>
     </message>
     <message>
         <source>Send Backward</source>
         <translation>تأخير</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -5820,6 +6740,10 @@ On</source>
         <translation>فك التجميع</translation>
     </message>
     <message>
+        <source>Vertical Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Very Loose</source>
         <translation>فضفاض جدا</translation>
     </message>
@@ -5848,36 +6772,51 @@ On</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt
+Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt
+Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt 
+Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
-        <translation>محاذاة WordArt</translation>
+        <translation type="obsolete">محاذاة WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>تباعد الحروف في WordArt</translation>
+        <translation type="obsolete">تباعد الحروف في WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>تعبئة WordArt</translation>
+        <translation type="obsolete">تعبئة WordArt</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>معرض WordArt</translation>
+        <translation type="obsolete">معرض WordArt</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>إطار WordArt</translation>
+        <translation type="obsolete">إطار WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>نفس ارتفاع الحروف في WordArt</translation>
+        <translation type="obsolete">نفس ارتفاع الحروف في WordArt</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>شكل WordArt</translation>
+        <translation type="obsolete">شكل WordArt</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>حجم WordArt</translation>
+        <translation type="obsolete">حجم WordArt</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -5885,7 +6824,11 @@ On</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>نص عمودي في WordArt</translation>
+        <translation type="obsolete">نص عمودي في WordArt</translation>
+    </message>
+    <message>
+        <source>WordArt@Insert</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5899,118 +6842,202 @@ On</source>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Auto Version</source>
-        <translation>إصدار تلقائي</translation>
+        <translation type="obsolete">إصدار تلقائي</translation>
     </message>
     <message>
-        <source>Explor Backup Dir</source>
-        <translation>استكشاف مسار النسخ الاحتياطي</translation>
-    </message>
-    <message>
-        <source>Explor Version</source>
-        <translation>استكشاف الإصدار</translation>
-    </message>
-    <message>
-        <source>File Auto backup</source>
-        <translation>نسخ احتياطي تلقائي للملف</translation>
-    </message>
-    <message>
-        <source>KOS Cloud feedback</source>
-        <translation>تعليقات المستخدمين من سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Cloud information</source>
-        <translation>معلومات سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Create Cloud Link</source>
+        <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Explor Backup Dir</source>
+        <translation type="obsolete">استكشاف مسار النسخ الاحتياطي</translation>
+    </message>
+    <message>
+        <source>Explor Version</source>
+        <translation type="obsolete">استكشاف الإصدار</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Auto backup</source>
+        <translation type="obsolete">نسخ احتياطي تلقائي للملف</translation>
+    </message>
+    <message>
+        <source>File Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Cloud feedback</source>
+        <translation type="obsolete">تعليقات المستخدمين من سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Cloud information</source>
+        <translation type="obsolete">معلومات سحابة KOS</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
-        <translation>حسابي في KOS</translation>
+        <translation type="obsolete">حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>تلميح حسابي في KOS</translation>
+        <translation type="obsolete">تلميح حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation>فتح ملف من سحابة KOS</translation>
+        <translation type="obsolete">فتح ملف من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation>حفظ الملف إلى سحابة KOS</translation>
+        <translation type="obsolete">حفظ الملف إلى سحابة KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation>سحابة المستخدم في KOS</translation>
+        <translation type="obsolete">سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation>تلميحات سحابة المستخدم في KOS</translation>
+        <translation type="obsolete">تلميحات سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation>دليل المستخدم لـ KOS</translation>
+        <translation type="obsolete">دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
-        <translation>تلميحات دليل المستخدم لـ KOS</translation>
+        <translation type="obsolete">تلميحات دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
         <translation>مختبر</translation>
     </message>
     <message>
+        <source>Manual Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mark Version</source>
-        <translation>علامة الإصدار</translation>
+        <translation type="obsolete">علامة الإصدار</translation>
+    </message>
+    <message>
+        <source>More from Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation>إيقاف الإصدار التلقائي</translation>
+        <translation type="obsolete">إيقاف الإصدار التلقائي</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation>نسخ احتياطي لمساحة العمل</translation>
+        <translation type="obsolete">نسخ احتياطي لمساحة العمل</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation>تصدير صورة weibo</translation>
+        <translation type="obsolete">تصدير صورة weibo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>تسجيل الدخول</translation>
+        <translation type="obsolete">تسجيل الدخول</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>فتح weibo</translation>
+        <translation type="obsolete">فتح weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>مشاركة رسائل weibo</translation>
+        <translation type="obsolete">مشاركة رسائل weibo</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation>أدوات رسائل weibo</translation>
+        <translation type="obsolete">أدوات رسائل weibo</translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation>0 سجل أكثر</translation>
+        <translation type="obsolete">0 سجل أكثر</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation>حول العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">حول العرض التقديمي لـ Kingsoft</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Action Buttons</source>
@@ -6022,7 +7049,11 @@ On</source>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation>تفعيل Kingsoft-Office</translation>
+        <translation type="obsolete">تفعيل Kingsoft-Office</translation>
+    </message>
+    <message>
+        <source>Activate WPS Office</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -6035,6 +7066,10 @@ On</source>
     <message>
         <source>Align</source>
         <translation>محاذاة</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -6062,11 +7097,15 @@ On</source>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation>نقطة تلقائية</translation>
+        <translation type="obsolete">نقطة تلقائية</translation>
     </message>
     <message>
         <source>Auto Version</source>
-        <translation>إصدار تلقائي</translation>
+        <translation type="obsolete">إصدار تلقائي</translation>
+    </message>
+    <message>
+        <source>AutoPoint</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6085,8 +7124,12 @@ On</source>
         <translation>إدارة النسخ الاحتياطي</translation>
     </message>
     <message>
+        <source>Ball Pen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ballpoint Pen</source>
-        <translation>قلم حبر جاف</translation>
+        <translation type="obsolete">قلم حبر جاف</translation>
     </message>
     <message>
         <source>Black Screen</source>
@@ -6113,8 +7156,13 @@ On</source>
         <translation>حسب العنوان</translation>
     </message>
     <message>
+        <source>COM 
+Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>COM Add-Ins</source>
-        <translation>وظائف إضافية COM</translation>
+        <translation type="obsolete">وظائف إضافية COM</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6129,12 +7177,12 @@ On</source>
         <translation>في الوسط</translation>
     </message>
     <message>
-        <source>Change Picture</source>
-        <translation>تغيير الصورة</translation>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change Points</source>
-        <translation type="unfinished"></translation>
+        <source>Change Picture</source>
+        <translation>تغيير الصورة</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -6143,6 +7191,14 @@ On</source>
     <message>
         <source>Change to</source>
         <translation>تغيير إلى</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for Updates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -6174,7 +7230,7 @@ On</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>أعمدة</translation>
+        <translation type="obsolete">أعمدة</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -6182,7 +7238,7 @@ On</source>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation>قائمة التحكم</translation>
+        <translation type="obsolete">قائمة التحكم</translation>
     </message>
     <message>
         <source>Control Menu List</source>
@@ -6209,6 +7265,10 @@ On</source>
         <translation>نقطة الركن</translation>
     </message>
     <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Curved Connector</source>
         <translation>رابط منحني</translation>
     </message>
@@ -6226,11 +7286,11 @@ On</source>
     </message>
     <message>
         <source>Data Chart</source>
-        <translation>مخطط بيانات</translation>
+        <translation type="obsolete">مخطط بيانات</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation>جدول البيانات</translation>
+        <translation type="obsolete">جدول البيانات</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -6239,6 +7299,10 @@ On</source>
     <message>
         <source>Decimal Tab</source>
         <translation>تبويب عشري</translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Current Comment</source>
@@ -6251,6 +7315,10 @@ On</source>
     <message>
         <source>Delete Point</source>
         <translation>حذف النقطة</translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Segment</source>
@@ -6269,12 +7337,20 @@ On</source>
         <translation>رسم تخطيطي</translation>
     </message>
     <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Distributed</source>
         <translation>موزع</translation>
     </message>
     <message>
+        <source>Draw Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>DrawShapes</source>
-        <translation>رسم الأشكال</translation>
+        <translation type="obsolete">رسم الأشكال</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -6313,8 +7389,16 @@ On</source>
         <translation>رابط نصف القطر</translation>
     </message>
     <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Encrypt</source>
-        <translation>تشفير</translation>
+        <translation type="obsolete">تشفير</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End Show</source>
@@ -6354,11 +7438,15 @@ On</source>
     </message>
     <message>
         <source>Explor Backup Dir</source>
-        <translation>استكشاف مسار النسخ الاحتياطي</translation>
+        <translation type="obsolete">استكشاف مسار النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Explor Version</source>
-        <translation>استكشاف الإصدار</translation>
+        <translation type="obsolete">استكشاف الإصدار</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -6370,7 +7458,11 @@ On</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>تعليقات</translation>
+        <translation type="obsolete">تعليقات</translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Object</source>
@@ -6410,7 +7502,7 @@ On</source>
     </message>
     <message>
         <source>Graphics</source>
-        <translation>رسومات</translation>
+        <translation type="obsolete">رسومات</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -6438,7 +7530,7 @@ On</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation>مخفي</translation>
+        <translation type="obsolete">مخفي</translation>
     </message>
     <message>
         <source>Hide Slide</source>
@@ -6450,7 +7542,7 @@ On</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>الصفحة الرئيسية</translation>
+        <translation type="obsolete">الصفحة الرئيسية</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -6463,6 +7555,10 @@ On</source>
     <message>
         <source>Ink Color</source>
         <translation>لون الحبر</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
@@ -6493,40 +7589,32 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Invisible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Change login</source>
-        <translation>تغيير معلومات الدخول لـ KOS</translation>
+        <translation type="obsolete">تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
         <source>KOS Cloud feedback</source>
-        <translation>تعليقات المستخدمين من سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation>فتح ملف من سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">فتح ملف من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation>حفظ الملف إلى سحابة KOS</translation>
+        <translation type="obsolete">حفظ الملف إلى سحابة KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS View UserInfo</source>
@@ -6534,7 +7622,7 @@ On</source>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation>تسجيل الخروج من KOS</translation>
+        <translation type="obsolete">تسجيل الخروج من KOS</translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
@@ -6542,27 +7630,19 @@ On</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>مجتمع Kingsoft-Office</translation>
+        <translation type="obsolete">مجتمع Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>فايسبوك Kingsoft-Office</translation>
+        <translation type="obsolete">فايسبوك Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished">الصفحة الرئيسية لـ Kingsoft-Office</translation>
+        <translation type="obsolete">الصفحة الرئيسية لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
         <translation type="obsolete">مساعدة العرض التقديمي لـ Kingsoft</translation>
-    </message>
-    <message>
-        <source>KingsoftOffice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KingsoftOffice_KSO</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -6571,6 +7651,10 @@ On</source>
     <message>
         <source>Last Viewed</source>
         <translation>آخر مشاهدة</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -6593,8 +7677,12 @@ On</source>
         <translation>ماكرو</translation>
     </message>
     <message>
+        <source>Manual Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mark Version</source>
-        <translation>علامة الإصدار</translation>
+        <translation type="obsolete">علامة الإصدار</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -6609,20 +7697,24 @@ On</source>
         <translation>تخطيط النموذج</translation>
     </message>
     <message>
-        <source>Menu Edit Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Menu New Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Merge Cells</source>
         <translation>دمج الخلايا</translation>
     </message>
     <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Historical Records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Movie</source>
-        <translation>فيلم</translation>
+        <translation type="obsolete">فيلم</translation>
+    </message>
+    <message>
+        <source>Movie from File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
@@ -6663,12 +7755,20 @@ Master</source>
         <translation>عادي</translation>
     </message>
     <message>
-        <source>Notes</source>
+        <source>Object</source>
+        <translation>كائن</translation>
+    </message>
+    <message>
+        <source>Object Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Object</source>
-        <translation>كائن</translation>
+        <source>Object Menu List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -6680,7 +7780,7 @@ Master</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>فتح من Klive</translation>
+        <translation type="obsolete">فتح من Klive</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -6689,6 +7789,10 @@ Master</source>
     <message>
         <source>Open Path</source>
         <translation>فتح المسار</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Options</source>
@@ -6700,19 +7804,27 @@ Master</source>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation>OrgChart</translation>
+        <translation type="obsolete">OrgChart</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation>تخطيط OrgChart</translation>
+        <translation type="obsolete">تخطيط OrgChart</translation>
     </message>
     <message>
         <source>OrgChart Select</source>
-        <translation>تحديد OrgChart</translation>
+        <translation type="obsolete">تحديد OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation>تجميع في ملف مضغوط</translation>
+        <translation type="obsolete">تجميع في ملف مضغوط</translation>
+    </message>
+    <message>
+        <source>Package into Compressed File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -6733,6 +7845,10 @@ Master</source>
     <message>
         <source>Pause Background Music</source>
         <translation>إيقاف مؤقت لموسيقى الخلفية</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play</source>
@@ -6764,7 +7880,7 @@ Master</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>مركز المنتجات</translation>
+        <translation type="obsolete">مركز المنتجات</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -6777,6 +7893,10 @@ Master</source>
     <message>
         <source>Purchase Serial Number</source>
         <translation>شراء رقم تسلسلي</translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reconvert</source>
@@ -6824,7 +7944,7 @@ Master</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>صفوف</translation>
+        <translation type="obsolete">صفوف</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -6840,11 +7960,15 @@ Master</source>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation>حفظ إلى Klive</translation>
+        <translation type="obsolete">حفظ إلى Klive</translation>
     </message>
     <message>
         <source>Save as Picture</source>
         <translation>حفظ كصورة</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -6861,6 +7985,10 @@ Master</source>
     <message>
         <source>Security</source>
         <translation>حماية</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -6883,12 +8011,32 @@ Master</source>
         <translation>تعيين افتراضات الشكل التلقائي</translation>
     </message>
     <message>
+        <source>Set Up Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show / Hide Ink Markup</source>
         <translation>إظهار / إخفاء علامات الحبر</translation>
     </message>
     <message>
         <source>Show More Windows</source>
         <translation>استعراض المزيد من النوافذ</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -6903,12 +8051,16 @@ Master</source>
         <translation>رقم الشريحة</translation>
     </message>
     <message>
+        <source>Slide Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Show List</source>
         <translation>لائحة استعراض الشرائح</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
-        <translation>إعدادات استعراض الشريحة</translation>
+        <translation type="obsolete">إعدادات استعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -6917,10 +8069,6 @@ Master</source>
     <message>
         <source>Slide Transition</source>
         <translation>انتقال الشريحة</translation>
-    </message>
-    <message>
-        <source>SlideShow</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slides List</source>
@@ -6932,11 +8080,15 @@ Master</source>
     </message>
     <message>
         <source>Sound</source>
-        <translation>صوت</translation>
+        <translation type="obsolete">صوت</translation>
+    </message>
+    <message>
+        <source>Sound from File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="obsolete">ملاحظات المحاضر</translation>
+        <translation type="unfinished">ملاحظات المحاضر</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -6944,7 +8096,7 @@ Master</source>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation>إيقاف الإصدار التلقائي</translation>
+        <translation type="obsolete">إيقاف الإصدار التلقائي</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -6983,8 +8135,12 @@ Master</source>
         <translation>مربع نص</translation>
     </message>
     <message>
+        <source>Transfer to WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
-        <translation>تحويل إلى مستند نصي</translation>
+        <translation type="obsolete">تحويل إلى مستند نصي</translation>
     </message>
     <message>
         <source>Typography</source>
@@ -6996,15 +8152,19 @@ Master</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation>محاذاة إلى الأسفل</translation>
+        <translation type="obsolete">محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>تحديث على الإنترنت</translation>
+        <translation type="obsolete">تحديث على الإنترنت</translation>
     </message>
     <message>
         <source>Use Magnifier</source>
         <translation>استخدام المكبرة</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -7015,6 +8175,14 @@ Master</source>
         <translation>عرض الكود</translation>
     </message>
     <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Visible</source>
         <translation>مرئي</translation>
     </message>
@@ -7023,15 +8191,35 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Microblog</source>
         <translation>المدونة الصغيرة لـ WPS</translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation>ميزات جديدة لـ WPS</translation>
+        <translation type="obsolete">ميزات جديدة لـ WPS</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7056,15 +8244,15 @@ Master</source>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation>تصدير صورة weibo</translation>
+        <translation type="obsolete">تصدير صورة weibo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>تسجيل الدخول</translation>
+        <translation type="obsolete">تسجيل الدخول</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>فتح weibo</translation>
+        <translation type="obsolete">فتح weibo</translation>
     </message>
     <message>
         <source>true</source>
@@ -7072,7 +8260,7 @@ Master</source>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>مشاركة رسائل weibo</translation>
+        <translation type="obsolete">مشاركة رسائل weibo</translation>
     </message>
 </context>
 <context>
@@ -7121,27 +8309,31 @@ Master</source>
     </message>
     <message>
         <source>Change to Cycle</source>
-        <translation>تغيير إلى شكل دائري</translation>
+        <translation type="obsolete">تغيير إلى شكل دائري</translation>
     </message>
     <message>
         <source>Change to Pyramid</source>
-        <translation>تغيير إلى شكل هرمي</translation>
+        <translation type="obsolete">تغيير إلى شكل هرمي</translation>
     </message>
     <message>
         <source>Change to Radial</source>
-        <translation>تغيير إلى شكل شعاعي</translation>
+        <translation type="obsolete">تغيير إلى شكل شعاعي</translation>
     </message>
     <message>
         <source>Change to Target</source>
-        <translation>تغيير إلى شكل هدف</translation>
+        <translation type="obsolete">تغيير إلى شكل هدف</translation>
     </message>
     <message>
         <source>Change to Venn</source>
-        <translation>تغيير إلى شكل فين</translation>
+        <translation type="obsolete">تغيير إلى شكل فين</translation>
     </message>
     <message>
         <source>Coworker</source>
         <translation>زميل العمل</translation>
+    </message>
+    <message>
+        <source>Cycle</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7165,7 +8357,7 @@ Master</source>
     </message>
     <message>
         <source>Level</source>
-        <translation type="obsolete">مستوى</translation>
+        <translation type="unfinished">مستوى</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -7174,6 +8366,14 @@ Master</source>
     <message>
         <source>Move Shape Forward</source>
         <translation>تحريك الشكل إلى الأمام</translation>
+    </message>
+    <message>
+        <source>Pyramid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reverse Diagram</source>
@@ -7192,11 +8392,15 @@ Master</source>
         <translation>مرؤوس</translation>
     </message>
     <message>
+        <source>Target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use AutoFormat</source>
         <translation>استعمال التنسيق التلقائي</translation>
     </message>
     <message>
-        <source>level</source>
+        <source>Venn</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7204,7 +8408,11 @@ Master</source>
     <name>popupmenu.Show</name>
     <message>
         <source>Erase</source>
-        <translation>مسح</translation>
+        <translation type="obsolete">مسح</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7303,7 +8511,11 @@ Master</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -7346,7 +8558,7 @@ Master</source>
     <message>
         <source>COM
 AddIns</source>
-        <translation>وظائف إضافية
+        <translation type="obsolete">وظائف إضافية
  COM</translation>
     </message>
     <message>
@@ -7565,20 +8777,28 @@ AddIns</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -7622,7 +8842,11 @@ AddIns</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -7645,8 +8869,12 @@ AddIns</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -7709,6 +8937,10 @@ AddIns</source>
         <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shape Fill</source>
         <translation>تعبئة الشكل</translation>
     </message>
@@ -7768,22 +9000,30 @@ AddIns</source>
     <name>rainbow.ct_file</name>
     <message>
         <source>About Kingsoft Presentation</source>
-        <translation>حول العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">حول العرض التقديمي لـ Kingsoft</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation>إدارة النسخ الاحتياطي</translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>تغيير الإصدار</translation>
     </message>
     <message>
-        <source>Create CloudLink</source>
+        <source>Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create CloudLink Title</source>
+        <source>Data Recovery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7792,7 +9032,11 @@ AddIns</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>تشفير</translation>
+        <translation type="obsolete">تشفير</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7800,11 +9044,15 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>تعليقات</translation>
+        <translation type="obsolete">تعليقات</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
         <translation>تعليقات ومعلومات المنتج</translation>
+    </message>
+    <message>
+        <source>Feedback via E-mail</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Information</source>
@@ -7820,27 +9068,27 @@ AddIns</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>مجتمع Kingsoft-Office</translation>
+        <translation type="obsolete">مجتمع Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>تعليقات Kingsoft-Office</translation>
+        <translation type="obsolete">تعليقات Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>الصفحة الرئيسية لـ Kingsoft-Office</translation>
+        <translation type="obsolete">الصفحة الرئيسية لـ Kingsoft-Office</translation>
     </message>
     <message>
         <source>Kingsoft Presentation File</source>
-        <translation>ملف العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">ملف العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">مساعدة العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation>قالب العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">قالب العرض التقديمي لـ Kingsoft</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
@@ -7872,11 +9120,15 @@ AddIns</source>
     </message>
     <message>
         <source>New from My Computer Templates</source>
-        <translation>مستند جديد من قوالب حاسوبي</translation>
+        <translation type="obsolete">مستند جديد من قوالب حاسوبي</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
         <translation>مستند جديد من قوالب الإنترنت</translation>
+    </message>
+    <message>
+        <source>New from Other Templates...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -7884,7 +9136,7 @@ AddIns</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>فتح من Klive</translation>
+        <translation type="obsolete">فتح من Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -7892,7 +9144,11 @@ AddIns</source>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation>تجميع في ملف مضغوط</translation>
+        <translation type="obsolete">تجميع في ملف مضغوط</translation>
+    </message>
+    <message>
+        <source>Package into Compressed File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -7908,7 +9164,7 @@ AddIns</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>مركز المنتجات</translation>
+        <translation type="obsolete">مركز المنتجات</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -7932,11 +9188,15 @@ AddIns</source>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation>حفظ إلى Klive</translation>
+        <translation type="obsolete">حفظ إلى Klive</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
         <translation>حفظ نسخة من المستند</translation>
+    </message>
+    <message>
+        <source>Seek Help via Microblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -7951,24 +9211,64 @@ AddIns</source>
         <translation type="obsolete">دراسة عبر الإنترنت</translation>
     </message>
     <message>
-        <source>Translate to Document</source>
+        <source>Transfer to WPS Writer Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>تحديث على الإنترنت</translation>
+        <translation type="obsolete">تحديث على الإنترنت</translation>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>منتديات WPS</translation>
+        <translation type="obsolete">منتديات WPS</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>المدونة الصغيرة لـ WPS</translation>
+        <translation type="obsolete">المدونة الصغيرة لـ WPS</translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation>ميزات جديدة لـ WPS</translation>
+        <translation type="obsolete">ميزات جديدة لـ WPS</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Forum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -7979,7 +9279,11 @@ AddIns</source>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">مساعدة العرض التقديمي لـ Kingsoft</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8053,8 +9357,12 @@ AddIns</source>
         <translation>3 نقطة</translation>
     </message>
     <message>
+        <source>3-D Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Style</source>
-        <translation>نمط 3D</translation>
+        <translation type="obsolete">نمط 3D</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -8190,7 +9498,7 @@ AddIns</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation>في الوسط</translation>
+        <translation type="obsolete">في الوسط</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -8213,16 +9521,24 @@ AddIns</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -8238,7 +9554,7 @@ AddIns</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -8298,7 +9614,7 @@ AddIns</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>لون الكتابة</translation>
+        <translation type="obsolete">لون الكتابة</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -8311,6 +9627,10 @@ AddIns</source>
     <message>
         <source>Format Painter</source>
         <translation>نسخ التنسيق</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -8336,7 +9656,11 @@ Slide</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -8399,8 +9723,12 @@ Slide</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>Media</source>
@@ -8456,7 +9784,11 @@ Slide</source>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation>تجميع في ملف مضغوط</translation>
+        <translation type="obsolete">تجميع في ملف مضغوط</translation>
+    </message>
+    <message>
+        <source>Package into Compressed File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -8543,12 +9875,20 @@ Slide</source>
         <translation>إرسال إلى المؤخرة</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation>ظل</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shape Effects</source>
@@ -8592,11 +9932,15 @@ Slide</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>نص</translation>
+        <translation type="obsolete">نص</translation>
     </message>
     <message>
         <source>Text Box</source>
         <translation>مربع نص</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8607,12 +9951,16 @@ Slide</source>
         <translation>مسطر</translation>
     </message>
     <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>فك التجميع</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation>محاذاة إلى الأسفل</translation>
+        <translation type="obsolete">محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8624,7 +9972,7 @@ Slide</source>
     </message>
     <message>
         <source>With Text Format</source>
-        <translation>مع تنسيق النص</translation>
+        <translation type="obsolete">مع تنسيق النص</translation>
     </message>
 </context>
 <context>
@@ -8670,14 +10018,22 @@ Slide</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>رقم</translation>
+        <translation type="obsolete">رقم</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
+        <source>Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Action Settings</source>
-        <translation>إعدادات الإجراءات</translation>
+        <translation type="obsolete">إعدادات الإجراءات</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
@@ -8692,8 +10048,12 @@ Slide</source>
         <translation>مخطط</translation>
     </message>
     <message>
+        <source>Date and Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Date/Time</source>
-        <translation>تاريخ/وقت</translation>
+        <translation type="obsolete">تاريخ/وقت</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -8712,8 +10072,12 @@ Slide</source>
         <translation>معرض رسوم</translation>
     </message>
     <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header/Footer</source>
-        <translation>رأس وتذييل الصفحة</translation>
+        <translation type="obsolete">رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -8736,8 +10100,12 @@ Slide</source>
         <translation>إدراج كليب فني</translation>
     </message>
     <message>
+        <source>Insert Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Data Chart</source>
-        <translation>إدراج مخطط بيانات</translation>
+        <translation type="obsolete">إدراج مخطط بيانات</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -8789,7 +10157,11 @@ Slide</source>
     </message>
     <message>
         <source>Package into Compress File</source>
-        <translation>تجميع في ملف مضغوط</translation>
+        <translation type="obsolete">تجميع في ملف مضغوط</translation>
+    </message>
+    <message>
+        <source>Package into Compressed File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -8847,40 +10219,76 @@ Slide</source>
 <context>
     <name>rainbow.ct_orgchart</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0.25 نقطة.</translation>
+        <translation type="obsolete">0.25 نقطة.</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 نقطة.</translation>
+        <translation type="obsolete">0.5 نقطة.</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 نقطة.</translation>
+        <translation type="obsolete">0.75 نقطة.</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 نقطة.</translation>
+        <translation type="obsolete">1 نقطة.</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1.5 نقطة.</translation>
+        <translation type="obsolete">1.5 نقطة.</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 نقطة.</translation>
+        <translation type="obsolete">2.25 نقطة.</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 نقطة.</translation>
+        <translation type="obsolete">3 نقطة.</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 نقطة.</translation>
+        <translation type="obsolete">4.5 نقطة.</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 نقطة.</translation>
+        <translation type="obsolete">6 نقطة.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -8943,20 +10351,32 @@ Slide</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Layout</source>
@@ -8967,6 +10387,10 @@ Slide</source>
         <translation>تأثيرات خط الرسم</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
         <translation>لوحة نمط الخط</translation>
     </message>
@@ -8975,8 +10399,12 @@ Slide</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9000,7 +10428,11 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart Layout</source>
-        <translation>تخطيط OrgChart</translation>
+        <translation type="obsolete">تخطيط OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9016,7 +10448,7 @@ Slide</source>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation>خط الشكل</translation>
+        <translation type="obsolete">خط الشكل</translation>
     </message>
     <message>
         <source>Smart Choice</source>
@@ -9035,8 +10467,12 @@ Slide</source>
         <translation>نص</translation>
     </message>
     <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Font Color</source>
-        <translation>لون الكتابة</translation>
+        <translation type="obsolete">لون الكتابة</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -9084,7 +10520,11 @@ Subordinate</source>
     </message>
     <message>
         <source>All OrgChart</source>
-        <translation>جميع OrgChart</translation>
+        <translation type="obsolete">جميع OrgChart</translation>
+    </message>
+    <message>
+        <source>All Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Both Hanging</source>
@@ -9170,6 +10610,10 @@ Subordinate</source>
         <translation>6 نقطة</translation>
     </message>
     <message>
+        <source>Adjust Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align</source>
         <translation>محاذاة</translation>
     </message>
@@ -9242,20 +10686,28 @@ Subordinate</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -9276,6 +10728,10 @@ Subordinate</source>
     <message>
         <source>Equal Width</source>
         <translation>متساوية العرض</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9299,7 +10755,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -9342,8 +10802,12 @@ Subordinate</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -9374,6 +10838,26 @@ Subordinate</source>
         <translation>بدون ظل</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>زخرفة</translation>
     </message>
@@ -9387,15 +10871,15 @@ Subordinate</source>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation>تعديل الصورة</translation>
+        <translation type="obsolete">تعديل الصورة</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>تعبئة الصورة</translation>
+        <translation type="obsolete">تعبئة الصورة</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>إطار الصورة</translation>
+        <translation type="obsolete">إطار الصورة</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -9450,8 +10934,16 @@ Subordinate</source>
         <translation>تعيين اللون الشفاف</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>لون الظل</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -9459,27 +10951,27 @@ Subordinate</source>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>إعدادات الظل</translation>
+        <translation type="obsolete">إعدادات الظل</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>إزاحة الظل إلى الأسفل</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>إزاحة الظل إلى اليسار</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>إزاحة الظل إلى اليمين</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>إزاحة الظل إلى الأعلى</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9579,8 +11071,12 @@ Subordinate</source>
         <translation>صفحات الملاحظات (3 شرائح في كل صفحة)</translation>
     </message>
     <message>
+        <source>Outline View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outline view</source>
-        <translation>عرض الإطار</translation>
+        <translation type="obsolete">عرض الإطار</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -9599,16 +11095,24 @@ Subordinate</source>
         <translation>طباعة مباشرة</translation>
     </message>
     <message>
+        <source>Print Hidden Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Skipped Slides</source>
-        <translation>طباعة الشرائح المتخطاة</translation>
+        <translation type="obsolete">طباعة الشرائح المتخطاة</translation>
     </message>
     <message>
         <source>Printing Order</source>
         <translation>ترتيب الطباعة</translation>
     </message>
     <message>
+        <source>Pure Black and White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pure black and white</source>
-        <translation>بالأسود والأبيض فقط</translation>
+        <translation type="obsolete">بالأسود والأبيض فقط</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9641,7 +11145,7 @@ Subordinate</source>
     <name>rainbow.ct_review</name>
     <message>
         <source>Check Spelling</source>
-        <translation>تدقيق إملائي</translation>
+        <translation type="obsolete">تدقيق إملائي</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -9661,7 +11165,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>حذف</translation>
+        <translation type="obsolete">حذف</translation>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
@@ -9670,6 +11174,10 @@ Subordinate</source>
     <message>
         <source>Delete All Markup on the Current Slide</source>
         <translation>حذف جميع العلامات في الشريحة الحالية</translation>
+    </message>
+    <message>
+        <source>Delete Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -9705,11 +11213,15 @@ Subordinate</source>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>تعيين لغة التدقيق الإملائي</translation>
+        <translation type="obsolete">تعيين لغة التدقيق الإملائي</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
         <translation>إظهار/إخفاء العلامة</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9731,6 +11243,10 @@ Subordinate</source>
         <translation>لون 3D</translation>
     </message>
     <message>
+        <source>3-D Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D On/Off</source>
         <translation>تشغيل/إيقاف 3D</translation>
     </message>
@@ -9740,7 +11256,7 @@ Subordinate</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3D</translation>
+        <translation type="obsolete">نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -9807,6 +11323,22 @@ Subordinate</source>
         <translation>عادي</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>موازي</translation>
     </message>
@@ -9827,6 +11359,10 @@ Subordinate</source>
         <translation>لون الظل</translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On/Off</source>
         <translation>تشغيل/إيقاف الظل</translation>
     </message>
@@ -9836,23 +11372,23 @@ Subordinate</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>إزاحة الظل إلى الأسفل</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>إزاحة الظل إلى اليسار</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>إزاحة الظل إلى اليمين</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>إزاحة الظل إلى الأعلى</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -9953,8 +11489,12 @@ Slide</source>
         <translation>إعداد</translation>
     </message>
     <message>
+        <source>Set Up Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Up Slide Show</source>
-        <translation>إعداد استعراض الشريحة</translation>
+        <translation type="obsolete">إعداد استعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide
@@ -10021,7 +11561,7 @@ Settings</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>أعمدة</translation>
+        <translation type="obsolete">أعمدة</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10030,6 +11570,14 @@ Settings</source>
     <message>
         <source>Delete</source>
         <translation>حذف</translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -10060,6 +11608,10 @@ Settings</source>
         <translation>يسار</translation>
     </message>
     <message>
+        <source>Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge</source>
         <translation>دمج</translation>
     </message>
@@ -10085,11 +11637,15 @@ Settings</source>
     </message>
     <message>
         <source>Rows</source>
-        <translation>صفوف</translation>
+        <translation type="obsolete">صفوف</translation>
+    </message>
+    <message>
+        <source>Rows and Columns</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>صفوف/أعمدة</translation>
+        <translation type="obsolete">صفوف/أعمدة</translation>
     </message>
     <message>
         <source>Select</source>
@@ -10129,7 +11685,7 @@ Settings</source>
     </message>
     <message>
         <source>Text Margin</source>
-        <translation>هامش النص</translation>
+        <translation type="obsolete">هامش النص</translation>
     </message>
     <message>
         <source>Wide</source>
@@ -10149,8 +11705,13 @@ Settings</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation>إغلاق
+        <translation type="obsolete">إغلاق
 نافذة أخرى</translation>
+    </message>
+    <message>
+        <source>Close
+Other Windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -10161,8 +11722,12 @@ Other Window</source>
         <translation>إغلاق النافذة</translation>
     </message>
     <message>
+        <source>Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Developer Tools</source>
-        <translation>أدوات التطوير</translation>
+        <translation type="obsolete">أدوات التطوير</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -10180,11 +11745,11 @@ Other Window</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>خطوط الشبكة</translation>
+        <translation type="obsolete">خطوط الشبكة</translation>
     </message>
     <message>
         <source>Horizontal Tile</source>
-        <translation>تجانب أفقي</translation>
+        <translation type="obsolete">تجانب أفقي</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -10232,15 +11797,31 @@ Other Window</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>تبديل النافذة</translation>
+        <translation type="obsolete">تبديل النافذة</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task Window</source>
         <translation>نافذة المهام</translation>
     </message>
     <message>
+        <source>Tile Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical Tile</source>
-        <translation>تجانب عمودي</translation>
+        <translation type="obsolete">تجانب عمودي</translation>
+    </message>
+    <message>
+        <source>View Gridlines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -10270,6 +11851,11 @@ Other Window</source>
         <translation>288 نقطة</translation>
     </message>
     <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
         <translation>لون 3D</translation>
     </message>
@@ -10283,7 +11869,7 @@ Other Window</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>نمط 3D</translation>
+        <translation type="obsolete">نمط 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -10350,6 +11936,22 @@ Other Window</source>
         <translation>عادي</translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation>موازي</translation>
     </message>
@@ -10366,8 +11968,18 @@ Other Window</source>
         <translation>ظل نصف شفاف</translation>
     </message>
     <message>
+        <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation>لون الظل</translation>
+        <translation type="obsolete">لون الظل</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -10379,23 +11991,23 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>نمط الظل</translation>
+        <translation type="obsolete">نمط الظل</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>إزاحة الظل إلى الأسفل</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأسفل</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>إزاحة الظل إلى اليسار</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليسار</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>إزاحة الظل إلى اليمين</translation>
+        <translation type="obsolete">إزاحة الظل إلى اليمين</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>إزاحة الظل إلى الأعلى</translation>
+        <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -10510,11 +12122,15 @@ Other Window</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>القاع (منحنى)</translation>
+        <translation type="obsolete">القاع (منحنى)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
         <translation>القاع (متدفق)</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -10535,6 +12151,10 @@ Other Window</source>
     <message>
         <source>Center</source>
         <translation>توسيط</translation>
+    </message>
+    <message>
+        <source>Character Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -10569,16 +12189,24 @@ Other Window</source>
         <translation>تقطع</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>تقطع-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>تقطع-نقطة-نقطة</translation>
+        <translation type="obsolete">تقطع-نقطة-نقطة</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -10602,7 +12230,7 @@ Other Window</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>إعدادات مفصلة</translation>
+        <translation type="obsolete">إعدادات مفصلة</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10670,7 +12298,11 @@ Other Window</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>تدرج لوني</translation>
+        <translation type="obsolete">تدرج لوني</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -10698,7 +12330,7 @@ Other Window</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>إدراج WordArt</translation>
+        <translation type="obsolete">إدراج WordArt</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -10713,8 +12345,12 @@ Other Window</source>
         <translation>تقطع طويل</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>تقطع طويل-نقطة</translation>
+        <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -10781,8 +12417,16 @@ Other Window</source>
         <translation>نقطة دائرية</translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
         <translation>لوحة التحديد</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -10862,7 +12506,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>تباعد الحروف في WordArt</translation>
+        <translation type="obsolete">تباعد الحروف في WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
@@ -10878,7 +12522,7 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>نفس ارتفاع الحروف في WordArt</translation>
+        <translation type="obsolete">نفس ارتفاع الحروف في WordArt</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -10896,6 +12540,10 @@ Other Window</source>
         <source>WordArt Vertical Text</source>
         <translation>نص عمودي في WordArt</translation>
     </message>
+    <message>
+        <source>WordArt@Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_wordart.Fill</name>
@@ -10908,124 +12556,200 @@ Other Window</source>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Auto Version</source>
-        <translation>إصدار تلقائي</translation>
+        <translation type="obsolete">إصدار تلقائي</translation>
     </message>
     <message>
-        <source>Explor Backup Dir</source>
-        <translation>استكشاف مسار النسخ الاحتياطي</translation>
-    </message>
-    <message>
-        <source>Explor Version</source>
-        <translation>استكشاف الإصدار</translation>
-    </message>
-    <message>
-        <source>File Auto backup</source>
-        <translation>نسخ احتياطي تلقائي للملف</translation>
-    </message>
-    <message>
-        <source>KOS Cloud feedback</source>
-        <translation>تعليقات المستخدمين من سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Cloud information</source>
-        <translation>معلومات سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Create Cloud Link</source>
+        <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Explor Backup Dir</source>
+        <translation type="obsolete">استكشاف مسار النسخ الاحتياطي</translation>
+    </message>
+    <message>
+        <source>Explor Version</source>
+        <translation type="obsolete">استكشاف الإصدار</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Auto backup</source>
+        <translation type="obsolete">نسخ احتياطي تلقائي للملف</translation>
+    </message>
+    <message>
+        <source>File Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Cloud feedback</source>
+        <translation type="obsolete">تعليقات المستخدمين من سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Cloud information</source>
+        <translation type="obsolete">معلومات سحابة KOS</translation>
+    </message>
+    <message>
         <source>KOS My account</source>
-        <translation>حسابي في KOS</translation>
+        <translation type="obsolete">حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>تلميح حسابي في KOS</translation>
+        <translation type="obsolete">تلميح حسابي في KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation>فتح ملف من سحابة KOS</translation>
+        <translation type="obsolete">فتح ملف من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation>حفظ الملف إلى سحابة KOS</translation>
+        <translation type="obsolete">حفظ الملف إلى سحابة KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation>سحابة المستخدم في KOS</translation>
+        <translation type="obsolete">سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation>تلميحات سحابة المستخدم في KOS</translation>
+        <translation type="obsolete">تلميحات سحابة المستخدم في KOS</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation>دليل المستخدم لـ KOS</translation>
+        <translation type="obsolete">دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
-        <translation>تلميحات دليل المستخدم لـ KOS</translation>
+        <translation type="obsolete">تلميحات دليل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
         <translation>مختبر</translation>
     </message>
     <message>
+        <source>Manual Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mark Version</source>
-        <translation>علامة الإصدار</translation>
+        <translation type="obsolete">علامة الإصدار</translation>
+    </message>
+    <message>
+        <source>More from Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation>إيقاف الإصدار التلقائي</translation>
+        <translation type="obsolete">إيقاف الإصدار التلقائي</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation>نسخ احتياطي لمساحة العمل</translation>
+        <translation type="obsolete">نسخ احتياطي لمساحة العمل</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation>تصدير صورة weibo</translation>
+        <translation type="obsolete">تصدير صورة weibo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>تسجيل الدخول</translation>
+        <translation type="obsolete">تسجيل الدخول</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>فتح weibo</translation>
+        <translation type="obsolete">فتح weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>مشاركة رسائل weibo</translation>
+        <translation type="obsolete">مشاركة رسائل weibo</translation>
     </message>
     <message>
         <source>weibotool</source>
-        <translation>أدوات رسائل weibo</translation>
+        <translation type="obsolete">أدوات رسائل weibo</translation>
     </message>
 </context>
 <context>
     <name>tips.3DColor</name>
     <message>
         <source>3-D Color</source>
-        <translation>لون 3D</translation>
+        <translation type="obsolete">لون 3D</translation>
     </message>
     <message>
         <source>Click the arrow to select from different 3-D colors.</source>
-        <translation>انقر فوق السهم للاختيار من بين ألوان 3D المختلفة.</translation>
+        <translation type="obsolete">انقر فوق السهم للاختيار من بين ألوان 3D المختلفة.</translation>
     </message>
     <message>
         <source>Fill the selected 3-D shape with color.
 
 Click the arrow to select from different 3-D colors.</source>
-        <translation>املأ الشكل ثلاثي الأبعاد المحدد بلون معين.
+        <translation type="obsolete">املأ الشكل ثلاثي الأبعاد المحدد بلون معين.
 
 انقر فوق السهم للاختيار من بين ألوان 3D المختلفة.</translation>
     </message>
@@ -11034,304 +12758,304 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Change the height of the selected 3-D shape.</source>
-        <translation>تغيير ارتفاع الشكل ثلاثي الأبعاد المحدد.</translation>
+        <translation type="obsolete">تغيير ارتفاع الشكل ثلاثي الأبعاد المحدد.</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>عمق</translation>
+        <translation type="obsolete">عمق</translation>
     </message>
 </context>
 <context>
     <name>tips.3DOnOff</name>
     <message>
         <source>3-D On/Off</source>
-        <translation>تشغيل/إيقاف 3D</translation>
+        <translation type="obsolete">تشغيل/إيقاف 3D</translation>
     </message>
     <message>
         <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation>تشغيل أو إيقاف  تأثير 3D المطبق على الشكل.</translation>
+        <translation type="obsolete">تشغيل أو إيقاف  تأثير 3D المطبق على الشكل.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DStylePalette</name>
     <message>
         <source>3-D Effects</source>
-        <translation>تأثيرات ثلاثية الأبعاد</translation>
+        <translation type="obsolete">تأثيرات ثلاثية الأبعاد</translation>
     </message>
     <message>
         <source>Add a 3-D effect to the shape.</source>
-        <translation>إضافة تأثير ثلاثي الأبعاد إلى الشكل.</translation>
+        <translation type="obsolete">إضافة تأثير ثلاثي الأبعاد إلى الشكل.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DSurfaceMenu</name>
     <message>
         <source>Choose a surface effect for the selected 3-D shape in the document.</source>
-        <translation>اختيار تأثير سطح للشكل 3D المحدد في المستند.</translation>
+        <translation type="obsolete">اختيار تأثير سطح للشكل 3D المحدد في المستند.</translation>
     </message>
     <message>
         <source>Surface Effects</source>
-        <translation>تأثيرات السطح</translation>
+        <translation type="obsolete">تأثيرات السطح</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltDown</name>
     <message>
         <source>Tilt Down</source>
-        <translation>إمالة للأسفل</translation>
+        <translation type="obsolete">إمالة للأسفل</translation>
     </message>
     <message>
         <source>Tilt the shape forward.</source>
-        <translation>التواء الشكل إلى الأمام.</translation>
+        <translation type="obsolete">التواء الشكل إلى الأمام.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltLeft</name>
     <message>
         <source>Tilt Left</source>
-        <translation>إمالة لليسار</translation>
+        <translation type="obsolete">إمالة لليسار</translation>
     </message>
     <message>
         <source>Tilt the shape to the left.</source>
-        <translation>التواء الشكل إلى اليسار.</translation>
+        <translation type="obsolete">التواء الشكل إلى اليسار.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltRight</name>
     <message>
         <source>Tilt Right</source>
-        <translation>إمالة لليمين</translation>
+        <translation type="obsolete">إمالة لليمين</translation>
     </message>
     <message>
         <source>Tilt the shape to the right.</source>
-        <translation>التواء الشكل إلى اليمين.</translation>
+        <translation type="obsolete">التواء الشكل إلى اليمين.</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltUp</name>
     <message>
         <source>Tilt Up</source>
-        <translation>إمالة للأعلى</translation>
+        <translation type="obsolete">إمالة للأعلى</translation>
     </message>
     <message>
         <source>Tilt the shape backward.</source>
-        <translation>التواء الشكل إلى الخلف.</translation>
+        <translation type="obsolete">التواء الشكل إلى الخلف.</translation>
     </message>
 </context>
 <context>
     <name>tips.ActionSetting</name>
     <message>
         <source>Action</source>
-        <translation>إجراء</translation>
+        <translation type="obsolete">إجراء</translation>
     </message>
     <message>
         <source>Add an action to the selected object to secify what should happen when you click on it or hover over it with your mouse.</source>
-        <translation>إضافة إجراء إلى الكائن المحدد لتحديد ما يجب أن يحدث عندما تنقر فوقه أو تحرك فوقه الماوس.</translation>
+        <translation type="obsolete">إضافة إجراء إلى الكائن المحدد لتحديد ما يجب أن يحدث عندما تنقر فوقه أو تحرك فوقه الماوس.</translation>
     </message>
 </context>
 <context>
     <name>tips.AddAssistant</name>
     <message>
         <source>AddAssistant Content</source>
-        <translation>إضافة مساعد من بين الأعضاء المحددين</translation>
+        <translation type="obsolete">إضافة مساعد من بين الأعضاء المحددين</translation>
     </message>
     <message>
         <source>AddAssistant Title</source>
-        <translation>إضافة مساعد</translation>
+        <translation type="obsolete">إضافة مساعد</translation>
     </message>
 </context>
 <context>
     <name>tips.AddCoworker</name>
     <message>
         <source>AddCoworker Content</source>
-        <translation>إضافة زميل عمل من بين الأعضاء المحددين</translation>
+        <translation type="obsolete">إضافة زميل عمل من بين الأعضاء المحددين</translation>
     </message>
     <message>
         <source>AddCoworker Title</source>
-        <translation>إضافة زميل عمل</translation>
+        <translation type="obsolete">إضافة زميل عمل</translation>
     </message>
 </context>
 <context>
     <name>tips.AddSubordinate</name>
     <message>
         <source>AddSubordinate Content</source>
-        <translation>إضافة مرؤوس من بين الأعضاء المحددين</translation>
+        <translation type="obsolete">إضافة مرؤوس من بين الأعضاء المحددين</translation>
     </message>
     <message>
         <source>AddSubordinate Title</source>
-        <translation>إضافة مرؤوس</translation>
+        <translation type="obsolete">إضافة مرؤوس</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignBottom</name>
     <message>
         <source>Align Bottom</source>
-        <translation>محاذاة إلى الأسفل</translation>
+        <translation type="obsolete">محاذاة إلى الأسفل</translation>
     </message>
     <message>
         <source>Align text to the bottom of the cell.</source>
-        <translation>محاذاة النص إلى أسفل الخلية.</translation>
+        <translation type="obsolete">محاذاة النص إلى أسفل الخلية.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignCenter</name>
     <message>
         <source>Center Vertically</source>
-        <translation>توسيط عمودي</translation>
+        <translation type="obsolete">توسيط عمودي</translation>
     </message>
     <message>
         <source>Vertically center the text.</source>
-        <translation>تموضع النص في المركز بشكل عمودي.</translation>
+        <translation type="obsolete">تموضع النص في المركز بشكل عمودي.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignTop</name>
     <message>
         <source>Align Top</source>
-        <translation>محاذاة إلى الأعلى</translation>
+        <translation type="obsolete">محاذاة إلى الأعلى</translation>
     </message>
     <message>
         <source>Align text to the top of the cell.</source>
-        <translation>محاذاة النص إلى أعلى الخلية.</translation>
+        <translation type="obsolete">محاذاة النص إلى أعلى الخلية.</translation>
     </message>
 </context>
 <context>
     <name>tips.AnimationSchemes</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>مخططات الحركة</translation>
+        <translation type="obsolete">مخططات الحركة</translation>
     </message>
     <message>
         <source>Bring up &apos;Slide Design - Animation Schemes&apos; task pane to apply animation effects to the current slide or the entire presentation.</source>
-        <translation>إظهار لوحة المهام &quot;تصميم الشرائح - أنظمة الحركة&quot; لتطبيق تأثيرات الحركة على الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
+        <translation type="obsolete">إظهار لوحة المهام &quot;تصميم الشرائح - أنظمة الحركة&quot; لتطبيق تأثيرات الحركة على الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
     </message>
 </context>
 <context>
     <name>tips.Arrange</name>
     <message>
         <source>Arrange</source>
-        <translation>تنظيم</translation>
+        <translation type="obsolete">تنظيم</translation>
     </message>
     <message>
         <source>Arrange objects on the slides by changing their order, position, and rotation.</source>
-        <translation>تنظيم الكائنات على الشرائح عن طريق تغيير ترتيبها وموضعها وتناوبها.</translation>
+        <translation type="obsolete">تنظيم الكائنات على الشرائح عن طريق تغيير ترتيبها وموضعها وتناوبها.</translation>
     </message>
 </context>
 <context>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation>تنظيم الكل</translation>
+        <translation type="obsolete">تنظيم الكل</translation>
     </message>
     <message>
         <source>Tile all opened documents side-by-side under the same program window.</source>
-        <translation>تجانب كافة المستندات المفتوحة جنبا إلى جنب تحت نافذة البرنامج نفسها.</translation>
+        <translation type="obsolete">تجانب كافة المستندات المفتوحة جنبا إلى جنب تحت نافذة البرنامج نفسها.</translation>
     </message>
 </context>
 <context>
     <name>tips.AutoVersion</name>
     <message>
         <source>Enable Auto Backup</source>
-        <translation>تمكين النسخ الاحتياطي التلقائي</translation>
+        <translation type="obsolete">تمكين النسخ الاحتياطي التلقائي</translation>
     </message>
     <message>
         <source>Enable auto backup for the current document, save backup file to File Safe each time the document is closed.</source>
-        <translation>تمكين النسخ الاحتياطي التلقائي للملف الحالي، حفظ النسخ الاحتياطية إلى ملف آمن في كل مرة ينغلق فيها المستند.</translation>
+        <translation type="obsolete">تمكين النسخ الاحتياطي التلقائي للملف الحالي، حفظ النسخ الاحتياطية إلى ملف آمن في كل مرة ينغلق فيها المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.Autobackup</name>
     <message>
         <source>A brief introduction to File Safe.</source>
-        <translation>مقدمة موجزة إلى أمن الملفات.</translation>
+        <translation type="obsolete">مقدمة موجزة إلى أمن الملفات.</translation>
     </message>
     <message>
         <source>File Safe</source>
-        <translation>أمن الملفات</translation>
+        <translation type="obsolete">أمن الملفات</translation>
     </message>
 </context>
 <context>
     <name>tips.Backdrop</name>
     <message>
         <source>Background</source>
-        <translation>خلفية</translation>
+        <translation type="obsolete">خلفية</translation>
     </message>
     <message>
         <source>Set the background style to the current slide or entire presentation.</source>
-        <translation>تعيين نمط الخلفية في الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
+        <translation type="obsolete">تعيين نمط الخلفية في الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
     </message>
 </context>
 <context>
     <name>tips.BackgroundMusic</name>
     <message>
         <source>Insert Background Music</source>
-        <translation>إدراج موسيقى الخلفية</translation>
+        <translation type="obsolete">إدراج موسيقى الخلفية</translation>
     </message>
     <message>
         <source>Insert an audio file into the presentation. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
-        <translation>إدراج ملف صوتي في العرض التقديمي. استعراض الشرائح يشغل الصوت تلقائيا، والذي ستتم إعادة تشغيله حتى نهاية عرض الشرائح.</translation>
+        <translation type="obsolete">إدراج ملف صوتي في العرض التقديمي. استعراض الشرائح يشغل الصوت تلقائيا، والذي ستتم إعادة تشغيله حتى نهاية عرض الشرائح.</translation>
     </message>
 </context>
 <context>
     <name>tips.Bold</name>
     <message>
         <source>Bold</source>
-        <translation>غامق</translation>
+        <translation type="obsolete">غامق</translation>
     </message>
     <message>
         <source>Make the selected text bold.</source>
-        <translation>جعل النص المحدد غامقا.</translation>
+        <translation type="obsolete">جعل النص المحدد غامقا.</translation>
     </message>
 </context>
 <context>
     <name>tips.BordersFill</name>
     <message>
         <source>Border</source>
-        <translation>جانب</translation>
+        <translation type="obsolete">جانب</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Set border style, color and width of the current slide.</source>
-        <translation>تعيين نمط ولون وعرض جوانب الشريحة الحالية.</translation>
+        <translation type="obsolete">تعيين نمط ولون وعرض جوانب الشريحة الحالية.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.BringForward</name>
     <message>
         <source>Bring Forward</source>
-        <translation>تقديم</translation>
+        <translation type="obsolete">تقديم</translation>
     </message>
     <message>
         <source>Bring forward the selected object, or place it in front of all other objects.</source>
-        <translation>تقديم الكائن المحدد، أو وضعه أمام كل الكائنات.</translation>
+        <translation type="obsolete">تقديم الكائن المحدد، أو وضعه أمام كل الكائنات.</translation>
     </message>
     <message>
         <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
-        <translation>تقديم الكائن المحدد، حتى لا تتم إعاقته من طرف الكائنات الأخرى.</translation>
+        <translation type="obsolete">تقديم الكائن المحدد، حتى لا تتم إعاقته من طرف الكائنات الأخرى.</translation>
     </message>
 </context>
 <context>
     <name>tips.Bullets</name>
     <message>
         <source>Bullets</source>
-        <translation>تعداد نقطي</translation>
+        <translation type="obsolete">تعداد نقطي</translation>
     </message>
     <message>
         <source>Click the arrow to choose different bullet styles.</source>
-        <translation>انقر فوق السهم للاختيار من بين أنماط التعداد النقطي المختلفة.</translation>
+        <translation type="obsolete">انقر فوق السهم للاختيار من بين أنماط التعداد النقطي المختلفة.</translation>
     </message>
     <message>
         <source>Start a bulleted list.
 
 Click the arrow to choose different bullet styles.</source>
-        <translation>بدء لائحة التعداد النقطي.
+        <translation type="obsolete">بدء لائحة التعداد النقطي.
 
 انقر فوق السهم للاختيار من بين أنماط التعداد النقطي المختلفة.</translation>
     </message>
@@ -11340,187 +13064,187 @@ Click the arrow to choose different bullet styles.</source>
     <name>tips.COMAddIns</name>
     <message>
         <source>Add or delete available COM Add-Ins.</source>
-        <translation>إضافة أو حذف الوظائف الإضافية COM المتوفرة.</translation>
+        <translation type="obsolete">إضافة أو حذف الوظائف الإضافية COM المتوفرة.</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>وظائف إضافية COM</translation>
+        <translation type="obsolete">وظائف إضافية COM</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_MoreControls</name>
     <message>
         <source>Click here to insert a control from the set of controls available on this computer.</source>
-        <translation>انقر هنا لإدراج عنصر تحكم من بين عناصر التحكم المتوفرة على هذا الحاسوب.</translation>
+        <translation type="obsolete">انقر هنا لإدراج عنصر تحكم من بين عناصر التحكم المتوفرة على هذا الحاسوب.</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation>مزيد من عناصر التحكم</translation>
+        <translation type="obsolete">مزيد من عناصر التحكم</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_Property</name>
     <message>
         <source>Controls Property</source>
-        <translation>خاصية التحكم</translation>
+        <translation type="obsolete">خاصية التحكم</translation>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
-        <translation>عرض أو تحرير خصائص أدوات التحكم المحددة.</translation>
+        <translation type="obsolete">عرض أو تحرير خصائص أدوات التحكم المحددة.</translation>
     </message>
 </context>
 <context>
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
-        <translation>تشغيل محرر Visual-Basic لتحرير التعليمات البرمجية لعناصر التحكم المحددة.</translation>
+        <translation type="obsolete">تشغيل محرر Visual-Basic لتحرير التعليمات البرمجية لعناصر التحكم المحددة.</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>عرض الكود</translation>
+        <translation type="obsolete">عرض الكود</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>تغيير الصورة</translation>
+        <translation type="obsolete">تغيير الصورة</translation>
     </message>
     <message>
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
-        <translation>تغيير بصورة أخرى، مع الحفاظ على حجم وتنسيق الصورة الحالية.</translation>
+        <translation type="obsolete">تغيير بصورة أخرى، مع الحفاظ على حجم وتنسيق الصورة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangeTextDir</name>
     <message>
         <source>Change the orientation of text to horizontal or vertical.</source>
-        <translation>تغيير اتجاه النص إلى أفقي أو عمودي.</translation>
+        <translation type="obsolete">تغيير اتجاه النص إلى أفقي أو عمودي.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>اتجاه الكتابة</translation>
+        <translation type="obsolete">اتجاه الكتابة</translation>
     </message>
 </context>
 <context>
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>تدقيق إملائي</translation>
+        <translation type="obsolete">تدقيق إملائي</translation>
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
-        <translation>التدقيق الإملائي للنص في المستند.</translation>
+        <translation type="obsolete">التدقيق الإملائي للنص في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.ChineseTranslation</name>
     <message>
         <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation>تحويل من الصينية المبسطة إلى الصينية التقليدية بالاستناد على الحروف أو الكلمات.</translation>
+        <translation type="obsolete">تحويل من الصينية المبسطة إلى الصينية التقليدية بالاستناد على الحروف أو الكلمات.</translation>
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
-        <translation>من الصينية المبسطة إلى التقليدية</translation>
+        <translation type="obsolete">من الصينية المبسطة إلى التقليدية</translation>
     </message>
 </context>
 <context>
     <name>tips.ClearTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation>مسح نمط الجدول</translation>
+        <translation type="obsolete">مسح نمط الجدول</translation>
     </message>
     <message>
         <source>Clear table style of selected cell range.</source>
-        <translation>مسح نمط الجدول في نطاق الخلايا المحددة.</translation>
+        <translation type="obsolete">مسح نمط الجدول في نطاق الخلايا المحددة.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseDevelopmentTools</name>
     <message>
         <source>Click here to hide Developer Tools.</source>
-        <translation>انقر هنا لإخفاء أدوات المطور.</translation>
+        <translation type="obsolete">انقر هنا لإخفاء أدوات المطور.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>إغلاق</translation>
+        <translation type="obsolete">إغلاق</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOtherWindow</name>
     <message>
         <source>Close Other Windows</source>
-        <translation>إغلاق النوافذ الأخرى</translation>
+        <translation type="obsolete">إغلاق النوافذ الأخرى</translation>
     </message>
     <message>
         <source>Close all other windows except the current one.</source>
-        <translation>إغلاق النوافذ الأخرى ما عدى النافذة الحالية.</translation>
+        <translation type="obsolete">إغلاق النوافذ الأخرى ما عدى النافذة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation>إغلاق النافذة</translation>
+        <translation type="obsolete">إغلاق النافذة</translation>
     </message>
     <message>
         <source>Close the current window.</source>
-        <translation>إغلاق النافذة الحالية.</translation>
+        <translation type="obsolete">إغلاق النافذة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.Color</name>
     <message>
         <source>Color</source>
-        <translation>لون</translation>
+        <translation type="obsolete">لون</translation>
     </message>
     <message>
         <source>Set the color or pure black and white print to the current presentation.</source>
-        <translation>تعيين اللون أو استعمال أبيض وأسود فقط، لطباعة العرض التقديمي الحالي.</translation>
+        <translation type="obsolete">تعيين اللون أو استعمال أبيض وأسود فقط، لطباعة العرض التقديمي الحالي.</translation>
     </message>
 </context>
 <context>
     <name>tips.ColorScheme</name>
     <message>
         <source>Bring up &apos;Slide Design - Color Schemes&apos; task pane. Change the color for the current slide, or the entire presentation.</source>
-        <translation>إظهار لوحة المهام &quot;تصميم الشرائح - أنظمة الألوان&quot; لتغيير لون الشريحة الحالية، أو العرض التقديمي بأكمله.</translation>
+        <translation type="obsolete">إظهار لوحة المهام &quot;تصميم الشرائح - أنظمة الألوان&quot; لتغيير لون الشريحة الحالية، أو العرض التقديمي بأكمله.</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>أنظمة الألوان</translation>
+        <translation type="obsolete">أنظمة الألوان</translation>
     </message>
 </context>
 <context>
     <name>tips.CompressPictures</name>
     <message>
         <source>Compress Picture</source>
-        <translation>ضغط الصور</translation>
+        <translation type="obsolete">ضغط الصور</translation>
     </message>
     <message>
         <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation>ضغط الصور المحددة أو كل الصور على مستوى المستند، لتقليص حجم الصورة.</translation>
+        <translation type="obsolete">ضغط الصور المحددة أو كل الصور على مستوى المستند، لتقليص حجم الصورة.</translation>
     </message>
 </context>
 <context>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
-        <translation>نسخ</translation>
+        <translation type="obsolete">نسخ</translation>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation>نسخ التحديد ووضعه في حافظة النظام.</translation>
+        <translation type="obsolete">نسخ التحديد ووضعه في حافظة النظام.</translation>
     </message>
 </context>
 <context>
     <name>tips.CustomAnimation</name>
     <message>
         <source>Custom Animation</source>
-        <translation>حركة مخصصة</translation>
+        <translation type="obsolete">حركة مخصصة</translation>
     </message>
     <message>
         <source>Open the Custom Animation task pane to apply animation effects to the text or object in the current slide.</source>
-        <translation>فتح لوحة مهام &quot;تحريك مخصص&quot;، لتطبيق تأثيرات الحركة على نص أو كائن في الشريحة الحالية.</translation>
+        <translation type="obsolete">فتح لوحة مهام &quot;تحريك مخصص&quot;، لتطبيق تأثيرات الحركة على نص أو كائن في الشريحة الحالية.</translation>
     </message>
 </context>
 <context>
@@ -11529,408 +13253,368 @@ Click the arrow to choose different bullet styles.</source>
         <source>Create or play a custom slide show.
 
 A custom slide show displays only the slides you select.</source>
-        <translation>إنشاء أو تشغيل استعراضات مخصصة للشرائح.
+        <translation type="obsolete">إنشاء أو تشغيل استعراضات مخصصة للشرائح.
 
 استعراضات مخصصة للشرائح تعرض الشرائح التي تختارها فقط.</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>استعراضات مخصصة للشرائح</translation>
+        <translation type="obsolete">استعراضات مخصصة للشرائح</translation>
     </message>
 </context>
 <context>
     <name>tips.Cut</name>
     <message>
         <source>Cut</source>
-        <translation>قص</translation>
+        <translation type="obsolete">قص</translation>
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation>قص التحديد ووضعه في حافظة النظام.</translation>
+        <translation type="obsolete">قص التحديد ووضعه في حافظة النظام.</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseFontSize</name>
     <message>
         <source>Decreas the font size.</source>
-        <translation>تخفيض حجم الخط.</translation>
+        <translation type="obsolete">تخفيض حجم الخط.</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>تخفيض حجم الخط</translation>
+        <translation type="obsolete">تخفيض حجم الخط</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseIndent</name>
     <message>
         <source>Decrease List Level</source>
-        <translation>تخفيض مستوى اللائحة</translation>
+        <translation type="obsolete">تخفيض مستوى اللائحة</translation>
     </message>
     <message>
         <source>Decrease the indent level.</source>
-        <translation>إنقاص المسافة البادئة.</translation>
+        <translation type="obsolete">إنقاص المسافة البادئة.</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseSpace</name>
     <message>
         <source>Decrease Spacing</source>
-        <translation>تخفيض التباعد</translation>
+        <translation type="obsolete">تخفيض التباعد</translation>
     </message>
     <message>
         <source>Decrease spacing between lines.</source>
-        <translation>تخفيض التباعد بين الأسطر.</translation>
+        <translation type="obsolete">تخفيض التباعد بين الأسطر.</translation>
     </message>
 </context>
 <context>
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation>حذف</translation>
+        <translation type="obsolete">حذف</translation>
     </message>
     <message>
         <source>Delete the selected row or column.</source>
-        <translation>حذف الصف أو العمود المحدد.</translation>
+        <translation type="obsolete">حذف الصف أو العمود المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation>حذف تعليق</translation>
+        <translation type="obsolete">حذف تعليق</translation>
     </message>
     <message>
         <source>Delete the comments.</source>
-        <translation>حذف التعليقات.</translation>
+        <translation type="obsolete">حذف التعليقات.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteMaster</name>
     <message>
         <source>Delete Master</source>
-        <translation>حذف النموذج</translation>
+        <translation type="obsolete">حذف النموذج</translation>
     </message>
     <message>
         <source>Delete the selected slide master.</source>
-        <translation>حذف النموذج المحدد.</translation>
+        <translation type="obsolete">حذف النموذج المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.DeleteMember</name>
     <message>
         <source>DeleteMember Content</source>
-        <translation>حذف الأعضاء المحددين</translation>
+        <translation type="obsolete">حذف الأعضاء المحددين</translation>
     </message>
     <message>
         <source>DeleteMember Title</source>
-        <translation>حذف عضو</translation>
+        <translation type="obsolete">حذف عضو</translation>
     </message>
 </context>
 <context>
     <name>tips.DetailedSettings_DrawingTools</name>
-    <message>
-        <source>DetailedSettings DrawingTools Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings DrawingTools Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.DetailedSettings_Home</name>
-    <message>
-        <source>DetailedSettings Home Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings Home Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.DetailedSettings_PictureTools</name>
-    <message>
-        <source>DetailedSettings PictureTools Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings PictureTools Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.DetailedSettings_WordArt</name>
-    <message>
-        <source>DetailedSettings WordArt Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings WordArt Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.DevelopmentTools</name>
     <message>
         <source>Developer Tools</source>
-        <translation>أدوات التطوير</translation>
+        <translation type="obsolete">أدوات التطوير</translation>
     </message>
     <message>
         <source>Open the Developer Tools tab to insert the Option Button, Check Box and more.</source>
-        <translation>فتح بطاقة أدوات التطوير لإدراج زر الاختيار، خانة اختيار وأكثر من ذلك.</translation>
+        <translation type="obsolete">فتح بطاقة أدوات التطوير لإدراج زر الاختيار، خانة اختيار وأكثر من ذلك.</translation>
     </message>
 </context>
 <context>
     <name>tips.Direction</name>
     <message>
         <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation>اختيار تأثير الاتجاه للشكل ثلاثي الأبعاد المحدد.</translation>
+        <translation type="obsolete">اختيار تأثير الاتجاه للشكل ثلاثي الأبعاد المحدد.</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>اتجاه</translation>
+        <translation type="obsolete">اتجاه</translation>
     </message>
 </context>
 <context>
     <name>tips.DistColumnSevenly</name>
     <message>
         <source>Distribute Columns</source>
-        <translation>توزيع الأعمدة</translation>
+        <translation type="obsolete">توزيع الأعمدة</translation>
     </message>
     <message>
         <source>Distribute the width of the selected columns equally between them.</source>
-        <translation>توزيع عرض الأعمدة المحددة بالتساوي.</translation>
+        <translation type="obsolete">توزيع عرض الأعمدة المحددة بالتساوي.</translation>
     </message>
 </context>
 <context>
     <name>tips.DistRowSevenly</name>
     <message>
         <source>Distribute Rows</source>
-        <translation>توزيع الصفوف</translation>
+        <translation type="obsolete">توزيع الصفوف</translation>
     </message>
     <message>
         <source>Distribute the height of the selected rows equally between them.</source>
-        <translation>توزيع ارتفاع الأعمدة المحددة بالتساوي.</translation>
+        <translation type="obsolete">توزيع ارتفاع الأعمدة المحددة بالتساوي.</translation>
     </message>
 </context>
 <context>
     <name>tips.Distributed</name>
     <message>
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
-        <translation>محاذاة الفقرة إلى هامشي اليسار واليمين عن طريق إضافة فراغات بين الحروف إن لزم الأمر.</translation>
+        <translation type="obsolete">محاذاة الفقرة إلى هامشي اليسار واليمين عن طريق إضافة فراغات بين الحروف إن لزم الأمر.</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>موزع</translation>
+        <translation type="obsolete">موزع</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawAlignLeft</name>
     <message>
         <source>Align</source>
-        <translation>محاذاة</translation>
+        <translation type="obsolete">محاذاة</translation>
     </message>
     <message>
         <source>Align the selected object left.</source>
-        <translation>محاذاة الكائن المحدد لليسار.</translation>
+        <translation type="obsolete">محاذاة الكائن المحدد لليسار.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawAlignTop</name>
     <message>
         <source>Align Text</source>
-        <translation>محاذاة النص</translation>
+        <translation type="obsolete">محاذاة النص</translation>
     </message>
     <message>
         <source>Click the arrow to select a different alignment.</source>
-        <translation>انقر فوق السهم لاختيار محاذاة أخرى.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار محاذاة أخرى.</translation>
     </message>
     <message>
         <source>Setting the alignment to the text.
 
 Click the arrow to select a different alignment.</source>
-        <translation>تعيين محاذاة النص
+        <translation type="obsolete">تعيين محاذاة النص
 
 انقر فوق السهم لاختيار محاذاة أخرى.</translation>
     </message>
 </context>
 <context>
     <name>tips.DrawingToolsDetailedSettings</name>
-    <message>
-        <source>DrawingToolsDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DrawingToolsDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.DuplicateSlide</name>
     <message>
         <source>Insert a duplicate of the current slide into the presentation.</source>
-        <translation>إدراج نسخة طبق الأصل للشريحة الحالية إلى العرض التقديمي.</translation>
+        <translation type="obsolete">إدراج نسخة طبق الأصل للشريحة الحالية إلى العرض التقديمي.</translation>
     </message>
     <message>
         <source>New copy of slide</source>
-        <translation>نسخة جديدة للشريحة</translation>
+        <translation type="obsolete">نسخة جديدة للشريحة</translation>
     </message>
 </context>
 <context>
     <name>tips.DynamicShape</name>
     <message>
         <source>Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts.</source>
-        <translation>إدراج أشكال جاهزة، مثل المستطيلات والدوائر وسهام والخطوط والمخططات الانسيابية والرموز ووسائل الشرح.</translation>
+        <translation type="obsolete">إدراج أشكال جاهزة، مثل المستطيلات والدوائر وسهام والخطوط والمخططات الانسيابية والرموز ووسائل الشرح.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>أشكال</translation>
+        <translation type="obsolete">أشكال</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.EditComment</name>
     <message>
         <source>Edit the comments.</source>
-        <translation>تحرير التعليقات.</translation>
+        <translation type="obsolete">تحرير التعليقات.</translation>
     </message>
     <message>
         <source>EditComment</source>
-        <translation>تحرير التعليق</translation>
+        <translation type="obsolete">تحرير التعليق</translation>
     </message>
 </context>
 <context>
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation>تحرير النقاط</translation>
+        <translation type="obsolete">تحرير النقاط</translation>
     </message>
     <message>
         <source>Edit the wrap points to change the shape.</source>
-        <translation>تحرير نقاط الالتفاف لتغيير الشكل.</translation>
+        <translation type="obsolete">تحرير نقاط الالتفاف لتغيير الشكل.</translation>
     </message>
 </context>
 <context>
     <name>tips.EditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation>تحرير نص WordArt</translation>
+        <translation type="obsolete">تحرير نص WordArt</translation>
     </message>
     <message>
         <source>Edit the text of the selected WordArt.</source>
-        <translation>تحرير نص الـ WordArt المحدد.</translation>
+        <translation type="obsolete">تحرير نص الـ WordArt المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.EquationEditor</name>
     <message>
         <source>Insert Equation</source>
-        <translation>إدراج معادلة</translation>
+        <translation type="obsolete">إدراج معادلة</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Use the Equation Editor to insert mathematical formulas.</source>
-        <translation>استعمل محرر المعادلات لإدراج معادلة رياضية.</translation>
+        <translation type="obsolete">استعمل محرر المعادلات لإدراج معادلة رياضية.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorBackupDir</name>
     <message>
         <source>Explore File Safe</source>
-        <translation>استعراض الملفات الآمنة</translation>
+        <translation type="obsolete">استعراض الملفات الآمنة</translation>
     </message>
     <message>
         <source>View backup files and open or recover the backup files for a certain document.</source>
-        <translation>عرض ملفات النسخ الاحتياطي وفتح أو استرداد ملفات النسخ الاحتياطي لمستند معين.</translation>
+        <translation type="obsolete">عرض ملفات النسخ الاحتياطي وفتح أو استرداد ملفات النسخ الاحتياطي لمستند معين.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExplorVersion</name>
     <message>
         <source>View Backup History</source>
-        <translation>عرض محفوظات النسخ الاحتياطي</translation>
+        <translation type="obsolete">عرض محفوظات النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>View the backup record history of the current document to open, delete or restore the files.</source>
-        <translation>عرض سجلات النسخ الاحتياطية للمستند الحالي، لفتح أو حذف أو استعادة الملفات.</translation>
+        <translation type="obsolete">عرض سجلات النسخ الاحتياطية للمستند الحالي، لفتح أو حذف أو استعادة الملفات.</translation>
     </message>
 </context>
 <context>
     <name>tips.ExportWeiboImageCmd</name>
     <message>
         <source>ExportWeiboImageCmd Content</source>
-        <translation>تصدير المستند على شكل صورة</translation>
+        <translation type="obsolete">تصدير المستند على شكل صورة</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd Title</source>
-        <translation>تصدير صورة weibo</translation>
+        <translation type="obsolete">تصدير صورة weibo</translation>
     </message>
 </context>
 <context>
     <name>tips.Find</name>
     <message>
         <source>Find</source>
-        <translation>بحث</translation>
+        <translation type="obsolete">بحث</translation>
     </message>
     <message>
         <source>Find text in the presentation.</source>
-        <translation>البحث عن نص في العرض التقديمي.</translation>
+        <translation type="obsolete">البحث عن نص في العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.FitTextTip</name>
     <message>
         <source>FitTextTip Content</source>
-        <translation>تكييف حجم النص</translation>
+        <translation type="obsolete">تكييف حجم النص</translation>
     </message>
     <message>
         <source>FitTextTip Title</source>
-        <translation>احتواء النص</translation>
+        <translation type="obsolete">احتواء النص</translation>
     </message>
 </context>
 <context>
     <name>tips.Flash</name>
     <message>
         <source>Insert Flash Animation</source>
-        <translation>إدراج صور متحركة فلاش</translation>
+        <translation type="obsolete">إدراج صور متحركة فلاش</translation>
     </message>
     <message>
         <source>Insert a flash animation into the presentation.</source>
-        <translation>إدراج صور متحركة فلاش إلى العرض التقديمي.</translation>
+        <translation type="obsolete">إدراج صور متحركة فلاش إلى العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.FontAlignMenu</name>
     <message>
         <source>Font Alignment</source>
-        <translation>محاذاة الخط</translation>
+        <translation type="obsolete">محاذاة الخط</translation>
     </message>
     <message>
         <source>Set the alignment between the fonts.</source>
-        <translation>تعيين المحاذاة بين خطوط الكتابة.</translation>
+        <translation type="obsolete">تعيين المحاذاة بين خطوط الكتابة.</translation>
     </message>
 </context>
 <context>
@@ -11939,91 +13623,91 @@ Click the arrow to select a different alignment.</source>
         <source>Change the text color.
 
 Click the arrow to choose a different text color.</source>
-        <translation>تغيير لون النص.
+        <translation type="obsolete">تغيير لون النص.
 
 انقر فوق السهم لاختيار لون مختلف للنص.</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
-        <translation>انقر فوق السهم لاختيار لون مختلف للنص.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار لون مختلف للنص.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>لون الكتابة</translation>
+        <translation type="obsolete">لون الكتابة</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.FontName</name>
     <message>
         <source>Change the font face.</source>
-        <translation>تغيير نوع الخط.</translation>
+        <translation type="obsolete">تغيير نوع الخط.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>خط الكتابة</translation>
+        <translation type="obsolete">خط الكتابة</translation>
     </message>
 </context>
 <context>
     <name>tips.FontSize</name>
     <message>
         <source>Change the font size.</source>
-        <translation>تغيير حجم الخط.</translation>
+        <translation type="obsolete">تغيير حجم الخط.</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>حجم الكتابة</translation>
+        <translation type="obsolete">حجم الكتابة</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignCenter</name>
     <message>
         <source>Center</source>
-        <translation>توسيط</translation>
+        <translation type="obsolete">توسيط</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation>توسيط النص.</translation>
+        <translation type="obsolete">توسيط النص.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation>محاذاة النص إلى اليسار</translation>
+        <translation type="obsolete">محاذاة النص إلى اليسار</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation>محاذاة النص إلى اليسار.</translation>
+        <translation type="obsolete">محاذاة النص إلى اليسار.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation>محاذاة النص إلى اليمين</translation>
+        <translation type="obsolete">محاذاة النص إلى اليمين</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation>محاذاة النص إلى اليمين.</translation>
+        <translation type="obsolete">محاذاة النص إلى اليمين.</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatObject</name>
     <message>
         <source>Format Object</source>
-        <translation>تنسيق كائن</translation>
+        <translation type="obsolete">تنسيق كائن</translation>
     </message>
     <message>
         <source>Show the Format Object dialog box.</source>
-        <translation>عرض مربع الحوار &quot;تنسيق كائن&quot;.</translation>
+        <translation type="obsolete">عرض مربع الحوار &quot;تنسيق كائن&quot;.</translation>
     </message>
 </context>
 <context>
@@ -12032,34 +13716,34 @@ Click the arrow to choose a different text color.</source>
         <source>Copy formatting from one place to apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation>نسخ التنسيق من مكان لتطبيقه على مكان آخر.
+        <translation type="obsolete">نسخ التنسيق من مكان لتطبيقه على مكان آخر.
 
 انقر نقرا مزدوجا فوق هذا الزر لتطبيق نفس التنسيق إلى أماكن متعددة في المستند.</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>نسخ التنسيق</translation>
+        <translation type="obsolete">نسخ التنسيق</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.Gallery</name>
     <message>
         <source>Kingsoft Gallery</source>
-        <translation>معرض Kingsoft</translation>
+        <translation type="obsolete">معرض Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 Kingsoft Gallery Online Sources require internet connection. My Gallery can be used without internet after logging in.</source>
-        <translation>معرض Kingsoft يوفر جميع أنواع مصادر الصور لتتمكن من استخدامها وجمعها وتحريرها وإدارتها.
+        <translation type="obsolete">معرض Kingsoft يوفر جميع أنواع مصادر الصور لتتمكن من استخدامها وجمعها وتحريرها وإدارتها.
 
 مصادر معرض Kingsoft على شبكة الإنترنت تتطلب اتصال بالإنترنت. مكتبتى الخاصة يمكن استخدامها من دون الإنترنت بعد تسجيل الدخول.</translation>
     </message>
@@ -12068,713 +13752,697 @@ Kingsoft Gallery Online Sources require internet connection. My Gallery can be u
     <name>tips.GridGuides</name>
     <message>
         <source>Gridlines</source>
-        <translation>خطوط الشبكة</translation>
+        <translation type="obsolete">خطوط الشبكة</translation>
     </message>
     <message>
         <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation>تشغيل/إيقاف خطوط الشبكة التي تمكنك من محاذاة الكائنات في المستند.</translation>
+        <translation type="obsolete">تشغيل/إيقاف خطوط الشبكة التي تمكنك من محاذاة الكائنات في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.Group</name>
     <message>
         <source>Group</source>
-        <translation>تجميع</translation>
+        <translation type="obsolete">تجميع</translation>
     </message>
     <message>
         <source>Group objects together so that they can be treated as a single object.</source>
-        <translation>تجميع الكائنات معا حتى يمكنك التعامل معها ككائن واحد.</translation>
+        <translation type="obsolete">تجميع الكائنات معا حتى يمكنك التعامل معها ككائن واحد.</translation>
     </message>
 </context>
 <context>
     <name>tips.HeaderFooter</name>
     <message>
         <source>Edit the Header or Footer of the document.</source>
-        <translation>تحرير رأس وتذييل صفحات المستند.</translation>
+        <translation type="obsolete">تحرير رأس وتذييل صفحات المستند.</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>رأس وتذييل الصفحة</translation>
+        <translation type="obsolete">رأس وتذييل الصفحة</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.HomeDetailedSettings</name>
-    <message>
-        <source>HomeDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HomeDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Hyperlink</name>
     <message>
         <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-        <translation>إنشاء ارتباط إلى صفحة ويب أو صورة أو عنوان بريد إلكتروني.</translation>
+        <translation type="obsolete">إنشاء ارتباط إلى صفحة ويب أو صورة أو عنوان بريد إلكتروني.</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation>إدراج ارتباط تشعبي</translation>
+        <translation type="obsolete">إدراج ارتباط تشعبي</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseFontSize</name>
     <message>
         <source>Increase Font Size</source>
-        <translation>زيادة حجم الخط</translation>
+        <translation type="obsolete">زيادة حجم الخط</translation>
     </message>
     <message>
         <source>Increase the font size.</source>
-        <translation>زيادة حجم خط الكتابة.</translation>
+        <translation type="obsolete">زيادة حجم خط الكتابة.</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase List Level</source>
-        <translation>زيادة مستوى اللائحة</translation>
+        <translation type="obsolete">زيادة مستوى اللائحة</translation>
     </message>
     <message>
         <source>Increase the indent level.</source>
-        <translation>زيادة المسافة البادئة.</translation>
+        <translation type="obsolete">زيادة المسافة البادئة.</translation>
     </message>
 </context>
 <context>
     <name>tips.IncreaseSpace</name>
     <message>
         <source>Increase Spacing</source>
-        <translation>زيادة التباعد</translation>
+        <translation type="obsolete">زيادة التباعد</translation>
     </message>
     <message>
         <source>Increase spacing between lines.</source>
-        <translation>زيادة التباعد بين الأسطر.</translation>
+        <translation type="obsolete">زيادة التباعد بين الأسطر.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertChart</name>
     <message>
         <source>Insert Chart</source>
-        <translation>إدراج مخطط</translation>
+        <translation type="obsolete">إدراج مخطط</translation>
     </message>
     <message>
         <source>Insert a chart to illustrate and compare data.
 
 Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation>إدراج مخطط لتوضيح ومقارنة البيانات.
+        <translation type="obsolete">إدراج مخطط لتوضيح ومقارنة البيانات.
 
 شريط، دائري، خط، مساحة، رادار هي بعض من الأنواع المتاحة.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertClipArt</name>
     <message>
         <source>Choose a Clip Art from the task pane and insert it into the document.</source>
-        <translation>اختيار قصاصة فنية من لوحة المهام وإدراجها في المستند.</translation>
+        <translation type="obsolete">اختيار قصاصة فنية من لوحة المهام وإدراجها في المستند.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>إدراج قصاصة فنية</translation>
+        <translation type="obsolete">إدراج قصاصة فنية</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnsLeft</name>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation>إدراج أعمدة إلى اليسار</translation>
+        <translation type="obsolete">إدراج أعمدة إلى اليسار</translation>
     </message>
     <message>
         <source>Insert a column to the left of the selected column.</source>
-        <translation>إدراج عمود جديد يسار العمود المحدد.</translation>
+        <translation type="obsolete">إدراج عمود جديد يسار العمود المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertColumnsRight</name>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation>إدراج أعمدة إلى اليمين</translation>
+        <translation type="obsolete">إدراج أعمدة إلى اليمين</translation>
     </message>
     <message>
         <source>Insert a column to the right of the selected column.</source>
-        <translation>إدراج عمود جديد يمين العمود المحدد.</translation>
+        <translation type="obsolete">إدراج عمود جديد يمين العمود المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date/Time</source>
-        <translation>تاريخ/وقت</translation>
+        <translation type="obsolete">تاريخ/وقت</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
-        <translation>إدراج التاريخ أو الوقت الحالي إلى العرض التقديمي.</translation>
+        <translation type="obsolete">إدراج التاريخ أو الوقت الحالي إلى العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert File Object</source>
-        <translation>إدراج كائن ملف</translation>
+        <translation type="obsolete">إدراج كائن ملف</translation>
     </message>
     <message>
         <source>Insert the selected file into document.</source>
-        <translation>إدراج ملف محدد إلى المستند.</translation>
+        <translation type="obsolete">إدراج ملف محدد إلى المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMedia</name>
     <message>
         <source>Insert the music, video, animation and other media files into presentation, enhanced expression for presentation.</source>
-        <translation>إدراج الموسيقى، والفيديو، والرسوم المتحركة وغيرها من ملفات الوسائط إلى المستند، لتعزيز العرض التقديمي.</translation>
+        <translation type="obsolete">إدراج الموسيقى، والفيديو، والرسوم المتحركة وغيرها من ملفات الوسائط إلى المستند، لتعزيز العرض التقديمي.</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation>وسائط</translation>
+        <translation type="obsolete">وسائط</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertObject</name>
     <message>
         <source>Insert Object</source>
-        <translation>إدراج كائن</translation>
+        <translation type="obsolete">إدراج كائن</translation>
     </message>
     <message>
         <source>Insert an embedded object.</source>
-        <translation>إدراج كائن مضمن.</translation>
+        <translation type="obsolete">إدراج كائن مضمن.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertOrgChart</name>
     <message>
         <source>InsertOrgChart Content</source>
-        <translation>إنشاء مخطط هيكلي في الشريحة الحالية</translation>
+        <translation type="obsolete">إنشاء مخطط هيكلي في الشريحة الحالية</translation>
     </message>
     <message>
         <source>InsertOrgChart Title</source>
-        <translation>إدراج مخطط هيكلي</translation>
+        <translation type="obsolete">إدراج مخطط هيكلي</translation>
     </message>
     <message>
         <source>LinkText</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة</translation>
     </message>
     <message>
         <source>LinkUrl</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture from File</source>
-        <translation>إدراج صورة من ملف</translation>
+        <translation type="obsolete">إدراج صورة من ملف</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
-        <translation>إدراج صورة من ملف.</translation>
+        <translation type="obsolete">إدراج صورة من ملف.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowsAbove</name>
     <message>
         <source>Add a new row directly above the selected row.</source>
-        <translation>إضافة صف جديد مباشرة فوق الصف المحدد.</translation>
+        <translation type="obsolete">إضافة صف جديد مباشرة فوق الصف المحدد.</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation>إدراج صفوف في الأعلى</translation>
+        <translation type="obsolete">إدراج صفوف في الأعلى</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowsBelow</name>
     <message>
         <source>Insert Rows Below</source>
-        <translation>إدراج صفوف في الأسفل</translation>
+        <translation type="obsolete">إدراج صفوف في الأسفل</translation>
     </message>
     <message>
         <source>Insert a new row directly below the selected row.</source>
-        <translation>إضافة صف جديد مباشرة تحت الصف المحدد.</translation>
+        <translation type="obsolete">إضافة صف جديد مباشرة تحت الصف المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation>إدراج الرموز التي لا يمكن إيجادها على لوحة المفاتيح.</translation>
+        <translation type="obsolete">إدراج الرموز التي لا يمكن إيجادها على لوحة المفاتيح.</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>رمز</translation>
+        <translation type="obsolete">رمز</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertTable</name>
     <message>
         <source>Insert or draw a table into the current slide.</source>
-        <translation>إدراج أو رسم جدول في الشريحة الحالية.</translation>
+        <translation type="obsolete">إدراج أو رسم جدول في الشريحة الحالية.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation>جدول</translation>
+        <translation type="obsolete">جدول</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation>إدراج نص زخرفي إلى المستند.</translation>
+        <translation type="obsolete">إدراج نص زخرفي إلى المستند.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArt</translation>
+        <translation type="obsolete">WordArt</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.Italic</name>
     <message>
         <source>Italic</source>
-        <translation>مائل</translation>
+        <translation type="obsolete">مائل</translation>
     </message>
     <message>
         <source>Italicize the selected text.</source>
-        <translation>إمالة النص المحدد.</translation>
+        <translation type="obsolete">إمالة النص المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.Justify</name>
     <message>
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
-        <translation>محاذاة النص إلى هامشي اليسار واليمين عن طريق إضافة فراغات بين الحروف إن لزم الأمر.</translation>
+        <translation type="obsolete">محاذاة النص إلى هامشي اليسار واليمين عن طريق إضافة فراغات بين الحروف إن لزم الأمر.</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>ضبط</translation>
+        <translation type="obsolete">ضبط</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>KOSCloudFeedbackTip Content</source>
-        <translation>يمكنكم مساعدتنا على تحسين منتجاتنا</translation>
+        <translation type="obsolete">يمكنكم مساعدتنا على تحسين منتجاتنا</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip Title</source>
-        <translation>تعليقات المستخدمين من سحابة KOS</translation>
+        <translation type="obsolete">تعليقات المستخدمين من سحابة KOS</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudInformationTip</name>
     <message>
         <source>KOSCloudInformationTip Content</source>
-        <translation>كيفية استخدام التطبيق</translation>
+        <translation type="obsolete">كيفية استخدام التطبيق</translation>
     </message>
     <message>
         <source>KOSCloudInformationTip Title</source>
-        <translation>معلومات سحابة KOS</translation>
+        <translation type="obsolete">معلومات سحابة KOS</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCreatecloudLinkTip</name>
-    <message>
-        <source>KOSCreatecloudLinkTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSCreatecloudLinkTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceLoginFailTip</name>
     <message>
         <source>UserName Or password not match</source>
-        <translation>اسم المستخدم أو كلمة المرور غير مطابقة</translation>
+        <translation type="obsolete">اسم المستخدم أو كلمة المرور غير مطابقة</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespacePsaawordTip</name>
     <message>
         <source>password is wrong</source>
-        <translation>كلمة المرور خاطئة</translation>
+        <translation type="obsolete">كلمة المرور خاطئة</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceRegPsaawordTip</name>
     <message>
         <source>password not match</source>
-        <translation>كلمة المرور غير مطابقة</translation>
+        <translation type="obsolete">كلمة المرور غير مطابقة</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOpenCloudFileTip</name>
     <message>
         <source>KOSOpenCloudFileTip Content</source>
-        <translation>يمكنك فتح ملفات مخزنة على الإنترنت. حين تكون في مقهى إنترنت، يمكنك استعمال هاتفك المحمول بكل سهولة</translation>
+        <translation type="obsolete">يمكنك فتح ملفات مخزنة على الإنترنت. حين تكون في مقهى إنترنت، يمكنك استعمال هاتفك المحمول بكل سهولة</translation>
     </message>
     <message>
         <source>KOSOpenCloudFileTip Title</source>
-        <translation>فتح ملف من سحابة KOS</translation>
+        <translation type="obsolete">فتح ملف من سحابة KOS</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSSaveFileTocloudTip</name>
     <message>
         <source>KOSSaveFileTocloudTip Content</source>
-        <translation>تخزين الملف على الإنترنت. الملف لن يتم فقدانه ويمكنك الدخول إليه من عدة أجهزة</translation>
+        <translation type="obsolete">تخزين الملف على الإنترنت. الملف لن يتم فقدانه ويمكنك الدخول إليه من عدة أجهزة</translation>
     </message>
     <message>
         <source>KOSSaveFileTocloudTip Title</source>
-        <translation>حفظ الملف إلى سحابة KOS</translation>
+        <translation type="obsolete">حفظ الملف إلى سحابة KOS</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTextBtnTip</name>
     <message>
         <source>KOSUserLoginCloudTextBtnTip Content</source>
-        <translation>عند تسجيل الدخول، يمكنك استعمال مستندات على الإنترنت، وملفات آمنة، وقوالب عبر الإنترنت وغيرها من الخدمات السحابية الحرة</translation>
+        <translation type="obsolete">عند تسجيل الدخول، يمكنك استعمال مستندات على الإنترنت، وملفات آمنة، وقوالب عبر الإنترنت وغيرها من الخدمات السحابية الحرة</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTextBtnTip Title</source>
-        <translation>لم تقم بتسجيل الدخول</translation>
+        <translation type="obsolete">لم تقم بتسجيل الدخول</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLoginCloudTip</name>
     <message>
         <source>KOSUserLoginCloudTip Content</source>
-        <translation>تسجيل الدخول إلى حساب WPS. إنشاء أو تسجيل الدخول إلى الحساب، يمكنك من حفظ المستند إلى الإنترنت، ويمكن أيضا تحرير المستند  على أجهزة الكمبيوتر الأخرى أو الهواتف النقالة</translation>
+        <translation type="obsolete">تسجيل الدخول إلى حساب WPS. إنشاء أو تسجيل الدخول إلى الحساب، يمكنك من حفظ المستند إلى الإنترنت، ويمكن أيضا تحرير المستند  على أجهزة الكمبيوتر الأخرى أو الهواتف النقالة</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTip Title</source>
-        <translation>لم تقم بتسجيل الدخول</translation>
+        <translation type="obsolete">لم تقم بتسجيل الدخول</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLogoutCloudTip</name>
     <message>
         <source>KOSUserLogoutCloudTip Content</source>
-        <translation>تم تسجيل دخولك لحساب WPS. يمكنك عرض صفحتك الشخصية أو  تسجيل الخروج</translation>
+        <translation type="obsolete">تم تسجيل دخولك لحساب WPS. يمكنك عرض صفحتك الشخصية أو  تسجيل الخروج</translation>
     </message>
     <message>
         <source>KOSUserLogoutCloudTip Title</source>
-        <translation>تسجيل الدخول</translation>
+        <translation type="obsolete">تسجيل الدخول</translation>
     </message>
 </context>
 <context>
     <name>tips.Lighting</name>
     <message>
         <source>Lighting Angle</source>
-        <translation>زاوية الإضاءة</translation>
+        <translation type="obsolete">زاوية الإضاءة</translation>
     </message>
     <message>
         <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation>تحديد اتجاه الإضاءة لشكل 3D المختار، وكذا قوة الإضاءة، بما في ذلك السطوع، الإضاءة الطبيعية والخافتة.</translation>
+        <translation type="obsolete">تحديد اتجاه الإضاءة لشكل 3D المختار، وكذا قوة الإضاءة، بما في ذلك السطوع، الإضاءة الطبيعية والخافتة.</translation>
     </message>
 </context>
 <context>
     <name>tips.LineBreak</name>
     <message>
         <source>Change the line break format.</source>
-        <translation>تغيير تنسيق فاصل الأسطر.</translation>
+        <translation type="obsolete">تغيير تنسيق فاصل الأسطر.</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation>فاصل الأسطر</translation>
+        <translation type="obsolete">فاصل الأسطر</translation>
     </message>
 </context>
 <context>
     <name>tips.LineSpacing</name>
     <message>
         <source>Line Spacing</source>
-        <translation>تباعد الأسطر</translation>
+        <translation type="obsolete">تباعد الأسطر</translation>
     </message>
     <message>
         <source>Specify the line spacing to use.</source>
-        <translation>تحديد تباعد الأسطر.</translation>
+        <translation type="obsolete">تحديد تباعد الأسطر.</translation>
     </message>
 </context>
 <context>
     <name>tips.MarkVersion</name>
     <message>
         <source>Manual Backup</source>
-        <translation>نسخ احتياطي يدوي</translation>
+        <translation type="obsolete">نسخ احتياطي يدوي</translation>
     </message>
     <message>
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
-        <translation>بدون غلق الملف، يمكنك إنشاء نسخ احتياطي للملف الحالي للملف الآمن، وكذا إضافة ملاحظات للملف الاحتياطي.</translation>
+        <translation type="obsolete">بدون غلق الملف، يمكنك إنشاء نسخ احتياطي للملف الحالي للملف الآمن، وكذا إضافة ملاحظات للملف الاحتياطي.</translation>
     </message>
 </context>
 <context>
     <name>tips.Markup</name>
     <message>
         <source>Revision Markup</source>
-        <translation>علامة المراجعة</translation>
+        <translation type="obsolete">علامة المراجعة</translation>
     </message>
     <message>
         <source>Show or hide revision markups in the document.</source>
-        <translation>عرض أو إخفاء علامات المراجعة في هذا المستند.</translation>
+        <translation type="obsolete">عرض أو إخفاء علامات المراجعة في هذا المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.MasterLayout</name>
     <message>
         <source>Master Layout</source>
-        <translation>تخطيط النموذج</translation>
+        <translation type="obsolete">تخطيط النموذج</translation>
     </message>
     <message>
         <source>Set the placeholder elements contained in the slide master.</source>
-        <translation>تعيين عناصر نائبة في نموذج الشريحة.</translation>
+        <translation type="obsolete">تعيين عناصر نائبة في نموذج الشريحة.</translation>
     </message>
 </context>
 <context>
     <name>tips.Media</name>
     <message>
         <source>Insert a movie into the presentation.</source>
-        <translation>إدراج فيلم في العرض التقديمي.</translation>
+        <translation type="obsolete">إدراج فيلم في العرض التقديمي.</translation>
     </message>
     <message>
         <source>Movie from File</source>
-        <translation>فيلم من ملف</translation>
+        <translation type="obsolete">فيلم من ملف</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeCells</name>
     <message>
         <source>Merge Cells</source>
-        <translation>دمج الخلايا</translation>
+        <translation type="obsolete">دمج الخلايا</translation>
     </message>
     <message>
         <source>Merge the selected cells into one cell.</source>
-        <translation>دمج الخلايا المحددة في خلية واحدة.</translation>
+        <translation type="obsolete">دمج الخلايا المحددة في خلية واحدة.</translation>
     </message>
 </context>
 <context>
     <name>tips.NewComment</name>
     <message>
         <source>Create a new comment.</source>
-        <translation>إنشاء تعليق جديد.</translation>
+        <translation type="obsolete">إنشاء تعليق جديد.</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>تعليق جديد</translation>
+        <translation type="obsolete">تعليق جديد</translation>
     </message>
 </context>
 <context>
     <name>tips.NewSlide</name>
     <message>
         <source>Add a slide to the presentation.</source>
-        <translation>إدراج شريحة إلى العرض التقديمي.</translation>
+        <translation type="obsolete">إدراج شريحة إلى العرض التقديمي.</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation>شريحة جديدة</translation>
+        <translation type="obsolete">شريحة جديدة</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.NewSlide2</name>
     <message>
         <source>Click here to select &apos;New Slide Copy&apos;.</source>
-        <translation>انقر هنا لاختيار &quot;نسخة جديدة للشريحة&quot;.</translation>
+        <translation type="obsolete">انقر هنا لاختيار &quot;نسخة جديدة للشريحة&quot;.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>خيارات أخرى</translation>
+        <translation type="obsolete">خيارات أخرى</translation>
     </message>
 </context>
 <context>
     <name>tips.NewSlideMaster</name>
     <message>
         <source>Insert a new slide master.</source>
-        <translation>إدراج نموذج شريحة جديد.</translation>
+        <translation type="obsolete">إدراج نموذج شريحة جديد.</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation>نموذج شريحة جديد</translation>
+        <translation type="obsolete">نموذج شريحة جديد</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.NewTitleMaster</name>
     <message>
         <source>Insert a slide master with a new title style.</source>
-        <translation>إدراج نموذج شريحة جديد مع نمط جديد لشريحة العنوان.</translation>
+        <translation type="obsolete">إدراج نموذج شريحة جديد مع نمط جديد لشريحة العنوان.</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>نموذج عنوان جديد</translation>
+        <translation type="obsolete">نموذج عنوان جديد</translation>
     </message>
 </context>
 <context>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation>نافذة جديدة</translation>
+        <translation type="obsolete">نافذة جديدة</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation>فتح نافذة جديدة تحتوي عرض للمستند الجديد.</translation>
+        <translation type="obsolete">فتح نافذة جديدة تحتوي عرض للمستند الجديد.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextComment</name>
     <message>
         <source>Next Comment</source>
-        <translation>التعليق التالي</translation>
+        <translation type="obsolete">التعليق التالي</translation>
     </message>
     <message>
         <source>Next comment.</source>
-        <translation>التعليق التالي.</translation>
+        <translation type="obsolete">التعليق التالي.</translation>
     </message>
 </context>
 <context>
     <name>tips.Normal</name>
     <message>
         <source>Normal View</source>
-        <translation>عرض عادي</translation>
+        <translation type="obsolete">عرض عادي</translation>
     </message>
     <message>
         <source>View the presentation in normal view.</source>
-        <translation>عرض العرض التقديمي عرضا عاديا.</translation>
+        <translation type="obsolete">عرض العرض التقديمي عرضا عاديا.</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowDown</name>
     <message>
         <source>Move the shadow of the selected object down.</source>
-        <translation>تحريك ظل الكائن المحدد إلى الأسفل.</translation>
+        <translation type="obsolete">تحريك ظل الكائن المحدد إلى الأسفل.</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>دفع الظل إلى الأسفل</translation>
+        <translation type="obsolete">دفع الظل إلى الأسفل</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowLeft</name>
     <message>
         <source>Move the shadow of the selected object to the left.</source>
-        <translation>تحريك ظل الكائن المحدد إلى اليسار.</translation>
+        <translation type="obsolete">تحريك ظل الكائن المحدد إلى اليسار.</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>دفع الظل إلى اليسار</translation>
+        <translation type="obsolete">دفع الظل إلى اليسار</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowRight</name>
     <message>
         <source>Move the shadow of the selected object to the right.</source>
-        <translation>تحريك ظل الكائن المحدد إلى اليمين.</translation>
+        <translation type="obsolete">تحريك ظل الكائن المحدد إلى اليمين.</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>دفع الظل إلى اليمين</translation>
+        <translation type="obsolete">دفع الظل إلى اليمين</translation>
     </message>
 </context>
 <context>
     <name>tips.NudgeShadowUp</name>
     <message>
         <source>Move the shadow of the selected object up.</source>
-        <translation>تحريك ظل الكائن المحدد إلى الأعلى.</translation>
+        <translation type="obsolete">تحريك ظل الكائن المحدد إلى الأعلى.</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>دفع الظل إلى الأعلى</translation>
+        <translation type="obsolete">دفع الظل إلى الأعلى</translation>
     </message>
 </context>
 <context>
     <name>tips.Numbering</name>
     <message>
         <source>Click the arrow to choose different numbering formats.</source>
-        <translation>انقر فوق السهم لاختيار مختلف تنسيقات الترقيم.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار مختلف تنسيقات الترقيم.</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>ترقيم</translation>
+        <translation type="obsolete">ترقيم</translation>
     </message>
     <message>
         <source>Start a numbered list.
 
 Click the arrow to choose different numbering formats.</source>
-        <translation>بدء لائحة مرقمة.
+        <translation type="obsolete">بدء لائحة مرقمة.
 
 انقر فوق السهم لاختيار مختلف تنسيقات الترقيم.</translation>
     </message>
@@ -12783,381 +14451,365 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.ObjectSelect</name>
     <message>
         <source>Selection Pane</source>
-        <translation>لوحة التحديد</translation>
+        <translation type="obsolete">لوحة التحديد</translation>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation>عرض لوحة التحديد لتمكينك من إيجاد كائن بكل سهولة أو تعيين ترتيبه وهل هو مرئي أم لا.</translation>
+        <translation type="obsolete">عرض لوحة التحديد لتمكينك من إيجاد كائن بكل سهولة أو تعيين ترتيبه وهل هو مرئي أم لا.</translation>
     </message>
 </context>
 <context>
     <name>tips.OrgChartLayout</name>
     <message>
         <source>OrgChartLayout Content</source>
-        <translation>تغيير أعضاء مختارين من تخطيط السلطة</translation>
+        <translation type="obsolete">تغيير أعضاء مختارين من تخطيط السلطة</translation>
     </message>
     <message>
         <source>OrgChartLayout Title</source>
-        <translation>تخطيط OrgChart</translation>
+        <translation type="obsolete">تخطيط OrgChart</translation>
     </message>
 </context>
 <context>
     <name>tips.Package</name>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation>نسخ ملف العرض التقديمي وكل الوسائط المرتبطة به، مثل الفيديو والصوت إلى مجلد محدد، حتى تستطيع تشغيله في جهاز حاسوب آخر.</translation>
+        <translation type="obsolete">نسخ ملف العرض التقديمي وكل الوسائط المرتبطة به، مثل الفيديو والصوت إلى مجلد محدد، حتى تستطيع تشغيله في جهاز حاسوب آخر.</translation>
     </message>
     <message>
         <source>Package the presentation file.</source>
-        <translation>تجميع ملف العرض التقديمي.</translation>
+        <translation type="obsolete">تجميع ملف العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation>إعداد الصفحة</translation>
+        <translation type="obsolete">إعداد الصفحة</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation>عرض مربع الحوار &quot;إعداد الصفحة&quot;.</translation>
+        <translation type="obsolete">عرض مربع الحوار &quot;إعداد الصفحة&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.Paragraph1</name>
     <message>
         <source>Alignment</source>
-        <translation>محاذاة</translation>
+        <translation type="obsolete">محاذاة</translation>
     </message>
     <message>
         <source>Click the arrow to choose a different alignment.</source>
-        <translation>انقر فوق السهم لاختيار محاذاة أخرى.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار محاذاة أخرى.</translation>
     </message>
 </context>
 <context>
     <name>tips.Paragraph2</name>
     <message>
         <source>Click the arrow to select &apos;increase the spacing&apos;, &apos;decrease the spacing&apos; and &apos;wrap&apos; option.</source>
-        <translation>انقر فوق السهم لاختيار &quot;زيادة التباعد&quot; أو &quot;تخفيض التباعد&quot; أو &quot;تضمين&quot;.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار &quot;زيادة التباعد&quot; أو &quot;تخفيض التباعد&quot; أو &quot;تضمين&quot;.</translation>
     </message>
     <message>
         <source>Other options</source>
-        <translation>خيارات أخرى</translation>
+        <translation type="obsolete">خيارات أخرى</translation>
     </message>
 </context>
 <context>
     <name>tips.Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation>انقر هنا للمزيد من الاختيارات كلصق القيم فقط والتنسيق.</translation>
+        <translation type="obsolete">انقر هنا للمزيد من الاختيارات كلصق القيم فقط والتنسيق.</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>لصق</translation>
+        <translation type="obsolete">لصق</translation>
     </message>
     <message>
         <source>Paste the contents of the Clipboard.</source>
-        <translation>لصق محتوى الحافظة.</translation>
+        <translation type="obsolete">لصق محتوى الحافظة.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation>تعديل الصورة</translation>
+        <translation type="obsolete">تعديل الصورة</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation>زيادة أو تخفيض تباين وسطوع الصورة المحددة.</translation>
+        <translation type="obsolete">زيادة أو تخفيض تباين وسطوع الصورة المحددة.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureColor</name>
     <message>
         <source>Recolor</source>
-        <translation>إعادة تلوين</translation>
+        <translation type="obsolete">إعادة تلوين</translation>
     </message>
     <message>
         <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
-        <translation>إعادة تلوين الصورة بالأبيض والأسود، أو تمييهها، أو إضافة الشفافية.</translation>
+        <translation type="obsolete">إعادة تلوين الصورة بالأبيض والأسود، أو تمييهها، أو إضافة الشفافية.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureCrop</name>
     <message>
         <source>Crop</source>
-        <translation>تقطيع</translation>
+        <translation type="obsolete">تقطيع</translation>
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation>تقطيع الصورة لإزالة أي جزء غير مرغوب فيه.</translation>
+        <translation type="obsolete">تقطيع الصورة لإزالة أي جزء غير مرغوب فيه.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureFill</name>
     <message>
         <source>Click the arrow to select different fill modes.</source>
-        <translation>انقر فوق السهم لاختيار مختلف أوضاع التعبئة.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار مختلف أوضاع التعبئة.</translation>
     </message>
     <message>
         <source>Fill the selected object with a color, gradient, pattern and picture.
 
 Click the arrow to select different fill modes.</source>
-        <translation>تعبئة الكائن المحدد بلون محدد، أو بتدرج لوني، أو بزخرفة أو بصورة.
+        <translation type="obsolete">تعبئة الكائن المحدد بلون محدد، أو بتدرج لوني، أو بزخرفة أو بصورة.
 
 انقر فوق السهم لاختيار مختلف أوضاع التعبئة.</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>تعبئة الصورة</translation>
+        <translation type="obsolete">تعبئة الصورة</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureLine</name>
     <message>
         <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation>انقر فوق السهم لتحديد الإعدادات المفصلة للكائن المحدد.</translation>
+        <translation type="obsolete">انقر فوق السهم لتحديد الإعدادات المفصلة للكائن المحدد.</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>إطار الصورة</translation>
+        <translation type="obsolete">إطار الصورة</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
 
 Click the arrow to select detailed settings for the selected object.</source>
-        <translation>تعيين التفاصيل المتعلقة بإطار الكائن المحدد كالصورة واللون والعرض والنمط.
+        <translation type="obsolete">تعيين التفاصيل المتعلقة بإطار الكائن المحدد كالصورة واللون والعرض والنمط.
 
 انقر فوق السهم لتحديد الإعدادات المفصلة للكائن المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureSetTransparentColor</name>
-    <message>
-        <source>PictureSetTransparentColor Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PictureSetTransparentColor Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.PictureSize</name>
     <message>
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation>تغيير الحجم ودرجة الدوران ودرجة التكبير للشكل المحدد.</translation>
+        <translation type="obsolete">تغيير الحجم ودرجة الدوران ودرجة التكبير للشكل المحدد.</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>حجم الصورة</translation>
+        <translation type="obsolete">حجم الصورة</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureToolsDetailedSettings</name>
-    <message>
-        <source>PictureToolsDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PictureToolsDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.PreComment</name>
     <message>
         <source>Pre Comment</source>
-        <translation>التعليق السابق</translation>
+        <translation type="obsolete">التعليق السابق</translation>
     </message>
     <message>
         <source>Previous comment.</source>
-        <translation>التعليق السابق.</translation>
+        <translation type="obsolete">التعليق السابق.</translation>
     </message>
 </context>
 <context>
     <name>tips.PreserveMaster</name>
     <message>
         <source>Preserve Master</source>
-        <translation>حماية النموذج</translation>
+        <translation type="obsolete">حماية النموذج</translation>
     </message>
     <message>
         <source>Preserve the selected master slide. Even if it is unused it can still remain in the presentation.</source>
-        <translation>حماية نموذج الشريحة المحدد. حتى إن لم يستعمل، سيبقى موجودا في العرض التقديمي.</translation>
+        <translation type="obsolete">حماية نموذج الشريحة المحدد. حتى إن لم يستعمل، سيبقى موجودا في العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevClose</name>
     <message>
         <source>Close</source>
-        <translation>إغلاق</translation>
+        <translation type="obsolete">إغلاق</translation>
     </message>
     <message>
         <source>Close the print preview and return to the presentation editing mode.</source>
-        <translation>إغلاق معاينة الطباعة والعودة إلى وضع تحرير العرض التقديمي.</translation>
+        <translation type="obsolete">إغلاق معاينة الطباعة والعودة إلى وضع تحرير العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevFrameSlides</name>
     <message>
         <source>Add borders around the slide.</source>
-        <translation>إضافة جوانب حول الشريحة.</translation>
+        <translation type="obsolete">إضافة جوانب حول الشريحة.</translation>
     </message>
     <message>
         <source>Slide border</source>
-        <translation>جوانب الشريحة</translation>
+        <translation type="obsolete">جوانب الشريحة</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevLandscape</name>
     <message>
         <source>Landscape</source>
-        <translation>مناظر طبيعية</translation>
+        <translation type="obsolete">مناظر طبيعية</translation>
     </message>
     <message>
         <source>Set the page layout to landscape in the handouts, notes pages and outline print.</source>
-        <translation>تعيين تخطيط الصفحة على مناظر طبيعية في النشرات وصفحات الملاحظات وطباعة الإطار.</translation>
+        <translation type="obsolete">تعيين تخطيط الصفحة على مناظر طبيعية في النشرات وصفحات الملاحظات وطباعة الإطار.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevNextPage</name>
     <message>
         <source>Navigate to the next page in the presentation.</source>
-        <translation>التوجه إلى الصفحة التالية للعرض التقديمي.</translation>
+        <translation type="obsolete">التوجه إلى الصفحة التالية للعرض التقديمي.</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation>الصفحة التالية</translation>
+        <translation type="obsolete">الصفحة التالية</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevPortrait</name>
     <message>
         <source>Set the page layout to vertical in the handouts, notes pages and outline print.</source>
-        <translation>تعيين تخطيط الصفحة ليصير عموديا في النشرات وصفحات الملاحظات وطباعة الإطار.</translation>
+        <translation type="obsolete">تعيين تخطيط الصفحة ليصير عموديا في النشرات وصفحات الملاحظات وطباعة الإطار.</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>عمودي</translation>
+        <translation type="obsolete">عمودي</translation>
     </message>
 </context>
 <context>
     <name>tips.PrevPrintHiddenSlide</name>
     <message>
         <source>Display hidden slides in Print Preview.</source>
-        <translation>عرض الشرائح المخفية في معاينة الطباعة.</translation>
+        <translation type="obsolete">عرض الشرائح المخفية في معاينة الطباعة.</translation>
     </message>
     <message>
         <source>Print Hidden Slide</source>
-        <translation>طباعة الشرائح المخفية</translation>
+        <translation type="obsolete">طباعة الشرائح المخفية</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviewPage</name>
     <message>
         <source>Navigate to the previous page in the presentation.</source>
-        <translation>التوجه إلى الصفحة السابقة للعرض التقديمي.</translation>
+        <translation type="obsolete">التوجه إلى الصفحة السابقة للعرض التقديمي.</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation>الصفحة السابقة</translation>
+        <translation type="obsolete">الصفحة السابقة</translation>
     </message>
 </context>
 <context>
     <name>tips.Print</name>
     <message>
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation>تطبيق إعدادات مفصلة للطباعة، مثل الطابعة وحدود الطباعة وعدد نسخ الطباعة وعدد الصفحات في الورقة والتكبير.</translation>
+        <translation type="obsolete">تطبيق إعدادات مفصلة للطباعة، مثل الطابعة وحدود الطباعة وعدد نسخ الطباعة وعدد الصفحات في الورقة والتكبير.</translation>
     </message>
     <message>
         <source>Click here to choose to make detailed settings for printing, or to use the default print settings to print directly.</source>
-        <translation>انقر هنا لتعديل تفاصيل الطباعة، أو لاستخدام إعدادات الطباعة الافتراضية للطباعة المباشرة.</translation>
+        <translation type="obsolete">انقر هنا لتعديل تفاصيل الطباعة، أو لاستخدام إعدادات الطباعة الافتراضية للطباعة المباشرة.</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>طباعة</translation>
+        <translation type="obsolete">طباعة</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-        <translation>طباعة سريعة</translation>
+        <translation type="obsolete">طباعة سريعة</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation>إرسال المستند مباشرة إلى الطابعة الافتراضية بدون عمل تغييرات.</translation>
+        <translation type="obsolete">إرسال المستند مباشرة إلى الطابعة الافتراضية بدون عمل تغييرات.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation>معاينة وعمل تغييرات على الصفحات قبل الطباعة.</translation>
+        <translation type="obsolete">معاينة وعمل تغييرات على الصفحات قبل الطباعة.</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>معاينة الطباعة</translation>
+        <translation type="obsolete">معاينة الطباعة</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintingOrder</name>
     <message>
         <source>Printing Order</source>
-        <translation>ترتيب الطباعة</translation>
+        <translation type="obsolete">ترتيب الطباعة</translation>
     </message>
     <message>
         <source>Set the order of printed handouts vertically or horizontally.</source>
-        <translation>تحديد ترتيب طباعة النشرات عموديا أو أفقيا.</translation>
+        <translation type="obsolete">تحديد ترتيب طباعة النشرات عموديا أو أفقيا.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation>حافظة</translation>
+        <translation type="obsolete">حافظة</translation>
     </message>
     <message>
         <source>View all items copied to the clipboard.</source>
-        <translation>عرض كل العناصر المنسوخة إلى الحافظة.</translation>
+        <translation type="obsolete">عرض كل العناصر المنسوخة إلى الحافظة.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Font</name>
     <message>
         <source>Font</source>
-        <translation>خط الكتابة</translation>
+        <translation type="obsolete">خط الكتابة</translation>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-        <translation>عرض مربع الحوار &quot;خط الكتابة&quot;.</translation>
+        <translation type="obsolete">عرض مربع الحوار &quot;خط الكتابة&quot;.</translation>
     </message>
 </context>
 <context>
     <name>tips.RecentFillColor</name>
     <message>
         <source>Click the arrows to select different fill options.</source>
-        <translation>انقر فوق السهام لاختيار مختلف خيارات التعبئة.</translation>
+        <translation type="obsolete">انقر فوق السهام لاختيار مختلف خيارات التعبئة.</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>تعبئة</translation>
+        <translation type="obsolete">تعبئة</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Use colors, gradients, textures, and pictures to fill the selected table in the current presentation slide.
 
 Click the arrow to select different fill options.</source>
-        <translation>استعمال الألوان، والتدرجات اللونية، والزخرفات والصور لتعبئة الجدول المحدد في شريحة العرض التقديمي.
+        <translation type="obsolete">استعمال الألوان، والتدرجات اللونية، والزخرفات والصور لتعبئة الجدول المحدد في شريحة العرض التقديمي.
 
 انقر فوق السهم لاختيار مختلف خيارات التعبئة.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -13166,298 +14818,290 @@ Click the arrow to select different fill options.</source>
         <source>Launches a full-screen slide show in which you can rehearse your presentation.
 
 The amount of time you spend on each slide is recorded and you can save those timings to run the show automatically in the future.</source>
-        <translation>تشغيل الشرائح في وضع ملء الشاشة للتدرب على العرض التقديمي.
+        <translation type="obsolete">تشغيل الشرائح في وضع ملء الشاشة للتدرب على العرض التقديمي.
 
 مجموع الوقت الذي تقضيه في كل شريحة يتم تخزينه لتتمكن من حفظ هذه الأوفات وتشغيل العرض أوتوماتيكيا في المستقبل.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation>تدريب على الوقت</translation>
+        <translation type="obsolete">تدريب على الوقت</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.RenameMaster</name>
     <message>
         <source>Rename Master</source>
-        <translation>إعادة تسمية النموذج</translation>
+        <translation type="obsolete">إعادة تسمية النموذج</translation>
     </message>
     <message>
         <source>Rename the selected master slide.</source>
-        <translation>إعادة تسمية نموذج الشريحة المحدد.</translation>
+        <translation type="obsolete">إعادة تسمية نموذج الشريحة المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.Replace</name>
     <message>
         <source>Click here to replace the text or font in document.</source>
-        <translation>انقر هنا لاستبدال النص في المستند.</translation>
+        <translation type="obsolete">انقر هنا لاستبدال النص في المستند.</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>استبدال</translation>
+        <translation type="obsolete">استبدال</translation>
     </message>
     <message>
         <source>Replace text in the document.</source>
-        <translation>استبدال النص في المستند.</translation>
+        <translation type="obsolete">استبدال النص في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetLayout</name>
     <message>
         <source>ResetLayout Content</source>
-        <translation>العودة إلى التخطيط الافتراضي الأولي</translation>
+        <translation type="obsolete">العودة إلى التخطيط الافتراضي الأولي</translation>
     </message>
     <message>
         <source>ResetLayout Title</source>
-        <translation>إعادة تعيين التخطيط</translation>
+        <translation type="obsolete">إعادة تعيين التخطيط</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetPicture</name>
     <message>
         <source>Discard all the formatting changes you have made to this picture.</source>
-        <translation>التخلي عن كل التغييرات التي قمت بها في تنسيق الصورة.</translation>
+        <translation type="obsolete">التخلي عن كل التغييرات التي قمت بها في تنسيق الصورة.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>إعادة تعيين الصورة</translation>
+        <translation type="obsolete">إعادة تعيين الصورة</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetShape</name>
     <message>
         <source>ResetShape Content</source>
-        <translation>التخلي عن كل تغييرات تنسيق الشكل المختارة</translation>
+        <translation type="obsolete">التخلي عن كل تغييرات تنسيق الشكل المختارة</translation>
     </message>
     <message>
         <source>ResetShape Title</source>
-        <translation>إعادة تعيين الشكل</translation>
+        <translation type="obsolete">إعادة تعيين الشكل</translation>
     </message>
 </context>
 <context>
     <name>tips.Rotate</name>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>دوران</translation>
+        <translation type="obsolete">دوران</translation>
     </message>
     <message>
         <source>Rotate or flip the selected object.</source>
-        <translation>دوران و انعكاس الكائن المحدد.</translation>
+        <translation type="obsolete">دوران و انعكاس الكائن المحدد.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation>مسطرة</translation>
+        <translation type="obsolete">مسطرة</translation>
     </message>
     <message>
         <source>View the rulers, used to measure and line up objects in the document.</source>
-        <translation>عرض المساطر المستخدمة للقياس وتعديل مواضع الكائنات في المستند.</translation>
+        <translation type="obsolete">عرض المساطر المستخدمة للقياس وتعديل مواضع الكائنات في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.RunMacro</name>
     <message>
         <source>View Macros</source>
-        <translation>عرض وحدات الماكرو</translation>
+        <translation type="obsolete">عرض وحدات الماكرو</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation>عرض لائحة وحدات الماكرو، حيث يمكنك تشغيل أو إنشاء أو حذف وحدة ماكرو.</translation>
+        <translation type="obsolete">عرض لائحة وحدات الماكرو، حيث يمكنك تشغيل أو إنشاء أو حذف وحدة ماكرو.</translation>
     </message>
 </context>
 <context>
     <name>tips.SaveBackgroundPicture</name>
-    <message>
-        <source>SaveBackgroundPicture Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SaveBackgroundPicture Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.Security</name>
     <message>
         <source>Customize the macro security settings.</source>
-        <translation>تخصيص إعدادات حماية الماكرو.</translation>
+        <translation type="obsolete">تخصيص إعدادات حماية الماكرو.</translation>
     </message>
     <message>
         <source>Macro Security</source>
-        <translation>حماية الماكرو</translation>
+        <translation type="obsolete">حماية الماكرو</translation>
     </message>
 </context>
 <context>
     <name>tips.Select</name>
     <message>
         <source>Select</source>
-        <translation>تحديد</translation>
+        <translation type="obsolete">تحديد</translation>
     </message>
     <message>
         <source>Select text or objects in the document.</source>
-        <translation>تحديد نص أو كائنات في المستند.</translation>
+        <translation type="obsolete">تحديد نص أو كائنات في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.SelectAll</name>
     <message>
         <source>Select All</source>
-        <translation>تحديد الكل</translation>
+        <translation type="obsolete">تحديد الكل</translation>
     </message>
     <message>
         <source>Use &quot;Select All&quot; to select the slide, object, or text content in the presentation.</source>
-        <translation>استعمل &quot;تحديد الكل&quot; لتحديد محتوى الشريحة أو الكائن أو النص في العرض التقديمي.</translation>
+        <translation type="obsolete">استعمل &quot;تحديد الكل&quot; لتحديد محتوى الشريحة أو الكائن أو النص في العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.SendBackward</name>
     <message>
         <source>Send Backward</source>
-        <translation>تأخير</translation>
+        <translation type="obsolete">تأخير</translation>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
-        <translation>تأخير الكائن بدرجة واحدة عن بقية الكائنات.</translation>
+        <translation type="obsolete">تأخير الكائن بدرجة واحدة عن بقية الكائنات.</translation>
     </message>
     <message>
         <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation>تأخير الكائن بدرجة واحدة عن بقية الكائنات أو وضعه في مؤخرة كل الكائنات الأخرى.</translation>
+        <translation type="obsolete">تأخير الكائن بدرجة واحدة عن بقية الكائنات أو وضعه في مؤخرة كل الكائنات الأخرى.</translation>
     </message>
 </context>
 <context>
     <name>tips.SetUpShow</name>
     <message>
         <source>Bring up the Slide Show Settings dialog box, and set up the advanced options for the slide show, such as kiosk mode.</source>
-        <translation>إظهار صندوق حوار &quot;إعدادات استعراض الشريحة&quot; لتعيين الإعدادات المتقدمة لعرض الشرائح.</translation>
+        <translation type="obsolete">إظهار صندوق حوار &quot;إعدادات استعراض الشريحة&quot; لتعيين الإعدادات المتقدمة لعرض الشرائح.</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
-        <translation>إعدادات استعراض الشريحة</translation>
+        <translation type="obsolete">إعدادات استعراض الشريحة</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowButton</name>
     <message>
         <source>Set the shadow effects to the selected text.</source>
-        <translation>تعيين تأثيرات الظل للنص المحدد.</translation>
+        <translation type="obsolete">تعيين تأثيرات الظل للنص المحدد.</translation>
     </message>
     <message>
         <source>Text Shadow</source>
-        <translation>ظل النص</translation>
+        <translation type="obsolete">ظل النص</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowColor</name>
     <message>
         <source>Click the arrow to select different shadow colors.</source>
-        <translation>انقر فوق السهم لاختيار مختلف ألوان الظل.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار مختلف ألوان الظل.</translation>
     </message>
     <message>
         <source>Set the shadow color of the selected object.
 
 Click the arrow to select different shadow colors.</source>
-        <translation>تعيين لون الظل للكائن المحدد.
+        <translation type="obsolete">تعيين لون الظل للكائن المحدد.
 
 انقر فوق السهم لاختيار مختلف ألوان الظل.</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>لون الظل</translation>
+        <translation type="obsolete">لون الظل</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowOnOff</name>
     <message>
         <source>Shadow On/Off</source>
-        <translation>تشغيل/إيقاف الظل</translation>
+        <translation type="obsolete">تشغيل/إيقاف الظل</translation>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
-        <translation>تشغيل أو إيقاف الظل للكائن المحدد.</translation>
+        <translation type="obsolete">تشغيل أو إيقاف الظل للكائن المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowPalette</name>
     <message>
         <source>Add a visual effect to the selected object.</source>
-        <translation>إضافة تأثير بصري للكائن المحدد.</translation>
+        <translation type="obsolete">إضافة تأثير بصري للكائن المحدد.</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>تأثيرات الظل</translation>
+        <translation type="obsolete">تأثيرات الظل</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeEffects</name>
     <message>
         <source>Apply a visual effect to the selected shape, such as shadow glow, reflection, or 3-D rotation.</source>
-        <translation>تطبيق تأثير بصري للشكل المحدد، مثل لمعان الظل، الانعكاس، أو دوران ثلاثي الأبعاد.</translation>
+        <translation type="obsolete">تطبيق تأثير بصري للشكل المحدد، مثل لمعان الظل، الانعكاس، أو دوران ثلاثي الأبعاد.</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation>تأثيرات الشكل</translation>
+        <translation type="obsolete">تأثيرات الشكل</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeFill</name>
     <message>
         <source>Click the arrow to select from different ways to fill.</source>
-        <translation>انقر فوق السهم لاختيار مختلف طرق التعبئة.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار مختلف طرق التعبئة.</translation>
     </message>
     <message>
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
 
 Click the arrow to select from different ways to fill.</source>
-        <translation>تعبئة الشكل المحدد بلون واحد أو صورة أو زخرفة.
+        <translation type="obsolete">تعبئة الشكل المحدد بلون واحد أو صورة أو زخرفة.
 
 انقر فوق السهم لاختيار مختلف طرق التعبئة.</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>تعبئة الشكل</translation>
+        <translation type="obsolete">تعبئة الشكل</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeLine</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation>انقر فوق السهم لاختيار المزيد من أنماط الإطار.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار المزيد من أنماط الإطار.</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>إطار الشكل</translation>
+        <translation type="obsolete">إطار الشكل</translation>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation>تحديد اللون والعرض ونمط الخط لإطار الشكل المحدد.
+        <translation type="obsolete">تحديد اللون والعرض ونمط الخط لإطار الشكل المحدد.
 
 انقر فوق السهم لاختيار المزيد من أنماط الإطار.</translation>
     </message>
@@ -13466,213 +15110,213 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation>تعيين الحجم ودرجة الدوران ودرجة التكبير للشكل المحدد.</translation>
+        <translation type="obsolete">تعيين الحجم ودرجة الدوران ودرجة التكبير للشكل المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideGrid</name>
     <message>
         <source>Gridlines</source>
-        <translation>خطوط الشبكة</translation>
+        <translation type="obsolete">خطوط الشبكة</translation>
     </message>
     <message>
         <source>Turn on gridlines to which you can align objects in the document.</source>
-        <translation>تشغيل خطوط الشبكة التي تمكنك من محاذاة الكائنات في المستند.</translation>
+        <translation type="obsolete">تشغيل خطوط الشبكة التي تمكنك من محاذاة الكائنات في المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHideMark</name>
     <message>
         <source>Show / Hide Comments</source>
-        <translation>إظهار / إخفاء التعليقات</translation>
+        <translation type="obsolete">إظهار / إخفاء التعليقات</translation>
     </message>
     <message>
         <source>Show or hide the comments.</source>
-        <translation>إظهار أو إخفاء التعليقات.</translation>
+        <translation type="obsolete">إظهار أو إخفاء التعليقات.</translation>
     </message>
 </context>
 <context>
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation>تحويل المستند إلى الصينية المبسطة.</translation>
+        <translation type="obsolete">تحويل المستند إلى الصينية المبسطة.</translation>
     </message>
     <message>
         <source>Simplified</source>
-        <translation>مبسطة</translation>
+        <translation type="obsolete">مبسطة</translation>
     </message>
 </context>
 <context>
     <name>tips.SkipSlide</name>
     <message>
         <source>Hide Slide</source>
-        <translation>إخفاء الشريحة</translation>
+        <translation type="obsolete">إخفاء الشريحة</translation>
     </message>
     <message>
         <source>Hide the current slide from the presentation. It will not be shown during full-screen slide show.</source>
-        <translation>إخفاء الشريحة الحالية من العرض التقديمي. لن يتم عرض الشريحة خلال استعراض الشرائح في وضع ملء الشاشة.</translation>
+        <translation type="obsolete">إخفاء الشريحة الحالية من العرض التقديمي. لن يتم عرض الشريحة خلال استعراض الشرائح في وضع ملء الشاشة.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideDesign</name>
     <message>
         <source>Bring up the Slide Design - Design Templates task pane to apply templates to the current slide or the entire presentation.</source>
-        <translation>إظهار لوحة المهام &quot;تصميم الشرائح - قوالب التصميم&quot; لتطبيق قوالب على الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
+        <translation type="obsolete">إظهار لوحة المهام &quot;تصميم الشرائح - قوالب التصميم&quot; لتطبيق قوالب على الشريحة الحالية أو العرض التقديمي بأكمله.</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation>قوالب التصميم</translation>
+        <translation type="obsolete">قوالب التصميم</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideLayout</name>
     <message>
         <source>Bring up the Slide Layout task pane to apply various slide layouts to selected slides.</source>
-        <translation>عرض لوحة &quot;تخطيط الشريحة&quot; لتمكينك من تطبيق العديد من التخطيطات على الشرائح المحددة.</translation>
+        <translation type="obsolete">عرض لوحة &quot;تخطيط الشريحة&quot; لتمكينك من تطبيق العديد من التخطيطات على الشرائح المحددة.</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation>تخطيط الشريحة</translation>
+        <translation type="obsolete">تخطيط الشريحة</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideMaster</name>
     <message>
         <source>Open Slide Master view to change the design and layout of the master slides.</source>
-        <translation>فتح &quot;عرض نماذج الشريحة&quot; لتغيير التصميم والتخطيط في الشرائح النموذجية.</translation>
+        <translation type="obsolete">فتح &quot;عرض نماذج الشريحة&quot; لتغيير التصميم والتخطيط في الشرائح النموذجية.</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation>عرض نماذج الشريحة</translation>
+        <translation type="obsolete">عرض نماذج الشريحة</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideMasterClose</name>
     <message>
         <source>Close</source>
-        <translation>إغلاق</translation>
+        <translation type="obsolete">إغلاق</translation>
     </message>
     <message>
         <source>Close Slide Master View and return to the edit the slide show.</source>
-        <translation>إغلاق &quot;عرض نماذج الشريحة&quot; والعودة إلى وضع تحرير العرض التقديمي.</translation>
+        <translation type="obsolete">إغلاق &quot;عرض نماذج الشريحة&quot; والعودة إلى وضع تحرير العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideNumber</name>
     <message>
         <source>Insert Slide Number</source>
-        <translation>إدراج رقم الشريحة</translation>
+        <translation type="obsolete">إدراج رقم الشريحة</translation>
     </message>
     <message>
         <source>Insert the slide number. The slide number reflects the position of the slide within the presentation.</source>
-        <translation>إدراج رقم الشريحة. رقم الشريحة يعبر عن موضع الشريحة في العرض التقديمي.</translation>
+        <translation type="obsolete">إدراج رقم الشريحة. رقم الشريحة يعبر عن موضع الشريحة في العرض التقديمي.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideOrientation</name>
     <message>
         <source>Slide Orientation</source>
-        <translation>اتجاه الشريحة</translation>
+        <translation type="obsolete">اتجاه الشريحة</translation>
     </message>
     <message>
         <source>Switch the slide orientation between portrait and landscape.</source>
-        <translation>تبديل اتجاه الشريحة بين لوحة ومنظر طبيعي.</translation>
+        <translation type="obsolete">تبديل اتجاه الشريحة بين لوحة ومنظر طبيعي.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlidePreview</name>
     <message>
         <source>Preview Animations</source>
-        <translation>معاينة الحركات</translation>
+        <translation type="obsolete">معاينة الحركات</translation>
     </message>
     <message>
         <source>Preview the animations and slide transition you have created for this slide.</source>
-        <translation>معاينة الحركات وانتقال الشريحة المخصصة للشريحة الحالية.</translation>
+        <translation type="obsolete">معاينة الحركات وانتقال الشريحة المخصصة للشريحة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideShow</name>
     <message>
         <source>Slide Show from Beginning</source>
-        <translation>استعراض الشرائح من البداية</translation>
+        <translation type="obsolete">استعراض الشرائح من البداية</translation>
     </message>
     <message>
         <source>Start the slide show from the first slide.</source>
-        <translation>بدء استعراض الشرائح من الشريحة الأولى.</translation>
+        <translation type="obsolete">بدء استعراض الشرائح من الشريحة الأولى.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideShowFromCurrent</name>
     <message>
         <source>From Current Slide</source>
-        <translation>من الشريحة الحالية</translation>
+        <translation type="obsolete">من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Start the slide show from the current slide.</source>
-        <translation>بدء استعراض الشرائح من الشريحة الحالية.</translation>
+        <translation type="obsolete">بدء استعراض الشرائح من الشريحة الحالية.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideShowFromCurrent2</name>
     <message>
         <source>Click here to select &quot;Slide Show from Beginning&quot; or &quot;From Current Slide&quot;.</source>
-        <translation>انقر هنا لتحديد &quot;استعراض الشرائح من البداية&quot; أو &quot;من الشريحة الحالية&quot;.</translation>
+        <translation type="obsolete">انقر هنا لتحديد &quot;استعراض الشرائح من البداية&quot; أو &quot;من الشريحة الحالية&quot;.</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
-        <translation>بدء استعراض الشرائح</translation>
+        <translation type="obsolete">بدء استعراض الشرائح</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideSorter</name>
     <message>
         <source>Slide Sorter View</source>
-        <translation>عرض فارز الشرائح</translation>
+        <translation type="obsolete">عرض فارز الشرائح</translation>
     </message>
     <message>
         <source>View the presentation in Slide Sorter view to easily rearrange slides.</source>
-        <translation>عرض العرض التقديمي في فارز الشرائح لتسهيل عملية ترتيب الشرائح.</translation>
+        <translation type="obsolete">عرض العرض التقديمي في فارز الشرائح لتسهيل عملية ترتيب الشرائح.</translation>
     </message>
 </context>
 <context>
     <name>tips.SlideTransition</name>
     <message>
         <source>Bring up the Slide Transition task pane to apply transition effects to the selected slides or the entire presentation.</source>
-        <translation>إظهار لوحة المهام &quot;انتقال الشريحة&quot; لتطبيق تأثيرات الانتقال على الشرائح المحددة أو العرض التقديمي بأكمله.</translation>
+        <translation type="obsolete">إظهار لوحة المهام &quot;انتقال الشريحة&quot; لتطبيق تأثيرات الانتقال على الشرائح المحددة أو العرض التقديمي بأكمله.</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation>انتقال الشريحة</translation>
+        <translation type="obsolete">انتقال الشريحة</translation>
     </message>
 </context>
 <context>
     <name>tips.SmartChoice</name>
     <message>
         <source>SmartChoice Content</source>
-        <translation>حدد الهيكل التنظيمي للأعضاء للمستوى نفسه، وأعضاء من نفس الفرع، وجميع المساعدين</translation>
+        <translation type="obsolete">حدد الهيكل التنظيمي للأعضاء للمستوى نفسه، وأعضاء من نفس الفرع، وجميع المساعدين</translation>
     </message>
     <message>
         <source>SmartChoice Title</source>
-        <translation>اختيار ذكي</translation>
+        <translation type="obsolete">اختيار ذكي</translation>
     </message>
 </context>
 <context>
     <name>tips.Sound</name>
     <message>
         <source>Insert a sound clip or music into the slide.</source>
-        <translation>إدراج كليب صوتي أو موسيقى إلى الشريحة.</translation>
+        <translation type="obsolete">إدراج كليب صوتي أو موسيقى إلى الشريحة.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>اضغط F1 للحصول على المزيد من المساعدة.</translation>
+        <translation type="obsolete">اضغط F1 للحصول على المزيد من المساعدة.</translation>
     </message>
     <message>
         <source>Sound from File</source>
-        <translation>صوت من ملف</translation>
+        <translation type="obsolete">صوت من ملف</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/presentation</source>
-        <translation>http://help.kingsoftstore.com/presentation</translation>
+        <translation type="obsolete">http://help.kingsoftstore.com/presentation</translation>
     </message>
 </context>
 <context>
@@ -13681,35 +15325,35 @@ Click the arrow to choose more outline styles.</source>
         <source>Add a note to the current slide.
 
 When you want to make notes but do not wish to exit the slide show, right click on the screen and select &apos;speaker notes&apos; to make notes in the notes pane of the current slide.</source>
-        <translation>إضافة ملاحظة للشريحة الحالية.
+        <translation type="obsolete">إضافة ملاحظة للشريحة الحالية.
 
 حين تريد إدراج ملاحظات دون الخروج من استعراض الشريحة، انقر بالزر الأيمن للفأرة على الشاشة وحدد &quot;ملاحظات المحاضر&quot; لإدراج ملاحظات في لوحة الملاحظات للشريحة الحالية.</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation>ملاحظات المحاضر</translation>
+        <translation type="obsolete">ملاحظات المحاضر</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation>تقسيم الخلايا</translation>
+        <translation type="obsolete">تقسيم الخلايا</translation>
     </message>
     <message>
         <source>Split a cell vertically or horizontally.</source>
-        <translation>تقسيم خلية عموديا أو أفقيا.</translation>
+        <translation type="obsolete">تقسيم خلية عموديا أو أفقيا.</translation>
     </message>
 </context>
 <context>
     <name>tips.StopAutoVersion</name>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>إيقاف النسخ الاحتياطي</translation>
+        <translation type="obsolete">إيقاف النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Stop the auto backup of the current document.</source>
-        <translation>إيقاف النسخ الاحتياطي للمستند الحالي.</translation>
+        <translation type="obsolete">إيقاف النسخ الاحتياطي للمستند الحالي.</translation>
     </message>
 </context>
 <context>
@@ -13718,13 +15362,13 @@ When you want to make notes but do not wish to exit the slide show, right click 
         <source>Create small letters below the text baseline.
 
 Click the arrow to select superscript.</source>
-        <translation>إنشاء حروف صغيرة تحت مستوى الكتابة.
+        <translation type="obsolete">إنشاء حروف صغيرة تحت مستوى الكتابة.
 
 انقر فوق السهم لتحديد منخفض.</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation>منخفض</translation>
+        <translation type="obsolete">منخفض</translation>
     </message>
 </context>
 <context>
@@ -13733,481 +15377,465 @@ Click the arrow to select superscript.</source>
         <source>Create small letters above the line of text.
 
 Click the arrow to select subscript.</source>
-        <translation>إنشاء حروف صغيرة فوق مستوى الكتابة.
+        <translation type="obsolete">إنشاء حروف صغيرة فوق مستوى الكتابة.
 
 انقر فوق السهم لتحديد مرتفع.</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation>مرتفع</translation>
+        <translation type="obsolete">مرتفع</translation>
     </message>
 </context>
 <context>
     <name>tips.Superscript2</name>
     <message>
         <source>Click the arrow to select Superscript and Subscript.</source>
-        <translation>انقر فوق السهم لاختيار مرتفع أو منخفض.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار مرتفع أو منخفض.</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>خيارات أخرى</translation>
+        <translation type="obsolete">خيارات أخرى</translation>
     </message>
 </context>
 <context>
     <name>tips.SwitchWindow</name>
     <message>
         <source>Switch Windows</source>
-        <translation>تبديل النوافذ</translation>
+        <translation type="obsolete">تبديل النوافذ</translation>
     </message>
     <message>
         <source>Switch to a different currently open window.</source>
-        <translation>تبديل إلى نافذة مفتوحة أخرى.</translation>
+        <translation type="obsolete">تبديل إلى نافذة مفتوحة أخرى.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableCenter</name>
     <message>
         <source>Center</source>
-        <translation>توسيط</translation>
+        <translation type="obsolete">توسيط</translation>
     </message>
     <message>
         <source>Center text.</source>
-        <translation>توسيط النص.</translation>
+        <translation type="obsolete">توسيط النص.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableLeft</name>
     <message>
         <source>Align Text Left</source>
-        <translation>محاذاة النص إلى اليسار</translation>
+        <translation type="obsolete">محاذاة النص إلى اليسار</translation>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation>محاذاة النص إلى اليسار.</translation>
+        <translation type="obsolete">محاذاة النص إلى اليسار.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableRight</name>
     <message>
         <source>Align Text Right</source>
-        <translation>محاذاة النص إلى اليمين</translation>
+        <translation type="obsolete">محاذاة النص إلى اليمين</translation>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation>محاذاة النص إلى اليمين.</translation>
+        <translation type="obsolete">محاذاة النص إلى اليمين.</translation>
     </message>
 </context>
 <context>
     <name>tips.TableStyle</name>
     <message>
         <source>Bring up the &apos;Table Style&apos; task pane.</source>
-        <translation>إظهار لوحة المهام &quot;نمط الجدول&quot;.</translation>
+        <translation type="obsolete">إظهار لوحة المهام &quot;نمط الجدول&quot;.</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>نمط الجدول</translation>
+        <translation type="obsolete">نمط الجدول</translation>
     </message>
 </context>
 <context>
     <name>tips.TaskPane</name>
     <message>
         <source>Show or hide the task pane in the presentation.</source>
-        <translation>عرض أو إخفاء لوحة المهام في العرض التقديمي.</translation>
+        <translation type="obsolete">عرض أو إخفاء لوحة المهام في العرض التقديمي.</translation>
     </message>
     <message>
         <source>Task Pane</source>
-        <translation>لوحة المهام</translation>
+        <translation type="obsolete">لوحة المهام</translation>
     </message>
 </context>
 <context>
     <name>tips.TextBox</name>
     <message>
         <source>Draw Horizontal Text Box</source>
-        <translation>رسم مربع نص أفقي</translation>
+        <translation type="obsolete">رسم مربع نص أفقي</translation>
     </message>
     <message>
         <source>Insert a text box into the document.</source>
-        <translation>إدراج مربع نص إلى المستند.</translation>
+        <translation type="obsolete">إدراج مربع نص إلى المستند.</translation>
     </message>
 </context>
 <context>
     <name>tips.TextDirection</name>
     <message>
         <source>Change the orientation of text to be either horizontal or vertical.</source>
-        <translation>تغيير اتجاه النص إلى أفقي أو عمودي.</translation>
+        <translation type="obsolete">تغيير اتجاه النص إلى أفقي أو عمودي.</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>اتجاه الكتابة</translation>
+        <translation type="obsolete">اتجاه الكتابة</translation>
     </message>
 </context>
 <context>
     <name>tips.TextFontColor</name>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation>انقر فوق السهم لاختيار لون مختلف للنص.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار لون مختلف للنص.</translation>
     </message>
     <message>
         <source>Set the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation>تعيين لون النص.
+        <translation type="obsolete">تعيين لون النص.
 
 انقر فوق السهم لاختيار لون مختلف للنص.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>لون الكتابة</translation>
+        <translation type="obsolete">لون الكتابة</translation>
     </message>
 </context>
 <context>
     <name>tips.TextMargin</name>
-    <message>
-        <source>TextMargin Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextMargin Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.TraditionalChinese</name>
     <message>
         <source>Convert the document to Traditional Chinese.</source>
-        <translation>تحويل المستند إلى الصينية التقليدية.</translation>
+        <translation type="obsolete">تحويل المستند إلى الصينية التقليدية.</translation>
     </message>
     <message>
         <source>Traditional</source>
-        <translation>تقليدية</translation>
+        <translation type="obsolete">تقليدية</translation>
     </message>
 </context>
 <context>
     <name>tips.TransitionEffect</name>
     <message>
         <source>Bring up the Slide Transition task pane to apply transition effects to the selected slides or the entire presentation.</source>
-        <translation>إظهار لوحة المهام &quot;انتقال الشريحة&quot; لتطبيق تأثيرات الانتقال على الشرائح المحددة أو العرض التقديمي بأكمله.</translation>
+        <translation type="obsolete">إظهار لوحة المهام &quot;انتقال الشريحة&quot; لتطبيق تأثيرات الانتقال على الشرائح المحددة أو العرض التقديمي بأكمله.</translation>
     </message>
     <message>
         <source>Transition Effects</source>
-        <translation>تأثيرات الانتقال</translation>
+        <translation type="obsolete">تأثيرات الانتقال</translation>
     </message>
 </context>
 <context>
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
-        <translation>مسطر</translation>
+        <translation type="obsolete">مسطر</translation>
     </message>
     <message>
         <source>Underline the selected text.</source>
-        <translation>تسطير النص المحدد.</translation>
+        <translation type="obsolete">تسطير النص المحدد.</translation>
     </message>
 </context>
 <context>
     <name>tips.VisualBasicEditor</name>
     <message>
         <source>Launch Visual Basic Editor, and edit Macros.</source>
-        <translation>تشغيل محرر Visual-Basic لتحرير وحدات الماكرو.</translation>
+        <translation type="obsolete">تشغيل محرر Visual-Basic لتحرير وحدات الماكرو.</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>محرر Visual-Basic</translation>
+        <translation type="obsolete">محرر Visual-Basic</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtAlignment</name>
     <message>
         <source>Specify how individual lines of a multi-line WordArt should be aligned.</source>
-        <translation>تحديد كيفية محاذاة الأسطر الوحيدة في WordArt متعدد الأسطر.</translation>
+        <translation type="obsolete">تحديد كيفية محاذاة الأسطر الوحيدة في WordArt متعدد الأسطر.</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>محاذاة WordArt</translation>
+        <translation type="obsolete">محاذاة WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtCharacterSpacing</name>
     <message>
         <source>Change the spacing between the letters of the selected WordArt text.</source>
-        <translation>تغيير التباعد بين الحروف في نص WordArt محدد.</translation>
+        <translation type="obsolete">تغيير التباعد بين الحروف في نص WordArt محدد.</translation>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation>تباعد الحروف</translation>
+        <translation type="obsolete">تباعد الحروف</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtDetailedSettings</name>
-    <message>
-        <source>WordArtDetailedSettings Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArtDetailedSettings Title</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>tips.WordArtFill</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation>انقر فوق السهم لاختيار مختلف طرق التعبئة لـ WordArt.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار مختلف طرق التعبئة لـ WordArt.</translation>
     </message>
     <message>
         <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
 
 Click the arrow to fill the WordArt in different ways.</source>
-        <translation>تعبئة WordArt المحدد بلون واحد أو صورة أو زخرفة.
+        <translation type="obsolete">تعبئة WordArt المحدد بلون واحد أو صورة أو زخرفة.
 
 انقر فوق السهم لاختيار مختلف طرق التعبئة WordArt.</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>تعبئة WordArt</translation>
+        <translation type="obsolete">تعبئة WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtGallery</name>
     <message>
         <source>Change the style of the selected WordArt.</source>
-        <translation>تغيير نمط الـWordArt المحدد.</translation>
+        <translation type="obsolete">تغيير نمط الـWordArt المحدد.</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>معرض WordArt</translation>
+        <translation type="obsolete">معرض WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtLine</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation>انقر فوق السهم لاختيار المزيد من أنماط الإطار.</translation>
+        <translation type="obsolete">انقر فوق السهم لاختيار المزيد من أنماط الإطار.</translation>
     </message>
     <message>
         <source>Specify the color, width and line style for the outline of the selected WordArt.
 
 Click the arrow to choose more outline styles.</source>
-        <translation>تحديد اللون والعرض ونمط الخط لإطار WordArt المحدد.
+        <translation type="obsolete">تحديد اللون والعرض ونمط الخط لإطار WordArt المحدد.
 
 انقر فوق السهم لاختيار المزيد من أنماط الإطار.</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>إطار WordArt</translation>
+        <translation type="obsolete">إطار WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation>متساوية الارتفاع</translation>
+        <translation type="obsolete">متساوية الارتفاع</translation>
     </message>
     <message>
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
-        <translation>جعل كل الحروف لـ WordArt المحدد متساوية الارتفاع.</translation>
+        <translation type="obsolete">جعل كل الحروف لـ WordArt المحدد متساوية الارتفاع.</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>Change the shape style of the selected WordArt.</source>
-        <translation>تغيير نمط الشكل لـ WordArt المحدد.</translation>
+        <translation type="obsolete">تغيير نمط الشكل لـ WordArt المحدد.</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>شكل WordArt</translation>
+        <translation type="obsolete">شكل WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation>تعيين الحجم ودرجة الدوران ودرجة التكبير لـ WordArt المحدد.</translation>
+        <translation type="obsolete">تعيين الحجم ودرجة الدوران ودرجة التكبير لـ WordArt المحدد.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>حجم WordArt</translation>
+        <translation type="obsolete">حجم WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtVerticalText</name>
     <message>
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation>رسم النص عموديا حيث كل حرف يتواجد فوق الآخر.</translation>
+        <translation type="obsolete">رسم النص عموديا حيث كل حرف يتواجد فوق الآخر.</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>نص عمودي في WordArt</translation>
+        <translation type="obsolete">نص عمودي في WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WorkSpace_Backup</name>
     <message>
         <source>WorkSpace_Backup Content</source>
-        <translation>يمكنك تشغيل النسخ الاحتياطي التلقائي للمستند الحالي أو النسخ الاحتياطي اليدوي. في كل مرة يغلق الملف ، فإنه سيتم إنشاء ملف النسخ الاحتياطي</translation>
+        <translation type="obsolete">يمكنك تشغيل النسخ الاحتياطي التلقائي للمستند الحالي أو النسخ الاحتياطي اليدوي. في كل مرة يغلق الملف ، فإنه سيتم إنشاء ملف النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>WorkSpace_Backup Title</source>
-        <translation>نسخ احتياطي لمساحة العمل</translation>
+        <translation type="obsolete">نسخ احتياطي لمساحة العمل</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_1</name>
     <message>
         <source>Handouts (one slide per page)</source>
-        <translation>نشرات (شريحة واحدة في كل صفحة)</translation>
+        <translation type="obsolete">نشرات (شريحة واحدة في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (one slide per page).</source>
-        <translation>إعداد الطباعة للنشرات (شريحة في صفحة).</translation>
+        <translation type="obsolete">إعداد الطباعة للنشرات (شريحة في صفحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_1Notes</name>
     <message>
         <source>Notes (one slide per page)</source>
-        <translation>ملاحظات (شريحة واحدة في كل صفحة)</translation>
+        <translation type="obsolete">ملاحظات (شريحة واحدة في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Notes Pages&apos; (one slide per page, notes to the right of the slide).</source>
-        <translation>إعداد الطباعة لصفحات الملاحظات (شريحة في صفحة، الملاحظات على يمين الشريحة).</translation>
+        <translation type="obsolete">إعداد الطباعة لصفحات الملاحظات (شريحة في صفحة، الملاحظات على يمين الشريحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_2</name>
     <message>
         <source>Handouts (two slides per page)</source>
-        <translation>نشرات (شريحتان في كل صفحة)</translation>
+        <translation type="obsolete">نشرات (شريحتان في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (two slides per page).</source>
-        <translation>إعداد الطباعة للنشرات (شريحتان في صفحة).</translation>
+        <translation type="obsolete">إعداد الطباعة للنشرات (شريحتان في صفحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_3</name>
     <message>
         <source>Handouts(three slide per page)</source>
-        <translation>نشرات (3 شرائح في كل صفحة)</translation>
+        <translation type="obsolete">نشرات (3 شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (three slides per page).</source>
-        <translation>إعداد الطباعة للنشرات (ثلاث شرائح في صفحة).</translation>
+        <translation type="obsolete">إعداد الطباعة للنشرات (ثلاث شرائح في صفحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_3Notes</name>
     <message>
         <source>Notes(three slide per page)</source>
-        <translation>ملاحظات (ثلاث شرائح في كل صفحة)</translation>
+        <translation type="obsolete">ملاحظات (ثلاث شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Notes Pages&apos; (three slides per page, notes to the right of the slides).</source>
-        <translation>إعداد الطباعة لصفحات الملاحظات (ثلاث شرائح في صفحة، الملاحظات على يمين الشريحة).</translation>
+        <translation type="obsolete">إعداد الطباعة لصفحات الملاحظات (ثلاث شرائح في صفحة، الملاحظات على يمين الشريحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_4</name>
     <message>
         <source>Handouts(four slide per page)</source>
-        <translation>نشرات (أربع شرائح في كل صفحة)</translation>
+        <translation type="obsolete">نشرات (أربع شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (four slides per page).</source>
-        <translation>إعداد الطباعة للنشرات (أربع شرائح في صفحة).</translation>
+        <translation type="obsolete">إعداد الطباعة للنشرات (أربع شرائح في صفحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_6</name>
     <message>
         <source>Handouts(six slide per page)</source>
-        <translation>نشرات (ست شرائح في كل صفحة)</translation>
+        <translation type="obsolete">نشرات (ست شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (six slides per page).</source>
-        <translation>إعداد الطباعة للنشرات (ست شرائح في صفحة).</translation>
+        <translation type="obsolete">إعداد الطباعة للنشرات (ست شرائح في صفحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_9</name>
     <message>
         <source>Handouts(nine slide per page)</source>
-        <translation>نشرات (تسع شرائح في كل صفحة)</translation>
+        <translation type="obsolete">نشرات (تسع شرائح في كل صفحة)</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Handout&apos; (nine slides per page).</source>
-        <translation>إعداد الطباعة للنشرات (تسع شرائح في صفحة).</translation>
+        <translation type="obsolete">إعداد الطباعة للنشرات (تسع شرائح في صفحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_OutlineView</name>
     <message>
         <source>Outline view</source>
-        <translation>عرض الإطار</translation>
+        <translation type="obsolete">عرض الإطار</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Outline view&apos;. Slide content showed in print page by outline way.</source>
-        <translation>إعداد الطباعة لعرض الإطار. محتوى الشريحة سيعرض في صفحة الطباعة داخل إطار.</translation>
+        <translation type="obsolete">إعداد الطباعة لعرض الإطار. محتوى الشريحة سيعرض في صفحة الطباعة داخل إطار.</translation>
     </message>
 </context>
 <context>
     <name>tips.WpPrintWhat_Slides</name>
     <message>
         <source>Click here to select more print what, such as Slides, Handouts, Motes pages and Outline.</source>
-        <translation>انقر هنا لاختيار المزيد من اختيارات الطباعة، مثل الشرائح والنشرات وصفحات الملاحظات والإطار.</translation>
+        <translation type="obsolete">انقر هنا لاختيار المزيد من اختيارات الطباعة، مثل الشرائح والنشرات وصفحات الملاحظات والإطار.</translation>
     </message>
     <message>
         <source>Print Content</source>
-        <translation>محتوى الطباعة</translation>
+        <translation type="obsolete">محتوى الطباعة</translation>
     </message>
     <message>
         <source>Set up the print what as &apos;Slide&apos; (one slide per page).</source>
-        <translation>إعداد الطباعة للشرائح (شريحة في صفحة).</translation>
+        <translation type="obsolete">إعداد الطباعة للشرائح (شريحة في صفحة).</translation>
     </message>
 </context>
 <context>
     <name>tips.Zoom</name>
     <message>
         <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation>فتح صندوق الحوار &quot;تكبير&quot; لتحديد مستوى تكبير المستند.</translation>
+        <translation type="obsolete">فتح صندوق الحوار &quot;تكبير&quot; لتحديد مستوى تكبير المستند.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>تكبير</translation>
+        <translation type="obsolete">تكبير</translation>
     </message>
 </context>
 <context>
     <name>tips.ZoomCombo</name>
     <message>
         <source>Select the zoom size of the current presentation.</source>
-        <translation>تحديد حجم التكبير للعرض التقديمي الحالي.</translation>
+        <translation type="obsolete">تحديد حجم التكبير للعرض التقديمي الحالي.</translation>
     </message>
     <message>
         <source>Zoom Size</source>
-        <translation>حجم التكبير</translation>
+        <translation type="obsolete">حجم التكبير</translation>
     </message>
 </context>
 <context>
     <name>tips.ZoomFit</name>
     <message>
         <source>Fit to Window</source>
-        <translation>ملء النافذة</translation>
+        <translation type="obsolete">ملء النافذة</translation>
     </message>
     <message>
         <source>Zoom the presentation so that the slide fills the window.</source>
-        <translation>تكبير العرض التقديمي حتى تملأ الشريحة النافذة.</translation>
+        <translation type="obsolete">تكبير العرض التقديمي حتى تملأ الشريحة النافذة.</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Macros</name>
     <message>
         <source>View Macros</source>
-        <translation>عرض وحدات الماكرو</translation>
+        <translation type="obsolete">عرض وحدات الماكرو</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation>عرض لائحة وحدات الماكرو، حيث يمكنك تشغيل أو إنشاء أو حذف وحدة ماكرو.</translation>
+        <translation type="obsolete">عرض لائحة وحدات الماكرو، حيث يمكنك تشغيل أو إنشاء أو حذف وحدة ماكرو.</translation>
     </message>
 </context>
 <context>
@@ -14215,62 +15843,74 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>weibotool Content</source>
         <translatorcomment>Can convert the document image, share microblogging.</translatorcomment>
-        <translation>يمكنك تحويل المستند إلى صورة، أو نشره على مدونات صغيرة</translation>
+        <translation type="obsolete">يمكنك تحويل المستند إلى صورة، أو نشره على مدونات صغيرة</translation>
     </message>
     <message>
         <source>weibotool Title</source>
-        <translation>أدوات رسائل weibo</translation>
+        <translation type="obsolete">أدوات رسائل weibo</translation>
     </message>
 </context>
 <context>
     <name>workspacemenu</name>
     <message>
         <source>Auto Version</source>
-        <translation>إصدار تلقائي</translation>
+        <translation type="obsolete">إصدار تلقائي</translation>
+    </message>
+    <message>
+        <source>AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
-        <translation>استكشاف مسار النسخ الاحتياطي</translation>
+        <translation type="obsolete">استكشاف مسار النسخ الاحتياطي</translation>
     </message>
     <message>
         <source>Explor Version</source>
-        <translation>استكشاف الإصدار</translation>
+        <translation type="obsolete">استكشاف الإصدار</translation>
+    </message>
+    <message>
+        <source>Export as Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation>تغيير معلومات الدخول لـ KOS</translation>
+        <translation type="obsolete">تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
         <source>KOS Cloud feedback</source>
-        <translation>تعليقات المستخدمين من سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Create Cloud Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Open cloud file</source>
-        <translation>فتح ملف من سحابة KOS</translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">فتح ملف من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Save file to cloud</source>
-        <translation>حفظ الملف إلى سحابة KOS</translation>
+        <translation type="obsolete">حفظ الملف إلى سحابة KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS View UserInfo</source>
@@ -14278,31 +15918,79 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation>تسجيل الخروج من KOS</translation>
+        <translation type="obsolete">تسجيل الخروج من KOS</translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark Version</source>
-        <translation>علامة الإصدار</translation>
+        <translation type="obsolete">علامة الإصدار</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
-        <translation>إيقاف الإصدار التلقائي</translation>
+        <translation type="obsolete">إيقاف الإصدار التلقائي</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>exportweiboimage</source>
-        <translation>تصدير صورة weibo</translation>
+        <translation type="obsolete">تصدير صورة weibo</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>تسجيل الدخول</translation>
+        <translation type="obsolete">تسجيل الدخول</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation>فتح weibo</translation>
+        <translation type="obsolete">فتح weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation>مشاركة رسائل weibo</translation>
+        <translation type="obsolete">مشاركة رسائل weibo</translation>
     </message>
 </context>
 <context>
@@ -14335,6 +16023,10 @@ Click the arrow to choose more outline styles.</source>
         <translation>شريط القوائم</translation>
     </message>
     <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation>صورة</translation>
     </message>
@@ -14363,6 +16055,10 @@ Click the arrow to choose more outline styles.</source>
         <translation>قياسي</translation>
     </message>
     <message>
+        <source>Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tables and Borders</source>
         <translation>جداول وحدود</translation>
     </message>
@@ -14372,7 +16068,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation>مساحة العمل</translation>
+        <translation type="obsolete">مساحة العمل</translation>
     </message>
 </context>
 <context>
@@ -14383,26 +16079,54 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation>OrgChart</translation>
+        <translation type="obsolete">OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands</name>
     <message>
+        <source>ActiveX Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ActiveX Control Popup Menu</source>
-        <translation>قائمة منبثقة لعناصر تحكم ActiveX</translation>
+        <translation type="obsolete">قائمة منبثقة لعناصر تحكم ActiveX</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation>تحريك</translation>
+        <translation type="obsolete">تحريك</translation>
+    </message>
+    <message>
+        <source>Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Arrow Options Popup Menu</source>
-        <translation>قائمة منبثقة لخيارات السهم</translation>
+        <translation type="obsolete">قائمة منبثقة لخيارات السهم</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation>أشكال تلقائية ومواد</translation>
+        <translation type="obsolete">أشكال تلقائية ومواد</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -14421,24 +16145,28 @@ Click the arrow to choose more outline styles.</source>
         <translation>توسيط</translation>
     </message>
     <message>
+        <source>Change AutoShape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ChangeAutoShape</source>
-        <translation>تغيير الشكل التلقائي</translation>
+        <translation type="obsolete">تغيير الشكل التلقائي</translation>
     </message>
     <message>
         <source>Check Auto Backup</source>
-        <translation>تحقق من النسخ الاحتياطي التلقائي</translation>
+        <translation type="obsolete">تحقق من النسخ الاحتياطي التلقائي</translation>
     </message>
     <message>
         <source>Check Spelling</source>
         <translation>تدقيق إملائي</translation>
     </message>
     <message>
-        <source>Clip Art</source>
-        <translation>قصاصة فنية</translation>
+        <source>Click to turn on/off AutoBackup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ClipA</source>
-        <translation type="unfinished"></translation>
+        <source>Clip Art</source>
+        <translation>قصاصة فنية</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -14449,40 +16177,60 @@ Click the arrow to choose more outline styles.</source>
         <translation>لوحة الحافظة</translation>
     </message>
     <message>
-        <source>CloudLink</source>
+        <source>Color Schemes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Colorize</source>
-        <translation>تلوين</translation>
+        <translation type="obsolete">تلوين</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comment Popup Menu</source>
-        <translation>قائمة منبثقة للتعليقات</translation>
+        <translation type="obsolete">قائمة منبثقة للتعليقات</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
         <translation>ضغط الصور</translation>
     </message>
     <message>
+        <source>Connector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Connector Popup Menu</source>
-        <translation>قائمة منبثقة للروابط</translation>
+        <translation type="obsolete">قائمة منبثقة للروابط</translation>
     </message>
     <message>
         <source>Copy</source>
         <translation>نسخ</translation>
     </message>
     <message>
+        <source>Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Curve Point Popup Menu</source>
-        <translation>قائمة منبثقة للنقطة المنحنية</translation>
+        <translation type="obsolete">قائمة منبثقة للنقطة المنحنية</translation>
     </message>
     <message>
         <source>Curve Popup Menu</source>
-        <translation>قائمة منبثقة للانحناءات</translation>
+        <translation type="obsolete">قائمة منبثقة للانحناءات</translation>
+    </message>
+    <message>
+        <source>Curve Segment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve Segment Popup Menu</source>
-        <translation>قائمة منبثقة للقطع المنحنية</translation>
+        <translation type="obsolete">قائمة منبثقة للقطع المنحنية</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -14502,15 +16250,23 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation>التعاون في المستند</translation>
+        <translation type="obsolete">التعاون في المستند</translation>
     </message>
     <message>
         <source>Draw Figure Popup Menu</source>
-        <translation>قائمة منبثقة لرسم الأشكال</translation>
+        <translation type="obsolete">قائمة منبثقة لرسم الأشكال</translation>
+    </message>
+    <message>
+        <source>Draw Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>DynamicShape</source>
-        <translation>شكل ديناميكي</translation>
+        <translation type="obsolete">شكل ديناميكي</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -14521,8 +16277,12 @@ Click the arrow to choose more outline styles.</source>
         <translation>تأثيرات</translation>
     </message>
     <message>
+        <source>Eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Eraser Popup Menu</source>
-        <translation>قائمة منبثقة للممحاة</translation>
+        <translation type="obsolete">قائمة منبثقة للممحاة</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -14530,7 +16290,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>تعليقات</translation>
+        <translation type="obsolete">تعليقات</translation>
     </message>
     <message>
         <source>File</source>
@@ -14551,8 +16311,13 @@ Slide</source>
 الحالية</translation>
     </message>
     <message>
+        <source>From Current 
+Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>From Current Slide</source>
-        <translation>من الشريحة الحالية</translation>
+        <translation type="obsolete">من الشريحة الحالية</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -14560,11 +16325,11 @@ Slide</source>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>محرر مستندات غوغل</translation>
+        <translation type="obsolete">محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>GoogleDocs</source>
-        <translation>محرر مستندات غوغل</translation>
+        <translation type="obsolete">محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -14583,8 +16348,12 @@ Slide</source>
         <translation>زيادة المسافة البادئة</translation>
     </message>
     <message>
+        <source>Ink Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ink Color Popup Menu</source>
-        <translation>قائمة منبثقة لألوان الحبر</translation>
+        <translation type="obsolete">قائمة منبثقة لألوان الحبر</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -14600,7 +16369,7 @@ Slide</source>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation>قالب على الإنترنت لـ Kingsoft</translation>
+        <translation type="obsolete">قالب على الإنترنت لـ Kingsoft</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -14608,31 +16377,47 @@ Slide</source>
     </message>
     <message>
         <source>Left</source>
-        <translation>يسار</translation>
+        <translation type="obsolete">يسار</translation>
     </message>
     <message>
         <source>Macros</source>
         <translation>وحدات الماكرو</translation>
     </message>
     <message>
+        <source>Master Miniature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Master Miniature Popup Menu</source>
-        <translation>قائمة منبثقة للأشكال المصغرة للنموذج</translation>
+        <translation type="obsolete">قائمة منبثقة للأشكال المصغرة للنموذج</translation>
     </message>
     <message>
         <source>Materials</source>
         <translation>مواد</translation>
     </message>
     <message>
+        <source>Motion Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motion Path Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Motion Path Point Popup Menu</source>
-        <translation>قائمة منبثقة لحركة مسار نقطة</translation>
+        <translation type="obsolete">قائمة منبثقة لحركة مسار نقطة</translation>
     </message>
     <message>
         <source>Motion Path Popup Menu</source>
-        <translation>قائمة منبثقة لحركة المسار</translation>
+        <translation type="obsolete">قائمة منبثقة لحركة المسار</translation>
+    </message>
+    <message>
+        <source>Motion Path Segment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Motion Path Segment Popup Menu</source>
-        <translation>قائمة منبثقة لحركة مسار قطعة</translation>
+        <translation type="obsolete">قائمة منبثقة لحركة مسار قطعة</translation>
     </message>
     <message>
         <source>MsgAtMe</source>
@@ -14645,6 +16430,14 @@ Slide</source>
     <message>
         <source>New Blank Presentation</source>
         <translation>عرض تقديمي فارغ</translation>
+    </message>
+    <message>
+        <source>New From Default Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -14660,11 +16453,11 @@ Slide</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>مستند جديد من قوالب الإنترنت</translation>
+        <translation type="obsolete">مستند جديد من قوالب الإنترنت</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>مستند جديد من قوالب أخرى</translation>
+        <translation type="obsolete">مستند جديد من قوالب أخرى</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -14672,43 +16465,67 @@ Slide</source>
     </message>
     <message>
         <source>None Slide Miniature Popup Menu</source>
-        <translation>قائمة منبثقة لعدم عرض الشرائح المصغرة</translation>
+        <translation type="obsolete">قائمة منبثقة لعدم عرض الشرائح المصغرة</translation>
+    </message>
+    <message>
+        <source>Not Slide Miniature</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Note View Visible</source>
-        <translation>إظهار أو إخفاء لوحة الملاحظات</translation>
+        <translation type="obsolete">إظهار أو إخفاء لوحة الملاحظات</translation>
     </message>
     <message>
         <source>Notes</source>
         <translation>ملاحظات</translation>
     </message>
     <message>
+        <source>Notes Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Notes Pane Popup Menu</source>
-        <translation>قائمة منبثقة للوحة الملاحظات</translation>
+        <translation type="obsolete">قائمة منبثقة للوحة الملاحظات</translation>
+    </message>
+    <message>
+        <source>OLE Object</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OLE Object Popup Menu</source>
-        <translation>قائمة منبثقة لكائنات OLE</translation>
+        <translation type="obsolete">قائمة منبثقة لكائنات OLE</translation>
     </message>
     <message>
         <source>Open</source>
         <translation>فتح</translation>
     </message>
     <message>
+        <source>Paint Brush</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paint Brush Popup Menu</source>
-        <translation>قائمة منبثقة لفرشاة الطلاء</translation>
+        <translation type="obsolete">قائمة منبثقة لفرشاة الطلاء</translation>
     </message>
     <message>
         <source>Paste</source>
         <translation>لصق</translation>
     </message>
     <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture Popup Menu</source>
-        <translation>قائمة منبثقة للصور</translation>
+        <translation type="obsolete">قائمة منبثقة للصور</translation>
     </message>
     <message>
         <source>Print</source>
         <translation>طباعة</translation>
+    </message>
+    <message>
+        <source>Print Directly</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -14728,19 +16545,23 @@ Slide</source>
     </message>
     <message>
         <source>Right</source>
-        <translation>يمين</translation>
+        <translation type="obsolete">يمين</translation>
+    </message>
+    <message>
+        <source>Rotate Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate Mode Popup Menu</source>
-        <translation>قائمة منبثقة لوضع الدوران</translation>
+        <translation type="obsolete">قائمة منبثقة لوضع الدوران</translation>
+    </message>
+    <message>
+        <source>Ruler</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ruler Popup Menu</source>
-        <translation>قائمة منبثقة للمسطرة</translation>
-    </message>
-    <message>
-        <source>S CloudLink</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">قائمة منبثقة للمسطرة</translation>
     </message>
     <message>
         <source>S MsgAtMe</source>
@@ -14748,7 +16569,7 @@ Slide</source>
     </message>
     <message>
         <source>S Office space</source>
-        <translation>تعاون</translation>
+        <translation type="obsolete">تعاون</translation>
     </message>
     <message>
         <source>Save</source>
@@ -14763,24 +16584,40 @@ Slide</source>
         <translation>تحديد الكل</translation>
     </message>
     <message>
-        <source>Set Spellcheck Language</source>
+        <source>Set Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape and Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation>شكل ومعرض الرسوم</translation>
+        <translation type="obsolete">شكل ومعرض الرسوم</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
-        <translation>قائمة منبثقة للأشكال</translation>
+        <translation type="obsolete">قائمة منبثقة للأشكال</translation>
     </message>
     <message>
-        <source>Show / Hide Grid</source>
+        <source>Show/Hide Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Slide Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
-        <translation>قائمة منبثقة لخلفية الشريحة</translation>
+        <translation type="obsolete">قائمة منبثقة لخلفية الشريحة</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
@@ -14799,12 +16636,20 @@ Slide</source>
         <translation>تخطيط الشريحة</translation>
     </message>
     <message>
+        <source>Slide Miniature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Miniature Popup Menu</source>
-        <translation>قائمة منبثقة للشرائح المصغرة</translation>
+        <translation type="obsolete">قائمة منبثقة للشرائح المصغرة</translation>
+    </message>
+    <message>
+        <source>Slide Object in Slide Sorter</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Object in Slide Sorter Popup Menu</source>
-        <translation>قائمة منبثقة لكائن الشريحة في فارز الشرائح</translation>
+        <translation type="obsolete">قائمة منبثقة لكائن الشريحة في فارز الشرائح</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -14812,7 +16657,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show Popup Menu</source>
-        <translation>قائمة منبثقة لاستعراض الشريحة</translation>
+        <translation type="obsolete">قائمة منبثقة لاستعراض الشريحة</translation>
     </message>
     <message>
         <source>Slide Show Short Popup Menu</source>
@@ -14821,6 +16666,10 @@ Slide</source>
     <message>
         <source>Slide Transition</source>
         <translation>انتقال الشريحة</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -14839,24 +16688,24 @@ Slide</source>
         <translation>شريط أدوات الرموز</translation>
     </message>
     <message>
-        <source>TStyle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TabBar NewFile</source>
+        <source>Table Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Cell Popup Menu</source>
-        <translation>قائمة منبثقة لخلية الجدول</translation>
+        <translation type="obsolete">قائمة منبثقة لخلية الجدول</translation>
     </message>
     <message>
         <source>Table Style</source>
         <translation>نمط الجدول</translation>
     </message>
     <message>
+        <source>Tables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tables Popup Menu</source>
-        <translation>قائمة منبثقة للجداول</translation>
+        <translation type="obsolete">قائمة منبثقة للجداول</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -14868,15 +16717,15 @@ Slide</source>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
-        <translation>قائمة منبثقة لتحرير النص</translation>
+        <translation type="obsolete">قائمة منبثقة لتحرير النص</translation>
     </message>
     <message>
-        <source>ToolBars</source>
+        <source>Text Editing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="obsolete">أشرطة الأدوات</translation>
+        <translation type="unfinished">أشرطة الأدوات</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -14891,6 +16740,10 @@ Slide</source>
         <translation>تراجع</translation>
     </message>
     <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation>عرض</translation>
     </message>
@@ -14899,12 +16752,20 @@ Slide</source>
         <translation>محرر Visual-Basic</translation>
     </message>
     <message>
+        <source>WPS Online Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Window</source>
         <translation>نافذة</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Popup Menu</source>
-        <translation>قائمة منبثقة لـ WordArt</translation>
+        <translation type="obsolete">قائمة منبثقة لـ WordArt</translation>
     </message>
     <message>
         <source>statusbar</source>
@@ -14915,7 +16776,11 @@ Slide</source>
     <name>wppcommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Presentation Help</source>
-        <translation>مساعدة العرض التقديمي لـ Kingsoft</translation>
+        <translation type="obsolete">مساعدة العرض التقديمي لـ Kingsoft</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14926,7 +16791,11 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation>OrgChart</translation>
+        <translation type="obsolete">OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14944,7 +16813,11 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show From Current</source>
-        <translation>استعراض الشرائح من الشريحة الحالية</translation>
+        <translation type="obsolete">استعراض الشرائح من الشريحة الحالية</translation>
+    </message>
+    <message>
+        <source>Slide Show from Current(Shift+F5)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -14961,16 +16834,32 @@ Slide</source>
 <context>
     <name>wppongmani.mainwindow.commands</name>
     <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add-ins</source>
-        <translation>وظائف إضافية</translation>
+        <translation type="obsolete">وظائف إضافية</translation>
     </message>
     <message>
         <source>Animation</source>
         <translation>تحريك</translation>
     </message>
     <message>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize task window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Customize taskpane</source>
-        <translation>لوحة المهام مخصصة</translation>
+        <translation type="obsolete">لوحة المهام مخصصة</translation>
     </message>
     <message>
         <source>Design</source>
@@ -14982,10 +16871,10 @@ Slide</source>
     </message>
     <message>
         <source>Drawing Tool</source>
-        <translation>أدوات الرسم</translation>
+        <translation type="obsolete">أدوات الرسم</translation>
     </message>
     <message>
-        <source>EnterpriseMicroblog</source>
+        <source>Drawing Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14998,7 +16887,7 @@ Slide</source>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>محرر مستندات غوغل</translation>
+        <translation type="obsolete">محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -15010,7 +16899,7 @@ Slide</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>الصفحة الرئيسية</translation>
+        <translation type="obsolete">الصفحة الرئيسية</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -15018,23 +16907,15 @@ Slide</source>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation>تغيير معلومات الدخول لـ KOS</translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS View UserInfo</source>
@@ -15042,11 +16923,31 @@ Slide</source>
     </message>
     <message>
         <source>KOS logout</source>
-        <translation>تسجيل الخروج من KOS</translation>
+        <translation type="obsolete">تسجيل الخروج من KOS</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>تسجيل الدخول</translation>
+        <translation type="obsolete">تسجيل الدخول</translation>
+    </message>
+    <message>
+        <source>Maximize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Options</source>
@@ -15054,11 +16955,23 @@ Slide</source>
     </message>
     <message>
         <source>Org Chart</source>
-        <translation>OrgChart</translation>
+        <translation type="obsolete">OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Tool</source>
-        <translation>أدوات الصورة</translation>
+        <translation type="obsolete">أدوات الصورة</translation>
+    </message>
+    <message>
+        <source>Picture Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the ToolBar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -15070,11 +16983,23 @@ Slide</source>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>قائمة سريعة</translation>
+        <translation type="obsolete">قائمة سريعة</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation>الملفات الأخيرة</translation>
+        <translation type="obsolete">الملفات الأخيرة</translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Review</source>
@@ -15087,6 +17012,14 @@ Slide</source>
     <message>
         <source>Show/Hide the Toolbar</source>
         <translation>إظهار/إخفاء شريط الأدوات</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -15102,7 +17035,7 @@ Slide</source>
     </message>
     <message>
         <source>Stick the ToolBar</source>
-        <translation type="unfinished">إلصاق شريط الأدوات</translation>
+        <translation type="obsolete">إلصاق شريط الأدوات</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -15117,28 +17050,48 @@ Slide</source>
         <translation>أدوات الجدول</translation>
     </message>
     <message>
+        <source>User Sign In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation>عرض</translation>
     </message>
     <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>What News</source>
-        <translation>ما الجديد</translation>
+        <translation type="obsolete">ما الجديد</translation>
+    </message>
+    <message>
+        <source>What&apos;s New</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Window Close</source>
-        <translation>إغلاق النافذة</translation>
+        <translation type="obsolete">إغلاق النافذة</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation>تكبير النافذة</translation>
+        <translation type="obsolete">تكبير النافذة</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>تصغير النافذة</translation>
+        <translation type="obsolete">تصغير النافذة</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>استعادة النافذة</translation>
+        <translation type="obsolete">استعادة النافذة</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -15146,7 +17099,7 @@ Slide</source>
     </message>
     <message>
         <source>Work space</source>
-        <translation>مساحة العمل</translation>
+        <translation type="obsolete">مساحة العمل</translation>
     </message>
     <message>
         <source>setting</source>
@@ -15179,7 +17132,11 @@ Slide</source>
     <name>wppongmani.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation>OrgChart</translation>
+        <translation type="obsolete">OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15192,12 +17149,24 @@ Slide</source>
 <context>
     <name>wpprainbow.mainwindow.commands</name>
     <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add-ins</source>
-        <translation>وظائف إضافية</translation>
+        <translation type="obsolete">وظائف إضافية</translation>
     </message>
     <message>
         <source>Animation</source>
         <translation>تحريك</translation>
+    </message>
+    <message>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design</source>
@@ -15212,10 +17181,6 @@ Slide</source>
         <translation>أدوات الرسم</translation>
     </message>
     <message>
-        <source>EnterpriseMicroblog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>ملف</translation>
     </message>
@@ -15225,7 +17190,7 @@ Slide</source>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>محرر مستندات غوغل</translation>
+        <translation type="obsolete">محرر مستندات غوغل</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -15245,23 +17210,15 @@ Slide</source>
     </message>
     <message>
         <source>KOS Change login</source>
-        <translation>تغيير معلومات الدخول لـ KOS</translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">تغيير معلومات الدخول لـ KOS</translation>
     </message>
     <message>
         <source>KOS Logout</source>
-        <translation>تسجيل الخروج من KOS</translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">تسجيل الخروج من KOS</translation>
     </message>
     <message>
         <source>KOS User Login</source>
-        <translation>معلومات تسجيل المستخدم لـ KOS</translation>
+        <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
         <source>KOS View UserInfo</source>
@@ -15269,7 +17226,19 @@ Slide</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>تسجيل الدخول</translation>
+        <translation type="obsolete">تسجيل الدخول</translation>
+    </message>
+    <message>
+        <source>Maximize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -15277,11 +17246,19 @@ Slide</source>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>ملف جديد من قوالب أخرى</translation>
+        <translation type="obsolete">ملف جديد من قوالب أخرى</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Tab Page</source>
         <translation>صفحة بدون تبويب</translation>
+    </message>
+    <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -15293,7 +17270,11 @@ Slide</source>
     </message>
     <message>
         <source>OrgChart</source>
-        <translation>OrgChart</translation>
+        <translation type="obsolete">OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -15309,11 +17290,23 @@ Slide</source>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>قائمة سريعة</translation>
+        <translation type="obsolete">قائمة سريعة</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation>الملفات الأخيرة</translation>
+        <translation type="obsolete">الملفات الأخيرة</translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Review</source>
@@ -15326,6 +17319,14 @@ Slide</source>
     <message>
         <source>Show/Hide the Toolbar</source>
         <translation>إظهار/إخفاء شريط الأدوات</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -15352,27 +17353,27 @@ Slide</source>
         <translation>أدوات الجدول</translation>
     </message>
     <message>
+        <source>User Sign In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation>عرض</translation>
     </message>
     <message>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>What News</source>
-        <translation>ما الجديد</translation>
+        <translation type="obsolete">ما الجديد</translation>
     </message>
     <message>
-        <source>Window Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window Max</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window Min</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window Restore</source>
+        <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15381,7 +17382,7 @@ Slide</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation>مساحة العمل</translation>
+        <translation type="obsolete">مساحة العمل</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -15417,7 +17418,11 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>OrgChart</source>
-        <translation>OrgChart</translation>
+        <translation type="obsolete">OrgChart</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

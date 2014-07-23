@@ -5,12 +5,20 @@
 <context>
     <name>KLiveService</name>
     <message>
+        <source>Please install Klive manually.</source>
+        <translation>请手动安装快盘以使用该功能。</translation>
+    </message>
+    <message>
+        <source>Please sign in Klive manually.</source>
+        <translation>请手动登录快盘以使用该功能。</translation>
+    </message>
+    <message>
         <source>please install kuaipan manul</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">请手动安装快盘以使用该功能。</translation>
     </message>
     <message>
         <source>please login kuaipan</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">请手动登录快盘以使用该功能。</translation>
     </message>
 </context>
 <context>
@@ -28,6 +36,10 @@
     </message>
     <message>
         <source>My Favorit</source>
+        <translation type="obsolete">我的收藏</translation>
+    </message>
+    <message>
+        <source>My Favorite</source>
         <translation>我的收藏</translation>
     </message>
     <message>
@@ -42,15 +54,15 @@
 <context>
     <name>QApplication</name>
     <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <source>\WPS Office\Desktop.ini name.</source>
         <translation>WPS</translation>
     </message>
     <message>
-        <source>\Kingsoft Office\Office Space\Desktop.ini name.</source>
+        <source>\WPS Office\Office Space\Desktop.ini name.</source>
         <translation>办公空间</translation>
     </message>
     <message>
-        <source>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</source>
+        <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
         <translation>我的模板</translation>
     </message>
 </context>

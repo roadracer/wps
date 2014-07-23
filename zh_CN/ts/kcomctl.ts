@@ -36,6 +36,10 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
+        <translation type="obsolete">其他颜色(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>&amp;More Colors...</source>
         <translation>其他颜色(&amp;M)...</translation>
     </message>
     <message>
@@ -43,68 +47,20 @@
         <translation>带图案线条(&amp;P)...</translation>
     </message>
     <message>
+        <source>Aqua</source>
+        <translation type="unfinished">水绿色</translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>自动</translation>
-    </message>
-    <message>
-        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation type="obsolete">黑色,褐色,橄榄绿,深绿,深青,深蓝,靛蓝,灰色-80%,深红,橙色,深黄,绿色,青色,蓝色,篮-灰,灰色-50%,红色,浅橙色,酸橙色,海绿,水绿色,浅蓝,紫罗兰,灰色-40%,粉红,金色,黄色,鲜绿,青绿,天蓝,梅红,灰色-25%,玫瑰红,茶色,浅黄,浅绿,浅青绿,淡蓝,浅紫,白色</translation>
-    </message>
-    <message>
-        <source>No Color</source>
-        <translation>没有颜色</translation>
     </message>
     <message>
         <source>Black</source>
         <translation type="unfinished">黑色</translation>
     </message>
     <message>
-        <source>Brown</source>
-        <translation type="unfinished">褐色</translation>
-    </message>
-    <message>
-        <source>Olive Green</source>
-        <translation type="unfinished">橄榄绿</translation>
-    </message>
-    <message>
-        <source>Dark Green</source>
-        <translation type="unfinished">深绿</translation>
-    </message>
-    <message>
-        <source>Dark Teal</source>
-        <translation type="unfinished">深青</translation>
-    </message>
-    <message>
-        <source>Dark Blue</source>
-        <translation type="unfinished">深蓝</translation>
-    </message>
-    <message>
-        <source>Indigo</source>
-        <translation type="unfinished">靛蓝</translation>
-    </message>
-    <message>
-        <source>Gray-80%</source>
-        <translation type="unfinished">灰色-80%</translation>
-    </message>
-    <message>
-        <source>Dark Red</source>
-        <translation type="unfinished">深红</translation>
-    </message>
-    <message>
-        <source>Orange</source>
-        <translation type="unfinished">橙色</translation>
-    </message>
-    <message>
-        <source>Dark Yellow</source>
-        <translation type="unfinished">深黄</translation>
-    </message>
-    <message>
-        <source>Green</source>
-        <translation type="unfinished">绿色</translation>
-    </message>
-    <message>
-        <source>Teal</source>
-        <translation type="unfinished">青色</translation>
+        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
+        <translation type="obsolete">黑色,褐色,橄榄绿,深绿,深青,深蓝,靛蓝,灰色-80%,深红,橙色,深黄,绿色,青色,蓝色,篮-灰,灰色-50%,红色,浅橙色,酸橙色,海绿,水绿色,浅蓝,紫罗兰,灰色-40%,粉红,金色,黄色,鲜绿,青绿,天蓝,梅红,灰色-25%,玫瑰红,茶色,浅黄,浅绿,浅青绿,淡蓝,浅紫,白色</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -112,107 +68,155 @@
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished">篮-灰</translation>
-    </message>
-    <message>
-        <source>Gray-50%</source>
-        <translation type="unfinished">灰色-50%</translation>
-    </message>
-    <message>
-        <source>Red</source>
-        <translation type="unfinished">红色</translation>
-    </message>
-    <message>
-        <source>Light Orange</source>
-        <translation type="unfinished">浅橙色</translation>
-    </message>
-    <message>
-        <source>Lime</source>
-        <translation type="unfinished">酸橙色</translation>
-    </message>
-    <message>
-        <source>Sea Green</source>
-        <translation type="unfinished">海绿</translation>
-    </message>
-    <message>
-        <source>Aqua</source>
-        <translation type="unfinished">水绿色</translation>
-    </message>
-    <message>
-        <source>Light Blue</source>
-        <translation type="unfinished">浅蓝</translation>
-    </message>
-    <message>
-        <source>Violet</source>
-        <translation type="unfinished">紫罗兰</translation>
-    </message>
-    <message>
-        <source>Gray-40%</source>
-        <translation type="unfinished">灰色-40%</translation>
-    </message>
-    <message>
-        <source>Pink</source>
-        <translation type="unfinished">粉红</translation>
-    </message>
-    <message>
-        <source>Gold</source>
-        <translation type="unfinished">金色</translation>
-    </message>
-    <message>
-        <source>Yellow</source>
-        <translation type="unfinished">黄色</translation>
+        <translation>蓝-灰</translation>
     </message>
     <message>
         <source>Bright Green</source>
         <translation type="unfinished">鲜绿</translation>
     </message>
     <message>
-        <source>Turquoise</source>
-        <translation type="unfinished">青绿</translation>
+        <source>Brown</source>
+        <translation type="unfinished">褐色</translation>
     </message>
     <message>
-        <source>Sky Blue</source>
-        <translation type="unfinished">天蓝</translation>
+        <source>Dark Blue</source>
+        <translation type="unfinished">深蓝</translation>
     </message>
     <message>
-        <source>Plum</source>
-        <translation type="unfinished">梅红</translation>
+        <source>Dark Green</source>
+        <translation type="unfinished">深绿</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="unfinished">深红</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="unfinished">深青</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="unfinished">深黄</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished">金色</translation>
     </message>
     <message>
         <source>Gray-25%</source>
         <translation type="unfinished">灰色-25%</translation>
     </message>
     <message>
-        <source>Rose</source>
-        <translation type="unfinished">玫瑰红</translation>
+        <source>Gray-40%</source>
+        <translation type="unfinished">灰色-40%</translation>
     </message>
     <message>
-        <source>Tan</source>
-        <translation type="unfinished">茶色</translation>
+        <source>Gray-50%</source>
+        <translation type="unfinished">灰色-50%</translation>
     </message>
     <message>
-        <source>Light Yellow</source>
-        <translation type="unfinished">浅黄</translation>
+        <source>Gray-80%</source>
+        <translation type="unfinished">灰色-80%</translation>
     </message>
     <message>
-        <source>Light Green</source>
-        <translation type="unfinished">浅绿</translation>
+        <source>Green</source>
+        <translation type="unfinished">绿色</translation>
     </message>
     <message>
-        <source>Light Turquoise</source>
-        <translation type="unfinished">浅青绿</translation>
-    </message>
-    <message>
-        <source>Pale Blue</source>
-        <translation type="unfinished">淡蓝</translation>
+        <source>Indigo</source>
+        <translation type="unfinished">靛蓝</translation>
     </message>
     <message>
         <source>Lavender</source>
         <translation type="unfinished">浅紫</translation>
     </message>
     <message>
+        <source>Light Blue</source>
+        <translation type="unfinished">浅蓝</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="unfinished">浅绿</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished">浅橙色</translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="unfinished">浅青绿</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished">浅黄</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="unfinished">酸橙色</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>没有颜色</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished">橄榄绿</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="unfinished">橙色</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="unfinished">淡蓝</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="unfinished">粉红</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished">梅红</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished">红色</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished">玫瑰红</translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished">海绿</translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished">天蓝</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="unfinished">茶色</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="unfinished">青色</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="unfinished">青绿</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="unfinished">紫罗兰</translation>
+    </message>
+    <message>
         <source>White</source>
         <translation type="unfinished">白色</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="unfinished">黄色</translation>
     </message>
 </context>
 <context>
@@ -236,6 +240,14 @@
 <context>
     <name>KDocTabbarEx</name>
     <message>
+        <source>&amp;Hide Quick Access Toolbar</source>
+        <translation>隐藏快速访问工具栏自定义入口(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Hide quick access</source>
+        <translation type="obsolete">隐藏快速访问工具栏自定义入口(&amp;H)</translation>
+    </message>
+    <message>
         <source>&amp;More Command...</source>
         <translation type="obsolete">其他命令(&amp;M)...</translation>
     </message>
@@ -246,10 +258,6 @@
     <message>
         <source>Customize Quick Access</source>
         <translation>自定义快速访问工具栏</translation>
-    </message>
-    <message>
-        <source>&amp;Hide quick access</source>
-        <translation>隐藏快速访问工具栏自定义入口(&amp;H)</translation>
     </message>
 </context>
 <context>
@@ -297,20 +305,24 @@
 <context>
     <name>KMainWindow</name>
     <message>
-        <source>Ma&amp;ximize</source>
-        <translation>最大化(&amp;X)</translation>
+        <source>&amp;Exit</source>
+        <translation>退出(&amp;E)</translation>
     </message>
     <message>
-        <source>Unma&amp;ximize</source>
+        <source>&amp;Restore</source>
         <translation>还原(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximize</source>
+        <translation>最大化(&amp;X)</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
         <translation>最小化(&amp;N)</translation>
     </message>
     <message>
-        <source>&amp;Exit</source>
-        <translation>退出(&amp;E)</translation>
+        <source>Unma&amp;ximize</source>
+        <translation type="obsolete">还原(&amp;R)</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
@@ -325,6 +337,13 @@
     </message>
 </context>
 <context>
+    <name>KMenuWidget</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
@@ -335,15 +354,23 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation>在输入密码前，您应该按 &quot;Caps Lock&quot; 键来将其关闭。</translation>
+        <translation type="obsolete">在输入密码前，您应该按 &quot;Caps Lock&quot; 键来将其关闭。</translation>
     </message>
     <message>
         <source>Caps Lock On.</source>
+        <translation type="obsolete">大写锁定打开</translation>
+    </message>
+    <message>
+        <source>Caps Lock on.</source>
         <translation>大写锁定打开</translation>
     </message>
     <message>
-        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
         <translation>保持大写锁定打开可能会使您错误输入密码。</translation>
+    </message>
+    <message>
+        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
+        <translation type="obsolete">保持大写锁定打开可能会使您错误输入密码。</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -351,7 +378,15 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
+        <translation type="obsolete">您不能从密码字段中复制。</translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
         <translation>您不能从密码字段中复制。</translation>
+    </message>
+    <message>
+        <source>You should press Caps Lock to turn it off before entering your password.</source>
+        <translation>在输入密码前，您应该按 &quot;Caps Lock&quot; 键来将其关闭。</translation>
     </message>
 </context>
 <context>
@@ -361,6 +396,14 @@
         <translation>从快速访问工具栏删除(&amp;R)</translation>
     </message>
     <message>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation>显示快速访问工具栏自定义入口(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Show quick access</source>
+        <translation type="obsolete">显示快速访问工具栏自定义入口(&amp;S)</translation>
+    </message>
+    <message>
         <source>More commands</source>
         <translation>其它控件</translation>
     </message>
@@ -368,28 +411,56 @@
         <source>Quick A&amp;ccess Toolbar</source>
         <translation type="obsolete">自定义快速访问工具栏(&amp;C)...</translation>
     </message>
-    <message>
-        <source>&amp;Show quick access</source>
-        <translation>显示快速访问工具栏自定义入口(&amp;S)</translation>
-    </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Clear All Fixed Files</source>
-        <translation>清除已固定至列表的记录</translation>
+        <translation type="obsolete">清除已固定至列表的记录</translation>
     </message>
     <message>
         <source>Clear All Unfixed Files</source>
+        <translation type="obsolete">清除未固定至列表的记录</translation>
+    </message>
+    <message>
+        <source>Clear Pinned Files</source>
+        <translation>清除已固定至列表的记录</translation>
+    </message>
+    <message>
+        <source>Clear Unpinned Files</source>
         <translation>清除未固定至列表的记录</translation>
     </message>
     <message>
+        <source>Clear pinned files</source>
+        <translation type="obsolete">清除已固定至列表的记录</translation>
+    </message>
+    <message>
+        <source>Clear unpinned files</source>
+        <translation type="obsolete">清除未固定至列表的记录</translation>
+    </message>
+    <message>
         <source>Fixed to the Listing</source>
+        <translation type="obsolete">固定至列表</translation>
+    </message>
+    <message>
+        <source>Pin to List</source>
         <translation>固定至列表</translation>
     </message>
     <message>
+        <source>Pin to list</source>
+        <translation type="obsolete">固定至列表</translation>
+    </message>
+    <message>
         <source>Unfixed from the Listing</source>
+        <translation type="obsolete">从列表中取消固定</translation>
+    </message>
+    <message>
+        <source>Unpinned from List</source>
         <translation>从列表中取消固定</translation>
+    </message>
+    <message>
+        <source>Unpinned from list</source>
+        <translation type="obsolete">从列表中取消固定</translation>
     </message>
 </context>
 <context>
@@ -406,11 +477,11 @@
 <context>
     <name>KToolTipWidget</name>
     <message>
-        <source>KToolTipWidget</source>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>KToolTipWidget</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -482,22 +553,37 @@ multiple=倍
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation>您输入的内容不是合法的整数值。</translation>
+        <translation type="obsolete">您输入的内容不是合法的整数值。</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>输入的值应该介于 %1 和 %2 之间。</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation>您输入的内容不是合法的整数值。</translation>
     </message>
 </context>
 <context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation>您输入的内容不是合法的整数值。</translation>
+        <translation type="obsolete">您输入的内容不是合法的整数值。</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>输入的值应该介于 %1 和 %2 之间。</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation>您输入的内容不是合法的整数值。</translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished">粘贴(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -585,20 +671,37 @@ multiple=倍
         <translation>清除全部</translation>
     </message>
     <message>
-        <source>Clear record from list</source>
+        <source>Clear Record from List</source>
         <translation>从列表中删除</translation>
     </message>
     <message>
-        <source>Delete from the Listing</source>
+        <source>Clear record from list</source>
+        <translation type="obsolete">从列表中删除</translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
         <translation>从列表中移除</translation>
     </message>
-    <message id="Qt::Dialog | Qt::MSWindowsFixedSizeDialogHint">
+    <message>
+        <source>Delete from the Listing</source>
+        <translation type="obsolete">从列表中移除</translation>
+    </message>
+    <message>
         <source>Do not show this message again</source>
+        <translation type="obsolete">以后不再提醒</translation>
+    </message>
+    <message>
+        <source>Do not show this message again.</source>
         <translation type="obsolete">以后不再提醒</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
+        <translation type="obsolete">以后不再提醒，总是执行此操作</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again. 
+Always take this action.</source>
         <translation type="obsolete">以后不再提醒，总是执行此操作</translation>
     </message>
     <message>
@@ -627,6 +730,10 @@ Always take this action</source>
     </message>
     <message>
         <source>OverWrite</source>
+        <translation type="obsolete">改写</translation>
+    </message>
+    <message>
+        <source>Overtype</source>
         <translation>改写</translation>
     </message>
     <message>

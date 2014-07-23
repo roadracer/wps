@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation>&amp;Več barv</translation>
+        <translation type="obsolete">&amp;Več barv</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
@@ -201,6 +201,10 @@
         <source>White</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -231,7 +235,7 @@
         <translation>Dodaj v</translation>
     </message>
     <message>
-        <source>&amp;Hide quick access</source>
+        <source>&amp;Hide Quick Access Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -277,10 +281,6 @@
         <translation>Ma&amp;ksimiziraj</translation>
     </message>
     <message>
-        <source>Unma&amp;ximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mi&amp;nimize</source>
         <translation>&amp;Minimiziraj</translation>
     </message>
@@ -290,6 +290,17 @@
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMenuWidget</name>
+    <message>
+        <source>InsertCellsInPopup</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -304,15 +315,7 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation>Caps Lock je vklopljen.</translation>
-    </message>
-    <message>
-        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Caps Lock je vklopljen.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -320,7 +323,23 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation>Ni vam dovoljeno kopirati iz polja za geslo.</translation>
+        <translation type="obsolete">Ni vam dovoljeno kopirati iz polja za geslo.</translation>
+    </message>
+    <message>
+        <source>Caps Lock on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You should press Caps Lock to turn it off before entering your password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -330,31 +349,47 @@
         <translation>&amp;Odstrani iz orodne vrstice za hitri dostop</translation>
     </message>
     <message>
-        <source>&amp;Show quick access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>More commands</source>
         <translation>Več ukazov</translation>
+    </message>
+    <message>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unfixed from the Listing</source>
-        <translation>Nepriterjeno iz seznama</translation>
+        <translation type="obsolete">Nepriterjeno iz seznama</translation>
     </message>
     <message>
         <source>Clear All Fixed Files</source>
-        <translation>Počistite vse pritrjene datoteke</translation>
+        <translation type="obsolete">Počistite vse pritrjene datoteke</translation>
     </message>
     <message>
         <source>Fixed to the Listing</source>
-        <translation>Pritrjena na seznam</translation>
+        <translation type="obsolete">Pritrjena na seznam</translation>
     </message>
     <message>
         <source>Clear All Unfixed Files</source>
-        <translation>Počisti vse nepritrjene datoteke</translation>
+        <translation type="obsolete">Počisti vse nepritrjene datoteke</translation>
+    </message>
+    <message>
+        <source>Unpinned from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Pinned Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Unpinned Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -372,7 +407,11 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>OznakaBesedila</translation>
+        <translation type="obsolete">OznakaBesedila</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -424,7 +463,11 @@ multiple=multiple
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Neveljavno celo besedilo.</translation>
+        <translation type="obsolete">Neveljavno celo besedilo.</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -435,7 +478,18 @@ multiple=multiple
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Neveljavno celo besedilo.</translation>
+        <translation type="obsolete">Neveljavno celo besedilo.</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -508,11 +562,11 @@ multiple=multiple
     </message>
     <message>
         <source>OverWrite</source>
-        <translation>Prepiši</translation>
+        <translation type="obsolete">Prepiši</translation>
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation>Počisti zapis iz seznama</translation>
+        <translation type="obsolete">Počisti zapis iz seznama</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
@@ -524,7 +578,7 @@ multiple=multiple
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation>Izbriši iz seznama</translation>
+        <translation type="obsolete">Izbriši iz seznama</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -533,6 +587,18 @@ multiple=multiple
     <message>
         <source>Open Folder</source>
         <translation>Odpri mapo</translation>
+    </message>
+    <message>
+        <source>Overtype</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

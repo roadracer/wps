@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation>&amp;Meer kleuren</translation>
+        <translation type="obsolete">&amp;Meer kleuren</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
@@ -202,6 +202,10 @@
         <source>White</source>
         <translation>Wit</translation>
     </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -225,7 +229,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Hide quick access</source>
+        <source>&amp;Hide Quick Access Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -271,10 +275,6 @@
         <translation>Ma&amp;ximaliseren</translation>
     </message>
     <message>
-        <source>Unma&amp;ximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mi&amp;nimize</source>
         <translation>Mi&amp;nimaliseren</translation>
     </message>
@@ -284,6 +284,17 @@
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMenuWidget</name>
+    <message>
+        <source>InsertCellsInPopup</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -298,15 +309,15 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation>Caps Lock aan.</translation>
+        <translation type="obsolete">Caps Lock aan.</translation>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation>Met Caps Lock aan kan er toe leiden dat u een verkeerd wachtwoord invoert.</translation>
+        <translation type="obsolete">Met Caps Lock aan kan er toe leiden dat u een verkeerd wachtwoord invoert.</translation>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation>Voordat u uw wachtwoord invoert, moet u de &quot;Caps Lock&quot;indrukken om het uit te zetten.</translation>
+        <translation type="obsolete">Voordat u uw wachtwoord invoert, moet u de &quot;Caps Lock&quot;indrukken om het uit te zetten.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -314,7 +325,23 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation>Het is niet toegestaan ​​het wachtwoordveld te kopiëren.</translation>
+        <translation type="obsolete">Het is niet toegestaan ​​het wachtwoordveld te kopiëren.</translation>
+    </message>
+    <message>
+        <source>Caps Lock on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You should press Caps Lock to turn it off before entering your password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -324,30 +351,30 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Show quick access</source>
+        <source>More commands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>More commands</source>
+        <source>&amp;Show Quick Access Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
-        <source>Unfixed from the Listing</source>
+        <source>Unpinned from List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear All Fixed Files</source>
+        <source>Clear Pinned Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fixed to the Listing</source>
+        <source>Pin to List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear All Unfixed Files</source>
+        <source>Clear Unpinned Files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -365,7 +392,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -417,7 +444,7 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Illegal integer text.</source>
+        <source>This is not a valid integer.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -428,7 +455,14 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Illegal integer text.</source>
+        <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>&amp;Paste</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -501,12 +535,8 @@ multiple=multiple
         <translation>CapsLock: uit</translation>
     </message>
     <message>
-        <source>OverWrite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear record from list</source>
-        <translation>Wis record uit lijst</translation>
+        <translation type="obsolete">Wis record uit lijst</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
@@ -518,7 +548,7 @@ multiple=multiple
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation>Verwijderen uit de lijst</translation>
+        <translation type="obsolete">Verwijderen uit de lijst</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -527,6 +557,18 @@ multiple=multiple
     <message>
         <source>Open Folder</source>
         <translation>Map openen</translation>
+    </message>
+    <message>
+        <source>Overtype</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
