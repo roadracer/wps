@@ -9,7 +9,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Notes Page:</source>
+        <source>Note;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -44,7 +44,7 @@
 <context>
     <name>ProcessDialog</name>
     <message>
-        <source>Translate to Document</source>
+        <source>Translate to WPS Writer Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -52,7 +52,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Still Need:Being calculated</source>
+        <source>Still Need: being calculated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -67,7 +67,7 @@
 <context>
     <name>changeAsWpsDialog</name>
     <message>
-        <source>Translate to Document</source>
+        <source>Translate to WPS Writer Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -79,7 +79,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current Slide(&amp;C)</source>
+        <source>&amp;Current Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -123,7 +123,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide per page(&amp;E):</source>
+        <source>Slide per page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -151,7 +151,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Conversion Includes</source>
+        <source>Converted Content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -178,7 +178,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Converting to Kingsoft Writer document encountered an error.</source>
+        <source>Converting to WPS Writer document encountered an error.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -189,7 +189,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The number must be 1, 2, 3, or 4.</source>
+        <source>The number must be 1, 2, 3,or 4.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -199,7 +199,7 @@ For example, 1,3,5-9.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Presentation</source>
+        <source>WPS Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -207,7 +207,7 @@ For example, 1,3,5-9.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Writer Document(*.wps)</source>
+        <source>WPS Writer Document(*.wps)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -227,7 +227,7 @@ For example, 1,3,5-9.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

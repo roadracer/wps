@@ -35,7 +35,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Templates</source>
+        <source>docerhomepage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

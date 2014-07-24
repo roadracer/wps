@@ -8,7 +8,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Office recommendation</source>
+        <source>WPS Office Recommendation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
