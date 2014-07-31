@@ -1757,7 +1757,7 @@ Do you still want to open this file?
 
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you don&apos;t trust this file, just do not open it.
 (%s)</source>
-        <translation>Антивирусная программа сканирования обнаружила ошибки при сканировании файла (код ошибки: 0x% 08X). Свяжитесь со службой поддержки вашего антивирусного программного обеспечения. 
+        <translation>Антивирусная программа сканирования обнаружила ошибки при сканировании файла (код ошибки: 0x%08X). Свяжитесь со службой поддержки вашего антивирусного программного обеспечения. 
 По-прежнему хотите открыть этот файл? 
 
 • Нажмите "Да", и Kingsoft Writer продолжит открытие файла. 

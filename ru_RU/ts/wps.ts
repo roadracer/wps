@@ -3618,7 +3618,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Use full &amp;width characters</source>
-        <translation>Используйте &amp;широкие символы</translation>
+        <translation>Использовать &amp;широкие символы</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>

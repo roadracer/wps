@@ -4409,7 +4409,7 @@ Center</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Горизонтальное текстовое поле</translation>
+        <translation>Горизонтальное</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -4513,7 +4513,7 @@ Center</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальное</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -8017,7 +8017,7 @@ AddIns</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Горизонтальное текстовое поле</translation>
+        <translation>Горизонтальное</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -9160,7 +9160,7 @@ Center</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальное</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12043,7 +12043,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EditCloumns</name>
     <message>
         <source>Edit Column</source>
-        <translation>Изменить код</translation>
+        <translation>Изменить формулу</translation>
     </message>
     <message>
         <source>View the formula bar, in which you can enter text and formulas into cells.</source>
