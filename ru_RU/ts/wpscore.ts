@@ -2889,7 +2889,14 @@ Do you still want to open this file?
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</source>
         <comment>_TxDocument_AVFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Антивирусная программа сканирования обнаружила ошибки при сканировании файла (код ошибки: 0x%08X). Свяжитесь со службой поддержки вашего антивирусного программного обеспечения. 
+По-прежнему хотите открыть этот файл? 
+
+• Нажмите &quot;Да&quot;, и Kingsoft Writer продолжит открытие файла. 
+• Нажмите &quot;Нет&quot;, и Kingsoft Writer прервёт открытие этого файла. 
+
+Обратите внимание, что некоторые файлы могут содержать макровирусы и, возможно, выполнять другие вредоносные действия. Если вы не доверяете создателю этого файла, не открывайте его.
+(%s)</translation>
     </message>
     <message>
         <source>The default template has been damaged. Do you want to try resetting it? Note that resetting may cause loss of part of user defined data.</source>
