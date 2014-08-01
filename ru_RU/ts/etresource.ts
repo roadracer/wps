@@ -6880,7 +6880,7 @@ Layout</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальное</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -9112,7 +9112,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальное</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -9967,7 +9967,7 @@ AddIns</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальное</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -11177,7 +11177,7 @@ Center</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальное</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12426,7 +12426,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальное</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -14253,7 +14253,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <name>tips.EditCloumns</name>
     <message>
         <source>Edit Column</source>
-        <translation type="obsolete">Изменить код</translation>
+        <translation type="obsolete">Изменить формулу</translation>
     </message>
     <message>
         <source>View the formula bar, in which you can enter text and formulas into cells.</source>
