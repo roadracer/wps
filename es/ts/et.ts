@@ -5,7 +5,7 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation type="unfinished"></translation>
+        <translation type="Búsqueda avanzada"></translation>
     </message>
     <message>
         <source>Sort</source>
@@ -13,31 +13,31 @@
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;Añadir a la lista"></translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="Eliminar de la lista(&amp;D)"></translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="Filtro"></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Tipo:"></translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Infoconsejo"></translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Añadir a la lista(&amp;R)"></translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="Borrar de la lista(&amp;e)"></translation>
     </message>
 </context>
 <context>
