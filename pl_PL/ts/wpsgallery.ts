@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj galerię</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Największą liczbą tytułów jest 5.</translation>
     </message>
 </context>
 <context>
@@ -94,15 +94,15 @@
     </message>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\My Materials\Desktop.ini name.</translation>
     </message>
 </context>
 <context>

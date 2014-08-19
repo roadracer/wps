@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -6,31 +6,31 @@
     <name>classics.3dsettings</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0 pkt.</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>144 pkt.</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>288 pkt.</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz/Wyłącz 3D</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>26 pkt.</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>72 pkt.</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -117,23 +117,23 @@
     <name>classics.borders</name>
     <message>
         <source>Draw Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rysuj obramowanie</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rysuj siatkę obramowań</translation>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Wymarz obramowanie</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor linii</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl linii</translation>
     </message>
 </context>
 <context>
@@ -952,7 +952,7 @@ Center</source>
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij pełny ekran</translation>
     </message>
 </context>
 <context>
@@ -1179,19 +1179,19 @@ Center</source>
     <name>classics.print_preview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginesy</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Następna strona</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -1199,19 +1199,19 @@ Center</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawnienia strony</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednia strona</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Powiększenie</translation>
     </message>
 </context>
 <context>
@@ -11117,894 +11117,6 @@ Color</source>
         <source>WPS Permit</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>tips.3DColor</name>
-</context>
-<context>
-    <name>tips.3DDepthMenu</name>
-</context>
-<context>
-    <name>tips.3DOnOff</name>
-</context>
-<context>
-    <name>tips.3DStylePalette</name>
-</context>
-<context>
-    <name>tips.3DSurfaceMenu</name>
-</context>
-<context>
-    <name>tips.3DTiltDown</name>
-</context>
-<context>
-    <name>tips.3DTiltLeft</name>
-</context>
-<context>
-    <name>tips.3DTiltRight</name>
-</context>
-<context>
-    <name>tips.3DTiltUp</name>
-</context>
-<context>
-    <name>tips.AdvancedFilter</name>
-</context>
-<context>
-    <name>tips.Align</name>
-</context>
-<context>
-    <name>tips.AlignCenter</name>
-</context>
-<context>
-    <name>tips.AlignLeft</name>
-</context>
-<context>
-    <name>tips.AlignRight</name>
-</context>
-<context>
-    <name>tips.AlignmentFormatCells</name>
-</context>
-<context>
-    <name>tips.AllBorders</name>
-</context>
-<context>
-    <name>tips.AllFunction</name>
-</context>
-<context>
-    <name>tips.AllowEditRanges</name>
-</context>
-<context>
-    <name>tips.ArtisticWordAlignment</name>
-</context>
-<context>
-    <name>tips.AutoFilter</name>
-</context>
-<context>
-    <name>tips.AutoSum</name>
-</context>
-<context>
-    <name>tips.AutoVersion</name>
-</context>
-<context>
-    <name>tips.Autobackup</name>
-</context>
-<context>
-    <name>tips.Average</name>
-</context>
-<context>
-    <name>tips.Bold</name>
-</context>
-<context>
-    <name>tips.BookProtection</name>
-</context>
-<context>
-    <name>tips.BottomBorder</name>
-</context>
-<context>
-    <name>tips.BottomDoubleBorder</name>
-</context>
-<context>
-    <name>tips.BringForward</name>
-</context>
-<context>
-    <name>tips.CTB_DesignMode</name>
-</context>
-<context>
-    <name>tips.CTB_MoreControls</name>
-</context>
-<context>
-    <name>tips.CTB_Property</name>
-</context>
-<context>
-    <name>tips.CTB_ViewCode</name>
-</context>
-<context>
-    <name>tips.CalculateSheet</name>
-</context>
-<context>
-    <name>tips.ChangeChartType</name>
-</context>
-<context>
-    <name>tips.ChangePicture</name>
-</context>
-<context>
-    <name>tips.CharacterSpacing</name>
-</context>
-<context>
-    <name>tips.Chart</name>
-</context>
-<context>
-    <name>tips.ChartObjects</name>
-</context>
-<context>
-    <name>tips.ChineseTranslation</name>
-</context>
-<context>
-    <name>tips.CircularReferences</name>
-</context>
-<context>
-    <name>tips.Clear</name>
-</context>
-<context>
-    <name>tips.ClearFilter</name>
-</context>
-<context>
-    <name>tips.ClearTableStyle</name>
-</context>
-<context>
-    <name>tips.CloseDevelopmentTools</name>
-</context>
-<context>
-    <name>tips.CloseOtherWindow</name>
-</context>
-<context>
-    <name>tips.CloseWindow</name>
-</context>
-<context>
-    <name>tips.ColumnsCenter</name>
-</context>
-<context>
-    <name>tips.ComAddin</name>
-</context>
-<context>
-    <name>tips.CommaStyle</name>
-</context>
-<context>
-    <name>tips.CompressPictures</name>
-</context>
-<context>
-    <name>tips.ConditionalFormat</name>
-</context>
-<context>
-    <name>tips.Consolidate</name>
-</context>
-<context>
-    <name>tips.Copy</name>
-</context>
-<context>
-    <name>tips.Count</name>
-</context>
-<context>
-    <name>tips.Currency</name>
-</context>
-<context>
-    <name>tips.Cut</name>
-</context>
-<context>
-    <name>tips.DataDetailedSettings</name>
-</context>
-<context>
-    <name>tips.DataGroup</name>
-</context>
-<context>
-    <name>tips.DataSort</name>
-</context>
-<context>
-    <name>tips.DataTable</name>
-</context>
-<context>
-    <name>tips.DataUngroup</name>
-</context>
-<context>
-    <name>tips.DecreaseDecimal</name>
-</context>
-<context>
-    <name>tips.DecreaseIndent</name>
-</context>
-<context>
-    <name>tips.DeleteComment</name>
-</context>
-<context>
-    <name>tips.DeleteRange</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_Data</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_DrawingTools</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_Home</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_Layout</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_PictureTool</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_WordArt</name>
-</context>
-<context>
-    <name>tips.DevelopmentTools</name>
-</context>
-<context>
-    <name>tips.Direction</name>
-</context>
-<context>
-    <name>tips.DisplayGridlines</name>
-</context>
-<context>
-    <name>tips.DisplayHeadings</name>
-</context>
-<context>
-    <name>tips.DrawBorder</name>
-</context>
-<context>
-    <name>tips.DrawGrid</name>
-</context>
-<context>
-    <name>tips.DrawingToolsDetailedSettings</name>
-</context>
-<context>
-    <name>tips.Duplicates</name>
-</context>
-<context>
-    <name>tips.DynamicShape</name>
-</context>
-<context>
-    <name>tips.EDRProperties</name>
-</context>
-<context>
-    <name>tips.EditCloumns</name>
-</context>
-<context>
-    <name>tips.EditComment</name>
-</context>
-<context>
-    <name>tips.EditCrossBookLinks</name>
-</context>
-<context>
-    <name>tips.EditOleDBQuery</name>
-</context>
-<context>
-    <name>tips.EditPoints</name>
-</context>
-<context>
-    <name>tips.EditWordArtText</name>
-</context>
-<context>
-    <name>tips.EquationEditor</name>
-</context>
-<context>
-    <name>tips.Eraseborder</name>
-</context>
-<context>
-    <name>tips.EvaluateFormula</name>
-</context>
-<context>
-    <name>tips.ExitPreview</name>
-</context>
-<context>
-    <name>tips.ExplorBackupDir</name>
-</context>
-<context>
-    <name>tips.ExplorVersion</name>
-</context>
-<context>
-    <name>tips.FTB_EditCode</name>
-</context>
-<context>
-    <name>tips.FTB_Property</name>
-</context>
-<context>
-    <name>tips.Fill</name>
-</context>
-<context>
-    <name>tips.FillColor</name>
-</context>
-<context>
-    <name>tips.Financial</name>
-</context>
-<context>
-    <name>tips.Find</name>
-</context>
-<context>
-    <name>tips.FontColor</name>
-</context>
-<context>
-    <name>tips.FontFormatCells</name>
-</context>
-<context>
-    <name>tips.FontName</name>
-</context>
-<context>
-    <name>tips.FontSize</name>
-</context>
-<context>
-    <name>tips.FormatChartObject</name>
-</context>
-<context>
-    <name>tips.FormatObject</name>
-</context>
-<context>
-    <name>tips.FormatPainter</name>
-</context>
-<context>
-    <name>tips.FormatStyle</name>
-</context>
-<context>
-    <name>tips.FreezePanes</name>
-</context>
-<context>
-    <name>tips.FullScreenMode</name>
-</context>
-<context>
-    <name>tips.FuncCatDateAndTime</name>
-</context>
-<context>
-    <name>tips.FuncCatMoreFunctions</name>
-</context>
-<context>
-    <name>tips.FuncCatText</name>
-</context>
-<context>
-    <name>tips.Gallery</name>
-</context>
-<context>
-    <name>tips.GoalSeek</name>
-</context>
-<context>
-    <name>tips.Group</name>
-</context>
-<context>
-    <name>tips.GrowFont</name>
-</context>
-<context>
-    <name>tips.HeaderFooter</name>
-</context>
-<context>
-    <name>tips.HideDetail</name>
-</context>
-<context>
-    <name>tips.HomeDetailedSettings</name>
-</context>
-<context>
-    <name>tips.Hyperlink</name>
-</context>
-<context>
-    <name>tips.ImportData</name>
-</context>
-<context>
-    <name>tips.IncreaseDecimal</name>
-</context>
-<context>
-    <name>tips.IncreaseIndent</name>
-</context>
-<context>
-    <name>tips.InsertClipArt</name>
-</context>
-<context>
-    <name>tips.InsertComment</name>
-</context>
-<context>
-    <name>tips.InsertFileObject</name>
-</context>
-<context>
-    <name>tips.InsertFunction</name>
-</context>
-<context>
-    <name>tips.InsertObject</name>
-</context>
-<context>
-    <name>tips.InsertPageBreak</name>
-</context>
-<context>
-    <name>tips.InsertPictureFromFile</name>
-</context>
-<context>
-    <name>tips.InsertRange</name>
-</context>
-<context>
-    <name>tips.InsertSymbol</name>
-</context>
-<context>
-    <name>tips.InsertTextboxHorizontal</name>
-</context>
-<context>
-    <name>tips.InsertWordArt</name>
-</context>
-<context>
-    <name>tips.Italic</name>
-</context>
-<context>
-    <name>tips.KOSCloudFeedbackTip</name>
-</context>
-<context>
-    <name>tips.KOSCloudInformationTip</name>
-</context>
-<context>
-    <name>tips.KOSCreatecloudLinkTip</name>
-</context>
-<context>
-    <name>tips.KOSOfficespaceLoginFailTip</name>
-</context>
-<context>
-    <name>tips.KOSOfficespacePsaawordTip</name>
-</context>
-<context>
-    <name>tips.KOSOfficespaceRegPsaawordTip</name>
-</context>
-<context>
-    <name>tips.KOSOpenCloudFileTip</name>
-</context>
-<context>
-    <name>tips.KOSSaveFileTocloudTip</name>
-</context>
-<context>
-    <name>tips.KOSUserLoginCloudTextBtnTip</name>
-</context>
-<context>
-    <name>tips.KOSUserLoginCloudTip</name>
-</context>
-<context>
-    <name>tips.KOSUserLogoutCloudTip</name>
-</context>
-<context>
-    <name>tips.LeftBorder</name>
-</context>
-<context>
-    <name>tips.Legend</name>
-</context>
-<context>
-    <name>tips.Lighting</name>
-</context>
-<context>
-    <name>tips.LoadMacro</name>
-</context>
-<context>
-    <name>tips.LockCell</name>
-</context>
-<context>
-    <name>tips.Logical</name>
-</context>
-<context>
-    <name>tips.LookupAndReference</name>
-</context>
-<context>
-    <name>tips.Macros</name>
-</context>
-<context>
-    <name>tips.Margins</name>
-</context>
-<context>
-    <name>tips.MarkVersion</name>
-</context>
-<context>
-    <name>tips.MathAndTrig</name>
-</context>
-<context>
-    <name>tips.Max</name>
-</context>
-<context>
-    <name>tips.MergeCenter</name>
-</context>
-<context>
-    <name>tips.MergeColumns</name>
-</context>
-<context>
-    <name>tips.MergeSelection</name>
-</context>
-<context>
-    <name>tips.Min</name>
-</context>
-<context>
-    <name>tips.ModifyPivotTable</name>
-</context>
-<context>
-    <name>tips.Morefunctions</name>
-</context>
-<context>
-    <name>tips.NameCreate</name>
-</context>
-<context>
-    <name>tips.NameDefine</name>
-</context>
-<context>
-    <name>tips.NameManager</name>
-</context>
-<context>
-    <name>tips.NamePaste</name>
-</context>
-<context>
-    <name>tips.NewWindow</name>
-</context>
-<context>
-    <name>tips.NoBorder</name>
-</context>
-<context>
-    <name>tips.NormalViewEt</name>
-</context>
-<context>
-    <name>tips.NudgeShadowDown</name>
-</context>
-<context>
-    <name>tips.NudgeShadowLeft</name>
-</context>
-<context>
-    <name>tips.NudgeShadowRight</name>
-</context>
-<context>
-    <name>tips.NudgeShadowUp</name>
-</context>
-<context>
-    <name>tips.NumberFormatCells</name>
-</context>
-<context>
-    <name>tips.ObjectSelect</name>
-</context>
-<context>
-    <name>tips.OtherBorders</name>
-</context>
-<context>
-    <name>tips.OutlineSettings</name>
-</context>
-<context>
-    <name>tips.OutsideBorders</name>
-</context>
-<context>
-    <name>tips.PTFieldSettings</name>
-</context>
-<context>
-    <name>tips.PTHide</name>
-</context>
-<context>
-    <name>tips.PTHideDetail</name>
-</context>
-<context>
-    <name>tips.PTHideFieldList</name>
-</context>
-<context>
-    <name>tips.PTRefreshData</name>
-</context>
-<context>
-    <name>tips.PTShowDetail</name>
-</context>
-<context>
-    <name>tips.PTSortAndTopTen</name>
-</context>
-<context>
-    <name>tips.PTSubtotals</name>
-</context>
-<context>
-    <name>tips.PTTableOptions</name>
-</context>
-<context>
-    <name>tips.PageBreakPreview</name>
-</context>
-<context>
-    <name>tips.PageLayoutDetailedSettings</name>
-</context>
-<context>
-    <name>tips.PageOrientation</name>
-</context>
-<context>
-    <name>tips.PageSetup</name>
-</context>
-<context>
-    <name>tips.PageSize</name>
-</context>
-<context>
-    <name>tips.PageZoom</name>
-</context>
-<context>
-    <name>tips.PercentStyle</name>
-</context>
-<context>
-    <name>tips.PictureAdjust</name>
-</context>
-<context>
-    <name>tips.PictureColor</name>
-</context>
-<context>
-    <name>tips.PictureCrop</name>
-</context>
-<context>
-    <name>tips.PictureFillColor</name>
-</context>
-<context>
-    <name>tips.PictureLineColor</name>
-</context>
-<context>
-    <name>tips.PictureSetTransparentColor</name>
-</context>
-<context>
-    <name>tips.PictureSize</name>
-</context>
-<context>
-    <name>tips.PictureToolsDetailedSettings</name>
-</context>
-<context>
-    <name>tips.PivotTable</name>
-</context>
-<context>
-    <name>tips.PivotTableDelete</name>
-</context>
-<context>
-    <name>tips.PivotTableOrder</name>
-</context>
-<context>
-    <name>tips.PrevLandscape</name>
-</context>
-<context>
-    <name>tips.PrevNextPage</name>
-</context>
-<context>
-    <name>tips.PrevPortrait</name>
-</context>
-<context>
-    <name>tips.PrevPreviousPage</name>
-</context>
-<context>
-    <name>tips.Print</name>
-</context>
-<context>
-    <name>tips.PrintArea</name>
-</context>
-<context>
-    <name>tips.PrintDirect</name>
-</context>
-<context>
-    <name>tips.PrintGridlines</name>
-</context>
-<context>
-    <name>tips.PrintHeadings</name>
-</context>
-<context>
-    <name>tips.PrintLayout</name>
-</context>
-<context>
-    <name>tips.PrintNormalView</name>
-</context>
-<context>
-    <name>tips.PrintPreview</name>
-</context>
-<context>
-    <name>tips.PrintPreviewMargins</name>
-</context>
-<context>
-    <name>tips.PrintPreviewZoomCombo</name>
-</context>
-<context>
-    <name>tips.PrintTitle</name>
-</context>
-<context>
-    <name>tips.ProtectAndShare</name>
-</context>
-<context>
-    <name>tips.ProtectSheet</name>
-</context>
-<context>
-    <name>tips.RB_Clipboard</name>
-</context>
-<context>
-    <name>tips.ReadingLayout</name>
-</context>
-<context>
-    <name>tips.ReapplyFilter</name>
-</context>
-<context>
-    <name>tips.RecalculateBook</name>
-</context>
-<context>
-    <name>tips.RecentLineWrap</name>
-</context>
-<context>
-    <name>tips.RecenttlyUsed</name>
-</context>
-<context>
-    <name>tips.RecordList</name>
-</context>
-<context>
-    <name>tips.Refresh</name>
-</context>
-<context>
-    <name>tips.RefreshAll</name>
-</context>
-<context>
-    <name>tips.ResetPicture</name>
-</context>
-<context>
-    <name>tips.RightBorder</name>
-</context>
-<context>
-    <name>tips.RotateRight</name>
-</context>
-<context>
-    <name>tips.RowsAndColumn</name>
-</context>
-<context>
-    <name>tips.RunMacro</name>
-</context>
-<context>
-    <name>tips.SameLetterHeights</name>
-</context>
-<context>
-    <name>tips.Security</name>
-</context>
-<context>
-    <name>tips.SendBackward</name>
-</context>
-<context>
-    <name>tips.SeriesInColumns</name>
-</context>
-<context>
-    <name>tips.SeriesInRows</name>
-</context>
-<context>
-    <name>tips.ShadowColor</name>
-</context>
-<context>
-    <name>tips.ShadowOnOff</name>
-</context>
-<context>
-    <name>tips.ShadowPalette</name>
-</context>
-<context>
-    <name>tips.ShapeFillColor</name>
-</context>
-<context>
-    <name>tips.ShapeLineColor</name>
-</context>
-<context>
-    <name>tips.ShapeSize</name>
-</context>
-<context>
-    <name>tips.ShareWorkbook</name>
-</context>
-<context>
-    <name>tips.ShowDetail</name>
-</context>
-<context>
-    <name>tips.ShrinkFont</name>
-</context>
-<context>
-    <name>tips.SortAndFilter</name>
-</context>
-<context>
-    <name>tips.SortAscending</name>
-</context>
-<context>
-    <name>tips.SortDescending</name>
-</context>
-<context>
-    <name>tips.SourceData</name>
-</context>
-<context>
-    <name>tips.SpellCheck</name>
-</context>
-<context>
-    <name>tips.SplitPanes</name>
-</context>
-<context>
-    <name>tips.StopAutoVersion</name>
-</context>
-<context>
-    <name>tips.Subtotals</name>
-</context>
-<context>
-    <name>tips.SwitchWindow</name>
-</context>
-<context>
-    <name>tips.TaskWindow</name>
-</context>
-<context>
-    <name>tips.TextFill</name>
-</context>
-<context>
-    <name>tips.TextOrientation</name>
-</context>
-<context>
-    <name>tips.TextToColumns</name>
-</context>
-<context>
-    <name>tips.ThickBottomBorder</name>
-</context>
-<context>
-    <name>tips.ThickBoxBorder</name>
-</context>
-<context>
-    <name>tips.TopAndBottomBorder</name>
-</context>
-<context>
-    <name>tips.TopAndDloubleBottomBorder</name>
-</context>
-<context>
-    <name>tips.TopAndThickBottomBorder</name>
-</context>
-<context>
-    <name>tips.TopBorder</name>
-</context>
-<context>
-    <name>tips.TrackChanges</name>
-</context>
-<context>
-    <name>tips.TranslateToSimplifiedChinese</name>
-</context>
-<context>
-    <name>tips.TranslateToTraditionalChinese</name>
-</context>
-<context>
-    <name>tips.Underline</name>
-</context>
-<context>
-    <name>tips.VAlignBottom</name>
-</context>
-<context>
-    <name>tips.VAlignCenter</name>
-</context>
-<context>
-    <name>tips.VAlignTop</name>
-</context>
-<context>
-    <name>tips.Validation</name>
-</context>
-<context>
-    <name>tips.VerticalText</name>
-</context>
-<context>
-    <name>tips.VisualBasicEditor</name>
-</context>
-<context>
-    <name>tips.What-If Analysis</name>
-</context>
-<context>
-    <name>tips.WindowReset</name>
-</context>
-<context>
-    <name>tips.WordArtDetailedSettings</name>
-</context>
-<context>
-    <name>tips.WordArtFillColor</name>
-</context>
-<context>
-    <name>tips.WordArtGallery</name>
-</context>
-<context>
-    <name>tips.WordArtLineColor</name>
-</context>
-<context>
-    <name>tips.WordArtShapePalette</name>
-</context>
-<context>
-    <name>tips.WordArtSize</name>
-</context>
-<context>
-    <name>tips.WorkSheet</name>
-</context>
-<context>
-    <name>tips.WorkSpace_Backup</name>
-</context>
-<context>
-    <name>tips.Zoom</name>
-</context>
-<context>
-    <name>tips.m_Format</name>
-</context>
-<context>
-    <name>tips.sp_AutoSum</name>
-</context>
-<context>
-    <name>tips.sp_Paste</name>
 </context>
 <context>
     <name>workspacemenu</name>

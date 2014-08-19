@@ -5,19 +5,19 @@
     <name>CEtTableStyle</name>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2-</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostawni wiersz</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -29,11 +29,11 @@
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsza kolumna</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia kolumna</translation>
     </message>
     <message>
         <source>No Style, No Grid</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uwypuklenie</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -53,19 +53,19 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasny styl</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Średni styl</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny styl</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny styl 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
@@ -84,35 +84,35 @@
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najlepsze dopasowanie</translation>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Wbudowane</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2-</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsza kolumna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatni wiersz</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia kolumna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -152,7 +152,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uwypuklenie</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -191,23 +191,23 @@
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najlepsze dopasowanie</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsza kolumna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatni wiersz</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia kolumna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -219,38 +219,38 @@
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz i pierwsza kolumna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz i ostatnia kolumna</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jasny</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Średni</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ciemny</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl tabeli:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje stylu tabeli:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Czysty styl tabeli</translation>
     </message>
 </context>
 </TS>

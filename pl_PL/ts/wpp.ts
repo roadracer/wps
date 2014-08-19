@@ -662,14 +662,14 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie KUI</translation>
     </message>
 </context>
 <context>
     <name>KCloseThumbnailCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -736,14 +736,14 @@
     <message id="0">
         <source>Fit slide to current window</source>
         <oldsource>Slide Zoom Fit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dopasuj slajd do obecnego slajdu</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -1954,11 +1954,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDlgProgress</name>
     <message>
         <source>Copying file to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiowanie pliku do folderu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2354,11 +2354,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDlgWppLinkToSlides</name>
     <message>
         <source>Hyperlink to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperłącze do slajdu</translation>
     </message>
     <message>
         <source>&amp;Slide title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tytuł slajdu:</translation>
     </message>
 </context>
 <context>
@@ -2823,7 +2823,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxLineWeightGroup</name>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 pkt.</translation>
     </message>
 </context>
 <context>
@@ -2849,7 +2849,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxPackageBaseCommand</name>
     <message>
         <source>The file was not saved. Please save the file before the packaging operation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plik nie został zapisany. Proszę zapisać plik przed pakowaniem.</translation>
     </message>
 </context>
 <context>

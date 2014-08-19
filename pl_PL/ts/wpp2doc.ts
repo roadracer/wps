@@ -6,35 +6,35 @@
     <message>
         <source>Slide %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Slajd %1</translation>
     </message>
     <message>
         <source>Being converted</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekonwertowany</translation>
     </message>
     <message>
         <source>Still Need:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wciąż potrzeba:</translation>
     </message>
     <message>
         <source> Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minut</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekund</translation>
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Gotowe do konwersji, proszę czekać</translation>
     </message>
     <message>
         <source>Being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeliczanie</translation>
     </message>
     <message>
         <source>Start converting</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpocznij konwersję</translation>
     </message>
     <message>
         <source>Note;</source>
@@ -45,19 +45,19 @@
     <name>ProcessDialog</name>
     <message>
         <source>Ready to convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Gotowe do konwersji</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz plik</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumacz do formatu WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
@@ -68,7 +68,7 @@
     <name>changeAsWpsDialog</name>
     <message>
         <source>Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz slajd</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>
@@ -171,15 +171,15 @@
     <name>kxProgressdlg</name>
     <message>
         <source>The conversion is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwersja zakończona.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podczas konwersji do formatu WPS Writer napotkano błąd.</translation>
     </message>
 </context>
 <context>
@@ -196,35 +196,35 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Możliwe liczby: 1 lub 2.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument Microsoft Word 97/2000/XP/2003 (*.doc)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>The file &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik &quot;</translation>
     </message>
     <message>
         <source>&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3,or 4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Możliwe liczby: 1, 2, 3 lub 4.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument WPS Writer (*.wps)</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
