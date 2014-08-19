@@ -1,10 +1,26 @@
 Polskie tłumaczenie dla aplikacji Kingsoft Office
 ================================
 
-Tłumaczenie tworzone przez: Paweł Smok (Armstrong) oraz Andrzej Kamiński (Crazygod)
+Tłumaczenie tworzone przez: Paweł Smok (Armstrong), Andrzej Kamiński (Crazygod) oraz Marek Pikuła (MarPiRK)
 
+Oprogramowanie
+--------------------------------------------------------------------------------
+W celu kompilacji pakietu językowego KSO/WPS potrzebne jest rcc i lrelease.
+Lingist jest potrzebny do tłumaczenia KSO/WPS.
 
-Instrukcja instalacji Windows/Linux
-=====================
+Instalacja w Ubuntu:
 
+        $ sudo apt-get install qt4-dev-tools
+
+Instalacja w Gentoo:
+
+	$ sudo emerge dev-qt/qtcore dev-qt/linguist
+
+Instrukcja instalacji Windows
+--------------------------------------------------------------------------------
 Dostępna wkrótce.
+
+Instrukcja instalacji Linux
+--------------------------------------------------------------------------------
+	$ make install		# instalacja
+	$ make uninstall	# deinstalacja

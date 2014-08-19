@@ -6,127 +6,127 @@
     <message>
         <source>Applause</source>
         <comment>AEO_SOUNDEFFECT_Applause</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oklaski</translation>
     </message>
     <message>
         <source>Arrow</source>
         <comment>AEO_SOUNDEFFECT_Arrow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Strzałka</translation>
     </message>
     <message>
         <source>Bomb</source>
         <comment>AEO_SOUNDEFFECT_Bomb</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bomba</translation>
     </message>
     <message>
         <source>Breeze</source>
         <comment>AEO_SOUNDEFFECT_Breeze</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wietrzyk</translation>
     </message>
     <message>
         <source>Camera</source>
         <comment>AEO_SOUNDEFFECT_Camera</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aparat</translation>
     </message>
     <message>
         <source>Cash Register</source>
         <comment>AEO_SOUNDEFFECT_CashRegister</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kasa fiskalna</translation>
     </message>
     <message>
         <source>Chime</source>
         <comment>AEO_SOUNDEFFECT_Chime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kurant</translation>
     </message>
     <message>
         <source>Click</source>
         <comment>AEO_SOUNDEFFECT_Click</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klik</translation>
     </message>
     <message>
         <source>Coin</source>
         <comment>AEO_SOUNDEFFECT_Coin</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pieniążek</translation>
     </message>
     <message>
         <source>Drum Roll</source>
         <comment>AEO_SOUNDEFFECT_DrumRool</comment>
-        <translation type="unfinished"></translation>
+        <translation>Werbel</translation>
     </message>
     <message>
         <source>Explosion</source>
         <comment>AEO_SOUNDEFFECT_Explosion</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eksplozja</translation>
     </message>
     <message>
         <source>Hammer</source>
         <comment>AEO_SOUNDEFFECT_Hammer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Młot</translation>
     </message>
     <message>
         <source>Laser</source>
         <comment>AEO_SOUNDEFFECT_Laser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laser</translation>
     </message>
     <message>
         <source>Push</source>
         <comment>AEO_SOUNDEFFECT_Push</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prznięcie</translation>
     </message>
     <message>
         <source>Suction</source>
         <comment>AEO_SOUNDEFFECT_Suction</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ssanie</translation>
     </message>
     <message>
         <source>Typewriter</source>
         <comment>AEO_SOUNDEFFECT_Typewriter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maszyna do pisania</translation>
     </message>
     <message>
         <source>Voltage</source>
         <comment>AEO_SOUNDEFFECT_Voltage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Napięcie</translation>
     </message>
     <message>
         <source>Whoosh</source>
         <comment>AEO_SOUNDEFFECT_Whoosh</comment>
-        <translation type="unfinished"></translation>
+        <translation>Świst</translation>
     </message>
     <message>
         <source>Wind</source>
         <comment>AEO_SOUNDEFFECT_Wind</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wiatr</translation>
     </message>
     <message>
         <source>Custom Animation</source>
         <comment>AEO_CMD_CUSTOMANIMATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Własna animacja</translation>
     </message>
     <message>
         <source>Title</source>
         <comment>AEO_PLACEHOLDER_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>AEO_PLACEHOLDER_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>AEO_PLACEHOLDER_TABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
         <comment>AEO_PLACEHOLDER_DATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tekst &lt;Data i Czas&gt;</translation>
     </message>
     <message>
         <source>Unknown Placeholder</source>
         <comment>AEO_PLACEHOLDER_UNKNOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieznany znacznik</translation>
     </message>
     <message>
         <source>Freeform</source>
@@ -136,22 +136,22 @@
     <message>
         <source>: Shape </source>
         <comment>AEO_PLACEHOLDER_SHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">: Kształt </translation>
     </message>
     <message>
         <source>Chart</source>
         <comment>AEO_PLACEHOLDER_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wykres</translation>
     </message>
     <message>
         <source>Object</source>
         <comment>AEO_PLACEHOLDER_OBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
+        <translation>Funkcja obecna w WPS Office 2009 Professional.</translation>
     </message>
 </context>
 <context>
@@ -159,7 +159,7 @@
     <message>
         <source>End of slide show, click to exit.</source>
         <comment>AEOENGINE_PLAY_END</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koniec pokazu slajdów, kliknij aby zakończyć.</translation>
     </message>
 </context>
 <context>
@@ -167,7 +167,7 @@
     <message>
         <source>Fill Effects</source>
         <comment>ObjTable_BordersFillEffects</comment>
-        <translation type="unfinished"></translation>
+        <translation>Efekty wypełnienia</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
@@ -297,17 +297,17 @@ Esc					End of the slide show</source>
     <message>
         <source>Slide </source>
         <comment>WpPlayingSlideNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Slajd</translation>
     </message>
     <message>
         <source>Slide %d of %d</source>
         <comment>WpPlayProcessFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Slajd %d z %d</translation>
     </message>
     <message>
         <source>End Show</source>
         <comment>WpPlayCompleted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zakończ pokaz</translation>
     </message>
     <message>
         <source>Keep ink</source>

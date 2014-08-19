@@ -19,7 +19,7 @@
     <name>KColorCtrl</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak koloru</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -39,23 +39,23 @@
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przerywane linie...</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Czarny</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Brązowy</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Oliwkowozielony</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnozielony</translation>
     </message>
     <message>
         <source>Dark Teal</source>
@@ -63,31 +63,31 @@
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnoniebieski</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indygo</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 80%</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnoczerwony</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Pmarańczowy</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnożółty</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielony</translation>
     </message>
     <message>
         <source>Teal</source>
@@ -95,31 +95,31 @@
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebieski</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebieskoszary</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 50%</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Czerwony</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnopomarańczowy</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Limonkowy</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielonomodry</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -127,35 +127,35 @@
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnoniebieski</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Fioletowy</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 40%</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Różowy</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Żółty</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkusowy</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -163,15 +163,15 @@
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Śliwkowy</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Szary 25%</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Różany</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -179,15 +179,15 @@
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnożółty</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Pale Blue</source>
@@ -195,15 +195,15 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Lawendowy</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Biały</translation>
     </message>
     <message>
         <source>&amp;More Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Więcej kolorów...</translation>
     </message>
 </context>
 <context>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukryj szybki dostęp</translation>
     </message>
 </context>
 <context>
@@ -282,23 +282,23 @@
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;ksymalizuj</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi&amp;nimalizuj</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wyjdź</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj systemowego Paska &amp;Tytułu</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przywróć</translation>
     </message>
 </context>
 <context>
@@ -339,19 +339,19 @@
     </message>
     <message>
         <source>Caps Lock on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Włączony Caps Lock.</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Włączony Caps Lock może prowadzić do błędnego wprowadzenia hasła.</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przed wprowadzaniem hasła, powinieneś przycisnąć &quot;Caps Lock&quot; aby go wyłączyć.</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie możesz kopiować z pola hasła.</translation>
     </message>
 </context>
 <context>
@@ -407,7 +407,7 @@
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Podpowiedź</translation>
     </message>
 </context>
 <context>
@@ -455,29 +455,29 @@ multiple=multiple
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2</translation>
+        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>To nie jest poprawna liczba.</translation>
     </message>
 </context>
 <context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2</translation>
+        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>To nie jest poprawna liczba.</translation>
     </message>
 </context>
 <context>
     <name>QLineEdit</name>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wklej</translation>
     </message>
 </context>
 <context>
@@ -530,11 +530,11 @@ multiple=multiple
     </message>
     <message>
         <source>NumLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: Włączony</translation>
     </message>
     <message>
         <source>NumLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: Wyłączony</translation>
     </message>
     <message>
         <source>Caps Lock</source>
@@ -542,11 +542,11 @@ multiple=multiple
     </message>
     <message>
         <source>CapsLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock: Włączony</translation>
     </message>
     <message>
         <source>CapsLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>CapsLock: Wyłączony</translation>
     </message>
     <message>
         <source>OverWrite</source>
@@ -586,7 +586,7 @@ multiple=multiple
     </message>
     <message>
         <source>Delete from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z listy</translation>
     </message>
 </context>
 </TS>

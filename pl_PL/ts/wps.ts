@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished">Niebieski</translation>
+        <translation>Niebieski</translation>
     </message>
     <message>
         <source>Light blue</source>
@@ -117,11 +117,11 @@
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyjan</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wodny</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkusowy</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Limonkowy</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -165,31 +165,31 @@
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Czarny</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnocyjanowy</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnoniebieski</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indygo</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnoniebieski</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebieskoszary</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Lawendowy</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -197,23 +197,23 @@
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Różany</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielonomodry</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnożółty</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -221,35 +221,35 @@
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnozielony</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnopomarańczowy</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Śliwkowy</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnożółty</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Oliwkowozielony</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnoczerwony</translation>
     </message>
 </context>
 <context>
@@ -1476,95 +1476,95 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>12,5%</translation>
     </message>
     <message>
         <source>15%</source>
-        <translation type="unfinished"></translation>
+        <translation>15%</translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>35%</source>
-        <translation type="unfinished"></translation>
+        <translation>35%</translation>
     </message>
     <message>
         <source>37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>37,5%</translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>45%</source>
-        <translation type="unfinished"></translation>
+        <translation>45%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>55%</source>
-        <translation type="unfinished"></translation>
+        <translation>55%</translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>62,5%</translation>
     </message>
     <message>
         <source>65%</source>
-        <translation type="unfinished"></translation>
+        <translation>65%</translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>85%</source>
-        <translation type="unfinished"></translation>
+        <translation>85%</translation>
     </message>
     <message>
         <source>87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>87,5%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>95%</source>
-        <translation type="unfinished"></translation>
+        <translation>95%</translation>
     </message>
     <message>
         <source>Deep horizontal line</source>
@@ -11552,14 +11552,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>To nie jest prawidłowy pomiar.</translation>
     </message>
 </context>
 <context>
     <name>KxZoomDlg</name>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomiar musi być pomiędzy %1 a %2.</translation>
     </message>
 </context>
 <context>

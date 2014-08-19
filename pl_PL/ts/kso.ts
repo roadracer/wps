@@ -353,42 +353,42 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Unformatted Text</source>
         <comment>TX_KSO_CF_TEXT_DISPNAME</comment>
-        <translation type="unfinished">Niesformatowany Tekst</translation>
+        <translation>Niesformatowany Tekst</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
         <comment>TX_KSO_CF_TEXT_RESULTNAME</comment>
-        <translation type="unfinished">Zawartość schowka zostanie wklejona jako tekst bez formatowania.</translation>
+        <translation>Zawartość schowka zostanie wklejona jako tekst bez formatowania.</translation>
     </message>
     <message>
         <source>Data of WPS Writer</source>
         <comment>TX_KSO_CF_WPS_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane programu WPS Writer</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
         <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wklejona jako Dane programu WPS Writer.</translation>
     </message>
     <message>
         <source>Data of WPS Spreadsheets</source>
         <comment>TX_KSO_CF_ET_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
         <comment>TX_KSO_CF_ET_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wklejona jako Dane programu WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Data of WPS Presentation</source>
         <comment>TX_KSO_CF_WPP_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane programu WPS Presentation</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
         <comment>TX_KSO_CF_WPP_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wklejona jako Dane programu WPS Presentation.</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
@@ -413,22 +413,22 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Objekt %s</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wklejona jako Objekt OLE.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obras (Windows Metafile)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wklejona jako Obraw (Windows Metafile).</translation>
     </message>
     <message>
         <source>Picture (Enhanced Metafile)</source>
@@ -443,7 +443,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Picture (PNG)</source>
         <comment>TX_KSO_CF_PIC_PNG_DISPNAME</comment>
-        <translation type="unfinished">Obrazek (PNG)</translation>
+        <translation>Obraz (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
@@ -566,7 +566,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
         <comment>DgAllPicture</comment>
-        <translation type="unfinished">Wszystkie Obrazki(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation>Wszystkie Obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -591,7 +591,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
         <comment>DgUil_WindowsBitmap</comment>
-        <translation type="unfinished">Bitmapa Windows(*.bmp)|*.bmp</translation>
+        <translation>Bitmapa Windows (*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
@@ -606,12 +606,12 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation type="unfinished">Wstaw Obrazek</translation>
+        <translation>Wstaw Obraz</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished">Wstaw AutoKształt</translation>
+        <translation>Wstaw Autokształt</translation>
     </message>
     <message>
         <source>Insert Connector</source>
@@ -876,22 +876,22 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Line Color</source>
         <comment>DgUil_KSO_Cmd_LineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw linię</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
         <comment>DgUil_KSO_Cmd_PatternedLines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przerywane linie</translation>
     </message>
     <message>
         <source>Line Style</source>
         <comment>DgUil_KSO_Cmd_LineStylePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation>Styl linii</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
         <comment>DgUil_KSO_Cmd_MoreLines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj Autokształt</translation>
     </message>
     <message>
         <source>Format Shape</source>
@@ -911,17 +911,17 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>No Shadow</source>
         <comment>DgUil_KSO_Cmd_NoShadow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak cienia</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>DgUil_KSO_Cmd_ShadowPalette</comment>
-        <translation type="unfinished">Cień</translation>
+        <translation>Cień</translation>
     </message>
     <message>
         <source>Toggle Shadow</source>
         <comment>DgUil_KSO_Cmd_ShadowOnOff</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz cień</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
@@ -946,162 +946,162 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Shadow Color</source>
         <comment>DgUil_KSO_Cmd_ShadowColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kolor cienia</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
         <comment>DgUil_KSO_Cmd_SemitransparentShadow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Półprzezroczysty cień</translation>
     </message>
     <message>
         <source>No 3-D</source>
         <comment>DgUil_KSO_Cmd_No3DStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bez 3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DStylePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
         <comment>DgUil_KSO_Cmd_3DOnOff</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz 3D</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltDown</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć 3D</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltUp</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć 3D</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć 3D</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltRight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć 3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value36</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value72</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value144</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value288</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepthInfinity</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>Custom 3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepthCustom</comment>
-        <translation type="unfinished"></translation>
+        <translation>Własne 3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirectionPalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirctionType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirctionType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingPalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>DgUil_KSO_Cmd_3DColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kolor 3D</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_Cmd_3DDepthUnit</comment>
-        <translation type="unfinished"></translation>
+        <translation>pkt.</translation>
     </message>
     <message>
         <source>Open Path</source>
         <comment>DgUil_KSO_Cmd_OpenPath</comment>
-        <translation type="unfinished">Otwórz Scieżkę</translation>
+        <translation>Otwórz ścieżkę</translation>
     </message>
     <message>
         <source>Close Path</source>
         <comment>DgUil_KSO_Cmd_ClosePath</comment>
-        <translation type="unfinished">Zamknij Ścieżkę</translation>
+        <translation>Zamknij ścieżkę</translation>
     </message>
     <message>
         <source>Add Point</source>
         <comment>DgUil_KSO_Cmd_AddPoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj punkt</translation>
     </message>
     <message>
         <source>Delete Segment</source>
@@ -1126,7 +1126,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Delete Point</source>
         <comment>DgUil_KSO_Cmd_DeletePoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń punkt</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -1600,22 +1600,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Rectangle</source>
         <comment>DRAWINGSTR_RECTANGLE</comment>
-        <translation type="unfinished">Prostokąt</translation>
+        <translation>Prostokąt</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
         <comment>DRAWINGSTR_ROUNDRECTANGLE</comment>
-        <translation type="unfinished">Zaokrąglony Prostokąt</translation>
+        <translation>Zaokrąglony Prostokąt</translation>
     </message>
     <message>
         <source>Oval</source>
         <comment>DRAWINGSTR_ELLIPSE</comment>
-        <translation type="unfinished">Owal</translation>
+        <translation>Owal</translation>
     </message>
     <message>
         <source>Diamond</source>
         <comment>DRAWINGSTR_DIAMOND</comment>
-        <translation type="unfinished">Diament</translation>
+        <translation>Diament</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
@@ -1635,32 +1635,32 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Trapezoid</source>
         <comment>DRAWINGSTR_TRAPEZOID</comment>
-        <translation type="unfinished">Trapez</translation>
+        <translation>Trapezoid</translation>
     </message>
     <message>
         <source>Hexagon</source>
         <comment>DRAWINGSTR_HEXAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sześciokąt</translation>
     </message>
     <message>
         <source>Octagon</source>
         <comment>DRAWINGSTR_OCTAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ośmiokąt</translation>
     </message>
     <message>
         <source>Cross</source>
         <comment>DRAWINGSTR_PLUS</comment>
-        <translation type="unfinished">Krzyż</translation>
+        <translation>Krzyż</translation>
     </message>
     <message>
         <source>5-Point Star</source>
         <comment>DRAWINGSTR_STAR</comment>
-        <translation type="unfinished">Gwiazda 5-cio Ramienna</translation>
+        <translation>Gwiazda 5-cio ramienna</translation>
     </message>
     <message>
         <source>Right Arrow</source>
         <comment>DRAWINGSTR_ARROW</comment>
-        <translation type="unfinished">Strzałka w Prawo</translation>
+        <translation>Strzałka w prawo</translation>
     </message>
     <message>
         <source>Thin Arrow</source>
@@ -1670,12 +1670,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Pentagon</source>
         <comment>DRAWINGSTR_HOMEPLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pięciokąt</translation>
     </message>
     <message>
         <source>Cube</source>
         <comment>DRAWINGSTR_CUBE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kostka</translation>
     </message>
     <message>
         <source>Balloon</source>
@@ -1685,17 +1685,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Star</source>
         <comment>DRAWINGSTR_SEAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gwiazda</translation>
     </message>
     <message>
         <source>Arc</source>
         <comment>DRAWINGSTR_ARC</comment>
-        <translation type="unfinished">Łuk</translation>
+        <translation>Łuk</translation>
     </message>
     <message>
         <source>Line</source>
         <comment>DRAWINGSTR_LINE</comment>
-        <translation type="unfinished">Linia</translation>
+        <translation>Linia</translation>
     </message>
     <message>
         <source>Plaque</source>
@@ -3243,92 +3243,92 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>XML Files</source>
         <comment>_KsoDesc_Xml</comment>
-        <translation type="unfinished">Pliki XML</translation>
+        <translation>Pliki XML</translation>
     </message>
     <message>
         <source>XML File Templates</source>
         <comment>_KsoDesc_XmlDOT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablony XML</translation>
     </message>
     <message>
         <source>WPS Presentation Files</source>
         <comment>_KsoDesc_WPPFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pliki prezentacji WPS</translation>
     </message>
     <message>
         <source>The document is created by Microsoft Office 95 or earlier version, please convert it to Microsoft Office 97 or later version and try again.</source>
         <comment>_KsoPrompt_FormatVersionNotOffice97OrLater</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokument został stworzony przez Microsoft Office 95 lub wcześniejszy. Proszę przekonwertować go do formatu Microsoft Office 97 lub późniejszego i spróbować ponownie.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
         <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokument Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Documents</source>
         <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenty Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Template</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablon Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Templates</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablony Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
         <comment>_KsoFileFormatDesc_WPSV6_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokument WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSV6_Files</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenty WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
         <comment>_KsoFileFormatDesc_WPSV6DOT_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablon WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Templates</source>
         <comment>_KsoFileFormatDesc_WPSV6DOT_Files</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablony WPS Writer</translation>
     </message>
     <message>
         <source>Text File</source>
         <comment>_KsoFileFormatDesc_Text_File</comment>
-        <translation type="unfinished">Plik Tektowy</translation>
+        <translation>Plik Tektowy</translation>
     </message>
     <message>
         <source>Text Files</source>
         <comment>_KsoFileFormatDesc_Text_Files</comment>
-        <translation type="unfinished">Pliki Tekstowe</translation>
+        <translation>Pliki Tekstowe</translation>
     </message>
     <message>
         <source>RTF File</source>
         <comment>_KsoFileFormatDesc_Rtf_File</comment>
-        <translation type="unfinished">Plik RTF</translation>
+        <translation>Plik RTF</translation>
     </message>
     <message>
         <source>RTF Files</source>
         <comment>_KsoFileFormatDesc_Rtf_Files</comment>
-        <translation type="unfinished">Pliki RTF</translation>
+        <translation>Pliki RTF</translation>
     </message>
     <message>
         <source>Web Page File</source>
         <comment>_KsoFileFormatDesc_HTML_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik strony internetowej</translation>
     </message>
     <message>
         <source>Web Page Files</source>
         <comment>_KsoFileFormatDesc_HTML_Files</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pliki strony insternetowej</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -3348,17 +3348,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
         <comment>_KsoDesc_MSWORD12</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokument Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Template</source>
         <comment>_KsoDesc_MSWORD12DOTX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablon Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Document</source>
         <comment>_KsoDesc_MSWORD12DOCM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokument Microsoft Word 2007/2010 z włączoną obsługą makr</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
@@ -3373,12 +3373,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
         <comment>_KsoPrompt_SaveError</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office napotkał błąd podczas zapisywania pliku. Spróbuj ponownie lub skontaktuj się z obsługą klienta.</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
         <comment>_KsoDesc_MSWORD12DOTM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablon Microsoft Word 2007/2010 z włączoną obsługą makr</translation>
     </message>
 </context>
 <context>
@@ -3409,12 +3409,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
-        <translation type="unfinished">Zapisz jako</translation>
+        <translation>Zapisz jako</translation>
     </message>
 </context>
 <context>
@@ -3422,27 +3422,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>_kso_SaveDiagTitle</comment>
-        <translation type="unfinished">Zapisz Jako</translation>
+        <translation>Zapisz Jako</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_Generic_MessageBox_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Macro</source>
         <comment>_kso_MacroDialog_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
         <comment>_kso_BusyTip_Prompt_Doucment_AutoBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Czekaj, tworzę kopię zapasową pliku...</translation>
     </message>
     <message utf8="true">
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -3481,12 +3481,12 @@ File: %s
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished">Wszystkie Pliki(*.*)</translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
         <comment>_kso_TxExts_All</comment>
-        <translation type="unfinished"></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>call API</source>
@@ -3551,27 +3551,27 @@ File: %s
     <message>
         <source>File loaded</source>
         <comment>_kso_ErrorRep_ContentDlg_CompleteLoad</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik załadowany</translation>
     </message>
     <message>
         <source>File Name</source>
         <comment>_kso_ErrorRep_ContentDlg_FileName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <source>File Description</source>
         <comment>_kso_ErrorRep_ContentDlg_FileDes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opis pliku</translation>
     </message>
     <message>
         <source>File Type</source>
         <comment>_kso_ErrorRep_ContentDlg_FileType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ pliku</translation>
     </message>
     <message>
         <source>File Size</source>
         <comment>_kso_ErrorRep_ContentDlg_FileSize</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar pliku</translation>
     </message>
     <message>
         <source>Dump File</source>
@@ -3586,12 +3586,12 @@ File: %s
     <message>
         <source>Cancel</source>
         <comment>_kso_ErrorRep_MainDlg_NoSendBTN_Text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Error</source>
         <comment>_kso_ErrorRep_MessageBox_NetError_Title</comment>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Network transfer failed! Error code: %d</source>
@@ -3627,17 +3627,17 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_SN_WPS</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_SN_WPP</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_SN_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>(Not limited)</source>
@@ -3662,62 +3662,62 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source> Invalid</source>
         <comment>_kso_versionType_INV</comment>
-        <translation type="unfinished"></translation>
+        <translation> Nieprawidłowa</translation>
     </message>
     <message>
         <source> Professional</source>
         <comment>_kso_versionType_PRO</comment>
-        <translation type="unfinished"></translation>
+        <translation> Profesjonalna</translation>
     </message>
     <message>
         <source> Personal</source>
         <comment>_kso_versionType_PER</comment>
-        <translation type="unfinished"></translation>
+        <translation> Osobista</translation>
     </message>
     <message>
         <source> Development</source>
         <comment>_kso_versionType_DEV</comment>
-        <translation type="unfinished"></translation>
+        <translation> Developerska</translation>
     </message>
     <message>
         <source> OEM</source>
         <comment>_kso_versionType_OEM</comment>
-        <translation type="unfinished"></translation>
+        <translation> OEM</translation>
     </message>
     <message>
         <source> Education</source>
         <comment>_kso_versionType_EDU</comment>
-        <translation type="unfinished"></translation>
+        <translation> Edukacyjna</translation>
     </message>
     <message>
         <source> Community</source>
         <comment>_kso_versionType_COM</comment>
-        <translation type="unfinished"></translation>
+        <translation> Społecznościowa</translation>
     </message>
     <message>
         <source> Business</source>
         <comment>_kso_versionType_TRADE</comment>
-        <translation type="unfinished"></translation>
+        <translation> Biznesowa</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
@@ -3732,22 +3732,22 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office (Beta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office (test)</translation>
     </message>
     <message>
         <source>WPS Office OEM</source>
         <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office OEM</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
@@ -4362,127 +4362,127 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_Caption</comment>
-        <translation type="unfinished">Zarządzanie Kopią Zapasową</translation>
+        <translation>Zarządzanie Kopią Zapasową</translation>
     </message>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_DisplayName</comment>
-        <translation type="unfinished">Zarządzanie Kopią Zapasową</translation>
+        <translation>Zarządzanie Kopią Zapasową</translation>
     </message>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_Caption</comment>
-        <translation type="unfinished">Nowy Dokument</translation>
+        <translation>Nowy Dokument</translation>
     </message>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_DisplayName</comment>
-        <translation type="unfinished">Nowy Dokument</translation>
+        <translation>Nowy Dokument</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_Caption</comment>
-        <translation type="unfinished">Nowa Prezentacja</translation>
+        <translation>Nowa Prezentacja</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_DisplayName</comment>
-        <translation type="unfinished">Nowa Prezentacja</translation>
+        <translation>Nowa Prezentacja</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowy skoroszyt</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowy skoroszyt</translation>
     </message>
     <message>
         <source>Recent documents</source>
         <comment>kso_Recent_Document</comment>
-        <translation type="unfinished">Ostatnie dokumenty</translation>
+        <translation>Ostatnie dokumenty</translation>
     </message>
     <message>
         <source>Recent presentations</source>
         <comment>kso_Recent_Present</comment>
-        <translation type="unfinished">Ostatnie prezentacje</translation>
+        <translation>Ostatnie prezentacje</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
         <comment>kso_Recent_WorkBook</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie skoroszyty</translation>
     </message>
     <message>
         <source>10%</source>
         <comment>kso_s10Percent</comment>
-        <translation type="unfinished">10%</translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>20%</source>
         <comment>kso_s20Percent</comment>
-        <translation type="unfinished">20%</translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
         <comment>kso_s25Percent</comment>
-        <translation type="unfinished">30%</translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>30%</source>
         <comment>kso_s30Percent</comment>
-        <translation type="unfinished">30%</translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>40%</source>
         <comment>kso_s40Percent</comment>
-        <translation type="unfinished">40%</translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>50%</source>
         <comment>kso_s50Percent</comment>
-        <translation type="unfinished">50%</translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5%</source>
         <comment>kso_s5Percent</comment>
-        <translation type="unfinished">5%</translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>60%</source>
         <comment>kso_s60Percent</comment>
-        <translation type="unfinished">60%</translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>70%</source>
         <comment>kso_s70Percent</comment>
-        <translation type="unfinished">70%</translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
         <comment>kso_s75Percent</comment>
-        <translation type="unfinished">75%</translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
         <comment>kso_s80Percent</comment>
-        <translation type="unfinished">80%</translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
         <comment>kso_s90Percent</comment>
-        <translation type="unfinished">90%</translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Add</source>
         <comment>kso_SAddCaption</comment>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Failed to add Add-In</source>
         <comment>kso_sAddCOMAddinFailure</comment>
-        <translation type="unfinished">Nieudane dodanie Dodatku</translation>
+        <translation>Nieudane dodanie Dodatku</translation>
     </message>
     <message>
         <source>(All)</source>
