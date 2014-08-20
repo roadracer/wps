@@ -82,43 +82,43 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль темы</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, с сеткой</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль светлый</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль умеренный</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2 - Выделить 1/Выделить 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2 - Выделить 3/Выделить 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2 - Выделить 5/Выделить 6</translation>
     </message>
 </context>
 <context>
@@ -197,87 +197,87 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, без сетки</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль темы</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, с сеткой</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль светлый</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль умеренный</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный 2 - Выделить 1/Выделить 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный 2 - Выделить 3/Выделить 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный 2 - Выделить 5/Выделить 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Первая строка</translation>
+        <translation>Первая строка</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Первый столбец</translation>
+        <translation>Первый столбец</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Последняя строка</translation>
+        <translation>Последняя строка</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Последний столбец</translation>
+        <translation>Последний столбец</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Чередующиеся строки</translation>
+        <translation>Чередующиеся строки</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Чередующиеся столбцы</translation>
+        <translation>Чередующиеся столбцы</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и первый столбец</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и последний столбец</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Умеренный</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный</translation>
     </message>
 </context>
 <context>
@@ -300,47 +300,47 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Первая строка</translation>
+        <translation>Первая строка</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Первый столбец</translation>
+        <translation>Первый столбец</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Последняя строка</translation>
+        <translation>Последняя строка</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Последний столбец</translation>
+        <translation>Последний столбец</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Чередующиеся строки</translation>
+        <translation>Чередующиеся строки</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Чередующиеся столбцы</translation>
+        <translation>Чередующиеся столбцы</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и первый столбец</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и последний столбец</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Умеренный</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный</translation>
     </message>
 </context>
 <context>

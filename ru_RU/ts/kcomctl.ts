@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="en_US">
 <context>
     <name>KApplication</name>
     <message>
@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation>Темно-бирюзовый</translation>
+        <translation>Тёмно-сиреневый</translation>
     </message>
     <message>
         <source>Dark Blue</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation>Темно-желтый</translation>
+        <translation>Темно-жёлтый</translation>
     </message>
     <message>
         <source>Green</source>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>Teal</source>
-        <translation>Бирюзовый</translation>
+        <translation>Сине-зелёный</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Rose</source>
-        <translation>Роза</translation>
+        <translation>Насыщенный розовый</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -179,11 +179,11 @@
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation>Светло-желтый</translation>
+        <translation>Светло-жёлтый</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation>Светло-зеленый</translation>
+        <translation>Светло-зелёный</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
@@ -203,7 +203,7 @@
     </message>
     <message>
         <source>&amp;More Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Другие цвета...</translation>
     </message>
 </context>
 <context>
@@ -214,7 +214,7 @@
     </message>
     <message>
         <source>Undefined Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Неопределенное мини-приложение</translation>
     </message>
 </context>
 <context>
@@ -233,7 +233,7 @@
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Скрыть панель быстрого доступа</translation>
     </message>
 </context>
 <context>
@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation>Све&amp;рнуть</translation>
+        <translation type="unfinished">С&amp;вернуть</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
@@ -295,14 +295,14 @@
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Восстановить</translation>
     </message>
 </context>
 <context>
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставкить ячейки в контекстное меню</translation>
     </message>
 </context>
 <context>
@@ -336,19 +336,19 @@
     </message>
     <message>
         <source>Caps Lock on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock включен.</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Включенный CapsLock может привести к неправильному вводу пароля.</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перед вводом пароля выключите &quot;Caps Lock&quot;.</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не можете копировать из поля ввода пароля.</translation>
     </message>
 </context>
 <context>
@@ -367,7 +367,7 @@
     </message>
     <message>
         <source>&amp;Show Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Показать панель быстрого доступа</translation>
     </message>
 </context>
 <context>
@@ -390,19 +390,19 @@
     </message>
     <message>
         <source>Unpinned from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Открепленный от списка</translation>
     </message>
     <message>
         <source>Clear Pinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все прикрепленные файлы</translation>
     </message>
     <message>
         <source>Pin to List</source>
-        <translation type="unfinished"></translation>
+        <translation>Прикрепленный к списку</translation>
     </message>
     <message>
         <source>Clear Unpinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все не прикрепленные файлы</translation>
     </message>
 </context>
 <context>
@@ -416,22 +416,22 @@
     <name>KToolTipWidget</name>
     <message>
         <source>KToolTipWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказка</translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Нет)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только слова</translation>
     </message>
 </context>
 <context>
@@ -461,7 +461,29 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation type="unfinished"></translation>
+        <translation>[Устройство] 
+pt=пт; п 
+д=дюйм;д 
+см=см;с 
+мм=мм; м 
+
+[В процентах] 
+% =% 
+
+[Знак] 
+зн=знак 
+
+[°] 
+градус=градус 
+
+[Строка] 
+строка=строка 
+
+[Автоматически] 
+авто=авто 
+
+[Несколько] 
+несколько=несколько</translation>
     </message>
 </context>
 <context>
@@ -476,7 +498,7 @@ multiple=multiple
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное целочисленное.</translation>
     </message>
 </context>
 <context>
@@ -491,14 +513,14 @@ multiple=multiple
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное целочисленное.</translation>
     </message>
 </context>
 <context>
     <name>QLineEdit</name>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вставить</translation>
     </message>
 </context>
 <context>
@@ -547,7 +569,7 @@ multiple=multiple
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>NumLock: On</source>
@@ -559,7 +581,7 @@ multiple=multiple
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>CapsLock: On</source>
@@ -599,15 +621,15 @@ multiple=multiple
     </message>
     <message>
         <source>Overtype</source>
-        <translation type="unfinished"></translation>
+        <translation>Замена</translation>
     </message>
     <message>
         <source>Clear Record from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить запись</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить из списка</translation>
     </message>
 </context>
 </TS>
