@@ -9,6 +9,10 @@ required to translate KSO/WPS. You can install them by follow command in Ubuntu:
 
 	$ sudo apt-get install qt4-dev-tools
 
+In Gentoo:
+
+	$ sudo emerge dev-qt/qtcore dev-qt/linguist
+
 Other system is similar.
 
 Directory structure
