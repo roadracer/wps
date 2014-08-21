@@ -82,47 +82,47 @@
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>без стиля, без сетки</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль из шаблонов &quot;тем&quot;</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>без стиля, с сеткой</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый стиль</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль умеренный</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный стиль</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2 - выделить 1/выделить 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2 - выделить 3/выделить 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2 - выделить 5/выделить 6</translation>
     </message>
 </context>
 <context>
@@ -201,91 +201,91 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Первая строка</translation>
+        <translation>Первая строка</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Первый столбец</translation>
+        <translation>Первый столбец</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Последняя строка</translation>
+        <translation>Последняя строка</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Последний столбец</translation>
+        <translation>Последний столбец</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Чередующиеся строки</translation>
+        <translation>Чередующиеся строки</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Чередующиеся столбцы</translation>
+        <translation>Чередующиеся столбцы</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и первый столбец</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и последний столбец</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Умеренный</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный</translation>
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, без сетки</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль из шаблонов &quot;тем&quot;</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Без стиля, с сеткой</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый стиль</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль умеренный</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль тёмный цвет 2-выделить 1/выделить 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2-выделить 3/выделить 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный стиль 2-выделить 5/выделить 6</translation>
     </message>
 </context>
 <context>
@@ -308,47 +308,47 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Первая строка</translation>
+        <translation>Первая строка</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Первый столбец</translation>
+        <translation>Первый столбец</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Последняя строка</translation>
+        <translation>Последняя строка</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Последний столбец</translation>
+        <translation>Последний столбец</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Чередующиеся строки</translation>
+        <translation>Чередующиеся строки</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Чередующиеся столбцы</translation>
+        <translation>Чередующиеся столбцы</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и первый столбец</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая строка и последний столбец</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Умеренный</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмный</translation>
     </message>
 </context>
 <context>

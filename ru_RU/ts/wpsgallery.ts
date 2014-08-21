@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить коллекцию</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Наибольшее количество записей - 5.</translation>
     </message>
 </context>
 <context>
@@ -82,15 +82,15 @@
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя \WPS Office\Desktop.ini.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя \WPS Office\AppData\Desktop.ini.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя \WPS Office\AppData\My Materials\Desktop.ini.</translation>
     </message>
 </context>
 <context>
