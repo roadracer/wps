@@ -1005,7 +1005,7 @@
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation>Пропускать слова в &amp;верхнем регистре</translation>
+        <translation>Пропускать слова из &amp;ПРОПИСНЫХ букв</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
@@ -5846,7 +5846,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation>Пропускать слова в &amp;верхнем регистре</translation>
+        <translation>Пропускать слова из &amp;ПРОПИСНЫХ букв</translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
@@ -6010,7 +6010,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Steps(Need restart program)</source>
-        <translation>Этапы (необходим перезапуск программы)</translation>
+        <translation>шагов (необходим перезапуск программы)</translation>
     </message>
     <message>
         <source>&amp;Auto numbered lists</source>
@@ -6897,7 +6897,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation>Разрешить для латиницы &amp;обтекание в середине слова</translation>
+        <translation>Разрешить для латиницы &amp;перенос в середине слова</translation>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
@@ -7067,7 +7067,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>C&amp;urrent page</source>
-        <translation>&amp;Текущая страница</translation>
+        <translation>&amp;Текущая</translation>
     </message>
     <message>
         <source>S&amp;election</source>

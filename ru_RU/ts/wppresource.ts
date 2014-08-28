@@ -2903,7 +2903,7 @@ On</source>
     </message>
     <message>
         <source>New from Templates</source>
-        <translation type="obsolete">Создание из шаблонов</translation>
+        <translation type="obsolete">Создание на шаблонах</translation>
     </message>
     <message>
         <source>Open</source>
@@ -16148,7 +16148,7 @@ Slide</source>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Создание из шаблонов</translation>
+        <translation>Создание на других шаблонах</translation>
     </message>
     <message>
         <source>New from Online Templates</source>

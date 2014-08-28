@@ -8636,7 +8636,7 @@ Shape</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Перемещение файла</translation>
+        <translation>Роуминг файлов</translation>
     </message>
     <message>
         <source>Guide</source>
@@ -20603,7 +20603,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Перемещение файла</translation>
+        <translation>Роуминг файлов</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>

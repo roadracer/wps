@@ -1,426 +1,426 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>BackFilePanel</name>
     <message>
         <source>(Recommend to restore)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Рекомендуется восстановить)</translation>
     </message>
     <message>
         <source>Save in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить в %1</translation>
     </message>
     <message>
         <source>Backup in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервное копирование в %1</translation>
     </message>
 </context>
 <context>
     <name>DiagramStyleDlg</name>
     <message>
         <source>Diagram Style Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека стилей диаграмм</translation>
     </message>
     <message>
         <source>&amp;Select a diagram style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выберите стиль диаграммы:</translation>
     </message>
 </context>
 <context>
     <name>DlgKxFileConverter</name>
     <message>
         <source>File Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование файла</translation>
     </message>
     <message>
         <source>Text encoding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кодировка текста:</translation>
     </message>
     <message>
         <source>&amp;Windows(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Windows(по умолчанию)</translation>
     </message>
     <message>
         <source>&amp;Other encoding:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Другие кодировки:</translation>
     </message>
     <message>
         <source>Option:</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр:</translation>
     </message>
     <message>
         <source>Enter/Newline</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввод или новая строка</translation>
     </message>
     <message>
         <source>Only Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Только ввoд</translation>
     </message>
     <message>
         <source>Only Line Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Только переводы строк</translation>
     </message>
     <message>
         <source>Newline/Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая строка или ввод</translation>
     </message>
     <message>
         <source>Pre&amp;view:</source>
-        <translation type="unfinished"></translation>
+        <translation>Прос&amp;мотр:</translation>
     </message>
     <message>
         <source>&amp;Line end:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Конец строки:</translation>
     </message>
 </context>
 <context>
     <name>KAlphaPanel</name>
     <message>
         <source>&amp;Transparence</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прозрачность</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сейчас производится установка или обновление. %1 прекратит работу. Перезапустите %2 после завершения установки или обновления.</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновления WPS Office уже загружены. Хотите их установить?</translation>
     </message>
 </context>
 <context>
     <name>KAvailableCharSetInfoMap</name>
     <message>
         <source>Unicode(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Юникод(шестн.)</translation>
     </message>
     <message>
         <source>ASCII(DEC)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCII(десят.)</translation>
     </message>
     <message>
         <source>ASCII(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>ASCII(шестн.)</translation>
     </message>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Упрощенный китайский GB2312(шестн.)</translation>
     </message>
     <message>
         <source>Symbol(DEC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ(десят.)</translation>
     </message>
     <message>
         <source>Symbol(HEX)</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ(шестн.)</translation>
     </message>
 </context>
 <context>
     <name>KColorDialog</name>
     <message>
         <source>RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>HSL</source>
-        <translation type="unfinished"></translation>
+        <translation>HSL</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Красный:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зелёный:</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;иний:</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>А&amp;льфа-канал:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отт&amp;енок:</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартный</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Другой</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвета</translation>
     </message>
     <message>
         <source>Color mo&amp;de</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовой реж&amp;им</translation>
     </message>
     <message>
         <source>&amp;Saturation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Насыщенность:</translation>
     </message>
     <message>
         <source>&amp;Luminance:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Яркость:</translation>
     </message>
     <message>
         <source>&amp;Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Палитра:</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочий стол</translation>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Не сохраненный при последнем выходе документ восстановлен.(Если восстановленный файл не нужен, закройте его и откройте исходный документ)</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения макета вступят в силу после перезапуска WPS Office.</translation>
     </message>
     <message>
         <source>Downloading the online font &quot;%1&quot;  succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка шрифта из Интернета&quot;%1&quot; выполнена успешно.</translation>
     </message>
     <message>
         <source>Downloading the online font &quot;%1&quot;  failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка загрузки шрифта из Интернета&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Click here to change your interface style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните здесь для изменения стиля интерфейса.</translation>
     </message>
 </context>
 <context>
     <name>KCompressPicturesDlg</name>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешение:</translation>
     </message>
 </context>
 <context>
     <name>KControlsListWidget</name>
     <message>
         <source>%1 controls</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 элементы управления</translation>
     </message>
     <message>
         <source>Register Custom Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Зарегистрировать элемент управления</translation>
     </message>
     <message>
         <source>ActiveX Control(*.ocx;*.dll)</source>
-        <translation type="unfinished"></translation>
+        <translation>Элемент управления ActiveX(*.ocx;*.dll)</translation>
     </message>
     <message>
         <source>Cannot register this control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается зарегистрировать данный объект.</translation>
     </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
         <source>(The file %1 seems to be damaged.)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Файл %1, возможно, повреждён)</translation>
     </message>
 </context>
 <context>
     <name>KDlgCrashUpload</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
-        <translation type="unfinished"></translation>
+        <translation>Возможно, вы произвели ошибочные действия, которые причинили вред текущему документу;</translation>
     </message>
     <message>
         <source>We suggest you upload it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендуется загрузить на сервер.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Upload now</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить на сервер</translation>
     </message>
 </context>
 <context>
     <name>KDlgSwitchFace</name>
     <message>
         <source>Change Interface Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить стиль интерфейса</translation>
     </message>
     <message>
         <source>2012 Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Обложка 2012</translation>
     </message>
     <message>
         <source>2013 Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Обложка 2013</translation>
     </message>
     <message>
         <source>Restart Office to apply the layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустите Office для применениея макета.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2012 Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль 2012</translation>
     </message>
     <message>
         <source>Classic Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Классический</translation>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовая схема</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Изысканный черный 2013</translation>
     </message>
     <message>
         <source>2013 Water Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Водяной синий 2013</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения макета вступят в силу после перезапуска WPS Office.</translation>
     </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
     <message>
         <source>Tab,Enter,Num Enter,Left,Up,Right,Down,Esc,Delete,C,X,V,Z,Y</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>C,X,V,Z,Y</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
 </context>
 <context>
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шифрование</translation>
     </message>
 </context>
 <context>
     <name>KInputPasswordDlg</name>
     <message>
         <source>Enter password to open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите пароль для открытия файла</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль</translation>
     </message>
 </context>
 <context>
     <name>KInputWritePasswordDlg</name>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пароль:</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Enter password to modify, or open read-only file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите пароль для изменения или открытия файла только для чтения.</translation>
     </message>
     <message>
         <source>&amp;Read-only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Только для чтения</translation>
     </message>
 </context>
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать язык</translation>
     </message>
     <message>
         <source>Choose Language Installation Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать установочный пакет для языка</translation>
     </message>
     <message>
         <source>Install Language Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить языковой пакет</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>&amp;Install new language</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Установить новый язык</translation>
     </message>
     <message>
         <source>Get &amp;More...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дополнительно...</translation>
     </message>
     <message>
         <source>ZIP File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл ZIP (*.zip)</translation>
     </message>
     <message>
         <source>&amp;Follow system locale</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Придерживаться языка системы</translation>
     </message>
     <message>
         <source>Installation fails, make sure to install the complete package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка установки. Убедитесь, что устанавливается полный пакет.</translation>
     </message>
     <message>
         <source>Settings will take effect after the application restarts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки вступят в силу после перезапуска приложения.</translation>
     </message>
 </context>
 <context>
@@ -428,777 +428,778 @@
     <message>
         <source>Ctrl,Alt,Shift</source>
         <comment>Assistant key</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ctrl</source>
         <comment>Ctrl key</comment>
-        <translation type="unfinished"></translation>
+        <translation>Клавиша Ctrl</translation>
     </message>
     <message>
         <source>Alt</source>
         <comment>Alt key</comment>
-        <translation type="unfinished"></translation>
+        <translation>Клавиша Alt</translation>
     </message>
     <message>
         <source>Shift</source>
         <comment>Shift key</comment>
-        <translation type="unfinished"></translation>
+        <translation>Клавиша Shift</translation>
     </message>
 </context>
 <context>
     <name>KPPDOptionsModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение</translation>
     </message>
 </context>
 <context>
     <name>KRegisterDlg</name>
     <message>
         <source>Documents&apos; Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор документов</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось сохранить серийный номер. Проверьте, есть ли у вас права администратора.</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходимо заполнить позиции, помеченные &quot;*&quot;.</translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>* Имя:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation type="unfinished"></translation>
+        <translation>(&quot;Имя&quot; - это имя автора и рецензента)</translation>
     </message>
     <message>
         <source>Initials:</source>
-        <translation type="unfinished"></translation>
+        <translation>Инициалы:</translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Организация:</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation type="unfinished"></translation>
+        <translation>* Серийный номер:</translation>
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы ввели неверный серийный номер. Проверьте формат ввода, поддерживаемую версию и правильность даты.</translation>
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный ввод, программа будет закрыта.</translation>
     </message>
 </context>
 <context>
     <name>KShowMoreWindowDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Active Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Активное окно:</translation>
     </message>
     <message>
         <source>Side by Side Window</source>
-        <translation type="unfinished"></translation>
+        <translation>В одном ряду</translation>
     </message>
     <message>
         <source>Compare Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Сравнить в одном ряду</translation>
     </message>
     <message>
         <source>Switch window to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить окно на:</translation>
     </message>
     <message>
         <source>Please select the window to compare:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите окно для сравнения:</translation>
     </message>
 </context>
 <context>
     <name>KSpecialCharInfos</name>
     <message>
         <source>Em Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинное тире</translation>
     </message>
     <message>
         <source>En Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткое тире</translation>
     </message>
     <message>
         <source>Em Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Длинный пробел</translation>
     </message>
     <message>
         <source>En Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткий пробел</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Неразрывный пробел</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторские права</translation>
     </message>
     <message>
         <source>Registered</source>
-        <translation type="unfinished"></translation>
+        <translation>Зарегистрировано</translation>
     </message>
     <message>
         <source>Trademark</source>
-        <translation type="unfinished"></translation>
+        <translation>Товарный знак</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Раздел</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Абзац</translation>
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation type="unfinished"></translation>
+        <translation>Многоточие</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Одинарная открывающая кавычка</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Одинарная закрывающая кавычка</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная открывающая кавычка</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойная закрывающая кавычка</translation>
     </message>
 </context>
 <context>
     <name>KSwitchFaceDlg</name>
     <message>
         <source>2012 Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Обложка 2012</translation>
     </message>
     <message>
         <source>Classic Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Классический</translation>
     </message>
 </context>
 <context>
     <name>KTemplateItemModel</name>
     <message>
         <source>File Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка с файлами</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Never modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Никогда не изменять</translation>
     </message>
 </context>
 <context>
     <name>KUnicodeSubsetInfoMap</name>
     <message>
         <source>Basic Latin</source>
-        <translation type="unfinished"></translation>
+        <translation>Основная латиница</translation>
     </message>
     <message>
         <source>Latin-1 Supplement</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительная латиница-1</translation>
     </message>
     <message>
         <source>Latin Extended-A</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенная латиница-А</translation>
     </message>
     <message>
         <source>Latin Extended-B</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенная латиница-В</translation>
     </message>
     <message>
         <source>IPA Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Фонетические значки</translation>
     </message>
     <message>
         <source>Spacing Modifier Letters</source>
-        <translation type="unfinished"></translation>
+        <translation>Модификаторы букв</translation>
     </message>
     <message>
         <source>Combining Diacritical Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополняющие диакритические знаки</translation>
     </message>
     <message>
         <source>Basic Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Греческий основной</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation type="unfinished"></translation>
+        <translation>Кириллица</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Армянский</translation>
     </message>
     <message>
         <source>Basic Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Основной иврит</translation>
     </message>
     <message>
         <source>Basic Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Арабский основной</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation type="unfinished"></translation>
+        <translation>Деванагари</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"></translation>
+        <translation>Бенгальский</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"></translation>
+        <translation>Гурмухи</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"></translation>
+        <translation>Гуджарати</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"></translation>
+        <translation>Ория</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Тамильский</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"></translation>
+        <translation>Телугу</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"></translation>
+        <translation>Каннада</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"></translation>
+        <translation>Малаялам</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Тайский</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"></translation>
+        <translation>Лаосский</translation>
     </message>
     <message>
         <source>Basic Georgian</source>
-        <translation type="unfinished"></translation>
+        <translation>Грузинский основной</translation>
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation type="unfinished"></translation>
+        <translation>Хангульское джамо</translation>
     </message>
     <message>
         <source>Latin Extended Additional</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительная латиница</translation>
     </message>
     <message>
         <source>Greek Extended</source>
-        <translation type="unfinished"></translation>
+        <translation>Греческий расширенный</translation>
     </message>
     <message>
         <source>General Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Знаки пунктуации</translation>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхние и нижние индексы</translation>
     </message>
     <message>
         <source>Currency Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Денежные символы</translation>
     </message>
     <message>
         <source>Combining Diacritical Marks for Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Объединенные диакритические знаки для символов</translation>
     </message>
     <message>
         <source>Letter-like Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Буквоподобные символы</translation>
     </message>
     <message>
         <source>Number Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Числовые символы</translation>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелки</translation>
     </message>
     <message>
         <source>Mathematical Operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Математические операторы</translation>
     </message>
     <message>
         <source>Miscellaneous Technical</source>
-        <translation type="unfinished"></translation>
+        <translation>Технические символы</translation>
     </message>
     <message>
         <source>Control Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Значки управляющих кодов</translation>
     </message>
     <message>
         <source>Optical Character Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation>Оптическое распознавание знаков</translation>
     </message>
     <message>
         <source>Enclosed Alphanumerics</source>
-        <translation type="unfinished"></translation>
+        <translation>Алфавитно-цифровые обрамленные</translation>
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Символы рамок</translation>
     </message>
     <message>
         <source>Block Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Заполняющие знаки</translation>
     </message>
     <message>
         <source>Geometric Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Геометрические фигуры</translation>
     </message>
     <message>
         <source>Miscellaneous Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Разные символы</translation>
     </message>
     <message>
         <source>Dingbats</source>
-        <translation type="unfinished"></translation>
+        <translation>Значки Dingbats</translation>
     </message>
     <message>
         <source>CJK Symbols and Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - символы и пунктуация</translation>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation type="unfinished"></translation>
+        <translation>Хирагана</translation>
     </message>
     <message>
         <source>Katakana</source>
-        <translation type="unfinished"></translation>
+        <translation>Катакана</translation>
     </message>
     <message>
         <source>Bopomofo</source>
-        <translation type="unfinished"></translation>
+        <translation>Бопомофо</translation>
     </message>
     <message>
         <source>Extended Bopomofo</source>
-        <translation type="unfinished"></translation>
+        <translation>Бопомофо расширенный</translation>
     </message>
     <message>
         <source>Hangul Compatibility Jamo</source>
-        <translation type="unfinished"></translation>
+        <translation>Хангульское джамо (совместимый)</translation>
     </message>
     <message>
         <source>CJK Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - различные знаки</translation>
     </message>
     <message>
         <source>Enclosed CJK Letters and Months</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - вложенные буквы и месяцы</translation>
     </message>
     <message>
         <source>CJK Compatibility</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - знаки совместимости</translation>
     </message>
     <message>
         <source>Hangul</source>
-        <translation type="unfinished"></translation>
+        <translation>Хангыль</translation>
     </message>
     <message>
         <source>Surrogates</source>
-        <translation type="unfinished"></translation>
+        <translation>Суррогаты</translation>
     </message>
     <message>
         <source>CJK Unified Ideographs</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - объединенные иероглифы</translation>
     </message>
     <message>
         <source>CJK Radicals Supplement</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - дополнительные ключи</translation>
     </message>
     <message>
         <source>Kangxi Radicals</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключи кандзи</translation>
     </message>
     <message>
         <source>Ideographic description</source>
-        <translation type="unfinished"></translation>
+        <translation>Идеографические знаки</translation>
     </message>
     <message>
         <source>CJK Unified Ideograph Extension A</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - объединенные расширенные иероглифы А</translation>
     </message>
     <message>
         <source>Private Use Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Область личных символов</translation>
     </message>
     <message>
         <source>CJK Compatibility Ideographs</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - иероглифы совместимости</translation>
     </message>
     <message>
         <source>Alphabetic Presentation Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Декоративные варианты букв</translation>
     </message>
     <message>
         <source>Arabic Presentation Forms-A</source>
-        <translation type="unfinished"></translation>
+        <translation>Арабский декоративный-А</translation>
     </message>
     <message>
         <source>Combining Half Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Половинные знаки</translation>
     </message>
     <message>
         <source>CJK Compatibility Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>ККЯ - совместимые варианты</translation>
     </message>
     <message>
         <source>Small Form Variants</source>
-        <translation type="unfinished"></translation>
+        <translation>Варианты малых форм</translation>
     </message>
     <message>
         <source>Arabic Presentation Forms-B</source>
-        <translation type="unfinished"></translation>
+        <translation>Арабский декоративный-В</translation>
     </message>
     <message>
         <source>Halfwidth and Fullwidth Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Варианты измененной ширины</translation>
     </message>
     <message>
         <source>Specials</source>
-        <translation type="unfinished"></translation>
+        <translation>Специальные символы</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"></translation>
+        <translation>Тибетский</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"></translation>
+        <translation>Сирийский</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"></translation>
+        <translation>Таана (мальдивский)</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"></translation>
+        <translation>Сингальский</translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Мьянма (бирманский)</translation>
     </message>
     <message>
         <source>Ethiopic</source>
-        <translation type="unfinished"></translation>
+        <translation>Эфиопский</translation>
     </message>
     <message>
         <source>Cherokee</source>
-        <translation type="unfinished"></translation>
+        <translation>Чероки</translation>
     </message>
     <message>
         <source>Canadian Aboriginal Syllabics</source>
-        <translation type="unfinished"></translation>
+        <translation>Канадское слоговое письмо</translation>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"></translation>
+        <translation>Огамическое письмо</translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation type="unfinished"></translation>
+        <translation>Руническое письмо</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Кхмерский</translation>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"></translation>
+        <translation>Монгольский</translation>
     </message>
     <message>
         <source>Braille</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт Брайля</translation>
     </message>
     <message>
         <source>Yi Radicals</source>
-        <translation type="unfinished"></translation>
+        <translation>Ицзу - ключи</translation>
     </message>
 </context>
 <context>
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Product ID: </source>
-        <translation type="unfinished"></translation>
+        <translation>Код продукта:</translation>
     </message>
     <message>
         <source>Part of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть %1</translation>
     </message>
     <message>
         <source>%1(%2)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>res:/icons/kxshare/%1.png</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Part of %1 activation version</source>
-        <translation type="unfinished"></translation>
+        <translation>Часть %1 версии активации</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе WPS Writer</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе WPS Spreadsheets</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе WPS Presentation</translation>
     </message>
     <message>
         <source>About WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе WPS Office</translation>
     </message>
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается найти или ошибка файла справки!</translation>
     </message>
 </context>
 <context>
     <name>KxApiDefaultDlg</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>This method %1 is not implemented. If the default value is used, then may bring risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Метод %1 не поддерживается. Не рекомендуется использование значения по умолчанию.</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбой загрузки XML файла пользовательского интерфейса. Для получения дополнительной информации используйте отладчик (KDebugConsole) или просмотрите файлы записей неисправностей.</translation>
     </message>
 </context>
 <context>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Линии</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединительные линии</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигурные стрелки</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation type="unfinished"></translation>
+        <translation>Звезды и ленты</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Выноски</translation>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Управляющие кнопки</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Простые фигуры</translation>
     </message>
 </context>
 <context>
     <name>KxCOMAddinsDlg</name>
     <message>
         <source>Load at Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Загружать при запуске</translation>
     </message>
     <message>
         <source>Load on Demand</source>
-        <translation type="unfinished"></translation>
+        <translation>Загружать по требованию</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимо</translation>
     </message>
     <message>
         <source>Add Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить элемент</translation>
     </message>
     <message>
         <source>Executable File</source>
-        <translation type="unfinished"></translation>
+        <translation>Исполняемый файл</translation>
     </message>
     <message>
         <source>Failed to add Add-In</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка добавления надстройки</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка удаления надстройки</translation>
     </message>
     <message>
         <source>Load on Demand (Currently loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation>Загружать по требованию (уже загружен)</translation>
     </message>
     <message>
         <source>Failed to modify Add-In settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка изменения параметров надстройки</translation>
     </message>
 </context>
 <context>
     <name>KxChangeIconDlg</name>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)</translation>
     </message>
     <message>
         <source>Icon Files(*.ico)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы значков(*.ico)</translation>
     </message>
     <message>
         <source>Executable Files(*.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Исполняемые файлы(*.exe)</translation>
     </message>
     <message>
         <source>Dynamic Link Lib(*.dll)</source>
-        <translation type="unfinished"></translation>
+        <translation>Динамические библиотеки(*.dll)</translation>
     </message>
     <message>
         <source>There is no icon in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет значка в &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>KxColorAndLineWidget</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Другой</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Без заливки</translation>
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Без линий</translation>
     </message>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 пт</translation>
     </message>
     <message>
         <source>&amp;Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прямая</translation>
     </message>
     <message>
         <source>&amp;Elbow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изгиб</translation>
     </message>
     <message>
         <source>&amp;Curved</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Кривая</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Follow Accent and Followed Scheme Color не переведен</translatorcomment>
+        <translation>Цвет фона, Цвет текстов и линий, Цвет теней, Цвет заголовков, Цвет заливки, Цвет акцентов, Цвет акцентов с гиперссылкой, Цвет акцентов с последующей гиперссылкой</translation>
     </message>
 </context>
 <context>
     <name>KxColorGalleryModel</name>
     <message>
         <source>Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвета темы</translation>
     </message>
     <message>
         <source>Standard Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартные цвета</translation>
     </message>
 </context>
 <context>
     <name>KxCommandListModel</name>
     <message>
         <source>Failed to add new command.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка добавления новой команды.</translation>
     </message>
 </context>
 <context>
@@ -1206,261 +1207,262 @@
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Для работы с панелью элементов управления необходима WPS Office Профессональная.
+</translation>
     </message>
 </context>
 <context>
     <name>KxControlsListCommand</name>
     <message>
         <source>Register Custom Control...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зарегистрировать элемент управления...</translation>
     </message>
 </context>
 <context>
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"></translation>
+        <translation>Полный путь:</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(По умолчанию)</translation>
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Достигнуто предельное число пользовательских словарей.</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл словаря(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание пользовательского словаря</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл словаря(*.dic)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить пользовательский словарь</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка добавления &quot;%1&quot;. Файл уже существует.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка добавления &quot;%1&quot;. Проверьте формат файла.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя удалить последний словарь!</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление пользовательского словаря может повлиять на пользовательские словари, используемые другими программами WPS Office. Хотите продолжить?</translation>
     </message>
 </context>
 <context>
     <name>KxCustomListModel</name>
     <message>
         <source>  Option Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>  Вкладка параметров</translation>
     </message>
 </context>
 <context>
     <name>KxCustomRibbonEx_Group</name>
     <message>
         <source>Custom Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Настраиваемая группа</translation>
     </message>
 </context>
 <context>
     <name>KxCustomRibbonEx_Tab</name>
     <message>
         <source>Custom Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Настраиваемая вкладка</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarCmd</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Диалоговое окно</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Восстановить исходное</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить вниз</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изменить...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>&amp;Copy To...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Копировать в...</translation>
     </message>
     <message>
         <source>&amp;Move To...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Переместить в...</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать &amp;группирование</translation>
     </message>
     <message>
         <source>Copy P&amp;icture</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать изо&amp;бражение</translation>
     </message>
     <message>
         <source>P&amp;aste Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Вс&amp;тавить изображение</translation>
     </message>
     <message>
         <source>Copy To</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать в</translation>
     </message>
     <message>
         <source>Move To</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить в</translation>
     </message>
     <message>
         <source>Command &amp;Bars:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Командные строки:</translation>
     </message>
     <message>
         <source>Comman&amp;ds:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ко&amp;манды:</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Вверх</translation>
     </message>
     <message>
         <source>Are you sure to reset the &apos;%1&apos; command?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите восстановить исходные настройки команды &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarCmdBase</name>
     <message>
         <source>Command Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Командная строка</translation>
     </message>
     <message>
         <source>Main Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Главное меню</translation>
     </message>
     <message>
         <source>Shortcut Menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстные меню</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarDlg</name>
     <message>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Панели инструментов</translation>
     </message>
     <message>
         <source>&amp;Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Команды</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarTB</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Восстановить исходные</translation>
     </message>
     <message>
         <source>Tool&amp;bars</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Панели инструментов</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Создать...</translation>
     </message>
     <message>
         <source>R&amp;ename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Пер&amp;именовать...</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarWTB</name>
     <message>
         <source>Please enter &amp;toolbar&apos;s name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите название &amp;панели инструментов:</translation>
     </message>
     <message>
         <source>The toolbar name must not be blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Название панели инструментов не должно быть пустым.</translation>
     </message>
     <message>
         <source>Toolbar has been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавлена панель инструментов.</translation>
     </message>
     <message>
         <source>Toolbar has been renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель инструментов была переименована.</translation>
     </message>
     <message>
         <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить панель инструментов &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure to reset the &apos;%1&apos; toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Переустановить панель инструментов &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -1468,216 +1470,217 @@
     <message>
         <source>To work with Developer tab (including Macros, Control
 Toolbox), please purchase WPS Office Professional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для работы с вкладкой &quot;Разработчик&quot; (включая макросы,
+панель элементов управления) необходима WPS Office Профессиональная.</translation>
     </message>
 </context>
 <context>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>Cycle Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Циклическая диаграмма</translation>
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Радиальная диаграмма</translation>
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Пирамидальная диаграмма</translation>
     </message>
     <message>
         <source>Venn diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Диаграмма Венна</translation>
     </message>
     <message>
         <source>Target Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Целевая диаграмма</translation>
     </message>
     <message>
         <source>Used to show hierarchical relationships</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение структуры отношений</translation>
     </message>
     <message>
         <source>Used to show a process with a continuous cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение процесса непрерывного цикла</translation>
     </message>
     <message>
         <source>Used to show relationships of core elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение отношений основных элементов</translation>
     </message>
     <message>
         <source>Used to show foundation-based relationships</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение фундаментальных отношений</translation>
     </message>
     <message>
         <source>Used to show areas of overlap between elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение областей перекрывания элементов</translation>
     </message>
     <message>
         <source>Used to show steps toward a goal</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение шагов, направленных на достижение цели</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Организационная диаграмма</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCOMAddins</name>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Надстройки COM</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение:</translation>
     </message>
     <message>
         <source>Load behavior:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поведение при загрузке:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание:</translation>
     </message>
     <message>
         <source>A&amp;dd-Ins available:</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступные &amp;надстройки:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgChangeIcon</name>
     <message>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить значок</translation>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла:</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Значок:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Обзор...</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Название:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательский словарь</translation>
     </message>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation type="unfinished"></translation>
+        <translation>Список &amp;словарей</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изменить...</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Создать...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить по умолчанию(&amp;C)</translation>
     </message>
     <message>
         <source>Full Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный путь</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDiagramGallery</name>
     <message>
         <source>Diagram Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека диаграмм</translation>
     </message>
     <message>
         <source>Select a &amp;diagram type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите тип &amp;диаграммы:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение словаря</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Слово:</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;ловарь</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактирование текста WordArt</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шрифт:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Размер:</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Текст:</translation>
     </message>
     <message utf8="true">
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1685,722 +1688,723 @@ Toolbox), please purchase WPS Office Professional.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;宋体&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxDlgEncryptionType</name>
     <message>
         <source>Encryption Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип шифрования</translation>
     </message>
     <message>
         <source>&amp;Choose encryption type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выбор типа шифрования:</translation>
     </message>
     <message>
         <source>Choose &amp;key length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите длину &amp;ключа:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFillEffects</name>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Способы заливки</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Градиент</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;От:</translation>
     </message>
     <message>
         <source>T&amp;o:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;До:</translation>
     </message>
     <message>
         <source>V&amp;ariants</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Варианты</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвета</translation>
     </message>
     <message>
         <source>O&amp;ne color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Один цвет</translation>
     </message>
     <message>
         <source>&amp;Two colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Д&amp;ва цвета</translation>
     </message>
     <message>
         <source>Pre&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation>Пред&amp;установка</translation>
     </message>
     <message>
         <source>Color &amp;1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет &amp;1:</translation>
     </message>
     <message>
         <source>Dar&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>Т&amp;ёмный</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлый</translation>
     </message>
     <message>
         <source>Color &amp;2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет &amp;2:</translation>
     </message>
     <message>
         <source>Pres&amp;et colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пре&amp;дустановленный цвет:</translation>
     </message>
     <message>
         <source>Early Sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ранний закат</translation>
     </message>
     <message>
         <source>Late Sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>Поздний закат</translation>
     </message>
     <message>
         <source>Nightfall</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумерки</translation>
     </message>
     <message>
         <source>Daybreak</source>
-        <translation type="unfinished"></translation>
+        <translation>Рассвет</translation>
     </message>
     <message>
         <source>Horizon</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонт</translation>
     </message>
     <message>
         <source>Desert</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустыня</translation>
     </message>
     <message>
         <source>Ocean</source>
-        <translation type="unfinished"></translation>
+        <translation>Океан</translation>
     </message>
     <message>
         <source>Calm Water</source>
-        <translation type="unfinished"></translation>
+        <translation>Спокойная вода</translation>
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>Пламя</translation>
     </message>
     <message>
         <source>Fog</source>
-        <translation type="unfinished"></translation>
+        <translation>Туман</translation>
     </message>
     <message>
         <source>Moss</source>
-        <translation type="unfinished"></translation>
+        <translation>Мох</translation>
     </message>
     <message>
         <source>Peacock</source>
-        <translation type="unfinished"></translation>
+        <translation>Павлин</translation>
     </message>
     <message>
         <source>Wheat</source>
-        <translation type="unfinished"></translation>
+        <translation>Пшеница</translation>
     </message>
     <message>
         <source>Parchment</source>
-        <translation type="unfinished"></translation>
+        <translation>Пергамент</translation>
     </message>
     <message>
         <source>Mahogany</source>
-        <translation type="unfinished"></translation>
+        <translation>Красное дерево</translation>
     </message>
     <message>
         <source>Rainbow</source>
-        <translation type="unfinished"></translation>
+        <translation>Радуга</translation>
     </message>
     <message>
         <source>RainbowII</source>
-        <translation type="unfinished"></translation>
+        <translation>Радуга II</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Золото</translation>
     </message>
     <message>
         <source>GoldII</source>
-        <translation type="unfinished"></translation>
+        <translation>Золото II</translation>
     </message>
     <message>
         <source>Brass</source>
-        <translation type="unfinished"></translation>
+        <translation>Медь</translation>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"></translation>
+        <translation>Хром</translation>
     </message>
     <message>
         <source>ChromeII</source>
-        <translation type="unfinished"></translation>
+        <translation>Хром II</translation>
     </message>
     <message>
         <source>Silver</source>
-        <translation type="unfinished"></translation>
+        <translation>Серебро</translation>
     </message>
     <message>
         <source>Sapphire</source>
-        <translation type="unfinished"></translation>
+        <translation>Сапфир</translation>
     </message>
     <message>
         <source>Spring</source>
-        <translation type="unfinished"></translation>
+        <translation>Весна</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зелёный</translation>
     </message>
     <message>
         <source>Coffee</source>
-        <translation type="unfinished"></translation>
+        <translation>Кофе</translation>
     </message>
     <message>
         <source>Mirage</source>
-        <translation type="unfinished"></translation>
+        <translation>Мираж</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Красный</translation>
     </message>
     <message>
         <source>Shading styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип штриховки</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Горизонтально</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вертикально</translation>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
-        <translation type="unfinished"></translation>
+        <translation>Диагональ вве&amp;рх</translation>
     </message>
     <message>
         <source>Diagonal &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translation>Диагональ в&amp;низ</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Из угла</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;От центра</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстура</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Текстура:</translation>
     </message>
     <message>
         <source>&amp;Other Texture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Другие текстуры...</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Узор</translation>
     </message>
     <message>
         <source>Pa&amp;ttern:</source>
-        <translation type="unfinished"></translation>
+        <translation>У&amp;зоры:</translation>
     </message>
     <message>
         <source>&amp;Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Передний план:</translation>
     </message>
     <message>
         <source>&amp;Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Фон:</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Picture:</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение:</translation>
     </message>
     <message>
         <source>Se&amp;lect Picture...</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы&amp;брать изображение...</translation>
     </message>
     <message>
         <source>Lock &amp;picture aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Со&amp;хранять пропорции изображения</translation>
     </message>
     <message>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Образец:</translation>
     </message>
     <message>
         <source>Rotate fill effect &amp;with shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Вра&amp;щать заливку вместе с фигурой</translation>
     </message>
     <message>
         <source>Curtain of Night</source>
-        <translation type="unfinished"></translation>
+        <translation>Конец ночи</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат автофигуры</translation>
     </message>
 </context>
 <context>
     <name>KxDlgGenerally</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Диалоговое окно</translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number of services and features</source>
-        <translation type="unfinished"></translation>
+        <translation>Установите Профессиональную версию, в которой доступно большее количество сервисов и функций</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxDlgInputBox</name>
     <message>
         <source>Input:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввод:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertOLEObject</name>
     <message>
         <source>Insert Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить объект</translation>
     </message>
     <message>
         <source>Create &amp;new</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать &amp;новый</translation>
     </message>
     <message>
         <source>Create from &amp;file</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать из &amp;файла</translation>
     </message>
     <message>
         <source>Object &amp;type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Тип объекта:</translation>
     </message>
     <message>
         <source>Fil&amp;e name:</source>
-        <translation type="unfinished"></translation>
+        <translation>И&amp;мя файла:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Обзор...</translation>
     </message>
     <message>
         <source>&amp;Link to file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Связать с файлом</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат</translation>
     </message>
     <message>
         <source>&amp;Display as icon</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;В виде значка</translation>
     </message>
     <message>
         <source>Change &amp;Icon...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сменить &amp;значок...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertSymbol</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ</translation>
     </message>
     <message>
         <source>&amp;Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Символы</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шрифт:</translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Т&amp;ема:</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ранее использовавшиеся символы:</translation>
     </message>
     <message>
         <source>&amp;Character code:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Код символа:</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Из:</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Специальные знаки</translation>
     </message>
     <message>
         <source>&amp;Characters:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Знаки:</translation>
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пользовательские символы</translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сочетание клавиш:</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сочетание &amp;клавиш:</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать со&amp;четания клавиш</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить в&amp;низ</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить &amp;вверх</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Восс&amp;тановить исходную панель символов</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка пользовательских &amp;символов</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вставить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Cust&amp;om symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользова&amp;тельские символы:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgLicense</name>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензионное соглашение</translation>
     </message>
     <message>
         <source>Agree</source>
-        <translation type="unfinished"></translation>
+        <translation>Принимаю</translation>
     </message>
     <message>
         <source>Disagree</source>
-        <translation type="unfinished"></translation>
+        <translation>Не принимаю</translation>
     </message>
 </context>
 <context>
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Set as &amp;default template</source>
-        <translation type="unfinished"></translation>
+        <translation>Сделать шаблоном по &amp;умолчанию</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPrintProgress</name>
     <message>
         <source>Print Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Ход выполнения</translation>
     </message>
     <message>
         <source>Printing file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать файла:</translation>
     </message>
     <message>
         <source>Using printer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Принтер:</translation>
     </message>
     <message>
         <source>Printing progress:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ход выполнения:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPrinterProperties</name>
     <message>
         <source>Printer Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства принтера</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRbCustom</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки быстрого доступа</translation>
     </message>
     <message>
         <source>&amp;Add &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить &gt;&gt;</translation>
     </message>
     <message>
         <source>&lt;&lt; &amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; &amp;Удалить</translation>
     </message>
     <message>
         <source>Apply to all documents(default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить ко всем документам (по умолчанию)</translation>
     </message>
     <message>
         <source>Only apply to the current document</source>
-        <translation type="unfinished"></translation>
+        <translation>Применять только к текущему документу</translation>
     </message>
     <message>
         <source>Reset Quick Access:</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходные настройки быстрого доступа:</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished"></translation>
+        <translation>Во&amp;сстановить исходные настройки</translation>
     </message>
     <message>
         <source>&amp;Choose command from:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выбрать команду:</translation>
     </message>
     <message>
         <source>Cust&amp;omize Quick Access:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Настроить быстрый доступ:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление недавними файлами</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Код</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать &amp;все</translation>
     </message>
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите записи, которые вы хотите удалить из списка последних файлов, а затем нажмите кнопку &quot;Удалить&quot;. Файлы не будут удалены, удалятся только записи.
+Для открытия файла дважды щёлкните значок или используйте всплывающее меню. Это отменит выбор элементов.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgScreenTip</name>
     <message>
         <source>Set Hyperlink ScreenTip</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказка для гиперссылки</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст &amp;подсказки:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Диалоговое окно</translation>
     </message>
     <message>
         <source>Update Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим просмотра</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказка</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Благодарим за использование WPS Office 2012 Бета 2.</translation>
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Истёк испытательный период бета-версии WPS Office. Можно войти в режим просмотра, с отключённым вводом с клавиатуры и продолжить, или обновить до последней версии WPS Office Личная.</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxDockPaneTitle</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Слово содержит недопустимые символы. Ошибка обработки.</translation>
     </message>
 </context>
 <context>
     <name>KxEditWordArtTextDlg</name>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть между %1 и %2.</translation>
     </message>
     <message>
         <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт %1 не установлен в вашей системе. Будет использован шрифт замены. Продолжить?</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимое целое число.</translation>
     </message>
 </context>
 <context>
     <name>KxEncryptionTypeDlg</name>
     <message>
         <source>XOR Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Метод шифрования XOR</translation>
     </message>
     <message>
         <source>Standard Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартное шифрование</translation>
     </message>
     <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please input a password between </source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите пароль в промежутке между</translation>
     </message>
     <message>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation> и </translation>
     </message>
     <message>
         <source> multiple of 8!</source>
-        <translation type="unfinished"></translation>
+        <translation> кратным 8!</translation>
     </message>
 </context>
 <context>
     <name>KxEulaDlg</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензионное соглашение</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отказываюсь</translation>
     </message>
     <message>
         <source>I &amp;Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Принимаю</translation>
     </message>
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсутствует лицензионное соглашение, что означает использование неполного пакета программного обеспечения.&lt;br/&gt;Скачайте заново с &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;официальной веб-страницы&lt;/a&gt;, и не вносите изменения.</translation>
     </message>
 </context>
 <context>
     <name>KxFeekbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отзывы и предложения</translation>
     </message>
     <message>
         <source>No E-Mail Client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не установлена программа электронной почты.</translation>
     </message>
 </context>
 <context>
     <name>KxFileConverterDlg</name>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Далее</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение: при сохранении в текстовый файл будут потеряны все изображения, объекты и форматирование.</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите кодировку для чтения данного документа.</translation>
     </message>
 </context>
 <context>
@@ -2408,469 +2412,470 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шифрование...</translation>
     </message>
 </context>
 <context>
     <name>KxFillEffectsDlg</name>
     <message>
         <source>Light downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлая по диагонали вниз</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлая по диагонали вверх</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темная по диагонали вниз</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темная по диагонали вверх</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Широкая по диагонали вниз</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Широкая по диагонали вверх</translation>
     </message>
     <message>
         <source>Light vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлая вертикальная</translation>
     </message>
     <message>
         <source>Light horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлая горизонтальная</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Частая вертикальная</translation>
     </message>
     <message>
         <source>Narrow horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Частая горизонтальная</translation>
     </message>
     <message>
         <source>Dark vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Темная по вертикали</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Темная по горизонтали</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Штриховая по диагонали вниз</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Штриховая по диагонали вверх</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Штриховая горизонтальная</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Штриховая вертикальная</translation>
     </message>
     <message>
         <source>Small confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Мелкое конфетти</translation>
     </message>
     <message>
         <source>Large confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Крупное конфетти</translation>
     </message>
     <message>
         <source>Zig zag</source>
-        <translation type="unfinished"></translation>
+        <translation>Зигзаг</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Волна 1</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Диагональный кирпич</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонтальный кирпич</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"></translation>
+        <translation>Плетенка</translation>
     </message>
     <message>
         <source>Plaid</source>
-        <translation type="unfinished"></translation>
+        <translation>Шотландка</translation>
     </message>
     <message>
         <source>Divot</source>
-        <translation type="unfinished"></translation>
+        <translation>Уголки</translation>
     </message>
     <message>
         <source>Dotted grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Точечная сетка</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Точечные ромбики</translation>
     </message>
     <message>
         <source>Shingle</source>
-        <translation type="unfinished"></translation>
+        <translation>Дранка</translation>
     </message>
     <message>
         <source>Trellis</source>
-        <translation type="unfinished"></translation>
+        <translation>Шпалера</translation>
     </message>
     <message>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Сферы</translation>
     </message>
     <message>
         <source>Small grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Мелкая сетка</translation>
     </message>
     <message>
         <source>Large grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Крупная сетка</translation>
     </message>
     <message>
         <source>Small checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Мелкие шашки</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Крупные шашки</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Контурные ромбики</translation>
     </message>
     <message>
         <source>Solid diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Ромбики</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет фона</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет текстов и линий</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет теней</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет заголовков</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет акцентов</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет акцентов с гиперссылкой</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет акцентов с последующей гиперссылкой</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;От центра</translation>
     </message>
     <message>
         <source>Fro&amp;m title</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;От названия</translation>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор текстуры</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Все изображения</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенный метафайл Windows</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Метафайл Windows</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Точечный рисунок Windows</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл TIFF</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение слишком велико для использования в качестве шаблона.</translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать изображение</translation>
     </message>
     <message>
         <source>An error occurred while importing this file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при импорте файла %1.</translation>
     </message>
 </context>
 <context>
     <name>KxFontSizeComboboxCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимое целое число.</translation>
     </message>
 </context>
 <context>
     <name>KxFormatShapeDlg</name>
     <message>
         <source>Colors and Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвета и линии</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Положение</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Макет</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовое поле</translation>
     </message>
 </context>
 <context>
     <name>KxHideorShowButton</name>
     <message>
         <source>Show Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать окно задач</translation>
     </message>
     <message>
         <source>Hide Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть окно задач</translation>
     </message>
 </context>
 <context>
     <name>KxHyperlinkDlg</name>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Возрат</translation>
     </message>
     <message>
         <source>Up one folder</source>
-        <translation type="unfinished"></translation>
+        <translation>На один уровень вверх</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <source>Browse File</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор файла</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить гиперссылку</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)</translation>
     </message>
 </context>
 <context>
     <name>KxInputDialogCommand</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <source>Custom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать:</translation>
     </message>
 </context>
 <context>
     <name>KxInsertFileObjectCommand</name>
     <message>
         <source>Insert File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить файловый объект</translation>
     </message>
 </context>
 <context>
     <name>KxInsertOLEObjectDlg</name>
     <message>
         <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет новый объект %1. Он будет изображаться как значок.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка нового объекта %1&apos; в документ в виде значка.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка нового объекта %1&apos;.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка нового объекта %1&apos; в документ.</translation>
     </message>
     <message>
         <source>Inserts an icon into your presentation which represents the file.The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет значок, представляющий файл. Значок будет являться ссылкой на файл, так что изменения файла будут отражаться в презентации.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка в документ значка, который представляет содержимое файла. Изменения в исходном файле будут автоматически отражаться в документе.</translation>
     </message>
     <message>
         <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет файл изображения в презентацию. Изображение будет являться ссылкой на файл, так что изменения файла будут отражаться в презентации.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка содержимого файла в документ, и создание связи с источником. Изменения в исходном файле будут автоматически отражаться в документе.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка содержимого файла в документ, и создание связи с источником. Изменения в источнике будут отражены в документе.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла как объект, что позволяет его активизировать, используя создавшее приложение. Объект будет представлен значком.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка в документ значка, который представляет содержимое файла.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет содержимое файла как объект, что позволяет его активизировать, используя создавшее приложение.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка содержимого указанного файла в документ так, чтобы его можно было редактировать, используя приложение, в котором он был создан.</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается создать ссылку на файл &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>WPS Presentation cannot access %1. The file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation не может получить доступ к %1. Недопустимое имя файла.</translation>
     </message>
     <message>
         <source>WPS Writer cannot access %1. The file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer не может получить доступ к %1. Недопустимое имя файла.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot access %1. The file name is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets не может получить доступ к %1. Недопустимое имя файла.</translation>
     </message>
 </context>
 <context>
     <name>KxInsertSymbolDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>(Normal Text)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Обычный текст)</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Are you sure to reset the Symbol toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Переустановить панель символов?</translation>
     </message>
 </context>
 <context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка запуска макроса &apos;%1&apos;. Макрос не доступен в этой книге, или все макросы были отключены.</translation>
     </message>
 </context>
 <context>
     <name>KxMacroCommand</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Click to purchase now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите, чтобы приобрести сейчас.</translation>
     </message>
     <message>
         <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Для работы с макросами необходима WPS Office Профессиональная.
+</translation>
     </message>
 </context>
 <context>
@@ -2878,180 +2883,181 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Для работы с макросами необходима WPS Office Профессиональная.
+</translation>
     </message>
 </context>
 <context>
     <name>KxMainWindow</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Вернуть</translation>
     </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вид</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Заголовок:</translation>
     </message>
     <message>
         <source>Image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение:</translation>
     </message>
     <message>
         <source>&amp;Modify Image</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изменить изображение</translation>
     </message>
     <message>
         <source>Sho&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ&amp;ать</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <source>Image and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение и текст</translation>
     </message>
     <message>
         <source>Only Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Только текст</translation>
     </message>
     <message>
         <source>Command &amp;binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Назначение &amp;команды</translation>
     </message>
     <message>
         <source>&amp;Hyperlink:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Гиперссылка:</translation>
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выбрать</translation>
     </message>
     <message>
         <source>Con&amp;trol</source>
-        <translation type="unfinished"></translation>
+        <translation>Кон&amp;троль</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Восстановить исходное</translation>
     </message>
     <message>
         <source>Modify Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить команды</translation>
     </message>
     <message>
         <source>&amp;Select Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выбрать значок</translation>
     </message>
     <message>
         <source>&amp;Copy Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Копировать значок</translation>
     </message>
     <message>
         <source>&amp;Paste Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вставить значок</translation>
     </message>
     <message>
         <source>Bitmap file(*.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл точечного рисунка (*.bmp)</translation>
     </message>
     <message>
         <source>Select picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать изображение</translation>
     </message>
     <message>
         <source>&amp;Open File...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Открыть файл...</translation>
     </message>
     <message>
         <source>&amp;Insert Picture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить изображение...</translation>
     </message>
     <message>
         <source>All files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)</translation>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображения (*.emf файлы *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif * .tiff)</translation>
     </message>
     <message>
         <source>Windows Enhanced MetaFile(*.wmf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенный метафайл Windows(*.wmf)</translation>
     </message>
     <message>
         <source>Portable Network Graphic(*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл PNG(*.png)</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(GIF)(*.gif)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл GIF(*.gif)</translation>
     </message>
     <message>
         <source>Tag Image File Format(*tif *tiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл TIFF(*tif *tiff)</translation>
     </message>
     <message>
         <source>Shortcut &amp;key</source>
-        <translation type="unfinished"></translation>
+        <translation>Сочетание &amp;клавиш</translation>
     </message>
     <message>
         <source>&amp;Open from File...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Открыть из файла...</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенный метафайл Windows(*.emf)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл JPEG(*.jpg *.jpeg *.jpe)</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Точечный рисунок Windows(*.bmp)</translation>
     </message>
 </context>
 <context>
     <name>KxNewTemplateDlg</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый документ</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая презентация</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая книга</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить</translation>
     </message>
 </context>
 <context>
@@ -3059,931 +3065,938 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>Using online fonts needs to sign in.
 Click the icon to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для использования шрифтов из Интернета необходимо войти на сайт.
+Нажмите на значок для входа.</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Вход</translation>
     </message>
     <message>
         <source>Pay font, which is free for VIP.
 Click the icon for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот платный шрифт является бесплатным для &quot;важных клиентов&quot;.
+Щёлкните значок для получения более подробной информации.</translation>
     </message>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загружается, подождите...</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Пауза. Щёлкните для продолжения</translation>
     </message>
     <message>
         <source>Click to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните, чтобы использовать</translation>
     </message>
     <message>
         <source>Click to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните, чтобы скачать</translation>
     </message>
     <message>
         <source>For more details</source>
-        <translation type="unfinished"></translation>
+        <translation>Для более подробной информации</translation>
     </message>
     <message>
         <source>VIP soon to be expired.
 Click to recharge for more discounts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает срок режима &quot;важный клиент&quot;.
+Щёлкните для обновления и получения новых скидок.
+</translation>
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сложить шрифты из Интернета</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать шрифты из Интернета</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифты из Интернета</translation>
     </message>
     <message>
         <source>More online fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие шрифты из Интернета</translation>
     </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation type="unfinished"></translation>
+        <translation>Благодарим вас за использование пробной версии нашего продукта.</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим просмотра</translation>
     </message>
     <message>
         <source>Disable Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Запретить печать</translation>
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить до версии &quot;Личная&quot;</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы также можете загрузить</translation>
     </message>
     <message>
         <source>Purchase Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Приобрести</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>предложение не закончено :)</translatorcomment>
+        <translation>Истёк пробный период использования WPS Office, и будет доступен только режим просмотра.Для продолжения использования приложения введите действующий серийный номер или приобретите новый.</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>предложение не закончено</translatorcomment>
+        <translation>Истёк пробный период использования WPS Office, и печать будет недоступна.Для продолжения использования приложения введите действующий серийный номер или приобретите новый.</translation>
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office Бесплатная.</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation type="unfinished"></translation>
+        <translation>Интернет-магазин WPS.</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввести серийный номер</translation>
     </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
     <message>
         <source>Unknown Format Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный формат источника.</translation>
     </message>
     <message>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат:</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>При вставке гиперссылки будет создан ярлык к исходному файлу. Изменения в исходном файле будут автоматически отражаться в документе.</translation>
     </message>
 </context>
 <context>
     <name>KxPrintProgressDlg</name>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Инициализация принтера...</translation>
     </message>
     <message>
         <source>Printing %1 page of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать страницы %1 из %2</translation>
     </message>
 </context>
 <context>
     <name>KxPrinter</name>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Принтер</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Двусторонняя печать вручную</translation>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать в &amp;файл</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Свойства...</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечание:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип:</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation type="unfinished"></translation>
+        <translation>Где:</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Имя:</translation>
     </message>
     <message>
         <source>Page &amp;source:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Источник страницы:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Состояние:</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Приостановлен</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Не в сети</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Занят</translation>
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Use printer setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать настройки принтера</translation>
     </message>
     <message>
         <source>&amp;Inverse output</source>
-        <translation type="unfinished"></translation>
+        <translation>В &amp;обратном порядке</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка принтера &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
     <name>KxPropertyDlg</name>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Офис</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Макет</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Подразделение</translation>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка</translation>
     </message>
     <message>
         <source>Publisher</source>
-        <translation type="unfinished"></translation>
+        <translation>Издатель</translation>
     </message>
     <message>
         <source>Typer</source>
-        <translation type="unfinished"></translation>
+        <translation>Печатающий</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер телефона</translation>
     </message>
     <message>
         <source>Work Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочая группа</translation>
     </message>
     <message>
         <source>Record Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата записи</translation>
     </message>
     <message>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Записывающий</translation>
     </message>
     <message>
         <source>Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверяющий</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Раздел</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Назначение</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержимое</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Владелец</translation>
     </message>
     <message>
         <source>Finish Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата завершения</translation>
     </message>
     <message>
         <source>Document Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер документа</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Проект</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Цель</translation>
     </message>
     <message>
         <source>Post Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Почтовое отделение</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Источник</translation>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation>Переслать</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Государство</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойство</translation>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
-        <translation type="unfinished"></translation>
+        <translation>гггг-ММ-дд</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изменить</translation>
     </message>
     <message>
         <source>%L1 byte</source>
-        <translation type="unfinished"></translation>
+        <translation>%L1 байт</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный тип введённого значения. Значение будет сохранено как текст.</translation>
     </message>
 </context>
 <context>
     <name>KxRbCustomDlg</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить исходное</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить вниз</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Граница</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер фигуры</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Вернуть</translation>
     </message>
     <message>
         <source>Reset Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановление особых параметров</translation>
     </message>
     <message>
         <source>The selected command is already on the Quick Access Toolbar!</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная команда уже имеется на панели быстрого доступа!</translation>
     </message>
     <message>
         <source>All commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Команды</translation>
     </message>
     <message>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделитель</translation>
     </message>
     <message>
         <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить параметры по умолчанию для панели быстрого доступа?</translation>
     </message>
 </context>
 <context>
     <name>KxRecentFileManageDlg</name>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Открыть</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
     <name>KxRecentFilePageCommand</name>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удаётся найти папку &quot;%1&quot; . Возможно, она удалена, перемещена или переименована.</translation>
     </message>
 </context>
 <context>
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>KxSerchCtrl</name>
     <message>
         <source>Please enter name to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите имя для поиска</translation>
     </message>
 </context>
 <context>
     <name>KxSetSpellcheckLanguageDlg</name>
     <message>
         <source>Choose installation package of Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите установочный пакет проверки правописания</translation>
     </message>
     <message>
         <source>Zip File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл ZIP (*.zip)</translation>
     </message>
     <message>
         <source>Install the Spell Check package</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить пакет проверки правописания</translation>
     </message>
     <message>
         <source>Installation fails, make sure to install the complete package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка установки, убедитесь в установке полного пакета.</translation>
     </message>
     <message>
         <source>The installation is failed, for the language of the package is being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка установки используемого языкового пакета.</translation>
     </message>
     <message>
         <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык проверки правописания уже установлен. Продолжить тем не менее?</translation>
     </message>
     <message>
         <source>Uninstall Spell Check Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить пакет проверки правописания</translation>
     </message>
     <message>
         <source>The installed user package has been removed, 
 but the included system package is reserved.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Удалён установленный пользовательский пакет, 
+но системный пакет зарезервирован.</translation>
     </message>
 </context>
 <context>
     <name>KxStartup</name>
     <message>
         <source>Not a valid file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимый файл.</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выполнение этой команды невозможно из-за открытого диалогового окна. для продолжения нажмите кнопку &quot;ОК&quot;, и затем закройте все открытые диалоговые окна.</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinModel</name>
     <message>
         <source>2013 Elegant Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Изысканный черный 2013</translation>
     </message>
     <message>
         <source>2012 Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль 2012</translation>
     </message>
     <message>
         <source>Classic Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Классический</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinWidget</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Skin Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление стилями обложек</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchUiTip</name>
     <message>
         <source>The layout will take effect after restarting WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Макет будет применён после перезапуска WPS Office</translation>
     </message>
     <message>
         <source>I already know</source>
-        <translation type="unfinished"></translation>
+        <translation>Я уже знаю</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchView</name>
     <message>
         <source>Restart to make changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузка для применения изменений</translation>
     </message>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий язык неприменим к этой обложке.</translation>
     </message>
 </context>
 <context>
     <name>KxSymbolGalleryModel</name>
     <message>
         <source>Recently Used Symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ранее использовавшиеся символы:</translation>
     </message>
     <message>
         <source>Custom Symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательские символы:</translation>
     </message>
 </context>
 <context>
     <name>KxSystemCheckerCommand</name>
     <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые символы формулы могут не отображаться из-за отсутствия шрифтов %1.</translation>
     </message>
     <message>
         <source>Missing Cups libraries. Cannot access the printer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостающие библиотеки чашек. Ошибка доступа к принтеру.</translation>
     </message>
     <message>
         <source>System DPI is asymmetric. WPS Office may have display issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Несовпадение DPI на уровне системы. Возможны ошибки отображения.</translation>
     </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Значок</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка...</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешение</translation>
     </message>
     <message>
         <source>Do not report again</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не сообщать</translation>
     </message>
     <message>
         <source>Checking completed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка завершена!</translation>
     </message>
     <message>
         <source>System Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка системы</translation>
     </message>
     <message>
         <source>Problems below are detected in the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ниже указаны проблемы, обнаруженные в системе.</translation>
     </message>
 </context>
 <context>
     <name>KxTabbarMenuActCommand</name>
     <message>
         <source>Dock left</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить слева</translation>
     </message>
     <message>
         <source>Dock right</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить справа</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть</translation>
     </message>
     <message>
         <source>Disable Title Switching in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить переключение заголовков в окне задач</translation>
     </message>
     <message>
         <source>Enable Title Switching in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить переключение заголовков в окне задач</translation>
     </message>
     <message>
         <source>Show Icon Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать только значок</translation>
     </message>
     <message>
         <source>Show Button Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать текст кнопки</translation>
     </message>
     <message>
         <source>Hide Custom Button in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть пользовательскую кнопку в окне задач</translation>
     </message>
     <message>
         <source>Show Custom Button in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать пользовательскую кнопку в окне задач</translation>
     </message>
 </context>
 <context>
     <name>KxTableGalleryModel</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить таблицу</translation>
     </message>
     <message>
         <source> %1 * %2 Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблица  %1 * %2</translation>
     </message>
 </context>
 <context>
     <name>KxTaskTabbar</name>
     <message>
         <source>Task window location</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение окна задач</translation>
     </message>
 </context>
 <context>
     <name>KxTemplateOnLineCommand</name>
     <message>
         <source>http://www.kingsoftstore.com</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxTemplateWidget</name>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменён</translation>
     </message>
 </context>
 <context>
     <name>KxTextBoxWidget</name>
     <message>
         <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Объекты или таблицы в масштабируемом или вращаемом текстовом поле будут удалены. Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>KxTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка! Восстановлено автоматически.</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShape</name>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти:</translation>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить автофигуру</translation>
     </message>
     <message>
         <source>Show Large Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Большой предварительный просмотр</translation>
     </message>
     <message>
         <source>AutoShapes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Автофигуры:</translation>
     </message>
 </context>
 <context>
     <name>KxTpBackUp</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать данный список файлов для восстановления предыдущего рабочего состояния после непредвиденного завершения.</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку резервных копий</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;View more help for restore &gt;&gt;&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Clear Backup Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистка файлов резервных копий</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажать кнопку</translation>
     </message>
 </context>
 <context>
     <name>KxTpBackup</name>
     <message>
         <source>Are you sure to delete all files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить все файлы?</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые файлы не могут быть удалены. Они могут находиться в работе.</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
     <message>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Категория:</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Клипы</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
 </context>
 <context>
     <name>KxTpNativeWrapperContainer</name>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Область выделения</translation>
     </message>
     <message>
         <source>Customize animation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки анимации:</translation>
     </message>
 </context>
 <context>
     <name>KxTpNewDoc</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Последние документы</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть...(Ctrl + O)</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть...</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать пустой документ</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать на другом шаблоне...</translation>
     </message>
     <message>
         <source>From Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>На шаблоне оформления</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть диалоговое окно управления последними файлами и удалить все или некоторые.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать на шаблоне из Интернета</translation>
     </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Последние документы</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть...(Ctrl + O)</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть...</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать пустой документ</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать на шаблоне по умолчанию</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать на другом шаблоне...</translation>
     </message>
     <message>
         <source>From Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>На шаблоне оформления</translation>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление</translation>
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть диалоговое окно управления последними файлами и удалить все или некоторые.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать на шаблоне из Интернета</translation>
     </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Shapes on this page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фигуры на этой странице:</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать все</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть все</translation>
     </message>
     <message>
         <source>up</source>
-        <translation type="unfinished"></translation>
+        <translation>вверх</translation>
     </message>
     <message>
         <source>down</source>
-        <translation type="unfinished"></translation>
+        <translation>вниз</translation>
     </message>
     <message>
         <source>Re-order</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить порядок</translation>
     </message>
 </context>
 <context>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти</translation>
     </message>
 </context>
 <context>
@@ -3991,786 +4004,790 @@ but the included system package is reserved.</source>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установите версию &quot;Профессиональная&quot;, в которой доступно 
+большее количество сервисов и функций.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Click to try it now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните для загрузки.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation type="unfinished"></translation>
+        <translation>Приобрести</translation>
     </message>
     <message>
         <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Купите сейчас для получения полной версии WPS Office Профессиональная.</translation>
     </message>
     <message>
         <source>Continue Trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить использование пробной версии.</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetColorAndLines</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат автофигуры</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ц&amp;вет:</translation>
     </message>
     <message>
         <source>Co&amp;nnector:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Соединитель:</translation>
     </message>
     <message>
         <source>ucWeight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>см</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 0.25</source>
-        <translation type="unfinished"></translation>
+        <translation>пт, 2, 0, 1584, 0.25</translation>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелки</translation>
     </message>
     <message>
         <source>cbConnector</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Цвет:</translation>
     </message>
     <message>
         <source>ccFillColor</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Transparency:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прозрачность:</translation>
     </message>
     <message>
         <source>ucTransparentcy</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%, -1, 0, 100, 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Линия</translation>
     </message>
     <message>
         <source>ccLineColor</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbStyle</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbbDashStyle</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Weight:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Толщина:</translation>
     </message>
     <message>
         <source>cbBeginStyle</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbEndStyle</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbBeginSize</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbEndSize</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>По &amp;умолчанию при создании объектов</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetPicture</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Crop from</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрезать</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Яркость:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Справа:</translation>
     </message>
     <message>
         <source>%, 1, 0, 100, 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>пт, 2, -169077, 169077, 1</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Оттенки серого</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Чёрно-белый</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Обесцветить</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Контрастность:</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Цвет:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Снизу:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сверху:</translation>
     </message>
     <message>
         <source>Image control</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;жать...</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить &amp;исходное</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Слева:</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetSize</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Высота:</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходный размер</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить &amp;пропорции</translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Разрешение:</translation>
     </message>
     <message>
         <source>cbResolution</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>640 x 480</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>720 x 512</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>800 x 600</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1024 x 768</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1280 x 1024</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер и поворот</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы&amp;сота:</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ширина:</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>градусы, 0, -3600, 3600, 1</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Высота:</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%, 0, 0, 10675, 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ширина:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина:</translation>
     </message>
     <message>
         <source>&amp;Relative to original picture size</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Относительно исходного размера</translation>
     </message>
     <message>
         <source>&amp;Best scale for slide show</source>
-        <translation type="unfinished"></translation>
+        <translation>Оптимизировать размер для с&amp;лайдов</translation>
     </message>
     <message>
         <source>Ro&amp;tation:</source>
-        <translation type="unfinished"></translation>
+        <translation>В&amp;ращение:</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить ис&amp;ходное</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetTemplate</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Вверх</translation>
     </message>
     <message>
         <source>Large Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Крупные значки</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробно</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>Create new</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать &amp;новый</translation>
     </message>
     <message>
         <source>Do&amp;cument</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Документ</translation>
     </message>
     <message>
         <source>&amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шаблон</translation>
     </message>
     <message>
         <source>Cannot be previewed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр невозможен.</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetTextBox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Text &amp;anchor point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Разм&amp;ещение текста:</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Сверху</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Посередине</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Снизу</translation>
     </message>
     <message>
         <source>Top centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Сверху по центру</translation>
     </message>
     <message>
         <source>Middle centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Посередине по центру</translation>
     </message>
     <message>
         <source>Bottom centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Снизу по центру</translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутренние поля</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Слева:</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>пт, 2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Справа:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Снизу:</translation>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Переносить текст в автофигуре по словам</translation>
     </message>
     <message utf8="true">
         <source>Rotat&amp;e text within autoshape by 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>По&amp;вернуть текст в автофигуре на 90°</translation>
     </message>
     <message>
         <source>Allow text to be wrapped by &amp;external object</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить обтекание текста &amp;внешним объектом</translation>
     </message>
     <message>
         <source>T&amp;op:</source>
-        <translation type="unfinished"></translation>
+        <translation>Све&amp;рху:</translation>
     </message>
     <message>
         <source>Resize autoshape to fit &amp;text</source>
-        <translation type="unfinished"></translation>
+        <translation>Подгонка раз&amp;мера автофигуры под текст</translation>
     </message>
     <message>
         <source>Allow text to rotate with object(&amp;F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить поворот текста с объектом(&amp;F)</translation>
     </message>
     <message>
         <source>Allow text to scale to frame(&amp;Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить масштабирование текста в кадр(&amp;Z)</translation>
     </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
     <message>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Tб</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Гб</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Mб</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Кб</translation>
     </message>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 байт</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>custom %1</source>
-        <translation type="unfinished"></translation>
+        <translation>выбор %1</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Бирюзовый</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмно-синий</translation>
     </message>
     <message>
         <source>Thumb Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тёмно-синий</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Синий</translation>
     </message>
     <message>
         <source>Wathet Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Водяной синий</translation>
     </message>
     <message>
         <source>Blue Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Сизый</translation>
     </message>
     <message>
         <source>Light Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Сиреневый</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 80%</translation>
     </message>
     <message>
         <source>Blue Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиолетово-синий</translation>
     </message>
     <message>
         <source>Aqua green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зелёный аквамарин</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Небесно-голубой</translation>
     </message>
     <message>
         <source>Baby Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-голубой</translation>
     </message>
     <message>
         <source>Light Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло бирюзовый</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Розовый</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 50%</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Изумрудный</translation>
     </message>
     <message>
         <source>Cyan Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зелёно-голубой</translation>
     </message>
     <message>
         <source>Laurel Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Лаврово-зелёный</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Белый</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-желтый</translation>
     </message>
     <message>
         <source>Dark Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-коричневый</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиолетовый</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 40%</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-зеленый</translation>
     </message>
     <message>
         <source>Light Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-зеленый</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Желтый</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Золотой</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-оранжевый</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Красный</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 25%</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <source>Lime Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Салатовый</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмно-жёлтый</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Оливково-зелёный</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Оранжевый</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Коричневый</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Тёмно-красный</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 5%</translation>
     </message>
     <message>
         <source>Gray-10% </source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 20%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 37,5%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 45%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 75%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый 95%</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Голубой</translation>
     </message>
     <message>
         <source>AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическое резервное копирование</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Последние шрифты</translation>
     </message>
     <message>
         <source>All Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифты</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимое имя файла, пожалуйста, введите правильное файла</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>Overwrite file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезаписать файл?</translation>
     </message>
     <message>
         <source>File &quot;%1&quot; already exists. Are you sure you want to overwrite the existing file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл &quot;%1&quot; уже существует. Заменить существующий файл?</translation>
     </message>
     <message>
         <source>The chosen spelling language has been deleted. Please choose a language again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный язык проверки правописания удалён. Выберите другой.</translation>
     </message>
     <message>
         <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки системного реестра препятствуют использованию некоторых объектов. Исправить ошибки?
+(WPS Office используется по умолчанию для открытия %1 файлов)</translation>
     </message>
     <message>
         <source>WPS Office is not the default office software. Do you want to set it as the default one?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office не является oфисной программой, используемой по умолчанию. Использовать её по умолчанию?
+(WPS Office используется по умолчанию для открытия %1 файлов)</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Насыщенный розовый</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Вишневый</translation>
     </message>
     <message>
         <source>Do not show this message again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не показывать это сообщение.</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again. 
 Always take this action.</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не показывать это сообщение.
+Всегда выполнять это действие.</translation>
     </message>
     <message>
         <source>Do not check this when starting WPS Office next time</source>
-        <translation type="unfinished"></translation>
+        <translation>Не проверять при следующем запуске WPS Office</translation>
     </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий системный язык не может использоваться с этой обложкой.</translation>
     </message>
 </context>
 <context>
@@ -4778,30 +4795,32 @@ Always take this action.</source>
     <message>
         <source>WPS Office Free only supports classic style interface.
 You can download WPS Office Professional to enjoy the 2012 style interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>В версии WPS Office Бесплатная поддерживается только классический стиль интерфейса.
+Для использования стиля интефейса 2012 установите WPS Office Профессиональная.</translation>
     </message>
     <message>
         <source>
 The settings will take effect after restarting WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Настройки вступят в силу после перезапуска WPS Office.</translation>
     </message>
 </context>
 <context>
     <name>ThemeSchemeWidget</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По умолчанию</translation>
     </message>
 </context>
 <context>
     <name>TreeViewTemp</name>
     <message>
         <source>File Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка с файлами</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны</translation>
     </message>
 </context>
 <context>
@@ -4812,37 +4831,37 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>Copyright </source>
-        <translation type="unfinished"></translation>
+        <translation>Авторские права</translation>
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Все права защищены.</translation>
     </message>
     <message>
         <source>This product is licensed to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный продукт лицензирован:</translation>
     </message>
     <message>
         <source>Product ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Код продукта:</translation>
     </message>
     <message>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Technical Support...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Техническая поддержка...</translation>
     </message>
 </context>
 <context>
@@ -4853,507 +4872,507 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказка</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не показывать</translation>
     </message>
 </context>
 <context>
     <name>compressPictures</name>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжать изображение</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>&amp;All pictures in document</source>
-        <translation type="unfinished"></translation>
+        <translation>Ко &amp;всем изображениям документа</translation>
     </message>
     <message>
         <source>Change resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение разрешения</translation>
     </message>
     <message>
         <source>&amp;Web/Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>для &amp;Интернета и экрана</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Печать</translation>
     </message>
     <message>
         <source>&amp;No change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Без изменений</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сжать изображение</translation>
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить обрезанные области изображений</translation>
     </message>
     <message>
         <source>&amp;Selected pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>к вы&amp;деленным изображениям</translation>
     </message>
 </context>
 <context>
     <name>creditsDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Диалоговое окно</translation>
     </message>
 </context>
 <context>
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>dlgChineseTranslation</name>
     <message>
         <source>Translation Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Направление перевода</translation>
     </message>
     <message>
         <source>Traditional Chinese to &amp;Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Традиционный китайский в упрощенный китайский</translation>
     </message>
     <message>
         <source>Simplified Chinese to &amp;Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Упрощённый китайский в традиционный китайский</translation>
     </message>
     <message>
         <source>Translation Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись преобразования</translation>
     </message>
     <message>
         <source>Translation by &amp;Character</source>
-        <translation type="unfinished"></translation>
+        <translation>По&amp;знаковый перевод</translation>
     </message>
     <message>
         <source>Translation by &amp;Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Поc&amp;ловный перевод</translation>
     </message>
     <message>
         <source>Apply to</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>W&amp;hole Document</source>
-        <translation type="unfinished"></translation>
+        <translation>ко &amp;всему документу</translation>
     </message>
     <message>
         <source>S&amp;elected Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>к &amp;выделенному слайду</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование китайского письма</translation>
     </message>
 </context>
 <context>
     <name>kxDlgHyperlink</name>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Гиперссылка</translation>
     </message>
     <message>
         <source>Link to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Связать с:</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отображаемый текст:</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
+        <translation>Всплывающая под&amp;сказка...</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Место в документе</translation>
     </message>
     <message>
         <source>Email Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка электронной почты</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес электронной &amp;почты</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить ссылку</translation>
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
+        <translation>А&amp;дрес:</translation>
     </message>
     <message>
         <source>&amp;E-mail address:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Адрес электронной почты:</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Тема:</translation>
     </message>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;файлом или веб- страницей</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Недавние адреса электронной почты:</translation>
     </message>
 </context>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробнее</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить язык проверки правописания</translation>
     </message>
     <message>
         <source>Available Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступные языки:</translation>
     </message>
     <message>
         <source>Spell Check engine will use the chosen language for checking automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный язык проверки правописания будет использоваться автоматически.</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление из системы</translation>
     </message>
     <message>
         <source>Set Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить по умолчанию</translation>
     </message>
 </context>
 <context>
     <name>pasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Специальная вставка</translation>
     </message>
     <message>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Источник:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>&amp;As:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Как:</translation>
     </message>
     <message>
         <source>&amp;Display as icon</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;В виде значка</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вставить</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказка</translation>
     </message>
     <message>
         <source>Change &amp;Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Сменить &amp;значок</translation>
     </message>
     <message>
         <source>Paste &amp;link</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить с&amp;вязь</translation>
     </message>
 </context>
 <context>
     <name>tpropertydlg</name>
     <message>
         <source>property</source>
-        <translation type="unfinished"></translation>
+        <translation>свойство</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип:</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер:</translation>
     </message>
     <message>
         <source>Created:</source>
-        <translation type="unfinished"></translation>
+        <translation>Создан:</translation>
     </message>
     <message>
         <source>MS-DOS file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла MS-DOS:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменён:</translation>
     </message>
     <message>
         <source>Accessed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыт:</translation>
     </message>
     <message>
         <source>Attributes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Атрибуты:</translation>
     </message>
     <message>
         <source>Hi&amp;dden</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;крытый</translation>
     </message>
     <message>
         <source>Ar&amp;chive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Архивный</translation>
     </message>
     <message>
         <source>&amp;System</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Системный</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Сводная информация</translation>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Со&amp;хранить изображение для предварительного просмотра</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Тема:</translation>
     </message>
     <message>
         <source>&amp;Keyword:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ключевые слова:</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Название:</translation>
     </message>
     <message>
         <source>C&amp;ompany:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Организация:</translation>
     </message>
     <message>
         <source>&amp;Comments:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Примечания:</translation>
     </message>
     <message>
         <source>Cat&amp;egory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Категория:</translation>
     </message>
     <message>
         <source>&amp;Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Руководитель:</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Автор:</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Название:</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Подразделение</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Получатель</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Офис</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Владелец</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Проект</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Источник</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Цель</translation>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation>Переслать</translation>
     </message>
     <message>
         <source>Matter</source>
-        <translation type="unfinished"></translation>
+        <translation>Вопрос</translation>
     </message>
     <message>
         <source>&amp;Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Тип:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер</translation>
     </message>
     <message>
         <source>Whether or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуется или нет</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Значение:</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Да</translation>
     </message>
     <message>
         <source>N&amp;o</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Нет</translation>
     </message>
     <message>
         <source>Pro&amp;perty:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Свойства:</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>&amp;Read-only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Только чтение</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить</translation>
     </message>
     <message>
         <source>Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверяющий</translation>
     </message>
     <message>
         <source>Completion date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата завершения</translation>
     </message>
 </context>
 <context>
     <name>updateMessageDlg</name>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>
-        <translation type="unfinished"></translation>
+        <translation>Существует новая версия. Установить обновление?</translation>
     </message>
     <message>
         <source>Ignore it</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить</translation>
     </message>
 </context>
 <context>
     <name>wordartdlg</name>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Коллекция фигурных текстов</translation>
     </message>
     <message>
         <source>Select a &amp;WordArt style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выберите стиль фигурного текста:</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Предварительный просмотр</translation>
     </message>
 </context>
 </TS>
