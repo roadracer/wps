@@ -982,7 +982,7 @@ Center</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Обтекание текстом</translation>
+        <translation>Перенос по словам</translation>
     </message>
 </context>
 <context>
@@ -5239,7 +5239,7 @@ Columns</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Обтекание текстом</translation>
+        <translation>Перенос по словам</translation>
     </message>
 </context>
 <context>
@@ -11072,7 +11072,7 @@ Center</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Обтекание текстом</translation>
+        <translation>Перенос по словам</translation>
     </message>
 </context>
 <context>
@@ -15979,7 +15979,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="obsolete">Обтекание текстом</translation>
+        <translation type="obsolete">Перенос по словам</translation>
     </message>
 </context>
 <context>

@@ -1563,7 +1563,7 @@ To keep existing picture, press Cancel.</source>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place. (Remember that passwords are case-sensitive.)</source>
-        <translation>ВНИМАНИЕ! Способа узнать забытый пароль не существует. Рекомендуется составить список паролей и имен соответствующих книг и листов и хранить его в надежном месте. Помните, что в паролях различаются прописные и строчные буквы.</translation>
+        <translation>Внимание! Потерянный или забытый пароль не может быть восстановлен. Рекомендуется составить список паролей и имен соответствующих книг и листов и хранить его в надежном месте. Помните, что при вводе пароля учитывается регистр символов.</translation>
     </message>
     <message>
         <source>Repeat Password</source>
@@ -1586,7 +1586,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place.(Remember that passwords are case-sensitive.)</source>
-        <translation>ВНИМАНИЕ! Способа узнать забытый пароль не существует. Рекомендуется составить список паролей и имен соответствующих книг и листов и хранить его в надежном месте. Помните, что в паролях различаются прописные и строчные буквы.</translation>
+        <translation>Внимание! Потерянный или забытый пароль не может быть восстановлен. Рекомендуется составить список паролей и имен соответствующих книг и листов и хранить его в надежном месте. Помните, что при вводе пароля учитывается регистр символов.</translation>
     </message>
 </context>
 <context>
@@ -2547,7 +2547,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Авто</translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -3483,7 +3483,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The password will protect your workbook.</source>
-        <translation>Пароль для защиты книги.</translation>
+        <translation>Пароль для защиты книги</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -3491,7 +3491,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
-        <translation>Внимание: Выберите пароль, который легко запоминается. Потерянный или забытый пароль не может быть восстановлен. При вводе пароля учитывается регистр символов.</translation>
+        <translation>Внимание: Выберите пароль, который легко запоминается. Потерянный или забытый пароль не может быть восстановлен. Помните, что при вводе пароля учитывается регистр символов.</translation>
     </message>
     <message>
         <source>Security threats</source>
@@ -3531,7 +3531,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation>Пропускать слова в &amp;верхнем регистре</translation>
+        <translation>Пропускать слова из &amp;ПРОПИСНЫХ букв</translation>
     </message>
     <message>
         <source>Custom Dictionary</source>
@@ -3602,7 +3602,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Fit to:</source>
-        <translation>&amp;Подобрать по:</translation>
+        <translation>&amp;Подобрать размер:</translation>
     </message>
     <message>
         <source>tall</source>
@@ -6206,7 +6206,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Авто</translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -6280,7 +6280,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Авто</translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -6812,7 +6812,7 @@ on iteration #%2.</source>
     <name>KxPageSetupDlg</name>
     <message>
         <source>Automatic</source>
-        <translation>Авто</translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -6919,7 +6919,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Авто</translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -7622,7 +7622,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation>Пропускать слова в &amp;верхнем регистре</translation>
+        <translation>Пропускать слова из &amp;ПРОПИСНЫХ букв</translation>
     </message>
 </context>
 <context>
@@ -8238,7 +8238,7 @@ t</source>
     </message>
     <message>
         <source>Scientific</source>
-        <translation>Экспоненциальный</translation>
+        <translation>Научный</translation>
     </message>
     <message>
         <source>Text</source>
@@ -8266,7 +8266,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Decimal places:</source>
-        <translation>&amp;Число десятичных знаков:</translation>
+        <translation>&amp;Десятичных знаков:</translation>
     </message>
     <message>
         <source>&amp;Symbol:</source>
@@ -9324,7 +9324,7 @@ t</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Вперёд</translation>
+        <translation>Правые</translation>
     </message>
     <message>
         <source>Central</source>
@@ -10020,7 +10020,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Automatic</source>
-        <translation>&amp;Авто</translation>
+        <translation>&amp;Автоматически</translation>
     </message>
     <message>
         <source>&amp;Left:</source>

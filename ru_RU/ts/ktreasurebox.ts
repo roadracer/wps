@@ -6,7 +6,7 @@
     <name>KCommand</name>
     <message>
         <source>Treasure Box</source>
-        <translation type="unfinished">Коробка для сохранения</translation>
+        <translation>Коробка для сохранения</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_No</source>
@@ -30,19 +30,19 @@
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
-        <translation type="unfinished">Многие люди используют этот инструмент. Хотите и вы попробовать?</translation>
+        <translation>Многие люди используют этот инструмент. Хотите и вы попробовать?</translation>
     </message>
     <message>
         <source>All right</source>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>No thanks.</source>
-        <translation type="unfinished">Нет, спасибо.</translation>
+        <translation>Нет, спасибо.</translation>
     </message>
     <message>
         <source>WPS Office Recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендации WPS Office</translation>
     </message>
 </context>
 </TS>
