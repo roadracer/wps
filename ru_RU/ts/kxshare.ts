@@ -3388,7 +3388,7 @@ Click to recharge for more discounts.</source>
     </message>
     <message>
         <source>State</source>
-        <translation>Государство</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <source>Property</source>
