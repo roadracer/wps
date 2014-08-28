@@ -6,7 +6,7 @@ ICO=`cat lang.conf | sed -n '/Icon=/ s/Icon=//p'`
 if [ "x$USER" == "xroot" ]; then
 	DEST=/opt/kingsoft/wps-office/office6/mui/$LNG
 else
-	DEST=$HOME/.kingsoft/mui/$LNG
+	DEST=$HOME/.kingsoft/office6/mui/$LNG
 fi
 	
 
