@@ -1658,11 +1658,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>Показать данные комментатора в выносках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation type="obsolete">Показать данные комментатора в выносках</translation>
+        <translation type="obsolete">Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1880,7 +1880,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
@@ -1899,7 +1899,7 @@ Merged Data</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
 </context>
 <context>
@@ -2904,7 +2904,7 @@ On</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -4826,7 +4826,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -5507,11 +5507,11 @@ Pictures</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation></translation>
+        <translation>Выровнять по высоте</translation>
     </message>
     <message>
         <source>Even Width</source>
@@ -6318,7 +6318,7 @@ Comment</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>Показать данные комментатора в выносках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -8186,7 +8186,7 @@ Spacing</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation></translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -8454,7 +8454,7 @@ Spacing</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation></translation>
+        <translation>Текстура</translation>
     </message>
     <message>
         <source>Through</source>
@@ -10267,7 +10267,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -10278,7 +10278,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -10726,7 +10726,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -10762,7 +10762,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation></translation>
+        <translation>Свободное вращение</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -12529,7 +12529,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -13069,7 +13069,7 @@ Text</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -13714,7 +13714,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation></translation>
+        <translation>Изменить имя пользователя...</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -13850,7 +13850,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>Показать данные комментатора в выносках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -15414,7 +15414,7 @@ Effects</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -15766,7 +15766,7 @@ Effects</source>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -20579,7 +20579,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation></translation>
+        <translation>CloudLink</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -21204,7 +21204,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation></translation>
+        <translation>Новый пустой документ</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -21788,7 +21788,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -21855,14 +21855,14 @@ Directly</source>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
 </context>
 <context>
     <name>wpsongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -22060,7 +22060,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -22138,7 +22138,7 @@ Directly</source>
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 </TS>

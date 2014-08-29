@@ -6445,17 +6445,17 @@ Check</source>
     <message>
         <source>Stop Recording</source>
         <comment>TXWps_RecordMacro_Stop</comment>
-        <translation></translation>
+        <translation>Остановить запись</translation>
     </message>
     <message>
         <source>Record Macro</source>
         <comment>TXWps_RecordMacro_Start</comment>
-        <translation></translation>
+        <translation>Запись макроса</translation>
     </message>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <comment>TxDesc_DataSource_wpsx</comment>
-        <translation></translation>
+        <translation>Файл WPS Writer 2007/2010(*.wpsx)</translation>
     </message>
 </context>
 <context>

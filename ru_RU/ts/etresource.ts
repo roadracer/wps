@@ -1543,7 +1543,7 @@ Center</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1574,7 +1574,7 @@ Center</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -2892,7 +2892,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -2959,14 +2959,14 @@ Window</source>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -3168,7 +3168,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -3239,7 +3239,7 @@ Window</source>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -3250,7 +3250,7 @@ Window</source>
     <name>etrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -9236,7 +9236,7 @@ COM</translation>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -9247,7 +9247,7 @@ COM</translation>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -13222,7 +13222,7 @@ Color</source>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
 </context>
 <context>

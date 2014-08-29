@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished">С&amp;вернуть</translation>
+        <translation>С&amp;вернуть</translation>
     </message>
     <message>
         <source>&amp;Exit</source>

@@ -4483,7 +4483,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation></translation>
+        <translation>Все файлы(*.*)|*.*|Все источники данных(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Базы данных Access(*.mdb,*.accdb)|*.mdb;*.accdb|Файлы DBase(*.dbf)|*.dbf|Файлы Excel(*.xls)|*.xls|Файлы WPS Spreadsheets(*.et)|*.et|Файлы CSV(*.csv)|*.csv|Текстовые файлы(*.txt)|*.txt||</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5162,7 +5162,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
         <comment>EVEN_REMARK</comment>
-        <translation>Возвращает число, округленное до ближайшего четного целого. Эту функцию можно использовать при обработке парных элементов. Предположим, что в ящик можно упаковывать предметы по одному или два в ряд. Ящик заполнен, если количество предметов, округленное до ближайшего четного числа, соответствует его вместимости. </translation>
+        <translation>Возвращает число, округленное до ближайшего четного целого. Эту функцию можно использовать при обработке парных элементов.</translation>
     </message>
     <message>
         <source>EXP(number)</source>
@@ -8250,22 +8250,22 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SMALL_NUMBERSTR</source>
         <comment>SMALL_NUMBERSTR</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>BIG_NUMBERSTR</source>
         <comment>BIG_NUMBERSTR</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>SMALLUNIT_NUMBERSTR</source>
         <comment>SMALL_UNIT</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>BIGUNIT_NUMBERSTR</source>
         <comment>BIG_UNIT</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -16626,7 +16626,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
-        <translation type="obsolete">Возвращает число, округленное до ближайшего четного целого. Эту функцию можно использовать при обработке парных элементов. Предположим, что в ящик можно упаковывать предметы по одному или два в ряд. Ящик заполнен, если количество предметов, округленное до ближайшего четного числа, соответствует его вместимости. </translation>
+        <translation type="obsolete">Возвращает число, округленное до ближайшего четного целого. Эту функцию можно использовать при обработке парных элементов.</translation>
     </message>
     <message>
         <source>EXP(number)</source>
@@ -16900,7 +16900,7 @@ tically, only keep one row.
     <message>
         <source>Returns the inverse hyperbolic cosine of a number.</source>
         <translation type="obsolete">
-Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число , поэтому результат формулы ACOSH(COSH(число)) равен значению аргумента число.</translation>
+Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число, поэтому результат формулы ACOSH(COSH(число)) равен значению аргумента число.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>

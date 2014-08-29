@@ -1482,7 +1482,7 @@ Master</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation>Переключить язык</translation>
+        <translation>Поменять язык</translation>
     </message>
     <message>
         <source>Table</source>
@@ -1513,7 +1513,7 @@ Master</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Изменить стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -8314,7 +8314,7 @@ Master</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Изменить стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -8325,7 +8325,7 @@ Master</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Переключить язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -12595,7 +12595,7 @@ Effects</source>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
 </context>
 <context>
@@ -16738,7 +16738,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Изменить стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -16813,14 +16813,14 @@ Slide</source>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Изменить стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Переключить язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -17041,7 +17041,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Изменить стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -17101,7 +17101,7 @@ Slide</source>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -17115,7 +17115,7 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Изменить стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -17126,7 +17126,7 @@ Slide</source>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Переключить язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>

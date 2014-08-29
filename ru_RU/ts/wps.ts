@@ -1009,7 +1009,7 @@
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
-        <translation>Игнорировать слова, содержащие &amp;цифры</translation>
+        <translation>Пропускать слова, содержащие &amp;цифры</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
@@ -1094,7 +1094,7 @@
     </message>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation></translation>
+        <translation>Значение должно быть в диапазоне от 1 до 16383.</translation>
     </message>
 </context>
 <context>
@@ -5446,11 +5446,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Front of the &amp;sheet</source>
-        <translation>Передняя часть &amp;листа</translation>
+        <translation>Печатать на &amp;лицевой стороне листа</translation>
     </message>
     <message>
         <source>B&amp;ack of the sheet</source>
-        <translation>&amp;Задняя часть листа</translation>
+        <translation>Печатать на &amp;задней стороне листа </translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -5826,7 +5826,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
-        <translation>Разрешение на &amp;комментарии</translation>
+        <translation>Разрешение на &amp;добавление примечаний</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -13217,11 +13217,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation></translation>
+        <translation>Разрешение на &amp;копирование</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation>Разрешение на &amp;комментарии</translation>
+        <translation>Разрешение на &amp;добавление примечаний</translation>
     </message>
     <message>
         <source>Permission P&amp;rint:</source>

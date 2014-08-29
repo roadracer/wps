@@ -6524,7 +6524,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Enter the name or the description of the function you want to look up.</source>
-        <translation></translation>
+        <translation>Введите имя или описание функции для поиска.</translation>
     </message>
     <message>
         <source>Undefined.</source>
@@ -8443,7 +8443,7 @@ t</source>
     </message>
     <message>
         <source>@ET_Style?</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль?</translation>
     </message>
     <message>
         <source>No Alignment</source>

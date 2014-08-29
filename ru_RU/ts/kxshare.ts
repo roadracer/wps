@@ -3107,7 +3107,7 @@ Click to recharge for more discounts.</source>
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation type="unfinished">Сложить шрифты из Интернета</translation>
+        <translation>Сложить шрифты из Интернета</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
@@ -3551,8 +3551,8 @@ Click to recharge for more discounts.</source>
     <message>
         <source>The installed user package has been removed, 
 but the included system package is reserved.</source>
-        <translation type="unfinished">Удалён установленный пользовательский пакет, 
-но системный пакет зарезервирован.</translation>
+        <translation>Удалён установленный пользовательский пакет, 
+но зарезервирован системный пакет.</translation>
     </message>
 </context>
 <context>
@@ -4498,7 +4498,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Thumb Blue</source>
-        <translation type="unfinished">Тёмно-синий</translation>
+        <translation>Тёмно-синий</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -4827,7 +4827,7 @@ The settings will take effect after restarting WPS Office.</source>
     <name>aboutDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Copyright </source>
@@ -4868,7 +4868,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>apidefaultDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Infotip</source>
