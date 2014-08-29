@@ -2904,7 +2904,7 @@ On</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -4826,7 +4826,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -5507,11 +5507,11 @@ Pictures</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation></translation>
+        <translation>Выровнять по высоте</translation>
     </message>
     <message>
         <source>Even Width</source>
@@ -8186,7 +8186,7 @@ Spacing</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation></translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -8454,7 +8454,7 @@ Spacing</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation></translation>
+        <translation>Текстура</translation>
     </message>
     <message>
         <source>Through</source>
@@ -10726,7 +10726,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -10762,7 +10762,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation></translation>
+        <translation>Свободное вращение</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -12529,7 +12529,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -13069,7 +13069,7 @@ Text</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -13714,7 +13714,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation></translation>
+        <translation>Изменить имя пользователя...</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -15414,7 +15414,7 @@ Effects</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Равный размер</translation>
+        <translation>Равного размера</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -20579,7 +20579,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation></translation>
+        <translation>CloudLink</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -21204,7 +21204,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation></translation>
+        <translation>Новый пустой документ</translation>
     </message>
     <message>
         <source>New Document</source>

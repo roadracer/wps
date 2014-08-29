@@ -4483,7 +4483,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation></translation>
+        <translation>Все файлы(*.*)|*.*|Все источники данных(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Базы данных Access(*.mdb,*.accdb)|*.mdb;*.accdb|Файлы DBase(*.dbf)|*.dbf|Файлы Excel(*.xls)|*.xls|Файлы WPS Spreadsheets(*.et)|*.et|Файлы CSV(*.csv)|*.csv|Текстовые файлы(*.txt)|*.txt||</translation>
     </message>
     <message>
         <source>Error</source>
