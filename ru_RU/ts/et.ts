@@ -8443,7 +8443,7 @@ t</source>
     </message>
     <message>
         <source>@ET_Style?</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль?</translation>
     </message>
     <message>
         <source>No Alignment</source>

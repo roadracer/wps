@@ -1658,11 +1658,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>Показать данные комментатора в выносках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation type="obsolete">Показать данные комментатора в выносках</translation>
+        <translation type="obsolete">Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1880,7 +1880,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
@@ -1899,7 +1899,7 @@ Merged Data</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
 </context>
 <context>
@@ -6318,7 +6318,7 @@ Comment</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>Показать данные комментатора в выносках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -10267,7 +10267,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -10278,7 +10278,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -13850,7 +13850,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>Показать данные комментатора в выносках</translation>
+        <translation>Показать данные рецензента в выносках</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -15766,7 +15766,7 @@ Effects</source>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -21788,7 +21788,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -21855,14 +21855,14 @@ Directly</source>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
 </context>
 <context>
     <name>wpsongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 <context>
@@ -22060,7 +22060,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Использовать другой стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -22138,7 +22138,7 @@ Directly</source>
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Использовать другой язык</translation>
+        <translation>Поменять язык</translation>
     </message>
 </context>
 </TS>
