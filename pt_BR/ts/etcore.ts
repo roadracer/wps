@@ -21,24 +21,24 @@
     <message>
         <source>Macro</source>
         <comment>TX_DESC_KDE_MACRO_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Macro</translation>
     </message>
     <message>
         <source>Module</source>
         <comment>TX_DESC_KDE_CODEMODULE_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Módulo</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
 (%s)</source>
         <comment>TX_Workbook_SaveConvertToDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O documento será salvo no formato &quot;%s&quot;, você quer continuar?</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>TX_Workbook_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O documeto foi bloqueado por outro aplicativo. Você quer abri-lo no modo somente leitura</translation>
     </message>
     <message utf8="true">
         <source>Errors occur when WPS Spreadsheets opening this file.
@@ -48,7 +48,12 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O erro ocorreu quando o WPS Spreadsheets abria este arquivo.
+Por favor teste as seguintes causas.
+•Certifique-se que você tem permissão para acessar este arquivo ou disco.
+•Certifique-se que há memória suficiente ou espaço em disco.
+•Certifique-se que o arquivo é um formato reconhecido.
+        </translation>
     </message>
     <message utf8="true">
         <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
@@ -57,7 +62,12 @@ Please try one of the following.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+        WPS Spreadsheets não pode abir este arquivo, porque o usuário atual não possui permissão de acesso.
+Por favor teste as seguintes causas.
+•Utilize outra conta de usuário.
+•Peça ao criador do documento para alterar o niveis de permissões para este arquivo.
+        </translation>
     </message>
     <message utf8="true">
         <source>Errors occur when WPS Spreadsheets opening this file.
@@ -66,88 +76,101 @@ Please try one of the following.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Um erro ocorreu enquanto o WPS Spreadsheets abria este arquivo.
+Por favor teste as seguintes causas.
+•A versão atual do WPS Spreasheets não suporta este nivel de permissão de arquivo, por favor atualize para ultima versão.
+•Peça ao criador do documento para alterar os nivel de permissão para o nivel completo de controle.
+        </translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>TX_Workbook_OpenPasswordFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS não pode abrir este arquivo, porque a senha está incorreta.
+        </translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>TX_Workbook_OpenProvALGVerFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+        O formato de encriptação do arquivo não é suportado. Por favor contate o criador do documento.
+        </translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+        O WPS Spreadsheets não pode salvar ou criar este arquivo. Por favor certifique-se que este disco não está cheio ou danificado.
+        </translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot save this file due to a file permission error.
 (%s)</source>
         <comment>TX_Workbook_SaveFailurePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O WPS Spreadsheets não pode salvar este arquivo devido a um erro de permissão.
+        </translation>
     </message>
     <message>
         <source>Try to save again?
 (%s)</source>
         <comment>TX_Workbook_SaveRetry</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tente salvar de novo?</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
         <comment>TX_Workbook_SaveReadOnlyAgain</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este arquivo foi aberto como somente-leitura antes. Você ainda quer abrir neste modo?
+        </translation>
     </message>
     <message>
         <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
         <comment>TxDesc_AllETFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todos os arquivos do WPS Spreadsheets(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)
+        </translation>
     </message>
     <message>
         <source>Xls</source>
         <comment>TX_Workbook_DefaultSaveName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xls</translation>
     </message>
     <message>
         <source>XML Files</source>
         <comment>TX_Desc_Default</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arquivo XML</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>TX_SaveAs_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salvar como</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você quer salvar as alterações feitas para &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>(Read-only)</source>
         <comment>TX_ReadOnly_Sufix</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Somente-leitura)</translation>
     </message>
     <message>
         <source>*</source>
         <comment>TX_Modified_Sufix</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%s&quot; é somente-leitura. Se você quer salvar uma cópia, clique em OK, então de um novo nome para esta planilha na caixa de dialogo Salvar Como.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Unknown_File_Format</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O arquivo &quot;%s&quot; que você especificou não é um formato suportado. Por favor clique em OK e especifique outro tipo de arquivo na caixa de dialogo Salvar Como.
+        </translation>
     </message>
     <message utf8="true">
         <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
@@ -156,7 +179,12 @@ Please try one of the following.
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
         <comment>TX_Cannot_Write_File_Unknown_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O erro ocorreu quando WPS Spreadsheets salvava o arquivo &quot;%s&quot;. Por favor teste as seguintes causas.
+•Desfazer as operações anteriores e salve o.
+•Salvar ele como arquivo de texto
+•Copiar/colar os conteudos para um novo documento.
+•Desistir de alterar este arquivo.
+        </translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
