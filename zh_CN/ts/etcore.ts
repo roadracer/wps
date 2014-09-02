@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="zh_CN">
 <context>
     <name>et_et_app</name>
     <message>
@@ -22761,12 +22760,12 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Insert Copied Cells</source>
         <comment>TX_Undo_InsertCopiedCells</comment>
-        <translation type="unfinished">插入单元格</translation>
+        <translation type="unfinished">插入复制的单元格</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
         <comment>TX_Undo_InsertCutCells</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插入剪切的单元格</translation>
     </message>
     <message>
         <source>Insert Function</source>
