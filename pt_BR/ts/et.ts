@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar</translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
@@ -37,34 +37,34 @@
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D&amp;eletar da lista</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você fez alterações em &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Outro usuário também fez alterações. O que você gostaria de fazer?</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique em Descartar para descartas suas mudanças e editar a ultima versão</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique em Salvar para salvar as suas mudanças em um arquivo diferente e abrir a ultima versão</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Descartar</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Salvar como</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -101,46 +101,46 @@
     <name>ConnectPageUi</name>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passo 1 : Escolher a fonte de dados</translation>
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecionar a fonte de dados</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Abrir o arquivos de dados diretamente</translation>
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar o guia de conexão de fonte de dados ODBC</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&Amp;Selecionar a Fonte de Dados</translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Colocar o string de &amp;conexão manualmente</translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Explicação</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você pode escolher três formas diferentes para conectar a sua fonte de dados</translation>
     </message>
 </context>
 <context>
     <name>Constraint</name>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Restrições</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C&amp;élula de Referência</translation>
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
@@ -148,15 +148,15 @@
     </message>
     <message>
         <source>&lt;=</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;=</translation>
     </message>
     <message>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">=</translation>
     </message>
     <message>
         <source>&gt;=</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&gt;=</translation>
     </message>
     <message>
         <source>int</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -176,22 +176,22 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"&amp;Cancelar></translation>
     </message>
 </context>
 <context>
     <name>DisplayResult</name>
     <message>
         <source>Show Trial Solution</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar tentativa de solução</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Continuar</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Parar</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -210,7 +210,7 @@
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation>Você ainda dquer abrí-lo?</translation>
+        <translation>Você ainda quer abrí-lo?</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -222,7 +222,7 @@
     </message>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se você abrir um novo arquivo, suas mudanças no arquivo atual será eliminada:</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -233,15 +233,15 @@
     <name>FileNowAvialable</name>
     <message>
         <source>&quot;%s&quot; is now available for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%s&quot; está disponivel para edição</translation>
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique em Leitura-Escritar para permitir edições</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Leitura-&amp;Escrita</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -252,15 +252,15 @@
     <name>FilterPageUi</name>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Terceiro Passo: Filtro de dados e ordenação</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar</translation>
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Por</translation>
     </message>
     <message>
         <source>In</source>
@@ -268,11 +268,11 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro</translation>
     </message>
     <message>
         <source>Field type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de campo:</translation>
     </message>
     <message>
         <source>&amp;Advanced Query...</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Explicação</translation>
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
@@ -344,12 +344,12 @@
     <message>
         <source>Preview of format to use when
 condition is true: </source>
-        <translation type="obsolete">Previsão do formato a ser usado quando a condição for verdadeira:</translation>
+        <translation type="obsolete">Pre-visualização do formato a ser usado quando a condição for verdadeira:</translation>
     </message>
     <message>
         <source>Preview of format to use when
 condition is true:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pre-visualização do formato a ser usado quando a condição for verdadeira:</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -364,7 +364,7 @@ condition is true:</source>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation>Eu quero comentar função</translation>
+        <translation>Eu quero comentar a função</translation>
     </message>
 </context>
 <context>
@@ -859,15 +859,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Data range is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O intervalo de dados não são validos</translation>
     </message>
     <message>
         <source>Criteria range is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O intervalo dos critérios não são validos</translation>
     </message>
     <message>
         <source>Extract range is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O intervalo de extração não é válido</translation>
     </message>
 </context>
 <context>
@@ -878,27 +878,27 @@ condition is true:</source>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todos os arquivos</translation>
     </message>
     <message>
         <source>Cannot find the Add-Ins.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Add-ins não podem ser encontrados</translation>
     </message>
     <message>
         <source>&quot;, do you want to delete it from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;, você quer deletar-lo da lista?</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Add-Ins</translation>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O arquivo já existe na lista.</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Não é um Add-In válido</translation>
     </message>
 </context>
 <context>
@@ -913,7 +913,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Clear Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Limpar filtro</translation>
     </message>
 </context>
 <context>
@@ -935,7 +935,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation>Valor deve estar entre %1 e %2.</translation>
+        <translation>O valor deve estar entre %1 e %2.</translation>
     </message>
 </context>
 <context>
@@ -968,19 +968,19 @@ condition is true:</source>
     <name>KxAuthInfoDlgUi</name>
     <message>
         <source>Enter username and password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Coloque o nome do usuário e a Senha</translation>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você precisa de permissões para acessar o banco de dados</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome do Usuário:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha:</translation>
     </message>
 </context>
 <context>
@@ -994,14 +994,14 @@ condition is true:</source>
     <name>KxChangeFileAccessDlg</name>
     <message>
         <source>File Changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arquivo alterado</translation>
     </message>
 </context>
 <context>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation>Senha de confirmação não é idêntica.</translation>
+        <translation>A senha de confirmação não confere.</translation>
     </message>
 </context>
 <context>
@@ -1114,18 +1114,18 @@ condition is true:</source>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todos os Arquivos(*.*)</translation>
     </message>
 </context>
 <context>
     <name>KxConstraintDlg</name>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inteiro</translation>
     </message>
     <message>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Binário</translation>
     </message>
     <message>
         <source>Integer Constraint Cell Reference must include only Variable Cells.</source>
@@ -1168,11 +1168,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seu registro não é valido. Um numero inteiro ou decimal é exigido</translation>
     </message>
     <message>
         <source>The number must be between  %1 and %2. Try again by entering a number in this range.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O numero deve ser entre %1 e %2. Tente novamente colocando um numero neste intervalo</translation>
     </message>
 </context>
 <context>
@@ -1209,7 +1209,7 @@ condition is true:</source>
     </message>
     <message>
         <source>No data fields have been retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nenhum campo de dados puderam ser recuperados</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
@@ -1217,7 +1217,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Data fields have been retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os campos de dados não puderam ser recuperados</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
@@ -1252,11 +1252,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>Data</translation>
+        <translation>Dados</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Hora</translation>
+        <translation>Horário</translation>
     </message>
     <message>
         <source>Tab</source>
@@ -1323,40 +1323,43 @@ condition is true:</source>
 
 To replace existing picture, click OK.
 To keep existing picture, click Cancel button.</source>
-        <translation type="obsolete">SOmente uma figura pode ser inserida em cada seção de %1.
+        <translation type="obsolete">Somente uma figura pode ser inserida em cada seção de %1.
 
 Para subistituir a figura existente, clique em OK.
 Para manter a figura existente, clique no botão Cancelar.</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numero da página</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numero de páginas</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome da folha</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Apenas uma figura pode ser inserida em cada seção da %1.
+Para substituir a figura existente, clique em OK.
+Para manter a figura existente, clique em Cancelar.        
+        </translation>
     </message>
 </context>
 <context>
     <name>KxDatabasePwdDlgUI</name>
     <message>
         <source>Database Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha do Banco de Dados</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%amp;Senha:</translation>
     </message>
 </context>
 <context>
@@ -1375,7 +1378,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>That name is not valid or the formula contains an error.</source>
-        <translation type="obsolete">O nome não pe valido ou a fórmula contém um erro.</translation>
+        <translation type="obsolete">O nome não é valido ou a fórmula contém um erro.</translation>
     </message>
     <message>
         <source>Error occurred when deleting the items!</source>
@@ -1391,18 +1394,18 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Um erro ocorreu quando deletava.</translation>
     </message>
 </context>
 <context>
     <name>KxDisplayResultDlg</name>
     <message>
         <source>The maximum iteration limit was reached; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O limite máximo de iterações foi alcançado; continuar mesmo assim?</translation>
     </message>
     <message>
         <source>The maximum time limit was reached; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O Limite máximo de iterações foi alcançado; continuar mesmo assim?</translation>
     </message>
     <message>
         <source>The maximum number of integer solutions was reached; continue anyway?</source>
@@ -1418,11 +1421,11 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Stop generating report will cause unexpected value on reports.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A geração do relatário foi parada por causa de valores inesperados nos relatórios</translation>
     </message>
     <message>
         <source>The maximum time limit was reached. Stop generating report by pressing Esc key; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O tempo limite foi alcançado. Pare a geração de relatório pressionando ESC; continuar mesmo assim?</translation>
     </message>
 </context>
 <context>
@@ -1457,7 +1460,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Extends range, may co&amp;vers the original data</source>
-        <translation type="obsolete">Extender intervalo, pode co&amp;brir os dados originais</translation>
+        <translation type="obsolete">Aumentar o intervalo, pode co&amp;brir os dados originais</translation>
     </message>
     <message>
         <source>Unique &amp;records only</source>
@@ -1473,18 +1476,18 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Extending range may co&amp;ver the original data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aumentar o intervalo pode cobrir os dados originais</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAddIns</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Add-Ins</translation>
     </message>
     <message>
         <source>&amp;Add-Ins available:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Add-Ins disponiveis:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -1492,14 +1495,14 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>A&amp;utomation...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;utomação</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAllowUsersToEditRanges</name>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation>Permitir que usuários editem intervalos</translation>
+        <translation>Permitir que usuários editem os intervalos</translation>
     </message>
     <message>
         <source>&amp;Ranges unlocked by a password when sheet is protected:</source>
@@ -1531,11 +1534,11 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Specify who may edit the range without a password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Especificar quem pode editar o intervalo sem uma senha</translation>
     </message>
     <message>
         <source>&amp;Permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Permissões</translation>
     </message>
     <message>
         <source>Refer to cells</source>
