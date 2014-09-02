@@ -1,19 +1,28 @@
-KSO/WPS I18n
+KSO/WPS i18n
 ================================================================================
 KSO/WPS internationalization support.
 
-Prepare
+Prerequisites
 --------------------------------------------------------------------------------
-Rcc, lrelease is required to compile KSO/WPS language package. Lingist is 
-required to translate KSO/WPS. You can install them by follow command in Ubuntu:
+You need `rcc` and `lrelease` to compile language packages for KSO/WPS; Linguist
+is required to translate KSO/WPS. Typically you can find them in your
+distribution's repositories, but here are copy-and-paste commands for some
+popular distributions:
 
-	$ sudo apt-get install qt4-dev-tools
+Ubuntu:
 
-In Gentoo:
+```sh
+sudo apt-get install qt4-dev-tools
+```
 
-	$ sudo emerge dev-qt/qtcore dev-qt/linguist
+Gentoo:
 
-Other system is similar.
+```sh
+sudo emerge dev-qt/qtcore dev-qt/linguist
+```
+
+Setup for other distributions should be similar.
+
 
 Directory structure
 --------------------------------------------------------------------------------
@@ -31,96 +40,118 @@ Directory structure
 	|-- README.md		# this file
 
 
-How to create a language support
+How to add a new language
 --------------------------------------------------------------------------------
-If you can not found the language you interesting in root directory, this means 
-no one had translate it yet. You need create it by yourself.
+If the language you're interested in is not present in the root directory, it
+means no one has translated it yet, and you need to add it yourself.
 
-For example, we create a directory for Vietnamese.
+For example, we are going to add Vietnamese.
 
-At first, you must comfirm what locale the language used. Here is a list: 
-http://www.roseindia.net/tutorials/i18n/locales-list.shtml
+First you must find out the **locale name** for the language.
+[Here is a list][locale-list].
 
-We known the locale for Vietnamese is vi\_VI. OK, let's create directory.
+[locale-list]: http://www.roseindia.net/tutorials/i18n/locales-list.shtml
 
-	$ cd dev
-	$ ./new_lang.sh vi_VI
+Now we know that `vi_VI` stands for Vietnamese. OK, let's create the directory.
 
-A new directory named vi\_VI is created in root. The next step is to edit lang.conf
+```sh
+cd dev
+./new_lang.sh vi_VI
+```
 
-	$ cd ../vi_VI
-	$ gedit lang.conf   # or whatever editor you liked.
+The directory is created at top-level of the repo. Next step is to **edit `lang.conf`**:
 
-There is two lines need to edit, DisplayName and DisplayName[en\_US]. They will
-be displayed in language choosing dialog.
+```sh
+cd ../vi_VI
+gedit lang.conf  # substitute with ${YOUR_FAVORITE_EDITOR}
+```
 
-And then, you need a icon file, put to vi\_VI. You can ignore it currently.
+You should now **modify the `DisplayName` and `DisplayName[en_US]` settings**,
+which will be displayed in the language chooser dialog.
 
-Now save you changes. All you need is the follow command:
+And then, you need **an icon** for your language, named `vi_VI.png` in this case.
+For now you can ignore it.
 
-	$ make install
+Now save your changes and test:
+
+```sh
+make install
+```
 	
-Notes: If you are using A11p2 or earlier version, you must use follow command:
+*Note*: If you're using A11p2 or an earlier version, root privilege is needed:
 
-	$ sudo make install
+```sh
+sudo make install
+```
 
-Restart wps, and you will see what you want.
+Restart WPS and you will find the new language.
 
-**If you create a language support, give us a push request immediately, in order
-to avoid another volunteer create it again, that will be a badly conflict.**
+*Note*: If you added a language, please **immediately** send us a pull request,
+in order to avoid duplication of efforts (and nasty merge conflicts).
 
-How to install/uninstall language support
+How to install/uninstall a language
 --------------------------------------------------------------------------------
-It's very easy:
 
-	$ cd xx_XX
-	$ make install    # install
-	$ make uninstall  # uninstall
+It's easy:
+
+```sh
+cd xx_XX
+make install    # to install
+make uninstall  # to uninstall
+```
 
 How to translate strings
 --------------------------------------------------------------------------------
-There is a directory named 'ts' is each language dirs. There are several .ts files
-in the directory. You can open them by linguist.
-	
-	$ cd xx_XX/ts
-	$ linguist wpsresource.ts
+There is a directory named `ts` for each language. There are several `.ts` files
+in the directory, which can be opened with Linguist.
 
-When you translate KSO/WPS, We recommend you open some other ts file for guidance.
-You can open guidance by follow step:
+```sh
+cd xx_XX/ts  # substitute with actual locale
+linguist wpsresource.ts
+```
 
-	Linguist -> File -> Open Read-Only... -> choose ts file under other language dir
+While you're at it, it's recommended to keep some `.ts` files from other relevant
+languages open side-by-side for reference, if that's the case. You can do it in
+Linguist, just follow the steps:
 
-For example, if you want translate zh\_TW/ts/wpsresource.ts. You can open 
-zh\_CN/ts/wpsresource.ts as guidance.
+    Linguist -> File -> Open Read-Only... -> choose a .ts file of another language
 
-You can follow any order to translate KSO/WPS. But we strongly recommend that
-you can translate wpsresource.ts, wppresource.ts, etresource.ts first. Because,
-the strings in these files will be shown to user at first time.
+For example, if you're translating `zh_TW/ts/wpsresource.ts` you may want to
+occasionally reference to the `zh_CN` strings. Then you can open
+`zh_CN/ts/wpsresource.ts` for that.
 
-Once you translated some strings, you can save and run
+You can translate KSO/WPS in any order you want. But we strongly recommend that
+you translate `wpsresource.ts`, `wppresource.ts` and `etresource.ts` first,
+because they comprise the main interface so a user reads these strings first.
 
-	$ make install
+Once you translated some strings and saved your changes, just run
 
-to install and test your works.
+```sh
+make install
+```
+
+to install and test your work.
 
 How to translate non-string resources
 --------------------------------------------------------------------------------
-KSO/WPS will find resources in language special directory first, and if KSO/WPS
-can not found it in language special directory, KSO/WPS will find default directory.
+KSO/WPS will try to load resources first from the language-specific directory,
+falling back to the default directory.
 
-If you want to translate non-string resources, for example template, you can 
-create a same path in your language directory as that under default directory.
-And put a file to replace it.
+If you want to translate non-string resources, for example templates, you can 
+create a same directory structure as `default` in your language's directory,
+then copy-and-edit the file you want to translate.
 
-For example, we create a template for vi\_VI.
+For example, here's the steps to translate the `normal.wpt` template for `vi_VI`.
 
-	$ cd vi_VI
-	$ mkdir templates
-	$ cd templates
-	$ cp ../../default/templates/normal.wpt .
-	$ wps -t normal.wpt  # edit it
+```sh
+cd vi_VI
+mkdir templates
+cd templates
+cp ../../default/templates/normal.wpt .
+wps -t normal.wpt  # edit it
+```
 
-Of course, you can copy resource from other language.
+You're free to copy resources from other languages.
 
-**Do not copy the entire directory tree from default, it's not a good idea. 
-Copy the one you need only.**
+*Note*: Do **not** copy the entire directory tree from default; it's not a good idea.
+Please only copy the files you need.
