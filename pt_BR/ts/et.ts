@@ -10314,26 +10314,26 @@ or Web Page</source>
     </message>
     <message>
         <source>Ma&amp;ximum value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor Má&amp;ximo:</translation>
     </message>
 </context>
 <context>
     <name>kxWidgetMargins</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulário</translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Margem interna</translation>
     </message>
     <message>
         <source>&amp;Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Automático</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Esquerda</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -10345,49 +10345,49 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished">&amp;Base:</translation>
+        <translation type="unfinished">&amp;Rodapé:</translation>
     </message>
     <message>
         <source>(Unit: Centimeters)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Unidade: Centimetros)</translation>
     </message>
 </context>
 <context>
     <name>kxWidgetProperties</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulário</translation>
     </message>
     <message>
         <source>Object positioning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posicionamento do objeto</translation>
     </message>
     <message>
         <source>Move and re&amp;size cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mover e redimen&amp;sionar as células</translation>
     </message>
     <message>
         <source>&amp;Move but do not re&amp;size cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Mover mas não redimen&amp;sionar as células</translation>
     </message>
     <message>
         <source>&amp;Do not move or resize cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Não mover ou redimensionar as células</translation>
     </message>
     <message>
         <source>&amp;Print object</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Imprimir objeto</translation>
     </message>
 </context>
 <context>
     <name>kxettop10autofilter</name>
     <message>
         <source>Top 10 AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto Filtro de Top 10</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10402,23 +10402,23 @@ or Web Page</source>
     <name>linksCannotUpdateDlg</name>
     <message>
         <source>This workbook contains one or more links that cannot be updated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esta folha contém um ou mais ligações que não podem ser atualizadas</translation>
     </message>
     <message>
         <source>To change the source of links, or attempt to update values again, click Edit Links.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Para alterar as fontes das ligações, ou tentar atualizar os valores novamente, clique em Editar Ligações</translation>
     </message>
     <message>
         <source>To leave the links as they are, click Continue.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Para deixar as ligações como estão, clique em Continuar.</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Continuar</translation>
     </message>
     <message>
         <source>Edit &amp;Links...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editar &amp;Ligações...</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
@@ -10429,33 +10429,33 @@ or Web Page</source>
     <name>nameconflictdlg</name>
     <message>
         <source>Name Conflict</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conflito de nome</translation>
     </message>
     <message>
         <source>Old name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome antigo:</translation>
     </message>
     <message>
         <source>New name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Novo nome:</translation>
     </message>
 </context>
 <context>
     <name>selectSheetDlg</name>
     <message>
         <source>Reassign Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transferir Folha</translation>
     </message>
     <message>
         <source>The worksheet specified was not found in the linked source file. Please re-specify.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A folha especificada não foi encontrada no arquivo fonte linkado. Por favor re-especifique.</translation>
     </message>
 </context>
 <context>
     <name>sortWarning</name>
     <message>
         <source>Sort Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avisos sobre a ordenação</translation>
     </message>
     <message>
         <source>What do you want to do?</source>
@@ -10463,15 +10463,15 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Expand the selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Expandir a seleção</translation>
     </message>
     <message>
         <source>&amp;Continue with the current selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Continuar com a seleção atual</translation>
     </message>
     <message>
         <source>&amp;Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&Amp;Ordenar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10479,7 +10479,7 @@ or Web Page</source>
     </message>
     <message>
         <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O WPS Spreadsheets encontrou dados próximos a sua seleção. Desde que você não tenha selecionado estes dados, eles não serão ordenados.</translation>
     </message>
 </context>
 <context>
@@ -10491,15 +10491,16 @@ or Web Page</source>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O arquivo que você está abrindo alterou a opção de Automático para Manual, O que fará com que o arquivo atual não possa obter o resultado correto durante o processo de edição.
+        Você quer alterar para Manual?</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual</translation>
     </message>
     <message>
         <source>Automatic(Recommend)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático(Recomendável)</translation>
     </message>
 </context>
 </TS>
