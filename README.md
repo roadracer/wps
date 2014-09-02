@@ -66,10 +66,10 @@ cd ../vi_VI
 gedit lang.conf  # substitute with ${YOUR_FAVORITE_EDITOR}
 ```
 
-You should modify the `DisplayName` and `DisplayName[en_US]` settings, which will be
-displayed in the language chooser dialog.
+You should now **modify the `DisplayName` and `DisplayName[en_US]` settings**,
+which will be displayed in the language chooser dialog.
 
-And then, you need a icon for your language, named `vi_VI.png` in this case.
+And then, you need **an icon** for your language, named `vi_VI.png` in this case.
 For now you can ignore it.
 
 Now save your changes and test:
