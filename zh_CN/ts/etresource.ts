@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="zh_CN">
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -2921,7 +2920,7 @@ Window</source>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷菜单</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
