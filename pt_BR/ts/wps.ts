@@ -5,239 +5,239 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Não preenchido</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Branco</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-5%</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-45%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-95%</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Azul</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ciano</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aqua</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rosa</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Turqueza</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Violeta</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Amarelo</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vermelho</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verde</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lima</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laranja</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Marrom</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preto</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ciano Escuro</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Azul Escuro</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anil</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Azul Claro</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cinza-Azulado</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lavanda</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Azul Celestial</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Turqueza Clara</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rosado</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verde Marinho</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verde Claro</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Amarelo Claro</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Marrom Claro</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verde Escuro</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verde Brilho</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouro</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laranja Claro</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ameixa</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Amarelo Escuro</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verde Oliva</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vermelho Escuro</translation>
     </message>
 </context>
 <context>
@@ -314,22 +314,22 @@
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nenhuma</translation>
     </message>
 </context>
 <context>
     <name>DlgColumnsManager</name>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Largura</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Espaçamento</translation>
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1:</translation>
     </message>
     <message>
         <source>Columns Management</source>
@@ -344,35 +344,35 @@
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>Advanced Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Layout avançado</translation>
     </message>
     <message>
         <source>Picture Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posição da figura</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Alinhamento</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centralizado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Direita</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&Amp;Posição absoluta</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
@@ -384,19 +384,19 @@
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Margem</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Página</translation>
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Coluna</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Caracter</translation>
     </message>
     <message>
         <source>&amp;to the right of</source>
@@ -404,39 +404,39 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vertical</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Al&amp;inhamento</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cabeçalho</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rodapé</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dentro</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fora</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Po&amp;sição Absoluta</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parágrafo</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linha</translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
@@ -444,15 +444,15 @@
     </message>
     <message>
         <source>belo&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Embai&amp;xo</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opções</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&Mover objeto com o texto</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
@@ -547,7 +547,7 @@
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Colunas</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -591,7 +591,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pré-visualizar</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pré-visualizar</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
@@ -650,15 +650,15 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centralizado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Direita</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Text position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posição do texto</translation>
     </message>
     <message>
         <source>Ta&amp;b space after:</source>
@@ -694,11 +694,11 @@
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Espaço</translation>
     </message>
     <message>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nada</translation>
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
@@ -709,14 +709,14 @@
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregando KUI</translation>
     </message>
 </context>
 <context>
@@ -724,12 +724,12 @@
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamanho</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escala</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
@@ -771,82 +771,82 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCombo</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Nenhum)</translation>
     </message>
     <message>
         <source>Words only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Somente palavras</translation>
     </message>
 </context>
 <context>
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alguns dos usuário que você inseriu não pode ser adicionado a lista porque seus nomes não podem ser verificados.</translation>
     </message>
 </context>
 <context>
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fechar</translation>
     </message>
 </context>
 <context>
     <name>KxBordersAndShadingDlg</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Texto</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parágrafo</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Célula</translation>
     </message>
     <message>
         <source>Pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pt</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escrever</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabela</translation>
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sem conteudo</translation>
     </message>
 </context>
 <context>
     <name>KxCaptionDlg</name>
     <message>
         <source>Above selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Acima do item selecionado</translation>
     </message>
     <message>
         <source>Below selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abaixo do item selecionado</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fechar</translation>
     </message>
 </context>
 <context>
@@ -880,11 +880,11 @@
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>No Spelling Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sem sugestão de ortografia</translation>
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Não foi encontrado um dicionario personalizado. Por favor selecione um dicionario personalizado na lista e tente de novo</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -896,11 +896,11 @@
     </message>
     <message>
         <source>Check spelling is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verificação de ortografia completa</translation>
     </message>
     <message>
         <source>An error occurred when adding new words.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Um erro ocorreu quando adicionava novas palavras</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
@@ -919,11 +919,11 @@
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nenhum</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A entrada deve ser entre %1 e %2.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -934,15 +934,15 @@
     <name>KxColumnsDlg</name>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation type="unfinished">Texto selecionado</translation>
+    </message> 
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seções selecionadas</translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todo documento</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -950,7 +950,7 @@
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esta seção</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -961,22 +961,22 @@
     <name>KxCombineCharactersDlg</name>
     <message>
         <source>What you entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O que você inseriu não é valido</translation>
     </message>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O valor deve ser entre 1 e 16838</translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A entrada deve ser entre %1 e %2</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você quer substituir a tabela de conteudos selecionado?</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -987,7 +987,7 @@
     <name>KxContentsOptionsDlg</name>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A entrada deve ser entre %1 e %2.</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -998,18 +998,18 @@
     <name>KxConvertTabletoTextDlg</name>
     <message>
         <source>You must type a character for the custom separator.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você deve digitar um caracter em um separador personalizado.</translation>
     </message>
 </context>
 <context>
     <name>KxCoverSectionGalleryCommand</name>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cobrir páginas</translation>
     </message>
     <message>
         <source>Remove Cover Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Remover página coberta</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -1024,11 +1024,11 @@
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numero da página</translation>
     </message>
     <message>
         <source>Paragraph number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numero do parágrafo</translation>
     </message>
     <message>
         <source>Paragraph text</source>
