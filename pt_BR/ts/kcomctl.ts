@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
 <context>
     <name>KApplication</name>
     <message>
@@ -19,7 +17,7 @@
     <name>KColorCtrl</name>
     <message>
         <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation type="obsolete">Preto,Marrom,Verde Oliva,Verde Escuro,Verde-azulado Escuro,Azul Escuro,Indigo,Cinza-80%,Vermelho Escuro,Laranja,Amarelo Esculo,Verde,Verde-azulado,Azul,Azul-Cinza,Cinza-50%,Vermelho,Laranja Claro,Lima,Verde Mar,Aqua,Azul Claro,Violeta,Cinza-40%,Pink,Dourado,Amarelo,Verde Brilhante,Turquesa,Azul Céu,Ameixa,Cinza-25%,Rosa,Bronzeado,Amarelo Claro,Verde Claro,Turquesa Claro,Azul Pálido,Lavanda,Branco</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Color</source>
@@ -31,7 +29,7 @@
     </message>
     <message>
         <source>&amp;More Colors</source>
-        <translation type="obsolete">&amp;Mais cores</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
@@ -47,167 +45,167 @@
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Preto</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Marrom</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde Oliva</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde Escuro</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde-azulado Escuro</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Escuro</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indigo</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinza-80%</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Vermelho Escuro</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Laranja</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amarelo Escuro</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde-azulado</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinza-Azul</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinza-50%</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Laranja claro</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Limão</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde Marinho</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Água</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Claro</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Violeta</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinza-40%</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Rosa</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouro</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amarelo</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde Brilhante</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turquesa</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Celeste</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Ameixa</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinza-25%</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Rosa</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Bronze</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amarelo Claro</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde Claro</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turquesa Claro</translation>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Claro</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Lavanda</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Branco</translation>
     </message>
     <message>
         <source>&amp;More Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mais Cores...</translation>
     </message>
 </context>
 <context>
@@ -225,7 +223,7 @@
     <name>KDocTab</name>
     <message>
         <source>Uploading file...</source>
-        <translation type="obsolete">Enviando arquivo...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -240,34 +238,34 @@
     </message>
     <message>
         <source>&amp;Hide quick access</source>
-        <translation type="obsolete">&amp;Ocultar acesso rápido</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar Barra de Ferramentas</translation>
     </message>
 </context>
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation type="obsolete">Escolher idioma</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Choose your language</source>
-        <translation type="obsolete">Es&amp;colha seu idioma</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
-        <translation type="obsolete">&amp;Redefinir modelo pessoal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Information</source>
-        <translation type="obsolete">Informação</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings will be effected after application restarted.</source>
-        <translation type="obsolete">Configurações serão afetadas após reinício do aplicativo.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -309,30 +307,30 @@
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;ximize</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi&amp;nimize</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sair</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Uso do Sistema &amp; Barra de Título</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restaurar</translation>
     </message>
 </context>
 <context>
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation type="unfinished"></translation>
+        <translation>InsertCellsInPopup</translation>
     </message>
 </context>
 <context>
@@ -346,15 +344,15 @@
     <name>KPwdLineEdit</name>
     <message>
         <source>Caps Lock On.</source>
-        <translation type="obsolete">Caps Lock ativado</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="obsolete">Manter o Caps Lock ativado pode fazer com que você insira a senha errada.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="obsolete">Antes de inserir a senha, você deve apertar a tecla &quot;Caps Lock&quot; para desligá-la.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -362,23 +360,23 @@
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
-        <translation type="obsolete">Você não pode copiar do campo de senha.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Caps Lock on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock ativada</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Com o Caps Lock ligado você pode digitar a sua senha incorreta.</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deveria pressionar Caps Lock para desligá-lo antes de digitar a sua senha.</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode copiar texto de um campo de senha.</translation>
     </message>
 </context>
 <context>
@@ -389,7 +387,7 @@
     </message>
     <message>
         <source>&amp;Show quick access</source>
-        <translation type="obsolete">Mo&amp;strar acesso rápido</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More commands</source>
@@ -397,42 +395,42 @@
     </message>
     <message>
         <source>&amp;Show Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Barra de Ferramentas</translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unfixed from the Listing</source>
-        <translation type="obsolete">Desafixado da lista</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear All Fixed Files</source>
-        <translation type="obsolete">Limpar todos os arquivos afixados</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fixed to the Listing</source>
-        <translation type="obsolete">Afixado a lista</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear All Unfixed Files</source>
-        <translation type="obsolete">Limpar todos os arquivos desafixados</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unpinned from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfixar da Lista</translation>
     </message>
     <message>
         <source>Clear Pinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Arquivos Fixados</translation>
     </message>
     <message>
         <source>Pin to List</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixar na Lista</translation>
     </message>
     <message>
         <source>Clear Unpinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Arquivos Não Fixados</translation>
     </message>
 </context>
 <context>
@@ -450,11 +448,11 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="obsolete">TextLabel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
@@ -528,11 +526,11 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="obsolete">Texto inteiro ilegal.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Isto não é um inteiro válido.</translation>
     </message>
 </context>
 <context>
@@ -543,18 +541,18 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="obsolete">Texto inteiro ilegal.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Isto não é um inteiro válido.</translation>
     </message>
 </context>
 <context>
     <name>QLineEdit</name>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Colar</translation>
     </message>
 </context>
 <context>
@@ -627,11 +625,11 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>OverWrite</source>
-        <translation type="obsolete">Sobrescrever</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation type="obsolete">Limpar registro da lista</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recent Documents: </source>
@@ -643,7 +641,7 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
-        <translation type="obsolete">Excluir da lista</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear All</source>
@@ -655,15 +653,15 @@ multiple=multiple</translation>
     </message>
     <message>
         <source>Overtype</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrever</translation>
     </message>
     <message>
         <source>Clear Record from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Registro da Lista</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover da Lista</translation>
     </message>
 </context>
 </TS>

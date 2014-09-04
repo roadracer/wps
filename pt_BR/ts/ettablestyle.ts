@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
 <context>
     <name>CEtTableStyle</name>
     <message>
         <source>styleless, no grid</source>
-        <translation type="obsolete">sem estilo, sem grade</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>theme style</source>
-        <translation type="obsolete">estilo do tema</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>emphasize</source>
-        <translation type="obsolete">enfatizar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1-</source>
@@ -21,7 +19,7 @@
     </message>
     <message>
         <source>stylish,gridded</source>
-        <translation type="obsolete">com estilo, gradeado</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2-</source>
@@ -29,31 +27,31 @@
     </message>
     <message>
         <source>light color style</source>
-        <translation type="obsolete">estilo de cor clara</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>moderate color style</source>
-        <translation type="obsolete">estilo de cor moderada</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style</source>
-        <translation type="obsolete">estilo de cor escura</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2</source>
-        <translation type="obsolete">estilo de cor escura 2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2-emphasize 1/emphasize 2</source>
-        <translation type="obsolete">estilo de cor escura 2-enfatizar 1/enfatizar 2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2-emphasize 3/emphasize 4</source>
-        <translation type="obsolete">estilo de cor escura 2-enfatizar 3/enfatizar 4</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2-emphasize 5/emphasize 6</source>
-        <translation type="obsolete">estilo de cor escura 2-enfatizar 5/enfatizar 6</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First Row</source>
@@ -81,47 +79,47 @@
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Estilo, Sem Grade</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo do Tema</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfatizar</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Estilo, Com Grade</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Claro</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Médio</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Escuro</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Escuro 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Dark 2-Enfatizar 1/Enfatizar 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Dark 2-Enfatizar 3/Enfatizar 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Dark 2-Enfatizar 5/Enfatizar 6</translation>
     </message>
 </context>
 <context>
@@ -132,15 +130,15 @@
     </message>
     <message>
         <source>Washy</source>
-        <translation type="obsolete">Aguado</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="obsolete">Médio</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="obsolete">Escuro</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Built-in</source>
@@ -148,15 +146,15 @@
     </message>
     <message>
         <source>styleless, no grid</source>
-        <translation type="obsolete">Sem estilo, sem grade</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>theme style</source>
-        <translation type="obsolete">estilo do tema</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>emphasize</source>
-        <translation type="obsolete">enfatizar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1-</source>
@@ -164,7 +162,7 @@
     </message>
     <message>
         <source>stylish,gridded</source>
-        <translation type="obsolete">com estilo, gradeado</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2-</source>
@@ -172,119 +170,119 @@
     </message>
     <message>
         <source>light color style</source>
-        <translation type="obsolete">estilo de cor clara</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>moderate color style</source>
-        <translation type="obsolete">estilo de cor moderada</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style</source>
-        <translation type="obsolete">estilo de cor escura</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2</source>
-        <translation type="obsolete">estilo de cor escura 2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2-emphasize 1/emphasize 2</source>
-        <translation type="obsolete">estilo de cor escura 2-enfatizar 1/enfatizar 2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2-emphasize 3/emphasize 4</source>
-        <translation type="obsolete">estilo de cor escura 2-enfatizar 3/enfatizar 4</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>deep color style 2-emphasize 5/emphasize 6</source>
-        <translation type="obsolete">estilo de cor escura 5-enfatizar 1/enfatizar 6</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Primeira linha</translation>
+        <translation>Primeira linha</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Primeira coluna</translation>
+        <translation>Primeira coluna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Última linha</translation>
+        <translation>Última linha</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Última coluna</translation>
+        <translation>Última coluna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Linhas sombreadas</translation>
+        <translation>Linhas sombreadas</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Colunas sombreadas</translation>
+        <translation>Colunas sombreadas</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha e primeira coluna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha e última linha</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuro</translation>
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Estilo, Sem Grade</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo do Tema</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Enfatizar</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Estilo, Com Grade</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Claro</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Médio</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Escuro</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Escuro 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Dark 2-Enfatizar 1/Enfatizar 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Dark 2-Enfatizar 3/Enfatizar 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Dark 2-Enfatizar 5/Enfatizar 6</translation>
     </message>
 </context>
 <context>
@@ -295,59 +293,59 @@
     </message>
     <message>
         <source>Washy</source>
-        <translation type="obsolete">Aguado</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="obsolete">Médio</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="obsolete">Escuro</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Primeira linha</translation>
+        <translation>Primeira linha</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Primeira coluna</translation>
+        <translation>Primeira coluna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Última linha</translation>
+        <translation>Última linha</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Última coluna</translation>
+        <translation>Última coluna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Linhas sombreadas</translation>
+        <translation>Linhas sombreadas</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Colunas sombreadas</translation>
+        <translation>Colunas sombreadas</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira Linha E Primeira Coluna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira Linha E Última Linha</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuro</translation>
     </message>
 </context>
 <context>

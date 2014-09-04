@@ -1,23 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
 <context>
     <name>KLiveService</name>
     <message>
         <source>please install kuaipan manul</source>
-        <translation type="obsolete">por favor, intale kuaipa manul</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>please login kuaipan</source>
-        <translation type="obsolete">por favor, acesse kuaipan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please install Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instale o Klive manualmente.</translation>
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, cadastre-se em Klive manualmente.</translation>
     </message>
 </context>
 <context>
@@ -39,7 +37,7 @@
     </message>
     <message>
         <source>My Favorit</source>
-        <translation type="obsolete">Meus favoritos</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Local Templates</source>
@@ -47,34 +45,34 @@
     </message>
     <message>
         <source>My Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Meu Favorito</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="obsolete">\Kingsoft Office\Desktop.ini nome.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>\Kingsoft Office\Office Space\Desktop.ini name.</source>
-        <translation type="obsolete">\Kingsoft Office\Office Space\Desktop.ini nome.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation type="obsolete">\Kingsoft Office\Office Space\My Templates\Desktop.ini nome.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do \WPS Office\Desktop.ini</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do \WPS Office\Office Space\Desktop.ini</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do \WPS Office\Office Space\My Templates\Desktop.ini</translation>
     </message>
 </context>
 </TS>
