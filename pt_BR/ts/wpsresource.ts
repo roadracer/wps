@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>Bright</source>
-        <translation>Luminoso</translation>
+        <translation>Brilho</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -229,7 +229,7 @@
     </message>
     <message>
         <source>List Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Seleção</translation>
     </message>
     <message>
         <source>List Button</source>
@@ -237,7 +237,7 @@
     </message>
     <message>
         <source>More Controls</source>
-        <translation>Mais Controlos</translation>
+        <translation>Mais Controles</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -420,7 +420,7 @@
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhar ou Distribuir</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -476,7 +476,7 @@
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Auto Forma</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -16096,7 +16096,7 @@ Directly</source>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Switch UI</source>

@@ -33,8 +33,8 @@
         <translation>Reiniciar para usar a versão mais nova.</translation>
     </message>
     <message>
-        <source>Online Templates</source>
-        <translation type="unfinished"/>
+        <source>docerhomepage</source>
+        <translation>docerhomepage</translation>
     </message>
     <message>
         <source>Check Online Templates</source>
@@ -45,10 +45,6 @@
         <source>Online Templates</source>
         <comment>title</comment>
         <translation>Modelos online</translation>
-    </message>
-    <message>
-        <source>docerhomepage</source>
-        <translation>docerhomepage</translation>
     </message>
 </context>
 </TS>

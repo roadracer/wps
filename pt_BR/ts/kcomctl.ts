@@ -16,34 +16,6 @@
 <context>
     <name>KColorCtrl</name>
     <message>
-        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No Color</source>
-        <translation>Nenhuma cor</translation>
-    </message>
-    <message>
-        <source>Automatic</source>
-        <translation>Automático</translation>
-    </message>
-    <message>
-        <source>&amp;More Colors</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Fill Effects...</source>
-        <translation>E&amp;feitos de preenchimento...</translation>
-    </message>
-    <message>
-        <source>&amp;Background</source>
-        <translation>Fun&amp;do</translation>
-    </message>
-    <message>
-        <source>&amp;Patterned Lines...</source>
-        <translation>Linhas &amp;padronizadas...</translation>
-    </message>
-    <message>
         <source>Black</source>
         <translation>Preto</translation>
     </message>
@@ -204,8 +176,28 @@
         <translation>Branco</translation>
     </message>
     <message>
+        <source>No Color</source>
+        <translation>Nenhuma cor</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automático</translation>
+    </message>
+    <message>
         <source>&amp;More Colors...</source>
         <translation>&amp;Mais Cores...</translation>
+    </message>
+    <message>
+        <source>&amp;Fill Effects...</source>
+        <translation>E&amp;feitos de preenchimento...</translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation>Fun&amp;do</translation>
+    </message>
+    <message>
+        <source>&amp;Patterned Lines...</source>
+        <translation>Linhas &amp;padronizadas...</translation>
     </message>
 </context>
 <context>
@@ -220,13 +212,6 @@
     </message>
 </context>
 <context>
-    <name>KDocTab</name>
-    <message>
-        <source>Uploading file...</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
@@ -237,35 +222,8 @@
         <translation>Adicionar a</translation>
     </message>
     <message>
-        <source>&amp;Hide quick access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;Hide Quick Access Toolbar</source>
         <translation>Ocultar Barra de Ferramentas</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Choose Language</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Choose your language</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Reset personal template</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Settings will be effected after application restarted.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -310,6 +268,10 @@
         <translation>Ma&amp;ximize</translation>
     </message>
     <message>
+        <source>&amp;Restore</source>
+        <translation>&amp;Restaurar</translation>
+    </message>
+    <message>
         <source>Mi&amp;nimize</source>
         <translation>Mi&amp;nimize</translation>
     </message>
@@ -320,10 +282,6 @@
     <message>
         <source>Use System &amp;Title Bar</source>
         <translation>Uso do Sistema &amp; Barra de Título</translation>
-    </message>
-    <message>
-        <source>&amp;Restore</source>
-        <translation>&amp;Restaurar</translation>
     </message>
 </context>
 <context>
@@ -343,26 +301,6 @@
 <context>
     <name>KPwdLineEdit</name>
     <message>
-        <source>Caps Lock On.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Before entering your password,you should press the &quot;Caps Lock&quot; key to turn it off.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Not allowed.</source>
-        <translation>Não permitido</translation>
-    </message>
-    <message>
-        <source>You are not allowed to copy from the password field.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Caps Lock on.</source>
         <translation>Caps Lock ativada</translation>
     </message>
@@ -373,6 +311,10 @@
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
         <translation>Você deveria pressionar Caps Lock para desligá-lo antes de digitar a sua senha.</translation>
+    </message>
+    <message>
+        <source>Not allowed.</source>
+        <translation>Não permitido</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
@@ -386,36 +328,16 @@
         <translation>&amp;Remover da barra de ferramentas de acesso rápido</translation>
     </message>
     <message>
-        <source>&amp;Show quick access</source>
-        <translation type="unfinished"/>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation>Mostrar Barra de Ferramentas</translation>
     </message>
     <message>
         <source>More commands</source>
         <translation>Mais comandos</translation>
     </message>
-    <message>
-        <source>&amp;Show Quick Access Toolbar</source>
-        <translation>Mostrar Barra de Ferramentas</translation>
-    </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
-    <message>
-        <source>Unfixed from the Listing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear All Fixed Files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fixed to the Listing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear All Unfixed Files</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
         <source>Unpinned from List</source>
         <translation>Desfixar da Lista</translation>
@@ -445,10 +367,6 @@
     <message>
         <source>KToolTipWidget</source>
         <translation>KToolTipWidget</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Infotip</source>
@@ -525,10 +443,6 @@ multiple=multiple</translation>
         <translation>O valor inserido deve estar entre %1 e %2.</translation>
     </message>
     <message>
-        <source>Illegal integer text.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>This is not a valid integer.</source>
         <translation>Isto não é um inteiro válido.</translation>
     </message>
@@ -538,10 +452,6 @@ multiple=multiple</translation>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>O valor inserido deve estar entre %1 e %2.</translation>
-    </message>
-    <message>
-        <source>Illegal integer text.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is not a valid integer.</source>
@@ -624,12 +534,12 @@ multiple=multiple</translation>
         <translation>Caps Lock: Desligado</translation>
     </message>
     <message>
-        <source>OverWrite</source>
-        <translation type="unfinished"/>
+        <source>Overtype</source>
+        <translation>Sobrescrever</translation>
     </message>
     <message>
-        <source>Clear record from list</source>
-        <translation type="unfinished"/>
+        <source>Clear Record from List</source>
+        <translation>Limpar Registro da Lista</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
@@ -640,8 +550,8 @@ multiple=multiple</translation>
         <translation>Abrir</translation>
     </message>
     <message>
-        <source>Delete from the Listing</source>
-        <translation type="unfinished"/>
+        <source>Delete from List</source>
+        <translation>Remover da Lista</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -650,18 +560,6 @@ multiple=multiple</translation>
     <message>
         <source>Open Folder</source>
         <translation>Abrir pasta</translation>
-    </message>
-    <message>
-        <source>Overtype</source>
-        <translation>Sobrescrever</translation>
-    </message>
-    <message>
-        <source>Clear Record from List</source>
-        <translation>Limpar Registro da Lista</translation>
-    </message>
-    <message>
-        <source>Delete from List</source>
-        <translation>Remover da Lista</translation>
     </message>
 </context>
 </TS>
