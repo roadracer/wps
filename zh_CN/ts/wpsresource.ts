@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="zh_CN">
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -614,7 +613,7 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -2045,7 +2044,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除单元格</translation>
     </message>
     <message>
         <source>Delete Cells</source>
@@ -2662,7 +2661,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">表格样式</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -3079,11 +3078,11 @@ On</source>
     </message>
     <message>
         <source>Font Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字体</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字号</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -3585,7 +3584,7 @@ Direction</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">购买序列号</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -4462,7 +4461,7 @@ Style</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">剪贴画</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -5723,7 +5722,7 @@ Picture</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">剪贴画</translation>
     </message>
     <message>
         <source>Color</source>
@@ -22831,11 +22830,11 @@ Directly</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">登录</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">注销</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

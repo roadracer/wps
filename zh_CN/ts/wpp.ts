@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="zh_CN">
 <context>
     <name>BulletNumberGridWidget</name>
     <message>
@@ -2349,7 +2348,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">帮助我们改进 WPS Office</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
@@ -5793,7 +5792,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation>&quot;%1&quot; 已经打开。重新执行打开操作会造成前面所做的更改被放弃，是否重新打开 &quot;%2&quot;</translation>
+        <translation type="unfinished">&quot;%1&quot; 已经打开。重新执行打开操作会丢失当前所做的更改，是否重新打开 &quot;%2&quot;</translation>
     </message>
     <message>
         <source>3-D Color</source>
