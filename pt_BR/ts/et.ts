@@ -3,7 +3,7 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation>consulta Avançada</translation>
+        <translation>Consulta Avançada</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -11,11 +11,11 @@
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation>Adicionar à lista</translation>
+        <translation>&amp;Adicionar à lista</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation>Excluir da lista</translation>
+        <translation>&amp;Excluir da lista</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -23,15 +23,15 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation>tipo:</translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Infotip</translation>
+        <translation>Dica</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation>Adicionar à lista de ( R )</translation>
+        <translation>Adicionar à lista(&amp;R)</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
@@ -73,7 +73,7 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation>Largura da coluna Selector</translation>
+        <translation>Escolher a Largura da coluna</translation>
     </message>
 </context>
 <context>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation>Guia de conexão de fonte de dados ODBC Uso (W)</translation>
+        <translation>Use o Guia de Conexão de Fonte de Dados ODBC(W)</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Explanation</source>
-        <translation>explicação</translation>
+        <translation>Explicação</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation>Você pode escolher entre três diferentes maneiras para se conectar à fonte de dados escolhido.</translation>
+        <translation>Você pode escolher  três formas diferentes para se conectar à fonte de dados escolhida.</translation>
     </message>
 </context>
 <context>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
-        <translation>restrição :</translation>
+        <translation>Restrição</translation>
     </message>
     <message>
         <source>&lt;=</source>
@@ -200,11 +200,11 @@
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation>Se você abrir um novo arquivo, as suas edições em arquivo atual será eliminado :</translation>
+        <translation>Se você abrir um novo arquivo, as suas edições no arquivo atual serão exluidas :</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Infotip</translation>
+        <translation>Dicas</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
@@ -223,7 +223,7 @@
     <name>FileNowAvialable</name>
     <message>
         <source>&quot;%s&quot; is now available for editing.</source>
-        <translation>&apos;%s &apos;já está disponível para edição.</translation>
+        <translation>&apos;%s&apos; já está Disponível para Edição.</translation>
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
@@ -242,7 +242,7 @@
     <name>FilterPageUi</name>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation>O terceiro passo: filtragem de dados e classificação</translation>
+        <translation>O Terceiro Passo: Filtragem de Fados e Classificação</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
-        <translation>Você pode clicar em Consulta Avançada para classificar e filtrar os dados mais complicados, se ele ainda não pode satisfazer a sua exigência , você pode inserir a instrução de consulta diretamente.</translation>
+        <translation>Você pode clicar em Consulta Avançada para classificar e filtrar os dados mais complexos, se ele não  satisfazer a sua exigência , você pode inserir a instrução de consulta diretamente.</translation>
     </message>
 </context>
 <context>

@@ -136,22 +136,22 @@ Por favor, tente uma das seguintes opções .
     <message>
         <source>XML Files</source>
         <comment>TX_Desc_Default</comment>
-        <translation>Arquivos xml</translation>
+        <translation>Arquivos Xml</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>TX_SaveAs_Caption</comment>
-        <translation>Salvar como</translation>
+        <translation>Salvar Como</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation>Você deseja salvar as alterações feitas em &apos;%s &apos;?</translation>
+        <translation>Você deseja salvar as alterações feitas para &apos;%s &apos;?</translation>
     </message>
     <message>
         <source>(Read-only)</source>
         <comment>TX_ReadOnly_Sufix</comment>
-        <translation>(Somente leitura)</translation>
+        <translation>(Somente leitura )</translation>
     </message>
     <message>
         <source>*</source>
@@ -161,7 +161,7 @@ Por favor, tente uma das seguintes opções .
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation>&apos;%s &apos;é somente leitura . Se você quiser salvar uma cópia , clique em OK, em seguida, coloque um novo nome para esta pasta de trabalho na caixa de diálogo Salvar como.</translation>
+        <translation>&apos;%s &apos;é somente leitura . Se você quiser salvar uma cópia , clique em OK, em seguida, dar um novo nome para esta pasta de trabalho na caixa de diálogo Salvar como.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
@@ -9865,7 +9865,7 @@ Check</source>
     <message>
         <source>is a number that you guess is close to the result of IRR; 0.1(10 percent) if omitted.</source>
         <comment>TX_ParaDesc_193</comment>
-        <translation>é um número que você julgar ser próximo do resultado de IRR; 0.1(10 por cento) , se for omitido .</translation>
+        <translation>é um número que você adivinhar é próximo do resultado de TIR ; 0,1 ( 10 por cento ) , se omitido .</translation>
     </message>
     <message>
         <source>is the cell or a name that refers to the cell you want to test.</source>
@@ -13862,17 +13862,17 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>WPS Spreadsheets cannot find a match.</source>
         <comment>et_sReplace_NotFind</comment>
-        <translation>WPS Planilha não pode encontrar a condição correspondente.</translation>
+        <translation>WPS Spreadsheets não pode encontrar uma correspondência .</translation>
     </message>
     <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
         <comment>et_sReplace_ReplaceFailed</comment>
-        <translation>Localizar a condição correspondente. , mas não para substituir . Os conteúdos substituídos podem invalidar formulas .</translation>
+        <translation>Encontre os jogos , mas não para substituir . Os conteúdos podem ser substituídos fórmulas inválidos .</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <comment>et_sRequireNumber</comment>
-        <translation>Sua entrada não pode ser usada . Pode ser necessário um número inteiro ou decimal .</translation>
+        <translation>Sua entrada não pode ser usado . Pode ser necessário um número inteiro ou decimal .</translation>
     </message>
     <message>
         <source>Right</source>
@@ -14411,8 +14411,10 @@ following range,it reminds checking the correctness of the
 contents.
 (Note: Please select the range with a single row or column)</source>
         <comment>et_sRepeatWordInputDeny</comment>
-        <translation>Se houver valores duplicados quando adicionar o conteúdo no intervalo a seguir, ele lembra de verificar a exatidão do conteúdo 
-(Nota: Por favor, selecione o intervalo com uma única linha ou coluna).</translation>
+        <translation>Se existem valores duplicados ao entrar no conteúdo
+seguinte intervalo , ele lembra de verificar a regularidade da
+conteúdo .
+(Nota : Por favor, selecione o intervalo com uma única linha ou coluna )</translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK. The duplica
@@ -14420,8 +14422,10 @@ ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
         <comment>et_sRepeatWordDelete</comment>
-        <translation>Ele compara o conteúdo de linhas depois clicar em OK. As linhas duplicadas com exatamente o mesmo conteúdo serão excluídas automaticamente, apenas manter uma linha. 
-(Nota: A função só suporta intervalo único)</translation>
+        <translation>Ele compara o conteúdo de linhas depois clique em OK. o Duplica
+linhas ted com exatamente o mesmo conteúdo será apagado automação
+ticamente , apenas manter uma linha.
+(Nota: A função só suporta faixa single)</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
