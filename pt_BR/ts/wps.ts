@@ -372,7 +372,7 @@
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished">&Amp;Posição absoluta</translation>
+        <translation type="unfinished">&amp;Posição absoluta</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation type="unfinished">&Mover objeto com o texto</translation>
+        <translation type="unfinished">&amp;Mover objeto com o texto</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>

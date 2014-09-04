@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
 <context>
     <name>KHomepage</name>
     <message>
@@ -36,7 +34,7 @@
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="obsolete">Modelos online</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check Online Templates</source>
@@ -50,7 +48,7 @@
     </message>
     <message>
         <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
+        <translation>docerhomepage</translation>
     </message>
 </context>
 </TS>

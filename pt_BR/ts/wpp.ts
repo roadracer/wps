@@ -1,675 +1,673 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
 <context>
     <name>BulletNumberGridWidget</name>
     <message>
         <source>None</source>
-        <translation></translation>
+        <translation>Nenhum</translation>
     </message>
 </context>
 <context>
     <name>CTableStyle</name>
     <message>
         <source>No Style, No Grid</source>
-        <translation></translation>
+        <translation>Sem estilo, sem grade</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation></translation>
+        <translation>Themed estilo</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation></translation>
+        <translation>Enfatize</translation>
     </message>
     <message>
         <source>1-</source>
-        <translation></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
-        <translation></translation>
+        <translation>No estilo, tabela da grade</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>Light style</source>
-        <translation></translation>
+        <translation>Estilo luz</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation></translation>
+        <translation>Estilo médio</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation></translation>
+        <translation>Estilo escuro</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation></translation>
+        <translation>Estilo dark 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation></translation>
+        <translation>Estilo dark 2 enfatizar uma meia empahsiz</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation></translation>
+        <translation>Estilo dark 2 - emphaisze 3/4 enfatize</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation></translation>
+        <translation>Primeira linha</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation></translation>
+        <translation>Última row</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation></translation>
+        <translation>Linhas banded</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation></translation>
+        <translation>Colunas banded</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation></translation>
+        <translation>Primeira coluna</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation></translation>
+        <translation>Última coluna</translation>
     </message>
     <message>
         <source>3-</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo dark 2 - enfatizar 5 /6 enfatize</translation>
     </message>
 </context>
 <context>
     <name>DesignLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation></translation>
+        <translation>Aplicar ao slide mestre</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
-        <translation></translation>
+        <translation>Aplicar a todos</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation></translation>
+        <translation>Aplicar aos slides selecionados</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation></translation>
+        <translation>Substituir tudo</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation></translation>
+        <translation>Substituir designs selecionados</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation></translation>
+        <translation>Mostrar grandes previews</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar design</translation>
     </message>
 </context>
 <context>
     <name>DlgAsianLineBreak</name>
     <message>
         <source>Asian Line Break</source>
-        <translation></translation>
+        <translation>Quebra de linha asiática</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation></translation>
+        <translation>Quebra de linha</translation>
     </message>
     <message>
         <source>Use Asian rules for controlling first and last &amp;characters</source>
-        <translation></translation>
+        <translation>Usar regras asiáticas para controlar o primeiro e último caracteres</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation></translation>
+        <translation>Permitir texto latino para quebrar no meio de uma palavra</translation>
     </message>
     <message>
         <source>All&amp;ow hanging punctuation</source>
-        <translation></translation>
+        <translation>Permitir pontuação deslocada</translation>
     </message>
     <message>
         <source>&amp;Typography...</source>
-        <translation></translation>
+        <translation>Tipografia ...</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation></translation>
+        <translation>Pré-Visualização</translation>
     </message>
 </context>
 <context>
     <name>DlgFindReplace</name>
     <message>
         <source>FindReplaceDlg</source>
-        <translation type="unfinished"></translation>
+        <translation>Findreplacedlg</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation></translation>
+        <translation>Maiúsculas de minúsculas</translation>
     </message>
     <message>
         <source>Find &amp;whole words only</source>
-        <translation></translation>
+        <translation>Localizar apenas palavras inteiras</translation>
     </message>
     <message>
         <source>Match half/full width for&amp;ms</source>
-        <translation></translation>
+        <translation>Jogo half /formas largura total</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation></translation>
+        <translation>Localizar próxima</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
-        <translation></translation>
+        <translation>Substituir ...</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation></translation>
+        <translation>Substituir tudo</translation>
     </message>
     <message>
         <source>Re&amp;place with:</source>
-        <translation></translation>
+        <translation>Substituir por:</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizar o que :</translation>
     </message>
 </context>
 <context>
     <name>DlgKxCustomShows</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation></translation>
+        <translation>Shows de slides personalizados</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation></translation>
+        <translation>Slides personalizada mostra :</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation></translation>
+        <translation>Novo ...</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation></translation>
+        <translation>Editar ...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Cop&amp;y</source>
-        <translation></translation>
+        <translation>Cópia</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>&amp;Show</source>
-        <translation></translation>
+        <translation>Mostrar</translation>
     </message>
 </context>
 <context>
     <name>DlgKxDefineCustomShows</name>
     <message>
         <source>Define Custom Show</source>
-        <translation></translation>
+        <translation>Definir apresentação personalizada</translation>
     </message>
     <message>
         <source>Slide show &amp;name:</source>
-        <translation></translation>
+        <translation>Slide nome show:</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
+        <translation>Shows de slides personalizados</translation>
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
-        <translation></translation>
+        <translation>Slides na apresentação :</translation>
     </message>
     <message>
         <source>&amp;Add &gt;&gt;</source>
-        <translation></translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>S&amp;lides in custom show:</source>
-        <translation></translation>
+        <translation>Slides em apresentação personalizada :</translation>
     </message>
 </context>
 <context>
     <name>DlgKxSetupShow</name>
     <message>
         <source>Show type</source>
-        <translation></translation>
+        <translation>Mostrar tipo</translation>
     </message>
     <message>
         <source>&amp;Presented by a speaker(Full screen)</source>
-        <translation></translation>
+        <translation>Apresentado por um orador ( tela cheia )</translation>
     </message>
     <message>
         <source>Browsed at a &amp;kiosk(Full screen)</source>
-        <translation></translation>
+        <translation>Em um quiosque ( tela cheia )</translation>
     </message>
     <message>
         <source>&amp;Browsed by an individual(window)</source>
-        <translation></translation>
+        <translation>Apresentada por uma pessoa (janela )</translation>
     </message>
     <message>
         <source>S&amp;how Scrollbar</source>
-        <translation></translation>
+        <translation>Mostrar barra de rolagem</translation>
     </message>
     <message>
         <source>Show options</source>
-        <translation></translation>
+        <translation>Mostrar opções</translation>
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
-        <translation></translation>
+        <translation>Repetir continuamente até &apos;Esc&apos;</translation>
     </message>
     <message>
         <source>P&amp;en color:</source>
-        <translation></translation>
+        <translation>Caneta de cor :</translation>
     </message>
     <message>
         <source>&amp;Show Without Animation</source>
-        <translation></translation>
+        <translation>Mostrar Sem Animação</translation>
     </message>
     <message>
         <source>Show Without &amp;Narration</source>
-        <translation></translation>
+        <translation>Mostrar sem narração</translation>
     </message>
     <message>
         <source>Show slides</source>
-        <translation></translation>
+        <translation>Mostrar diapositivos</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation></translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation></translation>
+        <translation>De:</translation>
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation></translation>
+        <translation>para :</translation>
     </message>
     <message>
         <source>&amp;Custom show:</source>
-        <translation></translation>
+        <translation>Apresentação personalizada :</translation>
     </message>
     <message>
         <source>Advance slides</source>
-        <translation></translation>
+        <translation>Avançar slides</translation>
     </message>
     <message>
         <source>&amp;Manually</source>
-        <translation></translation>
+        <translation>manualmente</translation>
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
-        <translation></translation>
+        <translation>Usando intervalos , se presente</translation>
     </message>
     <message>
         <source>Multiple monitors</source>
-        <translation></translation>
+        <translation>Vários monitores</translation>
     </message>
     <message>
         <source>Display slide show &amp;on:</source>
-        <translation></translation>
+        <translation>De exibição de slides em:</translation>
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation></translation>
+        <translation>Mostrar vista do apresentador</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar apresentação</translation>
     </message>
     <message>
         <source>Double-&amp;Screen Extend Mode Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplo -screen estender modo de assistente</translation>
     </message>
 </context>
 <context>
     <name>DlgWppAnimationEffects</name>
     <message>
         <source>Add Effects</source>
-        <translation></translation>
+        <translation>Adicionar efeitos</translation>
     </message>
     <message>
         <source>&amp;Preview Effects</source>
-        <translation></translation>
+        <translation>visualizar os efeitos</translation>
     </message>
 </context>
 <context>
     <name>DlgWppAnimationOptions</name>
     <message>
         <source>Effect Options</source>
-        <translation></translation>
+        <translation>Opções de efeito</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation></translation>
+        <translation>Efeitos</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation></translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Di&amp;rection:</source>
-        <translation></translation>
+        <translation>Direção:</translation>
     </message>
     <message>
         <source>F&amp;irst Color:</source>
-        <translation></translation>
+        <translation>Primeira cor:</translation>
     </message>
     <message>
         <source>Se&amp;cond Color:</source>
-        <translation></translation>
+        <translation>Segunda cor :</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
-        <translation></translation>
+        <translation>Estilo:</translation>
     </message>
     <message>
         <source>Pat&amp;h:</source>
-        <translation></translation>
+        <translation>Caminho:</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation></translation>
+        <translation>Trancado</translation>
     </message>
     <message>
         <source>UnLocked</source>
-        <translation></translation>
+        <translation>Desbloqueado</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation></translation>
+        <translation>Fonte :</translation>
     </message>
     <message>
         <source>S&amp;mooth Start</source>
-        <translation></translation>
+        <translation>Arranque suave</translation>
     </message>
     <message>
         <source>Smooth E&amp;nd</source>
-        <translation></translation>
+        <translation>Fim liso</translation>
     </message>
     <message>
         <source>A&amp;uto-reverse</source>
-        <translation></translation>
+        <translation>Auto -reverse</translation>
     </message>
     <message>
         <source>Start Playing</source>
-        <translation></translation>
+        <translation>Comece a jogar</translation>
     </message>
     <message>
         <source>From &amp;Beginning</source>
-        <translation></translation>
+        <translation>Do começo</translation>
     </message>
     <message>
         <source>From &amp;Last Postion</source>
-        <translation></translation>
+        <translation>De última postion</translation>
     </message>
     <message>
         <source>From Ti&amp;me:</source>
-        <translation></translation>
+        <translation>De time:</translation>
     </message>
     <message>
         <source>Seconds</source>
-        <translation></translation>
+        <translation>Segundos</translation>
     </message>
     <message>
         <source>Stop Playing</source>
-        <translation></translation>
+        <translation>Pare de jogar</translation>
     </message>
     <message>
         <source>On clic&amp;k</source>
-        <translation></translation>
+        <translation>No clique</translation>
     </message>
     <message>
         <source>After &amp;Current Slide</source>
-        <translation></translation>
+        <translation>Após o slide atual</translation>
     </message>
     <message>
         <source>A&amp;fter:</source>
-        <translation></translation>
+        <translation>Depois :</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation></translation>
+        <translation>Slides</translation>
     </message>
     <message>
         <source>Enhancements</source>
-        <translation></translation>
+        <translation>Melhorias</translation>
     </message>
     <message>
         <source>&amp;Sound:</source>
-        <translation></translation>
+        <translation>Som:</translation>
     </message>
     <message>
         <source>&amp;After animation:</source>
-        <translation></translation>
+        <translation>Depois de animação:</translation>
     </message>
     <message>
         <source>Animate Te&amp;xt:</source>
-        <translation></translation>
+        <translation>Animar texto:</translation>
     </message>
     <message>
         <source>All at once</source>
-        <translation></translation>
+        <translation>Tudo de uma vez</translation>
     </message>
     <message>
         <source>By Letter</source>
-        <translation></translation>
+        <translation>Por carta</translation>
     </message>
     <message>
         <source>% &amp;delay between letters</source>
-        <translation></translation>
+        <translation>% atraso entre letras</translation>
     </message>
     <message>
         <source>Timing</source>
-        <translation></translation>
+        <translation>Cronometragem</translation>
     </message>
     <message>
         <source>&amp;Start:</source>
-        <translation></translation>
+        <translation>Início:</translation>
     </message>
     <message>
         <source>On Click</source>
-        <translation></translation>
+        <translation>Em click</translation>
     </message>
     <message>
         <source>With Previous</source>
-        <translation></translation>
+        <translation>Com anterior</translation>
     </message>
     <message>
         <source>After Previous</source>
-        <translation></translation>
+        <translation>Depois anterior</translation>
     </message>
     <message>
         <source>&amp;Delay:</source>
-        <translation></translation>
+        <translation>atraso:</translation>
     </message>
     <message>
         <source>&amp;Sp&amp;eed:</source>
-        <translation></translation>
+        <translation>velocidade:</translation>
     </message>
     <message>
         <source>&amp;Repeat:</source>
-        <translation></translation>
+        <translation>Repita :</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation></translation>
+        <translation>(Nenhum)</translation>
     </message>
     <message>
         <source>Until Next Click</source>
-        <translation></translation>
+        <translation>Até a próxima click</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
-        <translation></translation>
+        <translation>Até o fim dos slides</translation>
     </message>
     <message>
         <source>&amp;Triggers</source>
-        <translation></translation>
+        <translation>Triggers</translation>
     </message>
     <message>
         <source>&amp;Animate as part of click sequence</source>
-        <translation></translation>
+        <translation>Animar como parte da seqüência clique</translation>
     </message>
     <message>
         <source>Start Effects on &amp;Click of:</source>
-        <translation></translation>
+        <translation>Comece efeitos sobre click :</translation>
     </message>
     <message>
         <source>Text Animation</source>
-        <translation></translation>
+        <translation>Texto animação</translation>
     </message>
     <message>
         <source>&amp;Group Text:</source>
-        <translation></translation>
+        <translation>Grupo Texto:</translation>
     </message>
     <message>
         <source>A&amp;utomatically After</source>
-        <translation></translation>
+        <translation>Automaticamente após</translation>
     </message>
     <message>
         <source>Chart Animation</source>
-        <translation></translation>
+        <translation>Gráfico animação</translation>
     </message>
     <message>
         <source>&amp;Group Chart:</source>
-        <translation></translation>
+        <translation>Gráfico Grupo:</translation>
     </message>
     <message>
         <source>Diagram Animation</source>
-        <translation></translation>
+        <translation>Diagrama de animação</translation>
     </message>
     <message>
         <source>&amp;Group Diagram:</source>
-        <translation></translation>
+        <translation>Diagrama Grupo:</translation>
     </message>
     <message>
         <source>Sound Settings</source>
-        <translation></translation>
+        <translation>Definições de som</translation>
     </message>
     <message>
         <source>Play options</source>
-        <translation></translation>
+        <translation>Opções de leitura</translation>
     </message>
     <message>
         <source>Display options</source>
-        <translation></translation>
+        <translation>Opções de exibição</translation>
     </message>
     <message>
         <source>&amp;Hide sound icon during slide show</source>
-        <translation></translation>
+        <translation>Ocultar ícone de som durante a apresentação de slides</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation></translation>
+        <translation>Informações</translation>
     </message>
     <message>
         <source>Total Playing Time:</source>
-        <translation></translation>
+        <translation>Tempo total de reprodução :</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation></translation>
+        <translation>Arquivo :</translation>
     </message>
     <message>
         <source>Movie Settings</source>
-        <translation></translation>
+        <translation>Configurações de cinema</translation>
     </message>
     <message>
         <source>&amp;Hide while not playing</source>
-        <translation></translation>
+        <translation>Esconder enquanto não jogar</translation>
     </message>
     <message>
         <source>&amp;Zoom to full screen</source>
-        <translation></translation>
+        <translation>Zoom em tela cheia</translation>
     </message>
     <message>
         <source>&amp;Animate gridline and legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Animar gridline e lenda</translation>
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>O volume do som :</translation>
     </message>
 </context>
 <context>
     <name>Dlgtypography</name>
     <message>
         <source>Typography</source>
-        <translation></translation>
+        <translation>Tipografia</translation>
     </message>
     <message>
         <source>First and last characters</source>
-        <translation></translation>
+        <translation>Caracteres primeira e última</translation>
     </message>
     <message>
         <source>S&amp;tandard</source>
-        <translation></translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>&amp;Custom</source>
-        <translation></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Cannot &amp;start line:</source>
-        <translation></translation>
+        <translation>Não é possível iniciar linha:</translation>
     </message>
     <message>
         <source>Cannot &amp;end line:</source>
-        <translation></translation>
+        <translation>Não pode terminar linha:</translation>
     </message>
     <message>
         <source>Line-breaking characters currently customized for:</source>
-        <translation></translation>
+        <translation>Caracteres de quebra de linha personalizado atualmente para :</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation></translation>
+        <translation>Carregando kui</translation>
     </message>
 </context>
 <context>
     <name>KCloseThumbnailCommand</name>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -677,58 +675,58 @@
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>Escala</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>&amp;Padrão para novos objetos</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>&amp;Estilo:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>&amp;Tracejado:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>&amp;Estilo inicial:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>Estilo &amp;final:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>Tamanho &amp;inicial:</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation></translation>
+        <translation>Tamanho &amp;final:</translation>
     </message>
 </context>
 <context>
     <name>KWppAnimDlgColorCommand</name>
     <message>
         <source>&amp;More Colors...</source>
-        <translation></translation>
+        <translation>Mais cores ...</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -736,2120 +734,2122 @@
     <message id="0">
         <source>Fit slide to current window</source>
         <oldsource>Slide Zoom Fit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar slide à janela atual</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação</translation>
     </message>
 </context>
 <context>
     <name>KxBackgroundDlg</name>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation></translation>
+        <translation>Siga fundo esquema de cores , siga o texto e linhas de esquema de cores, sombras siga esquema de cores , siga título texto color scheme , siga fills esquema de cores , siga accent esquema de cores , siga accent e hyperlink esquema de cores , siga destaque e esquema de cores</translation>
     </message>
 </context>
 <context>
     <name>KxBrowseSlidesDlg</name>
     <message>
         <source>All Slides</source>
-        <translation></translation>
+        <translation>Todos os slides</translation>
     </message>
     <message>
         <source>Slide %1 .. %2</source>
-        <translation></translation>
+        <translation>Slide %1 .. %2</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation></translation>
+        <translation>Shows de slides personalizados</translation>
     </message>
     <message>
         <source>Slide %1</source>
-        <translation></translation>
+        <translation>Slide %1</translation>
     </message>
 </context>
 <context>
     <name>KxBulletsNumberingDlg</name>
     <message>
         <source>&amp;More Colors</source>
-        <translation></translation>
+        <translation>mais cores</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation></translation>
+        <translation>Siga fundo esquema de cores , siga o texto e linhas de esquema de cores, sombras siga esquema de cores , siga título texto color scheme , siga fills esquema de cores , siga accent esquema de cores , siga accent e hyperlink esquema de cores , siga destaque e esquema de cores</translation>
     </message>
     <message>
         <source>Do you want to reset the library as default?</source>
-        <translation></translation>
+        <translation>Você quer redefinir a biblioteca como padrão?</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation></translation>
+        <translation>Abrir imagem</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation></translation>
+        <translation>Todas as imagens</translation>
     </message>
 </context>
 <context>
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>(No Suggestions)</source>
-        <translation></translation>
+        <translation>(Nenhuma sugestão )</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
-        <translation></translation>
+        <translation>Verificação ortográfica foi concluída .</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
-        <translation></translation>
+        <translation>Ignorar palavras que contêm números</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre sugerir correções</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar palavras em maiúsculas</translation>
     </message>
 </context>
 <context>
     <name>KxColorSettingPanel</name>
     <message>
         <source>Background</source>
-        <translation></translation>
+        <translation>Plano de fundo</translation>
     </message>
     <message>
         <source>Text and lines</source>
-        <translation></translation>
+        <translation>Texto e linhas</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation></translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <source>Title text</source>
-        <translation></translation>
+        <translation>Texto do título</translation>
     </message>
     <message>
         <source>Fills</source>
-        <translation></translation>
+        <translation>Preenchimentos</translation>
     </message>
     <message>
         <source>Accent</source>
-        <translation></translation>
+        <translation>Accent</translation>
     </message>
     <message>
         <source>Accent and hyperlink</source>
-        <translation></translation>
+        <translation>Accent e hyperlink</translation>
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
-        <translation></translation>
+        <translation>Accent e seguiu hyperlink</translation>
     </message>
 </context>
 <context>
     <name>KxCommentWidget</name>
     <message>
         <source>Delete all comments and ink annotations in this presentation?</source>
-        <translation></translation>
+        <translation>Excluir todos os comentários e anotações à tinta nesta apresentação ?</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation></translation>
+        <translation>continuar</translation>
     </message>
     <message>
         <source>WPS Presentation reached the beginning of the slide. Do you want to continue from the end?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação wps atingido o início da corrediça . você quer continuar a partir do fim?</translation>
     </message>
     <message>
         <source>WPS Presentation reached the end of the slide. Do you want to continue from the beginning?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação chegou ao fim do slide. você quer continuar desde o início?</translation>
     </message>
 </context>
 <context>
     <name>KxCustomShowsDlg</name>
     <message>
         <source>Custom show %1</source>
-        <translation></translation>
+        <translation>Apresentação personalizada %1</translation>
     </message>
     <message>
         <source>^Copy (\d+ )?of (.*)</source>
-        <translation></translation>
+        <translation>^ Copy ( \\ d +) ? De (*. )</translation>
     </message>
     <message>
         <source>Copy %1 of </source>
-        <translation></translation>
+        <translation>Copiar %1 de</translation>
     </message>
     <message>
         <source>%1%2</source>
-        <translation></translation>
+        <translation>%1%2</translation>
     </message>
     <message>
         <source>Copy %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar %1 de %2</translation>
     </message>
 </context>
 <context>
     <name>KxDefineCustomShowsDlg</name>
     <message>
         <source>%1. </source>
-        <translation></translation>
+        <translation>%1 .</translation>
     </message>
     <message>
         <source>(%1) </source>
-        <translation></translation>
+        <translation>( %1 )</translation>
     </message>
     <message>
         <source>You must name your custom show.</source>
-        <translation></translation>
+        <translation>Você deve nomear sua apresentação personalizada .</translation>
     </message>
     <message>
         <source>You cannot have two custom shows with the same name. Please enter a new name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode ter dois shows personalizados com o mesmo nome. por favor insira um novo nome.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBackground</name>
     <message>
         <source>Background</source>
-        <translation></translation>
+        <translation>Plano de fundo</translation>
     </message>
     <message>
         <source>&amp;Background fill</source>
-        <translation></translation>
+        <translation>preenchimento do fundo</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation></translation>
+        <translation>Aplique</translation>
     </message>
     <message>
         <source>Apply &amp;to All</source>
-        <translation></translation>
+        <translation>Aplicar a todos</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation></translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>I&amp;gnore the background of master slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignore o fundo do slide mestre</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBkgndMusicTip</name>
     <message>
         <source>Zoom</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation></translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation></translation>
+        <translation>Não perguntar da próxima vez.</translation>
     </message>
     <message>
         <source>Background music file cannot be saved in
 the presentation file directly.You can put it with the presentation file in the same folder to play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de música de fundo não pode ser salvo em
+        o arquivo de apresentação directly.you pode colocá-lo com o arquivo de apresentação na mesma pasta para jogar.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBrowseSlides</name>
     <message>
         <source>&amp;Show:</source>
-        <translation></translation>
+        <translation>Show:</translation>
     </message>
     <message>
         <source>S&amp;lide titles:</source>
-        <translation></translation>
+        <translation>Slide títulos :</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation></translation>
+        <translation>ir para página</translation>
     </message>
     <message>
         <source>Slides Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides roaming</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>Bullet and Numbering</source>
-        <translation></translation>
+        <translation>Bala e numeração</translation>
     </message>
     <message>
         <source>Bulleted</source>
-        <translation></translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <source>S&amp;ize:</source>
-        <translation></translation>
+        <translation>Tamanho :</translation>
     </message>
     <message>
         <source>% of text</source>
-        <translation></translation>
+        <translation>% do texto</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation></translation>
+        <translation>Cor:</translation>
     </message>
     <message>
         <source>&amp;Picture...</source>
-        <translation></translation>
+        <translation>Picture ...</translation>
     </message>
     <message>
         <source>C&amp;ustomize...</source>
-        <translation></translation>
+        <translation>Personalize ...</translation>
     </message>
     <message>
         <source>Numbered</source>
-        <translation></translation>
+        <translation>Numerada</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation></translation>
+        <translation>Redefinir</translation>
     </message>
     <message>
         <source>&amp;Begin a&amp;t:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comece em:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation></translation>
+        <translation>parágrafo:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation></translation>
+        <translation>A palavra não está no dicionário</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation></translation>
+        <translation>Mudar para:</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation></translation>
+        <translation>Sugestões:</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation></translation>
+        <translation>Alterar</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation></translation>
+        <translation>Alterar tudo</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation></translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation></translation>
+        <translation>Ignorar tudo</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation></translation>
+        <translation>Adicionar ao dicionário</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation></translation>
+        <translation>excluir</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation></translation>
+        <translation>opções</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation></translation>
+        <translation>desfazer</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificação ortográfica</translation>
     </message>
     <message>
         <source>&amp;Set Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir Idioma</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>Date and Time</source>
-        <translation></translation>
+        <translation>Data e hora</translation>
     </message>
     <message>
         <source>&amp;Available formats:</source>
-        <translation></translation>
+        <translation>Formatos disponíveis :</translation>
     </message>
     <message>
         <source>&amp;Language(Country/Area):</source>
-        <translation></translation>
+        <translation>Language ( País /Região ) :</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation></translation>
+        <translation>Atualize automaticamente</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDeletebkmusic</name>
     <message>
         <source>Icon</source>
-        <translation></translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <source>Are you sure to delete the background music from current slide?</source>
-        <translation></translation>
+        <translation>Tem certeza que deseja deletar a música de fundo do slide atual ?</translation>
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation></translation>
+        <translation>Não perguntar da próxima vez.</translation>
     </message>
     <message>
         <source>Delete Background Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir música de fundo</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation></translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation></translation>
+        <translation>Fonte do texto asiático :</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation></translation>
+        <translation>Fonte do texto em latim:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation></translation>
+        <translation>Estilo da fonte :</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation></translation>
+        <translation>tamanho :</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation></translation>
+        <translation>Regular</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation></translation>
+        <translation>Negrito itálico</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation></translation>
+        <translation>Efeitos</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation></translation>
+        <translation>Sublinhe</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
-        <translation></translation>
+        <translation>Sobrescrito</translation>
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation></translation>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation></translation>
+        <translation>Offset:</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation></translation>
+        <translation>Emboss</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation></translation>
+        <translation>Subscrito</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation></translation>
+        <translation>Cor:</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
-        <translation></translation>
+        <translation>Padrão para novos objetos</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta é uma fonte truetype . esta mesma fonte será usada tanto a impressora e sua tela.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgGridAndGuids</name>
     <message>
         <source>Grid and Guides</source>
-        <translation></translation>
+        <translation>Grade e guias</translation>
     </message>
     <message>
         <source>Snap to</source>
-        <translation></translation>
+        <translation>Alinhar à</translation>
     </message>
     <message>
         <source>Snap objects to &amp;grid         </source>
-        <translation></translation>
+        <translation>Encaixar objetos na grade</translation>
     </message>
     <message>
         <source>&amp;Snap objects to other objects</source>
-        <translation></translation>
+        <translation>Encaixar objetos em outros objetos</translation>
     </message>
     <message>
         <source>Grid settings</source>
-        <translation></translation>
+        <translation>Configurações de grade</translation>
     </message>
     <message>
         <source>S&amp;pacing:</source>
-        <translation></translation>
+        <translation>Espaçamento:</translation>
     </message>
     <message>
         <source>8 grid per cm</source>
-        <translation></translation>
+        <translation>8 grade por cm</translation>
     </message>
     <message>
         <source>6 grid per cm</source>
-        <translation></translation>
+        <translation>6 grade por cm</translation>
     </message>
     <message>
         <source>5 grid per cm</source>
-        <translation></translation>
+        <translation>5 grade por cm</translation>
     </message>
     <message>
         <source>4 grid per cm</source>
-        <translation></translation>
+        <translation>4 grade por cm</translation>
     </message>
     <message>
         <source>3 grid per cm</source>
-        <translation></translation>
+        <translation>3 grade por cm</translation>
     </message>
     <message>
         <source>2 grid per cm</source>
-        <translation></translation>
+        <translation>Grade 2 por cm</translation>
     </message>
     <message>
         <source>1 cm</source>
-        <translation></translation>
+        <translation>1 centímetro</translation>
     </message>
     <message>
         <source>2 cm</source>
-        <translation></translation>
+        <translation>2 centímetros</translation>
     </message>
     <message>
         <source>3 cm</source>
-        <translation></translation>
+        <translation>três centímetros</translation>
     </message>
     <message>
         <source>4 cm</source>
-        <translation></translation>
+        <translation>4 centímetros</translation>
     </message>
     <message>
         <source>5 cm</source>
-        <translation></translation>
+        <translation>5 centímetros</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>&amp;Display grid on screen</source>
-        <translation></translation>
+        <translation>Grade de exibição na tela</translation>
     </message>
     <message>
         <source>Guide settings</source>
-        <translation></translation>
+        <translation>Definições de guia</translation>
     </message>
     <message>
         <source>D&amp;isplay drawing guides on screen</source>
-        <translation></translation>
+        <translation>Desenho visor guia na tela</translation>
     </message>
     <message>
         <source>&amp;Objects follow with guides       </source>
-        <translation></translation>
+        <translation>Objetos seguir com guias</translation>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir como padrão (c)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgHeaderFooter</name>
     <message>
         <source>Header and Footer</source>
-        <translation></translation>
+        <translation>Cabeçalho e rodapé</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation></translation>
+        <translation>Slide</translation>
     </message>
     <message>
         <source>Include on slide</source>
-        <translation></translation>
+        <translation>Incluir no slide</translation>
     </message>
     <message>
         <source>&amp;Date and time</source>
-        <translation></translation>
+        <translation>Data e hora</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation></translation>
+        <translation>Atualize automaticamente</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation></translation>
+        <translation>idioma :</translation>
     </message>
     <message>
         <source>Fi&amp;xed</source>
-        <translation></translation>
+        <translation>Fixa</translation>
     </message>
     <message>
         <source>Slide &amp;number</source>
-        <translation></translation>
+        <translation>O slide</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation></translation>
+        <translation>Rodapé</translation>
     </message>
     <message>
         <source>Appl&amp;y to All</source>
-        <translation></translation>
+        <translation>Aplicar a todos</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation></translation>
+        <translation>Aplique</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation></translation>
+        <translation>Pré-visualização</translation>
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
-        <translation></translation>
+        <translation>Não mostrar no slide de título</translation>
     </message>
     <message>
         <source>Notes and Handouts</source>
-        <translation></translation>
+        <translation>Notas e folhetos</translation>
     </message>
     <message>
         <source>Include on page</source>
-        <translation></translation>
+        <translation>Incluir na página</translation>
     </message>
     <message>
         <source>&amp;Header</source>
-        <translation></translation>
+        <translation>Cabeçalho</translation>
     </message>
     <message>
         <source>&amp;Page number</source>
-        <translation></translation>
+        <translation>número de página</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertMedia</name>
     <message>
         <source>Icon</source>
-        <translation></translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <source>How do you want the movie to start in the slide show?</source>
-        <translation></translation>
+        <translation>Como você quer que o filme começar na apresentação de slides ?</translation>
     </message>
     <message>
         <source>&amp;Automatically</source>
-        <translation></translation>
+        <translation>automaticamente</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação</translation>
     </message>
     <message>
         <source>When &amp;Clicked</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando clicado</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation></translation>
+        <translation>Inserir tabela</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation></translation>
+        <translation>Número de linhas :</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de colunas :</translation>
     </message>
 </context>
 <context>
     <name>KxDlgLecturerRemark</name>
     <message>
         <source>Speaker Notes</source>
-        <translation></translation>
+        <translation>Speaker notes</translation>
     </message>
     <message>
         <source>&amp;Slide:</source>
-        <translation></translation>
+        <translation>Slide:</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>KxDlgMasterViewLayout</name>
     <message>
         <source>Master Layout</source>
-        <translation></translation>
+        <translation>Layout do slide mestre</translation>
     </message>
     <message>
         <source>Placeholders</source>
-        <translation></translation>
+        <translation>Espaços reservados</translation>
     </message>
     <message>
         <source>&amp;Title</source>
-        <translation></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Te&amp;xt</source>
-        <translation></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>&amp;Date</source>
-        <translation></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>&amp;Slide number</source>
-        <translation></translation>
+        <translation>O slide</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation></translation>
+        <translation>Rodapé</translation>
     </message>
 </context>
 <context>
     <name>KxDlgMovieOptions</name>
     <message>
         <source>Movie Options</source>
-        <translation></translation>
+        <translation>Opções de filme</translation>
     </message>
     <message>
         <source>Play options</source>
-        <translation></translation>
+        <translation>Opções de leitura</translation>
     </message>
     <message>
         <source>&amp;Loop until stopped</source>
-        <translation></translation>
+        <translation>Loop até que parou</translation>
     </message>
     <message>
         <source>&amp;Rewind movie after playing</source>
-        <translation></translation>
+        <translation>Rebobine o filme depois de jogar</translation>
     </message>
     <message>
         <source>Display options</source>
-        <translation></translation>
+        <translation>Opções de exibição</translation>
     </message>
     <message>
         <source>&amp;Zoom to full screen</source>
-        <translation></translation>
+        <translation>Zoom em tela cheia</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation></translation>
+        <translation>Informações</translation>
     </message>
     <message>
         <source>Total Playing Time:</source>
-        <translation></translation>
+        <translation>Tempo total de reprodução :</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation></translation>
+        <translation>Arquivo :</translation>
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>O volume do som :</translation>
     </message>
 </context>
 <context>
     <name>KxDlgOption</name>
     <message>
         <source>Options</source>
-        <translation></translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>View</source>
-        <translation></translation>
+        <translation>Exibir</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation></translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <source>Slide &amp;layout task pane while insert new slides</source>
-        <translation></translation>
+        <translation>Slide o painel de tarefas de layout enquanto inserir novos slides</translation>
     </message>
     <message>
         <source>Status &amp;bar</source>
-        <translation></translation>
+        <translation>Barra de status</translation>
     </message>
     <message>
         <source>&amp;Vertical ruler</source>
-        <translation></translation>
+        <translation>régua vertical</translation>
     </message>
     <message>
         <source>Thumbnail and outline position</source>
-        <translation></translation>
+        <translation>Miniatura e posição folheto</translation>
     </message>
     <message>
         <source>Le&amp;ft of slide</source>
-        <translation></translation>
+        <translation>Deixou de slides</translation>
     </message>
     <message>
         <source>&amp;Right of slide</source>
-        <translation></translation>
+        <translation>Direito de slides</translation>
     </message>
     <message>
         <source>Slide show</source>
-        <translation></translation>
+        <translation>Apresentação de slides</translation>
     </message>
     <message>
         <source>Prompt to &amp;keep ink when exiting</source>
-        <translation type="unfinished"></translation>
+        <translation>Prompt para manter a tinta quando sair</translation>
     </message>
     <message>
         <source>&amp;End with black slide</source>
-        <translation></translation>
+        <translation>Terminar com Slide Black</translation>
     </message>
     <message>
         <source>General and Save</source>
-        <translation></translation>
+        <translation>Geral e salvar</translation>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation></translation>
+        <translation>Opções gerneral</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation></translation>
+        <translation>Recentemente usado lista de arquivos :</translation>
     </message>
     <message>
         <source>Recovery options</source>
-        <translation></translation>
+        <translation>Opções de recuperação</translation>
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation></translation>
+        <translation>Criar arquivo de backup na primeira salvar</translation>
     </message>
     <message>
         <source>&amp;Save backup file every:</source>
-        <translation></translation>
+        <translation>Salve o arquivo de backup a cada:</translation>
     </message>
     <message>
         <source>User Information</source>
-        <translation></translation>
+        <translation>Informações sobre o usuário</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation></translation>
+        <translation>nome:</translation>
     </message>
     <message>
         <source>Save options</source>
-        <translation></translation>
+        <translation>Salvar opções</translation>
     </message>
     <message>
         <source>Save &amp;presentation files as:</source>
-        <translation></translation>
+        <translation>Salve arquivos de apresentação como:</translation>
     </message>
     <message>
         <source>PowerPoint Presentation</source>
-        <translation></translation>
+        <translation>Apresentação do powerpoint</translation>
     </message>
     <message>
         <source>&amp;Default file location:</source>
-        <translation></translation>
+        <translation>Local de arquivo padrão :</translation>
     </message>
     <message>
         <source>...</source>
-        <translation></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation></translation>
+        <translation>Novo documento</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Default print setting for this document</source>
-        <translation></translation>
+        <translation>Configuração de impressão padrão para este documento</translation>
     </message>
     <message>
         <source>Use the most &amp;recently print settings</source>
-        <translation></translation>
+        <translation>Use as configurações de impressão mais recentemente</translation>
     </message>
     <message>
         <source>Use the following &amp;print settings:</source>
-        <translation></translation>
+        <translation>Use as seguintes configurações de impressão:</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation></translation>
+        <translation>Imprima o que :</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation></translation>
+        <translation>Slides</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
-        <translation></translation>
+        <translation>Apostilas (2 slides por página)</translation>
     </message>
     <message>
         <source>Handouts(3 slides per page)</source>
-        <translation></translation>
+        <translation>Apostilas ( 3 slides por página)</translation>
     </message>
     <message>
         <source>Handouts(6 slides per page)</source>
-        <translation></translation>
+        <translation>Materiais de apoio (6 slides por página )</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation></translation>
+        <translation>Páginas de anotações</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation></translation>
+        <translation>A vista de destaques</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation></translation>
+        <translation>Corrediças quadro</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation></translation>
+        <translation>Impressão escondido corrediças</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Apply when typing</source>
-        <translation></translation>
+        <translation>Aplicar ao digitar</translation>
     </message>
     <message>
         <source>&amp;Adjust title text by placeholder automatically</source>
-        <translation></translation>
+        <translation>Ajuste o texto título pelo espaço reservado automaticamente</translation>
     </message>
     <message>
         <source>Adj&amp;ust normal text by placeholder automatically</source>
-        <translation></translation>
+        <translation>Ajuste o texto normal, espaço reservado automaticamente</translation>
     </message>
     <message>
         <source>Apply when working</source>
-        <translation></translation>
+        <translation>Aplicar quando se trabalha</translation>
     </message>
     <message>
         <source>Apply Auto&amp;Layout to new objects.</source>
-        <translation></translation>
+        <translation>Aplicar autolayout para novos objetos.</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation></translation>
+        <translation>Segurança</translation>
     </message>
     <message>
         <source>File encryption options for this document</source>
-        <translation></translation>
+        <translation>Opções de criptografia de arquivo para este documento</translation>
     </message>
     <message>
         <source>Reenter &amp;password:</source>
-        <translation></translation>
+        <translation>Digite novamente a senha :</translation>
     </message>
     <message>
         <source>&amp;Advanced</source>
-        <translation></translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <source>File sharing options for this document</source>
-        <translation></translation>
+        <translation>Opções de compartilhamento de arquivo para este documento</translation>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
-        <translation></translation>
+        <translation>Senha para modificar :</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
-        <translation></translation>
+        <translation>Digite novamente a senha :</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation></translation>
+        <translation>Sempre sugerir correções</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
-        <translation></translation>
+        <translation>Ignorar palavras que contêm números</translation>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
-        <translation></translation>
+        <translation>Dicionários personalizados ...</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>backup Inteligente</translation>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation type="unfinished"></translation>
+        <translation>Janela de tarefas de arranque</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar menu do botão direito do mouse (p)</translation>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation type="unfinished"></translation>
+        <translation>entradas</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir backup tempo</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>minutos</translation>
     </message>
     <message>
         <source>Initia&amp;ls:</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciais:</translation>
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação arquivo</translation>
     </message>
     <message>
         <source>Start with</source>
-        <translation type="unfinished"></translation>
+        <translation>Comece com</translation>
     </message>
     <message>
         <source>Start with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comece com :</translation>
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos online (g)</translation>
     </message>
     <message>
         <source>&amp;Color/Grayscale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor /Escala de cinza :</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation>Pure preto e branco</translation>
     </message>
     <message>
         <source>Enter a password below to protect this document.
 The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Digite uma senha abaixo para proteger este documento.
+o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha de documentos:</translation>
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenção: por favor, mantenha sua senha corretamente. arquivo jamais será recuperada se você perder ou esquecer a senha. (lembre-se que as senhas diferenciam maiúsculas de minúsculas . )</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificação ortográfica</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar palavras em maiúsculas</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Privacidade</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajude-nos a melhorar wps office</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
     <message>
         <source>Presentation Package</source>
-        <translation></translation>
+        <translation>Apresentação embalagem</translation>
     </message>
     <message>
         <source>&amp;Location:</source>
-        <translation></translation>
+        <translation>Localização:</translation>
     </message>
     <message>
         <source>Package into specified folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacote para a pasta especificada :</translation>
     </message>
     <message>
         <source>Folder &amp;name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome da pasta :</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar ...</translation>
     </message>
     <message>
         <source>&amp;Also packaged as compressed file</source>
-        <translation type="unfinished"></translation>
+        <translation>Também embalado como arquivo compactado</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation></translation>
+        <translation>Configuração da página</translation>
     </message>
     <message>
         <source>&amp;Slides size</source>
-        <translation></translation>
+        <translation>tamanho Slides</translation>
     </message>
     <message>
         <source>On-screen show</source>
-        <translation></translation>
+        <translation>On- screen show</translation>
     </message>
     <message>
         <source>Letter Paper(8.5x11 Inch)</source>
-        <translation></translation>
+        <translation>Papel de carta ( 8.5x11 polegadas )</translation>
     </message>
     <message>
         <source>Ledger Paper(11x17 Inch)</source>
-        <translation></translation>
+        <translation>Papel ledger ( 11x17 polegadas )</translation>
     </message>
     <message>
         <source>A3 Paper(297x420 mm)</source>
-        <translation></translation>
+        <translation>Papel a3 ( 297x420 mm)</translation>
     </message>
     <message>
         <source>A4 Paper(210x297 mm)</source>
-        <translation></translation>
+        <translation>Papel a4 ( 210x297 mm)</translation>
     </message>
     <message>
         <source>B4(ISO) Paper(250x353 mm)</source>
-        <translation></translation>
+        <translation>B4 ( iso ) papel ( 250x353 mm )</translation>
     </message>
     <message>
         <source>B5(ISO) Paper(176x250 mm)</source>
-        <translation></translation>
+        <translation>B5 ( iso ) papel ( 176x250 mm )</translation>
     </message>
     <message>
         <source>35 mm Slide</source>
-        <translation></translation>
+        <translation>Corrediça de 35 milímetros</translation>
     </message>
     <message>
         <source>Projector</source>
-        <translation></translation>
+        <translation>Projetar</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation></translation>
+        <translation>Bandeira</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation></translation>
+        <translation>largura:</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation></translation>
+        <translation>Altura:</translation>
     </message>
     <message>
         <source>&amp;Number slides from:</source>
-        <translation></translation>
+        <translation>Número desliza a partir de:</translation>
     </message>
     <message>
         <source>&amp;Paper size</source>
-        <translation></translation>
+        <translation>tamanho do papel</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
-        <translation></translation>
+        <translation>Largura:</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation></translation>
+        <translation>Altura:</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation></translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation></translation>
+        <translation>Slides</translation>
     </message>
     <message>
         <source>Po&amp;rtrait</source>
-        <translation></translation>
+        <translation>Retrato</translation>
     </message>
     <message>
         <source>&amp;Landscape</source>
-        <translation></translation>
+        <translation>Paisagem</translation>
     </message>
     <message>
         <source>P&amp;ortrait</source>
-        <translation></translation>
+        <translation>Retrato</translation>
     </message>
     <message>
         <source>L&amp;andscape</source>
-        <translation></translation>
+        <translation>Paisagem</translation>
     </message>
     <message>
         <source>Notes, handouts and outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Cometários, folheto e contorno</translation>
     </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
     <message>
         <source>Copying file to folder</source>
-        <translation></translation>
+        <translation>Copiar arquivos para a pasta</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgReplaceFont</name>
     <message>
         <source>Re&amp;place:</source>
-        <translation></translation>
+        <translation>Substituir:</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation></translation>
+        <translation>substituir</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir fonte</translation>
     </message>
     <message>
         <source>Replace &amp;with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir por:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSaveInk</name>
     <message>
         <source>Do you want to keep your ink annotations?</source>
-        <translation></translation>
+        <translation>Você quer manter suas anotações à tinta ?</translation>
     </message>
     <message>
         <source>&amp;Keep</source>
-        <translation></translation>
+        <translation>Mantenha</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation></translation>
+        <translation>Descarte</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSlideShowHelp</name>
     <message>
         <source>Slide Show Help</source>
-        <translation></translation>
+        <translation>Slide show ajuda</translation>
     </message>
     <message>
         <source>Advance to the next slide</source>
-        <translation></translation>
+        <translation>Avance para o próximo slide</translation>
     </message>
     <message>
         <source>Return to the previous slide</source>
-        <translation></translation>
+        <translation>Voltar para o slide anterior</translation>
     </message>
     <message>
         <source>Number followed by Enter</source>
-        <translation></translation>
+        <translation>Número seguido de enter</translation>
     </message>
     <message>
         <source>Go to that slide</source>
-        <translation></translation>
+        <translation>Vá para o slide</translation>
     </message>
     <message>
         <source>End of the slide show</source>
-        <translation></translation>
+        <translation>Fim da apresentação de slides</translation>
     </message>
     <message>
         <source>1+Enter</source>
-        <translation></translation>
+        <translation>1 + Enter</translation>
     </message>
     <message>
         <source>Return to the first slide</source>
-        <translation></translation>
+        <translation>Voltar para o primeiro slide</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>During the slide show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Durante a apresentação:</translation>
     </message>
     <message>
         <source>Left click, space, &apos;N&apos;, right or down arrow enter, or page down</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo , espaço, &apos;n&apos; , direita ou seta para baixo entrar, ou page down</translation>
     </message>
     <message>
         <source>Backspace, &apos;P&apos;, left or up arrow, or page up</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace , &apos;p&apos; , para a esquerda ou seta para cima ou página para cima</translation>
     </message>
     <message>
         <source>Press Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione esc</translation>
     </message>
     <message>
         <source>Right click, or Shift+F10</source>
-        <translation type="unfinished"></translation>
+        <translation>Botão direito do mouse , ou shift + f10</translation>
     </message>
     <message>
         <source>Shortcut menu</source>
-        <translation type="unfinished"></translation>
+        <translation>O menu de atalho</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSoundOptions</name>
     <message>
         <source>Sound Options</source>
-        <translation></translation>
+        <translation>Opções de som</translation>
     </message>
     <message>
         <source>Play options</source>
-        <translation></translation>
+        <translation>Opções de leitura</translation>
     </message>
     <message>
         <source>&amp;Loop until stopped</source>
-        <translation></translation>
+        <translation>Loop até que parou</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation></translation>
+        <translation>Informações</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation></translation>
+        <translation>Arquivo :</translation>
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>O volume do som :</translation>
     </message>
     <message>
         <source>Total Playing Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo total de reprodução :</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation></translation>
+        <translation>Dividir células</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation></translation>
+        <translation>Número de linhas :</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de colunas :</translation>
     </message>
 </context>
 <context>
     <name>KxDlgViewZoom</name>
     <message>
         <source>Zoom</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Zoom to</source>
-        <translation></translation>
+        <translation>Zoom para</translation>
     </message>
     <message>
         <source>&amp;400%</source>
-        <translation></translation>
+        <translation>400%</translation>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation></translation>
+        <translation>200%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>&amp;66%</source>
-        <translation></translation>
+        <translation>66%</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>&amp;33%</source>
-        <translation></translation>
+        <translation>33%</translation>
     </message>
     <message>
         <source>&amp;Percent</source>
-        <translation></translation>
+        <translation>Porcentagem</translation>
     </message>
     <message>
         <source>%</source>
-        <translation></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>&amp;Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fit</translation>
     </message>
 </context>
 <context>
     <name>KxDlgVolumeRedress</name>
     <message>
         <source>Volume Redress</source>
-        <translation></translation>
+        <translation>Volume reparação</translation>
     </message>
     <message>
         <source>&amp;Volume</source>
-        <translation></translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <source>tbVolume</source>
-        <translation></translation>
+        <translation>tbVolume</translation>
     </message>
     <message>
         <source>cbMute</source>
-        <translation></translation>
+        <translation>cbMute</translation>
     </message>
     <message>
         <source>&amp;Mute</source>
-        <translation></translation>
+        <translation>Mudo</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppActionSettings</name>
     <message>
         <source>Action Settings</source>
-        <translation></translation>
+        <translation>Configurações de ação</translation>
     </message>
     <message>
         <source>Mouse Click</source>
-        <translation></translation>
+        <translation>Mouse click</translation>
     </message>
     <message>
         <source>Action on click</source>
-        <translation></translation>
+        <translation>Ação no clique</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>&amp;Hyperlink to:</source>
-        <translation></translation>
+        <translation>Hyperlink para :</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation></translation>
+        <translation>Próximo slide</translation>
     </message>
     <message>
         <source>Previous slide</source>
-        <translation></translation>
+        <translation>Slide anterior</translation>
     </message>
     <message>
         <source>First slide</source>
-        <translation></translation>
+        <translation>Primeiro slide</translation>
     </message>
     <message>
         <source>Last slide</source>
-        <translation></translation>
+        <translation>Último slide</translation>
     </message>
     <message>
         <source>Last slide viewed</source>
-        <translation></translation>
+        <translation>Último slide visualizado</translation>
     </message>
     <message>
         <source>End show</source>
-        <translation></translation>
+        <translation>Show de final</translation>
     </message>
     <message>
         <source>Custom show ...</source>
-        <translation></translation>
+        <translation>Apresentação personalizada ...</translation>
     </message>
     <message>
         <source>Slide...</source>
-        <translation></translation>
+        <translation>Slide ...</translation>
     </message>
     <message>
         <source>Other file...</source>
-        <translation></translation>
+        <translation>Outro arquivo ...</translation>
     </message>
     <message>
         <source>&amp;Run program</source>
-        <translation></translation>
+        <translation>Executar programa</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation></translation>
+        <translation>Procurar ...</translation>
     </message>
     <message>
         <source>Run &amp;macro:</source>
-        <translation></translation>
+        <translation>Executar macro :</translation>
     </message>
     <message>
         <source>Object &amp;action</source>
-        <translation></translation>
+        <translation>Ação objeto</translation>
     </message>
     <message>
         <source>&amp;Play sound:</source>
-        <translation></translation>
+        <translation>Reproduzir som :</translation>
     </message>
     <message>
         <source>Mouse Over</source>
-        <translation></translation>
+        <translation>Mouse over</translation>
     </message>
     <message>
         <source>Action on mouse over</source>
-        <translation></translation>
+        <translation>Ação sobre mouse sobre</translation>
     </message>
     <message>
         <source>Other WPS Presentation file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Outros apresentação arquivo wps ...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppColorScheme</name>
     <message>
         <source>Standard</source>
-        <translation></translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>&amp;Color schemes</source>
-        <translation></translation>
+        <translation>Os Formas de cores</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>&amp;Scheme colors</source>
-        <translation></translation>
+        <translation>Esquema de cores</translation>
     </message>
     <message>
         <source> Change C&amp;olor... </source>
-        <translation></translation>
+        <translation>Mudança de cor ...</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation></translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation></translation>
+        <translation>Aplique</translation>
     </message>
     <message>
         <source>Edit Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar formas de cores</translation>
     </message>
     <message>
         <source> De&amp;lete Color Scheme </source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir esquema de cores</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppExtendModeGuide</name>
     <message>
         <source>Double-Screen Extended Mode Wizard</source>
-        <translation></translation>
+        <translation>Duplo -screen extensão assistente de modo</translation>
     </message>
     <message>
         <source>&amp;Setting</source>
-        <translation></translation>
+        <translation>definição</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation></translation>
+        <translation>cancelar</translation>
     </message>
     <message>
         <source>   Use extend mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o modo de estender para mostrar a vista do alto-falante e tocar vista em monitores diferentes . O público só pode ver o processo de apresentações de slides ea operação de marcas de desenho. O alto-falante pode executar outros programas ou realizar outras operações sem perceber do público</translation>
     </message>
     <message>
         <source>   This wizard will help you to understand the various settings of the double-screen extended mode. Please use the following links to view the help files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Este assistente irá ajudá-lo a compreender as várias configurações do modo estendido de tela dupla. Por favor, use os links abaixo para visualizar os arquivos de ajuda :</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppLinkToCustomShows</name>
     <message>
         <source>Link To Custom Show</source>
-        <translation></translation>
+        <translation>Ligar a apresentação personalizada</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation></translation>
+        <translation>Slides personalizada mostra :</translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
-        <translation></translation>
+        <translation>Show e retorno</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppLinkToSlides</name>
     <message>
         <source>Hyperlink to Slide</source>
-        <translation></translation>
+        <translation>Hyperlink para slide</translation>
     </message>
     <message>
         <source>&amp;Slide title:</source>
-        <translation></translation>
+        <translation>Slide título :</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppPrint</name>
     <message>
         <source>Print</source>
-        <translation></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation></translation>
+        <translation>Intervalo de impressão</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation></translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation></translation>
+        <translation>slide atual</translation>
     </message>
     <message>
         <source>Selectio&amp;n</source>
-        <translation></translation>
+        <translation>Seleção</translation>
     </message>
     <message>
         <source>Cust&amp;om show:</source>
-        <translation></translation>
+        <translation>Apresentação personalizada :</translation>
     </message>
     <message>
         <source>Sli&amp;des:</source>
-        <translation></translation>
+        <translation>Slides:</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation></translation>
+        <translation>Cópias</translation>
     </message>
     <message>
         <source>Num&amp;ber of copies:</source>
-        <translation></translation>
+        <translation>Número de cópias :</translation>
     </message>
     <message>
         <source>Colla&amp;te</source>
-        <translation></translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation></translation>
+        <translation>Imprima o que :</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation></translation>
+        <translation>Slides</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation></translation>
+        <translation>Apostilas</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation></translation>
+        <translation>Páginas de anotações</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation></translation>
+        <translation>A vista de destaques</translation>
     </message>
     <message>
         <source>Colo&amp;r:</source>
-        <translation></translation>
+        <translation>Cor:</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation></translation>
+        <translation>Pure preto e branco</translation>
     </message>
     <message>
         <source>Slides per pa&amp;ge:</source>
-        <translation></translation>
+        <translation>Slides para página :</translation>
     </message>
     <message>
         <source>Order:</source>
-        <translation></translation>
+        <translation>Ordem:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>&amp;Frame slides</source>
-        <translation type="unfinished"></translation>
+        <translation>corrediças Quadro</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão escondido corrediças</translation>
     </message>
     <message>
         <source>Pr&amp;eview</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-visualização</translation>
     </message>
     <message>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
-        <translation type="unfinished"></translation>
+        <translation>Digite os números de slides ou intervalos de slides. por exemplo , 1,3,5-12</translation>
     </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento entre linhas</translation>
     </message>
     <message>
         <source>&amp;Line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>O espaçamento entre linhas</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontos</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>antes parágrafo</translation>
     </message>
     <message>
         <source>&amp;After paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>após o parágrafo</translation>
     </message>
 </context>
 <context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>PDF File(*.pdf)|*.pdf||</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo pdf ( * pdf . ) | * pdf ||</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Apostilas</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas</translation>
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada de senha permissão.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permissão senha e senha de abertura do documento deve ser diferente .</translation>
     </message>
     <message>
         <source>Invalid input.        </source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada inválida .</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do arquivo é o mesmo que um diretório existente .</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>O diretório especificado não existe.</translation>
     </message>
     <message>
         <source>Save Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar adobe pdf file</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor coloque a senha de configurações de permissão !</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmação da senha não corresponde.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo especificado já existe. você quer substituí-lo e continuar ?</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não tem permissão para gravar arquivos nesse diretório .</translation>
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
-        <translation type="unfinished"></translation>
+        <translation>O slide selecionado para exportação não existe. por favor selecione outro.</translation>
     </message>
     <message>
         <source>All slides in this custom show are hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as lâminas nesta apresentação personalizada estão ocultas.</translation>
     </message>
     <message>
         <source>All slides in this range are hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as lâminas nesta faixa estão ocultas.</translation>
     </message>
     <message>
         <source>The selected slides are hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os slides selecionados estão ocultas.</translation>
     </message>
     <message>
         <source>Current slide has marked as hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slide atual tem marcado como oculto .</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os slides da apresentação atual estão ocultas.</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ou garantir que os slides não estão mais escondidos , ot optar por exportar slides ocultos .</translation>
     </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando-se para exportar arquivos pdf ...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operação cancelada pelo usuário .</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Exporting document information...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportando informações do documento ...</translation>
     </message>
     <message>
         <source>Exporting No.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportando no.</translation>
     </message>
     <message>
         <source> Page...</source>
-        <translation type="unfinished"></translation>
+        <translation>Página ...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportando rótulos ...</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportando arquivo pdf está concluída.</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Foi encontrado um erro ao abrir arquivo pdf !</translation>
     </message>
     <message>
         <source>PDF Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdf converter encontrou um problema de alocação de memória . por favor, reduzir o tamanho do documento ou o tamanho da imagem .</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação encontrou um erro ao tentar exportar para pdf !</translation>
     </message>
 </context>
 <context>
     <name>KxFindReplaceDlg</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizar</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir ...</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>substituir</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação concluiu a pesquisa do documento.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document. The search item was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação concluiu a pesquisa do documento. o item pesquisado não foi encontrado.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document and made %1 replacements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação concluiu a pesquisa do documento e substituições %1 feitas .</translation>
     </message>
 </context>
 <context>
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Utilize fonte do texto asiático)</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga fundo esquema de cores , siga o texto e linhas de esquema de cores, sombras siga esquema de cores , siga título texto color scheme , siga fills esquema de cores , siga accent esquema de cores , siga accent e hyperlink esquema de cores , siga destaque e esquema de cores</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>O %1 fonte não está disponível em seu sistema. o texto será mostrado em uma fonte substituta . não yo querer usá-lo de qualquer maneira?</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este estilo de fonte não está disponível.</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este tamanho da fonte não está disponível .</translation>
     </message>
 </context>
 <context>
     <name>KxFormatTableDlg</name>
     <message>
         <source>Follow Background Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguir o esquema de cor do plano de fundo</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga texto e linhas esquema de cores</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga sombras color scheme</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga título texto color scheme</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga fills esquema de cores</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga accent color scheme</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga accent e hyperlink esquema de cores</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga accent e hiperlink esquema de cores</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga fundo esquema de cores , siga o texto e linhas de esquema de cores, sombras siga esquema de cores , siga título texto color scheme , siga fills esquema de cores , siga accent esquema de cores , siga accent e hyperlink esquema de cores , siga destaque e esquema de cores</translation>
     </message>
 </context>
 <context>
     <name>KxHyperlinkWppPage</name>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeiro slide</translation>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Último slide</translation>
     </message>
     <message>
         <source>Next Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo slide</translation>
     </message>
     <message>
         <source>Previous Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Slide anterior</translation>
     </message>
     <message>
         <source>Slide Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Slide title</translation>
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Slide %1</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção em documento</translation>
     </message>
     <message>
         <source>Custom Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação personalizada</translation>
     </message>
 </context>
 <context>
     <name>KxInsertMediaDlg</name>
     <message>
         <source>How do you want the music to start in the slide show?</source>
-        <translation type="unfinished"></translation>
+        <translation>Como você quer que a música comece na apresentação de slides ?</translation>
     </message>
     <message>
         <source>How do you want the movie to start in the slide show?</source>
-        <translation type="unfinished"></translation>
+        <translation>Como você quer que o filme começar na apresentação de slides ?</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Best match</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Luz</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuro</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira coluna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Última row</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Última coluna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas banded</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colunas banded</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha e primeira coluna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha e última linha</translation>
     </message>
 </context>
 <context>
     <name>KxLineWeightGroup</name>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 pt</translation>
     </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, selecione uma pasta:</translation>
     </message>
     <message>
         <source>The path or name of &quot;%1&quot; is invalid. Please check that the path and file name are correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>O caminho ou nome de &apos;%1 &apos;é inválido . verifique se o caminho eo nome do arquivo estão corretos.</translation>
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comfirmation senha não corresponde.</translation>
     </message>
 </context>
 <context>
     <name>KxPackageBaseCommand</name>
     <message>
         <source>The file was not saved. Please save the file before the packaging operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo não foi salvo. por favor, salve o arquivo antes de a operação de embalagem .</translation>
     </message>
 </context>
 <context>
@@ -2857,34 +2857,35 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  folder, in order to play this file on another computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie o arquivo de apresentação e itens de mídia relacionados, tais como vídeo, áudio, etc para o especificado
+         pasta, a fim de executar este arquivo em outro computador.</translation>
     </message>
 </context>
 <context>
     <name>KxPackgeDlg</name>
     <message>
         <source>File name contains illegal characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do arquivo contém caracteres ilegais .</translation>
     </message>
     <message>
         <source>File or folder with specified name already exists. Please specify another name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo ou pasta com o nome especificado já existe . por favor, especifique um outro nome .</translation>
     </message>
     <message>
         <source>Specified directory does not exist. Please specify another directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>O directório especificado não existe. por favor, especifique outro diretório.</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Localização</translation>
     </message>
     <message>
         <source>Zip file &amp;name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do arquivo zip :</translation>
     </message>
     <message>
         <source>Package into specified folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacote para a pasta especificada :</translation>
     </message>
 </context>
 <context>
@@ -2892,1750 +2893,1752 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  Zip folder, in order to play this file on another computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie o arquivo de apresentação e itens de mídia relacionados, tais como vídeo, áudio, etc para o especificado
+         zip pasta, a fim de executar este arquivo em outro computador.</translation>
     </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
 </context>
 <context>
     <name>KxRehearsalToolbar</name>
     <message>
         <source>Rehearsal</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetição</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Slide Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Slide tempo</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Repita</translation>
     </message>
     <message>
         <source>Slide Total Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Slide total time</translation>
     </message>
 </context>
 <context>
     <name>KxRenameMasterDlg</name>
     <message>
         <source>The name &quot;%1&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome &apos;%1 &apos;já está em uso . modifique o nome , mudando pelo menos um dos 20 primeiros personagens de &apos;%2 &apos;.</translation>
     </message>
 </context>
 <context>
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename master</translation>
     </message>
     <message>
         <source>&amp;Master name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome Master:</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>renomear</translation>
     </message>
 </context>
 <context>
     <name>KxReplaceFontDlg</name>
     <message>
         <source>Document does not have the font %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>O documento não tem o %1 fonte !</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system, so a substitute is being displayed. Do you want to use this font anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>O %1 fonte não está disponível em seu sistema , de modo que um substituto está sendo exibido. você quer usar este tipo de letra , afinal?</translation>
     </message>
 </context>
 <context>
     <name>KxSetupShowDlg</name>
     <message>
         <source>Define</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir</translation>
     </message>
     <message>
         <source>[Restricted]</source>
-        <translation type="unfinished"></translation>
+        <translation>[ Restrito ]</translation>
     </message>
     <message>
         <source>Primary Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor principal</translation>
     </message>
     <message>
         <source>Monitor %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor de %1</translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Best match</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Luz</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuro</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira coluna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Última row</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Última coluna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Linhas banded</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colunas banded</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha e primeira coluna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira linha e última linha</translation>
     </message>
 </context>
 <context>
     <name>KxTpAnimationScheme</name>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formas de animação</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar aos slides selecionados</translation>
     </message>
     <message>
         <source>Apply to Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar ao slide mestre</translation>
     </message>
     <message>
         <source>Apply to All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a todos os slides</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogue</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação de slides</translation>
     </message>
     <message>
         <source>AutoPreview</source>
-        <translation type="unfinished"></translation>
+        <translation>Autopreview</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de design</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formas de cores</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorScheme</name>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formas de cores</translation>
     </message>
     <message>
         <source>Apply a color scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar um esquema de cores :</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de design</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formas de animação</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar formas de cores ...</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de design</translation>
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar um modelo de design :</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formas de cores</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formas de animação</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar ...</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideLayout</name>
     <message>
         <source>Show when inserting new slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar ao inserir novos slides</translation>
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar um modelo de design :</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideTransition</name>
     <message>
         <source>Apply to selected slides:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar aos slides selecionados :</translation>
     </message>
     <message>
         <source>Modify transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar transição</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidade:</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"></translation>
+        <translation>Som:</translation>
     </message>
     <message>
         <source>Advance slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançar diapositivo</translation>
     </message>
     <message>
         <source>On mouse click</source>
-        <translation type="unfinished"></translation>
+        <translation>No clique do mouse</translation>
     </message>
     <message>
         <source>Automatically after</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticamente após</translation>
     </message>
     <message>
         <source>Rehearse Current Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir a página atual</translation>
     </message>
     <message>
         <source>Apply to Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar ao slide mestre</translation>
     </message>
     <message>
         <source>Apply to All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a todos os slides</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogue</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação de slides</translation>
     </message>
     <message>
         <source>AutoPreview</source>
-        <translation type="unfinished"></translation>
+        <translation>Autopreview</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Loop até o próximo som</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogue</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Loop até o próximo som</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de tabela :</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de estilo de tabela :</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar o estilo da tabela</translation>
     </message>
 </context>
 <context>
     <name>KxTypograpgyDlg</name>
     <message>
         <source>Chinese(China)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês ( china)</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nenhum)</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetPosition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Position on slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Posição no slide</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal :</translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, -169077, 169077, 1</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical :</translation>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Top left corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Canto superior esquerdo</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
-        <translation type="unfinished"></translation>
+        <translation>De:</translation>
     </message>
 </context>
 <context>
     <name>KxWppActionSettingsDlg</name>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogue</translation>
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Slide %1</translation>
     </message>
     <message>
         <source>Program(*.exe);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Programa (* . exe) ;; todos os arquivos ( *. *)</translation>
     </message>
     <message>
         <source>All Presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as apresentações</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos</translation>
     </message>
     <message>
         <source>Hyperlink to Other File</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperlink para outro arquivo</translation>
     </message>
     <message>
         <source>Hyperlink To URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink para url</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Please Choose a Program to Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, escolha um programa para iniciar</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink para outros wps apresentação arquivos</translation>
     </message>
 </context>
 <context>
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source>&amp;Don&apos;t Dim</source>
-        <translation type="unfinished"></translation>
+        <translation>Não Dim</translation>
     </message>
     <message>
         <source>Hide &amp;After Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder depois de animação</translation>
     </message>
     <message>
         <source>&amp;Hide on Next Mouse Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar no próximo clique de mouse</translation>
     </message>
     <message>
         <source>Insert Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir som</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de som (* . wav )</translation>
     </message>
 </context>
 <context>
     <name>KxWppColorModel</name>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor personalizada</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
     <name>KxWppColorSchemeDlg</name>
     <message>
         <source> A&amp;dd As Standard Scheme </source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar como esquema padrão</translation>
     </message>
     <message>
         <source> De&amp;lete Color Scheme </source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir esquema de cores</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation>O esquema última cor não pode ser excluído . a apresentação deve sempre conter pelo menos um esquema de cores padrão.</translation>
     </message>
 </context>
 <context>
     <name>KxWppCustomAnimationTp</name>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundos</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de seleção</translation>
     </message>
     <message>
         <source>&amp;Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <source>&amp;More Effects ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais efeitos ...</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <source>E&amp;mphasis</source>
-        <translation type="unfinished"></translation>
+        <translation>Ênfase</translation>
     </message>
     <message>
         <source>Motion &amp;Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Movimento caminhos</translation>
     </message>
     <message>
         <source>&amp;Convert Object to Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter objeto para Path</translation>
     </message>
     <message>
         <source>&amp;Draw Custom Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar caminho personalizado</translation>
     </message>
     <message>
         <source>&amp;Line</source>
-        <translation type="unfinished"></translation>
+        <translation>linha</translation>
     </message>
     <message>
         <source>&amp;Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curve</translation>
     </message>
     <message>
         <source>&amp;Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>Freeform</translation>
     </message>
     <message>
         <source>&amp;Scribble</source>
-        <translation type="unfinished"></translation>
+        <translation>Scribble</translation>
     </message>
     <message>
         <source>&amp;More Motion Paths ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Movimento Caminhos ...</translation>
     </message>
     <message>
         <source>Movie &amp;Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ações de cinema</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogue</translation>
     </message>
     <message>
         <source>Pau&amp;se</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>S&amp;top</source>
-        <translation type="unfinished"></translation>
+        <translation>Pare</translation>
     </message>
     <message>
         <source>Object Oper&amp;ate</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto operar</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Start On &amp;Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Comece on click</translation>
     </message>
     <message>
         <source>Start &amp;With Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar com anterior</translation>
     </message>
     <message>
         <source>Start &amp;After Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar após anterior</translation>
     </message>
     <message>
         <source>&amp;Effect Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de efeito ...</translation>
     </message>
     <message>
         <source>&amp;Timing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Momento ...</translation>
     </message>
     <message>
         <source>&amp;Show Advanced Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Avançado Timeline</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Copy &amp;Effects to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar efeitos para o slide</translation>
     </message>
     <message>
         <source>&amp;View Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir Slide Mestre</translation>
     </message>
     <message>
         <source>&amp;Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloqueado</translation>
     </message>
     <message>
         <source>&amp;Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>trancado</translation>
     </message>
     <message>
         <source>&amp;Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>editar Pontos</translation>
     </message>
     <message>
         <source>&amp;Reverse Path Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reverter caminho Direction</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom in</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom out</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder avançada Timeline</translation>
     </message>
 </context>
 <context>
     <name>KxWppDesignItem</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar ao slide mestre</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a todos os slides</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar aos slides selecionados</translation>
     </message>
     <message>
         <source>Replace &amp;All Designs</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir todos os desenhos</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir designs selecionados</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar design</translation>
     </message>
 </context>
 <context>
     <name>KxWppExtendModeGuideDlg</name>
     <message>
         <source>Set up monitors</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar monitores</translation>
     </message>
     <message>
         <source>Set screen resolution and color quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir a resolução da tela ea qualidade de cor</translation>
     </message>
     <message>
         <source>Use the current monitor as the primary monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o monitor atual como monitor principal</translation>
     </message>
     <message>
         <source>Extend Windows desktop to the selected monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Estender área de trabalho do windows para o monitor selecionado</translation>
     </message>
 </context>
 <context>
     <name>KxWppFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem preenchimento</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este não é um número inteiro válido .</translation>
     </message>
 </context>
 <context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>No line</translation>
     </message>
 </context>
 <context>
     <name>KxWppPrintDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Apostilas</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas</translation>
     </message>
     <message>
         <source>Input is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada é inválido.</translation>
     </message>
     <message>
         <source>An error occurred on printer %1 !</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro no %1 impressora!</translation>
     </message>
     <message>
         <source>The Slide that you selected is not exist, please choose another one!</source>
-        <translation type="unfinished"></translation>
+        <translation>O slide que você selecionou não é existe, por favor, escolha outro!</translation>
     </message>
     <message>
         <source>Selected slides have marked as hidden!</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides selecionados têm marcado como oculto !</translation>
     </message>
     <message>
         <source>Current slides have marked as hidden!</source>
-        <translation type="unfinished"></translation>
+        <translation>Lâminas atuais têm marcado como oculto !</translation>
     </message>
     <message>
         <source>Slides in this custom show have marked as hidden!</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides em este costume show ter marcado como oculto !</translation>
     </message>
     <message>
         <source>All slides among this range are marked as hidden!</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as lâminas entre esta faixa são marcados como ocultos !</translation>
     </message>
     <message>
         <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os slides da apresentação atual está marcado como oculto . ou garantir que os slides não estão mais escondidos , ou optar por imprimir os slides ocultos .</translation>
     </message>
 </context>
 <context>
     <name>KxWppTransModel</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Fade and Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer gradualmente e dissolver</translation>
     </message>
     <message>
         <source>Wipe</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Push and Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>Empurre e tampa</translation>
     </message>
     <message>
         <source>Stripe and Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Stripe e cruz</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Aleatório</translation>
     </message>
 </context>
 <context>
     <name>KxWppVpPodium</name>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura de tópicos</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentário</translation>
     </message>
 </context>
 <context>
     <name>KxWppVpSlideNormal</name>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura de tópicos</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides</translation>
     </message>
 </context>
 <context>
     <name>KxWppZoomComboCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta não é uma medida válida .</translation>
     </message>
 </context>
 <context>
     <name>LayoutPanel</name>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar aos slides selecionados</translation>
     </message>
     <message>
         <source>Reapply &amp;Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Reaplicar layout</translation>
     </message>
     <message>
         <source>Insert &amp;New Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir novo slide</translation>
     </message>
 </context>
 <context>
     <name>QMyMessageBox</name>
     <message>
         <source>Open the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra a pasta</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Package has been completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacote foi concluída</translation>
     </message>
     <message>
         <source>Open the compressed file</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra o arquivo compactado</translation>
     </message>
     <message>
         <source>File package has been completed, you can carry out other operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacote de arquivos tenha sido concluída, você pode realizar outras operações.</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês ( taiwan)</translation>
     </message>
     <message>
         <source>English(America)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglês (américa )</translation>
     </message>
     <message>
         <source>Chinese(China)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês ( china)</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"></translation>
+        <translation>Japonês</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamita</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Blinds 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Blinds 1</translation>
     </message>
     <message>
         <source>Blinds 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Blinds 2</translation>
     </message>
     <message>
         <source>Box In</source>
-        <translation type="unfinished"></translation>
+        <translation>Box em</translation>
     </message>
     <message>
         <source>Box Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixa fora</translation>
     </message>
     <message>
         <source>Chess 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xadrez 1</translation>
     </message>
     <message>
         <source>Chess 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Xadrez 2</translation>
     </message>
     <message>
         <source>Comb 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Comb 1</translation>
     </message>
     <message>
         <source>Comb 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Comb 2</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampa para baixo</translation>
     </message>
     <message>
         <source>Cover Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampa esquerda</translation>
     </message>
     <message>
         <source>Cover Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampa direita</translation>
     </message>
     <message>
         <source>Cover Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Cobrir</translation>
     </message>
     <message>
         <source>Cover 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampa 1</translation>
     </message>
     <message>
         <source>Cover 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampa 2</translation>
     </message>
     <message>
         <source>Cover 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Cobertura 3</translation>
     </message>
     <message>
         <source>Cover 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Cobertura 4</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <source>Cut Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Corte preto</translation>
     </message>
     <message>
         <source>Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Dissolva</translation>
     </message>
     <message>
         <source>Fade Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Suave</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer gradualmente
+</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Notícias</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Empurre para baixo</translation>
     </message>
     <message>
         <source>Push Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione esquerda</translation>
     </message>
     <message>
         <source>Push Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione o botão direito</translation>
     </message>
     <message>
         <source>Push Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Empurrar para cima</translation>
     </message>
     <message>
         <source>Random 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aleatória 1</translation>
     </message>
     <message>
         <source>Random 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Aleatória 2</translation>
     </message>
     <message>
         <source>Circle Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Círculo fora</translation>
     </message>
     <message>
         <source>Diamond Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamante fora</translation>
     </message>
     <message>
         <source>Plus Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Além disso fora</translation>
     </message>
     <message>
         <source>Split 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir um</translation>
     </message>
     <message>
         <source>Split 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir 2</translation>
     </message>
     <message>
         <source>Split 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir 3</translation>
     </message>
     <message>
         <source>Split 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir 4</translation>
     </message>
     <message>
         <source>Strips 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirar 1</translation>
     </message>
     <message>
         <source>Strips 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirar 2</translation>
     </message>
     <message>
         <source>Strips 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirar 3</translation>
     </message>
     <message>
         <source>Strips 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirar 4</translation>
     </message>
     <message>
         <source>Uncover 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 1</translation>
     </message>
     <message>
         <source>Uncover 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 2</translation>
     </message>
     <message>
         <source>Uncover 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 3</translation>
     </message>
     <message>
         <source>Uncover 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 4</translation>
     </message>
     <message>
         <source>Uncover 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 5</translation>
     </message>
     <message>
         <source>Uncover 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 6</translation>
     </message>
     <message>
         <source>Uncover 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 7</translation>
     </message>
     <message>
         <source>Uncover 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar 8</translation>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"></translation>
+        <translation>Wedge</translation>
     </message>
     <message>
         <source>Wheel 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 1</translation>
     </message>
     <message>
         <source>Wheel 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 2</translation>
     </message>
     <message>
         <source>Wheel 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 3</translation>
     </message>
     <message>
         <source>Wheel 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 4</translation>
     </message>
     <message>
         <source>Wheel 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 8</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar esquerda</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar para direita</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>Aleatório</translation>
     </message>
     <message>
         <source>You cannot use a date format in a different language than the slide master. The current date on the master is formatted for %1. To change the master, click Apply to All instead of Apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode usar um formato de data em um idioma diferente do que o slide mestre . a data atual no master está formatado para %1 . para alterar o slide mestre , clique em aplicar a todos , em vez de aplicar.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 &apos;já está aberta. Reabertura fará com que todas as alterações feitas para serem descartados . Você quer reabrir &apos;%2 &apos;?</translation>
     </message>
     <message>
         <source>In the %1 Show</source>
-        <translation type="unfinished"></translation>
+        <translation>No %1 mostrar</translation>
     </message>
     <message>
         <source>In the %1 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>No slide %1</translation>
     </message>
     <message>
         <source>Follow Background Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga cor de fundo</translation>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga texto e linhas sheme cor</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Manter as cores das sombras</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga título texto color scheme</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga fills esquema de cores</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga accent color scheme</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga accent e hyperlink esquema de cores</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Siga accent e hiperlink esquema de cores</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Primary Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Primary colors</translation>
     </message>
     <message>
         <source>Blue Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinação azul</translation>
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>Fogo</translation>
     </message>
     <message>
         <source>Square Shaows</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrado shaows</translation>
     </message>
     <message>
         <source>Black Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Preto gradiente</translation>
     </message>
     <message>
         <source>Style Stripes</source>
-        <translation type="unfinished"></translation>
+        <translation>Stripes estilo</translation>
     </message>
     <message>
         <source>Braces</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspensórios</translation>
     </message>
     <message>
         <source>Thick Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Folheto grosso</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura de tópicos</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor do 3-D</translation>
     </message>
     <message>
         <source>Bookend Fills</source>
-        <translation type="unfinished"></translation>
+        <translation>Bookend fills</translation>
     </message>
     <message>
         <source>Classics</source>
-        <translation type="unfinished"></translation>
+        <translation>Classics</translation>
     </message>
     <message>
         <source>Double Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Folheto duplo</translation>
     </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar ao slide mestre</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a todos os slides</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar aos slides selecionados</translation>
     </message>
     <message>
         <source>Apply to &amp;All Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar a todos slides mestre</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar para mestrado seleccionados</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar grandes previews</translation>
     </message>
 </context>
 <context>
     <name>TpWppCustomAnimation</name>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animação personalizada</translation>
     </message>
     <message>
         <source>Add Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar efeitos</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Modify selected effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar efeitos selecionados</translation>
     </message>
     <message>
         <source>Start:</source>
-        <translation type="unfinished"></translation>
+        <translation>Início:</translation>
     </message>
     <message>
         <source>On Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Em click</translation>
     </message>
     <message>
         <source>With Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Com anterior</translation>
     </message>
     <message>
         <source>After Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Depois anterior</translation>
     </message>
     <message>
         <source>Property:</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedade :</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidade:</translation>
     </message>
     <message>
         <source>Very Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Muito lenta</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lento</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Rápido</translation>
     </message>
     <message>
         <source>Very Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Muito rápido</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogue</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação de slides</translation>
     </message>
     <message>
         <source>AutoPreview</source>
-        <translation type="unfinished"></translation>
+        <translation>Autopreview</translation>
     </message>
     <message>
         <source>Custom Animation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Animação personalizada :</translation>
     </message>
     <message>
         <source>Re-order</source>
-        <translation type="unfinished"></translation>
+        <translation>Reordenar</translation>
     </message>
 </context>
 <context>
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogstest</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar adobe pdf file</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Salve a</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar ...</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>seleção</translation>
     </message>
     <message>
         <source>Sl&amp;ides:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides:</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar o quê:</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation></translation>
+        <translation>Apostilas</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides para página :</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Order:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>ICON</source>
-        <translation type="unfinished"></translation>
+        <translation>Icon</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Corrediças quadro</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão escondido corrediças</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações de permissão</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirme :</translation>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation></translation>
+        <translation>Permissão para modificar</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation></translation>
+        <translation>Permissão para copiar</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation></translation>
+        <translation>Permissão para adicionar comentários</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation></translation>
+        <translation>Não imprime permitido</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation></translation>
+        <translation>Senha:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation></translation>
+        <translation>Confirme :</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation></translation>
+        <translation>Feche quando a exportação for concluída</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation type="unfinished"></translation>
+        <translation>Faixa de exportação</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation type="unfinished"></translation>
+        <translation>slide atual</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slides personalizada mostra :</translation>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
-        <translation type="unfinished"></translation>
+        <translation>Digite os números de slides ou intervalos. por exemplo , 1,3,5-12</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de exportação</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Páginas de anotações</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"></translation>
+        <translation>A vista de destaques</translation>
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor /escala de cinza :</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation>Pure preto e branco</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha para proteger as configurações de permissão</translation>
     </message>
     <message utf8="true">
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: só senha definição pode o efeito configurações abaixo e evitar ser alterados por outros.</translation>
     </message>
     <message>
         <source>Printing permission:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permissão de impressão :</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão de baixa qualidade</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão livre</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha do arquivo aberto :</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation></translation>
+        <translation>Preparando-se para exportar arquivos pdf ...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation></translation>
+        <translation>Abrir Arquivo</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportação para adobe pdf file</translation>
     </message>
 </context>
 <context>
     <name>kdlgFormatTable</name>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordas</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>estilo:</translation>
     </message>
     <message>
         <source>lwLineStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>lwLineStyle</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor:</translation>
     </message>
     <message>
         <source>cmbBorderColor</source>
-        <translation type="unfinished"></translation>
+        <translation>cmbBorderColor</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>largura:</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation type="unfinished"></translation>
+        <translation>cmbBorderWidth</translation>
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
-        <translation></translation>
+        <translation>Clique na figura abaixo ou use os botões para aplicar bordas</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderUp</translation>
     </message>
     <message>
         <source>btnBorderMidHor</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderMidHor</translation>
     </message>
     <message>
         <source>btnBorderUnder</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderUnder</translation>
     </message>
     <message>
         <source>Border Preview</source>
-        <translation></translation>
+        <translation>Border prévia</translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderSlash</translation>
     </message>
     <message>
         <source>btnBorderLeft</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderLeft</translation>
     </message>
     <message>
         <source>btnBorderMidVer</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderMidVer</translation>
     </message>
     <message>
         <source>btnBorderRight</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderRight</translation>
     </message>
     <message>
         <source>btnBorderBackSlash</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderBackSlash</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation></translation>
+        <translation>Preencha</translation>
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation></translation>
+        <translation>cbFillColor</translation>
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation></translation>
+        <translation>Cor de preenchimento :</translation>
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation></translation>
+        <translation>cmbFillColor</translation>
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation></translation>
+        <translation>cbSemitransparent</translation>
     </message>
     <message>
         <source>Semi&amp;transparent</source>
-        <translation></translation>
+        <translation>Semitransparente</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation></translation>
+        <translation>Caixa de texto</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
-        <translation></translation>
+        <translation>Alinhamento do texto :</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
-        <translation></translation>
+        <translation>cbTextAlign</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation></translation>
+        <translation>Top</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation></translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation></translation>
+        <translation>Fundo</translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation></translation>
+        <translation>Margem interna</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation></translation>
+        <translation>esquerda:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation></translation>
+        <translation>Top:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation></translation>
+        <translation>direita:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation></translation>
+        <translation>inferior:</translation>
     </message>
     <message>
         <source>cbOrientation</source>
-        <translation></translation>
+        <translation>cbOrientation</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
-        <translation></translation>
+        <translation>Girar o texto no interior da célula em 90 graus</translation>
     </message>
     <message>
         <source>Format Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato tabela</translation>
     </message>
     <message>
         <source>Top Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Top center</translation>
     </message>
     <message>
         <source>Middle Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro oriente</translation>
     </message>
     <message>
         <source>Bottom Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de fundo</translation>
     </message>
 </context>
 <context>
     <name>kxUiHyperlinkwpp</name>
     <message>
         <source>Select a pla&amp;ce in this document:</source>
-        <translation></translation>
+        <translation>Selecione um local neste documento:</translation>
     </message>
     <message>
         <source>Slide preview:</source>
-        <translation></translation>
+        <translation>Slide antevisão:</translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
-        <translation></translation>
+        <translation>Show e retorno</translation>
     </message>
 </context>
 <context>
     <name>kxdlgexportpresentationhint</name>
     <message>
         <source>Do you want to export every slide in the presentation or only the current slide?</source>
-        <translation></translation>
+        <translation>Você deseja exportar todos os slides da apresentação ou apenas o slide atual?</translation>
     </message>
     <message>
         <source>&amp;Every Slide</source>
-        <translation></translation>
+        <translation>cada slide</translation>
     </message>
     <message>
         <source>&amp;Current Slide Only</source>
-        <translation></translation>
+        <translation>Somente o slide atual</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Wps apresentação</translation>
     </message>
 </context>
 </TS>
