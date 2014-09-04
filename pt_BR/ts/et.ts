@@ -9838,27 +9838,27 @@ t</source>
     <name>customfilterdlg</name>
     <message>
         <source>Custom AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Personalizar filtro automático</translation>
     </message>
     <message>
         <source>Show rows where:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Onde mostrar linhas:</translation>
     </message>
     <message>
         <source>&amp;And</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&E</translation>
     </message>
     <message>
         <source>&amp;Or</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&Ou</translation>
     </message>
     <message>
         <source>Use ? to represent any single character</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar ? para representar um caracter unico</translation>
     </message>
     <message>
         <source>Use * to represent any series of characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar * para representar vários caracteres</translation>
     </message>
 </context>
 <context>
@@ -9872,74 +9872,74 @@ t</source>
     <name>editCrossBookLinksDlg</name>
     <message>
         <source>Edit Links</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editar ligações</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fonte</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estado</translation>
     </message>
     <message>
         <source>&amp;Update Values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Atualizar valores</translation>
     </message>
     <message>
         <source>Cha&amp;nge Source...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Mudar fonte...</translation>
     </message>
     <message>
         <source>&amp;Open Source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;brir fonte</translation>
     </message>
     <message>
         <source>&amp;Break Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Quebrar ligação</translation>
     </message>
     <message>
         <source>&amp;Check Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Verificar estado</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Localização:</translation>
     </message>
     <message>
         <source>Startup Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comando inicial:</translation>
     </message>
     <message>
         <source>Let users choose to display the &amp;alert or not</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Deixar o usuário escolher mostrar o alerta ou não</translation>
     </message>
     <message>
         <source>&amp;Do not display the alert and do not update automatic links</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Não mostrar o alerta e não atualiza automáticamente as ligações</translation>
     </message>
     <message>
         <source>Do not display the alert and update lin&amp;ks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Não m&amp;ostar o alerta e atualizar as ligações</translation>
     </message>
     <message>
         <source>&amp;Startup Prompt...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Comando inicial....</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Fechar</translation>
     </message>
     <message>
         <source>When this workbook is opened, WPS Spreadsheets will ask whether or not to update links to other workbooks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quando este folha é aberta, o WPS Spreadsheets vai perguntar se ou não vai atualizar as ligações com as outras folhas.</translation>
     </message>
 </context>
 <context>
     <name>evaluateFormula</name>
     <message>
         <source>Evaluate Formula</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avalir Fórmula</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
@@ -9947,11 +9947,11 @@ t</source>
     </message>
     <message>
         <source>E&amp;valuation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A&amp;valiação</translation>
     </message>
     <message>
         <source>&amp;Evaluate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Avaliar</translation>
     </message>
     <message>
         <source>Step &amp;In</source>
@@ -9963,7 +9963,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fechar</translation>
     </message>
 </context>
 <context>
@@ -9993,7 +9993,7 @@ t</source>
     </message>
     <message>
         <source>Target value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor pretendido:</translation>
     </message>
     <message>
         <source>Text Label</source>
@@ -10001,34 +10001,34 @@ t</source>
     </message>
     <message>
         <source>Current value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor atual:</translation>
     </message>
     <message>
         <source>&amp;Step</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pa&amp;sso</translation>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Pausar</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dicas</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportar para arquivo PDF</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sal&amp;var para</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -10036,11 +10036,11 @@ t</source>
     </message>
     <message>
         <source>Export range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intervalo da exportação</translation>
     </message>
     <message>
         <source>Active &amp;Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Folha a&amp;tiva</translation>
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
@@ -10048,98 +10048,98 @@ t</source>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opções de exportação</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Informações r&amp;esumidas</translation>
     </message>
     <message>
         <source>Hyper&amp;link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hiper&amp;ligação</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sen&amp;ha:</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C&amp;onfirmar</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permitir Modi&amp;ficar</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permitir Cóp&amp;ia</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permitir &amp;adicionar comentários</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impressão não permitida</translation>
     </message>
     <message>
         <source>File password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha do arquivo:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Senha:</translation>
     </message>
     <message>
         <source>Confir&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confir&amp;mar</translation>
     </message>
     <message>
         <source>Close w&amp;hen export completes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fechar &amp;quando terminar a exportação</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Novo &amp;Comentário</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configurar permissões</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senha para proteger as configurações de permissão</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obs: apenas uma senha escolhida pode permitir as seguintes mudanças e evitar alterações de outros usuários.</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permissão de Im&amp;pressão:</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permissão de impressão</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impressão livre</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impressão em baixa qualidade</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportar para o formato Adobe PDF</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Abrir Arquivo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10147,31 +10147,31 @@ t</source>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preparando para exportar o arquivo PDF...</translation>
     </message>
 </context>
 <context>
     <name>kxDlgHyperlink</name>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hiperligação</translation>
     </message>
     <message>
         <source>Link to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ligação para:</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Texto a mostrar:</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Di&amp;cas</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Colocar neste Documento</translation>
     </message>
     <message>
         <source>Email Buttion</source>
@@ -10179,11 +10179,11 @@ Document</source>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Endereço de E-&amp;mail</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Remover Ligação</translation>
     </message>
     <message>
         <source>Up One Folder</source>
@@ -10191,54 +10191,54 @@ Document</source>
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina Inicial</translation>
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ender&amp;eço:</translation>
     </message>
     <message>
         <source>&amp;E-mail address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Endereço de E-mail</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ass&amp;unto</translation>
     </message>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagina da Web ou Arquivo já e&amp;xiste</translation>
     </message>
     <message>
         <source>Browse for File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navegar por arquivo</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">E-mail usado re&amp;centemente:</translation>
     </message>
 </context>
 <context>
     <name>kxUiHyperlinket</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulário</translation>
     </message>
     <message>
         <source>Type the c&amp;ell reference:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de referencia da c&amp;élula:</translation>
     </message>
     <message>
         <source>Select the lo&amp;cation in this document:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecionar lo&amp;calização neste documento:</translation>
     </message>
 </context>
 <context>
     <name>kxWidgetControl</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulário</translation>
     </message>
     <message>
         <source>Values</source>
@@ -10246,35 +10246,35 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;UnChecked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Não checado</translation>
     </message>
     <message>
         <source>&amp;Checked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Checado</translation>
     </message>
     <message>
         <source>&amp;Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Misturado</translation>
     </message>
     <message>
         <source>Cell &amp;link:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ligação da &amp;Célula:</translation>
     </message>
     <message>
         <source>&amp;Input range:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Intervalo de entrada:</translation>
     </message>
     <message>
         <source>&amp;Cell link:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ligação da &amp;Célula:</translation>
     </message>
     <message>
         <source>Select type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de seleção</translation>
     </message>
     <message>
         <source>&amp;Multi select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Multi Seleção</translation>
     </message>
     <message>
         <source>&amp;Current value:</source>
@@ -10290,27 +10290,27 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Page step size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;</translation>
     </message>
     <message>
         <source>&amp;3-D shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Sombras 3-D</translation>
     </message>
     <message>
         <source>&amp;Single</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Unico</translation>
     </message>
     <message>
         <source>&amp;Extend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Expandir</translation>
     </message>
     <message>
         <source>&amp;Drop down lines:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Linhas suspensas:</translation>
     </message>
     <message>
         <source>&amp;Minimum value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor &amp;Minimo:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum value:</source>
