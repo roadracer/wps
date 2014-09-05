@@ -2327,7 +2327,7 @@ Window</source>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Date</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -2347,7 +2347,7 @@ Window</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -2359,7 +2359,7 @@ Window</source>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Acasă</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -2367,7 +2367,7 @@ Window</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserează</translation>
     </message>
     <message>
         <source>Log off</source>
@@ -2391,7 +2391,7 @@ Window</source>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect pagină</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -2419,7 +2419,7 @@ Window</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Recenzie</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -2443,7 +2443,7 @@ Window</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil tabel</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -2451,7 +2451,7 @@ Window</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Afişare</translation>
     </message>
     <message>
         <source>Window Close</source>
