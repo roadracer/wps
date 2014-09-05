@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation >&amp; Guardar como</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -82,19 +82,19 @@
     <name>ConnectPage</name>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrt+W</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation >Alt+O</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+C</translation>
     </message>
     <message>
         <source>Alt+W</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+W</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation >Por</translation>
     </message>
     <message>
         <source>In</source>
@@ -268,7 +268,7 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation >Filtrar</translation>
     </message>
     <message>
         <source>Field type:</source>
@@ -593,7 +593,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="obsolete">Personalizado...</translation>
+        <translation >Personalizado...</translation>
     </message>
     <message>
         <source>Can display up to 10000 items.</source>
@@ -713,11 +713,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Date filter</source>
-        <translation type="obsolete">Filtro de fecha</translation>
+        <translation >Filtro de fecha</translation>
     </message>
     <message>
         <source>Text filter</source>
-        <translation type="obsolete">Filtro de texto</translation>
+        <translation >Filtro de texto</translation>
     </message>
     <message>
         <source>Not equal</source>
@@ -781,7 +781,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Date Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrar por fecha</translation>
     </message>
     <message>
         <source>Date Filter(F)</source>
