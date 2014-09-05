@@ -1739,7 +1739,7 @@ Master</source>
     <name>ongmani.ct_animation</name>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animaţie</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -14620,7 +14620,7 @@ Slide</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animaţie</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -14628,7 +14628,7 @@ Slide</source>
     </message>
     <message>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Proiect</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -14720,7 +14720,7 @@ Slide</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Recenzie</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -14736,7 +14736,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Expunere diapozitive</translation>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
@@ -14756,7 +14756,7 @@ Slide</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Afişare</translation>
     </message>
     <message>
         <source>What News</source>
