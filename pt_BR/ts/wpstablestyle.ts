@@ -2,12 +2,12 @@
 <context>
     <name>CWpsTableStyle</name>
     <message>
-        <source>Styless, no grid</source>
-        <translation type="unfinished"/>
+        <source>Styless, No grid</source>
+        <translation>Estilo, Sem grade</translation>
     </message>
     <message>
-        <source>Themed Style</source>
-        <translation type="unfinished"/>
+        <source>Theme Style</source>
+        <translation>Estilo do Tema</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -18,76 +18,12 @@
         <translation>1-</translation>
     </message>
     <message>
-        <source>Styless, gridded</source>
-        <translation type="unfinished"/>
+        <source>No Style, Gridded</source>
+        <translation>Sem Estilo, Com Grade</translation>
     </message>
     <message>
         <source>2-</source>
         <translation>2-</translation>
-    </message>
-    <message>
-        <source>Light Color Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Medium Color Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Deep Color Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>First Row</source>
-        <translation>Primeira linha</translation>
-    </message>
-    <message>
-        <source>Last Row</source>
-        <translation>Última linha</translation>
-    </message>
-    <message>
-        <source>Banded Rows</source>
-        <translation>Linhas sombreadas</translation>
-    </message>
-    <message>
-        <source>Banded Columns</source>
-        <translation>Colunas sombreadas</translation>
-    </message>
-    <message>
-        <source>First Column</source>
-        <translation>Primeira coluna</translation>
-    </message>
-    <message>
-        <source>Last Column</source>
-        <translation>Última coluna</translation>
-    </message>
-    <message>
-        <source>Styless, No grid</source>
-        <translation>Estilo, Sem grade</translation>
-    </message>
-    <message>
-        <source>Theme Style</source>
-        <translation>Estilo do Tema</translation>
-    </message>
-    <message>
-        <source>No Style, Gridded</source>
-        <translation>Sem Estilo, Com Grade</translation>
     </message>
     <message>
         <source>Light Style</source>
@@ -117,84 +53,36 @@
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation>Estilo Dark 2-Enfatizar 5/Enfatizar 6</translation>
     </message>
+    <message>
+        <source>First Row</source>
+        <translation>Primeira linha</translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation>Última linha</translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation>Linhas sombreadas</translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation>Colunas sombreadas</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation>Primeira coluna</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>Última coluna</translation>
+    </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Built-in</source>
         <translation>Incorporado</translation>
-    </message>
-    <message>
-        <source>Styless, no grid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Themed Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Emphasize</source>
-        <translation>Enfatizar</translation>
-    </message>
-    <message>
-        <source>1-</source>
-        <translation>1-</translation>
-    </message>
-    <message>
-        <source>Styless, gridded</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>2-</source>
-        <translation>2-</translation>
-    </message>
-    <message>
-        <source>Light Color Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Medium Color Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Deep Color Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Best Match</source>
-        <translation>Melhor correspondência</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Deep</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Color Style</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Styless, No grid</source>
@@ -205,8 +93,20 @@
         <translation>Estilo do Tema</translation>
     </message>
     <message>
+        <source>Emphasize</source>
+        <translation>Enfatizar</translation>
+    </message>
+    <message>
+        <source>1-</source>
+        <translation>1-</translation>
+    </message>
+    <message>
         <source>No Style, Gridded</source>
         <translation>Sem Estilo, Com Grade</translation>
+    </message>
+    <message>
+        <source>2-</source>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light Style</source>
@@ -267,6 +167,10 @@
     <message>
         <source>First Row And Last Row</source>
         <translation>Primeira linha e última linha</translation>
+    </message>
+    <message>
+        <source>Best Match</source>
+        <translation>Melhor correspondência</translation>
     </message>
     <message>
         <source>Light</source>
@@ -284,22 +188,6 @@
 <context>
     <name>KxStylesPanel</name>
     <message>
-        <source>Best Match</source>
-        <translation>Melhor correspondência</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Deep</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>First Row</source>
         <translation>Primeira linha</translation>
     </message>
@@ -330,6 +218,10 @@
     <message>
         <source>First Row And Last Row</source>
         <translation>Primeira linha e última linha</translation>
+    </message>
+    <message>
+        <source>Best Match</source>
+        <translation>Melhor correspondência</translation>
     </message>
     <message>
         <source>Light</source>
