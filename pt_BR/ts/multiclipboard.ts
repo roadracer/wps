@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Apagar</translation>
+        <translation>&amp;Excluir</translation>
     </message>
     <message>
         <source>&amp;Enter Ctrl+C two times to display WPS clipboard</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation>Desbloquear este item à lista.</translation>
+        <translation>Desbloquear este item da lista.</translation>
     </message>
 </context>
 </TS>

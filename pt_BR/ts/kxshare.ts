@@ -65,11 +65,11 @@
     </message>
     <message>
         <source>Pre&amp;view:</source>
-        <translation>Preview:</translation>
+        <translation>&amp;Visualizar:</translation>
     </message>
     <message>
         <source>&amp;Line end:</source>
-        <translation>Fim de linha :</translation>
+        <translation>Fim de &amp;linha :</translation>
     </message>
 </context>
 <context>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation>Atualizações WPS Office foram baixados. Você deseja instalá-los agora?</translation>
+        <translation>Atualizações  do WPS Office foram baixadas. Você deseja instalá-las agora?</translation>
     </message>
 </context>
 <context>
@@ -129,19 +129,19 @@
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation>&amp;Vermelho</translation>
+        <translation>&amp;Vermelho:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>&amp;Verde</translation>
+        <translation>&amp;Verde:</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>azul :</translation>
+        <translation>Az&amp;ul:</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>Alpha canal :</translation>
+        <translation>Canal A&amp;lfa:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
@@ -169,11 +169,11 @@
     </message>
     <message>
         <source>Color mo&amp;de</source>
-        <translation>modo de cor</translation>
+        <translation>Mo&amp;do de cor</translation>
     </message>
     <message>
         <source>&amp;Saturation:</source>
-        <translation>&amp;Saturação</translation>
+        <translation>&amp;Saturação:</translation>
     </message>
     <message>
         <source>&amp;Luminance:</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>&amp;Colors:</source>
-        <translation>&amp;Cores</translation>
+        <translation>&amp;Cores:</translation>
     </message>
 </context>
 <context>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation>O documento , que não foi salvo após última saída foi agora restaurado. ( Se você não precisa do arquivo restaurado , fechá-lo diretamente e reabrir o documento original. )</translation>
+        <translation>O documento, que não foi salvo após última saída foi restaurado agora. (Se você não precisa do arquivo restaurado, feche-o diretamente e reabra o documento original.)</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Apagar</translation>
+        <translation>&amp;Excluir</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@
     </message>
     <message>
         <source>&amp;Read-only</source>
-        <translation>&amp;Somente Leitura</translation>
+        <translation>&amp;Somente leitura</translation>
     </message>
 </context>
 <context>
@@ -463,7 +463,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
@@ -506,7 +506,7 @@
     <name>KShowMoreWindowDlg</name>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -537,7 +537,7 @@
     <name>KSpecialCharInfos</name>
     <message>
         <source>Em Dash</source>
-        <translation>Em Dash</translation>
+        <translation>Em Traço</translation>
     </message>
     <message>
         <source>En Dash</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>Section</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Seção</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -577,7 +577,7 @@
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation>a elipse</translation>
+        <translation>Elipse</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
@@ -615,7 +615,7 @@
     </message>
     <message>
         <source>Templates</source>
-        <translation>Templates</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <source>Never modify</source>
@@ -658,7 +658,7 @@
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation>cirílico</translation>
+        <translation>Cirílico</translation>
     </message>
     <message>
         <source>Armenian</source>

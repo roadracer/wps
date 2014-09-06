@@ -12,7 +12,7 @@
     </message>
     <message>
         <source>File</source>
-        <translation>arquivo</translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Clear backup</source>
@@ -75,15 +75,15 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Writer.lnk</source>
-        <translation>WPS Writer.lnk</translation>
+        <translation>WPS Texto.lnk</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
-        <translation>WPS Presentation.lnk</translation>
+        <translation>WPS Apresentação.lnk</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
-        <translation>WPS Spreadsheets.lnk</translation>
+        <translation>WPS Planilhas.lnk</translation>
     </message>
     <message>
         <source>WPS Wenzi.lnk</source>
@@ -142,15 +142,15 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KLinkInfoList</name>
     <message>
         <source>WPS Writer.lnk</source>
-        <translation>WPS Writer.lnk</translation>
+        <translation>WPS Texto.lnk</translation>
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation>Use WPS Writer para escrever relatórios e fazer -se artigos.</translation>
+        <translation>Use WPS Texto para escrever relatórios e fazer artigos.</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
-        <translation>WPS Presentation.lnk</translation>
+        <translation>WPS Apresentação.lnk</translation>
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
@@ -158,11 +158,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
-        <translation>WPS Spreadsheets.lnk</translation>
+        <translation>WPS Planilhas.lnk</translation>
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation>Use WPS planilhas para analisar e gerenciar dados .</translation>
+        <translation>Use WPS Planilhas para analisar e gerenciar dados .</translation>
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
@@ -198,7 +198,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Uninstall.lnk</source>
-        <translation>Uninstall.lnk</translation>
+        <translation>Desinstalar.lnk</translation>
     </message>
     <message>
         <source>Uninstall WPS Office</source>
@@ -206,7 +206,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office Tools</source>
-        <translation>Ferramentas WPS Escritório</translation>
+        <translation>Ferramentas WPS Office</translation>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
@@ -234,7 +234,7 @@ We will do our utmost to repair the applications and restore them to the default
     <message>
         <source>Start &amp;Repairing</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>começar a reparar</translation>
+        <translation>Começar a reparar</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
@@ -356,7 +356,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>WPS &amp;Spreadsheets Backup Files</source>
-        <translation>WPS Spreadsheets arquivos de backup</translation>
+        <translation>WPS &amp;Planilhas Arquivos de Backup</translation>
     </message>
 </context>
 <context>
@@ -440,7 +440,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>WPS Escritor novos documentos salvos como formato *.doc por padrão</translation>
+        <translation>WPS Texto novos documentos salvos como formato *.doc por padrão</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
@@ -545,19 +545,23 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>Errors occur when registering components: 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>Os erros ocorrem quando registrar componentes:</translation>
+        <translation>Os erros ocorrem quando registrar componentes:
+
+</translation>
     </message>
     <message>
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>· Registro kso.dll falhou</translation>
+        <translation>· Registro kso.dll falhou
+</translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>· Falha ao registrar WPS Escritor</translation>
+        <translation>· Falha ao registrar WPS Texto
+</translation>
     </message>
     <message>
         <source>·Failed to register WPS Presentation
@@ -581,19 +585,22 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>· WPS escritor não encontrado</translation>
+        <translation>· WPS Texto não encontrado
+</translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>· Apresentação WPS não encontrado</translation>
+        <translation>WPS Apresentação não encontrado
+</translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>· WPS Spreadsheets não encontrado</translation>
+        <translation>· WPS Planilhas não encontrado
+</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
@@ -606,7 +613,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     <name>KPageRepair</name>
     <message>
         <source>Repair Install</source>
-        <translation>instalação de reparo</translation>
+        <translation>Instalação de reparo</translation>
     </message>
     <message>
         <source>If repair fails, and the errors still exist after you have tried the repair operations above, you may need to repair currently damaged system files.</source>
@@ -651,27 +658,27 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Modern Theme</source>
-        <translation>Modern Tema</translation>
+        <translation>Tema Moderno</translation>
     </message>
     <message>
         <source>Classic Theme</source>
-        <translation>Tema clássico</translation>
+        <translation>Tema Clássico</translation>
     </message>
     <message>
         <source>New Silver Theme</source>
-        <translation>Nova Prata Tema</translation>
+        <translation>Novo Tema Prata</translation>
     </message>
     <message>
         <source>New Blue Theme</source>
-        <translation>New Blue Theme</translation>
+        <translation>Novo Tema Azul</translation>
     </message>
     <message>
         <source>New Black Theme</source>
-        <translation>New Black Theme</translation>
+        <translation>Novo Tema Escuro</translation>
     </message>
     <message>
         <source>Dream Blue</source>
-        <translation>Sonho azul</translation>
+        <translation>Sonho Azul</translation>
     </message>
     <message>
         <source>Theme successfully changed.</source>

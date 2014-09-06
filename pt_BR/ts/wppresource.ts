@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3D Ligado/Desligado</translation>
+        <translation>3D ligado/desligado</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>Dim</source>
-        <translation>Esbater</translation>
+        <translation>Escurecer</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Mais Cores 3D</translation>
+        <translation>Mais cores 3D</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -92,38 +92,38 @@
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>Inclinar para Baixo</translation>
+        <translation>Inclinar para baixo</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>Inclinar para a Esquerda</translation>
+        <translation>Inclinar para a esquerda</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation>Inclinar para a Direita</translation>
+        <translation>Inclinar para a direita</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>Inclinar para Cima</translation>
+        <translation>Inclinar para cima</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>Linha da Moldura</translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
     <name>classics.control_toolbox</name>
     <message>
         <source>Check Box</source>
-        <translation>Caixa de Verificação</translation>
+        <translation>Caixa de verificação</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation>Caixa de Combinações</translation>
+        <translation>Caixa de seleção</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation>Botão de Comando</translation>
+        <translation>Botão de comando</translation>
     </message>
     <message>
         <source>Controls List</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>List Box</source>
-        <translation>Caixa de Listragem</translation>
+        <translation>Caixa de Listagem</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>Option Button</source>
-        <translation>Botão de Opções</translation>
+        <translation>Botão de opções</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>Barra de Scroll</translation>
+        <translation>Barra de rolagem</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -4572,12 +4572,14 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor de
+sombra</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de
+sombra</translation>
     </message>
     <message>
         <source>Shadow
@@ -4588,7 +4590,8 @@ Ligar/Desligar</translation>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de
+sombra</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -4934,11 +4937,11 @@ Notes</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Excluir Colunas</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Excluir linhas</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -4958,7 +4961,7 @@ Notes</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4966,7 +4969,7 @@ Notes</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5539,19 +5542,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Botão (Curva)</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Botão (Fluir)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Abaixo</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Acima</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -5563,12 +5566,13 @@ Ligado</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centralizar</translation>
     </message>
     <message>
         <source>Character 
 Spacing</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espaçamento entre
+Caracteres</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -7532,7 +7536,7 @@ Master</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Ponto</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>

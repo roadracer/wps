@@ -2,20 +2,12 @@
 <context>
     <name>KLiveService</name>
     <message>
-        <source>please install kuaipan manul</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>please login kuaipan</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Please install Klive manually.</source>
-        <translation>Instale o Klive manualmente.</translation>
+        <translation>Por favor, instale o Klive manualmente.</translation>
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
-        <translation>Por favor, cadastre-se em Klive manualmente.</translation>
+        <translation>Por favor, cadastre-se no Klive manualmente.</translation>
     </message>
 </context>
 <context>
@@ -33,35 +25,19 @@
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Modelos online</translation>
-    </message>
-    <message>
-        <source>My Favorit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Local Templates</source>
-        <translation>Modelos locais</translation>
+        <translation>Modelos on-line</translation>
     </message>
     <message>
         <source>My Favorite</source>
         <translation>Meu Favorito</translation>
     </message>
+    <message>
+        <source>Local Templates</source>
+        <translation>Modelos locais</translation>
+    </message>
 </context>
 <context>
     <name>QApplication</name>
-    <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>\Kingsoft Office\Office Space\Desktop.ini name.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
         <translation>Nome do \WPS Office\Desktop.ini</translation>

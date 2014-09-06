@@ -4,7 +4,7 @@
     <name>KCommand</name>
     <message>
         <source>All right</source>
-        <translation>Tudo bem</translation>
+        <translation>Tudo certo</translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>Treasure Box</source>
-        <translation>Treasure Box</translation>
+        <translation>Caixa do Tesouro</translation>
     </message>
     <message>
         <source>WPS Office Recommendation</source>

@@ -4,7 +4,7 @@
     <message>
         <source>No Item In Collection</source>
         <comment>_ksoErr_Basic_NoItemInCollection</comment>
-        <translation>No Item Na Coleção</translation>
+        <translation>Sem Item Na Coleção</translation>
     </message>
     <message>
         <source>Object Deleted</source>
@@ -71,12 +71,12 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Data of WPS Writer</source>
         <comment>TX_KSO_CF_WPS_DISPNAME</comment>
-        <translation>Dados do WPS Escritor</translation>
+        <translation>Dados do WPS Texto</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
         <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
-        <translation>O conteúdo da área de transferência será inserido como dados de WPS Writer.</translation>
+        <translation>O conteúdo da área de transferência será inserido como dados de WPS Texto</translation>
     </message>
     <message>
         <source>Data of WPS Spreadsheets</source>
@@ -86,7 +86,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
         <comment>TX_KSO_CF_ET_RESULTNAME</comment>
-        <translation>O conteúdo da área de transferência será inserido como dados de WPS Spreadsheets.</translation>
+        <translation>O conteúdo da área de transferência será inserido como dados de WPS Planilhas.</translation>
     </message>
     <message>
         <source>Data of WPS Presentation</source>
@@ -111,7 +111,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation>Dados do Desenho WPS</translation>
+        <translation>Dados do WPS Desenho</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
@@ -121,7 +121,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_DISPNAME</comment>
-        <translation>xxxs objeto</translation>
+        <translation>%s Objeto</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
@@ -181,7 +181,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Bitmap</source>
         <comment>TX_KSO_CF_PIC_BITMAP_DISPNAME</comment>
-        <translation>bitmap</translation>
+        <translation>Bitmap</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
@@ -251,7 +251,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDSOURCE_DISPNAME</comment>
-        <translation>xxxs objeto</translation>
+        <translation>%s Objeto</translation>
     </message>
     <message>
         <source>Picture(JPEG)</source>
@@ -699,12 +699,12 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value0</comment>
-        <translation>3 - D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value36</comment>
-        <translation>3 - D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -3700,7 +3700,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation>WPS Escritor</translation>
+        <translation>WPS Texto</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
