@@ -2547,7 +2547,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -5427,7 +5427,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEt3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -5471,14 +5471,14 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEtBorderLineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
     <name>KxEtBorderWidget</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -5621,7 +5621,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
 </context>
 <context>
@@ -6206,7 +6206,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -6280,7 +6280,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -6812,7 +6812,7 @@ on iteration #%2.</source>
     <name>KxPageSetupDlg</name>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -6919,7 +6919,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -10020,7 +10020,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Automatic</source>
-        <translation>&amp;Автоматически</translation>
+        <translation>&amp;Авто</translation>
     </message>
     <message>
         <source>&amp;Left:</source>

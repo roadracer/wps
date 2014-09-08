@@ -4491,7 +4491,7 @@ Time</source>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Проверка на наличие ошибок</translation>
+        <translation>Проверка наличия ошибок</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -8325,11 +8325,11 @@ COM</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Проверка на наличие ошибок</translation>
+        <translation>Проверка наличия ошибок</translation>
     </message>
     <message>
         <source>Error Checking Options</source>
-        <translation>Параметры проверки ошибок</translation>
+        <translation>Параметры проверки наличия ошибок</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -10388,7 +10388,7 @@ Time</source>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Проверка на наличие ошибок</translation>
+        <translation>Проверка наличия ошибок</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -13702,7 +13702,7 @@ You can specify a password that can be entered to unprotect the workbook and all
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation type="obsolete">Защита книги паролем</translation>
+        <translation type="obsolete">Защита книги</translation>
     </message>
 </context>
 <context>
@@ -14043,7 +14043,7 @@ This will change the format of the cell to Accounting without a currency symbol.
     </message>
     <message>
         <source>Count the number of cells in a column that contain numbers.</source>
-        <translation type="obsolete">Подсчёт количество ячеек в столбце, содержащих числа.</translation>
+        <translation type="obsolete">Подсчёт количества ячеек в столбце, содержащих числа.</translation>
     </message>
 </context>
 <context>
@@ -14615,7 +14615,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Make different combinations of the cell formats, such as number or alignment formats, then generate these formats into one.</source>
-        <translation type="obsolete">Создание различных комбинаций форматов ячеек, такие как, численный формат или формат выравнивания, и затем их преобразование в объединёный формат.</translation>
+        <translation type="obsolete">Создание различных комбинаций форматов ячеек, таких как, численный формат или формат выравнивания, и затем их преобразование в объединёный формат.</translation>
     </message>
 </context>
 <context>
@@ -15348,11 +15348,11 @@ For example: =SUM(MySales) instead of =SUM(A1:A20).</source>
     <name>tips.NumberFormatCells</name>
     <message>
         <source>Format Cells: Number</source>
-        <translation type="obsolete">Формат ячеек: число</translation>
+        <translation type="obsolete">Формат ячеек: числовой</translation>
     </message>
     <message>
         <source>Show the Number tab of the Format Cells dialog box.</source>
-        <translation type="obsolete">Отображение вкладки &quot;Число&quot; диалогового окна &quot;Формат ячеек&quot;.</translation>
+        <translation type="obsolete">Отображение вкладки &quot;Числовой&quot; диалогового окна &quot;Формат ячеек&quot;.</translation>
     </message>
 </context>
 <context>
@@ -16339,7 +16339,7 @@ You can sort the selected data in ascending or descending order.</source>
     </message>
     <message>
         <source>Check the spelling of text.</source>
-        <translation type="obsolete">Проверка правильность написания текста.</translation>
+        <translation type="obsolete">Проверка правильности написания текста.</translation>
     </message>
 </context>
 <context>
@@ -16488,7 +16488,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TopAndBottomBorder</name>
     <message>
         <source>Add a top and bottom border to the selected cell(s).</source>
-        <translation type="obsolete">Добавить вернюю и нижнюю границу к выделенным ячейкам.</translation>
+        <translation type="obsolete">Добавить верхнюю и нижнюю границу к выделенным ячейкам.</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
@@ -16514,7 +16514,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>Thick Top and Bottom Border</source>
-        <translation type="obsolete">Верхняя и жирная нижняя граница</translation>
+        <translation type="obsolete">Верхняя и толстая нижняя граница</translation>
     </message>
 </context>
 <context>
@@ -16547,22 +16547,22 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <name>tips.TranslateToSimplifiedChinese</name>
     <message>
         <source>Traditional Chinese to Simplified Chinese</source>
-        <translation type="obsolete">Перевод на упрощенный китайский</translation>
+        <translation type="obsolete">Преобразование в упрощенный китайский</translation>
     </message>
     <message>
         <source>Translate Traditional Chinese into Simplified Chinese.</source>
-        <translation type="obsolete">Перевод традиционного китайского на упрощенный китайский.</translation>
+        <translation type="obsolete">Преобразование традиционного китайского в упрощенный китайский.</translation>
     </message>
 </context>
 <context>
     <name>tips.TranslateToTraditionalChinese</name>
     <message>
         <source>Simplified Chinese to Traditional Chinese</source>
-        <translation type="obsolete">Перевод на традиционный китайский</translation>
+        <translation type="obsolete">Преобразование в традиционный китайский</translation>
     </message>
     <message>
         <source>Translate Simplified Chinese into Traditional Chinese.</source>
-        <translation type="obsolete">Перевод упрощённого на традиционный китайский.</translation>
+        <translation type="obsolete">Преобразование упрощённого в традиционный китайский.</translation>
     </message>
 </context>
 <context>

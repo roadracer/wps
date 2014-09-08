@@ -2552,7 +2552,7 @@ Table Style</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -7333,7 +7333,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="obsolete">COM Add-Ins</translation>
+        <translation type="obsolete">Надстройки COM</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -8912,7 +8912,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>COM AddIns</source>
-        <translation type="obsolete">COM Add-Ins</translation>
+        <translation type="obsolete">Надстройки COM</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10430,7 +10430,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -18478,7 +18478,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
-        <translation type="obsolete">Показать ил скрыть Панель навигации.</translation>
+        <translation type="obsolete">Показать или скрыть Панель навигации.</translation>
     </message>
 </context>
 <context>
@@ -18844,7 +18844,7 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation type="obsolete">Обрезать снимок для удаления лишних частей.</translation>
+        <translation type="obsolete">Обрезать изображение для удаления лишних частей.</translation>
     </message>
 </context>
 <context>

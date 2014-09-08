@@ -4315,7 +4315,7 @@ Number</source>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation>Восстановить фигуру</translation>
+        <translation>Восстановить исходную фигуру</translation>
     </message>
     <message>
         <source>ResetLayout</source>
@@ -10609,7 +10609,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation>Восстановить фигуру</translation>
+        <translation>Восстановить исходную фигуру</translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -12883,7 +12883,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Add an action to the selected object to secify what should happen when you click on it or hover over it with your mouse.</source>
-        <translation type="obsolete">Добавление действия к выбранному объекту для обозначения , что должно произойти при щелчке или наведении на него указателем мыши.</translation>
+        <translation type="obsolete">Добавление действия к выбранному объекту для обозначения, что должно произойти при щелчке или наведении на него указателем мыши.</translation>
     </message>
 </context>
 <context>
@@ -13583,7 +13583,7 @@ Click the arrow to select a different alignment.</source>
     </message>
     <message>
         <source>Insert a flash animation into the presentation.</source>
-        <translation type="obsolete">Добаление Flash-анимации в презентацию.</translation>
+        <translation type="obsolete">Добавление Flash-анимации в презентацию.</translation>
     </message>
 </context>
 <context>
@@ -13661,7 +13661,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Align text to the left.</source>
-        <translation type="obsolete">Выровнивание текста по левому краю.</translation>
+        <translation type="obsolete">Выравнивание текста по левому краю.</translation>
     </message>
 </context>
 <context>
@@ -13672,7 +13672,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Align text to the right.</source>
-        <translation type="obsolete">Выровнивание текста по правому краю.</translation>
+        <translation type="obsolete">Выравнивание текста по правому краю.</translation>
     </message>
 </context>
 <context>
@@ -14326,7 +14326,7 @@ Click the arrow to choose different numbering formats.</source>
     <name>tips.Paste</name>
     <message>
         <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation type="obsolete">Щёлкните здесь для выбора других функций, таких как, вставка из буфера только значений или форматирование.</translation>
+        <translation type="obsolete">Щёлкните здесь для выбора других функций, таких как, вставка из буфера только значений или форматирования.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -14438,7 +14438,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Preserve the selected master slide. Even if it is unused it can still remain in the presentation.</source>
-        <translation type="obsolete">Сохранение выбранного мастер-слайда. Он может оставаться в презентации даже, если не используется, .</translation>
+        <translation type="obsolete">Сохранение выбранного мастер-слайда. Он может оставаться в презентации даже, если не используется.</translation>
     </message>
 </context>
 <context>

@@ -3659,7 +3659,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Fade and Dissolve</source>
-        <translation>Выцветание и расстворение</translation>
+        <translation>Выцветание и растворение</translation>
     </message>
     <message>
         <source>Wipe</source>
