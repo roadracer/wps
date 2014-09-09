@@ -3061,11 +3061,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Shrink text</source>
-        <translation>&amp;Сокращение текста</translation>
+        <translation>&amp;Сжать текст</translation>
     </message>
     <message>
         <source>&amp;Enlarge symbol</source>
-        <translation>&amp;Увеличить символ</translation>
+        <translation>&amp;Увеличить</translation>
     </message>
     <message>
         <source>&amp;None</source>
