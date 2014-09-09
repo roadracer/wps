@@ -1,0 +1,1243 @@
+[TIPS]
+100%25.title=100%
+100%25.content="Отображение документа в масштабе 1:1."
+
+3DColor.title=Цвет объема
+3DColor.content="Заполнение цветом выбранной 3-D формы".\n\n"Щелкните стрелку для выбора другого цвета."
+
+3DColor2.title=Цвет 3-D
+3DColor2.content="Щелкните стрелку для выбора других цветов 3-D."
+
+3DDepthMenu.title=Глубина
+3DDepthMenu.content="Изменение высоты выбранной 3-D формы."
+
+3DDirectionPalette.title=Направление
+3DDirectionPalette.content="Выбор эффекта направления для выбранной 3-D формы."
+
+3DLightingPalette.title=Освещение
+3DLightingPalette.content="Задайте направление освещения для выбранной 3-D формы, а также интенсивность освещения из яркого, нормального и тусклого."
+
+3DOnOff.title=Применить или отменить 3-D
+3DOnOff.content="Применение или отмена эффекта 3-D к фигуре."
+
+3DStylePalette.title=Эффекты 3-D
+3DStylePalette.content="Добавление объемного эффекта 3-D для фигуры."
+
+3DSurfaceMenu.title=Поверхность
+3DSurfaceMenu.content="Выбор типа поверхности выделенной объемной фигуры в документе."
+
+3DTiltDown.title=Наклон вперед
+3DTiltDown.content="Наклон фигуры вперед."
+
+3DTiltLeft.title=Наклон влево
+3DTiltLeft.content="Наклон фигуры влево."
+
+3DTiltRight.title=Наклон вправо
+3DTiltRight.content="Наклон фигуры вправо."
+
+3DTiltUp.title=Наклон назад
+3DTiltUp.content="Наклон фигуры назад."
+
+AcceptChangeOnTB.title=Выбранные изменения
+AcceptChangeOnTB.content="Текущие изменения в документе."
+
+AcceptChangeOnTB2.title=Выбранные изменения
+AcceptChangeOnTB2.content="Щелкните здесь для принятия всех изменений в документе."
+
+AdjustTableProperties.title=Свойства таблицы
+AdjustTableProperties.content="Открытие диалогового окна "Свойства таблицы"."
+AdjustTableProperties.img=WPSTableProperties
+
+AlignBottomCenter.title=Выровнять снизу по центру
+AlignBottomCenter.content="Выравнивание текста по центру и по нижнему краю ячейки."
+
+AlignBottomJustified.title=Выровнять снизу по левому краю
+AlignBottomJustified.content="Выравнивание текста по нижнему левому углу ячейки."
+
+AlignBottomRight.title=Выровнять снизу по правому краю
+AlignBottomRight.content="Выравнивание текста по нижнему правому углу ячейки."
+
+AlignCenter.title=Выровнять по центру
+AlignCenter.content="Центрирование текста в ячейке по горизонтали и по вертикали."
+
+AlignCenterJustified.title=Выровнять по центру по левому краю
+AlignCenterJustified.content="Центрирование текста по вертикали и выравнивание его по левому краю ячейки."
+
+AlignCenterRight.title=Выровнять по центру по правому краю
+AlignCenterRight.content="Центрирование текста по вертикали и выравнивание по правому краю ячейки."
+
+AlignStyle.title=Выровнять
+AlignStyle.content="Выравнивание содержимого ячейки."
+
+AlignStyle2.title=Выровнять
+AlignStyle2.content="Выравнивание содержимого ячейки."
+
+AlignTopCenter.title=Выровнять сверху по центру
+AlignTopCenter.content="Выравнивание текста по центру и по верхнему краю ячейки."
+
+AlignTopJustified.title=Выровнять сверху по левому краю
+AlignTopJustified.content="Выравнивание текста по верхнему левому углу ячейки."
+
+AlignTopRight.title=Выровнять сверху по правому краю
+AlignTopRight.content="Выравнивание текста по верхнему правому углу ячейки."
+
+ArrangeAll.title=Упорядочить все
+ArrangeAll.content="Расположить все открытые документы рядом с окном программы."
+
+ArtisticWordCharacterSpacing.title=Межзнаковый интервал
+ArtisticWordCharacterSpacing.content=Изменение интервала между буквами выбранного фигурного текста.
+
+AutoAdjustRightIndent.title=Настройка отступа справа с сеткой
+AutoAdjustRightIndent.content="Автоматическое регулирование отступа документа справа, если задана сетка документа.\n\nЭтот параметр доступен, когда задана сетка документа."
+
+AutoFitWindow.title=Автоподбор по ширине окна
+AutoFitWindow.content="Автонастройка ширины таблицы в соответствии с размером окна."
+
+AutoVersion.title=Включить автоматичекое резервное копирование
+AutoVersion.content="Включение автоматического резервного копирования для текущего документа с сохранением резервной копии файла в хранилище файлов каждый раз при закрытии документа."
+
+Autobackup.title=Хранилище файлов
+Autobackup.content="Краткое введение в функцию "хранилище файлов".
+
+BackgroundShapeFillColor.title=Цвет страницы
+BackgroundShapeFillColor.content="Выбор цвета для фона страницы."
+BackgroundShapeFillColor.img=WPSBackgroundShapeFillColor
+
+Bold.title=Полужирный
+Bold.content=Выделение текста полужирным шрифтом.
+
+BreakForwardLink.title=Разорвать связь со следующим
+BreakForwardLink.content="Разрыв связи между выбранным текстовым полем и следующим.\n\nВесь текст будет помещен в поле выбранного текста."
+
+BringForward.title=На передний план
+BringForward.content="Размещение выделенного объекта впереди всех остальных объектов таким образом, чтобы ни одна его часть не заслонялась другим объектом."
+
+BringForward2.title=На передний план
+BringForward2.content="Перемещение выделенного объекта на один уровень вверх или расположение поверх всех объектов."
+
+Bullets.title=Маркеры
+Bullets.content="Начало маркированного списка.\n\nЩелкните стрелку, чтобы выбрать другие стили маркера."
+
+Bullets2.title=Маркеры
+Bullets2.content="Щелкните стрелку для выбора стиля маркера."
+
+COMAddIns.title=Надстройки COM
+COMAddIns.content="Добавление или удаление доступных надстроек COM."
+
+TemplateAddIns.title=Надстройки
+TemplateAddIns.content="Управление доступными надстройками COM."
+
+CTB_DesignMode.title=Конструктор
+CTB_DesignMode.content="Вход в режим разработчика для изменения имён элементов управления и функций."
+
+CTB_MoreControls.title=Другие элементы управления
+CTB_MoreControls.content="Щелкните здесь для добавления элемента из набора элементов управления, доступных на этом компьютере."
+
+CTB_Property.title=Свойства элемента управления
+CTB_Property.content="Просмотр и изменение свойств выделенного элемента управления."
+
+CTB_ViewCode.title=Исходный код
+CTB_ViewCode.content="Запуск редактора Visual Basic для редактирования кода выбранных элементов управления."
+
+ChangeCase.title=Регистр
+ChangeCase.content="Преобразование всех букв выделенного текста в ПРОПИСНЫЕ или строчные либо выбор других режимов расстановки прописных и строчных букв.\n\nЩелкните стрелку, чтобы выбрать параметры фонетического руководства, окаймления знаков и настройки границ символов."
+
+ChangePicture.title=Изменить изображение
+ChangePicture.content="Переход к другому изображению с сохранением форматирования и размера текущего изображения."
+
+ChangeTextDirection.title=Направление текста
+ChangeTextDirection.content="Настройка направления текста в документе, текущем разделе, выбранном текстовом поле или таблице."
+
+CharacterBorder.title=Граница знака
+CharacterBorder.content="Добавление границы вокруг набора знаков или предложения."
+
+CharacterShading.title=Заливка знака
+CharacterShading.content="Затенение выделенного текста серым цветом."
+
+CheckSpelling.title=Проверка правописания
+CheckSpelling.content="Проверка орфографии и грамматики в текущем документе."
+
+Chinese%20Translation.title=Преобразовать в символы традиционного китайского письма
+Chinese%20Translation.content="Преобразование упрощённого китайского в традиционный на основе символов или слов."
+
+CleanLineSpacing.title=Очистить междустрочный интервал
+CleanLineSpacing.content="Применение одинарного междустрочного интервала для выделенного абзаца и привязка к сетке."
+
+ClearFormats.title=Очистить формат
+ClearFormats.content="Удаление любого форматирования из выделенного фрагмента. Остается только обычный текст."
+
+ClearTableStyle.title=Очистить стиль таблицы
+ClearTableStyle.content="Очистка стиля таблицы для выделенных ячеек."
+
+CloseDevelopmentTools.title=Закрыть
+CloseDevelopmentTools.content="Щелкните здесь, чтобы закрыть вкладку "Конструктор"."
+
+CloseHeaderAndFooter.title=Закрыть
+CloseHeaderAndFooter.content="Закрытие окна колонтитулов и возврат к редактированию документа."
+
+CloseMail.title=Закрыть
+CloseMail.content="Щелкните здесь, чтобы закрыть вкладку "Рассылки".
+
+CloseOtherWindow.title=Закрыть другие окна
+CloseOtherWindow.content="Закрытие всех окон, кроме текущего."
+
+CloseOutlineview.title=Закрыть
+CloseOutlineview.content="Закрытие окна режима структуры и возврат к редактированию документа."
+
+ClosePreview.title=Закрыть
+ClosePreview.content="Закрытие окна предварительного просмотра и возврат к редактированию документа."
+
+CloseWindow.title=Закрыть окно
+CloseWindow.content="Закрытие текущего окна."
+
+CmpSideBySide.title=Режим просмотра рядом
+CmpSideBySide.content="Просмотр двух документов рядом для сравнения их содержимого."
+
+CollapseOnOutlining.title=Свернуть
+CollapseOnOutlining.content="Свертывание выбранного элемента."
+
+CompressPictures.title=Сжатие изображений
+CompressPictures.content="Сжатие выбранного изображения или всех изображений в документе для уменьшения размера."
+
+ConvertTabletoText.title=Преобразовать в текст
+ConvertTabletoText.content="Преобразование таблицы в абзацы текста, используя запятые, пробелы или другие символы в качестве разделителей."
+
+Copy.title=Копировать
+Copy.content="Копирование выделенного фрагмента в буфер обмена."
+
+CoverPages.title=Вставить титульную страницу
+CoverPages.content="Выбор одного из стилей титульной страницы и вставка в документ. Вы можете заполнить заголовок, имя автора, адрес электронной почты и другую информацию."
+CoverPages.img=WPSCoverPages
+
+CreateTextBoxLink.title=Создать связь с надписью
+CreateTextBoxLink.content=Связать выделенное текстовое поле с другим пустым полем, куда должен перетекать текст по мере заполнения надписи.
+
+CrossReference.title=Добавить перекрёстную ссылку
+CrossReference.content="Ссылка на элементы, например заголовки, рисунки и таблицы, путем вставки перекрестной ссылки, такой как \"См. таблицу 6 ниже\" или \"Вернуться к стр. 8\".\n\nПерекрестные ссылки обновляются автоматически, если содержимое перемещается в другое место. По умолчанию перекрестные ссылки вставляются как гиперссылки."
+
+Cut.title=Вырезать
+Cut.content="Удаление выделенного фрагмента в буфер обмена."
+
+DecreaseIndent.title=Уменьшить отступ
+DecreaseIndent.content="Уменьшение уровня отступа абзаца."
+
+Delete.title=Удалить
+Delete.content="Удаление строки, столбца, ячеек или всей таблицы."
+
+DeleteSection.title=Удалить раздел
+DeleteSection.content="Удаление выбранного раздела."
+
+DemoteOnOutlining.title=Понизить уровень
+DemoteOnOutlining.content="Перемещение данного элемента на один уровень вниз."
+
+DemoteOnParagraph.title=Понизить уровень оглавления
+DemoteOnParagraph.content="Перемещение данного элемента на один уровень вниз в оглавлении."
+
+DemoteToLowestLevelOnOutlining.title=Понизить до обычного текста
+DemoteToLowestLevelOnOutlining.content="Перемещение данного элемента на самый нижний уровень структуры."
+
+DemoteToLowestLevelOnParagraph.title=Понизить до обычного текста
+DemoteToLowestLevelOnParagraph.content="Перемещение данного элемента на самый нижний уровень оглавления."
+
+DetailedSettings_DrawingTools.title=Параметры
+DetailedSettings_DrawingTools.content="Изменение настроек форматирования форм."
+
+DetailedSettings_Home.title=Параметры
+DetailedSettings_Home.content="Изменение настроек шрифта, абзаца, стилей и форматирования."
+
+DetailedSettings_PageLayout.title=Параметры
+DetailedSettings_PageLayout.content="Изменение настроек параметров страницы и абзаца." 
+
+DetailedSettings_Paragraph.title=Параметры
+DetailedSettings_Paragraph.content="Изменение настроек абзаца, параметров страницы, стиля и форматирования."
+
+DetailedSettings_PictureTools.title=Параметры
+DetailedSettings_PictureTools.content="Изменение настроек форматирования изображения."
+
+DetailedSettings_Section.title=Параметры
+DetailedSettings_Section.content="Изменение настроек параметров страницы и колонтитулов."
+
+DetailedSettings_TableTools.title=DetailedSettings TableTools Title
+DetailedSettings_TableTools.content=DetailedSettings TableTools Content
+
+DetailedSettings_WordArt.title=Параметры
+DetailedSettings_WordArt.content="Изменение настроек форматирования фигурного текста."
+
+DevelopmentTools.title=Средства разработчика
+DevelopmentTools.content="Открытие вкладки "Конструктор" для вставки переключателя, флажка и других функций."
+
+DirectoryLevel.title=Уровень оглавления
+DirectoryLevel.content=Установка уровня оглавления для выделенного абзаца.
+
+DisableLineHeightGrid.title=Привязать к сетке
+DisableLineHeightGrid.content=Выравнивание текста по сетке.
+
+DisplayForReview.title=Отобразить для проверки
+DisplayForReview.content=Выбор режима просмотра предложенных изменений в документе.
+
+DistributeColumns.title=Выровнять ширину столбцов
+DistributeColumns.content=Сделать выделенные столбцы равными по ширине.
+
+DistributeRows.title=Выровнять высоту строк
+DistributeRows.content=Сделать выделенные строки равными по высоте.
+
+DoublePages.title=Две страницы
+DoublePages.content="Изменение масштаба документа так, чтобы в окне целиком поместились две страницы."
+
+DrawTable.title=Нарисовать таблицу
+DrawTable.content=Рисование границ таблицы.
+
+DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
+DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+
+DropCap.title=Буквица
+DropCap.content=Создание большой заглавной буквы в начале абзаца.
+
+EditPoints.title=Изменить узлы
+EditPoints.content=Изменение контура обтекания для изменения формы.
+
+EditWordArtText.title=Изменение фигурного текста
+EditWordArtText.content=Изменение выделенного фигурного текста.
+
+EmphasisMark.title=Знак ударения
+EmphasisMark.content=Добавление чёрных точек под выделенным содержимым для обозначения ударения.\n\nЩелкните стрелку для добавления зачеркивания.
+
+EncloseCharacters.title=Вложенные знаки
+EncloseCharacters.content="Добавление окружности или другой границы вокруг знака.\n\nЩелкните стрелку для выбора параметров фонетического руководства, изменения регистра и границы знака."
+
+EnterParagraphAdjustment.title=Макет абзаца
+EnterParagraphAdjustment.content=Вход в режим разметки абзаца.
+EnterParagraphAdjustment.img=WPSEnterParagraphAdjustment
+
+ExitParagraph.title=Закрыть
+ExitParagraph.content=Закрытие инструментов разметки абзаца и возврат к редактированию документа.
+
+ExpandOnOutlining.title=Развернуть
+ExpandOnOutlining.content=Развертывание выделенного элемента.
+
+ExplorBackupDir.title=Просмотр резервных копий файлов
+ExplorBackupDir.content="Просмотр резервных копий файлов и открытие или восстановление файлов резервных копий для определенного документа."
+
+ExplorVersion.title=Просмотр журнала архиваций
+ExplorVersion.content="Просмотр журнала резервного копирования текущего документа для открытия, удаления или восстановления файлов."
+
+ExportWeiboImageCmd.title=Экспорт изображения Weibo
+ExportWeiboImageCmd.content=Экспорт изображения Weibo
+
+FieldFormula.title=Формула
+FieldFormula.content="Добавление формулы в ячейку для выполнения простых вычислений таких, как сумма, среднее или максимальное."
+
+FillColor.title=Заливка фигуры
+FillColor.content="Заполнение выделенной формы цветом, плавным переходом цвета, текстурой или изображением.\n\nВыберите тип заливки щелчком курсора."
+
+FillColor2.title=Заливка фигуры
+FillColor2.content=Щелкните стрелку для выбора из различных эффектов заливки.
+
+Find.title=Найти
+Find.content="Поиск текста в документе.\n\nЩелкните стрелку, чтобы выбрать другие параметры, например "Перейти"."
+
+Find2.title=Найти
+Find2.content="Щелкните стрелку для выбора других параметров, например "Перейти"."
+
+FirstPageIsDifferent.title=Отличающийся колонтитул для первой страницы
+FirstPageIsDifferent.content=Установка отличающихся колонтитулов для первой страницы документа.
+
+FirstRecord.title=Первая запись
+FirstRecord.content=Просмотр первой записи списка получателей.
+
+FirstSection.title=Первый раздел
+FirstSection.content=Переход к первому разделу документа.
+
+FontColor.title=Цвет текста
+FontColor.content="Изменение цвета текста.\n\nЩелкните стрелку для выбора цвета текста."
+
+FontColor2.title=Цвет текста
+FontColor2.content="Щелкните стрелку для выбора цвета текста."
+
+FontName.title=Шрифт
+FontName.content=Изменение внешнего вида шрифта.
+
+FontSize.title=Размер шрифта
+FontSize.content=Изменение размера шрифта.
+
+FooterLinkToPrevious.title=Связать с предыдущим нижним колонтитулом
+FooterLinkToPrevious.content=Связывание текущего заголовка с предыдущим разделом.
+
+FormatAlignCenter.title=По центру
+FormatAlignCenter.content=Выравнивание текста по центру.
+
+FormatAlignDistributed.title=Распределить
+FormatAlignDistributed.content="Выравнивание абзаца одновременно по левому и правому полям за счет добавления дополнительных интервалов между символами там, где это необходимо."
+
+FormatAlignJustify.title=По ширине
+FormatAlignJustify.content="Выравнивание текста одновременно по левому и правому полям за счет добавления дополнительных интервалов между словами там, где это необходимо."
+
+FormatAlignLeft.title=Выровнять текст по левому краю
+FormatAlignLeft.content=Выравнивание текста по левому краю.
+
+FormatAlignRight.title=Выровнять текст по правому краю
+FormatAlignRight.content=Выравнивание текста по правому краю.
+
+FormatObject.title=Формат объекта
+FormatObject.content=Отображение диалогового окна форматирования объекта.
+FormatObject.img=WPSFormatObject
+
+FormatPainter.title=Формат по образцу
+FormatPainter.content="Копирование элементов форматирования из одного места и применение к другому.\n\nДважды щелкните эту кнопку для применения одинакового форматирования к нескольким частям документа."
+
+FullScreenMode.title=Полноэкранный режим
+FullScreenMode.content=Просмотр документа в полноэкранном режиме.
+
+Gallery.title=Коллекция WPS
+Gallery.content="Коллекция WPS предоставляет все виды источников изображений для использования, сбора, редактирования и управления.\n\nДля использования коллекции WPS из Интернета необходимо подключение к Интернету."
+
+GenkoSetting.title=Параметры Genko
+GenkoSetting.content=Применение параметров Genko в текущий документ.
+GenkoSetting.img=WPSGenkoSetting
+
+GotoFootnotes.title=Следующая сноска
+GotoFootnotes.content=Переход к следующей  или концевой сноске в документе.
+
+GotoNextEndnote.title=Следующая концевая сноска
+GotoNextEndnote.content=Переход к следующей концевой сноске в документе.
+
+GotoNextFootnote.title=Следующая сноска
+GotoNextFootnote.content=Переход к следующей сноске в документе.
+
+GotoPrevEndnote.title=Предыдущая концевая сноска
+GotoPrevEndnote.content=Переход к предыдущей концевой сноске в документе.
+
+GotoPrevFootnote.title=Предыдущая сноска
+GotoPrevFootnote.content=Переход к предыдущей сноске в документе.
+
+GotoRecord.title=Перейти к записи
+GotoRecord.content=Просмотр определенной записи в списке получателей.
+
+GotoTocOnOutlining.title=Оглавление
+GotoTocOnOutlining.content=Переход в оглавление документа.
+
+Gridlines.title=Линии сетки
+Gridlines.content="Применение или отмена сетки, используемой для выравнивания объектов в документе."
+
+GrowFont.title=Увеличить шрифт
+GrowFont.content=Увеличение размера шрифта.
+
+HeadRowsRepeat.title=Повторять колонтитул
+HeadRowsRepeat.content="Повторить строки верхнего колонтитула на каждой странице.\n\nВлияет только на таблицы, которые выходят за пределы одной страницы."
+
+HeaderAndFooterSetting.title=Колонтитулы
+HeaderAndFooterSetting.content=Отображение диалогового окна "Колонтитулы".
+
+HeaderFooter.title=Колонтитулы
+HeaderFooter.content=Изменение колонтитулов документа.
+HeaderFooter.img=WPSHeaderFooter
+
+HeaderFooterOptions.title=Параметры колонтитулов
+HeaderFooterOptions.content="Применение параметров колонтитулов текущего раздела или документа, таких как отличающийся колонтитул для первой страницы, разные колонтитулы для чётных и нечётных страниц и отступы от границ документа."
+HeaderFooterOptions.img=WPSHeaderFooterOptions
+
+HeaderLine.title=Показать линию заголовка
+HeaderLine.content=Добавление горизонтальной линии в заголовок.
+
+HeaderLinkToPrevious.title=Связать с предыдущим колонтитулом
+HeaderLinkToPrevious.content=Связывание текущего заголовка с предыдущим разделом.
+
+HighlightColor.title=Цвет выделения текста
+HighlightColor.content="Сделать текст похожим на выделенный цветным маркером.\n\nЩелкните стрелку для выбора цвета выделения."
+
+HighlightColor2.title=Цвет выделения текста
+HighlightColor2.content="Щелкните стрелку для выбора цвета выделения."
+
+HighlightMergeFields.title=Выделить поля слияния
+HighlightMergeFields.content="Выделение полей в документе.\n\nЭто позволяет видеть часть вашего письма, которая будет заменена информацией из выбранного списка получателей."
+
+HomeDetailedSettings.title=HomeDetailedSettings Title
+HomeDetailedSettings.content=HomeDetailedSettings Content
+
+IncreaseIndent.title=Увеличить отступ
+IncreaseIndent.content=Увеличение уровня отступа абзаца.
+
+IncreaseStep.title=Увеличить междустрочный  интервал
+IncreaseStep.content=Увеличение интервала между строками текущего абзаца на 0,25.
+
+InsertAutoText.title=Автотекст
+InsertAutoText.content=Вставка автотекста в верхний или нижний колонтитул для облегчения просмотра и нахождения статьи по теме.
+
+InsertBlankPage.title=Пустая страница
+InsertBlankPage.content=Вставка новой пустой страницы в позицию курсора.
+
+InsertBlankPage2.title=Пустая страница
+InsertBlankPage2.content="Щелкните здесь для вставки горизонтальной или вертикальной пустой страницы."
+
+InsertBookmark.title=Вставить закладку
+InsertBookmark.content="Создание закладки для обозначения определенного места в документе."
+
+InsertCaption.title=Добавить название
+InsertCaption.content="Добавление подписи к изображению или другому объекту.\n\nПодпись представляет собой строку текста с описанием объекта, которая отображается под объектом.\n\nПример: "Рисунок 7. Основные модели погоды"." 
+InsertCaption.img=WPSInsertCaption
+
+InsertCells.title=Вставить ячейки
+InsertCells.content="Показать диалоговое окно "Вставить ячейки"."
+InsertCells.img=WPSInsertCells
+
+InsertChart.title=Вставить диаграмму
+InsertChart.content="Вставленную диаграмму необходимо изменить в WPS Spreadsheets.\n\nПосле закрытия WPS Spreadsheets диаграмма будет отображаться в документе как обычно. Дважды щелкните по диаграмме для редактирования."
+InsertChart.img=WPSInsertChart
+
+InsertClipArt.title=Вставка клипа
+InsertClipArt.content=Выбор клипа в окне задач и вставка его в документ.
+
+InsertColumnLeft.title=Вставить столбцы слева
+InsertColumnLeft.content=Добавление столбца слева от выбранного столбца.
+
+InsertColumnRight.title=Вставить столбцы справа
+InsertColumnRight.content=Добавление столбца справа от выбранного столбца.
+
+InsertComment.title=Создать примечание
+InsertComment.content=Добавление примечания к выделенному фрагменту документа.
+
+InsertDateTime.title=Дата и время
+InsertDateTime.content="Отображение диалогового окна \"Дата и время\" для вставки текущей даты или времени в текущий документ."
+
+InsertField.title=Вставить поле
+InsertField.content=Вставка поля в документ.
+
+InsertFileObject.title=Вставить объект из файла
+InsertFileObject.content=Вставка выбранного файла в документ.
+
+InsertFootnote.title=Вставить сноску
+InsertFootnote.content=Добавление обычной сноски или концевой сноски в документ.
+InsertFootnote.img=WPSFootAndEndnote
+
+InsertHyperlink.title=Вставить гиперссылку
+InsertHyperlink.content="Создание ссылки на веб-страницу, изображение или адрес электронной почты."
+
+InsertIndexTables.title=Вставить оглавление
+InsertIndexTables.content="Показать диалоговое окно \"Оглавление\", и добавить оглавление в документ.\n\nВыбрать уровень оглавления для выделенного абзаца и добавить оглавление."
+
+InsertMergeFields.title=Вставить поле слияния
+InsertMergeFields.content="Вставка в документ любого поля из списка получателей, таких как \"Фамилия\", \"Псевдоним\", \"Название организации\", \"Название отдела\" или \"Должность\"."
+
+InsertMutidiagonalCell.title=Вставить ячейку с диагональными линиями
+InsertMutidiagonalCell.content="Вставка различных типов диагональных линий в ячейку для использования в качестве заголовков.\n\nДиагональные линии в заголовках таблицы можно перемещать."
+
+InsertNumber.title=Вставить номер
+InsertNumber.content=Вставка в документ настраиваемого числового формата.
+
+InsertObject.title=Вставить объект
+InsertObject.content="Вставка внедренного объекта в документ.\n\nЩелкните стрелку для добавления содержимого файла в документ."
+
+InsertObject2.title=Вставить объект
+InsertObject2.content="Щелкните стрелку для добавления содержимого файла в документ."
+
+InsertPageBreak.title=Разрыв страницы
+InsertPageBreak.content="Начало следующей страницы с текущей позиции курсора, и перемещение после установки курсора части содержимого на новую страницу."
+
+InsertPageNumbers.title=Вставить номер страницы
+InsertPageNumbers.content=Вставка номеров страниц в документ.
+
+InsertPictureFromFile.title=Вставить изображение
+InsertPictureFromFile.content=Вставка изображения из файла.
+
+InsertPictureFromFile2.title=Вставить изображение
+InsertPictureFromFile2.content="Щелкните для добавления изображения из файла или результата сканирования."
+
+InsertRowAbove.title=Вставить строки сверху
+InsertRowAbove.content=Добавление новой строки над выделенной строкой.
+
+InsertRowBelow.title=Вставить строки снизу
+InsertRowBelow.content=Добавление новой строки под выделенной строкой.
+
+InsertSectionAfter.title=Вставить раздел после
+InsertSectionAfter.content=Вставка нового раздела после текущего раздела.
+
+InsertSectionBefore.title=Вставить раздел перед
+InsertSectionBefore.content=Добавление раздела до текущего раздела.
+
+InsertSymbol.title=Вставить символ
+InsertSymbol.content="Вставка символов, отсутствующих на клавиатуре, например символов авторского права, товарного знака, абзаца, а также символов в кодировке Юникод."
+
+InsertTheEndnote.title=Вставить концевую сноску
+InsertTheEndnote.content="Добавление концевой сноски в документ."
+
+InsertTheFootnote.title=Вставить сноску
+InsertTheFootnote.content="Добавление сноски в документ."
+
+InsertWordArt.title=Вставить объект WordArt
+InsertWordArt.content=Открытие диалогового окна \"Коллекция\" для выбора стиля фигурного текста и редактирования содержимого.
+
+InsertWordField.title=Вставка следующих полей
+InsertWordField.content="Для решения проблемы разрыва страницы в слиянии электронной почты, если N строк должны быть показаны на одной странице, то вставьте N-1 следующих полей."
+
+Italic.title=Курсив
+Italic.content=Выделение текста курсивом.
+
+KOSCloudFeedbackTip.title=Отзывы и предложения
+KOSCloudFeedbackTip.content=Помогите нам улучшить WPS Office.
+
+KOSCloudInformationTip.title=Руководство пользователя
+KOSCloudInformationTip.content=Вводное руководство по использованию пространства офиса.
+
+KOSCreatecloudLinkTip.title=За 10 секунд вы можете:
+KOSCreatecloudLinkTip.content=Просканировать QR код и получить доступ к документу через телефон, WeChat или MiChat для редактирования.
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=Неверное имя пользователя или пароль
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=Неверный пароль
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=Пароли не совпадают
+
+KOSOpenCloudFileTip.title=Открыть из Cloud Docs
+KOSOpenCloudFileTip.content=Изменения, внесенные в документы в Cloud Docs, будут немедленно сохранены.
+
+KOSRoamingfileTip.title=Роуминг файлов
+KOSRoamingfileTip.content="Открытые файлы будут автоматически перемещены в Cloud Docs и будут доступны на всех ваших устройствах.\n\nВы сможете начать работу в любое время и в любом месте."
+
+KOSSaveFileTocloudTip.title=Сохранить в Cloud Docs
+KOSSaveFileTocloudTip.content=Сохранить файл в облачном сервисе. Позволяет работать с одним документом с нескольких устройств.
+
+KOSUserLoginCloudTextBtnTip.title=Войти
+KOSUserLoginCloudTextBtnTip.content=Войти, чтобы пользоваться бесплатными услугами облачного сервиса, такими как, документы из Интернета, резервное хранение файлов, шаблоны из Интернета и библиотека ресурсов.
+
+KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
+KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+
+KOSUserLogoutCloudTip.title=Вход выполнен
+KOSUserLogoutCloudTip.content=Вы вошли в облачный сервис WPS Office. Щёлкните здесь для выхода.
+
+KingsoftEquationEditor.title=Вставить формулу
+KingsoftEquationEditor.content=Вставка математических формул с использованием Редактора формул.
+KingsoftEquationEditor.img=WPSKingsoftEquationEditor
+
+LastRecord.title=Последняя запись
+LastRecord.content=Просмотр последней записи списка получателей.
+
+LastSection.title=Последний раздел
+LastSection.content=Переход к последнему разделу документа.
+
+LineColor.title=Контур фигуры
+LineColor.content="Выбор цвета, ширины и стиля линии для контура выбранной формы. \n\nЩёлкните стрелку для выбора детальных параметров контура."
+
+LineColor2.title=Контур фигуры
+LineColor2.content=Щёлкните стрелку для выбора детальных параметров контура.
+
+LineSpacingShow.title=Междустрочный интервал
+LineSpacingShow.content=Изменение расстояния между строками текста.
+
+LinktoPreviousHeader.title=Связать с предыдущим нижним колонтитулом 
+LinktoPreviousHeader.content=Сделать верхний и нижний колонтитулы текущего раздела такими же, как в предыдущем.
+
+LocateToSection.title=Переместить в раздел
+LocateToSection.content=Перемещение в другой раздел.
+
+LockSideBySide.title=Синхронная прокрутка
+LockSideBySide.content="Синхронизация прокрутки двух документов таким образом, чтобы они прокручивались одновременно.\n\nДля применения этой функции включите \"Просмотр в одном ряду\"."
+
+LooseLineSpacing.title=Разреженный междустрочный интервал
+LooseLineSpacing.content=Установка межстрочного интервала для выделенного абзаца на 1,5 пт с привязкой к сетке.
+
+Macro.title=Макросы
+Macro.content="Отображение диалогового окна \"Макросы\". Просмотр списка макросов для выполнения, создания или удаления макроса."
+
+Macro2.title=Макросы
+Macro2.content="Просмотр списка макросов для выполнения, создания или удаления макроса."
+
+Mail.title=Рассылки
+Mail.content="Щёлкните здесь, чтобы открыть вкладку \"Рассылки\" с такими функциями, как, например, \"Слияние с электронной почтой\".
+
+MailMergeRecipients.title=Получатели
+MailMergeRecipients.content=Добавление или удаление получателей из списка получателей слияния с электронной почтой.
+
+MarkVersion.title=Резервное копирование вручную
+MarkVersion.content="Не закрывая файл, вы можете создать резервную копию текущего файла в хранилище файлов, и добавить примечания к файлу резервной копии."
+
+Markup.title=Пометки исправлений
+Markup.content=Показать или скрыть пометки исправлений в документе.
+
+MatchFields.title=Подбор полей
+MatchFields.content="Подбор поля позволяет Writer определять значения различных полей в списке получателей. Например, можно указать, что ваши параметры поля \"Почтовый индекс\" эквивалентны встроенному полю \"Почтовый индекс\"."
+
+MergeCells.title=Объединение ячеек
+MergeCells.content=Слияние выделенных ячеек в одну.
+
+MergeToDiffNewDoc.title=Слияние в другой документ
+MergeToDiffNewDoc.content=Экспорт содержимого слияния почты разных документов согласно списку получателей.
+
+MergeToEmail.title=Слияние почты
+MergeToEmail.content=Отправка объединенного содержимого по электронной почте.
+
+MergeToNewDoc.title=Слияние в новый документ
+MergeToNewDoc.content=Экспорт объединенного содержимого в новый документ.
+
+MergeToPrinter.title=Слияние при печати
+MergeToPrinter.content=Печать объединенного содержимого.
+
+NavigationPane.title=Панель навигации
+NavigationPane.content="Показать или скрыть панель навигации."
+NavigationPane.img=WPSNavigationPane
+
+NewWindow.title=Новое окно
+NewWindow.content="Открыть новое окно с видом текущего документа."
+
+SplitWindow.title=Разделить окно
+SplitWindow.content="Разделение текущего окна на две части. Это позволяет одновременно просматривать разные разделы документа."
+
+SplitWindowMenu.title=Разделить окно
+SplitWindowMenu.content="Щелкните для разделения текущего окна по горизонтали или вертикали."
+
+NextChange.title=Следующее исправление
+NextChange.content="Переход к следующему исправлению в документе, чтобы принять или отклонить его."
+
+NextComment.title=Следующее примечание
+NextComment.content=Переход к следующему примечанию в документе.
+
+NextHeader.title=Показать следующий
+NextHeader.content=Переход к следующему разделу верхнего или нижнего колонтитула, основываясь на текущей позиции курсора.
+
+NextRecord.title=Следующая запись
+NextRecord.content=Просмотр следующей записи списка получателей.
+
+NextSection.title=Следующий раздел
+NextSection.content=Переход к следующему разделу.
+
+NextTextBox.title=Следующая надпись
+NextTextBox.content=Переход в следующее текстовое поле, связанное с текущим.
+
+NudgeShadowDown.title=Сдвинуть тень вниз
+NudgeShadowDown.content=Перемещение тени выделенного объекта вниз.
+
+NudgeShadowLeft.title=Сдвинуть тень влево
+NudgeShadowLeft.content=Перемещение тени выделенного объекта влево.
+
+NudgeShadowRight.title=Сдвинуть тень вправо
+NudgeShadowRight.content=Перемещение тени выделенного объекта вправо.
+
+NudgeShadowUp.title=Сдвинуть тень вверх
+NudgeShadowUp.content=Перемещение тени выделенного объекта вверх.
+
+Numbering.title=Нумерация
+Numbering.content="Начало нумерованного списка.\n\nЩелкните стрелку для выбора формата нумерации."
+
+Numbering2.title=Нумерация
+Numbering2.content="Щелкните стрелку для выбора формата нумерации."
+
+ObjectSelect.title=Область выделения
+ObjectSelect.content="Отображение области выделения, которая позволяет выделить отдельные объекты, изменить их порядок, а также показать или скрыть их."
+ObjectSelect.img=WPSObjectSelect
+
+OnePage.title=Одна страница
+OnePage.content="Изменение масштаба документа так, чтобы странница целиком поместилась в окне."
+
+OpenDataSource.title=Открыть источник данных
+OpenDataSource.content="Открытие источников данных в локальной папке, например, файлов электронных таблиц, баз данных и текстовых файлов."
+
+OpenDataSource2.title=Открыть источник данных
+OpenDataSource2.content=Щелкните здесь, чтобы открыть или закрыть файлы источников данных.
+
+OutLine.title=Режим структуры
+OutLine.content="Просмотр документа в виде структуры и отображение инструментов, используемых при работе в режиме структуры."
+
+OutLineLevelComboOnOutlining.title=Уровень структуры
+OutLineLevelComboOnOutlining.content=Установка уровня структуры для выделенного абзаца.
+
+PageLayoutDetailedSettings.title=PageLayoutDetailedSettings Title
+PageLayoutDetailedSettings.content=PageLayoutDetailedSettings Content
+
+PageNumber.title=Вставить номер страницы
+PageNumber.content="Отображение диалогового окна \"Номера страниц\" и применение параметров номера страницы к текущему разделу или ко всему документу."
+
+PageNumberFormat.title=Формат номера страницы
+PageNumberFormat.content=Выбор формата чисел для номеров страниц в текущем документе.
+
+PageNumberStart.title=Начать нумерацию страниц
+PageNumberStart.content=Выбор числового формата для нумерации страниц в текущем документе.
+
+PageOrientation.title=Ориентация страницы
+PageOrientation.content=Переключение ориентации страниц между книжной и альбомной.
+
+PageSetup.title=Параметры страницы
+PageSetup.content=Отображение диалогового окна \"Параметры страницы\".
+PageSetup.img=WPSPageSetup
+
+PageWidth.title=По ширине страницы
+PageWidth.content="Изменение масштаба документа так, чтобы ширина страницы совпала с шириной окна."
+
+ParagraphDetailedSettings.title=ParagraphDetailedSettings Title
+ParagraphDetailedSettings.content=ParagraphDetailedSettings Content
+
+PhoneticGuide.title=Фонетическое руководство
+PhoneticGuide.content="Отображение фонетических символов для уточнения произношения.\n\nЩёлкните стрелку для выбора функций \"Фонетическое руководство\", \"Изменить регистр\", \"Окаймлённые знаки\" и \"Граница символа\".
+
+PhoneticGuide2.title=Другие функциии
+PhoneticGuide2.content="Щёлкните стрелку для выбора функций \"Фонетическое руководство\", \"Изменить регистр\", \"Окаймлённые знаки\" и \"Граница символа\".
+
+PictureAdjust.title=Подстройка изображения
+PictureAdjust.content=Увеличение или уменьшение контраста и яркости выбранного изображения.
+
+PictureColor.title=Цвет
+PictureColor.content="Изменение цвета выбранного изображения для придания ему черно-белого, обесцвеченного или прозрачного цвета."
+
+PictureCrop.title=Обрезка
+PictureCrop.content=Обрезка изображения с целью удаления ненужных фрагментов.
+
+PictureFill.title=Заливка изображения
+PictureFill.content="Заливка выделенного объекта цветом, применение градиента, текстуры, узоров и изображений.\n\nЩелкните стрелку, чтобы выбрать другие способы заливки."
+
+PictureFill2.title=Заливка изображения
+PictureFill2.content=Щелкните стрелку для выбора способа заливки.
+
+PictureOutline.title=Контур изображения
+PictureOutline.content="Выбор цвета, ширины и типа линии для контура выделенного объекта.\n\nЩелкните стрелку, чтобы выбрать подробные параметры для контура."
+
+PictureOutline2.title=Контур изображения
+PictureOutline2.content=Щелкните стрелку для выбора подробных параметров для контура.
+
+PictureSetTransparentColor.title=Установить прозрачный цвет
+PictureSetTransparentColor.content="Установка прозрачного цвета изображения.\n\nПри щелчке пикселя на текущем рисунке все пиксели соответствующего цвета становятся прозрачными."
+
+PictureSize.title=Размер изображения
+PictureSize.content="Изменение размера, угла поворота и масштаба выделенной фигуры."
+
+PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
+PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+
+PreviousChange.title=Предыдущее исправление
+PreviousChange.content="Переход к предыдущему исправлению в документе для его принятия или отклонения."
+
+PreviousComment.title=Предыдущее примечание
+PreviousComment.content=Переход к предыдущему примечанию в документе.
+
+PreviousHeader.title=Показать предыдущий
+PreviousHeader.content="Переход к предыдущему разделу верхнего или нижнего колонтитула, основанный на текущей позиции курсора."
+
+PreviousRecord.title=Предыдущая запись
+PreviousRecord.content=Просмотр предыдущей записи списка получателей.
+
+PreviousSection.title=Предыдущий раздел
+PreviousSection.content=Переход к предыдущему разделу.
+
+PreviousTextBox.title=Предыдущая надпись
+PreviousTextBox.content="Переход к предыдущему текстовому полю, связанному с выбранным текстовым полем."
+
+Print.title=Печать
+Print.content="Выбор дополнительных параметров печати, таких как принтер, диапазон печати, число печатаемых экземпляров, количество страниц на листе и масштаб."
+
+Print2.title=Печать
+Print2.content="Щелкните здесь для выбора дополнительных параметров печати или использования настройки по умолчанию для быстрой печати."
+
+PrintDirect.title=Быстрая печать
+PrintDirect.content=Отправка документа на используемый по умолчанию принтер без внесения изменений.
+
+PrintLayoutView.title=Разметка страницы
+PrintLayoutView.content="Просмотр документа в том виде, в котором он будет напечатан.\n\nВ этом режиме хорошо видны начало и конец каждой страницы, а также все колонтитулы этой страницы."
+
+PrintPreview.title=Предварительный просмотр
+PrintPreview.content=Просмотр страниц перед печатью и внесение необходимых изменений.
+
+PrintPreviewZoomCombo.title=Масштаб
+PrintPreviewZoomCombo.content=Выбор размера масштабирования текущего документа.
+
+PrintShowViewRuler.title=Линейка
+PrintShowViewRuler.content="Отображение линеек, которые используются для измерения и выравнивания объектов на странице."
+
+PromoteOnOutlining.title=Повысить уровень
+PromoteOnOutlining.content=Перемещение выбранного элемента на более высокий уровень.
+
+PromoteOnParagraph.title=Повысить уровень оглавления
+PromoteOnParagraph.content=Перемещение выбранного абзаца на более высокий уровень оглавления.
+
+PromoteToHighestLevelOnOutlining.title=Повысить до 1-го уровня
+PromoteToHighestLevelOnOutlining.content=Перемещение данного элемента на самый верхний уровень структуры.
+
+PromoteToHighestLevelOnParagraph.title=Повысить до 1-го уровня
+PromoteToHighestLevelOnParagraph.content=Перемещение данного элемента на самый верхний уровень оглавления.
+
+RB_Clipboard.title=Буфер обмена
+RB_Clipboard.content=Просмотр элементов в буфере обмена.
+RB_Clipboard.img=WPSClipboard
+
+RB_Font.title=Шрифт
+RB_Font.content="Отображение диалогового окна \"Шрифт\"."
+RB_Font.img=WPSFont
+
+RB_Paragraph.title=Абзац
+RB_Paragraph.content="Отображение диалогового окна \"Абзац\"."
+RB_Paragraph.img=WPSParagraph
+
+RB_Style.title=Стили и форматирование
+RB_Style.content=Отображение стилей и форматирования окна задач.
+RB_Style.img=WPSStyle
+
+RbTableOutsideBorder.title=Внешние границы
+RbTableOutsideBorder.content="Изменение внешних границ выделенных абзацев, ячеек таблицы и рисунков."
+
+RbTableOutsideBorder2.title=Внешние границы
+RbTableOutsideBorder2.content="Щелкните стрелку для выбора границы."
+
+RecentFastCalc.title=Быстрый подсчет
+RecentFastCalc.content="Вычисление суммы, среднего, максимального или минимального значения для выбранной строки или столбца данных.\n\nРезультаты будут отображены в ячейке, следующей за выделенной ячейкой в той же строке или столбце. Если ячеек не существует, будут созданы новая строка или столбец."
+
+RecentFontColor.title=Цвет текста
+RecentFontColor.content="Изменение цвета текста.\n\nЩелкните стрелку для выбора цвета текста."
+
+RecentFontColor2.title=Цвет текста
+RecentFontColor2.content="Щелкните стрелку для выбора цвета текста."
+
+RecentTableShadingColor.title=Цвет заливки
+RecentTableShadingColor.content="Цвет фона позади выделенного текста или абзаца.\n\nЩелкните стрелку для выбора цвета фона."
+
+RecentTableShadingColor2.title=Цвет заливки
+RecentTableShadingColor2.content=Щелкните стрелку для выбора цвета фона.
+
+RecordMacro.title=Запись макроса
+RecordMacro.content=Отображение диалогового окна \"Запись макроса\" и начало записи макроса."
+
+ReducedStep.title=Уменьшенный межстрочный интервал
+ReducedStep.content=Уменьшение междустрочного интервала выделенного абзаца до 0,25.
+
+RejectChangeOnTB.title=Отклонить выбранные изменения
+RejectChangeOnTB.content=Отклонение текущего изменения и удаление примечания.
+
+RejectChangeOnTB2.title=Отклонить выбранные изменения
+RejectChangeOnTB2.content=Щелкните стрелку для отклонения всех изменений в документе.
+
+RejectRevisionOnTB.title=Отклонить изменение
+RejectRevisionOnTB.content=Отклонение выбранных изменений в документе.
+
+RejectRevisionOnTB2.title=Отклонить изменение
+RejectRevisionOnTB2.content="Щелкните для отклонения всех изменений в документе."
+
+RelocateDownOnOutlining.title=Переместить вниз
+RelocateDownOnOutlining.content=Перемещение выбранного элемента ниже в структуре.
+
+RelocateUpOnOutlining.title=Переместить вверх
+RelocateUpOnOutlining.content=Перемещение выбранного элемента выше в структуре.
+
+Replace.title=Заменить
+Replace.content=Замена содержимого текста в документе.
+
+ResetPicture.title=Восстановить исходное изображение
+ResetPicture.content=Отмена всех изменений форматирования, внесенных в изображение.
+
+RestartPageNumber.title=Перезапуск нумерации страниц
+RestartPageNumber.content=Восстановление начального номера страницы текущего документа.
+
+RestrictEditing.title=Ограничить редактирование
+RestrictEditing.content="Ограничение способов изменения или форматирования определенных частей документа пользователями.\n\nМожно запретить изменение форматирования, принудительно отслеживать все изменения или разрешить только ввод примечаний."
+
+Ruler.title=Линейка
+Ruler.content="Отображение линеек, которые используются для измерения и выравнивания объектов на странице."
+
+RunMacro.title=Макросы
+RunMacro.content="Отображение диалогового окна \"Макросы\" и вывод списка макросов для выполнения, создания или удаления макроса."
+
+SectionDetailedSettings.title=SectionDetailedSettings Title
+SectionDetailedSettings.content=SectionDetailedSettings Content
+
+Security.title=Безопасность макросов
+Security.content=Настройка параметров безопасности макросов.
+
+Select.title=Выделить
+Select.content=Выделение текста или объектов в документе.
+
+SendBackward.title=Поместить на задний план
+SendBackward.content="Размещение выделенного объекта позади всех остальных объектов."
+
+SendBackward2.title=Поместить на задний план
+SendBackward2.content=Размещение выделенного объекта позади всех остальных объектов.
+
+Separator.title=Показать разделитель сносок
+Separator.content="Отобразить или скрыть разделитель сносок в нижней части документа."
+
+ShadowColor.title=Цвет тени
+ShadowColor.content="Выбор цвета тени для выбранного объекта.\n\nЩелкните стрелку, чтобы выбрать другие варианты цвета тени."
+
+ShadowColor2.title=Цвет тени
+ShadowColor2.content="Щелкните стрелку для выбора цвета тени."
+
+ShadowOnOff.title=Показать или скрыть тень
+ShadowOnOff.content=Показать или скрыть тень для выделенного объекта.
+
+ShadowSetting.title=Эффекты тени
+ShadowSetting.content=Выбор эффектов тени для выделенного объекта.
+
+ShapeSize.title=Размер фигуры
+ShapeSize.content="Задание размера, угла поворота и масштаба для выделенной фигуры."
+
+Shapes.title=Фигуры
+Shapes.content="Вставка готовых фигур, таких как прямоугольники, круги, стрелки, линии, элементы блок-схемы и выноски."
+
+ShowDocumentMap.title=Схема документа
+ShowDocumentMap.content="Показать или скрыть схему документа."
+
+ShowDocumentMap2.title=Схема документа
+ShowDocumentMap2.content="Щёлкните здесь для выбора места для показа области "Схема документа"."
+
+ShowFirstLineOnly.title=Показать только первую строку
+ShowFirstLineOnly.content=Показать только первую строку каждого элемента в структуре.
+
+ShowFirstPageNumber.title=Показать номер первой страницы
+ShowFirstPageNumber.content=Показать или скрыть номер страницы на первой странице документа.
+
+ShowFormatting.title=Показать форматирование текста
+ShowFormatting.content=Показать или скрыть форматирование текста в структуре.
+
+ShowGridlines.title=Показать сетку таблицы
+ShowGridlines.content="Показать линии сетки в таблице без границ."
+
+ShowHeaderOrFooter.title=Переключить колонтитул
+ShowHeaderOrFooter.content=Переключение между верхним и нижним колонтитулами текущей страницы в документе.
+
+ShowHideFormattingMarks.title=Показать или скрыть редакторские правки
+ShowHideFormattingMarks.content=Отображение всех символов форматирования в документе.
+
+ShowHideTextOctopus.title=Показать или скрыть редакторские правки
+ShowHideTextOctopus.content=Показать или скрыть кнопку размещения абзацев в документе.
+ShowHideTextOctopus.img=WPSShowHideTextOctopus
+
+ShowLevelOnOutlining.title=Показать уровень
+ShowLevelOnOutlining.content="Выбор уровней, отображаемых в структуре.\n\nБудут показаны выделенный уровень и все более высокие уровни."
+
+ShrinkFont.title=Уменьшить шрифт
+ShrinkFont.content=Уменьшение размера шрифта.
+
+SimplifiedChinese.title=Упрощенный
+SimplifiedChinese.content=Преобразование в символы упрощенного китайского.
+
+SplitCells.title=Разделение ячеек
+SplitCells.content=Разбиение выделенных ячеек на несколько новых ячеек.
+
+SplitSection.title=Разрыв раздела
+SplitSection.content=Вставка следующего разрыва раздела в документ.
+
+SplitSection2.title=Разрыв раздела
+SplitSection2.content="Щелкните здесь для выбора типа разрыва раздела."
+
+SplitTable.title=Разделение таблицы
+SplitTable.content=Разделение одной таблицы на две по строкам или столбцам.
+
+StopAutoVersion.title=Остановить автоматическое резервное копирование
+StopAutoVersion.content=Остановка автоматического резервного копирования текущего документа.
+
+StopRecordMacro.title=Остановить запись
+StopRecordMacro.content=Остановка записи макроса.
+
+Strikethought.title=Зачеркивание
+Strikethought.content="Добавление линии, проходящей по середине выделенного текста.\n\nЩелкните стрелку, чтобы добавить знак ударения."
+
+Strikethought2.title=Другие функции
+Strikethought2.content="Щелкните стрелку для добавления знака ударения."
+
+Subscript.title=Подстрочный
+Subscript.content=Вставка небольших символов ниже линии текста.
+
+Superscript.title=Надстрочный
+Superscript.content=Вставка небольших символов выше линии текста.
+
+Superscript2.title=Другие функции
+Superscript2.content=Щелкните стрелку для выбора надстрочных или подстрочных знаков.
+
+SwitchWindow.title=Переключение окон
+SwitchWindow.content=Переключиться на другое открытое окно.
+
+Table.title=Таблица
+Table.content="Рисование или вставка таблицы в документ и преобразование текста в таблицу или наоборот."
+
+TableAutoAdjust.title=Автоподбор
+TableAutoAdjust.content=Автоматическое изменение ширины столбцов и строк в таблице.
+
+TableBorderColor.title=Цвет границы
+TableBorderColor.content="Задание цвета границы для выбранной таблицы.\n\nЩелкните стрелку для выбора цвета границы."
+
+TableBorderColor2.title=Цвет границы
+TableBorderColor2.content="Щелкните стрелку для выбора цвета границы."
+
+TableBorderStyle.title=Тип линии
+TableBorderStyle.content=Изменение типа линии, используемой для рисования границ.
+
+TableBorderWidth.title=Ширина линии
+TableBorderWidth.content="Изменение ширины линии, используемой для рисования границ."
+
+TableContents.title=Оглавление
+TableContents.content=Добавление в документ оглавления перед основным текстом.
+
+TableEraser.title=Ластик для таблицы
+TableEraser.content=Стирание границ таблицы в документе.
+
+TableProperties.title=Свойства таблицы
+TableProperties.content="Изменение дополнительных свойств таблицы, таких как стиль обтекания, отступы, перенос на следующую страницу."
+TableProperties.img=WPSTableProperties
+
+TableSelectMenu.title=Выбор таблицы
+TableSelectMenu.content="Выбор текущей ячейки, ряда, столбца или всей таблицы, а также выбор таблицы с пунктирными границами."
+
+TableShadingColor.title=Заливка
+TableShadingColor.content="Цвет фона позади выделенного текста или абзаца.\n\nЩелкните стрелку для выбора цвета заливки."
+
+TableShadingColor2.title=Заливка
+TableShadingColor2.content="Щелкните стрелку для выбора цвета заливки."
+
+Tabs.title=Вкладки
+Tabs.content="Просмотр вкладок диалогового окна и установка позиции табуляции текста."
+
+TaskPane.title=Окно задач
+TaskPane.content=Показать или скрыть окно задач.
+
+TextBox.title=Горизонтальное текстовое поле
+TextBox.content=Вставка в документ горизонтального текстового поля.
+
+TextBox2.title=Добавление надписи
+TextBox2.content="Щелкните здесь для добавления горизонтального, вертикального или многострочного текстового поля."
+
+TextDirection.title=Направление текста
+TextDirection.content="Изменение ориентации текста на вертикальную или горизонтальную для текущего раздела, всего документа, текстового поля или таблицы."
+
+TightLineSpacing.title=Междустрочный интервал
+TightLineSpacing.content=Установка для выделенных абзацев одинарного междустрочного интервала без привязки к сетке.
+
+TrackChanges.title=Исправления
+TrackChanges.content="Отслеживание всех изменений, внесённых в документ, в том числе вставок, удалений и форматирования."
+
+TrackChanges2.title=Исправления
+TrackChanges2.content="Щелкните здесь для выбора параметров исправлений или записей примечаний, или изменение рецензента информации."
+
+TraditionalChinese.title=Традиционный
+TraditionalChinese.content=Преобразование в символы традиционного китайского письма.
+
+Underline.title=Подчеркивание
+Underline.content="Подчеркивание выделенного текста.\n\nЩелкните стрелку для выбора стиля подчеркивания."
+
+Underline2.title=Подчеркивание
+Underline2.content="Щелкните стрелку для выбора стиля подчеркивания."
+
+UpdateTocOnOutlining.title=Обновление оглавления
+UpdateTocOnOutlining.content="Обновление оглавления таким образом, чтобы для каждого его элемента был указан правильный номер страницы."
+
+VerbSideBySide.title=Исходное положение окна
+VerbSideBySide.content="Исходное положение окна для документов, сравниваемых рядом, чтобы они делили ширину экрана поровну.\n\nЧтобы включить эту функцию, включите функцию "Просмотр рядом"."
+
+ViewMergedData.title=Просмотр данных слияния
+ViewMergedData.content="Замена полей слияния в ваших документах фактическими данными из списка получателей для предпросмотра."
+
+ViewRuler.title=Линейка
+ViewRuler.content="Отображение линеек, которые используются для измерения и выравнивания объектов в документе."
+
+VisualBasicEditor.title=Редактор Visual Basic
+VisualBasicEditor.content=Открытие редактора Visual Basic для редактирования макросов.
+
+WaterMark.title=Подложка
+WaterMark.content="Вставка прозрачного текста и изображения позади содержания на странице.\n\nЧасто это используется для указания того, что документ содержит специальную информацию, например,  зашифрованные и конфиденциальные данные и запрет копирования, или для маркировки источника документа, например, добавлением логотипа авторского права и информации об авторе."
+
+WebLayoutView.title=Режим веб-документа
+WebLayoutView.content=Просмотр документа в виде веб-страницы.
+
+WordArtAlignment.title=Выравнивание
+WordArtAlignment.content="Выравнивание фигурного текста."
+
+WordArtDetailedSettings.title=WordArtDetailedSettings Title
+WordArtDetailedSettings.content=WordArtDetailedSettings Content
+
+WordArtFill.title=Заливка
+WordArtFill.content="Заливка выделенного фигурного текста сплошным цветом, градиентом, текстурой и изображением.\n\nЩёлкните стрелку для выбора способа заливки фигурного текста."
+
+WordArtFill2.title=Заливка
+WordArtFill2.content=Щёлкните стрелку для выбора способа заливки.
+
+WordArtGallery.title=Коллекция
+WordArtGallery.content=Изменение стиля выделенного фигурного текста.
+
+WordArtOutline.title=Контур
+WordArtOutline.content="Выбор цвета, ширины и типа линии для контура выделенного фигурного текста.\n\nЩелкните стрелку для выбора стиля контура."
+
+WordArtOutline2.title=Контур
+WordArtOutline2.content=Щелкните стрелку для выбора стиля контура.
+
+WordArtSameLetterHeights.title=Выровнять по высоте
+WordArtSameLetterHeights.content=Выравнивание всех букв выбранного объекта WordArt по высоте.
+
+WordArtShapePalette.title=Форма
+WordArtShapePalette.content=Изменение стиля формы для выделенного фигурного текста.
+
+WordArtSize.title=Размер
+WordArtSize.content="Выбор размера, угла поворота и масштаба для выделенного фигурного текста."
+
+WordArtVerticalText.title=Вертикальный
+WordArtVerticalText.content="Рисование фигурного текста по вертикали с символами, расположенными один над другим."
+
+WordCount.title=Статистика
+WordCount.content="Подсчёт числа страниц, слов, символов и абзацев в документе.\n\nЧисло слов можно также посмотреть в строке состояния в нижней части окна"
+
+WordTools.title=Инструменты форматирования
+WordTools.content="Применение \"интеллектуального\" форматирования к документу.\n\nНапример, таких параметров как \"удалить пробелы\", \"отступ первой строки абзаца на 2 символа\", и других заданных параметров документа."
+
+WorkSpace_Backup.title=WorkSpace_Backup Title
+WorkSpace_Backup.content=WorkSpace_Backup Content
+
+Zoom.title=Масштаб
+Zoom.content="Открыть диалоговое окно \"Масштаб\" для выбора параметров масштабирования документа."
+
+m_Align.title=Выровнять
+m_Align.content="Выравнивание по краям нескольких выделенных объектов.\n\nТакже можно выровнять их по центру или равномерно распределить по всей ширине страницы."
+
+m_Breaks.title=Вставить разрывы страниц и раздела
+m_Breaks.content="Добавление в документ разрыва страницы, раздела или колонки."
+
+m_CharacterScaling.title=Масштабирование символов
+m_CharacterScaling.content=Выбрать масштаб символов для выделенного текста.
+
+m_ColumnsPalette.title=Колонки
+m_ColumnsPalette.content=Разделить текст на две или более колонки.
+
+m_Group.title=Группировать
+m_Group.content="Группирование объектов вместе, как единого объекта."
+
+m_LineNumber.title=Номера строк
+m_LineNumber.content=Добавление номера строки на полях рядом с каждой строкой документа.
+
+m_LineSpacing.title=Междустрочный интервал
+m_LineSpacing.content=Изменение расстояние между строками текста.
+
+m_Margins.title=Поля
+m_Margins.content=Выбор размеров полей отступов для всего документа или текущего раздела.
+
+m_PageBorder.title=Границы страниц
+m_PageBorder.content=Добавление или изменение границы страницы.
+
+m_PageSize.title=Размер страницы
+m_PageSize.content="Выбор формата бумаги для текущего раздела или всего документа."
+
+m_Rotate.title=Вращение
+m_Rotate.content=Поворот или зеркальное отображение выделенного объекта.
+
+m_ShowReviewer.title=Показать исправления
+m_ShowReviewer.content=Выбор разметок для отображения в документе.
+
+m_Style.title=Создать стиль
+m_Style.content="Показать диалоговое окно \"Новый стиль\", и создать новый стиль в панели \"Стили и форматирование\"."
+
+m_Style2.title=Создать стиль
+m_Style2.content="Щёлкните здесь для применения других функций, например, очистки форматирования."
+
+m_Wrapping.title=Обтекание текстом
+m_Wrapping.content="Изменение вида обтекания текстом для выделенного объекта, например, в квадрате и позади текста."
+
+m_tocLevel.title=Уровень оглавления
+m_tocLevel.content="Выбрать уровень оглавления для выделенного абзаца."
+
+sp_DeleteComment.title=Удалить примечание
+sp_DeleteComment.content="Удалить выделенное примечание."
+
+sp_DeleteComment2.title=Удалить примечание
+sp_DeleteComment2.content="Щелкните здесь для удаления всех примечаний в документе."
+
+sp_Paste.title=Вставить
+sp_Paste.content="Вставка содержимого из буфера обмена."
+
+sp_Paste2.title=Вставить
+sp_Paste2.content="Щёлкните здесь для выбора других функций, таких как, вставка из буфера только значений или форматирование."
+
+weibotool.title=Weibotool
+weibotool.content="Преобразование документа в изображение и предоставление для коллективного доступа в Weibo."

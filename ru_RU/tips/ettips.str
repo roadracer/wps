@@ -1,0 +1,989 @@
+[TIPS]
+3DColor.title=Цвет 3-D
+3DColor.content=Заполнение цветом, выделенной фигуры 3-D.\n\nЩёлкните стрелку для выбора цвета 3-D.
+
+3DColor2.title=Цвет 3-D
+3DColor2.content=Щёлкните стрелку для выбора цвета 3-D.
+
+3DDepthMenu.title=Глубина
+3DDepthMenu.content=Изменение высоты выделенной фигуры 3-D.
+
+3DOnOff.title=Применить или отменить эффект 3-D
+3DOnOff.content=Применение или отмена эффекта 3-D.
+
+3DStylePalette.title=Эффекты 3-D
+3DStylePalette.content=Применение 3-D эффекта к фигуре.
+
+3DSurfaceMenu.title=Поверхность
+3DSurfaceMenu.content=Выбор типа поверхности для выделенной фигуры 3-D в документе.
+
+3DTiltDown.title=Наклон вперед
+3DTiltDown.content=Наклон фигуры вперёд.
+
+3DTiltLeft.title=Наклон влево
+3DTiltLeft.content=Наклон фигуры влево.
+
+3DTiltRight.title=Наклон вправо
+3DTiltRight.content=Наклон фигуры вправо.
+
+3DTiltUp.title=Наклон назад
+3DTiltUp.content=Наклон фигуры назад.
+
+AdvancedFilter.title=Расширенный фильтр
+AdvancedFilter.content=Добавление критериев отбора записей, включаемых в результат запроса.
+
+Align.title=Выровнять
+Align.content=Выравнивание по краям нескольких выделенных объектов.\n\nТакже можно выровнять их по центру или равномерно распределить по всей ширине страницы.
+
+AlignCenter.title=Выровнять по центру
+AlignCenter.content=Выравнивание текста по центру.
+
+AlignLeft.title=Выровнять текст по левому краю
+AlignLeft.content=Выравнивание текста по левому краю.
+
+AlignRight.title=Выровнять текст по правому краю
+AlignRight.content=Выравнивание текста по правому краю.
+
+AlignmentFormatCells.title=Формат ячеек: выравнивание
+AlignmentFormatCells.content=Вывод вкладки \"Выравнивание\" диалогового окна \"Формат ячеек\".
+AlignmentFormatCells.img=ETAlignmentFormatCells
+
+AllBorders.title=Все границы
+AllBorders.content=Изменение границ выделенных ячеек.
+
+AllFunction.title=Все функции
+AllFunction.content=Вывод спиcка всех доступных функций.
+
+AllowEditRanges.title=Разрешить изменение диапазонов
+AllowEditRanges.content="Разрешить определённым пользователям изменять диапазоны ячеек защищённой книги или листа.\n\nПеред использованием этой функции установите параметры безопасности с помощью команды \"Защитить лист\"."
+
+ArtisticWordAlignment.title=Выравнивание
+ArtisticWordAlignment.content=Параметры выравнивания отдельных строк многострочного фигурного текста в документе.
+
+AutoFilter.title=Автофильтр
+AutoFilter.content="Разрешение фильтрации выделенных ячеек.\n\nЕсли фильтрация включена, достаточно щелкнуть стрелку в заголовке столбца, чтобы выбрать фильтр для этого столбца."
+
+AutoSum.title=Автосумма
+AutoSum.content=Вывод суммы выделенных ячеек непосредственно после этих ячеек.
+AutoSum.img=ETAutoSum
+
+AutoVersion.title=Включить автоматичекое резервное копирование
+AutoVersion.content=Включение автоматического резервного копирования для текущего документа с сохранением резервной копии файла в хранилище файлов каждый раз при закрытии документа.
+
+Autobackup.title=Хранилище файлов
+Autobackup.content=Краткое введение в функцию \"хранилище файлов\".
+
+Average.title=Среднее
+Average.content=Вычисление среднего арифметического аргументов функции..
+
+Bold.title=Полужирный
+Bold.content=Выделение текста полужирным шрифтом.
+
+BookProtection.title=Защита книги
+BookProtection.content="Запрет на внесение нежелательных изменений в структуру книги, таких как перемещение, удаление или добавление листов."
+
+BottomBorder.title=Нижняя граница
+BottomBorder.content=Применить границы для выбранных ячеек.
+
+BottomDoubleBorder.title=Сдвоенная нижняя граница
+BottomDoubleBorder.content=Добавить нижнюю двойную границу для выделенных ячеек.
+
+BringForward.title=Переместить вперед
+BringForward.content="Перемещение выделенного объекта вперёд, чтобы он не перекрывался другими объектами."
+
+BringForward2.title=Переместить вперед
+BringForward2.content=Перемещение выделенного объекта вперёд или расположение его перед другими объектами
+
+CTB_DesignMode.title=Режим конструирования
+CTB_DesignMode.content=Вход в режим конструирования для изменения названия и функций элементов управления.
+
+CTB_MoreControls.title=Другие элементы управления
+CTB_MoreControls.content="Щелкните здесь для добавления элемента из набора элементов управления, доступных на этом компьюетере."
+
+CTB_Property.title=Свойства элемента управления
+CTB_Property.content=Просмотр и изменение свойств выделенных элементов управления.
+
+CTB_ViewCode.title=Просмотр кода
+CTB_ViewCode.content=Редактирование кода Visual Basic для элемента управления.
+
+CalculateSheet.title=Пересчитать лист
+CalculateSheet.content=Пересчет текущего листа.\nЭто необходимо только в том случае, если автоматическое выполнение вычислений отключено.
+
+Camera.title=Камера
+Camera.content=Связать клетку или диапазон ячеек с объектами рисования. Изменения, внесённые в данные ячеек рабочего листа, будут автоматически отображены в графических объектах.
+
+ChangeChartType.title=Изменить тип диаграммы
+ChangeChartType.content=Изменение типа диаграммы.
+
+ChangePicture.title=Заменить изображение
+ChangePicture.content="Замена изображения с сохранением форматирования и размера текущего изображения."
+
+CharacterSpacing.title=Межзнаковый интервал
+CharacterSpacing.content=Изменение интервала между буквами выделенного фигурного текста.
+
+Chart.title=Создать диаграмму
+Chart.content=Открыть диалоговое окно \"Тип диаграммы\" для выбора таких параметров, как тип диаграммы.
+Chart.img=ETChart
+
+ChartObjects.title=Объекты диаграммы
+ChartObjects.content=Выбор элемента диаграммы для форматирования.
+
+ChineseTranslation.title=Преобразование упрощённого в традиционный китайский
+ChineseTranslation.content=Преобразовать упрощённый китайский в традиционный на основе символов или слов.
+
+CircularReferences.title=Циклические ссылки
+CircularReferences.content=Открыть окно \"Циклические ссылки\" для поиска ячеек книги, содержащих циклические ссылки.\n\nДважды щёлкните на элемент списка результатов для перехода к соответствующей ячейке.
+
+Clear.title=Очистить
+Clear.content="Удаление всего, что содержится в ячейке, либо выборочное удаление форматирования, содержимого или примечаний."
+
+ClearFilter.title=Показать всё
+ClearFilter.content=Очистка фильтра и состояния сортировки для текущего диапазона данных.
+
+ClearTableStyle.title=Очистить стиль таблицы
+ClearTableStyle.content=Очистить стиль таблицы в выделенном диапазоне.
+
+CloseDevelopmentTools.title=Закрыть
+CloseDevelopmentTools.content="Щелкните здесь, чтобы закрыть вкладку \"Инструменты разработчика\"."
+
+CloseOtherWindow.title=Закрыть другие окна
+CloseOtherWindow.content="Закрыть все окна, кроме текущего."
+
+CloseWindow.title=Закрыть окно
+CloseWindow.content=Закрыть текущее окно.
+
+ColumnsCenter.title=Через центр
+ColumnsCenter.content="Выделение непрерывного ряда клеток в одной или нескольких строках с центрированием их содержимого."
+
+ComAddin.title=Надстройки COM
+ComAddin.content=Управление доступными надстройками COM.
+
+CommaStyle.title=Пробел между тысячами
+CommaStyle.content=Использование разделителя тысяч при отображении значения ячейки.
+
+CompressPictures.title=Сжатие изображений
+CompressPictures.content=Сжатие выбранного изображения или всех изображений в документе для уменьшения размера.
+
+ConditionalFormat.title=Условное форматирование
+ConditionalFormat.content="Форматирование, например, затенение фона или цвет шрифта, автоматически применяемое к ячейке, если указанное условие истинно."
+
+Consolidate.title=Консолидировать
+Consolidate.content=Объединение значений из нескольких диапазонов в один новый диапазон.
+
+Copy.title=Копировать
+Copy.content=Скопировать выделение и поместить в системный буфер обмена.
+
+Count.title=Количество
+Count.content=Подсчёт количества ячеек в столбце, содержащих числа.
+
+Currency.title=Денежный
+Currency.content="Выбор альтернативного формата денежной еденицы для выделенной ячейки.\n\nНапример, можно выбрать евро вместо долларов."
+
+Cut.title=Вырезать
+Cut.content=Удалить выделение и поместить в системный буфер обмена.
+
+DataDetailedSettings.title=DataDetailedSettings Title
+DataDetailedSettings.content=DataDetailedSettings Content
+
+DataGroup.title=Группировать
+DataGroup.content=Группирование объектов таким образом, чтобы в дальнейшем их можно было обрабатывать как один объект.
+DataGroup.img=ETDataGroup
+
+DataSort.title=Сортировка
+DataSort.content=Установка режима автоматической сортировки поля сводной таблицы.
+
+DataTable.title=Таблица данных
+DataTable.content=Добавление таблицы данных к диаграмме.
+
+DataUngroup.title=Разруппировать
+DataUngroup.content=Разгруппирование ранее сгруппированного диапазона ячеек.
+
+DataUngroup2.title=Разруппировать
+DataUngroup2.content=Разгруппирование ранее сгруппированного диапазона ячеек.
+
+DecreaseDecimal.title=Уменьшить разрядность
+DecreaseDecimal.content=Отображение менее точных значений путем уменьшения числа знаков после запятой.
+
+DecreaseIndent.title=Уменьшить отступ
+DecreaseIndent.content=Уменьшение поля между границей и текстом ячейки.
+
+DeleteComment.title=Удалить примечание
+DeleteComment.content=Удаление выделенного примечания.
+
+DeleteRange.title=Удалить ячейки
+DeleteRange.content="Удаление ячеек, строк или столбцов листа."
+
+DeleteRange2.title=Удалить ячейки
+DeleteRange2.content="Щёлкните здесь для удаления ячеек, строк или всего листа."
+
+DetailedSettings_Data.title=Параметры
+DetailedSettings_Data.content=Изменение детальных параметров контура.
+
+DetailedSettings_DrawingTools.title=Параметры
+DetailedSettings_DrawingTools.content=Изменение параметров форматирования форм.
+
+DetailedSettings_Home.title=Параметры
+DetailedSettings_Home.content=Изменение параметров форматирования ячеек.
+
+DetailedSettings_Layout.title=Параметры
+DetailedSettings_Layout.content=Изменение параметров страницы.
+
+DetailedSettings_PictureTool.title=Параметры
+DetailedSettings_PictureTool.content=Изменение параметров форматирования изображения.
+
+DetailedSettings_WordArt.title=Параметры
+DetailedSettings_WordArt.content=Изменение параметров форматирования фигурного текста.
+
+DevelopmentTools.title=Разработчик
+DevelopmentTools.content=DevelopmentTools Content
+
+Direction.title=Направление
+Direction.content=Выбор эффекта направления для выделенной фигуры 3-D.
+
+DisplayGridlines.title=Показать линии сетки
+DisplayGridlines.content="Показать линии сетки между строками и столбцами листа для упрощения редактирования и просмотра.\n\nЛинии сетки не будут показаны, если не установлен флажок \"Печать\"."
+
+DisplayHeadings.title=Показать заголовки
+DisplayHeadings.content=Отображение заголовков строк и столбцов.\n\nЗаголовки строк – это номера строк в левой или правой части листа.\n\nЗаголовки столбцов – это буквы или цифры, которые отображаются над столбцами листа.
+
+DrawBorder.title=Нарисовать границу
+DrawBorder.content="Чтобы нарисовать линию границы, выберите эту функцию и передвигайте указатель мыши.\n\nДля выхода из режима рисования нажмите клавишу Esc на клавиатуре или повторно выберите эту функцию."
+
+DrawGrid.title=Нарисовать границы сетки
+DrawGrid.content="Чтобы нарисовать границы сетки, выберите эту функцию и передвигайте указатель мыши.\n\nДля выхода из режима рисования нажмите клавишу Esc на клавиатуре или повторно выберите эту функцию."
+
+DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
+DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+
+Duplicates.title=Удалить повторения
+Duplicates.content="Выделение, отклонение ввода или удаление повторений строк листа.\n\nМожно указать столбцы, которые должны быть проверены на повторение информации."
+
+DynamicShape.title=Вставить фигуры
+DynamicShape.content="Вставка готовых форм, таких как линии, прямоугольники, блок-схемы символов и выноски."
+
+EDRProperties.title=Свойства диапазона данных
+EDRProperties.content="Изменение имён внешних источников данных, формата и макета."
+
+EditCloumns.title=Строка формул
+EditCloumns.content="Отображение строки формул, предназначенной для ввода текста и формул в ячейки."
+EditCloumns.img=EditCloumns
+
+EditComment.title=Изменить примечание
+EditComment.content=Изменение выделенного примечания.
+
+EditCrossBookLinks.title=Изменить ссылки
+EditCrossBookLinks.content="Для обновления данных или удаление ссылок необходимо просмотреть все файлы, связанные с данной книгой."
+
+EditOleDBQuery.title=Изменение запроса OLE DB
+EditOleDBQuery.content="Выбор типа команды, ввод соответствующего запроса и отбор, полученных данных."
+
+EditPoints.title=Изменить узлы контура
+EditPoints.content=Изменение узлов контура для изменения формы фигуры.
+
+EditWordArtText.title=Изменить фигурный текст
+EditWordArtText.content=Изменение выделенного фигурного текста.
+
+EquationEditor.title=Вставить формулу
+EquationEditor.content=Использование редактора формул для добавления математических формул.
+EquationEditor.img=ETEquationEditor
+
+Eraseborder.title=Стереть границу
+Eraseborder.content="Чтобы стереть границу, выберите эту функцию и передвигайте указатель мыши.\n\nДля выхода из режима стирания границы нажмите клавишу Esc на клавиатуре или повторно выберите эту функцию."
+
+EvaluateFormula.title=Вычислить формулу
+EvaluateFormula.content=Открыть диалоговое окно \"Вычислить формулу\", предназначенное для отладки формулы путем вычисления каждого из ее компонентов по отдельности.
+
+ExitPreview.title=Выход
+ExitPreview.content=Выход из режима предпросмотра печати и возврат к режиму редактирования документа.
+
+ExplorBackupDir.title=Просмотр хранилища файлов
+ExplorBackupDir.content="Просмотр файлов резервных копий и открытие, или восстановление файлов резервных копий определенного документа."
+
+ExplorVersion.title=Просмотр записей резервного копирования
+ExplorVersion.content="Просмотр записей резервного копирования текущего документа для открытия, удаления или восстановления файлов."
+
+FTB_EditCode.title=Изменить код
+FTB_EditCode.content=Запуск редактора Visual Basic для изменения выбранного кода формы.
+
+FTB_Property.title=Свойства элемента
+FTB_Property.content="Выбор свойств объекта для выбранной формы, таких как, шрифт и размер."
+
+Fill.title=Заливка
+Fill.content="Заливка содержимого ячеек в любом направлении согласно заданным правилам."
+
+FillColor.title=Цвет заливки
+FillColor.content=Изменение цвета фона выделенных ячеек.\n\nЩёлкните стрелку для выбора цвета заливки.
+
+FillColor2.title=Цвет заливки
+FillColor2.content=Щёлкните стрелку для выбора цвета фона.
+
+Financial.title=Финансовые
+Financial.content=Вывод списка финансовых функций.
+
+Find.title=Поиск и замена
+Find.content="Поиск текста в документе.\n\nЩёлкните стрелку для выбора других функций, таких как \"Перейти\"."
+
+FontColor.title=Цвет текста
+FontColor.content=Изменение цвета текста.\n\nЩёлкните стрелку для выбора цвета текста.
+
+FontColor2.title=Цвет текста
+FontColor2.content=Щёлкните стрелку для выбора цвета текста.
+
+FontFormatCells.title=Формат ячеек: шрифт
+FontFormatCells.content=Показать вкладку \"Шрифт\" диалогового окна \"Формат ячеек\".
+FontFormatCells.img=ETFontFormatCells
+
+FontName.title=Шрифт
+FontName.content=Измение типа шрифта.
+
+FontSize.title=Размер шрифта
+FontSize.content=Изменение размера шрифта.
+
+FormatChartObject.title=Форматирование выделенного содержимого<
+FormatChartObject.content=Запуск диалогового окна \"Формат\" для объектов диаграммы. Можно использовать подробные параметры настройки диаграммы.
+
+FormatObject.title=Форматирование объекта
+FormatObject.content=Показать диалоговое окно \"Форматирование объекта\".
+FormatObject.img=ETFormatObject
+
+FormatPainter.title=Формат по образцу
+FormatPainter.content="Копирование форматирования из одного места и применение его в другом.\n\nДважды щелкните эту кнопку, чтобы применить одно и то же\nформатирование к нескольким частям документа."
+
+FormatStyle.title=Форматирование объекта
+FormatStyle.content="Создание различных комбинаций форматов ячеек, таких как, численный формат или формат выравнивания, и затем их преобразование в объединёный формат."
+
+FreezePanes.title=Закрепить области
+FreezePanes.content=Закрепление на экране части листа при прокрутке остальной его части. (You can cancel the lock to scroll through the whole worksheet).
+
+FullScreenMode.title=Полноэкранный режим
+FullScreenMode.content=Просмотр документа в полноэкранном режиме.
+
+FuncCatDateAndTime.title=Дата и время
+FuncCatDateAndTime.content=Вывод списка функций даты и времени.
+
+FuncCatMoreFunctions.title=Другие функции
+FuncCatMoreFunctions.content="Просмотр списка статистических, инженерных и информационных функций."
+
+FuncCatText.title=Текстовые функции
+FuncCatText.content=Просмотр и выбор из списка текстовых функций.
+
+Gallery.title=Коллекция WPS Office
+Gallery.content="В коллекции WPS Officeпомещены изображения для дальнейшего использования, сохранения или изменения.\n\nИнтернет-коллекцию, включённую в коллекцию WPS Office, можно использовать при подключении к Интернету."
+
+Group.title=Группировать
+Group.content="Группирование объектов таким образом, чтобы в дальнейшем их можно было обрабатывать как один объект."
+
+GrowFont.title=Увеличить размер шрифта
+GrowFont.content=Увеличение размера шрифта.
+
+HeaderFooter.title=Колонтитулы
+HeaderFooter.content=Изменение колонтитулов документа.\n\nСодержимое колонтитулов будет отображаться вверху или внизу каждой напечатанной страницы.
+HeaderFooter.img=ETHeaderFooter
+
+HideDetail.title=Скрыть детали
+HideDetail.content=Свертывание группы ячеек.
+
+HomeDetailedSettings.title=HomeDetailedSettings Title
+HomeDetailedSettings.content=HomeDetailedSettings Content
+
+Hyperlink.title=Вставить гиперссылку
+Hyperlink.content="Создание ссылки на веб-страницу, изображение или адрес электронной почты."
+
+ImportData.title=Импортировать данные
+ImportData.content=Импорт внешних данных в выделенную таблицу.
+
+IncreaseDecimal.title=Увеличить разрядность
+IncreaseDecimal.content=Показать более точные значения, за счет отображения большего числа десятичных знаков.
+
+IncreaseIndent.title=Увеличить отступ
+IncreaseIndent.content=Увеличение поля между границей и текстом ячейки.
+
+InsertClipArt.title=Вставить клип
+InsertClipArt.content=Вставить содержимое клипа.
+
+InsertComment.title=Создать примечание
+InsertComment.content=Добавление примечания к выделенному фрагменту.
+
+InsertFileObject.title=Вставить объект из файла
+InsertFileObject.content=Добавление выбранного файла в документ.
+
+InsertFunction.title=Вставить функцию
+InsertFunction.content=Изменение формулы в текущей ячейке выбором функций и редактированием аргументов.
+
+InsertObject.title=Вставить объект
+InsertObject.content=Показать диалоговое окно \"Вставить объект\" для выбора нового файла или файла из локальной папки.
+
+InsertPageBreak.title=Разрыв страницы
+InsertPageBreak.content=Указание места, с которого начинается новая страница печатного документа.\n\nРазрывы страниц вставляются над выделенным фрагментом и слева от него.
+
+InsertPictureFromFile.title=Вставить изображение
+InsertPictureFromFile.content=Добавление изображения из файла.
+
+InsertRange.title=Вставить ячейки
+InsertRange.content="Добавление ячеек, строк или столбцов в таблицу."
+
+InsertRange2.title=Вставить ячейки
+InsertRange2.content="Щёлкните здесь для добавления ячеек, строк или столбцов листа или добавления нового листа."
+
+InsertSymbol.title=Вставить символ
+InsertSymbol.content="Вставка символов, отсутствующих на клавиатуре, например символов авторского права и товарного знака."
+
+InsertTextboxHorizontal.title=Нарисовать горизонтальное текстовое поле
+InsertTextboxHorizontal.content=Добавление горизонтального текстового поля в документ.
+
+InsertTextboxHorizontal2.title=Нарисовать текстовое поле
+InsertTextboxHorizontal2.content=Добавление горизонтального или вертикального текстового поля в документ.
+
+InsertWordArt.title=Вставить фигурный текст 
+InsertWordArt.content=Показать диалоговое окно \"Коллекция\" для выбора стиля фигурного текста и его изменения.
+
+Italic.title=Курсив
+Italic.content=Выделение текста курсивом.
+
+KOSCloudFeedbackTip.title=Отзывы и предложения
+KOSCloudFeedbackTip.content=Помогите нам улучшить WPS Office.
+
+KOSCloudInformationTip.title=Руководство пользователя
+KOSCloudInformationTip.content=Руководство по использованию пространства офиса.
+
+KOSCreatecloudLinkTip.title=За 10 секунд вы можете:
+KOSCreatecloudLinkTip.content="Просканировать QR код и получить доступ к документу через телефон, WeChat или MiChat для редактирования."
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=Неверное имя пользователя или пароль.
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=Неверный пароль.
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=Пароли не совпадают.
+
+KOSOpenCloudFileTip.title=Открыть из Cloud Docs
+KOSOpenCloudFileTip.content="Изменения, внесённые в документы в Cloud Docs, будут немедленно сохранены."
+
+KOSRoamingfileTip.title=Роуминг файлов
+KOSRoamingfileTip.content=Открытые файлы будут автоматически перемещены в Cloud Docs и будут доступны на всех ваших устройствах.\n\nВы сможете начать работу в любое время и в любом месте.
+
+KOSSaveFileTocloudTip.title=Сохранить в Cloud Docs
+KOSSaveFileTocloudTip.content="Сохранить файл в облачном сервисе. Позволяет работать с одним документом с нескольких устройств."
+
+KOSUserLoginCloudTextBtnTip.title=Войти
+KOSUserLoginCloudTextBtnTip.content=Войти, чтобы пользоваться бесплатными услугами облачного сервиса, такими как, документы из Интернета, резервное хранение файлов, шаблоны из Интернета и библиотека ресурсов.
+
+KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
+KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+
+KOSUserLogoutCloudTip.title=Вход выполнен
+KOSUserLogoutCloudTip.content=Вы вошли в облачный сервис WPS Office. Щёлкните здесь для выхода.
+
+LeftBorder.title=Левая граница
+LeftBorder.content=Добавление левой границы к выделенным ячейкам.
+
+Legend.title=Условные обозначения
+Legend.content=Показать или скрыть условные обозначения диаграммы.
+
+Lighting.title=Угол освещения
+Lighting.content="Выбор для выделенной формы 3-D направления и силы освещения, включая, яркое, нормальное и тусклое."
+
+LoadMacro.title=Надстройки
+LoadMacro.content="Управление надстройками, доступными для использования с этим файлом."
+
+LockCell.title=Блокировать ячейку
+LockCell.content="При включённой защите листа, функция \"Блокировать ячейку\" может защитить данные от изменений."
+
+Logical.title=Логические
+Logical.content=Просмотр и выбор из списка логических функций.
+
+LookupAndReference.title=Ссылки и массивы
+LookupAndReference.content=Просмотр и выбор из списка функций поиска и функций для работы со ссылками.
+
+Macros.title=Просмотр макросов
+Macros.content="Просмотр списка макросов, в котором можно создать или удалить макрос."
+
+Margins.title=Поля
+Margins.content=Выбор размеров полей для всего документа или текущего раздела.
+
+MarkVersion.title=Резервное копирование вручную
+MarkVersion.content="Не закрывая файл, можно создать резервную копию текущего файла в хранилище файлов, и добавить примечания к файлу резервной копии."
+
+MathAndTrig.title=Математические
+MathAndTrig.content=Просмотр и выбор из списка математических функций.
+
+Max.title=Максимум
+Max.content=Определение наибольшего из набора значений.
+
+MergeCenter.title=Объединить и выровнять по центру
+MergeCenter.content=Объединение выделенных ячеек в одну большую ячейку и выравнивание содержимого новой ячейки по центру.
+MergeCenter.img=ETMergeCenter
+
+MergeCenter2.title=Объединить и выровнять по центру
+MergeCenter2.content=Объединение выделенных ячеек в одну большую ячейку и выравнивание содержимого новой ячейки по центру.
+
+MergeColumns.title=Объединить по строкам
+MergeColumns.content=Выделить и объединить ячейки по одной или нескольким строкам.
+
+MergeSelection.title=Объединение ячеек
+MergeSelection.content=Объединить выделенные ячейки в одну ячейку.
+
+Min.title=Минимум
+Min.content=Определение наименьшего из набора значений.
+
+ModifyPivotTable.title=Изменить сводную таблицу
+ModifyPivotTable.content=Изменение источника данных сводной таблицы, и восстановление исходных параметров отображения таблицы.
+
+Morefunctions.title=Другие функции
+Morefunctions.content="Просмотр и выбор из списка статистических, инженерных и информационных функций."
+
+NameCreate.title=Создать из выделенного
+NameCreate.content=Автоматическое создание имен для выделенных ячеек.\n\nБольшинство пользователей предпочитает использовать текст в верхней строке крайнего левого столбца выделения.
+
+NameDefine.title=Присвоить имя
+NameDefine.content="Присвоение имен отдельным ячейкам и диапазонам ячеек. В дальнейшем можно будет ссылаться на них в формулах по данному имени.\n\nНапример, диапазону ячеек A1:A10 можно присвоить имя \"проверка\".\n\nИспользование имен в формулах делает формулы более понятными."
+
+NameManager.title=Диспетчер имен
+NameManager.content="Создание, изменение, удаление, а также поиск всех имен, используемых в книге.\n\nИмена можно использовать в формулах вместо ссылок на ячейки.\n\nНапример: \"=СУММ(МоиПродажи)\" вместо \"=СУММ(A1:A20)\"."
+
+NamePaste.title=Вставка имени
+NamePaste.content=Выделение имени, используемого в текущей книге, и вставка его в текущую формулу.
+
+NewWindow.title=Новое окно
+NewWindow.content=Открытие нового окна с представлением текущего документа.
+
+NoBorder.title=Без границы
+NoBorder.content=Удаление границ ячейки.
+
+NormalViewEt.title=Обычный режим
+NormalViewEt.content=Просмотр документа в обычном режиме.
+
+NudgeShadowDown.title=Сдвинуть тень вниз
+NudgeShadowDown.content=Перемещение тени выбранного объекта вниз.
+
+NudgeShadowLeft.title=Сдвинуть тень влево
+NudgeShadowLeft.content=Перемещение тени выбранного объекта влево.
+
+NudgeShadowRight.title=Сдвинуть тень вправо
+NudgeShadowRight.content=Перемещение тени выбранного объекта вправо.
+
+NudgeShadowUp.title=Сдвинуть тень вверх
+NudgeShadowUp.content=Перемещение тени выбранного объекта вверх.
+
+NumberFormatCells.title=Формат ячеек: числовой
+NumberFormatCells.content=Отображение вкладки \"Числовой\" диалогового окна \"Формат ячеек\".
+NumberFormatCells.img=ETNumberFormatCells
+
+ObjectSelect.title=Область выделения
+ObjectSelect.content=Отображение области выделения, которая позволяет выделить отдельные объекты, изменить их расположение, а также показать или скрыть их.
+ObjectSelect.img=ETObjectSelect
+
+OtherBorders.title=Другие границы
+OtherBorders.content=Использование подробных параметров для выбора границ ячеек.
+
+OutlineSettings.title=Настройка структуры
+OutlineSettings.content=Открыть диалоговое окно \"Структура\".
+
+OutsideBorders.title=Внешние границы
+OutsideBorders.content=Показать внешние границы для выделенных ячеек.
+
+PTFieldSettings.title=Параметры поля
+PTFieldSettings.content=Открыть диалоговое окно \"Параметры поля\".
+
+PTHide.title=Скрыть
+PTHide.content="Отображение или скрытие списка полей.\n\nСписок полей позволяет добавлять и удалять поля из отчета сводной таблицы."
+
+PTHideDetail.title=Скрыть детали
+PTHideDetail.content=Скрыть все элементы активного поля.
+
+PTHideFieldList.title=Скрыть список полей
+PTHideFieldList.content=Показать или скрыть список полей.\n\nСписок полей позволяет добавлять и удалять поля из отчета сводной таблицы.
+
+PTRefreshData.title=Обновить данные
+PTRefreshData.content=Обновление информации из источника данных в книге.
+
+PTShowDetail.title=Показать детали
+PTShowDetail.content=Развертывание свернутой группы ячеек.
+
+PTSortAndTopTen.title=Сортировка
+PTSortAndTopTen.content=Установка режима автоматической сортировки поля сводной таблицы.
+
+PTSubtotals.title=Итоги
+PTSubtotals.content=Отображение или скрытие промежуточных итогов.
+
+PTTableOptions.title=Параметры сводной таблицы
+PTTableOptions.content=Открытие диалогового окна \"Параметры сводной таблицы\".
+
+PageBreakPreview.title=Страничный режим
+PageBreakPreview.content="Предварительный просмотр разрывов страниц перед печатью документа."
+
+PageLayoutDetailedSettings.title=PageLayoutDetailedSettings Title
+PageLayoutDetailedSettings.content=PageLayoutDetailedSettings Content
+
+PageOrientation.title=Ориентация текста
+PageOrientation.content=Выбор книжной или альбомной ориентации страниц.
+
+PageSetup.title=Параметры страницы
+PageSetup.content=Открыть диалоговое окно \"Параметры страницы\".
+PageSetup.img=ETPageSetup
+
+PageSize.title=Размер страницы
+PageSize.content="Выбор размера бумаги для текущего раздела.\n\nЩёлкните здесь, для применения определённого размера бумаги ко всем разделам в документе."
+
+PageZoom.title=Масштаб страницы
+PageZoom.content="Увеличение или уменьшение ширины или высоты вывода на печать с расчётом на определённое число страниц или в процентах от фактического размера."
+
+PercentStyle.title=Процентный формат
+PercentStyle.content=Отображение значения ячейки в виде процентов.
+
+PictureAdjust.title=Настроить изображение
+PictureAdjust.content=Увеличение или уменьшение контрастности и яркости выбранного изображения.
+
+PictureColor.title=Перекрасить
+PictureColor.content="Изменение цвета изображания на чёрно-белый, размытый или прозрачный цвет."
+
+PictureCrop.title=Обрезать изображение
+PictureCrop.content=Обрезка изображения с целью удаления ненужных фрагментов.
+
+PictureFillColor.title=Заливка изображения
+PictureFillColor.content="Заливка выделенного объекта цветом, градиентом, узором или изображением.\n\nЩёлкните стрелку для выбора режима заливки."
+
+PictureFillColor2.title=Заливка изображения
+PictureFillColor2.content=Щёлкните стрелку для выбора режима заливки.
+
+PictureLineColor.title=Контур изображения
+PictureLineColor.content="Выбор цвета, ширины план и стиля контура выделенного объекта.\n\nЩёлкните стрелку для выбора подробных параметров контура."
+ 
+PictureLineColor2.title=Контур изображения
+PictureLineColor2.content=Щёлкните стрелку для выбора подробных параметров контура.
+
+PictureSetTransparentColor.title=Прозрачный цвет
+PictureSetTransparentColor.content="Придание прозрачности цвету текущего рисунка.\n\nПри щелчке пикселя на текущем рисунке все пиксели соответствующего цвета становятся прозрачными."
+
+PictureSize.title=Размер изображения
+PictureSize.content="Изменение размера, угла поворота и масштаба выделенной фигуры."
+
+PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
+PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+
+PivotTable.title=Вставить сводную таблицу
+PivotTable.content="Щёлкните здесь, чтобы выполнить сведение данных с помощью сводной таблицы.\n\nСводные таблицы упрощают представление, сведение и детализацию сложных данных."
+
+PivotTableDelete.title=Удалить сводную таблицу
+PivotTableDelete.content=Удаление выделенной сводной таблицы.
+
+PivotTableOrder.title=Расположение
+PivotTableOrder.content=Перемещение области строк или столбцов сводной таблицы вверх или вниз.
+
+PrevLandscape.title=Альбомная
+PrevLandscape.content=Установка альбомной ориентации страниц.
+
+PrevNextPage.title=Следующая страница
+PrevNextPage.content=Переход к следующей странице при печати текущего листа.
+
+PrevPortrait.title=Книжная
+PrevPortrait.content=Установка книжной ориентации страниц.
+
+PrevPreviousPage.title=Предыдущая страница
+PrevPreviousPage.content=Переход к печати предыдущей странице при печати текущего листа.
+
+Print.title=Печать
+Print.content="Применение подробных параметров для печати, таких как принтер, число печатаемых страниц, число экземпляров, количество страниц на листе и масштаб."
+
+Print2.title=Печать
+Print2.content="Щёлкните здесь, чтобы установить параметры печати или использовать заранее заданные настройки печати."
+
+PrintArea.title=Диапазон печати
+PrintArea.content="Выделение определенной области листа для печати."
+
+PrintDirect.title=Печать на принтер
+PrintDirect.content=Отправка документа на используемый по умолчанию принтер без внесения изменений.
+
+PrintGridlines.title=Печать сетки
+PrintGridlines.content=Печать линий сетки между столбцами и строками листа.
+
+PrintHeadings.title=Печать заголовков
+PrintHeadings.content=Печать заголовков строк и столбцов.\n\nЗаголовки строк - это номера строк в левой или правой части листа.\n\nЗаголовки столбцов - это буквы или цифры, которые отображаются над столбцами листа.
+
+PrintLayout.title=Разметка страницы
+PrintLayout.content=Просмотр документа в том виде, в котором он будет напечатан.
+
+PrintNormalView.title=Обычный вид<
+PrintNormalView.content=Выход из режима \"Предварительного просмотра\", и вход в режим обычного вида
+
+PrintPreview.title=Предварительный просмотр
+PrintPreview.content=редварительный просмотр и внесение изменений в страницы перед печатью.
+
+PrintPreviewMargins.title=Поля
+PrintPreviewMargins.content=Выбор расстояния между содержанием листа и краем печатной страницы.
+
+PrintPreviewZoomCombo.title=Масштаб
+PrintPreviewZoomCombo.content=Выбор уровня масштабирования текущего документа.
+
+PrintTitle.title=Печатать на каждой странице
+PrintTitle.content=SВыбор строк и столбцов, котрые будут повторены на каждой печатной странице.
+
+ProtectAndShare.title=Защита книги и общий доступ<
+ProtectAndShare.content=Открытие общего доступа к книге с одновременной защитой этой книги паролем.\n\nПароль не позволит другим пользователям отключить учет изменений.
+
+ProtectSheet.title=Защита листа
+ProtectSheet.content="Запрет на внесение нежелательных изменений в данные листа с указанием, какие сведения могут быть изменены.\n\nНапример, можно запретить пользователям редактировать заблокированные ячейки или изменять форматирование документа.\n\nМожно указать пароль, который должен быть введен, чтобы снять защиту листа и разрешить эти изменения."
+
+RB_Clipboard.title=Буфер обмена
+RB_Clipboard.content=Просмотр элементов, копируемых в буфер обмена.
+RB_Clipboard.img=ETClipboard
+
+ReadingLayout.title=Макет для чтения
+ReadingLayout.content=Просмотр заголовков строк и столбцов выделенной ячейки.
+
+ReadingLayout2.title=Макет для чтения
+ReadingLayout2.content=Щёлкните стрелку для выбора цвета.
+
+ReapplyFilter.title=Применить повторно
+ReapplyFilter.content=Повторное применение фильтра и сортировки к текущему диапазону.\n\nПри добавлении или изменении данных в столбце фильтрация и сортировка новых данных выполняется только после нажатия кнопки \"Применить повторно\".
+
+RecalculateBook.title=Пересчитать книгу
+RecalculateBook.content=Пересчет всей книги.\n\nЭто необходимо только в том случае, если автоматическое выполнение вычислений отключено.
+
+RecentLineWrap.title=Перенос по словам
+RecentLineWrap.content=Отображение всего содержимого ячейки на нескольких строках.
+RecentLineWrap.img=ETRecentLineWrap
+
+RecenttlyUsed.title=Последние использованные
+RecenttlyUsed.content=Вывод списка недавно использовавшихся функций.
+
+RecordList.title=Форма
+RecordList.content="После выделения заголовка колонки, можете вводить, искать и удалять данные через форму данных."
+
+RecordMacro.title=Запись макроса
+RecordMacro.content=Показать диалоговое окно \"Запись макроса\", и начать запись макроса.
+
+Refresh.title=Обновить данные
+Refresh.content=Обновление информации из источника данных в книге.
+
+RefreshAll.title=Обновить всё
+RefreshAll.content=Обновить всю информацию из источника данных в книге.
+
+RelativeReference.title=Относительные ссылки
+RelativeReference.content="Использование относительных ссылок, при котором действия в макросах записываются относительно ячейки, в которой находится курсор."
+
+ResetPicture.title=Восстановить исходное изображение
+ResetPicture.content=Отмена всех изменений форматирования для данного изображения.
+
+RightBorder.title=Правая граница
+RightBorder.content=Добавление правой границы к выделенным ячейкам.
+
+RotateRight.title=Вращение
+RotateRight.content=Поворот или зеркальное отображение выделенного объекта.
+
+RowsAndColumn.title=Строки и столбцы
+RowsAndColumn.content="Щёлкните здесь для работы со строками или столбцами. Можно отрегулировать высоту и ширину, залить или скрыть строку или столбец."
+
+RunMacro.title=Просмотр макросов
+RunMacro.content="Открытие диалогового окна \"Макросы\". Вывод списка макросов для выполнения, создания или удаления макроса."
+
+RunMacro2.title=Просмотр макросов
+RunMacro2.content="Открытие диалогового окна \"Макросы\". Вывод списка макросов для выполнения, создания или удаления макроса."
+
+SameLetterHeights.title=Равной высоты
+SameLetterHeights.content=Сделать все буквы выделенного фигурного текста равными по высоте.
+
+Security.title=Безопасность макросов
+Security.content=Настройка параметров безопасности макросов.
+
+SendBackward.title=Поместить на задний план
+SendBackward.content=Перемещение выделенного объекта на один уровень назад, или расположение его позади других объектов.
+
+SendBackward2.title=Поместить на задний план
+SendBackward2.content=Перемещение выделенного объекта на один уровень назад, или расположение его позади других объектов.
+
+SeriesInColumns.title=Переключить колонку
+SeriesInColumns.content=Ряды диаграммы создаются в столбцах.
+
+SeriesInRows.title=Переключить строку
+SeriesInRows.content=Ряды диаграммы создаются в строках.
+
+ShadowColor.title=Цвет тени
+ShadowColor.content=Выбор цвета тени выделенного объекта.\n\nЩёлкните стрелку для выбора цвета тени.
+
+ShadowColor2.title=Цвет тени
+ShadowColor2.content=Щёлкните стрелку для выбора цвета тени.
+
+ShadowOnOff.title=Показать или скрыть тень
+ShadowOnOff.content=Показать или не показывать тень для выделенного объекта.
+
+ShadowPalette.title=Стили тени
+ShadowPalette.content=Применить определённый стиль тени к выделенному объекту.
+
+ShapeFillColor.title=Заливка фигуры
+ShapeFillColor.content="Заливка выделенного объекта цветом, градиентом, текстурой или изображением.\n\nЩёлкните стрелку для выбора типа заливки."
+
+ShapeFillColor2.title=Заливка фигуры
+ShapeFillColor2.content=Щёлкните стрелку для выбора типа заливки.
+
+ShapeLineColor.title=Контур фигуры
+ShapeLineColor.content="Выбор цвета, ширины и стиля линии для контура выделенного объекта.\n\nЩёлкните стрелку для выбора детальных параметров контура."
+
+ShapeLineColor2.title=Контур фигуры
+ShapeLineColor2.content=Щёлкните стрелку для выбора детальных параметров контура.
+
+ShapeSize.title=Размер фигуры
+ShapeSize.content="Выбор размера, угла поворота и масштаба выделенной фигуры."
+
+ShareWorkbook.title=Управление доступом к файлу
+ShareWorkbook.content=Организация одновременной работы нескольких пользователей с одной и той же книгой.\n\nЭту книгу необходимо сохранить на общем сетевом ресурсе, чтобы ее могли открыть несколько пользователей.\n\nНельзя открыть общий доступ к книгам, содержащим таблицы.
+
+ShowDetail.title=Показать детали
+ShowDetail.content=Показать все элементы активного поля.
+
+ShrinkFont.title=Уменьшить размер шрифта
+ShrinkFont.content=Уменьшение размера шрифта.
+
+SortAndFilter.title=Сортировка
+SortAndFilter.content=Упорядочивание данных с целью упрощения их анализа.\n\nМожно отсортировать выделенные данные по возрастанию или убыванию.
+
+SortAscending.title=Сортировать по возрастанию
+SortAscending.content="Сортировка выделенного диапазона так, чтобы наименьшие значения оказались вверху столбца."
+
+SortDescending.title=Сортировать по убыванию
+SortDescending.content="Сортировка выделенного диапазона так, чтобы наибольшие значения оказались вверху столбца."
+
+SourceData.title=Выделить данные
+SourceData.content=Изменение диапазона данных, представленных на диаграмме.
+
+SpellCheck.title=Проверка правописания
+SpellCheck.content=Проверка правильности написания текста.
+
+SplitPanes.title=Разделить
+SplitPanes.content="Разделение окна на несколько областей переменного размера, в котором отображаются разные фрагменты одного листа.\n\nВы можете использовать эту функцию для просмотра нескольких удаленных друг от друга фрагментов листа."
+
+StopAutoVersion.title=Остановить автосохранение
+StopAutoVersion.content=Остановить автоматическое сохранение для выделенной книги.
+
+StopRecordMacro.title=Остановить запись
+StopRecordMacro.content=Остановить запись макроса.
+
+Subtotals.title=Промежуточный итог
+Subtotals.content=Расчет совместного итога для нескольких строк взаимосвязанных данных посредством автоматической вставки промежуточных и общих итогов для выделенных ячеек.
+
+SwitchWindow.title=Перейти в другое окно
+SwitchWindow.content=Переключиться в другое открытое окно.
+
+TaskWindow.title=Область задач
+TaskWindow.content=Скрыть или показать панель задач текущего документа.
+
+TextFill.title=Цвет текста
+TextFill.content=Изменение цвета текста.\n\nЩёлкните стрелку для выбора цвета текста.
+
+TextFill2.title=Цвет текста
+TextFill2.content=Щёлкните стрелку для выбора цвета текста.
+
+TextOrientation.title=Ориентация
+TextOrientation.content=Поворот текста таким образом, чтобы он располагался по диагонали или по вертикали.\n\nЧасто используется для размещения заголовков узких столбцов.\n\nЧтобы восстановить нормальную ориентацию текста, щелкните выделенную ориентацию текста еще раз.
+
+TextToColumns.title=Текст по столбцам
+TextToColumns.content="Разделить содержимое ячеек листа на отдельные столбцы.\n\nНапример, вы можете разделить столбец с полным именем на отдельные столбцы с фамилией, именем и отчеством.\n\nВ Writer это используется для преобразования выделенного текста в таблицу или разбивки на столбцы текста с помощью запятой, точки, или другого разделителя."
+
+ThickBottomBorder.title=Толстая нижняя граница
+ThickBottomBorder.content=Добавление толстой нижней границы к выделенным ячейкам.
+
+ThickBoxBorder.title=Толстая внешняя граница
+ThickBoxBorder.content=Добавление толстой границы вокруг выделенных ячеек.
+
+TopAndBottomBorder.title=Верхняя и нижняя границы
+TopAndBottomBorder.content=Добавить верхнюю и нижнюю границы к выделенным ячейкам.
+
+TopAndDloubleBottomBorder.title=Верхняя и двойная нижняя граница
+TopAndDloubleBottomBorder.content=Добавить верхнюю и двойную нижнюю границы к выделенным ячейкам.
+
+TopAndThickBottomBorder.title=Верхняя и толстая нижняя границы
+TopAndThickBottomBorder.content=Добавить верхнюю и толстую нижнюю границы к выделенным ячейкам.
+
+TopBorder.title=Верхняя граница
+TopBorder.content=Добавить верхнюю границу к выделенным ячейкам.
+
+TrackChanges.title=Регистрация изменений
+TrackChanges.content="Отслеживание всех изменений, внесенных в документ, включая вставку, удаление и изменение форматирования."
+
+TranslateToSimplifiedChinese.title=Преобразование в упрощенный китайский
+TranslateToSimplifiedChinese.content=Преобразование традиционного китайского в упрощенный китайский.
+
+TranslateToTraditionalChinese.title=Преобразование в традиционный китайский
+TranslateToTraditionalChinese.content=Преобразование упрощённого в традиционный китайский.
+
+Underline.title=Подчеркивание
+Underline.content=Подчеркивание выделенного текста.
+
+VAlignBottom.title=Выровнять по нижнему краю
+VAlignBottom.content=Выравнивание текста по нижнему краю ячейки.
+
+VAlignCenter.title=Выровнять по середине
+VAlignCenter.content=Выравнивание текста по центру между верхней и нижней границей ячейки.
+
+VAlignTop.title=Выровнять по верхнему краю
+VAlignTop.content=Выравнивание текста по верхнему краю ячейки.
+
+Validation.title=Проверка данных
+Validation.content="Защита ячейки от ввода неверных данных.\n\nНапример, можно запретить ввод неверных дат или чисел, превышающих 1000.\n\nМожно также разрешить ввод значений только из предварительно определенного раскрывающегося списка."
+
+VerticalText.title=Вертикальный фигурный текст
+VerticalText.content="Разместить текст вертикально, расположив буквы одна над другой."
+
+VisualBasicEditor.title=Редактор Visual Basic
+VisualBasicEditor.content=Запуск редактора Visual Basic для изменения кода макросов.
+
+What-If%20Analysis.title=Анализ чувствительности
+What-If%20Analysis.content="Подбор параметра выполняет поиск значения, которое надо ввести в формулу для получения известного результата.\n\nАнализ чувствительности определяет оптимальное значение целевой ячейки, изменяя значения ячеек, которые используются для расчёта значения целевой ячейки."
+
+WindowReset.title=Расположить рядом
+WindowReset.content=Расположение окон всех открытых программ на экране рядом.
+
+WordArtDetailedSettings.title=WordArtDetailedSettings Title
+WordArtDetailedSettings.content=WordArtDetailedSettings Content
+
+WordArtFillColor.title=Заливка
+WordArtFillColor.content="Заполнение выделенного объекта сплошным цветом, градиентом, текстурой или рисунком.\n\nЩёлкните стрелку для выбора способа заливки."
+
+WordArtFillColor2.title=Заливка
+WordArtFillColor2.content=Щёлкните стрелку для выбора способа заливки.
+
+WordArtGallery.title=Коллекция
+WordArtGallery.content=Изменение стиля выделенного фигурного текста.
+
+WordArtLineColor.title=Контур
+WordArtLineColor.content="Выбор цвета, ширины и типа линии для контура выделенного фигурного текста.\n\nЩелкните стрелку для выбора стиля контура."
+
+WordArtLineColor2.title=Контур
+WordArtLineColor2.content=Щелкните стрелку для выбора стиля контура.
+
+WordArtShapePalette.title=Форма
+WordArtShapePalette.content=Изменение стиля формы для выделенного фигурного текста.
+
+WordArtSize.title=Размер
+WordArtSize.content="Выбор размера, угла поворота и масштаба для выделенного фигурного текста."
+
+WorkSheet.title=Лист
+WorkSheet.content="Щёлкните здесь для изменения листа. Можно вставить или удалить лист, изменить название листа или изменить цвет вкладки листа."
+
+WorkSpace_Backup.title=WorkSpace Backup
+WorkSpace_Backup.content=WorkSpace_Backup Content
+
+Zoom.title=Масштаб
+Zoom.content="Открытие диалогового окна \"Масштаб\", в котором можно выбрать масштаб документа."
+
+m_Format.title=Формат
+m_Format.content="Изменения формата выделенных ячеек, преобразование текста в число или гиперссылку."
+
+sp_AutoSum.title=Автосумма
+sp_AutoSum.content=Вывод суммы выделенных ячеек непосредственно после этих ячеек.
+sp_AutoSum.img=ETAutoSum
+
+sp_AutoSum2.title=Автосумма
+sp_AutoSum2.content="Щелкните здесь, чтобы отобразить резултат простого вычисления, например расчета среднего или максимального значения для выделенных ячеек."
+
+sp_Paste.title=Вставить
+sp_Paste.content=Вставка содержимого буфера обмена.
+
+sp_Paste2.title=Вставить
+sp_Paste2.content="Щёлкните здесь, чтобы просмотреть дополнительные параметры, такие как вставка из буфера обмена только значений или только форматирования."
+
+FormulaErrorCheck.title=Проверка наличия ошибок
+FormulaErrorCheck.content="Поиск ошибок, наиболее часто встречающихся в формулах."
+

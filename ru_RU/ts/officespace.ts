@@ -1069,7 +1069,7 @@ path:%3</source>
     </message>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
-        <translation>Выполняется проверка прав на сохранение в облаке. Пожалуйста, подождите...</translation>
+        <translation>Выполняется проверка прав на сохранение в облачном сервисе. Пожалуйста, подождите...</translation>
     </message>
 </context>
 <context>

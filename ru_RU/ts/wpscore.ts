@@ -10083,7 +10083,7 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="obsolete">Зачёркмвание</translation>
+        <translation type="obsolete">Зачёркивание</translation>
     </message>
     <message>
         <source>Add rows and columns</source>
