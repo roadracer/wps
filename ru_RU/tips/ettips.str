@@ -45,7 +45,7 @@ AlignRight.title=Выровнять текст по правому краю
 AlignRight.content=Выравнивание текста по правому краю.
 
 AlignmentFormatCells.title=Формат ячеек: выравнивание
-AlignmentFormatCells.content=Вывод вкладки \"Выравнивание\" диалогового окна \"Формат ячеек\".
+AlignmentFormatCells.content=Открыть вкладку \"Выравнивание\" диалогового окна \"Формат ячеек\".
 AlignmentFormatCells.img=ETAlignmentFormatCells
 
 AllBorders.title=Все границы
