@@ -8,8 +8,8 @@
 </translation>
     </message>
     <message>
-        <source>Notes Page:</source>
-        <translation type="unfinished"/>
+        <source>Note;</source>
+        <translation>Nota;</translation>
     </message>
     <message>
         <source>Being converted</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Still Need:</source>
-        <translation>Ainda necessário:</translation>
+        <translation>Ainda Necessário:</translation>
     </message>
     <message>
         <source> Minute</source>
@@ -39,24 +39,20 @@
         <source>Start converting</source>
         <translation>Iniciar conversão</translation>
     </message>
-    <message>
-        <source>Note;</source>
-        <translation>Nota;</translation>
-    </message>
 </context>
 <context>
     <name>ProcessDialog</name>
     <message>
-        <source>Translate to Document</source>
-        <translation type="unfinished"/>
+        <source>Translate to WPS Writer Document</source>
+        <translation>Tradução para o documento do WPS Texto</translation>
     </message>
     <message>
         <source>Ready to convert</source>
         <translation>Pronto para converter</translation>
     </message>
     <message>
-        <source>Still Need:Being calculated</source>
-        <translation type="unfinished"/>
+        <source>Still Need: being calculated</source>
+        <translation>Ainda necessário: calculando</translation>
     </message>
     <message>
         <source>Open File</source>
@@ -66,32 +62,24 @@
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
-    <message>
-        <source>Translate to WPS Writer Document</source>
-        <translation>Tradução para o documento do WPS Writer</translation>
-    </message>
-    <message>
-        <source>Still Need: being calculated</source>
-        <translation>Ainda necessário: sendo calculado</translation>
-    </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
     <message>
-        <source>Translate to Document</source>
-        <translation type="unfinished"/>
+        <source>Translate to WPS Writer Document</source>
+        <translation>Converter para documento do WPS Texto</translation>
     </message>
     <message>
         <source>Select Slide</source>
-        <translation>Selecionar slide</translation>
+        <translation>Selecionar Slide</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>
         <translation>Tudo(&amp;T)</translation>
     </message>
     <message>
-        <source>Current Slide(&amp;C)</source>
-        <translation type="unfinished"/>
+        <source>&amp;Current Slide</source>
+        <translation>&amp;Slide Atual</translation>
     </message>
     <message>
         <source>Selection(&amp;S)</source>
@@ -103,7 +91,7 @@
     </message>
     <message>
         <source>Converted Layout</source>
-        <translation>Layout convertido</translation>
+        <translation>Layout Convertido</translation>
     </message>
     <message>
         <source>According to original layout(&amp;O)</source>
@@ -134,8 +122,8 @@
         <translation>Adicionar linha em branco ao slide:</translation>
     </message>
     <message>
-        <source>Slide per page(&amp;E):</source>
-        <translation type="unfinished"/>
+        <source>Slide per page</source>
+        <translation>Slides por página</translation>
     </message>
     <message>
         <source>1</source>
@@ -162,8 +150,8 @@
         <translation>Visualizar</translation>
     </message>
     <message>
-        <source>Conversion Includes</source>
-        <translation type="unfinished"/>
+        <source>Converted Content</source>
+        <translation>Conteúdo convertido</translation>
     </message>
     <message>
         <source>Text(&amp;T)</source>
@@ -177,22 +165,6 @@
         <source>Picture(&amp;I)</source>
         <translation>Figura(&amp;I)</translation>
     </message>
-    <message>
-        <source>Translate to WPS Writer Document</source>
-        <translation>Tradução para documento do WPS Writer</translation>
-    </message>
-    <message>
-        <source>&amp;Current Slide</source>
-        <translation>&amp;Slide Atual</translation>
-    </message>
-    <message>
-        <source>Slide per page</source>
-        <translation>Slides por página</translation>
-    </message>
-    <message>
-        <source>Converted Content</source>
-        <translation>Conteúdo Convertido</translation>
-    </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
@@ -205,43 +177,39 @@
         <translation>Fechar</translation>
     </message>
     <message>
-        <source>Converting to Kingsoft Writer document encountered an error.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Erro encontrado ao converter para documento do WPS Writer</translation>
+        <translation>Erro encontrado ao converter para documento do WPS Texto</translation>
     </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
     <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
-        <translation>Inserir número do slide ou inervalo de slides. Por exemplo, 1,3,5-9</translation>
+        <translation>Inserir número do slide ou intervalo de slides. Por exemplo, 1,3,5-9</translation>
     </message>
     <message>
-        <source>The number must be 1, 2, 3, or 4.</source>
-        <translation type="unfinished"/>
+        <source>The number must be 1, 2, 3,or 4.</source>
+        <translation>O número deve ser 1, 2, 3 ou 4.</translation>
     </message>
     <message>
         <source>This is a valid number.
 Please input slide number or slide range. 
 For example, 1,3,5-9.</source>
-        <translation>Este é um número válido.
+        <translation>Esse é um número válido.
 Por favor, insira o número do slide ou o intervalo dos slides.
 Por exemplo, 1,3,5-9.</translation>
     </message>
     <message>
-        <source>Kingsoft Presentation</source>
-        <translation type="unfinished"/>
+        <source>WPS Presentation</source>
+        <translation>WPS Apresentação</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
         <translation>O número deve ser 1 ou 2.</translation>
     </message>
     <message>
-        <source>Kingsoft Writer Document(*.wps)</source>
-        <translation type="unfinished"/>
+        <source>WPS Writer Document(*.wps)</source>
+        <translation>Documento do WPS Texto(*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
@@ -258,22 +226,6 @@ Por exemplo, 1,3,5-9.</translation>
     <message>
         <source>&quot;</source>
         <translation>&quot;</translation>
-    </message>
-    <message>
-        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The number must be 1, 2, 3,or 4.</source>
-        <translation>O número deve ser 1 ou 2. {1, 2, 3,?} {4.?}</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <translation>WPS Apresentação</translation>
-    </message>
-    <message>
-        <source>WPS Writer Document(*.wps)</source>
-        <translation>Documento do WPS Writer(*.wps)</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>

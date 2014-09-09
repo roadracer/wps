@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Homepage link of WPS Office Cloud</source>
-        <translation>Link para a homepage do WPS Office Cloud</translation>
+        <translation>Link para a página inicial do WPS Office Cloud</translation>
     </message>
     <message>
         <source>Help link of WPS Office Cloud</source>
@@ -38,7 +38,7 @@
     <name>KCheckCloudFileTip</name>
     <message>
         <source>View</source>
-        <translation>Ver</translation>
+        <translation>Exibir</translation>
     </message>
     <message>
         <source>This document is updated. Go and check the updates.</source>
@@ -50,7 +50,7 @@
     <name>KCloudFileStateItem</name>
     <message>
         <source>Check failed because account was logged off. Please login again</source>
-        <translation>Falha de checagem devido a conta não estar logada. Por favor, efetue login novamente.</translation>
+        <translation>A checagem falhou porque a conta não estava conectada. Por favor, efetue login novamente.</translation>
     </message>
     <message>
         <source>This file does not belong to the current user. Please change the account</source>
@@ -58,14 +58,14 @@
     </message>
     <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
-        <translation>Falha de Upload devido a conta não estar logada. Por favor, efetue login novamente.</translation>
+        <translation>Falha de Upload devido à conta não estar conectada. Por favor, efetuar login novamente.</translation>
     </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
     <message>
         <source>Windows dialog title</source>
-        <translation>Título da janela de diálogo</translation>
+        <translation>Título das janelas de diálogo</translation>
     </message>
     <message>
         <source>status</source>
@@ -73,11 +73,11 @@
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation>&quot;Índice&quot;</translation>
+        <translation>Índice</translation>
     </message>
     <message>
         <source>Light address</source>
-        <translation>endereço luz</translation>
+        <translation>Endereço luz</translation>
     </message>
     <message>
         <source>refresh</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>N/A</source>
-        <translation>N /D</translation>
+        <translation>N/D</translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Failed to connect to server</source>
-        <translation>Falha ao conectar com o servidor</translation>
+        <translation>Falhou ao conectar ao servidor</translation>
     </message>
     <message>
         <source>View</source>
@@ -113,19 +113,19 @@
     </message>
     <message>
         <source>Source path:</source>
-        <translation>Diretório de origem</translation>
+        <translation>Caminho de origem:</translation>
     </message>
     <message>
         <source>Cloud path:</source>
-        <translation>Endereço na nuvem</translation>
+        <translation>Endereço na nuvem:</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation>Nome do arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Cloud Docs:</source>
-        <translation>Documentos da núvem:</translation>
+        <translation>Documentos da Nuvem:</translation>
     </message>
     <message>
         <source>Share Link</source>
@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>Consistent with cloud</source>
-        <translation>Consistente com a núvem</translation>
+        <translation>Coerente com a nuvem</translation>
     </message>
     <message>
         <source>Manually stopped uploading</source>
@@ -149,11 +149,11 @@
     </message>
     <message>
         <source>Uploaded %1 minutes ago</source>
-        <translation>Enviado a %1 minutos atrás</translation>
+        <translation>Enviado há %1 minutos</translation>
     </message>
     <message>
         <source>Uploaded to File Roaming</source>
-        <translation>Enviado para use à distância</translation>
+        <translation>Enviado arquivo para uso à distâcia</translation>
     </message>
     <message>
         <source>Uploading to cloud</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
-        <translation>Verificado a %1 minutos atrás</translation>
+        <translation>Verificado há %1 minutos</translation>
     </message>
 </context>
 <context>
@@ -186,7 +186,7 @@
     <message>
         <source>This document is updated. Click Refresh and check.</source>
         <comment>allow with %1 for modifier</comment>
-        <translation>Este documento foi atualizado. Pressione &quot;atualizar&quot; e verifique.</translation>
+        <translation>Este documento foi atualizado. Clicar em Atualizar e verificar.</translation>
     </message>
 </context>
 <context>
@@ -257,7 +257,7 @@
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>Este documento não ativou o auto backup, assim o arquivo de backup não está disponível.</translation>
+        <translation>Este documento não ativou o backup automático, então o arquivo de backup está indisponível.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
@@ -265,7 +265,7 @@
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
-        <translation>Acessar klive antes de canelar o backup automático.</translation>
+        <translation>Acessar klive antes de cancelar o backup automático.</translation>
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
@@ -300,7 +300,7 @@
     <name>KCouldFastLinkButton</name>
     <message>
         <source>Cloud Docs Management</source>
-        <translation>Gerenciamento de Arquivos na Nuvem</translation>
+        <translation>Gerenciamento do Cloud Docs</translation>
     </message>
 </context>
 <context>
@@ -332,7 +332,7 @@
     <name>KDownloadingTip</name>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Continue opening the updated version of your document.</source>
@@ -422,7 +422,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Feedback do Usuário</translation>
     </message>
     <message>
         <source>File &amp;Name:</source>
@@ -442,7 +442,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>&amp;Encrypt</source>
-        <translation>Criptografar</translation>
+        <translation>&amp;Criptografar</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -450,7 +450,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Open &amp;Type:</source>
-        <translation>A&amp;brir tipo:</translation>
+        <translation>Abrir &amp;tipo:</translation>
     </message>
     <message>
         <source>F1</source>
@@ -466,7 +466,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>r&amp;efresh</source>
-        <translation>atualização</translation>
+        <translation>atualizar</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
@@ -494,7 +494,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Delete selected content</source>
-        <translation>Excluir seleção</translation>
+        <translation>Excluir conteúdo selecionado</translation>
     </message>
     <message>
         <source>D&amp;irecDelete</source>
@@ -526,7 +526,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Go Ahead dir</source>
-        <translation>Go Ahead dir</translation>
+        <translation>Ir ao próximo diretório</translation>
     </message>
     <message>
         <source>Alt+Up</source>
@@ -534,7 +534,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Go up dir</source>
-        <translation>Sobe dir</translation>
+        <translation>Subir de diretório</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -566,7 +566,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Files loading, please wait...</source>
-        <translation>Arquivos de carregamento, por favor aguarde ...</translation>
+        <translation>Carregando arquivos. Por favor, aguarde...</translation>
     </message>
     <message>
         <source>&amp;Sort Mode</source>
@@ -574,7 +574,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation>&amp;Ascedente</translation>
+        <translation>&amp;Ascendente</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
@@ -594,11 +594,11 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Salvar para o Cloud Docs</translation>
     </message>
     <message>
         <source>&quot;View&quot; menu</source>
-        <translation>Menu &apos;View\&quot;</translation>
+        <translation>Menu &quot;exibir&quot;</translation>
     </message>
     <message>
         <source> - replica</source>
@@ -626,7 +626,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>&amp;Content</source>
-        <translation>Conteú&amp;do</translation>
+        <translation>&amp;Conteúdo</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -654,7 +654,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Go back dir</source>
-        <translation>Volte dir</translation>
+        <translation>Voltar diretório</translation>
     </message>
     <message>
         <source>&amp;Forward</source>
@@ -670,7 +670,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>File %1 does not exist.</source>
-        <translation>O arquivo% 1 não existe .</translation>
+        <translation>O arquivo% 1 não existe.</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -678,7 +678,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>%1 already exists. Sure you want to replace it?</source>
-        <translation>% 1 já existe . Claro que você quer substituí-lo?</translation>
+        <translation>% 1 já existe . Tem certeza que deseja substituí-lo?</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -698,14 +698,14 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Cloud Docs</source>
-        <translation>nuvem Docs</translation>
+        <translation>Cloud Docs</translation>
     </message>
 </context>
 <context>
     <name>KForceCloseFailTip</name>
     <message>
         <source>This document is in edit mode. Please exit this mode first.</source>
-        <translation>Este documento está no modo de edição. Por favor, saia primeiro este modo.</translation>
+        <translation>Este documento está no modo de edição. Por favor, saia desse modo primeiro.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -716,18 +716,18 @@ Você tem certeza aque quer mudar?</translation>
     <name>KLiveEmbedDialogImpl</name>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Abrir do Cloud Docs</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Salvar para Cloud Docs</translation>
     </message>
 </context>
 <context>
     <name>KLiveSvr</name>
     <message>
         <source>Please login Cloud Docs manually to use the feature.</source>
-        <translation>Por favor login Nuvem Docs manualmente para usar o recurso .</translation>
+        <translation>Por favor, acessar o Cloud Docs manualmente para usar o recurso.</translation>
     </message>
 </context>
 <context>
@@ -742,7 +742,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>&quot;Ignorar&quot;</translation>
+        <translation>Ignorar</translation>
     </message>
 </context>
 <context>
@@ -768,7 +768,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -783,7 +783,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>Parent folder has been deleted</source>
-        <translation>Pasta pai foi excluído</translation>
+        <translation>Pasta pai foi excluída</translation>
     </message>
     <message>
         <source>Folder cannot be created in the current location</source>
@@ -824,7 +824,9 @@ Você tem certeza aque quer mudar?</translation>
         <source>%1
 size:%2
 path:%3</source>
-        <translation>1 %\nTamanho : 2 %\ncaminho : % 3</translation>
+        <translation>%1
+tamanho:%2
+caminho:%3</translation>
     </message>
     <message>
         <source>Roaming your document...</source>
@@ -844,7 +846,7 @@ path:%3</source>
     </message>
     <message>
         <source>Remove all non-starred records</source>
-        <translation>Remova todos os registros não- marcadas com estrela</translation>
+        <translation>Remova todos os registros não-marcados com estrela</translation>
     </message>
 </context>
 <context>
@@ -882,7 +884,7 @@ path:%3</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Arquivo de Compartilhamento Remoto</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
@@ -893,7 +895,7 @@ path:%3</source>
     <name>KRoamingHomepage</name>
     <message>
         <source>File Roaming</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Arquivo de Compartilhamento Remoto</translation>
     </message>
 </context>
 <context>
@@ -931,11 +933,11 @@ path:%3</source>
     </message>
     <message>
         <source>On</source>
-        <translation>em</translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Off</translation>
+        <translation>Desativar</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
@@ -954,14 +956,14 @@ path:%3</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>KRoamingTabHeader</name>
     <message>
         <source>File Roaming</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Arquivo de Compartilhamento Remoto</translation>
     </message>
 </context>
 <context>
@@ -1062,7 +1064,7 @@ path:%3</source>
     </message>
     <message>
         <source>retry</source>
-        <translation>tente novamente</translation>
+        <translation>tentar novamente</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1104,7 +1106,7 @@ path:%3</source>
     </message>
     <message>
         <source>Synchronizing, please wait...</source>
-        <translation>Sincronizando, por favor espere...</translation>
+        <translation>Sincronizando. Por favor, espere...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1121,7 +1123,7 @@ path:%3</source>
     <message>
         <source>Local document</source>
         <comment>Local tab in filedialog</comment>
-        <translation>documento local</translation>
+        <translation>Documento local</translation>
     </message>
     <message>
         <source>Save backup file to File Safe.</source>
@@ -1139,7 +1141,7 @@ path:%3</source>
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation>Pasta de arquivo</translation>
+        <translation>Pasta de Arquivo</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -1148,17 +1150,17 @@ path:%3</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Descohecido</translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <source>Private Space</source>
         <comment>FolderType</comment>
-        <translation>espaço privado</translation>
+        <translation>Espaço privado</translation>
     </message>
     <message>
         <source>Qing Address</source>
         <comment>FolderType</comment>
-        <translation>Qing Endereço</translation>
+        <translation>Endereço Qing</translation>
     </message>
     <message>
         <source>Send Address</source>
@@ -1168,7 +1170,7 @@ path:%3</source>
     <message>
         <source>Receive Address</source>
         <comment>FolderType</comment>
-        <translation>Receba Endereço</translation>
+        <translation>Receber Endereço</translation>
     </message>
     <message>
         <source>My Group</source>
@@ -1193,7 +1195,7 @@ path:%3</source>
     <message>
         <source>Cloud Docs</source>
         <comment>Group tab in filedialog</comment>
-        <translation>nuvem Docs</translation>
+        <translation>Cloud Docs</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -1262,7 +1264,7 @@ path:%3</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
@@ -1274,23 +1276,23 @@ path:%3</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Entrar</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>You have logged in to the WPS Office account: &lt;br/&gt;%1&lt;br/&gt; You can %2 change your login account or sign out.</source>
-        <translation>Você conectado à conta WPS Office : br /% 1q /Você pode mudar 2 % a sua conta Login ou sair .</translation>
+        <translation>Você conectado à conta WPS Office: &lt;br/&gt;%1&lt;/br/&gt;Você pode %2 mudar o login de sua conta ou desconectar.</translation>
     </message>
     <message>
         <source>You have been offline for a long time, in order to update your business authorization, please login to your account.</source>
-        <translation>Você foi desconectado por um longo tempo , a fim de atualizar a sua autorização negócio , por favor acessar sua conta.</translation>
+        <translation>Você esteve offline por um longo tempo , a fim de atualizar a sua autorização negócio, por favor fazer login em sua conta.</translation>
     </message>
     <message>
         <source>The number of equipments you are authorizing has reached its limit and the current equipment no longer gets a business authorization. You can offline other equipments in order to make the current equipment authorized.</source>
-        <translation>O número de equipamentos , estará a autorizar atingiu o seu limite e os equipamentos atuais já não recebe uma autorização empresarial . Você pode off-line outros equipamentos , a fim de tornar o equipamento atual autorizado.</translation>
+        <translation>O número de equipamentos que você está autorizando alcançou o seu limite e o equipamento atual não mais recebe autorização empresarial. Você pode deixar outros equipamentos offline a fim de tornar o equipamento atual autorizado.</translation>
     </message>
     <message>
         <source>Equipment Management</source>
@@ -1305,11 +1307,11 @@ path:%3</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Files in the Cloud Docs support multi-user collaborations</source>
-        <translation>Arquivos em Docs Nuvem apoiar colaborações multi- usuário</translation>
+        <translation>Arquivos no Cloud Docs suportam colaborações de múltiplos usuários</translation>
     </message>
 </context>
 <context>
@@ -1327,7 +1329,7 @@ path:%3</source>
     <name>KxNewFolderDlg</name>
     <message>
         <source>The file path cannot be longer than 255 characters.</source>
-        <translation>O caminho do arquivo não pode ter mais de 255 caracteres.</translation>
+        <translation>O caminho do arquivo não pode ter mais que 255 caracteres.</translation>
     </message>
     <message>
         <source>The file name must not contain any of the characters:
@@ -1348,18 +1350,18 @@ path:%3</source>
     <name>KxTpCloudLinkWidget</name>
     <message>
         <source>Transmitting share link failed. Please check the network or operation authorization.</source>
-        <translation>Transmitindo link de compartilhamento falhou. Por favor, verifique a autorização de rede ou operação.</translation>
+        <translation>Transmissão de link de compartilhamento falhou. Por favor, verifique a rede ou autorização da operação.</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>&apos;%1&apos; already exists. Operation cannot be completed.</source>
-        <translation>&apos;%1&apos; já existe. A operação não pode ser concluída.</translation>
+        <translation>&apos;%1&apos; já existe. A operação não pôde ser concluída.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this &apos;%1&apos; item permanently?</source>
-        <translation>Você deseja excluir permanentemente este &apos;%1&apos; item?</translation>
+        <translation>Tem certeza que deseja excluir permanentemente esse &apos;%1&apos; item?</translation>
     </message>
     <message>
         <source>Delete multiple items</source>
@@ -1367,11 +1369,11 @@ path:%3</source>
     </message>
     <message>
         <source>&apos;%1&apos; is protected. Operation cannot be completed.</source>
-        <translation>&apos;%1&apos; está protegido. A operação não foi concluída.</translation>
+        <translation>&apos;%1&apos; está protegido. A operação não pôde ser concluída.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the file &apos;%1&apos; permanently?</source>
-        <translation>Tem certeza de que deseja apagar o arquivo &apos;% 1&apos; de forma permanente ?</translation>
+        <translation>Tem certeza de que deseja apagar permanentemente o arquivo &apos;% 1&apos; ?</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -1391,7 +1393,7 @@ path:%3</source>
     </message>
     <message>
         <source>Delete From The Listing</source>
-        <translation>Excluir da listagem</translation>
+        <translation>Excluir da Listagem</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -1399,11 +1401,11 @@ path:%3</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Abrir pasta</translation>
+        <translation>Abrir Pasta</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation>Remover da Lista</translation>
+        <translation>Excluir da Lista</translation>
     </message>
 </context>
 <context>
@@ -1428,7 +1430,7 @@ path:%3</source>
     <name>kxKOSHireCommand</name>
     <message>
         <source>Authorization update</source>
-        <translation>Atualizar autorização</translation>
+        <translation>Atualização de autorização</translation>
     </message>
     <message>
         <source>Business authorization</source>
@@ -1439,7 +1441,7 @@ path:%3</source>
     <name>kxKOSLoginCommand</name>
     <message>
         <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
-        <translation>Entrar para mais serviços gratuitos como documentos on-line /BR, modelos on-line e material de coleções .</translation>
+        <translation>Entrar para mais serviços gratuitos como &lt;br/&gt;documentos, modelos online e coleções de materiais.</translation>
     </message>
 </context>
 <context>
@@ -1457,11 +1459,11 @@ path:%3</source>
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation>Data Recovery Título</translation>
+        <translation>Título de Recuperação de Dados</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation>Recuperação de dados de conteúdo</translation>
+        <translation>Conteúdo de Recuperação de Dados</translation>
     </message>
 </context>
 </TS>

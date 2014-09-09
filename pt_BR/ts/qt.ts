@@ -1209,7 +1209,7 @@ para
     <message>
         <location filename="../src/gui/widgets/qdatetimeedit.cpp" line="+2295"/>
         <source>am</source>
-        <translation>na</translation>
+        <translation>am</translation>
     </message>
     <message>
         <location line="+2"/>

@@ -62,10 +62,10 @@ Please try one of the following.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
-        <translation>O WPS Planilhas não pode abrir este arquivo, porque o usuário atual não tem permissão suficiente para acessa-lo .
+        <translation>O WPS Planilhas não pode abrir este arquivo porque o atual usuário não tem permissão para acessá-lo .
 Por favor, tente uma das seguintes opções .
-• Mudar para outra conta de usuário .
-• Pergunte ao criador do arquivo se ele pode alterar o controle de permissões.
+• Mude para outra conta de usuário .
+• Pergunte ao criador do arquivo se ele pode alterar as permissões.
 (%s)</translation>
     </message>
     <message utf8="true">
@@ -85,21 +85,21 @@ Por favor, tente uma das seguintes opções .
         <source>WPS Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>TX_Workbook_OpenPasswordFailure</comment>
-        <translation>WPS Spreadsheets não pode abrir este arquivo, porque a senha não está correta.
+        <translation>WPS Planilhas não pode abrir este arquivo porque a senha está incorreta.
 (%s)</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>TX_Workbook_OpenProvALGVerFailure</comment>
-        <translation>Formato do Arquivo Criptografado Não Suportado . Entre Em Contato Com O Criador .
+        <translation>O arquivo criptografado está em formato não suportado. Por favor, entre em contato com o criador do arquivo .
 (%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation>WPS Spreadsheets não pode salvar ou criar este arquivo . Por favor, certifique-se o disco de destino não está cheio ou não danificada .
+        <translation>WPS Planilhas não pode salvar ou criar este arquivo . Por favor, certifique-se de que o disco de destino não está cheio ou danificado .
 (%s)</translation>
     </message>
     <message>
@@ -126,7 +126,7 @@ Por favor, tente uma das seguintes opções .
     <message>
         <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
         <comment>TxDesc_AllETFiles</comment>
-        <translation>Todos WPS Spreadsheets arquivos(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
+        <translation>Todos os Arquivos do WPS Planilhas (*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>Xls</source>
@@ -136,22 +136,22 @@ Por favor, tente uma das seguintes opções .
     <message>
         <source>XML Files</source>
         <comment>TX_Desc_Default</comment>
-        <translation>Arquivos Xml</translation>
+        <translation>Arquivos xml</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>TX_SaveAs_Caption</comment>
-        <translation>Salvar Como</translation>
+        <translation>Salvar como</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation>Você deseja salvar as alterações feitas para &apos;%s &apos;?</translation>
+        <translation>Você deseja salvar as alterações feitas em &apos;%s &apos;?</translation>
     </message>
     <message>
         <source>(Read-only)</source>
         <comment>TX_ReadOnly_Sufix</comment>
-        <translation>(Somente leitura )</translation>
+        <translation>(Somente leitura)</translation>
     </message>
     <message>
         <source>*</source>
@@ -161,7 +161,7 @@ Por favor, tente uma das seguintes opções .
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation>&apos;%s &apos;é somente leitura . Se você quiser salvar uma cópia , clique em OK, em seguida, dar um novo nome para esta pasta de trabalho na caixa de diálogo Salvar como.</translation>
+        <translation>&apos;%s &apos;é somente leitura . Se você quiser salvar uma cópia , clique em OK, em seguida, coloque um novo nome para esta pasta de trabalho na caixa de diálogo Salvar como.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
@@ -222,7 +222,7 @@ Ou, você pode mover os últimos células não vazias em um novo local e tente n
     <message>
         <source>Fill failed due to there is an array in source area.</source>
         <comment>TX_VALUE_INVALID</comment>
-        <translation>falh de Preenchimento  devido a existe uma variedade na área de origem.</translation>
+        <translation>Falha de Preenchimento  devido a existe uma variedade na área de origem.</translation>
     </message>
     <message>
         <source>The number format you entered is invalid.</source>
@@ -524,7 +524,7 @@ Há várias razões possíveis:
     <message>
         <source>The selections must be on the active sheet.</source>
         <comment>TX_ERROR_PAGESETUPRANGE</comment>
-        <translation>As seleções devem estar na Planilha activa .</translation>
+        <translation>As seleções devem estar na Planilha ativa .</translation>
     </message>
     <message>
         <source>Cannot use this command while the selections contain entire rows or columns, and also other cells. Try selecting only entire rows, entire columns, or just groups of cells.</source>
@@ -811,7 +811,7 @@ Você não pode usar este comando em uma planilha protegida . Para remover a pro
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>TX_INVALID_PICTURE</comment>
-        <translation>Formato de imagem não-identificável.</translation>
+        <translation>Formato de imagem desconhecido.</translation>
     </message>
     <message>
         <source>Chart in %s</source>
@@ -1042,7 +1042,7 @@ Remova a pasta de trabalho do uso compartilhado ?
     <message>
         <source>(Exclusive)</source>
         <comment>TX_ShareWorkbook_SuffixExclusion</comment>
-        <translation>(Exclusive)</translation>
+        <translation>(Exclusivo)</translation>
     </message>
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
@@ -9865,7 +9865,7 @@ Check</source>
     <message>
         <source>is a number that you guess is close to the result of IRR; 0.1(10 percent) if omitted.</source>
         <comment>TX_ParaDesc_193</comment>
-        <translation>é um número que você adivinhar é próximo do resultado de TIR ; 0,1 ( 10 por cento ) , se omitido .</translation>
+        <translation>é um número que você julgar ser próximo do resultado de IRR; 0.1(10 por cento) , se for omitido .</translation>
     </message>
     <message>
         <source>is the cell or a name that refers to the cell you want to test.</source>
@@ -13487,7 +13487,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Formulas</source>
         <comment>et_sLookinFormulas</comment>
-        <translation>fórmulas</translation>
+        <translation>Fórmulas</translation>
     </message>
     <message>
         <source>Values</source>
@@ -13862,17 +13862,17 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>WPS Spreadsheets cannot find a match.</source>
         <comment>et_sReplace_NotFind</comment>
-        <translation>WPS Spreadsheets não pode encontrar uma correspondência .</translation>
+        <translation>WPS Planilha não pode encontrar a condição correspondente.</translation>
     </message>
     <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
         <comment>et_sReplace_ReplaceFailed</comment>
-        <translation>Encontre os jogos , mas não para substituir . Os conteúdos podem ser substituídos fórmulas inválidos .</translation>
+        <translation>Localizar a condição correspondente. , mas não para substituir . Os conteúdos substituídos podem invalidar formulas .</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <comment>et_sRequireNumber</comment>
-        <translation>Sua entrada não pode ser usado . Pode ser necessário um número inteiro ou decimal .</translation>
+        <translation>Sua entrada não pode ser usada . Pode ser necessário um número inteiro ou decimal .</translation>
     </message>
     <message>
         <source>Right</source>
@@ -14266,7 +14266,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Other Sheets...</source>
         <comment>et_sOtherSheetsCaption</comment>
-        <translation>Outros lençóis ...</translation>
+        <translation>Outras folhas...</translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections.
@@ -14411,10 +14411,8 @@ following range,it reminds checking the correctness of the
 contents.
 (Note: Please select the range with a single row or column)</source>
         <comment>et_sRepeatWordInputDeny</comment>
-        <translation>Se existem valores duplicados ao entrar no conteúdo
-seguinte intervalo , ele lembra de verificar a regularidade da
-conteúdo .
-(Nota : Por favor, selecione o intervalo com uma única linha ou coluna )</translation>
+        <translation>Se houver valores duplicados quando adicionar o conteúdo no intervalo a seguir, ele lembra de verificar a exatidão do conteúdo 
+(Nota: Por favor, selecione o intervalo com uma única linha ou coluna).</translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK. The duplica
@@ -14422,10 +14420,8 @@ ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
         <comment>et_sRepeatWordDelete</comment>
-        <translation>Ele compara o conteúdo de linhas depois clique em OK. o Duplica
-linhas ted com exatamente o mesmo conteúdo será apagado automação
-ticamente , apenas manter uma linha.
-(Nota: A função só suporta faixa single)</translation>
+        <translation>Ele compara o conteúdo de linhas depois clicar em OK. As linhas duplicadas com exatamente o mesmo conteúdo serão excluídas automaticamente, apenas manter uma linha. 
+(Nota: A função só suporta intervalo único)</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>

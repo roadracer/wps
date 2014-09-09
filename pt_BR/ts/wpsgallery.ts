@@ -7,14 +7,14 @@
     </message>
     <message>
         <source>shape</source>
-        <translation>formato</translation>
+        <translation>contorno</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
-        <source>EditGallery</source>
-        <translation type="unfinished"/>
+        <source>Edit Gallery</source>
+        <translation>Editar galeria</translation>
     </message>
     <message>
         <source>From:</source>
@@ -33,8 +33,8 @@
         <translation>Etiqueta:</translation>
     </message>
     <message>
-        <source>The Most Number Of Caption Is 5.</source>
-        <translation type="unfinished"/>
+        <source>The most number of caption is 5.</source>
+        <translation>O maior número da legenda é 5.</translation>
     </message>
     <message>
         <source>More:</source>
@@ -56,14 +56,6 @@
         <source>Less:</source>
         <translation>Menos:</translation>
     </message>
-    <message>
-        <source>Edit Gallery</source>
-        <translation>Editar Galeria</translation>
-    </message>
-    <message>
-        <source>The most number of caption is 5.</source>
-        <translation>O maior número de legenda é 5.</translation>
-    </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
@@ -79,35 +71,23 @@
 <context>
     <name>QApplication</name>
     <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation>Nome do \WPS Office\Desktop.ini</translation>
+        <translation>\WPS Office\Desktop.ini</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation>Nome do \WPS Office\AppData\Desktop.ini</translation>
+        <translation>\WPS Office\AppData\Desktop.ini</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation>Nome do \WPS Office\AppData\My Materials\Desktop.ini</translation>
+        <translation>\WPS Office\AppData\My Materials\Desktop.ini</translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation>WPSGallery</translation>
+        <translation>WPSGaleria</translation>
     </message>
 </context>
 </TS>

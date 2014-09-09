@@ -3,7 +3,7 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation>Erro ao baixar &quot;%1&quot;.</translation>
+        <translation>Falhou ao baixar &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -30,7 +30,7 @@
     </message>
     <message>
         <source>Restart to use newer version.</source>
-        <translation>Reiniciar para usar a versão mais nova.</translation>
+        <translation>Reiniciar para usar a versão mais recente.</translation>
     </message>
     <message>
         <source>docerhomepage</source>
@@ -39,12 +39,12 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation>Verifique modelos online</translation>
+        <translation>Verificar modelos on-line</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation>Modelos online</translation>
+        <translation>Modelos on-line</translation>
     </message>
 </context>
 </TS>
