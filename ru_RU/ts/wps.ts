@@ -9040,7 +9040,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian Text Font)</source>
-        <translation type="obsolete">(Используйте шрифт для азиатских языков)</translation>
+        <translation type="obsolete">Шрифт для азиатских языков</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -9126,7 +9126,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(Используйте шрифт для азиатских языков)</translation>
+        <translation>Шрифт для азиатских языков</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
