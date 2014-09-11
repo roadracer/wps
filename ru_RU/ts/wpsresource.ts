@@ -3076,7 +3076,7 @@ On</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Структура</translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5448,8 +5448,7 @@ Direction</source>
     <message>
         <source>Change
 Picture</source>
-        <translation>Изменить
-изображение</translation>
+        <translation>Изменить изображение</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -5669,7 +5668,7 @@ Picture</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Структура</translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5716,8 +5715,7 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation>Восстановить
-изображение</translation>
+        <translation>Восстановить изображение</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -8338,7 +8336,7 @@ Spacing</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Структура</translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10870,7 +10868,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Структура</translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -13225,7 +13223,7 @@ Text</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Структура</translation>
+        <translation>Контур</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -21728,7 +21726,7 @@ Directly</source>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Работа с рисунками</translation>
+        <translation>Работа с изображениями</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -22000,7 +21998,7 @@ Directly</source>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Работа с рисунками</translation>
+        <translation>Работа с изображениями</translation>
     </message>
     <message>
         <source>Print Preview</source>
