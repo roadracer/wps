@@ -12071,7 +12071,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation>Нет строки</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
