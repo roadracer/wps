@@ -17,7 +17,7 @@
 3DLightingPalette.title=Освещение
 3DLightingPalette.content="Задайте направление освещения для выбранной 3-D формы, а также интенсивность освещения из яркого, нормального и тусклого."
 
-3DOnOff.title=Применить или отменить эффект 3-D
+3DOnOff.title=Применить или отменить 3-D
 3DOnOff.content="Применение или отмена эффекта 3-D к фигуре."
 
 3DStylePalette.title=Эффекты 3-D
@@ -563,7 +563,7 @@ InsertTheEndnote.content="Добавление концевой сноски в 
 InsertTheFootnote.title=Вставить сноску
 InsertTheFootnote.content="Добавление сноски в документ."
 
-InsertWordArt.title=Вставить объект WordArt
+InsertWordArt.title=Вставить фигурный текст
 InsertWordArt.content=Открытие диалогового окна \"Коллекция\" для выбора стиля фигурного текста и редактирования содержимого.
 
 InsertWordField.title=Вставка следующих полей
@@ -1156,7 +1156,7 @@ WordArtOutline2.title=Контур
 WordArtOutline2.content=Щелкните стрелку для выбора стиля контура.
 
 WordArtSameLetterHeights.title=Выровнять по высоте
-WordArtSameLetterHeights.content=Выравнивание всех букв выбранного объекта WordArt по высоте.
+WordArtSameLetterHeights.content=Выравнивание всех букв выбранного фигурного текста по высоте.
 
 WordArtShapePalette.title=Форма
 WordArtShapePalette.content=Изменение стиля формы для выделенного фигурного текста.
