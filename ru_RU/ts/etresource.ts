@@ -4516,8 +4516,7 @@ Time</source>
     <message>
         <source>Insert
 Function</source>
-        <translation>Вставить
-функцию</translation>
+        <translation>Вставить функцию</translation>
     </message>
     <message>
         <source>Insert Function</source>
