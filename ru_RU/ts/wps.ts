@@ -7855,11 +7855,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Update &amp;page numbers only</source>
-        <translation>Обновить только &amp;номера страниц</translation>
+        <translation>Обновить только &amp;номера страниц.</translation>
     </message>
     <message>
         <source>Update &amp;entire table</source>
-        <translation>Обновить &amp;всё оглавление</translation>
+        <translation>Обновить &amp;всё оглавление.</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -7867,7 +7867,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation>WPS Writer обновляет оглавление. Выберите один из следующих вариантов:</translation>
+        <translation>Для обновления оглавления выберите:</translation>
     </message>
 </context>
 <context>
@@ -12071,7 +12071,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation>Нет строки</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>

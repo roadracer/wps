@@ -3555,7 +3555,7 @@ Columns</source>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation>Анализ чувствительности</translation>
+        <translation>Анализ предположений</translation>
     </message>
 </context>
 <context>
@@ -9520,7 +9520,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation>Анализ чувствительности</translation>
+        <translation>Анализ предположений</translation>
     </message>
 </context>
 <context>
