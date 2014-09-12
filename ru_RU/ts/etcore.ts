@@ -5504,7 +5504,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Returns the inverse hyperbolic cosine of a number.</source>
         <comment>ACOSH_REMARK</comment>
         <translation>
-Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число , поэтому результат формулы ACOSH(COSH(число)) равен значению аргумента число.</translation>
+Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число, поэтому результат формулы ACOSH(COSH(число)) равен значению аргумента число.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
@@ -16900,7 +16900,7 @@ tically, only keep one row.
     <message>
         <source>Returns the inverse hyperbolic cosine of a number.</source>
         <translation type="obsolete">
-Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число, поэтому результат формулы ACOSH(COSH(число)) равен значению аргумента число.</translation>
+Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
