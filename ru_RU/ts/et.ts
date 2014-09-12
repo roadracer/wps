@@ -8124,7 +8124,7 @@ t</source>
     </message>
     <message>
         <source>The selected border style can be applied by clicking the presets, preview diagram or the buttons above.</source>
-        <translation>Выбранный стиль границы может быть применен, выбором предустановок,предварительного просмотра диаграммы или нажатием кнопок, расположенных выше.</translation>
+        <translation>Выберите тип линии и с помощью мыши укажите, к какой части выделенного диапазона он относится: внешней границе всего диапазона, всем внутренним границам ячеек или отдельной ячейке.</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
