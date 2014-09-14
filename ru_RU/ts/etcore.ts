@@ -5674,7 +5674,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
         <comment>BINOMDIST_DESCRIPTION</comment>
-        <translation>Возвращает отдельное значение биномиального распределения. Функция БИНОМРАСП используется в задачах с фиксированным числом тестов или испытаний, когда результатом любого испытания может быть только успех или неудача, испытания независимы, а вероятность успеха одинакова на протяжении всего эксперимента.</translation>
+        <translation>Возвращает отдельное значение биномиального распределения.</translation>
     </message>
     <message>
         <source>CHIDIST(x,degrees_freedom)</source>
@@ -8712,7 +8712,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
-        <translation>Запятая</translation>
+        <translation>Числовой</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -8722,12 +8722,12 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
-        <translation>Процентная</translation>
+        <translation>Процентный</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
-        <translation>Запятая[0]</translation>
+        <translation>Числовой[0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
@@ -17040,7 +17040,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
-        <translation type="obsolete">Возвращает одностороннюю вероятность распределения хи-квадрат (χ2). Распределение χ2 связано с критерием χ2 . Критерий χ2 используется для сравнения наблюдаемых и ожидаемых значений.</translation>
+        <translation type="obsolete">Возвращает одностороннюю вероятность распределения хи-квадрат (χ2). Распределение χ2 связано с критерием χ2. Критерий χ2 используется для сравнения наблюдаемых и ожидаемых значений.</translation>
     </message>
     <message>
         <source>CHIINV(probability,degrees_freedom)</source>
