@@ -6105,7 +6105,8 @@ Changes</source>
         <source>Spell 
 Check</source>
         <comment>TXShell_CheckSpelling_Caption</comment>
-        <translation>Проверка правописания</translation>
+        <translation>Проверка 
+правописания</translation>
     </message>
     <message>
         <source>Formatted</source>
