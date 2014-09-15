@@ -3618,7 +3618,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>72 dpi</source>
-        <translation></translation>
+        <translation>72 точки на дюйм</translation>
     </message>
     <message>
         <source>144 dpi</source>

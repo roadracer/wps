@@ -813,7 +813,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>(Exclusive)</source>
-        <translation type="obsolete">(Исключительный)</translation>
+        <translation type="obsolete">(индивидуальный доступ)</translation>
     </message>
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
@@ -829,7 +829,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>(Shared)</source>
-        <translation type="obsolete">(Общий)</translation>
+        <translation type="obsolete">(общий)</translation>
     </message>
     <message>
         <source>The workbook is created by %s in exclusive mode.</source>
@@ -2929,7 +2929,7 @@ Remove the workbook from shared use?
     <message>
         <source>(Exclusive)</source>
         <comment>TX_ShareWorkbook_SuffixExclusion</comment>
-        <translation>(Исключительный)</translation>
+        <translation>(индивидуальный доступ)</translation>
     </message>
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
@@ -2949,7 +2949,7 @@ Remove the workbook from shared use?
     <message>
         <source>(Shared)</source>
         <comment>TX_Shared_Sufix</comment>
-        <translation>(Общий)</translation>
+        <translation>(общий доступ)</translation>
     </message>
     <message>
         <source>The workbook is created by %s in exclusive mode.</source>
