@@ -3321,7 +3321,7 @@ Direction</source>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзыв по электронной почте</translation>
+        <translation>Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -7783,7 +7783,8 @@ Effects</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>С тенью/без тени</translation>
+        <translation>Показать 
+или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow 
@@ -9308,7 +9309,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзыв по электронной почте</translation>
+        <translation>Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -11099,7 +11100,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзыв по электронной почте</translation>
+        <translation>Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>

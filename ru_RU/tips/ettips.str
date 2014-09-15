@@ -720,7 +720,7 @@ PrintPreviewZoomCombo.content=Выбор уровня масштабирован
 PrintTitle.title=Печатать на каждой странице
 PrintTitle.content=SВыбор строк и столбцов, котрые будут повторены на каждой печатной странице.
 
-ProtectAndShare.title=Защита книги и общий доступ<
+ProtectAndShare.title=Защита книги и общий доступ
 ProtectAndShare.content=Открытие общего доступа к книге с одновременной защитой этой книги паролем.\n\nПароль не позволит другим пользователям отключить учет изменений.
 
 ProtectSheet.title=Защита листа

@@ -5312,7 +5312,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the quartile of a data set.</source>
         <comment>QUARTILE_REMARK</comment>
-        <translation>Возвращает квартиль набора данных. Квартиль часто используются при анализе данных продаж для разбиения генеральной совокупности на группы. Например, можно воспользоваться функцией КВАРТИЛЬ, чтобы найти 25 процентов наиболее высоких значений дохода в генеральной совокупности.</translation>
+        <translation>Возвращает квартиль набора данных. Квартиль часто используются при анализе данных продаж для разбиения генеральной совокупности на группы.</translation>
     </message>
     <message>
         <source>RADIANS(angle)</source>
@@ -5443,7 +5443,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns a subtotal in list or database.</source>
         <comment>SUBTOTAL_REMARK</comment>
-        <translation>Возвращает промежуточный итог в списке или базе данных. Обычно проще создать список с промежуточными итогами, используя команду Итоги (меню Данные). Но если список с промежуточными итогами уже создан, его можно изменить, отредактировав формулу с функцией ПРОМЕЖУТОЧНЫЕ.ИТОГИ.</translation>
+        <translation>Возвращает промежуточный итог в списке или базе данных. Обычно проще создать список с промежуточными итогами, используя команду Итоги (меню Данные).</translation>
     </message>
     <message>
         <source>SUM(number1,number2, ...)</source>
@@ -5504,7 +5504,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Returns the inverse hyperbolic cosine of a number.</source>
         <comment>ACOSH_REMARK</comment>
         <translation>
-Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число, поэтому результат формулы ACOSH(COSH(число)) равен значению аргумента число.</translation>
+Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
@@ -5524,7 +5524,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
         <comment>ATANH_REMARK</comment>
-        <translation>Возвращает гиперболический арктангенс числа. Значение аргумента число должно находиться в интервале от -1 до 1 (исключая значения -1 и 1). Гиперболический арктангенс представляет собой значение, гиперболический тангенс которого есть число, поэтому результат формулы ATANH(TANH(число)) равен значению аргумента число.</translation>
+        <translation>Возвращает гиперболический арктангенс числа. Значение аргумента число должно находиться в интервале от -1 до 1 (исключая значения -1 и 1). Гиперболический арктангенс представляет собой значение, гиперболический тангенс которого есть число.</translation>
     </message>
     <message>
         <source>TRUNC(number,num_digits)</source>
@@ -5654,7 +5654,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the average (arithmetic mean) of the given arguments. Evaluates text and FALSE in arguments as 0, TRUE as 1. Arguments can be numbers, names, arrays or references.</source>
         <comment>AVERAGEA_REMARK</comment>
-        <translation>Вычисляет среднее арифметическое для значений, заданных списком аргументов. Аргументы, содержащие значение ИСТИНА, интерпретируются как 1; аргументы, содержащие текст или значение ЛОЖЬ, интерпретируются как 0. Допускаются следующие аргументы: числа; имена, массивы или ссылки, содержащие числа.</translation>
+        <translation>Вычисляет среднее арифметическое для значений, заданных списком аргументов. Аргументы, содержащие значение ИСТИНА, интерпретируются как 1; аргументы, содержащие текст или значение ЛОЖЬ, интерпретируются как 0.</translation>
     </message>
     <message>
         <source>AVEDEV(number1,number2,...)</source>
@@ -5674,7 +5674,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
         <comment>BINOMDIST_DESCRIPTION</comment>
-        <translation>Возвращает отдельное значение биномиального распределения. Функция БИНОМРАСП используется в задачах с фиксированным числом тестов или испытаний, когда результатом любого испытания может быть только успех или неудача, испытания независимы, а вероятность успеха одинакова на протяжении всего эксперимента.</translation>
+        <translation>Возвращает отдельное значение биномиального распределения.</translation>
     </message>
     <message>
         <source>CHIDIST(x,degrees_freedom)</source>
@@ -5805,7 +5805,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
         <comment>FDIST_DESCRIPTION</comment>
-        <translation>Возвращает F-распределение вероятности (распределение Фишера). Эта функция позволяет определить, имеют ли два набора данных различные степени разброса значений. Можно, например, проанализировать результаты тестирования старшеклассников и определить, различается ли разброс результатов мальчиков и девочек.</translation>
+        <translation>Возвращает F-распределение вероятности (распределение Фишера). Эта функция позволяет определить, имеют ли два набора данных различные степени разброса значений.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
@@ -5815,7 +5815,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates how often values occur within a range of values and then returns a vertical array of numbers having one more element than Bins_array.</source>
         <comment>FREQUENCY_DESCRIPTION</comment>
-        <translation>Вычисляет частоту появления значений в диапазоне значений и возвращает вертикальный массив чисел. Функцией ЧАСТОТА можно воспользоваться, например, для подсчета количества результатов тестирования, в которых набрано определенное число баллов. Поскольку функция ЧАСТОТА возвращает массив, ее следует вводить как формулу массива.</translation>
+        <translation>Вычисляет частоту появления значений в диапазоне значений и возвращает вертикальный массив чисел. Поскольку функция ЧАСТОТА возвращает массив, ее следует вводить как формулу массива.</translation>
     </message>
     <message>
         <source>FTEST(array1,array2)</source>
@@ -5865,7 +5865,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Predicts the exponential growth by using existing data.</source>
         <comment>GROWTH_REMARK</comment>
-        <translation>Рассчитывает прогнозируемый экспоненциальный рост на основании имеющихся данных. Функция РОСТ возвращает значения y для последовательности заданных новых значений x, вычисляя их на основании существующих значений x и y. Функцию РОСТ также можно использовать для аппроксимации существующих значений x и y экспоненциальной кривой.</translation>
+        <translation>Рассчитывает прогнозируемый экспоненциальный рост на основании имеющихся данных. Функция РОСТ возвращает значения y для последовательности заданных новых значений x, вычисляя их на основании существующих значений x и y.</translation>
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
@@ -5896,7 +5896,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
         <comment>HYPGEOMDIST_DESCRIPTION</comment>
-        <translation>Возвращает гипергеометрическое распределение. Значение, возвращаемое функцией ГИПЕРГЕОМЕТ, - это вероятность заданного количества успехов в выборке, если заданы размер выборки, количество успехов в генеральной совокупности и размер генеральной совокупности.</translation>
+        <translation>Возвращает гипергеометрическое распределение. Это вероятность заданного количества успехов в выборке, если заданы размер выборки, количество успехов в генеральной совокупности и размер генеральной совокупности.</translation>
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
@@ -5916,7 +5916,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution.</source>
         <comment>KURT_DESCRIPTION</comment>
-        <translation>Возвращает эксцесс набора данных. Эксцесс характеризует относительную остроконечность или сглаженность распределения по сравнению с нормальным распределением. Положительный эксцесс обозначает относительно остроконечное распределение. Отрицательный эксцесс обозначает относительно сглаженное распределение.</translation>
+        <translation>Возвращает эксцесс набора данных. Эксцесс характеризует относительную остроконечность или сглаженность распределения по сравнению с нормальным распределением.</translation>
     </message>
     <message>
         <source>LARGE(array,k)</source>
@@ -5936,7 +5936,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
         <comment>LINEST_REMARK</comment>
-        <translation>Рассчитывает статистику для ряда по методу наименьших квадратов, чтобы вычислить прямую линию, наилучшим образом аппроксимирующую имеющиеся данные, и возвращает массив, который описывает полученную прямую. Поскольку данная функция возвращает массив значений, она должна вводиться как формула массива.</translation>
+        <translation>Рассчитывает статистику для ряда по методу наименьших квадратов, чтобы вычислить прямую линию, наилучшим образом аппроксимирующую имеющиеся данные, и возвращает массив, который описывает полученную прямую.</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
@@ -5946,8 +5946,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the lognormal cumulative distribution function of x, where ln(x) is the normal distribution of parameters Mean and Standard_dev.</source>
         <comment>LOGINV_DESCRIPTION</comment>
-        <translation>Возвращает обратную функцию логарифмически нормального распределения для x, где ln(x) имеет нормальное распределение с параметрами среднее и стандартное_откл. Если p = ЛОГНОРМРАСП(x;...), то ЛОГНОРМОБР(p;...) = x.
-Логарифмически нормальное распределение используется для анализа логарифмически преобразованных данных.</translation>
+        <translation>Возвращает обратную функцию логарифмически нормального распределения для x, где ln(x) имеет нормальное распределение с параметрами среднее и стандартное_откл.</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
@@ -6027,7 +6026,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the negative binomial distribution, the probability that there will be Number_f failures before the Number_s-th success, with Probability_s probability of a success.</source>
         <comment>NEGBINOMDIST_DESCRIPTION</comment>
-        <translation>Возвращает отрицательное биномиальное распределение. Функция ОТРБИНОМРАСП возвращает вероятность возникновения определенного количества неудач (число_неудач) до указанного количества успехов (число_успехов) при условии, что вероятность успеха постоянна и равна значению аргумента вероятность_успеха.</translation>
+        <translation>Возвращает отрицательное биномиальное распределение. Это вероятность возникновения определенного количества неудач (число_неудач) до указанного количества успехов (число_успехов) при условии, что вероятность успеха постоянна и равна значению аргумента вероятность_успеха.</translation>
     </message>
     <message>
         <source>NORMDIST(x,mean,standard_dev,cumulative)</source>
@@ -6077,7 +6076,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the percentage rank of a value in a data set.</source>
         <comment>PERCENTRANK_DESCRIPTION</comment>
-        <translation>Возвращает ранг значения как его процентную норму в наборе данных. Эта функция используется для оценки относительного положения значения в наборе данных. Например, с помощью функции ПРОЦЕНТРАНГ можно оценить положение конкретного результата тестирования способностей среди всех результатов тестирования.</translation>
+        <translation>Возвращает ранг значения как его процентную норму в наборе данных. Эта функция используется для оценки относительного положения значения в наборе данных.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
@@ -6108,7 +6107,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Returns the k-th percentile of values in a range.</source>
         <comment>PERCENTILE_REMARK</comment>
         <translation>
-Возвращает k-й процентиль для значений из интервала. Эта функция используется для установки порога приемлемости. Например, можно принять решение экзаменовать только тех кандидатов, которые набрали количество баллов, превышающее 90-й процентиль.</translation>
+Возвращает k-й процентиль для значений из интервала. Эта функция используется для установки порога приемлемости.</translation>
     </message>
     <message>
         <source>RANK(number,ref,order)</source>
@@ -6148,7 +6147,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
         <comment>SLOPE_REMARK</comment>
-        <translation>Возвращает наклон линии линейной регрессии для точек данных, заданных аргументами известные_значения_y и известные_значения_x. Наклон определяется как частное от деления расстояния по вертикали на расстояние по горизонтали между двумя любыми точками прямой; иными словами, наклон — это скорость изменения значений вдоль прямой.</translation>
+        <translation>Возвращает наклон линии линейной регрессии для точек данных, заданных аргументами известные_значения_y и известные_значения_x.</translation>
     </message>
     <message>
         <source>SMALL(array,k)</source>
@@ -6218,7 +6217,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
         <comment>TDIST_DESCRIPTION</comment>
-        <translation>Возвращает процентные точки (вероятность) для t-распределения Стьюдента, где числовое значение (x) — вычисляемое значение t, для которого должны быть вычислены вероятности. T-распределение используется для проверки гипотез при малом объеме выборки. Данную функцию можно использовать вместо таблицы критических значений t-распределения.</translation>
+        <translation>Возвращает процентные точки (вероятность) для t-распределения Стьюдента, где числовое значение (x) — вычисляемое значение t, для которого должны быть вычислены вероятности.</translation>
     </message>
     <message>
         <source>TINV(probability,degrees_freedom)</source>
@@ -6398,7 +6397,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the one-tailed probability-value of a z-test.</source>
         <comment>ZTEST_DESCRIPTION</comment>
-        <translation>Возвращает одностороннее значение вероятности z-теста. Для заданного гипотетического среднего по генеральной совокупности µ0 функция ZTEСT возвращает вероятность того, что выборочное среднее будет больше среднего значения результатов наблюдений в наборе данных (массиве), называемого также средним значением наблюдаемой выборки.</translation>
+        <translation>Возвращает одностороннее значение вероятности z-теста.</translation>
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
@@ -7043,7 +7042,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
         <comment>IRR_REMARK</comment>
-        <translation>Возвращает внутреннюю ставку доходности для ряда денежных потоков, представленных числовыми значениями. В отличие от аннуитета, денежные суммы в пределах этих потоков могут колебаться. Однако обязательным условием является регулярность поступлений (например, ежемесячных или ежегодных). </translation>
+        <translation>Возвращает внутреннюю ставку доходности для ряда денежных потоков, представленных числовыми значениями. В отличие от аннуитета, денежные суммы в пределах этих потоков могут колебаться.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
@@ -7115,7 +7114,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Returns the present value of an investment, calculating from a series of future payments.</source>
         <comment>PV_REMARK</comment>
         <translation>
-Возвращает приведенную (к текущему моменту) стоимость инвестиции. Приведенная стоимость представляет собой общую сумму, которая на данный момент равноценна ряду будущих выплат. Например, в момент получения займа его сумма является приведенной стоимостью для заимодавца.</translation>
+Возвращает приведенную (к текущему моменту) стоимость инвестиции. Приведенная стоимость представляет собой общую сумму, которая на данный момент равноценна ряду будущих выплат.</translation>
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
@@ -7159,7 +7158,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
         <comment>VDB_REMARK</comment>
-        <translation>Возвращает величину амортизации актива для любого выбранного периода, в том числе для частичных периодов, с использованием метода двойного уменьшения остатка или иного указанного метода. Аббревиатура ПУО означает «переменное уменьшение остатка».</translation>
+        <translation>Возвращает величину амортизации актива для любого выбранного периода, в том числе для частичных периодов, с использованием метода двойного уменьшения остатка или иного указанного метода.</translation>
     </message>
     <message>
         <source>FACTDOUBLE(number)</source>
@@ -7622,7 +7621,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
         <comment>FINDB_REMARK</comment>
-        <translation>Находит одну текстовую строку (искомый_текст) в другой текстовой строке (просматриваемый_текст) и возвращает номер начальной позиции строки искомый_текст относительно первого знака строки просматриваемый_текст. Учитывает регистр и не допускает использования подстановочных знаков. Используется с двубайтными символами (DBCS).</translation>
+        <translation>Находит одну текстовую строку (искомый_текст) в другой текстовой строке (просматриваемый_текст) и возвращает номер начальной позиции строки искомый_текст относительно первого знака строки просматриваемый_текст. Используется с двубайтными символами (DBCS).</translation>
     </message>
     <message>
         <source>LEFTB(text,num_bytes)</source>
@@ -7743,7 +7742,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns a date that represents a date that is the indicated number of working days before or after a date (the starting date). The weekend and the dates specified as holidays are not included in working days. Use WORKDAY function to exclude weekend or holidays when you calculate invoice due dates, expected delivery date or the number of days you worked.</source>
         <comment>WORKDAY_DESCRIPTION</comment>
-        <translation>Возвращает число, которое представляет дату, отстоящую на заданное количество рабочих дней вперед или назад от начальной даты. Рабочими днями не считаются выходные дни и дни, определенные как праздничные. Используется для исключения выходных дней и праздников при вычислении дат платежей, дат поставки или количества фактически отработанных дней.</translation>
+        <translation>Возвращает число, которое представляет дату, отстоящую на заданное количество рабочих дней вперед или назад от начальной даты. Рабочими днями не считаются выходные дни и дни, определенные как праздничные.</translation>
     </message>
     <message>
         <source>YEARFRAC(start_date,end_date,basis)</source>
@@ -7763,7 +7762,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns a horizontal range of cells as a vertical range, or vice versa. TRANSPOSE must be entered as an array formula in the range that has the same numbers of rows or columns respectively with those of an array. Use TRANSPOSE to shift the vertical or horizontal orientation of an array in the worksheet.</source>
         <comment>TRANSPOSE_DESCRIPTION</comment>
-        <translation>Возвращает вертикальный диапазон ячеек в виде горизонтального и наоборот. Функцию ТРАНСП необходимо вводить как формулу массива в диапазон, который имеет столько же строк и столбцов, сколько столбцов и строк имеет аргумент «массив». Функция ТРАНСП используется для изменения ориентации массива на листе с вертикальной на горизонтальную и наоборот.</translation>
+        <translation>Возвращает вертикальный диапазон ячеек в виде горизонтального и наоборот. Функцию ТРАНСП необходимо вводить как формулу массива в диапазон, который имеет столько же строк и столбцов, сколько столбцов и строк имеет аргумент «массив».</translation>
     </message>
     <message>
         <source>MMULT(array1,array2)</source>
@@ -7924,7 +7923,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>In regression analysis, calculate an exponential curve that fits the data most and return an array of values that describe the curve. Since the function returns an array of values, it must be entered as an array formula.</source>
         <comment>LOGEST_DESCRIPTION</comment>
-        <translation>С использованием регрессионного анализа вычисляется экспоненциальная кривая, аппроксимирующая данные, и возвращается массив значений, описывающий эту кривую. Поскольку данная функция возвращает массив значений, ее следует вводить как формулу массива.</translation>
+        <translation>С использованием регрессионного анализа вычисляется экспоненциальная кривая, аппроксимирующая данные, и возвращается массив значений, описывающий эту кривую.</translation>
     </message>
     <message>
         <source>TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const)</source>
@@ -7935,7 +7934,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Predicts the linear increasing amount based on the current data.</source>
         <comment>TREND_DESCRIPTION</comment>
-        <translation>Возвращает значения в соответствии с линейным трендом. Функция ТЕНДЕНЦИЯ аппроксимирует прямой линией (по методу наименьших квадратов) массивы известные_значения_y и известные_значения_x. Возвращает значения y, соответствующие этой прямой, для заданного массива новые_значения_x.</translation>
+        <translation>Возвращает значения в соответствии с линейным трендом. Функция ТЕНДЕНЦИЯ аппроксимирует прямой линией (по методу наименьших квадратов) массивы известные_значения_y и известные_значения_x.</translation>
     </message>
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
@@ -8713,7 +8712,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
-        <translation>Запятая</translation>
+        <translation>Числовой</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -8723,12 +8722,12 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
-        <translation>Процентная</translation>
+        <translation>Процентный</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
-        <translation>Запятая[0]</translation>
+        <translation>Числовой[0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
@@ -16746,7 +16745,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
-        <translation type="obsolete">Возвращает квартиль набора данных. Квартиль часто используются при анализе данных продаж для разбиения генеральной совокупности на группы. Например, можно воспользоваться функцией КВАРТИЛЬ, чтобы найти 25 процентов наиболее высоких значений дохода в генеральной совокупности.</translation>
+        <translation type="obsolete">Возвращает квартиль набора данных. Квартиль часто используются при анализе данных продаж для разбиения генеральной совокупности на группы.</translation>
     </message>
     <message>
         <source>RADIANS(angle)</source>
@@ -16851,7 +16850,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns a subtotal in list or database.</source>
-        <translation type="obsolete">Возвращает промежуточный итог в списке или базе данных. Обычно проще создать список с промежуточными итогами, используя команду Итоги (меню Данные). Но если список с промежуточными итогами уже создан, его можно изменить, отредактировав формулу с функцией ПРОМЕЖУТОЧНЫЕ.ИТОГИ.</translation>
+        <translation type="obsolete">Возвращает промежуточный итог в списке или базе данных. Обычно проще создать список с промежуточными итогами, используя команду Итоги (меню Данные).</translation>
     </message>
     <message>
         <source>SUM(number1,number2, ...)</source>
@@ -16916,7 +16915,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
-        <translation type="obsolete">Возвращает гиперболический арктангенс числа. Значение аргумента число должно находиться в интервале от -1 до 1 (исключая значения -1 и 1). Гиперболический арктангенс представляет собой значение, гиперболический тангенс которого есть число, поэтому результат формулы ATANH(TANH(число)) равен значению аргумента число.</translation>
+        <translation type="obsolete">Возвращает гиперболический арктангенс числа. Значение аргумента число должно находиться в интервале от -1 до 1 (исключая значения -1 и 1). Гиперболический арктангенс представляет собой значение, гиперболический тангенс которого есть число.</translation>
     </message>
     <message>
         <source>TRUNC(number,num_digits)</source>
@@ -17017,7 +17016,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of the given arguments. Evaluates text and FALSE in arguments as 0, TRUE as 1. Arguments can be numbers, names, arrays or references.</source>
-        <translation type="obsolete">Вычисляет среднее арифметическое для значений, заданных списком аргументов. Аргументы, содержащие значение ИСТИНА, интерпретируются как 1; аргументы, содержащие текст или значение ЛОЖЬ, интерпретируются как 0. Допускаются следующие аргументы: числа; имена, массивы или ссылки, содержащие числа.</translation>
+        <translation type="obsolete">Вычисляет среднее арифметическое для значений, заданных списком аргументов. Аргументы, содержащие значение ИСТИНА, интерпретируются как 1; аргументы, содержащие текст или значение ЛОЖЬ, интерпретируются как 0.</translation>
     </message>
     <message>
         <source>AVEDEV(number1,number2,...)</source>
@@ -17033,7 +17032,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
-        <translation type="obsolete">Возвращает отдельное значение биномиального распределения. Функция БИНОМРАСП используется в задачах с фиксированным числом тестов или испытаний, когда результатом любого испытания может быть только успех или неудача, испытания независимы, а вероятность успеха одинакова на протяжении всего эксперимента.</translation>
+        <translation type="obsolete">Возвращает отдельное значение биномиального распределения.</translation>
     </message>
     <message>
         <source>CHIDIST(x,degrees_freedom)</source>
@@ -17041,7 +17040,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
-        <translation type="obsolete">Возвращает одностороннюю вероятность распределения хи-квадрат (χ2). Распределение χ2 связано с критерием χ2 . Критерий χ2 используется для сравнения наблюдаемых и ожидаемых значений.</translation>
+        <translation type="obsolete">Возвращает одностороннюю вероятность распределения хи-квадрат (χ2). Распределение χ2 связано с критерием χ2. Критерий χ2 используется для сравнения наблюдаемых и ожидаемых значений.</translation>
     </message>
     <message>
         <source>CHIINV(probability,degrees_freedom)</source>
@@ -17138,7 +17137,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
-        <translation type="obsolete">Возвращает F-распределение вероятности (распределение Фишера). Эта функция позволяет определить, имеют ли два набора данных различные степени разброса значений. Можно, например, проанализировать результаты тестирования старшеклассников и определить, различается ли разброс результатов мальчиков и девочек.</translation>
+        <translation type="obsolete">Возвращает F-распределение вероятности (распределение Фишера). Эта функция позволяет определить, имеют ли два набора данных различные степени разброса значений.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
@@ -17146,7 +17145,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Calculates how often values occur within a range of values and then returns a vertical array of numbers having one more element than Bins_array.</source>
-        <translation type="obsolete">Вычисляет частоту появления значений в диапазоне значений и возвращает вертикальный массив чисел. Функцией ЧАСТОТА можно воспользоваться, например, для подсчета количества результатов тестирования, в которых набрано определенное число баллов. Поскольку функция ЧАСТОТА возвращает массив, ее следует вводить как формулу массива.</translation>
+        <translation type="obsolete">Вычисляет частоту появления значений в диапазоне значений и возвращает вертикальный массив чисел. Поскольку функция ЧАСТОТА возвращает массив, ее следует вводить как формулу массива.</translation>
     </message>
     <message>
         <source>FTEST(array1,array2)</source>
@@ -17186,7 +17185,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Predicts the exponential growth by using existing data.</source>
-        <translation type="obsolete">Рассчитывает прогнозируемый экспоненциальный рост на основании имеющихся данных. Функция РОСТ возвращает значения y для последовательности заданных новых значений x, вычисляя их на основании существующих значений x и y. Функцию РОСТ также можно использовать для аппроксимации существующих значений x и y экспоненциальной кривой.</translation>
+        <translation type="obsolete">Рассчитывает прогнозируемый экспоненциальный рост на основании имеющихся данных. Функция РОСТ возвращает значения y для последовательности заданных новых значений x, вычисляя их на основании существующих значений x и y.</translation>
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
@@ -17211,7 +17210,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
-        <translation type="obsolete">Возвращает гипергеометрическое распределение. Значение, возвращаемое функцией ГИПЕРГЕОМЕТ, - это вероятность заданного количества успехов в выборке, если заданы размер выборки, количество успехов в генеральной совокупности и размер генеральной совокупности.</translation>
+        <translation type="obsolete">Возвращает гипергеометрическое распределение. Это вероятность заданного количества успехов в выборке, если заданы размер выборки, количество успехов в генеральной совокупности и размер генеральной совокупности.</translation>
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
@@ -17227,7 +17226,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution.</source>
-        <translation type="obsolete">Возвращает эксцесс набора данных. Эксцесс характеризует относительную остроконечность или сглаженность распределения по сравнению с нормальным распределением. Положительный эксцесс обозначает относительно остроконечное распределение. Отрицательный эксцесс обозначает относительно сглаженное распределение.</translation>
+        <translation type="obsolete">Возвращает эксцесс набора данных. Эксцесс характеризует относительную остроконечность или сглаженность распределения по сравнению с нормальным распределением.</translation>
     </message>
     <message>
         <source>LARGE(array,k)</source>
@@ -17243,7 +17242,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
-        <translation type="obsolete">Рассчитывает статистику для ряда по методу наименьших квадратов, чтобы вычислить прямую линию, наилучшим образом аппроксимирующую имеющиеся данные, и возвращает массив, который описывает полученную прямую. Поскольку данная функция возвращает массив значений, она должна вводиться как формула массива.</translation>
+        <translation type="obsolete">Рассчитывает статистику для ряда по методу наименьших квадратов, чтобы вычислить прямую линию, наилучшим образом аппроксимирующую имеющиеся данные, и возвращает массив, который описывает полученную прямую.</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
@@ -17251,8 +17250,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the inverse of the lognormal cumulative distribution function of x, where ln(x) is the normal distribution of parameters Mean and Standard_dev.</source>
-        <translation type="obsolete">Возвращает обратную функцию логарифмически нормального распределения для x, где ln(x) имеет нормальное распределение с параметрами среднее и стандартное_откл. Если p = ЛОГНОРМРАСП(x;...), то ЛОГНОРМОБР(p;...) = x.
-Логарифмически нормальное распределение используется для анализа логарифмически преобразованных данных.</translation>
+        <translation type="obsolete">Возвращает обратную функцию логарифмически нормального распределения для x, где ln(x) имеет нормальное распределение с параметрами среднее и стандартное_откл.</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
@@ -17316,7 +17314,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the negative binomial distribution, the probability that there will be Number_f failures before the Number_s-th success, with Probability_s probability of a success.</source>
-        <translation type="obsolete">Возвращает отрицательное биномиальное распределение. Функция ОТРБИНОМРАСП возвращает вероятность возникновения определенного количества неудач (число_неудач) до указанного количества успехов (число_успехов) при условии, что вероятность успеха постоянна и равна значению аргумента вероятность_успеха.</translation>
+        <translation type="obsolete">Возвращает отрицательное биномиальное распределение. Это вероятность возникновения определенного количества неудач (число_неудач) до указанного количества успехов (число_успехов) при условии, что вероятность успеха постоянна и равна значению аргумента вероятность_успеха.</translation>
     </message>
     <message>
         <source>NORMDIST(x,mean,standard_dev,cumulative)</source>
@@ -17356,7 +17354,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the percentage rank of a value in a data set.</source>
-        <translation type="obsolete">Возвращает ранг значения как его процентную норму в наборе данных. Эта функция используется для оценки относительного положения значения в наборе данных. Например, с помощью функции ПРОЦЕНТРАНГ можно оценить положение конкретного результата тестирования способностей среди всех результатов тестирования.</translation>
+        <translation type="obsolete">Возвращает ранг значения как его процентную норму в наборе данных. Эта функция используется для оценки относительного положения значения в наборе данных.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
@@ -17381,7 +17379,7 @@ tically, only keep one row.
     <message>
         <source>Returns the k-th percentile of values in a range.</source>
         <translation type="obsolete">
-Возвращает k-й процентиль для значений из интервала. Эта функция используется для установки порога приемлемости. Например, можно принять решение экзаменовать только тех кандидатов, которые набрали количество баллов, превышающее 90-й процентиль.</translation>
+Возвращает k-й процентиль для значений из интервала. Эта функция используется для установки порога приемлемости.</translation>
     </message>
     <message>
         <source>RANK(number,ref,order)</source>
@@ -17413,7 +17411,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
-        <translation type="obsolete">Возвращает наклон линии линейной регрессии для точек данных, заданных аргументами известные_значения_y и известные_значения_x. Наклон определяется как частное от деления расстояния по вертикали на расстояние по горизонтали между двумя любыми точками прямой; иными словами, наклон — это скорость изменения значений вдоль прямой.</translation>
+        <translation type="obsolete">Возвращает наклон линии линейной регрессии для точек данных, заданных аргументами известные_значения_y и известные_значения_x.</translation>
     </message>
     <message>
         <source>SMALL(array,k)</source>
@@ -17469,7 +17467,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
-        <translation type="obsolete">Возвращает процентные точки (вероятность) для t-распределения Стьюдента, где числовое значение (x) — вычисляемое значение t, для которого должны быть вычислены вероятности. T-распределение используется для проверки гипотез при малом объеме выборки. Данную функцию можно использовать вместо таблицы критических значений t-распределения.</translation>
+        <translation type="obsolete">Возвращает процентные точки (вероятность) для t-распределения Стьюдента, где числовое значение (x) — вычисляемое значение t, для которого должны быть вычислены вероятности.</translation>
     </message>
     <message>
         <source>TINV(probability,degrees_freedom)</source>
@@ -17601,7 +17599,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the one-tailed probability-value of a z-test.</source>
-        <translation type="obsolete">Возвращает одностороннее значение вероятности z-теста. Для заданного гипотетического среднего по генеральной совокупности µ0 функция ZTEСT возвращает вероятность того, что выборочное среднее будет больше среднего значения результатов наблюдений в наборе данных (массиве), называемого также средним значением наблюдаемой выборки.</translation>
+        <translation type="obsolete">Возвращает одностороннее значение вероятности z-теста.</translation>
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
@@ -18126,7 +18124,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
-        <translation type="obsolete">Возвращает внутреннюю ставку доходности для ряда денежных потоков, представленных числовыми значениями. В отличие от аннуитета, денежные суммы в пределах этих потоков могут колебаться. Однако обязательным условием является регулярность поступлений (например, ежемесячных или ежегодных). </translation>
+        <translation type="obsolete">Возвращает внутреннюю ставку доходности для ряда денежных потоков, представленных числовыми значениями. В отличие от аннуитета, денежные суммы в пределах этих потоков могут колебаться.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
@@ -18184,7 +18182,7 @@ tically, only keep one row.
     <message>
         <source>Returns the present value of an investment, calculating from a series of future payments.</source>
         <translation type="obsolete">
-Возвращает приведенную (к текущему моменту) стоимость инвестиции. Приведенная стоимость представляет собой общую сумму, которая на данный момент равноценна ряду будущих выплат. Например, в момент получения займа его сумма является приведенной стоимостью для заимодавца.</translation>
+Возвращает приведенную (к текущему моменту) стоимость инвестиции. Приведенная стоимость представляет собой общую сумму, которая на данный момент равноценна ряду будущих выплат.</translation>
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
@@ -18220,7 +18218,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
-        <translation type="obsolete">Возвращает величину амортизации актива для любого выбранного периода, в том числе для частичных периодов, с использованием метода двойного уменьшения остатка или иного указанного метода. Аббревиатура ПУО означает «переменное уменьшение остатка».</translation>
+        <translation type="obsolete">Возвращает величину амортизации актива для любого выбранного периода, в том числе для частичных периодов, с использованием метода двойного уменьшения остатка или иного указанного метода.</translation>
     </message>
     <message>
         <source>FACTDOUBLE(number)</source>
@@ -18591,7 +18589,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
-        <translation type="obsolete">Находит одну текстовую строку (искомый_текст) в другой текстовой строке (просматриваемый_текст) и возвращает номер начальной позиции строки искомый_текст относительно первого знака строки просматриваемый_текст. Учитывает регистр и не допускает использования подстановочных знаков. Используется с двубайтными символами (DBCS).</translation>
+        <translation type="obsolete">Находит одну текстовую строку (искомый_текст) в другой текстовой строке (просматриваемый_текст) и возвращает номер начальной позиции строки искомый_текст относительно первого знака строки просматриваемый_текст. Используется с двубайтными символами (DBCS).</translation>
     </message>
     <message>
         <source>LEFTB(text,num_bytes)</source>
@@ -18688,7 +18686,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns a date that represents a date that is the indicated number of working days before or after a date (the starting date). The weekend and the dates specified as holidays are not included in working days. Use WORKDAY function to exclude weekend or holidays when you calculate invoice due dates, expected delivery date or the number of days you worked.</source>
-        <translation type="obsolete">Возвращает число, которое представляет дату, отстоящую на заданное количество рабочих дней вперед или назад от начальной даты. Рабочими днями не считаются выходные дни и дни, определенные как праздничные. Используется для исключения выходных дней и праздников при вычислении дат платежей, дат поставки или количества фактически отработанных дней.</translation>
+        <translation type="obsolete">Возвращает число, которое представляет дату, отстоящую на заданное количество рабочих дней вперед или назад от начальной даты. Рабочими днями не считаются выходные дни и дни, определенные как праздничные.</translation>
     </message>
     <message>
         <source>YEARFRAC(start_date,end_date,basis)</source>
@@ -18704,7 +18702,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Returns a horizontal range of cells as a vertical range, or vice versa. TRANSPOSE must be entered as an array formula in the range that has the same numbers of rows or columns respectively with those of an array. Use TRANSPOSE to shift the vertical or horizontal orientation of an array in the worksheet.</source>
-        <translation type="obsolete">Возвращает вертикальный диапазон ячеек в виде горизонтального и наоборот. Функцию ТРАНСП необходимо вводить как формулу массива в диапазон, который имеет столько же строк и столбцов, сколько столбцов и строк имеет аргумент «массив». Функция ТРАНСП используется для изменения ориентации массива на листе с вертикальной на горизонтальную и наоборот.</translation>
+        <translation type="obsolete">Возвращает вертикальный диапазон ячеек в виде горизонтального и наоборот. Функцию ТРАНСП необходимо вводить как формулу массива в диапазон, который имеет столько же строк и столбцов, сколько столбцов и строк имеет аргумент «массив».</translation>
     </message>
     <message>
         <source>MMULT(array1,array2)</source>
@@ -18833,7 +18831,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>In regression analysis, calculate an exponential curve that fits the data most and return an array of values that describe the curve. Since the function returns an array of values, it must be entered as an array formula.</source>
-        <translation type="obsolete">С использованием регрессионного анализа вычисляется экспоненциальная кривая, аппроксимирующая данные, и возвращается массив значений, описывающий эту кривую. Поскольку данная функция возвращает массив значений, ее следует вводить как формулу массива.</translation>
+        <translation type="obsolete">С использованием регрессионного анализа вычисляется экспоненциальная кривая, аппроксимирующая данные, и возвращается массив значений, описывающий эту кривую.</translation>
     </message>
     <message>
         <source>TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const)</source>
@@ -18842,7 +18840,7 @@ tically, only keep one row.
     </message>
     <message>
         <source>Predicts the linear increasing amount based on the current data.</source>
-        <translation type="obsolete">Возвращает значения в соответствии с линейным трендом. Функция ТЕНДЕНЦИЯ аппроксимирует прямой линией (по методу наименьших квадратов) массивы известные_значения_y и известные_значения_x. Возвращает значения y, соответствующие этой прямой, для заданного массива новые_значения_x.</translation>
+        <translation type="obsolete">Возвращает значения в соответствии с линейным трендом. Функция ТЕНДЕНЦИЯ аппроксимирует прямой линией (по методу наименьших квадратов) массивы известные_значения_y и известные_значения_x.</translation>
     </message>
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>

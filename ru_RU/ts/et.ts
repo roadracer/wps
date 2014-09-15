@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation>&amp;Остановить</translation>
+        <translation>&amp;Стоп</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -4711,7 +4711,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Number:</source>
-        <translation>Номер:</translation>
+        <translation>Число:</translation>
     </message>
     <message>
         <source>Alignment:</source>
@@ -4723,7 +4723,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Border:</source>
-        <translation>Граница:</translation>
+        <translation>Рамка:</translation>
     </message>
     <message>
         <source>Patterns:</source>
@@ -5172,7 +5172,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Decimal</source>
-        <translation>Десятичный</translation>
+        <translation>Десятичное</translation>
     </message>
     <message>
         <source>List</source>
@@ -5288,7 +5288,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Stop</source>
-        <translation>Остановить</translation>
+        <translation>Стоп</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -8527,7 +8527,7 @@ t</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation></translation>
+        <translation>Заполнение</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -8599,7 +8599,7 @@ t</source>
     </message>
     <message>
         <source>No Borders</source>
-        <translation>Без границ</translation>
+        <translation>Без рамки</translation>
     </message>
     <message>
         <source>Border</source>
@@ -8627,7 +8627,7 @@ t</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Остановить</translation>
+        <translation>Стоп</translation>
     </message>
     <message>
         <source>Black</source>

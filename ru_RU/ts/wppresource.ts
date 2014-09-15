@@ -2823,7 +2823,7 @@ On</source>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы и предложения по электронной почте</translation>
+        <translation>Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -7521,7 +7521,7 @@ COM</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы и предложения по электронной почте</translation>
+        <translation>Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -7777,7 +7777,7 @@ COM</translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
-        <translation>Фильмы и звуки</translation>
+        <translation>Фильмы и звук</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -9106,7 +9106,7 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы и предложения по электронной почте</translation>
+        <translation>Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>

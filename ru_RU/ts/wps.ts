@@ -8215,7 +8215,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxFieldDlg</name>
     <message>
         <source>Formula</source>
-        <translation></translation>
+        <translation>Формула</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -8364,7 +8364,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation></translation>
+        <translation>Формула:</translation>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents, click Options, then select Table entry fields. Field code: TC</source>
