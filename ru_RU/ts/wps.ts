@@ -1661,7 +1661,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Patterns</source>
-        <translation>Образцы</translation>
+        <translation>Узоры</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>

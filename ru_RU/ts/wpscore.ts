@@ -5702,12 +5702,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>TxVersion_CannotUndo</comment>
-        <translation>Невозможно отменить</translation>
+        <translation>Нельзя отменить</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
         <comment>TxVersion_CannotRedo</comment>
-        <translation>Невозможно вернуть</translation>
+        <translation>Нельзя вернуть</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -6105,8 +6105,7 @@ Changes</source>
         <source>Spell 
 Check</source>
         <comment>TXShell_CheckSpelling_Caption</comment>
-        <translation>Проверка 
-правописания</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Formatted</source>
@@ -9660,11 +9659,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="obsolete">Невозможно отменить</translation>
+        <translation type="obsolete">Нельзя отменить</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="obsolete">Невозможно вернуть</translation>
+        <translation type="obsolete">Нельзя вернуть</translation>
     </message>
     <message>
         <source>Undo</source>

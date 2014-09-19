@@ -2478,7 +2478,7 @@ Directly</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Отменить</translation>
+        <translation>Вернуть</translation>
     </message>
     <message>
         <source>Replace</source>
