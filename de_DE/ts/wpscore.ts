@@ -701,7 +701,11 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Es wurde ein Fehler gefunden, wenn WPS-Writer versuchen, Quelldatei zu aktualisieren.
+Versuchen Sie Folgendes:
+1. Überprüfen Sie, ob die Quelldatei geöffnet oder von anderen Programmen belegt wird.
+2. Überprüfen Sie, ob die Quelldatei geschützt wird.
+3. Stellen Sie sicher, dass die Quelldatei im entsprechenden Verzeichnis vorhanden ist. </translation>
     </message>
 </context>
 <context>
@@ -855,17 +859,17 @@ Try one or more of the following:
     <message>
         <source>Error! Invalid file name.</source>
         <comment>TX_FIELD_ERR_FILENAME_NOT_EXISTED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Ungültiger Dateiname.</translation>
     </message>
     <message>
         <source>Error! Include may not refer to itself.</source>
         <comment>TX_FIELD_ERR_CANNOT_INCLUDE_ITSELF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Das Feld EINFÜGEN darf sich nicht auf sich selbst beziehen.</translation>
     </message>
     <message>
         <source>Fields are nested too deeply.</source>
         <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Felder sind zu sehr geschachtelt.</translation>
     </message>
 </context>
 <context>
@@ -2140,12 +2144,12 @@ Do you want to replace it?</source>
     <message>
         <source>None</source>
         <comment>TxRevision_Pap_None</comment>
-        <translation type="unfinished">Nichts</translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <source>None</source>
         <comment>_TxNothing</comment>
-        <translation type="unfinished">Nichts</translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -2874,7 +2878,7 @@ Do you want to replace it?</source>
     <message>
         <source>Cannot insert any object to the text box which can be resized or rotated.</source>
         <comment>_TxErr_ResizeOrRotateTextboxAddShapeWarning</comment>
-        <translation type="unfinished">dessen Größe verändert werden oder das gedreht werden kann.</translation>
+        <translation type="unfinished">Objekte dürfen ins Textfeld nicht eingefügt werden, dessen Größe verändert werden oder das gedreht werden kann.</translation>
     </message>
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
@@ -2909,13 +2913,14 @@ Do you want to replace it?</source>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
         <comment>_TxErr_MeasureOutOfPageLimit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Einstellungen von beiden Seitenrändern, dem Spaltenabstand oder dem Absatzeinzug in einigen Abschnitten überschreiten die Seitenbreite.</translation>
     </message>
     <message>
         <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
 Use the &apos;Find Next Region I Can Edit&apos; button to show each region individually.</source>
         <comment>_TxErr_SelectAllExceptions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einige der Bereiche, die Sie bearbeiten können, überlappen, und können nicht alle zugleich angezeigt werden. 
+Verwenden Sie die Schaltfläche &quot;Nächster bearbeitbarer Bereich&quot;, um die Bereiche einzeln anzuzeigen.</translation>
     </message>
     <message>
         <source>The Base Style Name does not exist or its type is not correct.</source>
@@ -2945,17 +2950,17 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToResizeOrRotateWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Textfeld enthält Objekte oder Tabellen. Aber keine Objekte oder Tabellen darf das Textfeld enthalten, dessen Größe veränderbar ist oder das drehbar ist. Wenn Sie die Eigenschaften einstellen, werden die Objekte ooder Tabellen gelöscht werden. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>The text box contains one or more tables which will be deleted if you convert them, because the vertical text box cannot contain any table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToVerticalWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Textfeld enthält eine oder mehrere Tabellen. Ein Textfeld mit vertikaler Textausrichtung kann keine Tabellen enthalten. Die Tabelle wird gelöscht, wenn Sie die Tabelle(n) zu Text konvertieren. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
         <comment>_TxErr_CreateTextboxWaring1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Markierung enthält Verweise für Fußnoten, Endnoten oder Kommentar. Beim Konvertieren zu einem Textfeld geht der Verweistext verloren. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2975,7 +2980,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
         <comment>_TxErr_InvalidAnchorPosition</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zeichnungsobjekte dürfen nicht ins Textfeld, in die Beschriftung, ins Kommentar, in die Fuß- oder Endnote eingefügt werden.</translation>
     </message>
     <message>
         <source>The Based On style name does not exist or is of an incorrect type.</source>
@@ -2985,7 +2990,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sie versuchen, eine oder mehrere Tabellen in ein vertikales Textfeld zu kopieren. Ein Textfeld oder Rahmen mit vertikaler Textausrichtung kann keine Tabellen enthalten. Die Tabelle wird gelöscht. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
 </context>
 <context>
@@ -3693,7 +3698,7 @@ Geben Sie einen anderen Namen für das Dokument ein.
     <message>
         <source>Cannot check spelling in the Original review.</source>
         <comment>wps_sCannotCheckSpellingOnOrgRevision</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechtschreibprüfung kann nicht ausgeführt werden beim Original.</translation>
     </message>
     <message>
         <source>Cannot find default dictionary. Please select a custom dictionary in the options, and recheck again.</source>
@@ -4342,7 +4347,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
         <comment>wps_sPutOrientationError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehler beim Festlegen der Textrichtung, weil beispielsweise die Spaltenbreite zu klein ist. Passen Sie die Einstellung an.</translation>
     </message>
     <message>
         <source>Page</source>
@@ -4417,27 +4422,27 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF myEndPage</source>
         <comment>wps_sPageRefExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass die Textmarke myEndPage auf der Seite 5 ist. Feldfunktion:PAGEREF myEndPage</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
         <comment>wps_sPageExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass die Position vom Einfügen des Feldes Seite 3 ist. Feldfunktion:PAGE \* CHINESENUM2</translation>
     </message>
     <message>
         <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
         <comment>wps_sSectionExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass es 10 Seiten gibt, wo das Feld eifgefügt wird. Feldfunktion:SECTIONPAGES</translation>
     </message>
     <message>
         <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
         <comment>wps_sNumPagesExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass es im aktuellen Dokument insgesamt 10 Seiten gibt. Feldfunktion:NumPages</translation>
     </message>
     <message>
         <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:TOC \o &quot;1-3&quot; \h  \u</source>
         <comment>wps_sTocExample</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annehmen, dass es Formatvorlagen vom Überschrift 1 bis 3 gibt, oder es Gliederungsebenen vom Absatz 1 bis 3 gibt. Feldfunktion:TOC \o &quot;1-3&quot; \h  \u</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
@@ -4572,12 +4577,12 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>Sounds Like(English)</source>
         <comment>wps_sSoundsLike</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ähnl. Schreibweise (Englisch)</translation>
     </message>
     <message>
         <source>Sounds Like(Japanese)</source>
         <comment>wps_sMatchFuzzy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ähnl. Schreibweise (Japanisch)</translation>
     </message>
     <message>
         <source>Space Before: %s pt, after %s pt, </source>
@@ -4702,12 +4707,12 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
         <comment>wps_sUSBVersionDirCannotModify</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Standarddokumentpfad von USB-Version darf nicht geändert werden!</translation>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
         <comment>wps_sTcExample</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das eingefügte Standardfeld von TC ist Ausgeblendeten Text. Um das Feld anzuziegen, klicken Sie bitte auf Einfügen/ Referenz/ Inhaltsverzeichnis und Optionen, dann wählen Sie bitte Verzeichniseintragsfeldern aus. Feldfunktion: TC</translation>
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
@@ -4802,7 +4807,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>wps_sChangeTextboxToResizeOrRotateWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Textfeld enthält Objekte oder Tabellen, die gelöschet werden, wenn Sie Ihre Eigenschaften einstellen. Denn das die Größe veränderbare oder drehbare Textfeld darf keine Objekte oder Tabellen enthalten. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>The value must be between %d and %d.</source>
@@ -5189,7 +5194,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>For &amp;which numbered item:</source>
         <comment>wps_sCrossRef_WitchNum</comment>
-        <translation type="unfinished">Für welches nummeriertes Elemente</translation>
+        <translation type="unfinished">Für welches nummeriertes Elemente:</translation>
     </message>
     <message>
         <source>For &amp;which heading:</source>
@@ -5343,7 +5348,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Add Protect Exception</source>
         <comment>TxVersion_AddProtectException</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schutzausnahmen hinzufügen</translation>
     </message>
     <message>
         <source>Add Vertical Border</source>
@@ -5678,7 +5683,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Delete Protect Exception</source>
         <comment>TxVersion_DeleteProtectException</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schutzausnahmen löschen</translation>
     </message>
     <message>
         <source>Delete Style</source>

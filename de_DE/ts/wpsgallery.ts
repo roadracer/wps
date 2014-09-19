@@ -109,7 +109,7 @@
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation>WPSGalerie</translation>
+        <translation>WPS-Galerie</translation>
     </message>
 </context>
 </TS>

@@ -3607,56 +3607,58 @@
     <message>
         <source>No Item In Collection</source>
         <comment>_ksoErr_Basic_NoItemInCollection</comment>
-        <translation type="unfinished">Kein Element in der Sammlung</translation>
+        <translation>Kein Element in der Sammlung</translation>
     </message>
     <message>
         <source>Object Deleted</source>
         <comment>_ksoErr_Basic_ObjectDeleted</comment>
-        <translation type="unfinished">Objekt gelöscht</translation>
+        <translation>Objekt gelöscht</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished">Wert außerhalb des Bereichs</translation>
+        <translation>Wert nicht im Definitionsbereich</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
         <comment>_ksoErr_Basic_BadParameter</comment>
-        <translation type="unfinished">Ungültiger Parameter</translation>
+        <translation>Ungültiger Parameter</translation>
     </message>
     <message>
         <source>Command Failed</source>
         <comment>_ksoErr_Basic_CommandFailed</comment>
-        <translation type="unfinished">Befehl fehlgeschlagen</translation>
+        <translation>Befehl misslungen</translation>
     </message>
     <message>
         <source>Unknown Error</source>
         <comment>_ksoErr_Basic_UnknownError</comment>
-        <translation type="unfinished">Unbekannter Fehler</translation>
+        <translation>Unbekannter Fehler</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
         <comment>_ksoErr_Basic_InvalidArg</comment>
-        <translation type="unfinished">Ungültiger Parameter</translation>
+        <translation>Ungültiger Parameter</translation>
     </message>
     <message>
         <source>Item Exists</source>
         <comment>_ksoErr_Basic_ItemExists</comment>
-        <translation type="unfinished">Element vorhanden</translation>
+        <translation>Element bereits vorhanden</translation>
     </message>
     <message>
         <source>Temporary directory does not exist or failed to create temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das temporäre Verzeichnis ist nicht vorhanden oder es wurde Fehler beim Erstellen des temporären Verzeichnisses gefunden.
+Überprüfen Sie Ihre Systemeinstellungen, stellen Sie sicher, dass das temporäre Verzeichnis beim aktuellen Benutzer verfügbar ist und starten Sie WPS-office neu.</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der aktuelle Benutzer ist nicht berechtigt, im temporären Verzeichnis zu schreiben.
+Überprüfen Sie Ihre Systemeinstellungen, stellen Sie sicher, dass das temporäre Verzeichnis beim aktuellen Benutzer verfügbar ist und starten Sie WPS-office neu.</translation>
     </message>
 </context>
 <context>
@@ -3664,212 +3666,212 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Unformatted Text</source>
         <comment>TX_KSO_CF_TEXT_DISPNAME</comment>
-        <translation type="unfinished">Unformatierter Text</translation>
+        <translation>Unformatierter Text</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
         <comment>TX_KSO_CF_TEXT_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als unformatierter Text eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als unformatierter Text ohne Formatierung eingefügt.</translation>
     </message>
     <message>
         <source>Data of WPS Writer</source>
         <comment>TX_KSO_CF_WPS_DISPNAME</comment>
-        <translation type="unfinished">Daten von WPS Writer</translation>
+        <translation>Daten von WPS-Writer</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
         <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Daten von WPS Writer eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als Daten von WPS-Writer eingefügt.</translation>
     </message>
     <message>
         <source>Data of WPS Spreadsheets</source>
         <comment>TX_KSO_CF_ET_DISPNAME</comment>
-        <translation type="unfinished">Daten von WPS Spreadsheets</translation>
+        <translation>Daten von WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
         <comment>TX_KSO_CF_ET_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Daten von WPS Spreadsheets eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als Daten von WPS-Spreadsheets eingefügt.</translation>
     </message>
     <message>
         <source>Data of WPS Presentation</source>
         <comment>TX_KSO_CF_WPP_DISPNAME</comment>
-        <translation type="unfinished">Daten von WPS Presentation</translation>
+        <translation>Daten von WPS-Präsentation</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
         <comment>TX_KSO_CF_WPP_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Daten von WPS Presentation eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als Daten von WPS-Präsentation eingefügt.</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
         <comment>TX_KSO_CF_MAIL_DISPNAME</comment>
-        <translation type="unfinished">Daten von WPS Mail</translation>
+        <translation>Daten von WPS-Mail</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
         <comment>TX_KSO_CF_MAIL_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Daten von WPS Mail eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als Daten von WPS-Mail eingefügt.</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="unfinished">Daten von WPS Drawing</translation>
+        <translation>Daten von WPS-Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Daten von WPS Drawing eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als Daten von WPS-Drawing eingefügt.</translation>
     </message>
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_DISPNAME</comment>
-        <translation type="unfinished">%s Objekt</translation>
+        <translation>%s Objekt</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als OLE-Objekt eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als OLE-Objekt eingefügt.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_DISPNAME</comment>
-        <translation type="unfinished">Bild (Windows Metafile)</translation>
+        <translation>Bild (Windows-Metadatei)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Bild (Windows Metafile) eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als Bild (Windows-Metadatei) eingefügt.</translation>
     </message>
     <message>
         <source>Picture (Enhanced Metafile)</source>
         <comment>TX_KSO_CF_PIC_ENHMETAFILEPICT_DISPNAME</comment>
-        <translation type="unfinished">Bild (Enhanced Metafile)</translation>
+        <translation>Bild (Erweiterte Metadatei)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
         <comment>TX_KSO_CF_PIC_ENHMETAFILEPICT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inhalte der Zwischenablage werden als erweiterte Metadatei eingefügt.</translation>
     </message>
     <message>
         <source>Picture (PNG)</source>
         <comment>TX_KSO_CF_PIC_PNG_DISPNAME</comment>
-        <translation type="unfinished">Bild (PNG)</translation>
+        <translation>Bild (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
         <comment>TX_KSO_CF_PIC_PNG_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als PNG-Bild eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als PNG-Bild eingefügt.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
         <comment>TX_KSO_CF_PIC_JFIF_DISPNAME</comment>
-        <translation type="unfinished">Bild (JFIF)</translation>
+        <translation>Bild (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
         <comment>TX_KSO_CF_PIC_JFIF_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als JFIF-Bild eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als JFIF-Bild eingefügt.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
         <comment>TX_KSO_CF_PIC_GIF_DISPNAME</comment>
-        <translation type="unfinished">Bild (GIF)</translation>
+        <translation>Bild (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
         <comment>TX_KSO_CF_PIC_GIF_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als GIF-Bild eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als GIF-Bild eingefügt.</translation>
     </message>
     <message>
         <source>Bitmap</source>
         <comment>TX_KSO_CF_PIC_BITMAP_DISPNAME</comment>
-        <translation type="unfinished">Bitmap</translation>
+        <translation>Bitmap</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_BITMAP_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inhalte der Zwischenablage werden als Bitmap-Grafik eingefügt.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
         <comment>TX_KSO_CF_PIC_DIB_DISPNAME</comment>
-        <translation type="unfinished">Geräte-unabhängiges Bitmap</translation>
+        <translation>Geräteunabhängige Bitmap</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Device Independent Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_DIB_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inhalt der Zwischenablage werden als DIB-Bitmap-Grafik eingefügt.</translation>
     </message>
     <message>
         <source>Picture (JPG)</source>
         <comment>TX_KSO_CF_PIC_JPG_DISPNAME</comment>
-        <translation type="unfinished">Bild (JPG)</translation>
+        <translation>Bild (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPG picture.</source>
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als JPEG-Bild eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als JPEG-Bild eingefügt.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
         <comment>TX_KSO_CF_RTF_DISPNAME</comment>
-        <translation type="unfinished">Formatierter Text (RTF)</translation>
+        <translation>Formatierter Text (RTF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
         <comment>TX_KSO_CF_RTF_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inhalte der Zwischenablage werden als Text mit Schriftart- und Tabellenformatierung eingefügt.</translation>
     </message>
     <message>
         <source>HTML Format</source>
         <comment>TX_KSO_CF_HTML_DISPNAME</comment>
-        <translation type="unfinished">HTML-Format</translation>
+        <translation>HTML-Format</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
         <comment>TX_KSO_CF_HTML_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als HTML-Format eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als HTML-Format eingefügt.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
         <comment>TX_KSO_CF_ESCHER_DISPNAME</comment>
-        <translation type="unfinished">MS Office Zeichnungsobjekt</translation>
+        <translation>MS Office-Zeichnungsobjekt</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Office Drawing.</source>
         <comment>TX_KSO_CF_ESCHER_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als MS Office Zeichnungsobjekt eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als MS Office-Zeichnung eingefügt.</translation>
     </message>
     <message>
         <source>FILES</source>
         <comment>TX_KSO_CF_HDROP_DISPNAME</comment>
-        <translation type="unfinished">FILES</translation>
+        <translation>FILES</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
         <comment>TX_KSO_CF_HDROP_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als FILES-Format eingefügt.</translation>
+        <translation>Inhalte der Zwischenablage werden als FILES-Format eingefügt.</translation>
     </message>
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDSOURCE_DISPNAME</comment>
-        <translation type="unfinished">%s Objekt</translation>
+        <translation>%s Objekt</translation>
     </message>
     <message>
         <source>Picture(JPEG)</source>
         <comment>TX_KSO_MSO_CF_PIC_JPEG_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bild (JPEG)</translation>
     </message>
     <message>
         <source>Picture(GIF)</source>
         <comment>TX_KSO_MSO_CF_PIC_GIF_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bild (GIF)</translation>
     </message>
     <message>
         <source>Picture(PNG)</source>
         <comment>TX_KSO_MSO_CF_PIC_PNG_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bild (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPEG picture.</source>
@@ -3882,1033 +3884,1034 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
         <comment>DgAllPicture</comment>
-        <translation type="unfinished">Alle Bilder(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation>Alle Bilder(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>DgUil_EnhancedMetaFiles</comment>
-        <translation type="unfinished">Windows Enhanced Metafile(*.emf)|*.emf</translation>
+        <translation>Erweiterte Windows-Metadatei (*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
         <comment>DgUil_MetaFiles</comment>
-        <translation type="unfinished">Windows Metafile(*.wmf)|*.wmf</translation>
+        <translation>Windows Metadatei(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
         <comment>DgUil_JPEGFileInterChange</comment>
-        <translation type="unfinished">JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
+        <translation>JPEG-Dateiformat(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
         <comment>DgUil_PortableNetworkGraphics</comment>
-        <translation type="unfinished">Portable Network Graphics(*.png)|*.png</translation>
+        <translation>Portable Network Graphics(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
         <comment>DgUil_WindowsBitmap</comment>
-        <translation type="unfinished">Windows Bitmap(*.bmp)|*.bmp</translation>
+        <translation>Windows-Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <comment>DgUil_GraphicsInterchangeFormat</comment>
-        <translation type="unfinished">Graphics Interchange Format(*.gif)|*.gif</translation>
+        <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
         <comment>DgUil_TagGraphicsFormat</comment>
-        <translation type="unfinished">Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</translation>
+        <translation>Tag-Grafik-Dateiformat(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation type="unfinished">Bild einfügen</translation>
+        <translation>Grafik einfügen</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished">AutoShape einfügen</translation>
+        <translation>AutoShape einfügen</translation>
     </message>
     <message>
         <source>Insert Connector</source>
         <comment>DgUil_InsertConnector</comment>
-        <translation type="unfinished">Konnektor einfügen</translation>
+        <translation>Verbindung einfügen</translation>
     </message>
     <message>
         <source>Insert Line</source>
         <comment>DgUil_InsertLine</comment>
-        <translation type="unfinished">Linie einfügen</translation>
+        <translation>Linie einfügen</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
         <comment>DgUil_InsertArrow</comment>
-        <translation type="unfinished">Pfeil einfügen</translation>
+        <translation>Pfeil einfügen</translation>
     </message>
     <message>
         <source>Insert Curve</source>
         <comment>DgUil_InsertCurve</comment>
-        <translation type="unfinished">Kurve einfügen</translation>
+        <translation>Kurve einfügen</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
         <comment>DgUil_InsertFreeForm</comment>
-        <translation type="unfinished">Freiformfläche einfügen</translation>
+        <translation>Freihandform einfügen</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
         <comment>DgUil_InsertScribble</comment>
-        <translation type="unfinished">Freihandzeichnung einfügen</translation>
+        <translation>Freihand einfügen</translation>
     </message>
     <message>
         <source>Change Freeform Point</source>
         <comment>DgUil_ChangePoint</comment>
-        <translation type="unfinished">Freiformpunkt ändern</translation>
+        <translation>Freihandformpunkt ändern</translation>
     </message>
     <message>
         <source>Insert Freeform Point</source>
         <comment>DgUil_InsertPoint</comment>
-        <translation type="unfinished">Freiformpunkt einfügen</translation>
+        <translation>Freihandformpunkt einfügen</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
         <comment>DgUil_DeletePoint</comment>
-        <translation type="unfinished">Freiformpunkt löschen</translation>
+        <translation>Freihandformpunkt löschen</translation>
     </message>
     <message>
         <source>Paste Format</source>
         <comment>DgUil_FormatPainter</comment>
-        <translation type="unfinished">Format übertragen</translation>
+        <translation>Format übertragen</translation>
     </message>
     <message>
         <source>Rotate Object</source>
         <comment>DgUil_RotateObject</comment>
-        <translation type="unfinished">Objekt drehen</translation>
+        <translation>Objekt drehen</translation>
     </message>
     <message>
         <source>Move Object</source>
         <comment>DgUil_MoveObject</comment>
-        <translation type="unfinished">Objekt verschieben</translation>
+        <translation>Objekt verschieben</translation>
     </message>
     <message>
         <source>Resize Object</source>
         <comment>DgUil_ResizeObject</comment>
-        <translation type="unfinished">Objektgröße ändern</translation>
+        <translation>Objektgröße ändern</translation>
     </message>
     <message>
         <source>Adjust Object</source>
         <comment>DgUil_AdjustObject</comment>
-        <translation type="unfinished">Objekt anpassen</translation>
+        <translation>Objekt anpassen</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>DgUil_Clear</comment>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <source>Make Same Height</source>
         <comment>DgUil_KSO_Cmd_EqualHeight</comment>
-        <translation type="unfinished">Gleiche Höhe einstellen</translation>
+        <translation>Gleiche Höhe einstellen</translation>
     </message>
     <message>
         <source>Make Same Width</source>
         <comment>DgUil_KSO_Cmd_EqualWidth</comment>
-        <translation type="unfinished">Gleiche Breite einstellen</translation>
+        <translation>Gleiche Breite einstellen</translation>
     </message>
     <message>
         <source>Make Same Size</source>
         <comment>DgUil_KSO_Cmd_EqualSize</comment>
-        <translation type="unfinished">Gleiche Größe einstellen</translation>
+        <translation>Gleiche Größe einstellen</translation>
     </message>
     <message>
         <source>Group </source>
         <comment>DgUil_KSO_Cmd_Group</comment>
-        <translation type="unfinished">Gruppieren</translation>
+        <translation>Gruppieren</translation>
     </message>
     <message>
         <source>Ungroup</source>
         <comment>DgUil_KSO_Cmd_UnGroup</comment>
-        <translation type="unfinished">Gruppierung aufheben</translation>
+        <translation>Gruppierung aufheben</translation>
     </message>
     <message>
         <source>Regroup</source>
         <comment>DgUil_KSO_Cmd_ReGroup</comment>
-        <translation type="unfinished">Umgruppieren</translation>
+        <translation>Gruppierung wiederherstellen</translation>
     </message>
     <message>
         <source>Bring to Front</source>
         <comment>DgUil_KSO_Cmd_Order_BringToFront</comment>
-        <translation type="unfinished">In den Vordergrung</translation>
+        <translation>In den Vordergrund</translation>
     </message>
     <message>
         <source>Send to Back</source>
         <comment>DgUil_KSO_Cmd_Order_SendToBack</comment>
-        <translation type="unfinished">In den Hintergrung</translation>
+        <translation>In den Hintergrund</translation>
     </message>
     <message>
         <source>Bring Forward</source>
         <comment>DgUil_KSO_Cmd_Order_BringForward</comment>
-        <translation type="unfinished">Weiter nach vorne</translation>
+        <translation>Ebene nach vorne</translation>
     </message>
     <message>
         <source>Send Backward</source>
         <comment>DgUil_KSO_Cmd_Order_SendBackward</comment>
-        <translation type="unfinished">Weiter nach hinten</translation>
+        <translation>Ebene nach hinten</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeUp</comment>
-        <translation type="unfinished">Objekt um ein Pixel veschieben</translation>
+        <translation>Präzisionsausrichtung Objekt</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeDown</comment>
-        <translation type="unfinished">Objekt um ein Pixel veschieben</translation>
+        <translation>Präzisionsausrichtung Objekt</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeLeft</comment>
-        <translation type="unfinished">Objekt um ein Pixel veschieben</translation>
+        <translation>Präzisionsausrichtung Objekt</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeRight</comment>
-        <translation type="unfinished">Objekt um ein Pixel veschieben</translation>
+        <translation>Präzisionsausrichtung Objekt</translation>
     </message>
     <message>
         <source>Align Left</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value0</comment>
-        <translation type="unfinished">Linksbündig ausrichten</translation>
+        <translation>Linksbündig ausrichten</translation>
     </message>
     <message>
         <source>Align Center</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value1</comment>
-        <translation type="unfinished">Zentriert ausrichten</translation>
+        <translation>Zentriert ausrichten</translation>
     </message>
     <message>
         <source>Align Right</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value2</comment>
-        <translation type="unfinished">Rechtsbündig ausrichten</translation>
+        <translation>Rechtsbündig ausrichten</translation>
     </message>
     <message>
         <source>Align Top</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value3</comment>
-        <translation type="unfinished">Nach oben ausrichten</translation>
+        <translation>Oben ausrichten</translation>
     </message>
     <message>
         <source>Align Middle</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value4</comment>
-        <translation type="unfinished">Mittig ausrichten</translation>
+        <translation>Vertikal zentrieren</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value5</comment>
-        <translation type="unfinished">Nach oben ausrichten</translation>
+        <translation>Unten ausrichten</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
         <comment>DgUil_KSO_Cmd_Distribute_Value0</comment>
-        <translation type="unfinished">Horizontal verteilen</translation>
+        <translation>Horizontal verteilen</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
         <comment>DgUil_KSO_Cmd_Distribute_Value1</comment>
-        <translation type="unfinished">Vertikal verteilen</translation>
+        <translation>Vertikal verteilen</translation>
     </message>
     <message>
         <source>Free Rotate</source>
         <comment>DgUil_KSO_Cmd_FreeRotate</comment>
-        <translation type="unfinished">Frei drehen</translation>
+        <translation>Frei Drehen</translation>
     </message>
     <message>
         <source>Rotate Left 90º</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value0</comment>
-        <translation type="unfinished">Um 90º drehen</translation>
+        <translation>Linksdrehung 90 Grad</translation>
     </message>
     <message>
         <source>Rotate Right 90º</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value1</comment>
-        <translation type="unfinished">Um 90º nach rechts drehen</translation>
+        <translation>Rechtsdrehung 90 Grad</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value2</comment>
-        <translation type="unfinished">Horizontal spiegeln</translation>
+        <translation>Horizontal kippen</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value3</comment>
-        <translation type="unfinished">Vertikal spiegeln</translation>
+        <translation>Vertikal kippen</translation>
     </message>
     <message>
         <source>Reroute Connectors</source>
         <comment>DgUil_KSO_Cmd_RerouteConnectors</comment>
-        <translation type="unfinished">Konnektoren neu ausrichten</translation>
+        <translation>Verbindungen neu erstellen</translation>
     </message>
     <message>
         <source>Change Points</source>
         <comment>DgUil_KSO_Cmd_EditPoints</comment>
-        <translation type="unfinished">Punkte ändern</translation>
+        <translation>Punkte ändern</translation>
     </message>
     <message>
         <source>Change to Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation type="unfinished">Zu AutoShape wechseln</translation>
+        <translation>Zu AutoForm wechseln</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
         <comment>DgUil_KSO_Cmd_AutoShapeDefaults</comment>
-        <translation type="unfinished">AutoShape-Einstellungen bearbeiten</translation>
+        <translation>Als Standard für AutoForm festlegen</translation>
     </message>
     <message>
         <source>Select Multiple Objects</source>
         <comment>DgUil_KSO_Cmd_SelectMultipleObjects</comment>
-        <translation type="unfinished">Mehrere Objekte wählen</translation>
+        <translation>Mehrere Objekte auswählen</translation>
     </message>
     <message>
         <source>Select Objects</source>
         <comment>DgUil_KSO_Cmd_SelectObjects</comment>
-        <translation type="unfinished">Objekte wählen</translation>
+        <translation>Objekte auswählen</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
         <comment>DgUil_KSO_Cmd_RecentFillColor</comment>
-        <translation type="unfinished">Aktuelle Füllfarbe</translation>
+        <translation>Letzte verwendete Füllfarbe</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>DgUil_KSO_Cmd_FillColor</comment>
-        <translation type="unfinished">Füllfarbe</translation>
+        <translation>Füllfarbe</translation>
     </message>
     <message>
         <source>Fill Effects</source>
         <comment>DgUil_KSO_Cmd_FillEffects</comment>
-        <translation type="unfinished">Fülleffekte</translation>
+        <translation>Fülleffekte</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
         <comment>DgUil_KSO_Cmd_RecentLineColor</comment>
-        <translation type="unfinished">Aktuelle Linienfarbe</translation>
+        <translation>Letzte verwendete Linienfarbe</translation>
     </message>
     <message>
         <source>Line Color</source>
         <comment>DgUil_KSO_Cmd_LineColor</comment>
-        <translation type="unfinished">Linienfarbe</translation>
+        <translation>Linienfarbe</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
         <comment>DgUil_KSO_Cmd_PatternedLines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gemusterte Linien</translation>
     </message>
     <message>
         <source>Line Style</source>
         <comment>DgUil_KSO_Cmd_LineStylePalette</comment>
-        <translation type="unfinished">Linienstil</translation>
+        <translation>Linienstil</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
         <comment>DgUil_KSO_Cmd_MoreLines</comment>
-        <translation type="unfinished">AutoShape formatieren</translation>
+        <translation>AutoShape formatieren</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation type="unfinished">Pfeil-Stile</translation>
+        <translation>Form formatieren</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_ArrowStylePalette</comment>
-        <translation type="unfinished">Pfeil-Stile</translation>
+        <translation>Form formatieren</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_MoreArrows</comment>
-        <translation type="unfinished">Pfeil-Stile</translation>
+        <translation>Form formatieren</translation>
     </message>
     <message>
         <source>No Shadow</source>
         <comment>DgUil_KSO_Cmd_NoShadow</comment>
-        <translation type="unfinished">Kein Schatten</translation>
+        <translation>Kein Schatten</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>DgUil_KSO_Cmd_ShadowPalette</comment>
-        <translation type="unfinished">Schatten</translation>
+        <translation>Schatten</translation>
     </message>
     <message>
         <source>Toggle Shadow</source>
         <comment>DgUil_KSO_Cmd_ShadowOnOff</comment>
-        <translation type="unfinished">Schatten umschalten</translation>
+        <translation>Schatten umschalten</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
-        <translation type="unfinished">Schatten um ein Pixel verschieben</translation>
+        <translation>Präzisionsausrichtung Schatten</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowDown</comment>
-        <translation type="unfinished">Schatten um ein Pixel verschieben</translation>
+        <translation>Präzisionsausrichtung Schatten</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowLeft</comment>
-        <translation type="unfinished">Schatten um ein Pixel verschieben</translation>
+        <translation>Präzisionsausrichtung Schatten</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowRight</comment>
-        <translation type="unfinished">Schatten um ein Pixel verschieben</translation>
+        <translation>Präzisionsausrichtung Schatten</translation>
     </message>
     <message>
         <source>Shadow Color</source>
         <comment>DgUil_KSO_Cmd_ShadowColor</comment>
-        <translation type="unfinished">Schattenfarbe</translation>
+        <translation>Schattenfarbe</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
         <comment>DgUil_KSO_Cmd_SemitransparentShadow</comment>
-        <translation type="unfinished">Semitransparent Shadow</translation>
+        <translation>Halbtransparenter Schatten</translation>
     </message>
     <message>
         <source>No 3-D</source>
         <comment>DgUil_KSO_Cmd_No3DStyle</comment>
-        <translation type="unfinished">Kein 3D</translation>
+        <translation>Kein 3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DStylePalette</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
         <comment>DgUil_KSO_Cmd_3DOnOff</comment>
-        <translation type="unfinished">In 3D umschalten</translation>
+        <translation>3D umschalten</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltDown</comment>
-        <translation type="unfinished">In 3D drehen</translation>
+        <translation>3D drehen</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltUp</comment>
-        <translation type="unfinished">In 3D drehen</translation>
+        <translation>3D drehen</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltLeft</comment>
-        <translation type="unfinished">In 3D drehen</translation>
+        <translation>3D drehen</translation>
     </message>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltRight</comment>
-        <translation type="unfinished">In 3D drehen</translation>
+        <translation>3D drehen</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value0</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value36</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value72</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value144</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value288</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepthInfinity</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Custom 3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepthCustom</comment>
-        <translation type="unfinished">3D benutzerdefiniert</translation>
+        <translation>3D benutzerdefiniert</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirectionPalette</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirctionType_Value0</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirctionType_Value1</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingPalette</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value0</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value1</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value2</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value0</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value1</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value2</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value3</comment>
-        <translation type="unfinished">3D</translation>
+        <translation>3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>DgUil_KSO_Cmd_3DColor</comment>
-        <translation type="unfinished">3D-Farbe</translation>
+        <translation>3D-Farbe</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_Cmd_3DDepthUnit</comment>
-        <translation type="unfinished">pt</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Open Path</source>
         <comment>DgUil_KSO_Cmd_OpenPath</comment>
-        <translation type="unfinished">Pfad öffnen</translation>
+        <translation>Pfad öffnen</translation>
     </message>
     <message>
         <source>Close Path</source>
         <comment>DgUil_KSO_Cmd_ClosePath</comment>
-        <translation type="unfinished">Pfad schließen</translation>
+        <translation>Pfad schließen</translation>
     </message>
     <message>
         <source>Add Point</source>
         <comment>DgUil_KSO_Cmd_AddPoint</comment>
-        <translation type="unfinished">Punkt hinzufügen</translation>
+        <translation>Punkt hinzufügen</translation>
     </message>
     <message>
         <source>Delete Segment</source>
         <comment>DgUil_KSO_Cmd_DeleteSegment</comment>
-        <translation type="unfinished">Segment löschen</translation>
+        <translation>Abschnitt löschen</translation>
     </message>
     <message>
         <source>Straight Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value0</comment>
-        <translation type="unfinished">Gerades Segment</translation>
+        <translation>Gerader Abschnitt</translation>
     </message>
     <message>
         <source>Curved Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value1</comment>
-        <translation type="unfinished">Gewölbtes Segment</translation>
+        <translation>Gekrümmter Abschnitt</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
         <comment>DgUil_KSO_Cmd_ExitEditPoints</comment>
-        <translation type="unfinished">Punkte ändern verlassen</translation>
+        <translation>Punkte ändern beenden</translation>
     </message>
     <message>
         <source>Delete Point</source>
         <comment>DgUil_KSO_Cmd_DeletePoint</comment>
-        <translation type="unfinished">Punkt entfernen</translation>
+        <translation>Punkt löschen</translation>
     </message>
     <message>
         <source>Auto Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value0</comment>
-        <translation type="unfinished">Auto Punkt</translation>
+        <translation>AutoPunkt</translation>
     </message>
     <message>
         <source>Smooth Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value1</comment>
-        <translation type="unfinished">Weicher Punkt</translation>
+        <translation>Übergangspunkt</translation>
     </message>
     <message>
         <source>Straight Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value2</comment>
-        <translation type="unfinished">Harter Punkt</translation>
+        <translation>Punkt glätten</translation>
     </message>
     <message>
         <source>Corner Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value3</comment>
-        <translation type="unfinished">Eckpunkt</translation>
+        <translation>Eckpunkt</translation>
     </message>
     <message>
         <source>Straight Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gerade Verbindung</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gewinkelte Verbindung</translation>
     </message>
     <message>
         <source>Curved Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gekrümmte Verbindung</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
         <comment>DgUil_KSO_Cmd_EditHyperlink</comment>
-        <translation type="unfinished">Hyperlink bearbeiten</translation>
+        <translation>Hyperlink bearbeiten</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
         <comment>DgUil_KSO_Cmd_OpenHyperlink</comment>
-        <translation type="unfinished">Hyperlink öffnen</translation>
+        <translation>Hyperlink öffnen</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
         <comment>DgUil_KSO_Cmd_CopyHyperlink</comment>
-        <translation type="unfinished">Hyperlink kopieren</translation>
+        <translation>Hyperlink kopieren</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
         <comment>DgUil_KSO_Cmd_RemoveHyperlink</comment>
-        <translation type="unfinished">Hyperlink entfernen</translation>
+        <translation>Hyperlink entfernen</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
         <comment>DgUil_KSO_Cmd_ExitRotate</comment>
-        <translation type="unfinished">Drehen-Modus verlassen</translation>
+        <translation>Drehungsmodus beenden</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <comment>DgUil_KSO_Cmd_InsertWordArt</comment>
-        <translation type="unfinished">WordArt einfügen</translation>
+        <translation>WordArt einfügen</translation>
     </message>
     <message>
         <source>Edit Text...</source>
         <comment>DgUil_KSO_Cmd_EditWordArtText</comment>
-        <translation type="unfinished">Text bearbeiten ...</translation>
+        <translation>Text bearbeiten...</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
         <comment>DgUil_KSO_Cmd_WordArtGallery</comment>
-        <translation type="unfinished">WordArt Gallerie</translation>
+        <translation>WordArt-Katalog</translation>
     </message>
     <message>
         <source>Format WordArt</source>
         <comment>DgUil_KSO_Cmd_FormatWordArt</comment>
-        <translation type="unfinished">WordArt formatieren</translation>
+        <translation>WordArt formatieren</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <comment>DgUil_KSO_Cmd_WordArtShapePalette</comment>
-        <translation type="unfinished">WordArt einfügen</translation>
+        <translation>WordArt einfügen</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
         <comment>DgUil_KSO_Cmd_WordArtSameLetterHeights</comment>
-        <translation type="unfinished">WordArt gleiche Buchstabenhöhe</translation>
+        <translation>WordArt-Buchstaben mit gleicher Höhe</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
         <comment>DgUil_KSO_Cmd_WordArtVerticalText</comment>
-        <translation type="unfinished">WordArt vertikaler Text</translation>
+        <translation>WordArt als vertikaler Text</translation>
     </message>
     <message>
         <source>Left Align</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value0</comment>
-        <translation type="unfinished">Linksbündig ausrichten</translation>
+        <translation>Linksbündig ausrichten</translation>
     </message>
     <message>
         <source>Center</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value1</comment>
-        <translation type="unfinished">Zentriert</translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>Right Align</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value2</comment>
-        <translation type="unfinished">Rechtsbündig ausrichten</translation>
+        <translation>Rechtsbündig ausrichten</translation>
     </message>
     <message>
         <source>Word Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value3</comment>
-        <translation type="unfinished">Wörter ausrichten</translation>
+        <translation>Wortausrichtung</translation>
     </message>
     <message>
         <source>Letter Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value4</comment>
-        <translation type="unfinished">Buchstaben ausrichten</translation>
+        <translation>Zeichen ausrichten</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value5</comment>
-        <translation type="unfinished">Gesperrt ausrichten</translation>
+        <translation>Streckung ausrichten</translation>
     </message>
     <message>
         <source>Very Tight</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value0</comment>
-        <translation type="unfinished">Sehr dicht</translation>
+        <translation>Sehr eng</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value1</comment>
-        <translation type="unfinished">Dicht</translation>
+        <translation>Passend</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value2</comment>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value3</comment>
-        <translation type="unfinished">Weit</translation>
+        <translation>Weit</translation>
     </message>
     <message>
         <source>Very Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value4</comment>
-        <translation type="unfinished">Sehr weit</translation>
+        <translation>Sehr weit</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacingCustom</comment>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Kern Character Pairs</source>
         <comment>DgUil_KSO_Cmd_KernCharacterPairs</comment>
-        <translation type="unfinished">Zeichenpaare unterschneiden</translation>
+        <translation>Zeichenpaarekerning</translation>
     </message>
     <message>
         <source>More AutoShapes</source>
         <comment>DgUil_KSO_Cmd_MoreAutoShapes</comment>
-        <translation type="unfinished">Mehr AutoShapes</translation>
+        <translation>Weitere AutoShapes</translation>
     </message>
     <message>
         <source>Insert Line</source>
         <comment>DgUil_KSO_Cmd_InsertLine</comment>
-        <translation type="unfinished">Linie einfügen</translation>
+        <translation>Linie einfügen</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
         <comment>DgUil_KSO_Cmd_InsertArrow</comment>
-        <translation type="unfinished">Pfeil einfügen</translation>
+        <translation>Pfeil einfügen</translation>
     </message>
     <message>
         <source>Insert Rectangle</source>
         <comment>DgUil_KSO_Cmd_InsertRectangle</comment>
-        <translation type="unfinished">Rechteck einfügen</translation>
+        <translation>Rechteck einfügen</translation>
     </message>
     <message>
         <source>Insert Oval</source>
         <comment>DgUil_KSO_Cmd_InsertOval</comment>
-        <translation type="unfinished">Oval einfügen</translation>
+        <translation>Ellipse einfügen</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
-        <translation type="unfinished">Textfeld einfügen</translation>
+        <translation>Textfeld einfügen</translation>
     </message>
     <message>
         <source>Insert Vertical Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxVertical</comment>
-        <translation type="unfinished">Vertikales Textfeld einfügen</translation>
+        <translation>Vertikales Textfeld einfügen</translation>
     </message>
     <message>
         <source>Insert Diagram or Organization Chart</source>
         <comment>DgUil_KSO_Cmd_InsertChart</comment>
-        <translation type="unfinished">Diagramm oder Chart einfügen</translation>
+        <translation>Schematische Darstellung oder Organigramm einfügen</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
         <comment>DgUil_KSO_Cmd_InsertClipArt</comment>
-        <translation type="unfinished">ClipArt einfügen</translation>
+        <translation>ClipArt einfügen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation type="unfinished">Bild einfügen</translation>
+        <translation>Grafik einfügen</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
         <comment>DgUil_KSO_Cmd_InsertOle</comment>
-        <translation type="unfinished">OLE-Objekt einfügen</translation>
+        <translation>OLE-Objekt einfügen</translation>
     </message>
     <message>
         <source>Edit OLE Object</source>
         <comment>DgUil_KSO_Cmd_EditOle</comment>
-        <translation type="unfinished">OLE-Objekt bearbeiten</translation>
+        <translation>OLE-Objekt bearbeiten</translation>
     </message>
     <message>
         <source>AutoShape</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation type="unfinished">Linien</translation>
+        <translation>AutoFormen</translation>
     </message>
     <message>
         <source>Edit Text</source>
         <comment>DgUil_KSO_Cmd_EditText</comment>
-        <translation type="unfinished">Text bearbeiten</translation>
+        <translation>Text bearbeiten</translation>
     </message>
     <message>
         <source>Add Text</source>
         <comment>DgUil_KSO_Cmd_AddText</comment>
-        <translation type="unfinished">Text hinzufügen</translation>
+        <translation>Text hinzufügen</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_AddTextbox</comment>
-        <translation type="unfinished">Textfeld einfügen</translation>
+        <translation>Textfeld einfügen</translation>
     </message>
     <message>
         <source>Update Link</source>
         <comment>DgUil_KSO_Cmd_UpdateLink</comment>
-        <translation type="unfinished">Link aktualisieren</translation>
+        <translation>Verknüpfung aktualisieren</translation>
     </message>
     <message>
         <source>Format Object</source>
         <comment>DgUil_KSO_Cmd_FormatObject</comment>
-        <translation type="unfinished">Objekt formatieren</translation>
+        <translation>Objekt formatieren</translation>
     </message>
     <message>
         <source>Relative to Page</source>
         <comment>DgUil_KSO_Cmd_AlighRelativeToPage</comment>
-        <translation type="unfinished">In Relation zur Seite</translation>
+        <translation>Relativ zur Seite</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
         <comment>DgUil_KSO_Cmd_AlignRelativeToSlide</comment>
-        <translation type="unfinished">In Relation zur Folie</translation>
+        <translation>Relativ zur Folie</translation>
     </message>
     <message>
         <source>The value must be between 0% and 500%.</source>
         <comment>DgUil_KSO_Cmd_ReportSpacingCustom</comment>
-        <translation type="unfinished">Wert muss zwischen 0% und 500% liegen.</translation>
+        <translation>Der Wert muss zwischen 0% und 500% liegen.</translation>
     </message>
     <message>
         <source>Format Painter</source>
         <comment>DgUil_KSO_Cmd_FormatPainter</comment>
-        <translation type="unfinished">Format übertragen</translation>
+        <translation>Format übertragen</translation>
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
         <comment>DgUil_KSO_Cmd_Repor3DDepth</comment>
-        <translation type="unfinished">Wert muss zwischen -600 pt und 9600 pt liegen.</translation>
+        <translation>Der Wert muss zwischen -600 pt und 9600 pt liegen.</translation>
     </message>
     <message>
         <source>Color</source>
         <comment>DgUil_KSO_Cmd_PictureColor</comment>
-        <translation type="unfinished">Farbe</translation>
+        <translation>Farbe</translation>
     </message>
     <message>
         <source>More Contrast</source>
         <comment>DgUil_KSO_Cmd_PictureMoreContrast</comment>
-        <translation type="unfinished">Mehr Kontrast</translation>
+        <translation>Mehr Kontrast</translation>
     </message>
     <message>
         <source>Less Contrast</source>
         <comment>DgUil_KSO_Cmd_PictureLessContrast</comment>
-        <translation type="unfinished">Weniger Kontrast</translation>
+        <translation>Weniger Kontrast</translation>
     </message>
     <message>
         <source>More Brightness</source>
         <comment>DgUil_KSO_Cmd_PictureMoreBrightness</comment>
-        <translation type="unfinished">Mehr Helligkeit</translation>
+        <translation>Mehr Helligkeit</translation>
     </message>
     <message>
         <source>Less Brightness</source>
         <comment>DgUil_KSO_Cmd_PictureLessBrightness</comment>
-        <translation type="unfinished">Weniger Helligkeit</translation>
+        <translation>Weniger Helligkeit</translation>
     </message>
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation type="unfinished">Abschneiden</translation>
+        <translation>Zuschneiden</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <comment>DgUil_KSO_Cmd_PictureSetTransparentColor</comment>
-        <translation type="unfinished">Transparente Farbe einstellen</translation>
+        <translation>Transparente Farbe bestimmen</translation>
     </message>
     <message>
         <source>Reset Picture</source>
         <comment>DgUil_KSO_Cmd_ResetPicture</comment>
-        <translation type="unfinished">Bild zurücksetzen</translation>
+        <translation>Grafik zurücksetzen</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>DgUil_KSO_WPS_NAME</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>DgUil_KSO_ET_NAME</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>DgUil_KSO_WPP_NAME</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS Präsentation</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_POINT</comment>
-        <translation type="unfinished">pt</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_CropPicture</comment>
-        <translation type="unfinished">Abschneiden</translation>
+        <translation>Zuschneiden</translation>
     </message>
     <message>
         <source>Insert Control</source>
         <comment>DgUil_InsertOleControl</comment>
-        <translation type="unfinished">Steuerelement einfügen</translation>
+        <translation>Steuerelement einfügen</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
         <comment>DgUil_KSO_Cmd_CompressPictures</comment>
-        <translation type="unfinished">Bilder komprimieren</translation>
+        <translation>Bilder komprimieren</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
         <comment>DgUil_PromptCompressPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das eingefügte Bild ist zu groß. Bitte das Bild komprimieren und den Speicherplatz sparen.
+Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie das Bild komprimieren?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
         <comment>DgUil_KSO_WordArtText</comment>
-        <translation type="unfinished">Hier Text einfügen</translation>
+        <translation>Hier Text einfügen</translation>
     </message>
     <message>
         <source>Design Mode</source>
         <comment>DgUil_OLEControl_DesignMode</comment>
-        <translation type="unfinished">Design-Modus</translation>
+        <translation>Design-Modus</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
         <comment>DgUil_OLEControl_ExitDesignMode</comment>
-        <translation type="unfinished">Design-Modus verlassen</translation>
+        <translation>Design-Modus beenden</translation>
     </message>
     <message>
         <source>Controls</source>
         <comment>DgUil_OLEControl_Controls</comment>
-        <translation type="unfinished">Steuerung</translation>
+        <translation>Steuerungen</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>DgUil_KSO_Invalid_Picture</comment>
-        <translation type="unfinished">Bildformat nicht erkannt.</translation>
+        <translation>Grafikformat kann nicht identifiziert werden.</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation type="unfinished">Bild ändern</translation>
+        <translation>Grafik ändern</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_DlgChangePictureTitle</comment>
-        <translation type="unfinished">Bild ändern</translation>
+        <translation>Grafik ändern</translation>
     </message>
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
         <comment>DgUil_Prompt_DoVerbREGDB_E_CLASSNOTREG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Serveranwendung, die Quelldatei oder das Element konnte nicht gefunden werden oder ein unbekannter Fehler wurde zurückgemeldet. Installieren Sie die Serveranwendung unter Umständen erneut</translation>
     </message>
     <message>
         <source>Save as Picture</source>
         <comment>DgUil_Cmd_SaveAsPicture</comment>
-        <translation type="unfinished">Als Bild speichern</translation>
+        <translation>Als Grafik speichern</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>DgUil_Cmd_SaveAsPictureNameBase</comment>
-        <translation type="unfinished">Bild</translation>
+        <translation>Grafik</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp</source>
         <comment>DgUil_Cmd_SaveAsPictureFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-Dateiformat(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag-Grafik-Dateiformat(*.tif)|*.tif||Windows-Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>DgUil_Cmd_SaveAsPictureFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Es ist fehlgeschlagen, das Objekt als Grafik zu speichern, weil ihr Dateiformat nicht unterstützt wird.</translation>
     </message>
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsPictureFailureCaption</comment>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Translate</source>
         <comment>DgUil_KSO_Translate_ToolTip</comment>
-        <translation type="unfinished">Übersetzen</translation>
+        <translation>Übersetzen</translation>
     </message>
     <message>
         <source>Search</source>
         <comment>DgUil_KSO_Search_ToolTip</comment>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer. Please make sure it is safe before continuing. Do you want to continue?</source>
         <comment>DgUil_KSO_ActivatPackageObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>You are about to activate an embedded object that may contain viruses or be otherwise harmful to your computer. Es ist wichtig sicherzustellen, dass es von vertrauenswürdiger Quelle stammt. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
         <comment>DgUil_KSO_OLEObjectCreateFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Objekt kann nicht erstellt werden. Stellen Sie sicher, dass das Objekt in der Registrierung registriert geworden ist.</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
         <comment>DgUil_KSO_LinkFileActivateFailed</comment>
-        <translation type="unfinished">Objekt ist beschädigt oder kann nicht mehr verwendet werden.</translation>
+        <translation>Der Objekt ist beschädigt oder kann nicht mehr verwendet werden.</translation>
     </message>
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
         <comment>DgUil_Kso_FailedCreateFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Objekt kann nicht erstellt werden. Vielleicht ist die Datei in Gebrauch. Schließen Sie bitte die Datei und versuchen Sie , das Objekt noch einmal einzufügen.</translation>
     </message>
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
         <comment>DgUil_KSO_NotStartUpProcess</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Quellanwendung des eingebetteten Objekts kann nicht gestartet werden.</translation>
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
         <comment>DgUil_KSO_MediaFileDamaged</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die angegebene Datei kann auf dem angegebenen Gerät nicht wiedergegeben werden. Die Datei ist wahrscheinlich beschädigt, in einem ungültigen Format, oder es steht kein Dateihandler für das Format zur Verfügung.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
         <comment>DgUil_KSO_MediaFilePathIncorrect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Angegebene Datei konnte nicht gefunden werden. Überprüfen Sie, ob Pfad und Dateiname korrekt sind.</translation>
     </message>
     <message>
         <source>Change To Autoshape</source>
@@ -4926,837 +4929,837 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Rectangle</source>
         <comment>DRAWINGSTR_RECTANGLE</comment>
-        <translation type="unfinished">Rechteck</translation>
+        <translation>Rechteck</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
         <comment>DRAWINGSTR_ROUNDRECTANGLE</comment>
-        <translation type="unfinished">Abgerundetes Rechteck</translation>
+        <translation>Abgerundetes Rechteck</translation>
     </message>
     <message>
         <source>Oval</source>
         <comment>DRAWINGSTR_ELLIPSE</comment>
-        <translation type="unfinished">Oval</translation>
+        <translation>Ellipse</translation>
     </message>
     <message>
         <source>Diamond</source>
         <comment>DRAWINGSTR_DIAMOND</comment>
-        <translation type="unfinished">Raute</translation>
+        <translation>Raute</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
         <comment>DRAWINGSTR_ISOCELESTRIANGLE</comment>
-        <translation type="unfinished">Gleichschenkliges Dreieck</translation>
+        <translation>Gleichschenkliges Dreieck</translation>
     </message>
     <message>
         <source>Right Triangle</source>
         <comment>DRAWINGSTR_RIGHTTRIANGLE</comment>
-        <translation type="unfinished">Rechtwinkliges Dreieck</translation>
+        <translation>Rechtwinkliges Dreieck</translation>
     </message>
     <message>
         <source>Parallelogram</source>
         <comment>DRAWINGSTR_PARALLELOGRAM</comment>
-        <translation type="unfinished">Parallelogramm</translation>
+        <translation>Parallelogramm</translation>
     </message>
     <message>
         <source>Trapezoid</source>
         <comment>DRAWINGSTR_TRAPEZOID</comment>
-        <translation type="unfinished">Trapezoid</translation>
+        <translation>Trapez</translation>
     </message>
     <message>
         <source>Hexagon</source>
         <comment>DRAWINGSTR_HEXAGON</comment>
-        <translation type="unfinished">Sechseck</translation>
+        <translation>Sechseck</translation>
     </message>
     <message>
         <source>Octagon</source>
         <comment>DRAWINGSTR_OCTAGON</comment>
-        <translation type="unfinished">Achteck</translation>
+        <translation>Achteck</translation>
     </message>
     <message>
         <source>Cross</source>
         <comment>DRAWINGSTR_PLUS</comment>
-        <translation type="unfinished">Kreuz</translation>
+        <translation>Kreuz</translation>
     </message>
     <message>
         <source>5-Point Star</source>
         <comment>DRAWINGSTR_STAR</comment>
-        <translation type="unfinished">Stern mit 5 Zacken</translation>
+        <translation>Stern mit 5 Zacken</translation>
     </message>
     <message>
         <source>Right Arrow</source>
         <comment>DRAWINGSTR_ARROW</comment>
-        <translation type="unfinished">Pfeil nach rechts</translation>
+        <translation>Pfeil nach rechts</translation>
     </message>
     <message>
         <source>Thin Arrow</source>
         <comment>DRAWINGSTR_THICKARROW</comment>
-        <translation type="unfinished">Dünner Pfeil</translation>
+        <translation>Dünner Pfeil</translation>
     </message>
     <message>
         <source>Pentagon</source>
         <comment>DRAWINGSTR_HOMEPLATE</comment>
-        <translation type="unfinished">Fünfeck</translation>
+        <translation>Fünfeck</translation>
     </message>
     <message>
         <source>Cube</source>
         <comment>DRAWINGSTR_CUBE</comment>
-        <translation type="unfinished">Würfel</translation>
+        <translation>Würfel</translation>
     </message>
     <message>
         <source>Balloon</source>
         <comment>DRAWINGSTR_BALLOON</comment>
-        <translation type="unfinished">Ballon</translation>
+        <translation>Legende</translation>
     </message>
     <message>
         <source>Star</source>
         <comment>DRAWINGSTR_SEAL</comment>
-        <translation type="unfinished">Stern</translation>
+        <translation>Stern</translation>
     </message>
     <message>
         <source>Arc</source>
         <comment>DRAWINGSTR_ARC</comment>
-        <translation type="unfinished">Bogen</translation>
+        <translation>Bogen</translation>
     </message>
     <message>
         <source>Line</source>
         <comment>DRAWINGSTR_LINE</comment>
-        <translation type="unfinished">Linie</translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Plaque</source>
         <comment>DRAWINGSTR_PLAQUE</comment>
-        <translation type="unfinished">Tafel</translation>
+        <translation>Zierrahmen</translation>
     </message>
     <message>
         <source>Can</source>
         <comment>DRAWINGSTR_CAN</comment>
-        <translation type="unfinished">Dose</translation>
+        <translation>Zylinder</translation>
     </message>
     <message>
         <source>Donut</source>
         <comment>DRAWINGSTR_DONUT</comment>
-        <translation type="unfinished">Donut</translation>
+        <translation>Rad</translation>
     </message>
     <message>
         <source>WordArt: Simple Text</source>
         <comment>DRAWINGSTR_TEXTSIMPLE</comment>
-        <translation type="unfinished">WordArt: Einfacher Text</translation>
+        <translation>WordArt: Einfacher Text</translation>
     </message>
     <message>
         <source>WordArt: Hexagon</source>
         <comment>DRAWINGSTR_TEXTOCTAGON</comment>
-        <translation type="unfinished">WordArt: Sechseck</translation>
+        <translation>WordArt: Sechseck</translation>
     </message>
     <message>
         <source>WordArt: Pentagon</source>
         <comment>DRAWINGSTR_TEXTHEXAGON</comment>
-        <translation type="unfinished">WordArt: Fünfeck</translation>
+        <translation>WordArt: Fünfeck</translation>
     </message>
     <message>
         <source>WordArt: Curve</source>
         <comment>DRAWINGSTR_TEXTCURVE</comment>
-        <translation type="unfinished">WordArt: Kurve</translation>
+        <translation>WordArt: Kurve</translation>
     </message>
     <message>
         <source>WordArt: Wave</source>
         <comment>DRAWINGSTR_TEXTWAVE</comment>
-        <translation type="unfinished">WordArt: Welle</translation>
+        <translation>WordArt: Welle</translation>
     </message>
     <message>
         <source>WordArt: Donought</source>
         <comment>DRAWINGSTR_TEXTRING</comment>
-        <translation type="unfinished">WordArt: Donut</translation>
+        <translation>WordArt: Leerer Kreis</translation>
     </message>
     <message>
         <source>WordArt: Curve2</source>
         <comment>DRAWINGSTR_TEXTONCURVE</comment>
-        <translation type="unfinished">WordArt: Kurve2</translation>
+        <translation>WordArt: Kurve2</translation>
     </message>
     <message>
         <source>WordArt: Circle</source>
         <comment>DRAWINGSTR_TEXTONRING</comment>
-        <translation type="unfinished">WordArt: Kreis</translation>
+        <translation>WordArt: Kreis</translation>
     </message>
     <message>
         <source>Straight Connector</source>
         <comment>DRAWINGSTR_STRAIGHTCONNECTOR1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gerade Verbindung</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
         <comment>DRAWINGSTR_BENTCONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gewinkelte Verbindung</translation>
     </message>
     <message>
         <source>Curved Connector</source>
         <comment>DRAWINGSTR_CURVEDCONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gekrümmte Verbindung</translation>
     </message>
     <message>
         <source>Line Callout 2 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT1</comment>
-        <translation type="unfinished">Legende mit Linie 2 (kein Rahmen)</translation>
+        <translation>Legende mit Linie 2 (ohne Rahmen)</translation>
     </message>
     <message>
         <source>Line Callout 3 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT2</comment>
-        <translation type="unfinished">Legende mit Linie 3 (kein Rahmen)</translation>
+        <translation>Legende mit Linie 3 (ohne Rahmen)</translation>
     </message>
     <message>
         <source>Line Callout 4 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT3</comment>
-        <translation type="unfinished">Legende mit Linie 4 (kein Rahmen)</translation>
+        <translation>Legende mit Linie 4 (ohne Rahmen)</translation>
     </message>
     <message>
         <source>Line Callout 2 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT1</comment>
-        <translation type="unfinished">Legende mit Linie 2 (Rahmen und Markierungslinie)</translation>
+        <translation>Legende mit Linie 2 (Rahmen und Markierungsleiste)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT2</comment>
-        <translation type="unfinished">Legende mit Linie 3 (Rahmen und Markierungslinie)</translation>
+        <translation>Legende mit Linie 3 (Rahmen und Markierungsleiste)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT3</comment>
-        <translation type="unfinished">Legende mit Linie 4 (Rahmen und Markierungslinie)</translation>
+        <translation>Legende mit Linie 4 (Rahmen und Markierungsleiste)</translation>
     </message>
     <message>
         <source>Line Callout 2</source>
         <comment>DRAWINGSTR_BORDERCALLOUT1</comment>
-        <translation type="unfinished">Legende mit Linie 2</translation>
+        <translation>Legende mit Linie 2</translation>
     </message>
     <message>
         <source>Line Callout 3</source>
         <comment>DRAWINGSTR_BORDERCALLOUT2</comment>
-        <translation type="unfinished">Legende mit Linie 3</translation>
+        <translation>Legende mit Linie 3</translation>
     </message>
     <message>
         <source>Line Callout 4</source>
         <comment>DRAWINGSTR_BORDERCALLOUT3</comment>
-        <translation type="unfinished">Legende mit Linie 4</translation>
+        <translation>Legende mit Linie 4</translation>
     </message>
     <message>
         <source>Line Callout 2 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT1</comment>
-        <translation type="unfinished">Legende mit Linie 2 (Markierungslinie)</translation>
+        <translation>Legende mit Linie 2 (Markierungsleiste)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT2</comment>
-        <translation type="unfinished">Legende mit Linie 3 (Markierungslinie)</translation>
+        <translation>Legende mit Linie 3 (Markierungsleiste)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT3</comment>
-        <translation type="unfinished">Legende mit Linie 4 (Markierungslinie)</translation>
+        <translation>Legende mit Linie 4 (Markierungsleiste)</translation>
     </message>
     <message>
         <source>Down Ribbon</source>
         <comment>DRAWINGSTR_RIBBON</comment>
-        <translation type="unfinished">Band nach unten</translation>
+        <translation>Band nach unten</translation>
     </message>
     <message>
         <source>Up Ribbon</source>
         <comment>DRAWINGSTR_RIBBON2</comment>
-        <translation type="unfinished">Band nach oben</translation>
+        <translation>Band nach oben</translation>
     </message>
     <message>
         <source>Chevron</source>
         <comment>DRAWINGSTR_CHEVRON</comment>
-        <translation type="unfinished">Winkel</translation>
+        <translation>Eingekerbter Richtungspfeil</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
         <comment>DRAWINGSTR_PENTAGON</comment>
-        <translation type="unfinished">Reguläres Fünfeck</translation>
+        <translation>Regelmäßiges Fünfeck</translation>
     </message>
     <message>
         <source>No Symbol</source>
         <comment>DRAWINGSTR_NOSMOKING</comment>
-        <translation type="unfinished">Kein Symbol</translation>
+        <translation>&quot;Nein&quot;-Symbol</translation>
     </message>
     <message>
         <source>8-Point Star</source>
         <comment>DRAWINGSTR_SEAL8</comment>
-        <translation type="unfinished">Stern mit 8 Zacken</translation>
+        <translation>Stern mit 8 Zacken</translation>
     </message>
     <message>
         <source>16-Point Star</source>
         <comment>DRAWINGSTR_SEAL16</comment>
-        <translation type="unfinished">Stern mit 16 Zacken</translation>
+        <translation>Stern mit 16 Zacken</translation>
     </message>
     <message>
         <source>32-Point Star</source>
         <comment>DRAWINGSTR_SEAL32</comment>
-        <translation type="unfinished">Stern mit 32 Zacken</translation>
+        <translation>Stern mit 32 Zacken</translation>
     </message>
     <message>
         <source>Rectangular Callout</source>
         <comment>DRAWINGSTR_WEDGERECTCALLOUT</comment>
-        <translation type="unfinished">Rechteckige Legende</translation>
+        <translation>Rechteckige Legende</translation>
     </message>
     <message>
         <source>Rounded Rectangular Callout</source>
         <comment>DRAWINGSTR_WEDGERRECTCALLOUT</comment>
-        <translation type="unfinished">Abgerundete rechteckige Legende</translation>
+        <translation>Abgerundete rechteckige Legende</translation>
     </message>
     <message>
         <source>Oval Callout</source>
         <comment>DRAWINGSTR_WEDGEELLIPSECALLOUT</comment>
-        <translation type="unfinished">Ovale Legende</translation>
+        <translation>Ovale Legende</translation>
     </message>
     <message>
         <source>Wave</source>
         <comment>DRAWINGSTR_WAVE</comment>
-        <translation type="unfinished">Welle</translation>
+        <translation>Welle</translation>
     </message>
     <message>
         <source>Folded Corner</source>
         <comment>DRAWINGSTR_FOLDEDCORNER</comment>
-        <translation type="unfinished">Gefaltete Ecke</translation>
+        <translation>Gefaltete Ecke</translation>
     </message>
     <message>
         <source>Left Arrow</source>
         <comment>DRAWINGSTR_LEFTARROW</comment>
-        <translation type="unfinished">Pfeil nach links</translation>
+        <translation>Pfeil nach links</translation>
     </message>
     <message>
         <source>Down Arrow</source>
         <comment>DRAWINGSTR_DOWNARROW</comment>
-        <translation type="unfinished">Pfeil nach unten</translation>
+        <translation>Pfeil nach unten</translation>
     </message>
     <message>
         <source>Up Arrow</source>
         <comment>DRAWINGSTR_UPARROW</comment>
-        <translation type="unfinished">Pfeil nach oben</translation>
+        <translation>Pfeil nach oben</translation>
     </message>
     <message>
         <source>Left-Right Arrow</source>
         <comment>DRAWINGSTR_LEFTRIGHTARROW</comment>
-        <translation type="unfinished">Pfeil nach links und rechts</translation>
+        <translation>Pfeil nach links und rechts</translation>
     </message>
     <message>
         <source>Up-Down Arrow</source>
         <comment>DRAWINGSTR_UPDOWNARROW</comment>
-        <translation type="unfinished">Pfeil nach unten und oben</translation>
+        <translation>Pfeil nach unten und oben</translation>
     </message>
     <message>
         <source>Explosion 1</source>
         <comment>DRAWINGSTR_IRREGULARSEAL1</comment>
-        <translation type="unfinished">Explosion 1</translation>
+        <translation>Explosion 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWINGSTR_IRREGULARSEAL2</comment>
-        <translation type="unfinished">Explosion 2</translation>
+        <translation>Explosion 2</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
         <comment>DRAWINGSTR_LIGHTNINGBOLT</comment>
-        <translation type="unfinished">Gewitterblitz</translation>
+        <translation>Gewitterblitz</translation>
     </message>
     <message>
         <source>Heart</source>
         <comment>DRAWINGSTR_HEART</comment>
-        <translation type="unfinished">Herz</translation>
+        <translation>Herz</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>DRAWINGSTR_PICTUREFRAME</comment>
-        <translation type="unfinished">Bild</translation>
+        <translation>Grafik</translation>
     </message>
     <message>
         <source>Quad Arrow</source>
         <comment>DRAWINGSTR_QUADARROW</comment>
-        <translation type="unfinished">Pfeil in vier Richtungen</translation>
+        <translation>Pfeil in vier Richtungen</translation>
     </message>
     <message>
         <source>Left Arrow Callout</source>
         <comment>DRAWINGSTR_LEFTARROWCALLOUT</comment>
-        <translation type="unfinished">Legende mit Pfeil nach links</translation>
+        <translation>Legende mit Pfeil nach links</translation>
     </message>
     <message>
         <source>Right Arrow Callout</source>
         <comment>DRAWINGSTR_RIGHTARROWCALLOUT</comment>
-        <translation type="unfinished">Legende mit Pfeil nach rechts</translation>
+        <translation>Legende mit Pfeil nach rechts</translation>
     </message>
     <message>
         <source>Up Arrow Callout</source>
         <comment>DRAWINGSTR_UPARROWCALLOUT</comment>
-        <translation type="unfinished">Legende mit Pfeil nach oben</translation>
+        <translation>Legende mit Pfeil nach oben</translation>
     </message>
     <message>
         <source>Down Arrow Callout</source>
         <comment>DRAWINGSTR_DOWNARROWCALLOUT</comment>
-        <translation type="unfinished">Legende mit Pfeil nach unten</translation>
+        <translation>Legende mit Pfeil nach unten</translation>
     </message>
     <message>
         <source>Left-Right Arrow Callout</source>
         <comment>DRAWINGSTR_LEFTRIGHTARROWCALLOUT</comment>
-        <translation type="unfinished">Legende mit Pfeil nach links und rechts</translation>
+        <translation>Legende mit Pfeil nach links und rechts</translation>
     </message>
     <message>
         <source>Up-Down Arrow Callout</source>
         <comment>DRAWINGSTR_UPDOWNARROWCALLOUT</comment>
-        <translation type="unfinished">Legende mit Pfeil nach unten und oben</translation>
+        <translation>Legende mit Pfeil nach unten und oben</translation>
     </message>
     <message>
         <source>Quad Arrow Callout</source>
         <comment>DRAWINGSTR_QUADARROWCALLOUT</comment>
-        <translation type="unfinished">Legende mit Pfeil in vier Richtungen</translation>
+        <translation>Legende mit Pfeil in vier Richtungen</translation>
     </message>
     <message>
         <source>Bevel</source>
         <comment>DRAWINGSTR_BEVEL</comment>
-        <translation type="unfinished">Schräge</translation>
+        <translation>Abschrägung</translation>
     </message>
     <message>
         <source>Left Bracket</source>
         <comment>DRAWINGSTR_LEFTBRACKET</comment>
-        <translation type="unfinished">Klammer links</translation>
+        <translation>Eckige Klammer links</translation>
     </message>
     <message>
         <source>Right Bracket</source>
         <comment>DRAWINGSTR_RIGHTBRACKET</comment>
-        <translation type="unfinished">Klammer rechts</translation>
+        <translation>Eckige Klammer rechts</translation>
     </message>
     <message>
         <source>Left Brace</source>
         <comment>DRAWINGSTR_LEFTBRACE</comment>
-        <translation type="unfinished">Geschweifte Klammer links</translation>
+        <translation>Geschweifte Klammer links</translation>
     </message>
     <message>
         <source>Right Brace</source>
         <comment>DRAWINGSTR_RIGHTBRACE</comment>
-        <translation type="unfinished">Geschweifte Klammer rechts</translation>
+        <translation>Geschweifte Klammer rechts</translation>
     </message>
     <message>
         <source>Left-Up Arrow</source>
         <comment>DRAWINGSTR_LEFTUPARROW</comment>
-        <translation type="unfinished">Pfeil nach links-oben</translation>
+        <translation>Pfeil nach links und oben</translation>
     </message>
     <message>
         <source>Bent-Up Arrow</source>
         <comment>DRAWINGSTR_BENTUPARROW</comment>
-        <translation type="unfinished">Nach oben gebogener Pfeil</translation>
+        <translation>Nach oben gebogener Pfeil</translation>
     </message>
     <message>
         <source>Bent Arrow</source>
         <comment>DRAWINGSTR_BENTARROW</comment>
-        <translation type="unfinished">Gebogener Pfeil</translation>
+        <translation>Rechteckiger Pfeil</translation>
     </message>
     <message>
         <source>24-Point Star</source>
         <comment>DRAWINGSTR_SEAL24</comment>
-        <translation type="unfinished">Stern mit 24 Zacken</translation>
+        <translation>Stern mit 24 Zacken</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
         <comment>DRAWINGSTR_STRIPEDRIGHTARROW</comment>
-        <translation type="unfinished">Gestreifter Pfeil nach rechts</translation>
+        <translation>Gestreifter Pfeil nach rechts</translation>
     </message>
     <message>
         <source>Notched Right Arrow</source>
         <comment>DRAWINGSTR_NOTCHEDRIGHTARROW</comment>
-        <translation type="unfinished">Eingekerbter Pfeil nach rechts</translation>
+        <translation>Eingebuchteter Pfeil nach rechts</translation>
     </message>
     <message>
         <source>Block Arc</source>
         <comment>DRAWINGSTR_BLOCKARC</comment>
-        <translation type="unfinished">Dicker Bogen</translation>
+        <translation>Halbbogen</translation>
     </message>
     <message>
         <source>Smiling Face</source>
         <comment>DRAWINGSTR_SMILEYFACE</comment>
-        <translation type="unfinished">Smiley</translation>
+        <translation>Smiley</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
         <comment>DRAWINGSTR_VERTICALSCROLL</comment>
-        <translation type="unfinished">Vertikale Scroll-Leiste</translation>
+        <translation>Vertikaler Bildlauf</translation>
     </message>
     <message>
         <source>Horizontal Scroll</source>
         <comment>DRAWINGSTR_HORIZONTALSCROLL</comment>
-        <translation type="unfinished">Horizontale Scroll-Leiste</translation>
+        <translation>Horizontaler Bildlauf</translation>
     </message>
     <message>
         <source>Circular Arrow</source>
         <comment>DRAWINGSTR_CIRCULARARROW</comment>
-        <translation type="unfinished">Pfeil im Kreis</translation>
+        <translation>Circular Arrow</translation>
     </message>
     <message>
         <source>Shape</source>
         <comment>DRAWINGSTR_NOTCHEDCIRCULARARROW</comment>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>U-Turn Arrow</source>
         <comment>DRAWINGSTR_UTURNARROW</comment>
-        <translation type="unfinished">180-Grad-Pfeil</translation>
+        <translation>180-Grad-Pfeil</translation>
     </message>
     <message>
         <source>Curved Left Arrow</source>
         <comment>DRAWINGSTR_CURVEDRIGHTARROW</comment>
-        <translation type="unfinished">Nach links gekrümmter Pfeil</translation>
+        <translation>Nach links gekrümmter Pfeil</translation>
     </message>
     <message>
         <source>Curved Right Arrow</source>
         <comment>DRAWINGSTR_CURVEDLEFTARROW</comment>
-        <translation type="unfinished">Nach rechts gekrümmter Pfeil</translation>
+        <translation>Nach rechts gekrümmter Pfeil</translation>
     </message>
     <message>
         <source>Curved Down Arrow</source>
         <comment>DRAWINGSTR_CURVEDUPARROW</comment>
-        <translation type="unfinished">Nach unten gekrümmter Pfeil</translation>
+        <translation>Nach unten gekrümmter Pfeil</translation>
     </message>
     <message>
         <source>Curved Up Arrow</source>
         <comment>DRAWINGSTR_CURVEDDOWNARROW</comment>
-        <translation type="unfinished">Nach oben gekrümmter Pfeil</translation>
+        <translation>Nach oben gekrümmter Pfeil</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
         <comment>DRAWINGSTR_CLOUDCALLOUT</comment>
-        <translation type="unfinished">Wolkenförmige Legende</translation>
+        <translation>Wolkenförmige Legende</translation>
     </message>
     <message>
         <source>Curved Down Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON</comment>
-        <translation type="unfinished">Nach unten gekrümmtes Band</translation>
+        <translation>Nach unten gekrümmtes Band</translation>
     </message>
     <message>
         <source>Curved Up Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON2</comment>
-        <translation type="unfinished">Nach oben gekrümmtes Band</translation>
+        <translation>Nach oben gekrümmtes Band</translation>
     </message>
     <message>
         <source>Flowchart: Process</source>
         <comment>DRAWINGSTR_FLOWCHARTPROCESS</comment>
-        <translation type="unfinished">Flussdiagramm: Prozess</translation>
+        <translation>Flussdiagramm: Prozess</translation>
     </message>
     <message>
         <source>Flowchart: Decision</source>
         <comment>DRAWINGSTR_FLOWCHARTDECISION</comment>
-        <translation type="unfinished">Flussdiagramm: Entscheidung</translation>
+        <translation>Flussdiagramm: Entscheidung</translation>
     </message>
     <message>
         <source>Flowchart: Data</source>
         <comment>DRAWINGSTR_FLOWCHARTINPUTOUTPUT</comment>
-        <translation type="unfinished">Flussdiagramm: Daten</translation>
+        <translation>Flussdiagramm: Daten</translation>
     </message>
     <message>
         <source>Flowchart: Predefined Process</source>
         <comment>DRAWINGSTR_FLOWCHARTPREDEFINEDPROCESS</comment>
-        <translation type="unfinished">Flussdiagramm: Vordefinierter Prozess</translation>
+        <translation>Flussdiagramm: Vordefinierter Prozess</translation>
     </message>
     <message>
         <source>Flowchart: Internal Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTINTERNALSTORAGE</comment>
-        <translation type="unfinished">Flussdiagramm: Interner Speicher</translation>
+        <translation>Flussdiagramm: Zentralspeicher</translation>
     </message>
     <message>
         <source>Flowchart: Document</source>
         <comment>DRAWINGSTR_FLOWCHARTDOCUMENT</comment>
-        <translation type="unfinished">Flussdiagramm: Dokument</translation>
+        <translation>Flussdiagramm: Dokument</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
         <comment>DRAWINGSTR_FLOWCHARTMULTIDOCUMENT</comment>
-        <translation type="unfinished">Flussdiagramm: Mehrere Dokumente</translation>
+        <translation>Flussdiagramm: Mehrere Dokumente</translation>
     </message>
     <message>
         <source>Flowchart: Terminator</source>
         <comment>DRAWINGSTR_FLOWCHARTTERMINATOR</comment>
-        <translation type="unfinished">Flussdiagramm: Endmarke</translation>
+        <translation>Flussdiagramm: Grenzstelle</translation>
     </message>
     <message>
         <source>Flowchart: Preparation</source>
         <comment>DRAWINGSTR_FLOWCHARTPREPARATION</comment>
-        <translation type="unfinished">Flussdiagramm: Vorbereitung</translation>
+        <translation>Flussdiagramm: Vorbereitung</translation>
     </message>
     <message>
         <source>Flowchart: Manual Input</source>
         <comment>DRAWINGSTR_FLOWCHARTMANUALINPUT</comment>
-        <translation type="unfinished">Flussdiagramm: Manuelle Eingabe</translation>
+        <translation>Flussdiagramm: Manuelle Eingabe</translation>
     </message>
     <message>
         <source>Flowchart: Manual Operation</source>
         <comment>DRAWINGSTR_FLOWCHARTMANUALOPERATION</comment>
-        <translation type="unfinished">Flussdiagramm: Manuelle Verarbeitung</translation>
+        <translation>Flussdiagramm: Manuelle Verarbeitung</translation>
     </message>
     <message>
         <source>Flowchart: Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTCONNECTOR</comment>
-        <translation type="unfinished">Flussdiagramm: Verbindungsstelle</translation>
+        <translation>Flussdiagramm: Verbindungsstelle</translation>
     </message>
     <message>
         <source>Flowchart: Card</source>
         <comment>DRAWINGSTR_FLOWCHARTPUNCHEDCARD</comment>
-        <translation type="unfinished">Flussdiagramm: Karte</translation>
+        <translation>Flussdiagramm: Karte</translation>
     </message>
     <message>
         <source>Flowchart: Punched Tape</source>
         <comment>DRAWINGSTR_FLOWCHARTPUNCHEDTAPE</comment>
-        <translation type="unfinished">Flussdiagramm: Lochstreifen</translation>
+        <translation>Flussdiagramm: Lochstreifen</translation>
     </message>
     <message>
         <source>Flowchart: Summing Junction</source>
         <comment>DRAWINGSTR_FLOWCHARTSUMMINGJUNCTION</comment>
-        <translation type="unfinished">Flussdiagramm: Zusammenführung</translation>
+        <translation>Flussdiagramm: Zusammenführung</translation>
     </message>
     <message>
         <source>Flowchart: Or</source>
         <comment>DRAWINGSTR_FLOWCHARTOR</comment>
-        <translation type="unfinished">Flussdiagramm: Oder</translation>
+        <translation>Flussdiagramm: Oder</translation>
     </message>
     <message>
         <source>Flowchart: Collate</source>
         <comment>DRAWINGSTR_FLOWCHARTCOLLATE</comment>
-        <translation type="unfinished">Flussdiagramm: Zusammenstellen</translation>
+        <translation>Flussdiagramm: Sortieren</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
         <comment>DRAWINGSTR_FLOWCHARTSORT</comment>
-        <translation type="unfinished">Flussdiagramm: Sortieren</translation>
+        <translation>Flussdiagramm: Sortieren</translation>
     </message>
     <message>
         <source>Flowchart: Extract</source>
         <comment>DRAWINGSTR_FLOWCHARTEXTRACT</comment>
-        <translation type="unfinished">Flussdiagramm: Auszug</translation>
+        <translation>Flussdiagramm: Auszug</translation>
     </message>
     <message>
         <source>Flowchart: Merge</source>
         <comment>DRAWINGSTR_FLOWCHARTMERGE</comment>
-        <translation type="unfinished">Flussdiagramm: Zusammenführen</translation>
+        <translation>Flussdiagramm: Zusammenführen</translation>
     </message>
     <message>
         <source>FlowChart: Offline Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFLINESTORAGE</comment>
-        <translation type="unfinished">Flussdiagramm: Offline-Speicher</translation>
+        <translation>Flussdiagramm: Offlinespeicher</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
         <comment>DRAWINGSTR_FLOWCHARTONLINESTORAGE</comment>
-        <translation type="unfinished">Flussdiagramm: Gespeicherte Daten</translation>
+        <translation>Flussdiagramm: Gespeicherte Daten</translation>
     </message>
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation type="unfinished">Flussdiagramm: Datenträger mit sequenziellem Zugriff</translation>
+        <translation>Flussdiagramm: Datenträger mit direktem Zugriff</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICDISK</comment>
-        <translation type="unfinished">Flussdiagramm: Magnetplattenspeicher</translation>
+        <translation>Flussdiagramm: Magnetplattenspeicher</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICDRUM</comment>
-        <translation type="unfinished">Flussdiagramm: Datenträger mit direktem Zugriff</translation>
+        <translation>Flussdiagramm: Datenträger mit direktem Zugriff</translation>
     </message>
     <message>
         <source>Flowchart: Display</source>
         <comment>DRAWINGSTR_FLOWCHARTDISPLAY</comment>
-        <translation type="unfinished">Flussdiagramm: Anzeige</translation>
+        <translation>Flussdiagramm: Anzeige</translation>
     </message>
     <message>
         <source>Flowchart: Delay</source>
         <comment>DRAWINGSTR_FLOWCHARTDELAY</comment>
-        <translation type="unfinished">Flussdiagramm: Verzögerung</translation>
+        <translation>Flussdiagramm: Verzögerung</translation>
     </message>
     <message>
         <source>WordArt: Plain Text</source>
         <comment>DRAWINGSTR_TEXTPLAINTEXT</comment>
-        <translation type="unfinished">WordArt: Nur Text</translation>
+        <translation>WordArt: Nur-Text</translation>
     </message>
     <message>
         <source>WordArt: Octagon</source>
         <comment>DRAWINGSTR_TEXTSTOP</comment>
-        <translation type="unfinished">WordArt: Oktagon</translation>
+        <translation>WordArt: Achteck</translation>
     </message>
     <message>
         <source>WordArt: Triangle</source>
         <comment>DRAWINGSTR_TEXTTRIANGLE</comment>
-        <translation type="unfinished">WordArt: Dreieck</translation>
+        <translation>WordArt: Dreieck</translation>
     </message>
     <message>
         <source>WordArt: Triangle Inverted</source>
         <comment>DRAWINGSTR_TEXTTRIANGLEINVERTED</comment>
-        <translation type="unfinished">WordArt: Umgedrehtes Dreieck</translation>
+        <translation>WordArt: Dreieck nach unten</translation>
     </message>
     <message>
         <source>WordArt: Chevron</source>
         <comment>DRAWINGSTR_TEXTCHEVRON</comment>
-        <translation type="unfinished">WordArt: Chevron</translation>
+        <translation>WordArt: Chevron</translation>
     </message>
     <message>
         <source>WordArt: Chevron Inverted</source>
         <comment>DRAWINGSTR_TEXTCHEVRONINVERTED</comment>
-        <translation type="unfinished">WordArt: Chevron invertiert</translation>
+        <translation>WordArt: Chevron invertiert</translation>
     </message>
     <message>
         <source>WordArt: Ring Inside</source>
         <comment>DRAWINGSTR_TEXTRINGINSIDE</comment>
-        <translation type="unfinished">WordArt: Ring innen</translation>
+        <translation>WordArt: Kreis innen</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
         <comment>DRAWINGSTR_TEXTRINGOUTSIDE</comment>
-        <translation type="unfinished">WordArt: Ring außen</translation>
+        <translation>WordArt: Kreis außen</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
         <comment>DRAWINGSTR_TEXTARCHUPCURVE</comment>
-        <translation type="unfinished">WordArt: Aufsteigender Bogen</translation>
+        <translation>WordArt: Bogen nach unten (Kontur)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNCURVE</comment>
-        <translation type="unfinished">WordArt: Absteigender Bogen</translation>
+        <translation>WordArt: Bogen nach unten (Kontur)</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
         <comment>DRAWINGSTR_TEXTCIRCLECURVE</comment>
-        <translation type="unfinished">WordArt: Rundbogen</translation>
+        <translation>WordArt: Kreis (Kontur)</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
         <comment>DRAWINGSTR_TEXTBUTTONCURVE</comment>
-        <translation type="unfinished">WordArt: Gepunktteter Bogen</translation>
+        <translation>WordArt: Schaltfläche (Kontur)</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
         <comment>DRAWINGSTR_TEXTARCHUPPOUR</comment>
-        <translation type="unfinished">WordArt: Aufsteigender Pour</translation>
+        <translation>WordArt: Bogen nach unten (gefüllt)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNPOUR</comment>
-        <translation type="unfinished">WordArt: Absteigender Pour</translation>
+        <translation>WordArt: Bogen nach unten (gefüllt)</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
         <comment>DRAWINGSTR_TEXTCIRCLEPOUR</comment>
-        <translation type="unfinished">WordArt: Runder Pour</translation>
+        <translation>WordArt: Kreis (gefüllt)</translation>
     </message>
     <message>
         <source>WordArt: Button Pour</source>
         <comment>DRAWINGSTR_TEXTBUTTONPOUR</comment>
-        <translation type="unfinished">WordArt: Gepunkteter Pour</translation>
+        <translation>WordArt: Schaltfläche (gefüllt)</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
         <comment>DRAWINGSTR_TEXTCURVEUP</comment>
-        <translation type="unfinished">WordArt: Kurve aufwärts</translation>
+        <translation>WordArt: Gekrümmt nach oben</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
         <comment>DRAWINGSTR_TEXTCURVEDOWN</comment>
-        <translation type="unfinished">WordArt: Kurve abwärts</translation>
+        <translation>WordArt: Gekrümmt nach unten</translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
         <comment>DRAWINGSTR_TEXTCASCADEUP</comment>
-        <translation type="unfinished">WordArt: Stufenverlauf aufwärts</translation>
+        <translation>WordArt: Überlappend nach oben</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
         <comment>DRAWINGSTR_TEXTCASCADEDOWN</comment>
-        <translation type="unfinished">WordArt: Stufenverlauf abwärts</translation>
+        <translation>WordArt: Überlappend nach unten</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
         <comment>DRAWINGSTR_TEXTWAVE1</comment>
-        <translation type="unfinished">WordArt: Welle1</translation>
+        <translation>WordArt: Welle1</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
         <comment>DRAWINGSTR_TEXTWAVE2</comment>
-        <translation type="unfinished">WordArt: Welle2</translation>
+        <translation>WordArt: Welle2</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
         <comment>DRAWINGSTR_TEXTWAVE3</comment>
-        <translation type="unfinished">WordArt: Welle1</translation>
+        <translation>WordArt: Welle1</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
         <comment>DRAWINGSTR_TEXTWAVE4</comment>
-        <translation type="unfinished">WordArt: Welle2</translation>
+        <translation>WordArt: Welle2</translation>
     </message>
     <message>
         <source>WordArt: Inflate</source>
         <comment>DRAWINGSTR_TEXTINFLATE</comment>
-        <translation type="unfinished">WordArt: Vergrößern</translation>
+        <translation>WordArt: Vergrößern</translation>
     </message>
     <message>
         <source>WordArt: Deflate</source>
         <comment>DRAWINGSTR_TEXTDEFLATE</comment>
-        <translation type="unfinished">WordArt: Verkleinern</translation>
+        <translation>WordArt: Verkleinern</translation>
     </message>
     <message>
         <source>WordArt: Inflate Bottom</source>
         <comment>DRAWINGSTR_TEXTINFLATEBOTTOM</comment>
-        <translation type="unfinished">WordArt: Vergrößern nach unten</translation>
+        <translation>WordArt: Nach oben vergrößern</translation>
     </message>
     <message>
         <source>WordArt: Deflate Bottom</source>
         <comment>DRAWINGSTR_TEXTDEFLATEBOTTOM</comment>
-        <translation type="unfinished">WordArt: Verkleinern nach unten</translation>
+        <translation>WordArt: Nach unten verkleinern</translation>
     </message>
     <message>
         <source>WordArt: Inflate Top</source>
         <comment>DRAWINGSTR_TEXTINFLATETOP</comment>
-        <translation type="unfinished">WordArt: Vergrößern nach oben</translation>
+        <translation>WordArt: Nach oben vergrößern</translation>
     </message>
     <message>
         <source>WordArt: Deflate Top</source>
         <comment>DRAWINGSTR_TEXTDEFLATETOP</comment>
-        <translation type="unfinished">WordArt: Verkleinern nach oben</translation>
+        <translation>WordArt: Nach oben verkleinern</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate</source>
         <comment>DRAWINGSTR_TEXTDEFLATEINFLATE</comment>
-        <translation type="unfinished">WordArt: Verkleinern-Vergrößern</translation>
+        <translation>WordArt: Verkleinern-Vergrößern</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate-Deflate</source>
         <comment>DRAWINGSTR_TEXTDEFLATEINFLATEDEFLATE</comment>
-        <translation type="unfinished">WordArt: Verkleinern-Vergrößern-Verkleinern</translation>
+        <translation>WordArt: Verkleinern-Vergrößern-Verkleinern</translation>
     </message>
     <message>
         <source>WordArt: Fade Right</source>
         <comment>DRAWINGSTR_TEXTFADERIGHT</comment>
-        <translation type="unfinished">WordArt: Verblassen nach rechts</translation>
+        <translation>WordArt: Abnehmend nach rechts</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
         <comment>DRAWINGSTR_TEXTFADELEFT</comment>
-        <translation type="unfinished">WordArt: Verblassen nach links</translation>
+        <translation>WordArt: Abnehmend nach links</translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
         <comment>DRAWINGSTR_TEXTFADEUP</comment>
-        <translation type="unfinished">WordArt: Verblassen nach oben</translation>
+        <translation>WordArt: Abnehmend nach oben</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
         <comment>DRAWINGSTR_TEXTFADEDOWN</comment>
-        <translation type="unfinished">WordArt: Verblassen nach unten</translation>
+        <translation>WordArt: Abnehmend nach unten</translation>
     </message>
     <message>
         <source>WordArt: Slant Up</source>
         <comment>DRAWINGSTR_TEXTSLANTUP</comment>
-        <translation type="unfinished">WordArt: Diagonale nach oben</translation>
+        <translation>WordArt: Schräg nach oben</translation>
     </message>
     <message>
         <source>WordArt: Slant Down</source>
         <comment>DRAWINGSTR_TEXTSLANTDOWN</comment>
-        <translation type="unfinished">WordArt: Diagonale nach unten</translation>
+        <translation>WordArt: Schräg nach unten</translation>
     </message>
     <message>
         <source>WordArt: Can Up</source>
@@ -5771,447 +5774,447 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Alternate Process</source>
         <comment>DRAWINGSTR_FLOWCHARTALTERNATEPROCESS</comment>
-        <translation type="unfinished">Flussdiagramm: Alternativer Prozess</translation>
+        <translation>Flussdiagramm: Alternativer Prozess</translation>
     </message>
     <message>
         <source>Flowchart: Off-page Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFPAGECONNECTOR</comment>
-        <translation type="unfinished">Flussdiagramm: Verbindungsstelle zu einer anderen Seite</translation>
+        <translation>Flussdiagramm: Verbindungsstelle zu einer anderen Seite</translation>
     </message>
     <message>
         <source>Line Callout 1 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT90</comment>
-        <translation type="unfinished">Legende mit Linie 1 (kein Rahmen)</translation>
+        <translation>Legende mit Linie 1 (ohne Rahmen)</translation>
     </message>
     <message>
         <source>Line Callout 1 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT90</comment>
-        <translation type="unfinished">Legende mit Linie 1 (Markierungslinie)</translation>
+        <translation>Legende mit Linie 1 (Markierungsleiste)</translation>
     </message>
     <message>
         <source>Line Callout 1</source>
         <comment>DRAWINGSTR_BORDERCALLOUT90</comment>
-        <translation type="unfinished">Legende mit Linie 1</translation>
+        <translation>Legende mit Linie 1</translation>
     </message>
     <message>
         <source>Line Callout 1 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT90</comment>
-        <translation type="unfinished">Legende mit Linie 1 (Rahmen und Markierungslinie)</translation>
+        <translation>Legende mit Linie 1 (Rahmen und Markierungsleiste)</translation>
     </message>
     <message>
         <source>Left-Right-Up Arrow</source>
         <comment>DRAWINGSTR_LEFTRIGHTUPARROW</comment>
-        <translation type="unfinished">rechts und oben</translation>
+        <translation>Pfeil nach links, rechts und oben</translation>
     </message>
     <message>
         <source>Sun</source>
         <comment>DRAWINGSTR_SUN</comment>
-        <translation type="unfinished">Sonne</translation>
+        <translation>Sonne</translation>
     </message>
     <message>
         <source>Moon</source>
         <comment>DRAWINGSTR_MOON</comment>
-        <translation type="unfinished">Mond</translation>
+        <translation>Mond</translation>
     </message>
     <message>
         <source>Double Bracket</source>
         <comment>DRAWINGSTR_BRACKETPAIR</comment>
-        <translation type="unfinished">Klammer links/rechts</translation>
+        <translation>Eckige Klammer links/rechts</translation>
     </message>
     <message>
         <source>Double Brace</source>
         <comment>DRAWINGSTR_BRACEPAIR</comment>
-        <translation type="unfinished">Geschweifte Klammer links/rechts</translation>
+        <translation>Geschweifte Klammer links/rechts</translation>
     </message>
     <message>
         <source>4-Point Star</source>
         <comment>DRAWINGSTR_SEAL4</comment>
-        <translation type="unfinished">Stern mit 4 Zacken</translation>
+        <translation>Stern mit 4 Zacken</translation>
     </message>
     <message>
         <source>Double Wave</source>
         <comment>DRAWINGSTR_DOUBLEWAVE</comment>
-        <translation type="unfinished">Doppelte Welle</translation>
+        <translation>Doppelte Welle</translation>
     </message>
     <message>
         <source>Action Button: Custom</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBLANK</comment>
-        <translation type="unfinished">Aktionsknopf: Benutzerdefiniert</translation>
+        <translation>Interaktive Schaltfläche: Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
         <comment>DRAWINGSTR_ACTIONBUTTONHOME</comment>
-        <translation type="unfinished">Aktionsknopf: Zuhause</translation>
+        <translation>Interaktive Schaltfläche: Start</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
         <comment>DRAWINGSTR_ACTIONBUTTONHELP</comment>
-        <translation type="unfinished">Aktionsknopf: Hilfe</translation>
+        <translation>Interaktive Schaltfläche: Hilfe</translation>
     </message>
     <message>
         <source>Action Button: Information</source>
         <comment>DRAWINGSTR_ACTIONBUTTONINFORMATION</comment>
-        <translation type="unfinished">Aktionsknopf: Information</translation>
+        <translation>Interaktive Schaltfläche: Information</translation>
     </message>
     <message>
         <source>Action Button: Forward or Next</source>
         <comment>DRAWINGSTR_ACTIONBUTTONFORWARDNEXT</comment>
-        <translation type="unfinished">Aktionsknopf: Vörwärts oder nächster</translation>
+        <translation>Interaktive Schaltfläche: Nächste(r) oder Weiter</translation>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBACKPREVIOUS</comment>
-        <translation type="unfinished">Aktionsknopf: Zurück oder vorausgehender</translation>
+        <translation>Interaktive Schaltfläche: Zurück oder Vorherige(r)</translation>
     </message>
     <message>
         <source>Action Button: End</source>
         <comment>DRAWINGSTR_ACTIONBUTTONEND</comment>
-        <translation type="unfinished">Aktionsknopf: Ende</translation>
+        <translation>Interaktive Schaltfläche: Ende</translation>
     </message>
     <message>
         <source>Action Button: Beginning</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBEGINNING</comment>
-        <translation type="unfinished">Aktionsknopf: Anfang</translation>
+        <translation>Interaktive Schaltfläche: Anfang</translation>
     </message>
     <message>
         <source>Action Button: Return</source>
         <comment>DRAWINGSTR_ACTIONBUTTONRETURN</comment>
-        <translation type="unfinished">Aktionsknopf: Zurück</translation>
+        <translation>Interaktive Schaltfläche: Zurückkehren</translation>
     </message>
     <message>
         <source>Action Button: Document</source>
         <comment>DRAWINGSTR_ACTIONBUTTONDOCUMENT</comment>
-        <translation type="unfinished">Aktionsknopf: Dokument</translation>
+        <translation>Interaktive Schaltfläche: Dokument</translation>
     </message>
     <message>
         <source>Action Button: Sound</source>
         <comment>DRAWINGSTR_ACTIONBUTTONSOUND</comment>
-        <translation type="unfinished">Aktionsknopf: Geräusch</translation>
+        <translation>Interaktive Schaltfläche: Sound</translation>
     </message>
     <message>
         <source>Action Button: Movie</source>
         <comment>DRAWINGSTR_ACTIONBUTTONMOVIE</comment>
-        <translation type="unfinished">Aktionsknopf: Film</translation>
+        <translation>Interaktive Schaltfläche: Film</translation>
     </message>
     <message>
         <source>Host Control</source>
         <comment>DRAWINGSTR_HOSTCONTROL</comment>
-        <translation type="unfinished">Host-Steuerung</translation>
+        <translation>Hoststeuerelement</translation>
     </message>
     <message>
         <source>Text Box</source>
         <comment>DRAWINGSTR_TEXTBOX</comment>
-        <translation type="unfinished">Textfeld</translation>
+        <translation>Textfeld</translation>
     </message>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished">Gruppe</translation>
+        <translation>Gruppierung</translation>
     </message>
     <message>
         <source>CD Drive</source>
         <comment>DRAWINGSTR_CDDRIVE</comment>
-        <translation type="unfinished">CD-Laufwerk</translation>
+        <translation>CD-Laufwerk</translation>
     </message>
     <message>
         <source>Chair</source>
         <comment>DRAWINGSTR_CHAIR</comment>
-        <translation type="unfinished">Stuhl</translation>
+        <translation>Stuhl</translation>
     </message>
     <message>
         <source>Chair</source>
         <comment>DRAWINGSTR_CHAIR1</comment>
-        <translation type="unfinished">Stuhl</translation>
+        <translation>Stuhl</translation>
     </message>
     <message>
         <source>Guest Chair</source>
         <comment>DRAWINGSTR_CHAIR3</comment>
-        <translation type="unfinished">Gaststuhl</translation>
+        <translation>Gästestuhl</translation>
     </message>
     <message>
         <source>Cloud</source>
         <comment>DRAWINGSTR_CLOUD</comment>
-        <translation type="unfinished">Wolke</translation>
+        <translation>Wolke</translation>
     </message>
     <message>
         <source>Desktop computer</source>
         <comment>DRAWINGSTR_COMPUTR1</comment>
-        <translation type="unfinished">Desktop-Computer</translation>
+        <translation>Desktopcomputer</translation>
     </message>
     <message>
         <source>Work station</source>
         <comment>DRAWINGSTR_COMPUTR2</comment>
-        <translation type="unfinished">Workstation</translation>
+        <translation>Workstation</translation>
     </message>
     <message>
         <source>Tower</source>
         <comment>DRAWINGSTR_COMPUTR3</comment>
-        <translation type="unfinished">Turm</translation>
+        <translation>Towercomputer</translation>
     </message>
     <message>
         <source>Traditional Mac computer</source>
         <comment>DRAWINGSTR_COMPUTR4</comment>
-        <translation type="unfinished">Traditioneller Mac-Computer</translation>
+        <translation>Traditioneller Mac-Computer</translation>
     </message>
     <message>
         <source>Two-seater</source>
         <comment>DRAWINGSTR_COUCH1</comment>
-        <translation type="unfinished">Zweisitzer</translation>
+        <translation>Zweiersofa</translation>
     </message>
     <message>
         <source>Three-seater</source>
         <comment>DRAWINGSTR_COUCH2</comment>
-        <translation type="unfinished">Dreisitzer</translation>
+        <translation>Couch</translation>
     </message>
     <message>
         <source>Curved Ribbon3</source>
         <comment>DRAWINGSTR_CURVEDRIBBON3</comment>
-        <translation type="unfinished">Gekrümmtes Band3</translation>
+        <translation>Gekrümmtes Band3</translation>
     </message>
     <message>
         <source>Desk</source>
         <comment>DRAWINGSTR_DESK1</comment>
-        <translation type="unfinished">Schreibtisch</translation>
+        <translation>Schreibtisch</translation>
     </message>
     <message>
         <source>Desk</source>
         <comment>DRAWINGSTR_DESK2</comment>
-        <translation type="unfinished">Schreibtisch</translation>
+        <translation>Schreibtisch</translation>
     </message>
     <message>
         <source>Desk Lamp</source>
         <comment>DRAWINGSTR_DESKLAMP</comment>
-        <translation type="unfinished">Schreibtischlampe</translation>
+        <translation>Schreibtischlampe</translation>
     </message>
     <message>
         <source>Document</source>
         <comment>DRAWINGSTR_DOCUMENT</comment>
-        <translation type="unfinished">Dokument</translation>
+        <translation>Dokument</translation>
     </message>
     <message>
         <source>Documents</source>
         <comment>DRAWINGSTR_DOCUMENTS</comment>
-        <translation type="unfinished">Dokumente</translation>
+        <translation>Dokumente</translation>
     </message>
     <message>
         <source>Door leaf</source>
         <comment>DRAWINGSTR_DOOR</comment>
-        <translation type="unfinished">Türblatt</translation>
+        <translation>Türflügelbreite</translation>
     </message>
     <message>
         <source>Down Ribbon Sharp</source>
         <comment>DRAWINGSTR_DOWNRIBBONSHARP</comment>
-        <translation type="unfinished">Band abwärts scharf</translation>
+        <translation>Band nach unten scharf</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>DRAWINGSTR_FILE</comment>
-        <translation type="unfinished">Ordner</translation>
+        <translation>Ordner</translation>
     </message>
     <message>
         <source>File Cab</source>
         <comment>DRAWINGSTR_FILECAB2</comment>
-        <translation type="unfinished">Aktenschrank</translation>
+        <translation>Aktenschrank</translation>
     </message>
     <message>
         <source>File Cab (horizontal)</source>
         <comment>DRAWINGSTR_FILECAB3</comment>
-        <translation type="unfinished">Aktenschrank (flach)</translation>
+        <translation>Aktenschrank (horizontal)</translation>
     </message>
     <message>
         <source>Film</source>
         <comment>DRAWINGSTR_FILM</comment>
-        <translation type="unfinished">Film</translation>
+        <translation>Film</translation>
     </message>
     <message>
         <source>Firewall</source>
         <comment>DRAWINGSTR_FIREWALL</comment>
-        <translation type="unfinished">Brandmauer</translation>
+        <translation>Firewall</translation>
     </message>
     <message>
         <source>Floor Lamp</source>
         <comment>DRAWINGSTR_FLOORLAMP</comment>
-        <translation type="unfinished">Stehlampe</translation>
+        <translation>Stehlampe</translation>
     </message>
     <message>
         <source>Feedback form/order form</source>
         <comment>DRAWINGSTR_FORM</comment>
-        <translation type="unfinished">Feedback-Formular/Bestellformular</translation>
+        <translation>Feedback-Formular/Bestellformular</translation>
     </message>
     <message>
         <source>Gear</source>
         <comment>DRAWINGSTR_GEAR</comment>
-        <translation type="unfinished">Bremse</translation>
+        <translation>Getriebe</translation>
     </message>
     <message>
         <source>Homepage</source>
         <comment>DRAWINGSTR_HOMEPAGE</comment>
-        <translation type="unfinished">Homepage</translation>
+        <translation>Startseite</translation>
     </message>
     <message>
         <source>Infopage</source>
         <comment>DRAWINGSTR_INFOPAGE</comment>
-        <translation type="unfinished">Infopage</translation>
+        <translation>Infopage</translation>
     </message>
     <message>
         <source>Laptop</source>
         <comment>DRAWINGSTR_LAPTOP</comment>
-        <translation type="unfinished">Laptop</translation>
+        <translation>Laptop</translation>
     </message>
     <message>
         <source>Letter</source>
         <comment>DRAWINGSTR_LETTER</comment>
-        <translation type="unfinished">Brief</translation>
+        <translation>Brief</translation>
     </message>
     <message>
         <source>Light bulb</source>
         <comment>DRAWINGSTR_LITEBULB</comment>
-        <translation type="unfinished">Glühbirne</translation>
+        <translation>Glühbirne</translation>
     </message>
     <message>
         <source>Padlock</source>
         <comment>DRAWINGSTR_LOCK</comment>
-        <translation type="unfinished">Vorhängeschloss</translation>
+        <translation>Vorhängeschloss</translation>
     </message>
     <message>
         <source>Mainframe</source>
         <comment>DRAWINGSTR_MAINFRM</comment>
-        <translation type="unfinished">Großrechner</translation>
+        <translation>Mainframe</translation>
     </message>
     <message>
         <source>Multimedia</source>
         <comment>DRAWINGSTR_SOUND</comment>
-        <translation type="unfinished">Multimedia</translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <source>Modem</source>
         <comment>DRAWINGSTR_MODEM</comment>
-        <translation type="unfinished">Modem</translation>
+        <translation>Modem</translation>
     </message>
     <message>
         <source>Monitor</source>
         <comment>DRAWINGSTR_MONITOR</comment>
-        <translation type="unfinished">Monitor</translation>
+        <translation>Monitor</translation>
     </message>
     <message>
         <source>Music</source>
         <comment>DRAWINGSTR_MUSIC</comment>
-        <translation type="unfinished">Musik</translation>
+        <translation>Musik</translation>
     </message>
     <message>
         <source>PC</source>
         <comment>DRAWINGSTR_PC</comment>
-        <translation type="unfinished">PC</translation>
+        <translation>PC</translation>
     </message>
     <message>
         <source>Phone</source>
         <comment>DRAWINGSTR_PHONE3</comment>
-        <translation type="unfinished">Telefon</translation>
+        <translation>Telefon</translation>
     </message>
     <message>
         <source>Photo</source>
         <comment>DRAWINGSTR_PHOTO</comment>
-        <translation type="unfinished">Foto</translation>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Plant</source>
         <comment>DRAWINGSTR_PLANT</comment>
-        <translation type="unfinished">Pflanze</translation>
+        <translation>Pflanze</translation>
     </message>
     <message>
         <source>Printer</source>
         <comment>DRAWINGSTR_PRINTER2</comment>
-        <translation type="unfinished">Drucker</translation>
+        <translation>Drucker</translation>
     </message>
     <message>
         <source>Pub Banner</source>
         <comment>DRAWINGSTR_PUBBANNER</comment>
-        <translation type="unfinished">Pub Banner</translation>
+        <translation>Rundes Band</translation>
     </message>
     <message>
         <source>Pub Chord</source>
         <comment>DRAWINGSTR_PUBCHORD</comment>
-        <translation type="unfinished">Pub Sehne</translation>
+        <translation>Sehne</translation>
     </message>
     <message>
         <source>Pub Cross</source>
         <comment>DRAWINGSTR_PUBCROSS</comment>
-        <translation type="unfinished">Pub Kreuz</translation>
+        <translation>Kreuz</translation>
     </message>
     <message>
         <source>Pub Half Frame</source>
         <comment>DRAWINGSTR_PUBHALFFRAME</comment>
-        <translation type="unfinished">Pub Halber Rahmen</translation>
+        <translation>Rahmenhälfte</translation>
     </message>
     <message>
         <source>Pub L</source>
         <comment>DRAWINGSTR_PUBL</comment>
-        <translation type="unfinished">Pub L</translation>
+        <translation>Pub L-Form</translation>
     </message>
     <message>
         <source>Pub Oval Callout</source>
         <comment>DRAWINGSTR_PUBOVALCALLOUT</comment>
-        <translation type="unfinished">Pub ovale Legende</translation>
+        <translation>Sprechblase</translation>
     </message>
     <message>
         <source>Pub Pie Slice</source>
         <comment>DRAWINGSTR_PUBPIESLICE</comment>
-        <translation type="unfinished">Pub Tortenstück</translation>
+        <translation>Kreissegment</translation>
     </message>
     <message>
         <source>Pub R-Rect Callout</source>
         <comment>DRAWINGSTR_PUBRRECTCALLOUT</comment>
-        <translation type="unfinished">Pub R-Rect Legende</translation>
+        <translation>Rechteckige Sprechblase</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
         <comment>DRAWINGSTR_DIAGONALSTRIPE</comment>
-        <translation type="unfinished">Diagonaler Streifen</translation>
+        <translation>Diagonaler Streifen</translation>
     </message>
     <message>
         <source>Pub Triangle</source>
         <comment>DRAWINGSTR_PUBTRIANGLE</comment>
-        <translation type="unfinished">Pub Dreieck</translation>
+        <translation>Dreieck</translation>
     </message>
     <message>
         <source>Puzzle1</source>
         <comment>DRAWINGSTR_PUZZLE1</comment>
-        <translation type="unfinished">Puzzle1</translation>
+        <translation>Puzzle1</translation>
     </message>
     <message>
         <source>Puzzle2</source>
         <comment>DRAWINGSTR_PUZZLE2</comment>
-        <translation type="unfinished">Puzzle2</translation>
+        <translation>Puzzle2</translation>
     </message>
     <message>
         <source>Puzzle3</source>
         <comment>DRAWINGSTR_PUZZLE3</comment>
-        <translation type="unfinished">Puzzle3</translation>
+        <translation>Puzzle3</translation>
     </message>
     <message>
         <source>Puzzle4</source>
         <comment>DRAWINGSTR_PUZZLE4</comment>
-        <translation type="unfinished">Puzzle4</translation>
+        <translation>Puzzle4</translation>
     </message>
     <message>
         <source>Pyr1</source>
         <comment>DRAWINGSTR_PYR1</comment>
-        <translation type="unfinished">Pyr1</translation>
+        <translation>Pyr1</translation>
     </message>
     <message>
         <source>Pyr2</source>
         <comment>DRAWINGSTR_PYR2</comment>
-        <translation type="unfinished">Pyr2</translation>
+        <translation>Pyr2</translation>
     </message>
     <message>
         <source>Pyr3</source>
         <comment>DRAWINGSTR_PYR3</comment>
-        <translation type="unfinished">Pyr3</translation>
+        <translation>Pyr3</translation>
     </message>
     <message>
         <source>Pyr4</source>
         <comment>DRAWINGSTR_PYR4</comment>
-        <translation type="unfinished">Pyr4</translation>
+        <translation>Pyr4</translation>
     </message>
     <message>
         <source>Ribbon1 Sharp</source>
@@ -6226,47 +6229,47 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Scanner</source>
         <comment>DRAWINGSTR_SCANNER1</comment>
-        <translation type="unfinished">Scanner</translation>
+        <translation>Scanner</translation>
     </message>
     <message>
         <source>Scanner</source>
         <comment>DRAWINGSTR_SCANNER2</comment>
-        <translation type="unfinished">Scanner</translation>
+        <translation>Scanner</translation>
     </message>
     <message>
         <source>Server</source>
         <comment>DRAWINGSTR_SERVER</comment>
-        <translation type="unfinished">Server</translation>
+        <translation>Server</translation>
     </message>
     <message>
         <source>Sink1</source>
         <comment>DRAWINGSTR_SINK1</comment>
-        <translation type="unfinished">Waschbecken1</translation>
+        <translation>Waschbecken1</translation>
     </message>
     <message>
         <source>Sink2</source>
         <comment>DRAWINGSTR_SINK2</comment>
-        <translation type="unfinished">Waschbecken2</translation>
+        <translation>Waschbecken2</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>DRAWINGSTR_TABLE</comment>
-        <translation type="unfinished">Tisch</translation>
+        <translation>Tisch</translation>
     </message>
     <message>
         <source>Toilet</source>
         <comment>DRAWINGSTR_TOILET</comment>
-        <translation type="unfinished">Toilette</translation>
+        <translation>Toilette</translation>
     </message>
     <message>
         <source>Tower</source>
         <comment>DRAWINGSTR_TOWER</comment>
-        <translation type="unfinished">Turm</translation>
+        <translation>Towercomputer</translation>
     </message>
     <message>
         <source>Tree</source>
         <comment>DRAWINGSTR_TREE</comment>
-        <translation type="unfinished">Baum</translation>
+        <translation>Baum</translation>
     </message>
     <message>
         <source>Up Ribbon Sharp</source>
@@ -6276,32 +6279,32 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Webpage</source>
         <comment>DRAWINGSTR_WEBPAGE</comment>
-        <translation type="unfinished">Webseite</translation>
+        <translation>Webseite</translation>
     </message>
     <message>
         <source>Puzzle5</source>
         <comment>DRAWINGSTR_PUZZLE5</comment>
-        <translation type="unfinished">Puzzle5</translation>
+        <translation>Puzzle5</translation>
     </message>
     <message>
         <source>Equation</source>
         <comment>DRAWINGSTR_EQUATION</comment>
-        <translation type="unfinished">Gleichung</translation>
+        <translation>Gleichung</translation>
     </message>
     <message>
         <source>Unknown Shape</source>
         <comment>DRAWINGSTR_UNKNOWNSHAPENAME</comment>
-        <translation type="unfinished">Unbekannte Form</translation>
+        <translation>Unbekannte Form</translation>
     </message>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPNAME</comment>
-        <translation type="unfinished">Gruppe</translation>
+        <translation>Gruppierung</translation>
     </message>
     <message>
         <source>Mixed texture</source>
         <comment>DRAWINGSTR_TRANSFER_KSOPRESETTEXTUREMIXED</comment>
-        <translation type="unfinished">Mischgewebe</translation>
+        <translation>Gemischte Struktur</translation>
     </message>
     <message>
         <source>Pane1</source>
@@ -6316,42 +6319,42 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Traditional1</source>
         <comment>DRAWINGSTR_TRANSFER_TRADITIONAL1</comment>
-        <translation type="unfinished">Traditionell1</translation>
+        <translation>Traditionell1</translation>
     </message>
     <message>
         <source>Traditional2</source>
         <comment>DRAWINGSTR_TRANSFER_TRADITIONAL2</comment>
-        <translation type="unfinished">Traditionell2</translation>
+        <translation>Traditionell2</translation>
     </message>
     <message>
         <source>Crossband</source>
         <comment>DRAWINGSTR_TRANSFER_CROSSBAND</comment>
-        <translation type="unfinished">Streifen</translation>
+        <translation>Streifen</translation>
     </message>
     <message>
         <source>Leather</source>
         <comment>DRAWINGSTR_TRANSFER_ANIMAL_SKIN</comment>
-        <translation type="unfinished">Leder</translation>
+        <translation>Leder</translation>
     </message>
     <message>
         <source>Coarse Cloth</source>
         <comment>DRAWINGSTR_TRANSFER_COARSE_CLOTH</comment>
-        <translation type="unfinished">Grobes Gewebe</translation>
+        <translation>Gewebe</translation>
     </message>
     <message>
         <source>Kingsoft</source>
         <comment>DRAWINGSTR_TRANSFER_KINGSOFT</comment>
-        <translation type="unfinished">Kingsoft</translation>
+        <translation>Kingsoft</translation>
     </message>
     <message>
         <source>Paper1</source>
         <comment>DRAWINGSTR_TRANSFER_PAPER1</comment>
-        <translation type="unfinished">Papier1</translation>
+        <translation>Papier1</translation>
     </message>
     <message>
         <source>Paper2</source>
         <comment>DRAWINGSTR_TRANSFER_PAPER2</comment>
-        <translation type="unfinished">Papier2</translation>
+        <translation>Papier2</translation>
     </message>
     <message>
         <source>Pane Woven</source>
@@ -6366,202 +6369,202 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Starry Sky</source>
         <comment>DRAWINGSTR_TRANSFER_STAR_SKY</comment>
-        <translation type="unfinished">Sternenklarer Himmel</translation>
+        <translation>Sternenhimmel</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
         <comment>DRAWINGSTR_TRANSFER_COLORED_PAPER1</comment>
-        <translation type="unfinished">Farbiges Papier 1</translation>
+        <translation>Farbpapier 1</translation>
     </message>
     <message>
         <source>Colored Paper 2</source>
         <comment>DRAWINGSTR_TRANSFER_COLORED_PAPER2</comment>
-        <translation type="unfinished">Farbiges Papier 2</translation>
+        <translation>Farbpapier 2</translation>
     </message>
     <message>
         <source>Colored Paper 3</source>
         <comment>DRAWINGSTR_TRANSFER_COLORED_PAPER3</comment>
-        <translation type="unfinished">Farbiges Papier 3</translation>
+        <translation>Farbpapier 3</translation>
     </message>
     <message>
         <source>Weave</source>
         <comment>DRAWINGSTR_TRANSFER_WEAVE</comment>
-        <translation type="unfinished">Gewebe</translation>
+        <translation>Gewebe</translation>
     </message>
     <message>
         <source>Flannelette List</source>
         <comment>DRAWINGSTR_TRANSFER_NAP_LIST</comment>
-        <translation type="unfinished">Flanell</translation>
+        <translation>Biber</translation>
     </message>
     <message>
         <source>Fell</source>
         <comment>DRAWINGSTR_TRANSFER_FELL</comment>
-        <translation type="unfinished">Fell</translation>
+        <translation>Fell</translation>
     </message>
     <message>
         <source>Water</source>
         <comment>DRAWINGSTR_TRANSFER_WATER</comment>
-        <translation type="unfinished">Wasser</translation>
+        <translation>Wasser</translation>
     </message>
     <message>
         <source>Earth1</source>
         <comment>DRAWINGSTR_TRANSFER_EARTH1</comment>
-        <translation type="unfinished">Erde1</translation>
+        <translation>Erde1</translation>
     </message>
     <message>
         <source>Earth2</source>
         <comment>DRAWINGSTR_TRANSFER_EARTH2</comment>
-        <translation type="unfinished">Erde2</translation>
+        <translation>Erde2</translation>
     </message>
     <message>
         <source>Radialized Pattern</source>
         <comment>DRAWINGSTR_TRANSFER_CIRCLE</comment>
-        <translation type="unfinished">Strahlenmuster</translation>
+        <translation>Strahlenmuster</translation>
     </message>
     <message>
         <source>Twine</source>
         <comment>DRAWINGSTR_TRANSFER_TWINE</comment>
-        <translation type="unfinished">Zwirn</translation>
+        <translation>Kordel</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DRAWINGSTR_INSERT_PICTURE</comment>
-        <translation type="unfinished">Bild einfügen</translation>
+        <translation>Grafik einfügen</translation>
     </message>
     <message>
         <source>Invalid index</source>
         <comment>DRAWINGSTR_ERR_INVALIDINDEX</comment>
-        <translation type="unfinished">Ungültiger Index</translation>
+        <translation>Ungültiger Index</translation>
     </message>
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
         <comment>DRAWINGSTR_ERR_NOACTIVEVIEW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Anforderung.Damit die Form ausgewählt wird, muss die Ansicht aktiviert werden.</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
         <comment>DRAWINGSTR_ERR_VALUEINVALIDRANGE</comment>
-        <translation type="unfinished">Angegebener Wert liegt außerhalb des Bereichs.</translation>
+        <translation>Angegebener Wert liegt außerhalb des Bereichs.</translation>
     </message>
     <message>
         <source>Object</source>
         <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
-        <translation type="unfinished">&amp;Objekt</translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DRAWINGSTR_CHANGE_PICTURE</comment>
-        <translation type="unfinished">Bild ändern</translation>
+        <translation>Grafik ändern</translation>
     </message>
     <message>
         <source>Click to add text</source>
         <comment>DRAWINGSTR_CLICK2ADDTEXT</comment>
-        <translation type="unfinished">Klicken um Text hinzuzufügen</translation>
+        <translation>Text durch Klicken hinzufügen</translation>
     </message>
     <message>
         <source>Default</source>
         <comment>DRAWINGSTR_DGMSTYLE_DEFAULT</comment>
-        <translation type="unfinished">Vorlage</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_OUTLINE</comment>
-        <translation type="unfinished">Konturlinie</translation>
+        <translation>Umrahmung</translation>
     </message>
     <message>
         <source>Double Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_DBL_OUTLINE</comment>
-        <translation type="unfinished">Doppelte Konturlinie</translation>
+        <translation>Doppelte Kontur</translation>
     </message>
     <message>
         <source>Thick Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_THICK_OUTLINE</comment>
-        <translation type="unfinished">Dicke Konturlinie</translation>
+        <translation>Starker Umriss</translation>
     </message>
     <message>
         <source>Primary Colors</source>
         <comment>DRAWINGSTR_DGMSTYLE_PRIMARY_COLORS</comment>
-        <translation type="unfinished">Primärfarben</translation>
+        <translation>Primärfarben</translation>
     </message>
     <message>
         <source>Shaded</source>
         <comment>DRAWINGSTR_DGMSTYLE_SHADED</comment>
-        <translation type="unfinished">Schattiert</translation>
+        <translation>Schattiert</translation>
     </message>
     <message>
         <source>Fire</source>
         <comment>DRAWINGSTR_DGMSTYLE_FIRE</comment>
-        <translation type="unfinished">Feuer</translation>
+        <translation>Feuer</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>DRAWINGSTR_DGMSTYLE_3D_COLOR</comment>
-        <translation type="unfinished">3D-Farbe</translation>
+        <translation>3D-Farbe</translation>
     </message>
     <message>
         <source>Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_GRADIENT</comment>
-        <translation type="unfinished">Steigung</translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Brackets</source>
         <comment>DRAWINGSTR_DGMSTYLE_BRACKETS</comment>
-        <translation type="unfinished">Klammern</translation>
+        <translation>Eckige Klammern</translation>
     </message>
     <message>
         <source>Braces</source>
         <comment>DRAWINGSTR_DGMSTYLE_BRACES</comment>
-        <translation type="unfinished">Geschweifte Klammern</translation>
+        <translation>Geschweifte Klammern</translation>
     </message>
     <message>
         <source>Bookend Fills</source>
         <comment>DRAWINGSTR_DGMSTYLE_BOOKEND_FILLS</comment>
-        <translation type="unfinished">Bookend-Füllungen</translation>
+        <translation>Buchrückenfüllung</translation>
     </message>
     <message>
         <source>Stripes</source>
         <comment>DRAWINGSTR_DGMSTYLE_STRIPES</comment>
-        <translation type="unfinished">Streifen</translation>
+        <translation>Streifen</translation>
     </message>
     <message>
         <source>Beveled</source>
         <comment>DRAWINGSTR_DGMSTYLE_BEVELED</comment>
-        <translation type="unfinished">Abgeschrägt</translation>
+        <translation>Abgeschrägt</translation>
     </message>
     <message>
         <source>Beveled Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BEVELED_GRADIENT</comment>
-        <translation type="unfinished">Abgeschrägte Steigung</translation>
+        <translation>Abgeschrägter Gradient</translation>
     </message>
     <message>
         <source>Square Shadows</source>
         <comment>DRAWINGSTR_DGMSTYLE_SQUARE_SHADOWS</comment>
-        <translation type="unfinished">Quadratischer Schatten</translation>
+        <translation>Quadratschattierungen</translation>
     </message>
     <message>
         <source>Wire Frame</source>
         <comment>DRAWINGSTR_DGMSTYLE_WIRE_FRAME</comment>
-        <translation type="unfinished">Drahtgittermodell</translation>
+        <translation>Drahtrahmen</translation>
     </message>
     <message>
         <source>Classic</source>
         <comment>DRAWINGSTR_DGMSTYLE_CLASSICS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klassisch</translation>
     </message>
     <message>
         <source>Blue Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLUE_SHADED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blauer Farbverlauf</translation>
     </message>
     <message>
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schwarzer Farbverlauf</translation>
     </message>
     <message>
         <source>FreeForm</source>
         <comment>DRAWINGSTR_FREEFORM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Freihandform</translation>
     </message>
     <message>
         <source>&amp;Object</source>
@@ -6579,142 +6582,142 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>XML Files</source>
         <comment>_KsoDesc_Xml</comment>
-        <translation type="unfinished">XML-Dateien</translation>
+        <translation>XML-Dateien</translation>
     </message>
     <message>
         <source>XML File Templates</source>
         <comment>_KsoDesc_XmlDOT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorlagen von XML-Datei</translation>
     </message>
     <message>
         <source>WPS Presentation Files</source>
         <comment>_KsoDesc_WPPFile</comment>
-        <translation type="unfinished">WPS Presentation Dateien</translation>
+        <translation>Dateien von WPS Präsentation</translation>
     </message>
     <message>
         <source>The document is created by Microsoft Office 95 or earlier version, please convert it to Microsoft Office 97 or later version and try again.</source>
         <comment>_KsoPrompt_FormatVersionNotOffice97OrLater</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Dokument wurde von Microsoft Office 95 oder frühere Version erstellt. Konvertieren Sie das Dokument als Microsoft Office 97 oder spätere Version und öffnen Sie das erneut.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
         <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
-        <translation type="unfinished">Microsoft Word 97/2000/XP/2003 Dokument</translation>
+        <translation>Microsoft Word 97/2000/XP/2003 Dokument</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Documents</source>
         <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
-        <translation type="unfinished">Microsoft Word 97/2000/XP/2003 Dokumente</translation>
+        <translation>Microsoft Word 97/2000/XP/2003 Dokumente</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Template</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
-        <translation type="unfinished">Microsoft Word 97/2000/XP/2003 Vorlage</translation>
+        <translation>Microsoft Word 97/2000/XP/2003 Vorlage</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Templates</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
-        <translation type="unfinished">Microsoft Word 97/2000/XP/2003 Vorlagen</translation>
+        <translation>Microsoft Word 97/2000/XP/2003 Vorlagen</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
         <comment>_KsoFileFormatDesc_WPSV6_File</comment>
-        <translation type="unfinished">WPS Writer Dokument</translation>
+        <translation>Dokument von WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSV6_Files</comment>
-        <translation type="unfinished">WPS Writer Dokumente</translation>
+        <translation>Dokumente von WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
         <comment>_KsoFileFormatDesc_WPSV6DOT_File</comment>
-        <translation type="unfinished">WPS Writer Vorlage</translation>
+        <translation>Vorlage vom WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer Templates</source>
         <comment>_KsoFileFormatDesc_WPSV6DOT_Files</comment>
-        <translation type="unfinished">WPS Writer Vorlagen</translation>
+        <translation>Vorlagen von WPS-Writer</translation>
     </message>
     <message>
         <source>Text File</source>
         <comment>_KsoFileFormatDesc_Text_File</comment>
-        <translation type="unfinished">Text-Datei</translation>
+        <translation>Textdatei</translation>
     </message>
     <message>
         <source>Text Files</source>
         <comment>_KsoFileFormatDesc_Text_Files</comment>
-        <translation type="unfinished">Text-Dateien</translation>
+        <translation>Textdateien</translation>
     </message>
     <message>
         <source>RTF File</source>
         <comment>_KsoFileFormatDesc_Rtf_File</comment>
-        <translation type="unfinished">RTF-Datei</translation>
+        <translation>RTF-Datei</translation>
     </message>
     <message>
         <source>RTF Files</source>
         <comment>_KsoFileFormatDesc_Rtf_Files</comment>
-        <translation type="unfinished">RTF-Dateien</translation>
+        <translation>RTF-Dateien</translation>
     </message>
     <message>
         <source>Web Page File</source>
         <comment>_KsoFileFormatDesc_HTML_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Webseitendatei</translation>
     </message>
     <message>
         <source>Web Page Files</source>
         <comment>_KsoFileFormatDesc_HTML_Files</comment>
-        <translation type="unfinished"></translation>
+        <translation>Webseitendateien</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSFile_File</comment>
-        <translation type="unfinished">Alle Writer Dokumente</translation>
+        <translation>Alle Dokumente von WPS-Writer</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSFile_Files</comment>
-        <translation type="unfinished">Alle Writer Dokumente</translation>
+        <translation>Alle Dokumente von WPS-Writer</translation>
     </message>
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation type="unfinished">(beta) MIME-eingebundene Webseiten-Datei</translation>
+        <translation>(beta) Einzelne Webseitendatei</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
         <comment>_KsoDesc_MSWORD12</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 2007/2010 Dokument</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Template</source>
         <comment>_KsoDesc_MSWORD12DOTX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorlage von Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Document</source>
         <comment>_KsoDesc_MSWORD12DOCM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 2007/2010 Vorlage mit Makros</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
         <comment>_WpioDesc_UOF</comment>
-        <translation type="unfinished">Chinese Office Software Dokumentenformat</translation>
+        <translation>Chinesisches Office-Software-Dokumentformat</translation>
     </message>
     <message>
         <source>Single Web Page Files</source>
         <comment>_KsoFileFormatDesc_MHT_Files</comment>
-        <translation type="unfinished">MIME-eingebundene Webseiten-Dateien</translation>
+        <translation>Einzelne Webseitendatei</translation>
     </message>
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
         <comment>_KsoPrompt_SaveError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Speichern der Datei. Versuchen Sie es erneut, oder wenden Sie sich an den Kundendienst.</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
         <comment>_KsoDesc_MSWORD12DOTM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 2007/2010 Vorlage mit Makros</translation>
     </message>
 </context>
 <context>
@@ -6722,22 +6725,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>KRM &amp;Options...</source>
         <comment>TxKRM_Menu_Options</comment>
-        <translation type="unfinished">KRM Rechte-Management &amp;Optionen ...</translation>
+        <translation>KRM-&amp;Optionen...</translation>
     </message>
     <message>
         <source>&amp;Restrict Permission...</source>
         <comment>TxKRM_Menu_Rights</comment>
-        <translation type="unfinished">&amp;Freigabe einschränken ...</translation>
+        <translation type="unfinished">Berechtigung einschränken...</translation>
     </message>
     <message>
         <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task?</source>
         <comment>TxKRM_Msg_PrintCopiesDenied</comment>
-        <translation type="unfinished">Anzahl der Kopien liegt außerhalb des Bereichs. Möchten Sie die Anzahl der Kopien verringern oder den Druck abbrechen?</translation>
+        <translation>Anzahl der Kopien liegt außerhalb des Bereichs. Möchten Sie die Anzahl der Kopien verringern oder den Druck abbrechen?</translation>
     </message>
     <message>
         <source>You have no permission to save files. Please check your permission information.</source>
         <comment>TxKRM_Msg_SaveFileDenied</comment>
-        <translation type="unfinished">Dateien zu speichern. Bitte überprüfen Sie Ihre Berechtigungen.</translation>
+        <translation>Sie sind nicht berechtigt, Dateien zu speichern. Bitte überprüfen Sie Ihre Berechtigungen.</translation>
     </message>
     <message>
         <source>&amp;Restrict Permission  ...</source>
@@ -6755,12 +6758,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
-        <translation type="unfinished">Öffnen</translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
-        <translation type="unfinished">Speichern unter</translation>
+        <translation>Speichern unter</translation>
     </message>
 </context>
 <context>
@@ -6768,27 +6771,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
-        <translation type="unfinished">Öffnen</translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>_kso_SaveDiagTitle</comment>
-        <translation type="unfinished">Speichern unter</translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_Generic_MessageBox_Caption</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>Macro</source>
         <comment>_kso_MacroDialog_Caption</comment>
-        <translation type="unfinished">Makro</translation>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
         <comment>_kso_BusyTip_Prompt_Doucment_AutoBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dateien werden gesichert.Seien Sie bitte geduldig...</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -6798,7 +6801,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler wurden beim regelmäßigen Sicherungsvorgang gefunden! Versuchen Sie folgende Operatioen:
+Die vorherigen Operationen mit [Rückgängig] widerrufen und [Speichern];
+Die Inhalte [Kopieren] und auf neue Datei [Einfügen];
+
+Die Änderung der Datei aufgeben
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -6807,7 +6815,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler wurden beim regelmäßigen Sicherungsvorgang gefunden! Versuchen Sie folgende Operatioen:
+Die vorherigen Operationen mit [Rückgängig] widerrufen und [Speichern];
+Die Inhalte [Kopieren] und auf neue Datei [Einfügen];
+
+Die Änderung der Datei aufgeben
+(%s)</translation>
     </message>
     <message>
         <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
@@ -6817,814 +6830,821 @@ Description: %s
 File: %s
 </source>
         <comment>_kso_Addins_AVScan_Failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Folgende Add-In wird noch nicht vom Antivirusprogramm geprüft. Zur Gewährleistung der Sicherheit wird das Add-In nicht geladen.
+
+Name:%s
+Beschreibung:%s
+Datei:%s
+</translation>
     </message>
     <message>
         <source>Warning</source>
         <comment>_kso_Addins_AVScan_Failed_Caption</comment>
-        <translation type="unfinished">Warnung</translation>
+        <translation>Warnung</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished">Alle Dateien(*.*)</translation>
+        <translation>Alle Dateien(*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
         <comment>_kso_TxExts_All</comment>
-        <translation type="unfinished">*.*</translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>call API</source>
         <comment>_kso_TxTransDesc_API</comment>
-        <translation type="unfinished">API aufrufen</translation>
+        <translation>API aufrufen</translation>
     </message>
     <message>
         <source>run VBA</source>
         <comment>_kso_TxTransDesc_VBA</comment>
-        <translation type="unfinished">VBA ausführen</translation>
+        <translation>VBA ausführen</translation>
     </message>
     <message>
         <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>_kso_Program_Warning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Warnung: Dieses Programm ist durch US-amerikanische Urheberrechtsgesetze und Bestimmungen internationaler Verträge geschützt. Unbefugte Vervielfältigung oder unbefugter Vertrieb dieses Programms oder eines Teils davon sind strafbar. Dies wird sowohl straf- als auch zivilrechtlich verfolgt und kann schwere Strafen und Schadenersatzforderungen zur Folge haben.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_wps</comment>
-        <translation type="unfinished">Ein Problem ist aufgetreten. WPS Writer muss geschlossen werden.</translation>
+        <translation>Ein Problem ist aufgetreten. WPS-Writer muss geschlossen werden.</translation>
     </message>
     <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_wpp</comment>
-        <translation type="unfinished">Ein Problem ist aufgetreten. WPS Presentation muss geschlossen werden.</translation>
+        <translation>Ein Problem ist aufgetreten. WPS-Präsentation muss geschlossen werden.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_et</comment>
-        <translation type="unfinished">Ein Problem ist aufgetreten. WPS Spreadsheets muss geschlossen werden.</translation>
+        <translation>Ein Problem ist aufgetreten. WPS-Spreadsheets muss geschlossen werden.</translation>
     </message>
     <message>
         <source>WPS Simulation has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_test</comment>
-        <translation type="unfinished">Ein Problem ist aufgetreten. WPS Simulation muss geschlossen werden.</translation>
+        <translation>Ein Problem ist aufgetreten. WPS-Simulation muss geschlossen werden.</translation>
     </message>
     <message>
         <source>WPS Writer Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_wps</comment>
-        <translation type="unfinished">WPS Writer Hilfe zur Fehlerbehebung</translation>
+        <translation>WPS-Writer Hilfe zur Fehlerbehebung</translation>
     </message>
     <message>
         <source>WPS Presentation Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_wpp</comment>
-        <translation type="unfinished">WPS Presentation Hilfe zur Fehlerbehebung</translation>
+        <translation>WPS-Präsentation Hilfe zur Fehlerbehebung</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_et</comment>
-        <translation type="unfinished">WPS Spreadsheets Hilfe zur Fehlerbehebung</translation>
+        <translation>WPS-Spreadsheets Hilfe zur Fehlerbehebung</translation>
     </message>
     <message>
         <source>WPS Simulation Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_test</comment>
-        <translation type="unfinished">WPS Simulation Hilfe zur Fehlerbehebung</translation>
+        <translation>WPS-Simulation Hilfe zur Fehlerbehebung</translation>
     </message>
     <message>
         <source>The file is loading, please wait.</source>
         <comment>_kso_ErrorRep_ContentDlg_LoadFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei wird geladen. Seien Sie bitte geduldig.</translation>
     </message>
     <message>
         <source>File loaded</source>
         <comment>_kso_ErrorRep_ContentDlg_CompleteLoad</comment>
-        <translation type="unfinished">Datei geladen</translation>
+        <translation>Datei geladen</translation>
     </message>
     <message>
         <source>File Name</source>
         <comment>_kso_ErrorRep_ContentDlg_FileName</comment>
-        <translation type="unfinished">Dateiname</translation>
+        <translation>Dateiname</translation>
     </message>
     <message>
         <source>File Description</source>
         <comment>_kso_ErrorRep_ContentDlg_FileDes</comment>
-        <translation type="unfinished">Dateibeschreibung</translation>
+        <translation>Dateibeschreibung</translation>
     </message>
     <message>
         <source>File Type</source>
         <comment>_kso_ErrorRep_ContentDlg_FileType</comment>
-        <translation type="unfinished">Dateityp</translation>
+        <translation>Dateityp</translation>
     </message>
     <message>
         <source>File Size</source>
         <comment>_kso_ErrorRep_ContentDlg_FileSize</comment>
-        <translation type="unfinished">Dateigröße</translation>
+        <translation>Dateigröße</translation>
     </message>
     <message>
         <source>Dump File</source>
         <comment>_kso_ErrorRep_DesString_Dump</comment>
-        <translation type="unfinished">Dumpdatei</translation>
+        <translation>Dumpdatei</translation>
     </message>
     <message>
         <source>System and Exception Information File</source>
         <comment>_kso_ErrorRep_DesString_XML</comment>
-        <translation type="unfinished">System and Exception Information File</translation>
+        <translation>System- und Ausnahmeinformationendatei</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>_kso_ErrorRep_MainDlg_NoSendBTN_Text</comment>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Error</source>
         <comment>_kso_ErrorRep_MessageBox_NetError_Title</comment>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Network transfer failed! Error code: %d</source>
         <comment>_kso_ErrorRep_MessageBox_NetError_Content</comment>
-        <translation type="unfinished">Netzwerkübertragung fehlgeschlagen! Fehlercode: %d</translation>
+        <translation>Netzwerkübertragung fehlgeschlagen! Fehlercode: %d</translation>
     </message>
     <message>
         <source>Send out successfully</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
-        <translation type="unfinished">Versand erfolgreich</translation>
+        <translation>Versand erfolgreich</translation>
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Content</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datenübertragung abgeschlossen. Vielen Dank für Ihre Unterstützung.</translation>
     </message>
     <message>
         <source>Terminate sending</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Title</comment>
-        <translation type="unfinished">Versand beenden</translation>
+        <translation>Versand beenden</translation>
     </message>
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Content</comment>
-        <translation type="unfinished">Sendebericht noch nicht abgeschlossen. Versand trotzdem beenden?</translation>
+        <translation>Sendebericht noch nicht abgeschlossen. Versand trotzdem beenden?</translation>
     </message>
     <message>
         <source>The password is incorrect, please reenter.
 You can choose Read-only button to open it as read-only.</source>
         <comment>_kso_Prompt_ModifyPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Falsches Kennwort. Geben Sie erneut ein.
+Sie können das Dokument schreibgeschütz öffnen.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_SN_WPS</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_SN_WPP</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_SN_ET</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>(Not limited)</source>
         <comment>_kso_SN_NoLimited</comment>
-        <translation type="unfinished">(Unbegrenzt)</translation>
+        <translation>(Unbegrenzt)</translation>
     </message>
     <message>
         <source>(Can use %d days)</source>
         <comment>_kso_SN_Days</comment>
-        <translation type="unfinished">(%d Tage verfügbar)</translation>
+        <translation>(%d Tage verfügbar)</translation>
     </message>
     <message>
         <source>(Overdue)</source>
         <comment>_kso_SN_TIMEOUT</comment>
-        <translation type="unfinished">(Überfällig)</translation>
+        <translation>(Überfällig)</translation>
     </message>
     <message>
         <source>(Have not used)</source>
         <comment>_kso_SN_NOUSER</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Nicht in Gebrauch)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source> Invalid</source>
         <comment>_kso_versionType_INV</comment>
-        <translation type="unfinished"></translation>
+        <translation> Ungültig</translation>
     </message>
     <message>
         <source> Professional</source>
         <comment>_kso_versionType_PRO</comment>
-        <translation type="unfinished"></translation>
+        <translation> Professionell</translation>
     </message>
     <message>
         <source> Personal</source>
         <comment>_kso_versionType_PER</comment>
-        <translation type="unfinished"></translation>
+        <translation> Persönlich</translation>
     </message>
     <message>
         <source> Development</source>
         <comment>_kso_versionType_DEV</comment>
-        <translation type="unfinished"></translation>
+        <translation> Entwicklung</translation>
     </message>
     <message>
         <source> OEM</source>
         <comment>_kso_versionType_OEM</comment>
-        <translation type="unfinished"></translation>
+        <translation> OEM</translation>
     </message>
     <message>
         <source> Education</source>
         <comment>_kso_versionType_EDU</comment>
-        <translation type="unfinished"></translation>
+        <translation> Ausbildung</translation>
     </message>
     <message>
         <source> Community</source>
         <comment>_kso_versionType_COM</comment>
-        <translation type="unfinished"></translation>
+        <translation> Community</translation>
     </message>
     <message>
         <source> Business</source>
         <comment>_kso_versionType_TRADE</comment>
-        <translation type="unfinished"></translation>
+        <translation> Geschäft</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1. Founder-Schriftart, nach Genehmigungsklauseln von Founder ist die Schriftart für WPS-Office-Linux verfügbar.</translation>
     </message>
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation type="unfinished">WPS Office (Beta)</translation>
+        <translation>WPS-Office (Beta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished">WPS Office (Test)</translation>
+        <translation>WPS-Office (Test)</translation>
     </message>
     <message>
         <source>WPS Office OEM</source>
         <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation type="unfinished">WPS Office OEM</translation>
+        <translation>WPS-Office OEM</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation type="unfinished">WPS Office Personal</translation>
+        <translation>WPS-Office Persönlich</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation type="unfinished">WPS Office Education</translation>
+        <translation>WPS-Office Ausbildung</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software darf nur von persönlichen Benutzer zum privaten Zweck verwendet werden ||Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation type="unfinished">WPS Writer (Beta)</translation>
+        <translation>WPS-Writer (Beta)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation type="unfinished">WPS Presentation (Beta)</translation>
+        <translation>WPS-Präsentation (Beta)</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_USA</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation type="unfinished">WPS Spreadsheets (Beta)</translation>
+        <translation>WPS-Spreadsheets (Beta)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_CHN</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_USA</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_USA</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_VN</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS-Office</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation type="unfinished">WPS Office Personal</translation>
+        <translation>WPS-Office Persönlich</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS-Präsentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRE_VN</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation type="unfinished">WPS Office 2012 Professional Edition</translation>
+        <translation>WPS Office 2012 Professional Edition</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation type="unfinished">WPS Office Standard</translation>
+        <translation>WPS-Office Standard</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation type="unfinished">WPS Office Home</translation>
+        <translation>WPS-Office Home</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt.</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
         <comment>_kso_etSaveToFileName</comment>
-        <translation type="unfinished">Neue Arbeitsmappe.xls</translation>
+        <translation>Neue Arbeitsmappe.xls</translation>
     </message>
     <message>
         <source>New Document.doc</source>
         <comment>_kso_wpsSaveToFileName</comment>
-        <translation type="unfinished">Neues Dokument.doc</translation>
+        <translation>Neues Dokument.doc</translation>
     </message>
     <message>
         <source>Backup</source>
         <comment>_kso_DocumentBackup</comment>
-        <translation type="unfinished">Backup</translation>
+        <translation>Backup</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>_kso_SaveToFileDialogName</comment>
-        <translation type="unfinished">Speichern unter</translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_SaveToFileAllFile</comment>
-        <translation type="unfinished">Alle Dateien(*.*)</translation>
+        <translation>Alle Dateien(*.*)</translation>
     </message>
     <message>
         <source>(Not activated)</source>
         <comment>_kso_SN_NotActivated</comment>
-        <translation type="unfinished">(Deaktiviert)</translation>
+        <translation>(Deaktiviert)</translation>
     </message>
     <message>
         <source>WPS Office Crashing Information</source>
         <comment>_kso_crashdlg_caption</comment>
-        <translation type="unfinished">WPS Office Crashing Information</translation>
+        <translation>WPS-Office Crashing Information</translation>
     </message>
     <message>
         <source>Sorry, WPS Office crashes.
 You can click the button to recover files you work on.</source>
         <comment>_kso_crashdlg_warmtext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Entschuldigung für den Absturz von WPS-Office.
+Sie können auf die Schaltfläche klicken, um die früher bearbeiteten Dateien wiederherzustellen.</translation>
     </message>
     <message>
         <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
         <comment>_kso_crashdlg_sendcheck</comment>
-        <translation type="unfinished">&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</translation>
+        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Schicken &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;Die Fehler berichten&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; helfen, unsere Produkte und Dienste zu verbessern.&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart</source>
         <comment>_kso_crashdlg_okbtn</comment>
-        <translation type="unfinished">Restart</translation>
+        <translation>Neu starten</translation>
     </message>
     <message>
         <source>(version:%d)</source>
         <comment>_kso_crashdlg_versionfmt</comment>
-        <translation type="unfinished">(version:%d)</translation>
+        <translation>(Version:%d)</translation>
     </message>
     <message>
         <source>mail feedback</source>
         <comment>_kso_crashdlg_mailfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mail-Feedback</translation>
     </message>
     <message>
         <source>bbs feedback</source>
         <comment>_kso_crashdlg_bbsfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>BBS-Feedback</translation>
     </message>
     <message>
         <source>microblog feedback</source>
         <comment>_kso_crashdlg_microblogfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microblog-Feedback</translation>
     </message>
     <message>
         <source>WPS Office Business Version</source>
         <comment>_kso_ksoProductName_TRADE_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS-Office Business Version</translation>
     </message>
     <message>
         <source>Office Files</source>
         <comment>_kso_filesearch_OfficeFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Office-Dateien</translation>
     </message>
     <message>
         <source>All Files</source>
         <comment>_kso_filesearch_AllFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alle Dateien</translation>
     </message>
     <message>
         <source>Document</source>
         <comment>_kso_filesearch_WordDocuments</comment>
-        <translation type="unfinished">Dokument</translation>
+        <translation>Dokument</translation>
     </message>
     <message>
         <source>Excel WorkBooks</source>
         <comment>_kso_filesearch_WorkBooks</comment>
-        <translation type="unfinished"></translation>
+        <translation>Excel-Arbeitsmappen</translation>
     </message>
     <message>
         <source>PowerPointPresentations</source>
         <comment>_kso_filesearch_PowerPointPresentations</comment>
-        <translation type="unfinished"></translation>
+        <translation>PowerPoint-Präsentationen</translation>
     </message>
     <message>
         <source>Binders</source>
         <comment>_kso_filesearch_Binders</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sammelmappen</translation>
     </message>
     <message>
         <source>Access Files</source>
         <comment>_kso_filesearch_Databases</comment>
-        <translation type="unfinished"></translation>
+        <translation>Access-Dateien</translation>
     </message>
     <message>
         <source>Templates</source>
         <comment>_kso_filesearch_Templates</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorlagen</translation>
     </message>
     <message>
         <source>Outlook Items</source>
         <comment>_kso_filesearch_OutlookItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>Outlook-Elemente</translation>
     </message>
     <message>
         <source>Mail Item</source>
         <comment>_kso_filesearch_MailItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail-Element</translation>
     </message>
     <message>
         <source>Calendar Item</source>
         <comment>_kso_filesearch_CalendarItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kalenderelement</translation>
     </message>
     <message>
         <source>Contact Item</source>
         <comment>_kso_filesearch_ContactItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktelement</translation>
     </message>
     <message>
         <source>Note Item</source>
         <comment>_kso_filesearch_NoteItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Notizelement</translation>
     </message>
     <message>
         <source>Journal Item</source>
         <comment>_kso_filesearch_JournalItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Journalelement</translation>
     </message>
     <message>
         <source>Task Item</source>
         <comment>_kso_filesearch_TaskItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenelement</translation>
     </message>
     <message>
         <source>PhotoDraw Files</source>
         <comment>_kso_filesearch_PhotoDrawFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>PhotoDraw-Dateien</translation>
     </message>
     <message>
         <source>DataConnection Files</source>
         <comment>_kso_filesearch_DataConnectionFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datenverknüpfungsdateien</translation>
     </message>
     <message>
         <source>Publisher Files</source>
         <comment>_kso_filesearch_PublisherFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Publisher-Dateien</translation>
     </message>
     <message>
         <source>Project Files</source>
         <comment>_kso_filesearch_ProjectFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Projektdateien</translation>
     </message>
     <message>
         <source>Document Image Files</source>
         <comment>_kso_filesearch_DocumentImagingFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentbild-Dateien</translation>
     </message>
     <message>
         <source>Visio Files</source>
         <comment>_kso_filesearch_VisioFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Visio-Dateien</translation>
     </message>
     <message>
         <source>WebPages</source>
         <comment>_kso_filesearch_WebPages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Webseiten</translation>
     </message>
     <message>
         <source>File Name</source>
         <comment>_kso_filesearch_FileName</comment>
-        <translation type="unfinished">Dateiname</translation>
+        <translation>Dateiname</translation>
     </message>
     <message>
         <source>Files of Type</source>
         <comment>_kso_filesearch_FileType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dateien vom Typ </translation>
     </message>
     <message>
         <source>Last Modified</source>
         <comment>_kso_filesearch_LastModified</comment>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Änderung</translation>
     </message>
     <message>
         <source>Text Or Property</source>
         <comment>_kso_filesearch_TextOrProperty</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text oder Eigenschaft</translation>
     </message>
     <message>
         <source>MyComputer</source>
         <comment>_kso_filesearch_MyComputer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mein Computer</translation>
     </message>
     <message>
         <source>MyNetworkPlaces</source>
         <comment>_kso_filesearch_MyNetworkPlaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkumgebung</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>_kso_filesearch_DesignerFiles</comment>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Your system is missing the required codec that supports this media format</source>
         <comment>_kso_WarmingRep_MediaPlay_wpp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auf Ihrem System fehlt das erforderte Codec, das diese Medienformat unterstützt</translation>
     </message>
     <message>
         <source>Send out success</source>
@@ -7637,38 +7657,38 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>WPS Office has not found any installed printers.</source>
         <comment>_ksoErr_Print_NoPrinter</comment>
-        <translation type="unfinished">Keine installierten Drucker gefunden.</translation>
+        <translation>Keine installierten Drucker gefunden.</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>_kso_Print_CustomPaper</comment>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>Benutzerdefinierte Größe</translation>
     </message>
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
         <comment>_kso_Print_Msg</comment>
-        <translation type="unfinished"></translation>
+        <translation>Um das Drucken fortzusetzen, nehmen Sie das Papier aus dem Ausgabeschacht des Druckers. Legen Sie das Papier wieder mit der bedruckbaren Seite in den Eingabeschacht.</translation>
     </message>
     <message>
         <source>Use printer settings</source>
         <comment>_kso_Print_Pagesource</comment>
-        <translation type="unfinished">Druckereinstellungen verwenden</translation>
+        <translation>Druckereinstellungen verwenden</translation>
     </message>
     <message>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS-Office kann nicht drucken. Überprüfen Sie, ob der Drucker eingeschaltet und mit dem PC verbunden ist. Wenn das Problem nicht aufgelöst wird, können Sie durch Druckereigenschaften von Windows Testseite drucken und überprüfen, ob der Drucker richtig installiert wurde.</translation>
     </message>
     <message>
         <source>Save Print Output As</source>
         <comment>_kso_Print_OutputFileDialog_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Druckausgabe speichern unter</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alle Dateien(*.*)|*.*|Druckerdateien(*.prn)|*.prn</translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
@@ -7676,6 +7696,15 @@ You can add the customized paper %dmm x %dmm in printer properties and print it 
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
+You can add the customized paper %dmm×%dmm in printer properties and print it again.
+Do you want to continue?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation type="obsolete">Der Drucker unterstützt die aktuelle Papiergröße nicht. Mit dem Drucken fortfahren, wären Sie mit der Qualität nicht zufrieden.
+Sie können in Druckereigenschaften die Benutzerdefinierte Papiergröße %dmm×%dmm hinzufügen und dann drucken.
+Fortsetzen?</translation>
     </message>
 </context>
 <context>
@@ -7903,12 +7932,12 @@ Do you want to continue?</source>
     <message>
         <source>Yes or No</source>
         <comment>kso_sBoolType</comment>
-        <translation type="unfinished">Ja oder Nein</translation>
+        <translation>Ja oder Nein</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>kso_sBoolYesStr</comment>
-        <translation type="unfinished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>(Build %s)</source>
@@ -7948,17 +7977,17 @@ Do you want to continue?</source>
     <message>
         <source>About WPS Spreadsheets</source>
         <comment>kso_sCaption_ET</comment>
-        <translation type="unfinished">Über WPS Spreadsheets</translation>
+        <translation>Über WPS-Spreadsheets</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
         <comment>kso_sCaption_WPP</comment>
-        <translation type="unfinished">Über WPS Presentation</translation>
+        <translation>Über WPS-Präsentation</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
         <comment>kso_sCaption_WPS</comment>
-        <translation type="unfinished">Über WPS Writer</translation>
+        <translation>Über WPS-Writer</translation>
     </message>
     <message>
         <source>Cell Reference</source>
@@ -7968,22 +7997,22 @@ Do you want to continue?</source>
     <message>
         <source>Clear backup files automatically before closing application.</source>
         <comment>kso_sClearBackup</comment>
-        <translation type="unfinished">bevor Anwendung geschlossen wird.</translation>
+        <translation>Sicherungsdateien werden automatisch gelöscht, bevor Anwendung geschlossen wird.</translation>
     </message>
     <message>
         <source>Clear clipboard automatically before closing application.</source>
         <comment>kso_sClearClipboard</comment>
-        <translation type="unfinished">bevor Anwendung geschlossen wird.</translation>
+        <translation>Zwischenablage wird automatisch gelöscht, bevor Anwendung geschlossen wird.</translation>
     </message>
     <message>
         <source>Clear Recent File Lists automatically before closing application.</source>
         <comment>kso_sClearRecents</comment>
-        <translation type="unfinished">bevor Anwendung geschlossen wird.</translation>
+        <translation>Zuletzte Dateilisten werden automatisch gelöscht,bevor Anwendung geschlossen wird.</translation>
     </message>
     <message>
         <source>Clear temporary files automatically before closing application.</source>
         <comment>kso_sClearTemp</comment>
-        <translation type="unfinished">bevor Anwendung geschlossen wird.</translation>
+        <translation>Temporäre Dateien werden automatisch gelöscht, bevor Anwendung geschlossen wird.</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -8013,7 +8042,7 @@ Do you want to continue?</source>
     <message>
         <source>Load on Demand (already loaded)</source>
         <comment>kso_sConnectFirstTime</comment>
-        <translation type="unfinished">Bei Bedarf laden (aktuell geladen)</translation>
+        <translation>Bedarfsgesteuert laden (bereits geladen)</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -8223,7 +8252,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Unkown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished">Unbekannte Formatquelle.</translation>
+        <translation>Unbekannte Formatquelle.</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
@@ -8590,7 +8619,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ice Blue</source>
         <comment>kso_sKclIceBlue</comment>
-        <translation type="unfinished">Eisblau</translation>
+        <translation>Eisblau</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -8640,7 +8669,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ocean Blue</source>
         <comment>kso_sKclOceanBlue</comment>
-        <translation type="unfinished">Ozeanblau</translation>
+        <translation>Meeresblau</translation>
     </message>
     <message>
         <source>Olive Green</source>
@@ -8710,17 +8739,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Violet</source>
         <comment>kso_sKclViolet</comment>
-        <translation type="unfinished">Violett</translation>
+        <translation>Violett</translation>
     </message>
     <message>
         <source>White</source>
         <comment>kso_sKclWhite</comment>
-        <translation type="unfinished">Weiß</translation>
+        <translation>Weiß</translation>
     </message>
     <message>
         <source>Yellow</source>
         <comment>kso_sKclYellow</comment>
-        <translation type="unfinished">Gelb</translation>
+        <translation>Gelb</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
@@ -8815,12 +8844,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Loading DLL failed</source>
         <comment>kso_sLoadLibFailAndFatal_Caption</comment>
-        <translation type="unfinished">DLL-Fehlschläge werden geladen</translation>
+        <translation>Fehler beim Laden von DLL</translation>
     </message>
     <message>
         <source>Loading %s failed. Application will terminate. Please check and try again.</source>
         <comment>kso_sLoadLibFailAndFatal_Text</comment>
-        <translation type="unfinished"> %s Fehlschläge werden geladen. Anwendung wird beendet. Bitte prüfen und erneut versuchen.</translation>
+        <translation>Fehler beim Laden von %s. Anwendung wird beendet. Bitte prüfen und erneut versuchen.</translation>
     </message>
     <message>
         <source>Load on Demand</source>
@@ -9000,7 +9029,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>pt</source>
         <comment>kso_sPound</comment>
-        <translation type="unfinished">pt</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>%</source>
@@ -9080,12 +9109,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>sec</source>
         <comment>kso_sSecond</comment>
-        <translation type="unfinished">sec</translation>
+        <translation>sec</translation>
     </message>
     <message>
         <source>Automatically check file security troubles before closing application.</source>
         <comment>kso_sSecurityOptionClose</comment>
-        <translation type="unfinished">Automatische Prüfung der Dateisicherheit vor Schließen der Anwendung.</translation>
+        <translation>Automatische Prüfung der Dateisicherheit vor Schließen der Anwendung.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -9095,7 +9124,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Automatically check file security troubles before sending e-mail.</source>
         <comment>kso_sSendMail</comment>
-        <translation type="unfinished">Automatische Prüfung der Dateisicherheit vor Senden der E-Mail.</translation>
+        <translation>Automatische Prüfung der Dateisicherheit vor Sende der E-Mail.</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -9115,7 +9144,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>[Restricted]</source>
         <comment>kso_sSheildedFunction</comment>
-        <translation type="unfinished">[Eingeschränkt]</translation>
+        <translation>[Eingeschränkt]</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -9275,7 +9304,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>More Buttons</source>
         <comment>kso_sTBChevronItemMoreButtonsHint</comment>
-        <translation type="unfinished">Mehr Schaltflächen|</translation>
+        <translation>Mehr Schaltflächen</translation>
     </message>
     <message>
         <source>Template</source>
@@ -9285,12 +9314,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>What you entered is invalid.</source>
         <comment>kso_sTextDeclined_FloatWarning</comment>
-        <translation type="unfinished">Ihr Eingabe ist ungültig.</translation>
+        <translation>Der eingegebene Wert ist ungültig.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
         <comment>kso_sTextDeclined_IntWarning</comment>
-        <translation type="unfinished">Unzulässiger Integer-Text.</translation>
+        <translation>Keine gültige ganze Zahl.</translation>
     </message>
     <message>
         <source>Text</source>
@@ -9305,7 +9334,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>3-D Style %d</source>
         <comment>kso_sThreeDStyleFormat</comment>
-        <translation type="unfinished">3D-Stil %d</translation>
+        <translation>3D-Stil %d</translation>
     </message>
     <message>
         <source>Top of the Document</source>
@@ -9395,17 +9424,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Value should be between %s and %s.</source>
         <comment>kso_sValueDeclined_FloatBTWarning</comment>
-        <translation type="unfinished">Wert sollte zwischen %s und %s liegen.</translation>
+        <translation>Der Wert sollte zwischen %s und %s liegen.</translation>
     </message>
     <message>
         <source>Value should be not less than %s.</source>
         <comment>kso_sValueDeclined_FloatGEWarning</comment>
-        <translation type="unfinished">Wert sollte nicht kleiner sein als %s.</translation>
+        <translation>Der Wert darf nicht kleiner als %s sein.</translation>
     </message>
     <message>
         <source>Value should be not greater than %s.</source>
         <comment>kso_sValueDeclined_FloatLEWarning</comment>
-        <translation type="unfinished">Wert sollte nicht größer sein als %s.</translation>
+        <translation>Der Wert darf nicht größer als %s sein.</translation>
     </message>
     <message>
         <source>%s is illegal floating value.</source>
@@ -9415,17 +9444,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Value should be between %d and %d.</source>
         <comment>kso_sValueDeclined_IntBTWarning</comment>
-        <translation type="unfinished">Wert sollte zwischen %d und %d liegen.</translation>
+        <translation>Der Wert sollte zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>Value should not be less than %d.</source>
         <comment>kso_sValueDeclined_IntGEWarning</comment>
-        <translation type="unfinished">Wert sollte nicht kleiner sein als %d.</translation>
+        <translation>Der Wert darf nicht kleiner als %d sein.</translation>
     </message>
     <message>
         <source>Value should not be greater than %d.</source>
         <comment>kso_sValueDeclined_IntLEWarning</comment>
-        <translation type="unfinished">Wert sollte nicht größer sein als %d.</translation>
+        <translation>Der Wert darf nicht größer als %d sein.</translation>
     </message>
     <message>
         <source>%d is illegal value.</source>
@@ -9630,32 +9659,32 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Wave 1</source>
         <comment>kso_sWASWave1</comment>
-        <translation type="unfinished">Welle 1</translation>
+        <translation>Welle 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
         <comment>kso_sWASWave2</comment>
-        <translation type="unfinished">Welle 2</translation>
+        <translation>Welle 2</translation>
     </message>
     <message>
         <source>Wave</source>
         <comment>kso_sWave</comment>
-        <translation type="unfinished">Welle</translation>
+        <translation>Welle</translation>
     </message>
     <message>
         <source>Weave</source>
         <comment>kso_sWeave</comment>
-        <translation type="unfinished">Gewebe</translation>
+        <translation>Gewebe</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
         <comment>kso_sWideDownwardDiagonal</comment>
-        <translation type="unfinished">Diagonal breit nach unten</translation>
+        <translation>Diagonal weit nach unten</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
         <comment>kso_sWideUpwardDiagonal</comment>
-        <translation type="unfinished">Diagonal breit nach oben</translation>
+        <translation>Diagonal weit nach oben</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
@@ -9750,7 +9779,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Zigzag</source>
         <comment>kso_sZigZag</comment>
-        <translation type="unfinished">Zickzack</translation>
+        <translation>Zickzack</translation>
     </message>
     <message>
         <source>%s Properties</source>
@@ -9770,7 +9799,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Unknown picture file extension (.%s)</source>
         <comment>kso_SUnknownExtension</comment>
-        <translation type="unfinished">Unbekannte Erweiterung einer Bilddatei (.%s)</translation>
+        <translation>Unbekannte Erweiterung einer Bilddatei (.%s)</translation>
     </message>
     <message>
         <source>The size of the custom dictionary cannot be bigger than 10M.</source>
@@ -9830,7 +9859,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Open in browser</source>
         <comment>kso_Nav_OpenBroser</comment>
-        <translation type="unfinished">In Browser öffnen</translation>
+        <translation>Im Browser öffnen</translation>
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font. Do you want to use it anyway?</source>
@@ -9880,7 +9909,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Vietnamese</source>
         <comment>kso_s1066</comment>
-        <translation type="unfinished">Vietnamesisch</translation>
+        <translation>Vietnamesisch</translation>
     </message>
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
@@ -9958,12 +9987,12 @@ Used to show steps toward a goal</source>
     <message>
         <source>— (EmDash)</source>
         <comment>kso_sSeparatorEmDash</comment>
-        <translation type="unfinished">— (Geviertstrich)</translation>
+        <translation>— (Geviertstrich)</translation>
     </message>
     <message>
         <source>– (EnDash)</source>
         <comment>kso_sSeparatorEnDash</comment>
-        <translation type="unfinished">– (Halbgeviertstrich)</translation>
+        <translation>– (Halbgeviertstrich)</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
@@ -10033,7 +10062,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Viewer Mode</source>
         <comment>kso_sViewerModeTag</comment>
-        <translation type="unfinished">Ansichtmodus</translation>
+        <translation>Ansichtmodus</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>

@@ -6,7 +6,7 @@
     <name>CWpsTableStyle</name>
     <message>
         <source>1-</source>
-        <translation>1</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished">Themenstil</translation>
+        <translation>Designformatvorlage</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -94,31 +94,31 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished">heller Farbstil</translation>
+        <translation>Helle Formatvorlage</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished">mäßiger Farbton</translation>
+        <translation>Medium Style</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished">dunkler Farbstil</translation>
+        <translation>Dunkle Formatvorlage</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished">dunkler Farbstil 2</translation>
+        <translation>Dunkle Formatvorlage 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 1/Hervorhebung 2</translation>
+        <translation>Dunkle Formatvorlage 2-Hervorheben 1/Hervorheben 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 3/Hervorhebung 4</translation>
+        <translation>Dunkle Formatvorlage 2-Hervorheben 3/Hervorheben 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
+        <translation>Dunkle Formatvorlage 2-Hervorheben 5/Hervorheben 6</translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -241,47 +241,47 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <translation>Erste Zeile</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <translation>Erste Spalte</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Letzte Zeile</translation>
+        <translation>Letzte Zeile</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Letzte Zeile</translation>
+        <translation>Letzte Spalte</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">verbundene Zeilen</translation>
+        <translation>Verbundene Zeilen</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">verbundene Spalten</translation>
+        <translation>Verbundene Spalten</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste und letzte Spalte</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste und letzte Zeile</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittel</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel</translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -312,47 +312,47 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <translation>Erste Zeile</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <translation>Erste Spalte</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Letzte Zeile</translation>
+        <translation>Letzte Zeile</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Letzte Zeile</translation>
+        <translation>Letzte Spalte</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">verbundene Zeilen</translation>
+        <translation>Verbundene Zeilen</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">verbundene Spalten</translation>
+        <translation>Verbundene Spalten</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile und erste Spalte</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile und letzte Spalte</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittel</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel</translation>
     </message>
 </context>
 <context>

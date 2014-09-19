@@ -2061,27 +2061,50 @@ path:%3</source>
         <translation type="unfinished">Formular</translation>
     </message>
     <message>
-        <source>You have trail %1 days, you can trail %2 days more.
-After trail period, Part of features will be disabled.
-In order not to affect your work, buy WPS Office please.</source>
+        <source>To purchase WPS Office, click here to visit the purchase page for more information. 
+You need to sign in before you buy. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy it now</source>
+        <source>TextLabel</source>
+        <translation type="unfinished">Text-Beschriftung</translation>
+    </message>
+    <message>
+        <source>After the trial expires, some features will not work properly. 
+Please purchase to continue using WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click here to open store page for more informations.
-You have to login before buy.</source>
+        <source>Buy now &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have trail %1 days, can trail %2 days more. </source>
+        <source>Buy now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you want to buy WPS Office, click here get more informations.
-You have to login before buy WPS Office.</source>
+        <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your WPS Office is about to expire. 
+After expiration, some features will not work properly. Renew now and you can get a discount. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew now &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after 1 day</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after %2 days</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
