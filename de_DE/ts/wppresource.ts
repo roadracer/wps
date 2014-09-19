@@ -537,10 +537,6 @@
         <translation>Frei drehen</translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grid and Guides</source>
         <translation>Raster und Hilfslinien</translation>
     </message>
@@ -566,6 +562,10 @@
     </message>
     <message>
         <source>Insert WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -618,6 +618,10 @@
     </message>
     <message>
         <source>Nudge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1078,10 +1082,6 @@
         <translation>Objekt formatieren</translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grayscale</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1339,11 +1339,11 @@ Master</source>
 <context>
     <name>classics.standard</name>
     <message>
-        <source>Covert to Simplified Chinese</source>
+        <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Traditional Chinese</source>
+        <source>Convert to Traditional Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1365,10 +1365,6 @@ Master</source>
     <message>
         <source>Formatted Text</source>
         <translation type="unfinished">Mit Textformat</translation>
-    </message>
-    <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Chart</source>
@@ -1433,6 +1429,10 @@ Master</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation type="unfinished"></translation>
@@ -1904,6 +1904,10 @@ Orientation</source>
         <source>Slide Orientation</source>
         <translation type="obsolete">Folienorientierung</translation>
     </message>
+    <message>
+        <source>import templates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_designtable</name>
@@ -1994,6 +1998,10 @@ Properties</source>
     </message>
     <message>
         <source>Controls List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2256,6 +2264,10 @@ On</source>
     <message>
         <source>Centered</source>
         <translation type="unfinished">Zentriert</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -2635,6 +2647,10 @@ On</source>
 <context>
     <name>ongmani.ct_file</name>
     <message>
+        <source>About Kingsoft Presentation</source>
+        <translation type="obsolete">Über Kingsoft Präsentation</translation>
+    </message>
+    <message>
         <source>About WPS Presentation</source>
         <translation>Über Kingsoft Präsentation</translation>
     </message>
@@ -2699,6 +2715,10 @@ On</source>
         <translation>Hilfe</translation>
     </message>
     <message>
+        <source>Kingsoft Presentation File</source>
+        <translation type="obsolete">Kingsoft Präsentation Datei</translation>
+    </message>
+    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2723,6 +2743,10 @@ On</source>
         <translation>Neue Datei</translation>
     </message>
     <message>
+        <source>New Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New From Default Template</source>
         <translation type="obsolete">Neu aus Standard-Vorlage</translation>
     </message>
@@ -2736,7 +2760,7 @@ On</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Neu aus Online-Vorlagen</translation>
+        <translation type="obsolete">Neu aus Online-Vorlagen</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -2870,6 +2894,10 @@ On</source>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
+        <source>Kingsoft Presentation Help</source>
+        <translation type="obsolete">Kingsoft Presentation Hilfe</translation>
+    </message>
+    <message>
         <source>WPS Presentation Help</source>
         <translation>WPS Presentation Hilfe</translation>
     </message>
@@ -2978,6 +3006,11 @@ Effects</source>
         <translation>Untenbündig ausrichten</translation>
     </message>
     <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation type="unfinished">Behoben</translation>
+    </message>
+    <message>
         <source>Align Center</source>
         <translation>Zentriert ausrichten</translation>
     </message>
@@ -3072,6 +3105,10 @@ Effects</source>
     <message>
         <source>Bullets</source>
         <translation>Aufzählungszeichen</translation>
+    </message>
+    <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Center</source>
@@ -3297,6 +3334,10 @@ Slide</source>
         <translation>Bild einfügen</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation>Kursiv</translation>
     </message>
@@ -3315,6 +3356,10 @@ Slide</source>
     <message>
         <source>Line Spacing</source>
         <translation>Zeilenabstand</translation>
+    </message>
+    <message>
+        <source>Local Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -3361,6 +3406,10 @@ Slide</source>
         <translation>Neue Folie</translation>
     </message>
     <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No 3-D</source>
         <translation>Kein 3D</translation>
     </message>
@@ -3371,6 +3420,10 @@ Slide</source>
     <message>
         <source>Object Select</source>
         <translation type="obsolete">Objekt auswählen</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -3624,7 +3677,7 @@ Effects</source>
         <translation type="obsolete">Aktionseinstellungen</translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3666,7 +3719,7 @@ Music</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galerie</translation>
+        <translation type="obsolete">Galerie</translation>
     </message>
     <message>
         <source>Header and 
@@ -3694,7 +3747,7 @@ Footer</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3726,6 +3779,10 @@ Footer</source>
         <translation>WordArt einfügen</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>Links</translation>
     </message>
@@ -3744,6 +3801,10 @@ Footer</source>
     <message>
         <source>Object</source>
         <translation>Objekt</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Organization
@@ -3786,6 +3847,10 @@ Number</source>
     <message>
         <source>Slide Number</source>
         <translation type="obsolete">Folienzahl</translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sound</source>
@@ -4196,7 +4261,7 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4298,10 +4363,6 @@ Pictures</source>
         <translation>Frei drehen</translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gradiant</source>
         <translation type="obsolete">Verlauf</translation>
     </message>
@@ -4330,12 +4391,16 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4399,6 +4464,10 @@ Pictures</source>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4659,12 +4728,20 @@ Order</source>
         <translation>Chinesisch-Umwandlung</translation>
     </message>
     <message>
+        <source>Convert to Simplified Chinese</source>
+        <translation type="unfinished">In vereinfachtes Chinesisch umwandeln</translation>
+    </message>
+    <message>
+        <source>Convert to Traditional Chinese</source>
+        <translation type="unfinished">In traditionelles Chinesisch umwandeln</translation>
+    </message>
+    <message>
         <source>Covert to Simplified Chinese</source>
-        <translation>In vereinfachtes Chinesisch umwandeln</translation>
+        <translation type="obsolete">In vereinfachtes Chinesisch umwandeln</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation>In traditionelles Chinesisch umwandeln</translation>
+        <translation type="obsolete">In traditionelles Chinesisch umwandeln</translation>
     </message>
     <message>
         <source>Delete 
@@ -5044,8 +5121,7 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save 
-Background Picture</source>
+        <source>Save Background Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5098,6 +5174,10 @@ Background Picture</source>
 </context>
 <context>
     <name>ongmani.ct_slideshow</name>
+    <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Custom 
 Slide Shows</source>
@@ -5766,11 +5846,6 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow
-Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
 Effects</source>
         <translation>Schattenstil</translation>
     </message>
@@ -5782,6 +5857,10 @@ On/Off</source>
     <message>
         <source>Shadow 
 Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6352,6 +6431,10 @@ Shape</source>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6365,6 +6448,10 @@ Shape</source>
     </message>
     <message>
         <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6388,6 +6475,26 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Laboratory</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6401,6 +6508,10 @@ Shape</source>
     </message>
     <message>
         <source>Online Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6424,6 +6535,18 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>SlideLibrary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6439,9 +6562,17 @@ Shape</source>
         <source>WPS Permit</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu</name>
+    <message>
+        <source>About Kingsoft Presentation</source>
+        <translation type="obsolete">Über Kingsoft Präsentation</translation>
+    </message>
     <message>
         <source>About WPS Presentation</source>
         <translation type="unfinished">Über Kingsoft Präsentation</translation>
@@ -6453,6 +6584,10 @@ Shape</source>
     <message>
         <source>Action Settings</source>
         <translation>Aktionseinstellungen</translation>
+    </message>
+    <message>
+        <source>Activate Kingsoft Office</source>
+        <translation type="obsolete">Kingsoft Office aktivieren</translation>
     </message>
     <message>
         <source>Activate WPS Office</source>
@@ -6472,7 +6607,12 @@ Shape</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Behoben</translation>
+        <translation type="obsolete">Behoben</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation type="unfinished">Behoben</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -6495,7 +6635,7 @@ Shape</source>
         <translation>Pfeil-Optionen</translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6599,6 +6739,10 @@ Add-Ins</source>
     <message>
         <source>Change Points</source>
         <translation type="obsolete">Punkte ändern</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -6914,11 +7058,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galerie</translation>
+        <translation type="obsolete">Galerie</translation>
     </message>
     <message>
         <source>Go to Slide</source>
         <translation>Zur Folie wechseln</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -6981,8 +7129,12 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished">Artistic Clip einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="obsolete">Artistic Clip einfügen</translation>
     </message>
     <message>
         <source>Insert Columns</source>
@@ -7006,6 +7158,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Rows Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7111,6 +7267,10 @@ Master</source>
 Folienmaster</translation>
     </message>
     <message>
+        <source>New Slide From Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
         <translation>Neuer Folienmaster</translation>
     </message>
@@ -7121,6 +7281,10 @@ Folienmaster</translation>
     <message>
         <source>New Window</source>
         <translation>Neues Fenster</translation>
+    </message>
+    <message>
+        <source>NewFromDuplicate</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next</source>
@@ -7144,6 +7308,10 @@ Folienmaster</translation>
     </message>
     <message>
         <source>Object Menu List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7212,7 +7380,7 @@ Folienmaster</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Seite einrichten</translation>
+        <translation type="obsolete">Seite einrichten</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -7611,12 +7779,20 @@ Folienmaster</translation>
         <translation>Zoom</translation>
     </message>
     <message>
+        <source>import templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>wahr</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI wechseln</translation>
@@ -7807,6 +7983,10 @@ Folienmaster</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit Slide Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Landscape</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7828,6 +8008,10 @@ Folienmaster</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>import templates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7917,6 +8101,10 @@ Folienmaster</translation>
     </message>
     <message>
         <source>Controls List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8097,6 +8285,10 @@ Folienmaster</translation>
     <message>
         <source>Bring to Front</source>
         <translation type="unfinished">In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dash</source>
@@ -8325,6 +8517,10 @@ Folienmaster</translation>
 <context>
     <name>rainbow.ct_file</name>
     <message>
+        <source>About Kingsoft Presentation</source>
+        <translation type="obsolete">Über Kingsoft Präsentation</translation>
+    </message>
+    <message>
         <source>About WPS Presentation</source>
         <translation type="unfinished">Über Kingsoft Präsentation</translation>
     </message>
@@ -8389,6 +8585,10 @@ Folienmaster</translation>
         <translation type="unfinished">Hilfe</translation>
     </message>
     <message>
+        <source>Kingsoft Presentation File</source>
+        <translation type="obsolete">Kingsoft Präsentation Datei</translation>
+    </message>
+    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8409,6 +8609,10 @@ Folienmaster</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Presentation</source>
         <translation>Neue Präsentation</translation>
     </message>
@@ -8418,7 +8622,7 @@ Folienmaster</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Neu aus Online-Vorlagen</translation>
+        <translation type="obsolete">Neu aus Online-Vorlagen</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -8655,6 +8859,11 @@ Folienmaster</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation type="unfinished">Behoben</translation>
+    </message>
+    <message>
         <source>Align Center</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8753,6 +8962,10 @@ Folienmaster</translation>
     <message>
         <source>Bullets</source>
         <translation type="unfinished">Aufzählungszeichen</translation>
+    </message>
+    <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Center</source>
@@ -8916,10 +9129,6 @@ Slide</source>
         <translation>Aus aktueller Folie</translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gradiant</source>
         <translation type="obsolete">Verlauf</translation>
     </message>
@@ -8962,6 +9171,10 @@ Slide</source>
     <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
@@ -9036,12 +9249,20 @@ Slide</source>
         <translation>Neue Folie</translation>
     </message>
     <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No 3-D</source>
         <translation>Kein 3D</translation>
     </message>
     <message>
         <source>No Shadow</source>
         <translation>Kein Schatten</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package File</source>
@@ -9289,7 +9510,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9317,10 +9538,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9341,7 +9558,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9369,6 +9586,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9386,6 +9607,10 @@ Slide</source>
     </message>
     <message>
         <source>Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9414,6 +9639,10 @@ Slide</source>
     </message>
     <message>
         <source>Slide Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9830,7 +10059,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9934,10 +10163,6 @@ Subordinate</source>
         <translation>Frei drehen</translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gradiant</source>
         <translation type="obsolete">Verlauf</translation>
     </message>
@@ -9966,12 +10191,16 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -10035,6 +10264,10 @@ Subordinate</source>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10292,11 +10525,11 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Simplified Chinese</source>
+        <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Traditional Chinese</source>
+        <source>Convert to Traditional Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10569,6 +10802,10 @@ Master</source>
 </context>
 <context>
     <name>rainbow.ct_slideshow</name>
+    <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Custom Slide Shows</source>
         <translation type="unfinished"></translation>
@@ -11589,6 +11826,10 @@ Effects</source>
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11602,6 +11843,10 @@ Effects</source>
     </message>
     <message>
         <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11625,6 +11870,26 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Laboratory</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11638,6 +11903,10 @@ Effects</source>
     </message>
     <message>
         <source>Online Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11661,6 +11930,18 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>SlideLibrary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11670,6 +11951,10 @@ Effects</source>
     </message>
     <message>
         <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12039,11 +12324,23 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12075,6 +12372,14 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>SlideLibrary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12088,6 +12393,10 @@ Effects</source>
     </message>
     <message>
         <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12322,6 +12631,10 @@ Effects</source>
     <message>
         <source>../help/1033/wppclassics.chm</source>
         <translation type="obsolete">http://www.kingsoftstore.de/support/index.html?enduserspresentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Help</source>
+        <translation type="obsolete">Kingsoft Presentation Hilfe</translation>
     </message>
     <message>
         <source>WPS Presentation Help</source>
@@ -12647,6 +12960,10 @@ Effects</source>
     <message>
         <source>8226</source>
         <translation type="obsolete">8226</translation>
+    </message>
+    <message>
+        <source>About Kingsoft Presentation</source>
+        <translation type="obsolete">Über Kingsoft Presentation</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
@@ -13017,6 +13334,10 @@ Effects</source>
         <translation type="obsolete">Fenster schließen</translation>
     </message>
     <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Color</source>
         <translation type="obsolete">Farbe</translation>
     </message>
@@ -13095,6 +13416,10 @@ Effects</source>
     <message>
         <source>Covert to Traditional Chinese</source>
         <translation type="obsolete">In traditionelles Chinesisch umwandeln</translation>
+    </message>
+    <message>
+        <source>Creat Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Crop</source>
@@ -13179,6 +13504,10 @@ Effects</source>
     <message>
         <source>Data Chart</source>
         <translation type="obsolete">Datendiagramm</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -13541,11 +13870,15 @@ Slide</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galerie</translation>
+        <translation type="obsolete">Galerie</translation>
     </message>
     <message>
         <source>Go to Slide</source>
         <translation type="obsolete">Zur Folie wechseln</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -13610,6 +13943,10 @@ Slide</source>
     <message>
         <source>Hide Slide</source>
         <translation type="obsolete">Folie ausblenden</translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlighter</source>
@@ -13732,6 +14069,18 @@ Slide</source>
         <translation>Blocksatz</translation>
     </message>
     <message>
+        <source>Kingsoft BBS</source>
+        <translation type="obsolete">Kingsoft BBS</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="obsolete">Kingsoft Office Homepage</translation>
+    </message>
+    <message>
+        <source>Kingsoft Online</source>
+        <translation type="obsolete">Kingsoft Online</translation>
+    </message>
+    <message>
         <source>Label</source>
         <translation type="obsolete">Beschriftung</translation>
     </message>
@@ -13830,6 +14179,10 @@ Slide</source>
     <message>
         <source>Macros</source>
         <translation>Makros</translation>
+    </message>
+    <message>
+        <source>MailFeedBack</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Markup</source>
@@ -13956,6 +14309,14 @@ Slide</source>
         <translation>Neue Präsentation</translation>
     </message>
     <message>
+        <source>New Blank Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New From Default Temlate</source>
         <translation type="obsolete">Neu aus Standard-Vorlage</translation>
     </message>
@@ -13965,7 +14326,7 @@ Slide</source>
     </message>
     <message>
         <source>New From Online Templates</source>
-        <translation type="unfinished">Neu aus Online-Vorlagen</translation>
+        <translation type="obsolete">Neu aus Online-Vorlagen</translation>
     </message>
     <message>
         <source>New From Other Templates</source>
@@ -13978,6 +14339,10 @@ Slide</source>
     <message>
         <source>New Slide</source>
         <translation type="obsolete">Neue Folie</translation>
+    </message>
+    <message>
+        <source>New Slide From Library</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Slide Master</source>
@@ -14005,7 +14370,7 @@ Slide</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="obsolete">Neu aus anderen Vorlagen</translation>
+        <translation type="unfinished">Neu aus anderen Vorlagen</translation>
     </message>
     <message>
         <source>Next</source>
@@ -14038,6 +14403,10 @@ Slide</source>
     <message>
         <source>Not Slide Miniature</source>
         <translation>Keine-Folie-Miniatur-Popup-Menü</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notes</source>
@@ -14074,6 +14443,10 @@ Slide</source>
     <message>
         <source>Object Select</source>
         <translation type="obsolete">Objekt auswählen</translation>
+    </message>
+    <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -14117,7 +14490,7 @@ Slide</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="obsolete">Seite einrichten</translation>
+        <translation type="unfinished">Seite einrichten</translation>
     </message>
     <message>
         <source>Paint Brush</source>
@@ -14241,7 +14614,7 @@ Slide</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="obsolete">Eigenschaften</translation>
+        <translation type="unfinished">Eigenschaften</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
@@ -14374,6 +14747,10 @@ Slide</source>
     <message>
         <source>Screen</source>
         <translation type="obsolete">Bildschirm</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -14550,10 +14927,6 @@ Slide</source>
     <message>
         <source>Shape Size</source>
         <translation type="obsolete">Formgröße</translation>
-    </message>
-    <message>
-        <source>Shape and Gallery</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -14948,6 +15321,10 @@ Slide</source>
         <translation>Visual-Basic-Editor</translation>
     </message>
     <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Forum</source>
         <translation type="obsolete">WPS Forum</translation>
     </message>
@@ -15058,6 +15435,14 @@ Slide</source>
     <message>
         <source>bullets_7</source>
         <translation type="obsolete">Aufzählungszeichen_6</translation>
+    </message>
+    <message>
+        <source>change template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>magic</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -15293,6 +15678,10 @@ Slide</source>
         <translation>Zeichenwerkzeug</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>Datei</translation>
     </message>
@@ -15422,7 +15811,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>UI wechseln</translation>
+        <translation type="obsolete">UI wechseln</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -15500,8 +15889,16 @@ Slide</source>
 <context>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>UI wechseln</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15801,7 +16198,7 @@ Slide</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">Als PDF exportieren</translation>
+        <translation type="unfinished">Als PDF exportieren</translation>
     </message>
     <message>
         <source>File</source>
@@ -16013,11 +16410,11 @@ Slide</source>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="obsolete">Neu aus weiteren Vorlagen</translation>
+        <translation type="unfinished">Neu aus weiteren Vorlagen</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>Neu aus weiteren Vorlagen</translation>
+        <translation type="obsolete">Neu aus weiteren Vorlagen</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -16359,7 +16756,7 @@ Transition</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>UI wechseln</translation>
+        <translation type="obsolete">UI wechseln</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -16552,12 +16949,20 @@ Transition</source>
         <translation type="obsolete">http://www.kingsoftstore.de/support/index.html?enduserspresentation</translation>
     </message>
     <message>
+        <source>Kingsoft Presentation Help</source>
+        <translation type="obsolete">Kingsoft Presentation Hilfe</translation>
+    </message>
+    <message>
         <source>WPS Presentation Help</source>
         <translation type="obsolete">WPS Presentation Hilfe</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI wechseln</translation>

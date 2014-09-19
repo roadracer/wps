@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation>Prêt pour la conversion, veuillez patienter</translation>
+        <translation>Prêt à convertir, veuillez patienter</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation>Deuxième</translation>
+        <translation>Seconde</translation>
     </message>
     <message>
         <source>Slide %1
@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>Still Need:</source>
-        <translation>Vous devez encore :</translation>
+        <translation>Temps restant:</translation>
     </message>
     <message>
         <source>Note;</source>
@@ -55,15 +55,15 @@
     </message>
     <message>
         <source>Ready to convert</source>
-        <translation>Prêt pour la conversion</translation>
+        <translation>Prêt à convertir</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Convertir en un document WPS Writer</translation>
+        <translation>Convertir en document WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
-        <translation>Vous devez encore : calcul en cours</translation>
+        <translation>Temps restant: calcul en cours</translation>
     </message>
 </context>
 <context>
@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation>Toutes (&amp;A)</translation>
+        <translation>Tout (&amp;A)</translation>
     </message>
     <message>
         <source>Below(&amp;B)</source>
@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Convertir en un document WPS Writer</translation>
+        <translation>Convertir en document WPS Writer</translation>
     </message>
     <message>
         <source>Slide per page</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Erreur lors de la conversion vers un document WPS Writer.</translation>
+        <translation>Erreur lors de la conversion en document WPS Writer.</translation>
     </message>
     <message>
         <source>The conversion is completed.</source>
@@ -232,7 +232,7 @@ Par exemple, 1,3 ou 5-9.</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation>Ce nom existe déjà. Vous ne pouvez pas enregistrer le fichier avec le même nom qu&apos;un autre fichier ouvert. Choisissez un autre nom ou fermez le fichier ouvert avant d&apos;enregistrer.</translation>
+        <translation>Ce nom existe déjà. Vous ne pouvez pas enregistrer le fichier avec le même nom qu&apos;un autre fichier ouvert. Entrez un autre nom ou fermez le fichier ouvert avant l&apos;enregistrement.</translation>
     </message>
 </context>
 </TS>

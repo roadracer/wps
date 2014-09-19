@@ -120,9 +120,14 @@
         <translation>文字 (時間及日期)</translation>
     </message>
     <message>
-        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>此功能在 WPS Office 2013 專業版 中提供!</translation>
+        <translation type="obsolete">此功能在 Kingsoft Office 2013 專業版 中提供!</translation>
+    </message>
+    <message>
+        <source>Times New Roman</source>
+        <comment>AEO_EFFECT_CHANGEFONT_DEFAULTVALUE</comment>
+        <translation type="obsolete">細明體</translation>
     </message>
     <message>
         <source>Title</source>
@@ -153,6 +158,11 @@
         <source>Wind</source>
         <comment>AEO_SOUNDEFFECT_Wind</comment>
         <translation>扭轉</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation>此功能在 WPS Office 2013 專業版 中提供!</translation>
     </message>
 </context>
 <context>
@@ -291,9 +301,9 @@ Esc					End of the slide show</source>
         <translation>結束放映</translation>
     </message>
     <message>
-        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
+        <source>Innovation·Research·Customer·Result·Sincerity Kingsoft Office 2010</source>
         <comment>WpWPSOffice2007</comment>
-        <translation>創新·學習·客戶·結果·誠信  WPS Office 2013</translation>
+        <translation type="obsolete">創新·學習·客戶·結果·誠信  Kingsoft Office 2013</translation>
     </message>
     <message>
         <source>Keep ink</source>
@@ -301,9 +311,9 @@ Esc					End of the slide show</source>
         <translation>保留筆跡</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot be found or start %s. </source>
+        <source>Kingsoft Presentation cannot be found or start %s. </source>
         <comment>WpInvalidateProgram</comment>
-        <translation>WPS Presentation 無法找到或啟動 %s</translation>
+        <translation type="obsolete">Kingsoft Presentation 無法找到或啟動 %s</translation>
     </message>
     <message>
         <source>May our software run on every computer</source>
@@ -366,6 +376,16 @@ Would you like to open this file?
         <source>”does not exist.</source>
         <comment>WpInvalidateNameSlideShowEnd</comment>
         <translation>」不存在。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot be found or start %s. </source>
+        <comment>WpInvalidateProgram</comment>
+        <translation>WPS Presentation 無法找到或啟動 %s</translation>
+    </message>
+    <message>
+        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
+        <comment>WpWPSOffice2007</comment>
+        <translation>創新·學習·客戶·結果·誠信  WPS Office 2013</translation>
     </message>
 </context>
 <context>
@@ -912,14 +932,14 @@ Fifth level</source>
         <translation>字幕</translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想；為避免資料遺失，將以瀏覽模式開啟此文件 (不支援編輯和儲存)。</translation>
+        <translation type="obsolete">您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想；為避免資料遺失，將以瀏覽模式開啟此文件 (不支援編輯和儲存)。</translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
+        <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
+        <translation type="obsolete">您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
     </message>
     <message>
         <source>Currently only support viewing PowerPoint 2007 documents, the edit cannot be saved.</source>
@@ -1069,14 +1089,14 @@ Fifth level</source>
         <translation>橢圓移動</translation>
     </message>
     <message>
-        <source>Errors occur when WPS Presentation is opening this file.
+        <source>Errors occur when Kingsoft Presentation is opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.	
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>WP_OpenFailure</comment>
-        <translation>WPS Presentation 嘗試開啟此檔案時發生錯誤。
+        <translation type="obsolete">Kingsoft Presentation 嘗試開啟此檔案時發生錯誤。
 請嘗試下列建議。
 *檢查您對此文件在磁碟上的權限。
 *確定記憶體或磁碟空間足夠。
@@ -1191,27 +1211,27 @@ Please try one of the following.
         <translation>超連結</translation>
     </message>
     <message>
-        <source>WPS Presentation Slide Show - </source>
+        <source>Kingsoft Presentation Slide Show - </source>
         <comment>WPPlayerCation</comment>
-        <translation>WPS Presentation 投影片放映 - </translation>
+        <translation type="obsolete">Kingsoft Presentation 投影片放映 - </translation>
     </message>
     <message>
-        <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
+        <source>Kingsoft Presentation cannot open this file, because the current user does not have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
-        <translation>WPS Presentation 嘗試開啟檔案時，發現目前使用者權限不足。請嘗試下列建議:
+        <translation type="obsolete">Kingsoft Presentation 嘗試開啟檔案時，發現目前使用者權限不足。請嘗試下列建議:
 (1).變更目前使用者為其他使用者。
 (2).請檔案的建立者變更此檔案的權限控制層級。
 </translation>
     </message>
     <message>
-        <source>WPS Presentation cannot open this file, because the password is not correct.
+        <source>Kingsoft Presentation cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>WP_OpenPasswordFailure</comment>
-        <translation>密碼不正確，WPS Presentation 無法開啟檔案。
+        <translation type="obsolete">密碼不正確，Kingsoft Presentation 無法開啟檔案。
 (%s)</translation>
     </message>
     <message>
@@ -1575,9 +1595,9 @@ Please try one of the following.
         <translation>貼上提示</translation>
     </message>
     <message>
-        <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <source>Permission for this file is currently restricted. Only Kingsoft Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>WPPKRMSAVEPROMPT</comment>
-        <translation>這個檔案有權限限制，只有使用 WPS Presentation 檔案格式才能保留這些權限設定。如果使用目前格式儲存，檔案的任何權限將被刪除。是否繼續?</translation>
+        <translation type="obsolete">這個檔案有權限限制，只有使用 Kingsoft Presentation 檔案格式才能保留這些權限設定。如果使用目前格式儲存，檔案的任何權限將被刪除。是否繼續?</translation>
     </message>
     <message>
         <source>Pinwheel</source>
@@ -1595,7 +1615,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation type="unfinished">簡報</translation>
+        <translation>簡報</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -1954,9 +1974,9 @@ Body: Rise Up</source>
         <translation>貼上的內容中含有定位點，是否貼上成為表格?</translation>
     </message>
     <message>
-        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <source>The design template contains multiple masters. Kingsoft Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
         <comment>WP_APPLYMULTIPLEMASTERS</comment>
-        <translation>此設計範本有多個母片。WPS Presentation 已經套用範本中的第一個母片。是否將其他母片複製到簡報中，以便日後使用?</translation>
+        <translation type="obsolete">此設計範本有多個母片。Kingsoft Presentation 已經套用範本中的第一個母片。是否將其他母片複製到簡報中，以便日後使用?</translation>
     </message>
     <message>
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
@@ -2461,17 +2481,17 @@ Body: Zoom</source>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
 Do you still want to open this file?
 
-•Click Yes, WPS Presentation will continue to open this file.
-•Click No, WPS Presentation will stop opening this file.
+•Click Yes, Kingsoft Presentation will continue to open this file.
+•Click No, Kingsoft Presentation will stop opening this file.
 
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</source>
         <comment>WP_AV_Scan_Failed</comment>
-        <translation>您的病毒掃描程式在進行此檔案的病毒掃描時發生錯誤 (錯誤碼: 0x%08x)，請與您的防毒軟體供應商聯絡。
+        <translation type="obsolete">您的病毒掃描程式在進行此檔案的病毒掃描時發生錯誤 (錯誤碼: 0x%08x)，請與您的防毒軟體供應商聯絡。
 您是否希望繼續開啟此檔案？
 
-· 選擇 [是]，WPS Presentation 將繼續開啟此檔案。
-· 選擇 [否]，WPS Presentation 將中止開啟此檔案。
+· 選擇 [是]，Kingsoft Presentation 將繼續開啟此檔案。
+· 選擇 [否]，Kingsoft Presentation 將中止開啟此檔案。
 
 注意: 某些檔案可能包含巨集病毒而執行其他有害的動作。如果您不信任此檔案，請不要繼續開啟。
 (%s)</translation>
@@ -2497,9 +2517,91 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation>default.dpt</translation>
     </message>
     <message>
+        <source>Errors occur when WPS Presentation is opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.	
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>WP_OpenFailure</comment>
+        <translation>WPS Presentation 嘗試開啟此檔案時發生錯誤。
+請嘗試下列建議。
+*檢查您對此文件在磁碟上的權限。
+*確定記憶體或磁碟空間足夠。
+*確定此檔案是可以識別的格式。
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>WP_OpenPasswordFailure</comment>
+        <translation>密碼不正確，WPS Presentation 無法開啟檔案。
+(%s)</translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
+Do you still want to open this file?
+
+•Click Yes, WPS Presentation will continue to open this file.
+•Click No, WPS Presentation will stop opening this file.
+
+Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
+(%s)</source>
+        <comment>WP_AV_Scan_Failed</comment>
+        <translation>您的病毒掃描程式在進行此檔案的病毒掃描時發生錯誤 (錯誤碼: 0x%08x)，請與您的防毒軟體供應商聯絡。
+您是否希望繼續開啟此檔案？
+
+· 選擇 [是]，WPS Presentation 將繼續開啟此檔案。
+· 選擇 [否]，WPS Presentation 將中止開啟此檔案。
+
+注意: 某些檔案可能包含巨集病毒而執行其他有害的動作。如果您不信任此檔案，請不要繼續開啟。
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Slide Show - </source>
+        <comment>WPPlayerCation</comment>
+        <translation>WPS Presentation 投影片放映 - </translation>
+    </message>
+    <message>
+        <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <comment>WPPKRMSAVEPROMPT</comment>
+        <translation>這個檔案有權限限制，只有使用 WPS Presentation 檔案格式才能保留這些權限設定。如果使用目前格式儲存，檔案的任何權限將被刪除。是否繼續?</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permission control level of this file.
+(%s)</source>
+        <comment>WPPKRMOPENNOOWNER</comment>
+        <translation>WPS Presentation 嘗試開啟檔案時，發現目前使用者權限不足。請嘗試下列建議:
+(1).變更目前使用者為其他使用者。
+(2).請檔案的建立者變更此檔案的權限控制層級。
+</translation>
+    </message>
+    <message>
+        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <comment>WP_APPLYMULTIPLEMASTERS</comment>
+        <translation>此設計範本有多個母片。WPS Presentation 已經套用範本中的第一個母片。是否將其他母片複製到簡報中，以便日後使用?</translation>
+    </message>
+    <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
         <comment>WP_CannotPlaySoundFile</comment>
-        <translation type="unfinished">%s 無法播放音訊檔案 “%s”。請確定這是 .wav 聲音檔，且您電腦的音效系統設定無誤。</translation>
+        <translation>%s 無法播放音訊檔案 “%s”。請確定這是 .wav 聲音檔，且您電腦的音效系統設定無誤。</translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation>您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想；為避免資料遺失，將以瀏覽模式開啟此文件 (不支援編輯和儲存)。</translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation>您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4247,9 +4349,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>跳到其他檔案</translation>
     </message>
     <message>
-        <source>Hyperlink to Other WPS Presentation Files</source>
+        <source>Hyperlink to Other Kingsoft Presentation Files</source>
         <comment>wpp_sLinkToWppFileCaption</comment>
-        <translation>跳到其他簡報</translation>
+        <translation type="obsolete">跳到其他簡報</translation>
     </message>
     <message>
         <source>I&amp;n Slightly</source>
@@ -4327,24 +4429,24 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>日文 (日本)</translation>
     </message>
     <message>
-        <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
+        <source>Kingsoft Presentation encountered an error while trying exporting to PDF.</source>
         <comment>wpp_sExportPDFError</comment>
-        <translation>匯出 PDF 檔案的過程中發生錯誤!</translation>
+        <translation type="obsolete">匯出 PDF 檔案的過程中發生錯誤!</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation.</source>
+        <source>Kingsoft Presentation has finished searching the presentation.</source>
         <comment>wpp_sFindComplete</comment>
-        <translation>已經搜尋完整份簡報。</translation>
+        <translation type="obsolete">已經搜尋完整份簡報。</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <source>Kingsoft Presentation has finished searching the presentation. %d replacements were made.</source>
         <comment>wpp_sReplaceAllFound</comment>
-        <translation>已經結束搜尋簡報檔案，取代了 %d 個搜索項目。</translation>
+        <translation type="obsolete">已經結束搜尋簡報檔案，取代了 %d 個搜索項目。</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
+        <source>Kingsoft Presentation has finished searching the presentation. The search item was not found.</source>
         <comment>wpp_sNotFound</comment>
-        <translation>已經搜尋完整份簡報，找不到搜尋目標。</translation>
+        <translation type="obsolete">已經搜尋完整份簡報，找不到搜尋目標。</translation>
     </message>
     <message>
         <source>L&amp;eft Down</source>
@@ -4732,9 +4834,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>重複 %d 個動作</translation>
     </message>
     <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
         <comment>wpp_sRemoveDefaultDict</comment>
-        <translation>刪除該自訂詞典可能會影響其他 WPS Office 程式所用的自訂詞典。想要繼續?</translation>
+        <translation type="obsolete">刪除該自訂詞典可能會影響其他 Kingsoft Office 程式所用的自訂詞典。想要繼續?</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -5555,6 +5657,36 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sPt</comment>
         <translation>點</translation>
     </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
+        <comment>wpp_sExportPDFError</comment>
+        <translation>匯出 PDF 檔案的過程中發生錯誤!</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation.</source>
+        <comment>wpp_sFindComplete</comment>
+        <translation>已經搜尋完整份簡報。</translation>
+    </message>
+    <message>
+        <source>Hyperlink to Other WPS Presentation Files</source>
+        <comment>wpp_sLinkToWppFileCaption</comment>
+        <translation>跳到其他簡報</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
+        <comment>wpp_sNotFound</comment>
+        <translation>已經搜尋完整份簡報，找不到搜尋目標。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <comment>wpp_sReplaceAllFound</comment>
+        <translation>已經結束搜尋簡報檔案，取代了 %d 個搜索項目。</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>wpp_sRemoveDefaultDict</comment>
+        <translation>刪除該自訂詞典可能會影響其他 WPS Office 程式所用的自訂詞典。想要繼續?</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -5716,9 +5848,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>所有檔案</translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation>所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx)|*.pptx; *.ppsx|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
+        <translation type="obsolete">所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation 簡報 (*.dps)|*.dps|Kingsoft Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx)|*.pptx; *.ppsx|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
@@ -6153,29 +6285,29 @@ Spelling</source>
         <translation>斜體</translation>
     </message>
     <message>
-        <source>WPS Office has not found any installed printers.</source>
+        <source>Kingsoft Office has not found any installed printers.</source>
         <comment>WpMessage_NoPrinter</comment>
-        <translation>WPS Office 發現您尚未安裝印表機。</translation>
+        <translation type="obsolete">Kingsoft Office 發現您尚未安裝印表機。</translation>
     </message>
     <message>
-        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <source>Kingsoft Presentation File(*.dps)|*.dps|Kingsoft Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation>WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps|JPEG 檔案交換格式 (*.jpg)|*.jpg|PNG 可攜式網路圖形格式 (*.png)|*.png|TIF 格式檔 (*.tif)|*.tif|與裝置無關點陣圖 (*.bmp)|*.bmp|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
+        <translation type="obsolete">Kingsoft Presentation 簡報 (*.dps)|*.dps|Kingsoft Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps|JPEG 檔案交換格式 (*.jpg)|*.jpg|PNG 可攜式網路圖形格式 (*.png)|*.png|TIF 格式檔 (*.tif)|*.tif|與裝置無關點陣圖 (*.bmp)|*.bmp|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
     </message>
     <message>
-        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <source>Kingsoft Presentation Template(*.dpt)|*.dpt|Kingsoft Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>WPS Presentation 範本 (*.dpt)|*.dpt|WPS Presentation 簡報 (*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt</translation>
+        <translation type="obsolete">Kingsoft Presentation 範本 (*.dpt)|*.dpt|Kingsoft Presentation 簡報 (*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertMovie</comment>
-        <translation>WPS Presentation 無法從所選檔案插入視訊。請檢查檔案是否已損壞，路徑和檔案名稱是否正確，然後再試一次。</translation>
+        <translation type="obsolete">Kingsoft Presentation 無法從所選檔案插入視訊。請檢查檔案是否已損壞，路徑和檔案名稱是否正確，然後再試一次。</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertSound</comment>
-        <translation>WPS Presentation 無法從所選檔案插入音訊。請檢查檔案是否已損壞，路徑和檔案名稱是否正確，然後再試一次。</translation>
+        <translation type="obsolete">Kingsoft Presentation 無法從所選檔案插入音訊。請檢查檔案是否已損壞，路徑和檔案名稱是否正確，然後再試一次。</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -6575,10 +6707,45 @@ Layout</source>
         <translation>[停用]</translation>
     </message>
     <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <comment>WP_OPENFILE</comment>
+        <translation>所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx)|*.pptx; *.ppsx|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation>WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps|JPEG 檔案交換格式 (*.jpg)|*.jpg|PNG 可攜式網路圖形格式 (*.png)|*.png|TIF 格式檔 (*.tif)|*.tif|與裝置無關點陣圖 (*.bmp)|*.bmp|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation type="obsolete">WPS Presentation 範本 (*.dpt)|*.dpt|WPS Presentation 簡報 (*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>WPS Office has not found any installed printers.</source>
+        <comment>WpMessage_NoPrinter</comment>
+        <translation>WPS Office 發現您尚未安裝印表機。</translation>
+    </message>
+    <message>
         <source>Spell 
 Check</source>
         <comment>WP_CheckSpelling_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>拼字檢查</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <comment>WP_Cannot_InsertSound</comment>
+        <translation>WPS Presentation 無法從所選檔案插入音訊。請檢查檔案是否已損壞，路徑和檔案名稱是否正確，然後再試一次。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <comment>WP_Cannot_InsertMovie</comment>
+        <translation>WPS Presentation 無法從所選檔案插入視訊。請檢查檔案是否已損壞，路徑和檔案名稱是否正確，然後再試一次。</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation>WPS Presentation 範本 (*.dpt)|*.dpt|WPS Presentation 簡報 (*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt</translation>
     </message>
 </context>
 </TS>

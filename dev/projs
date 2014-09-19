@@ -21,7 +21,6 @@
 [qt] wpp2doc:           shell2/plugins/wpp2doc
 [qt] wpponlinetemplate: shell2/plugins/wpponlinetemplate
 [qt] officespace:       shell2/plugins/officespace
-[qt] wpsgallery:        shell2/plugins/PersonlGallery/WPSGallery
 
 # core projects
 [core] kso:             include/kso/l10n/kso

@@ -37,26 +37,6 @@
         <translation type="obsolete">dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
     </message>
     <message>
-        <source>Dark Style</source>
-        <translation type="unfinished">dunkler Farbstil</translation>
-    </message>
-    <message>
-        <source>Dark Style 2</source>
-        <translation type="unfinished">dunkler Farbstil 2</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 1/Hervorhebung 2</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 3/Hervorhebung 4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
-    </message>
-    <message>
         <source>Deep Color Style</source>
         <translation type="obsolete">dunkler Farbstil</translation>
     </message>
@@ -85,28 +65,8 @@
         <translation type="obsolete">heller Farbstil</translation>
     </message>
     <message>
-        <source>Light Style</source>
-        <translation type="unfinished">heller Farbstil</translation>
-    </message>
-    <message>
         <source>Medium Color Style</source>
         <translation type="obsolete">mäßiger Farbstil</translation>
-    </message>
-    <message>
-        <source>Medium Style</source>
-        <translation type="unfinished">mäßiger Farbton</translation>
-    </message>
-    <message>
-        <source>No Style, Gridded</source>
-        <translation>stillos, gerastert</translation>
-    </message>
-    <message>
-        <source>No Style,Gridded</source>
-        <translation type="obsolete">stillos, gerastert</translation>
-    </message>
-    <message>
-        <source>Styless, No grid</source>
-        <translation>stillos, kein Raster</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
@@ -117,12 +77,52 @@
         <translation type="obsolete">stillos, kein Raster</translation>
     </message>
     <message>
+        <source>Themed Style</source>
+        <translation type="obsolete">Themenstil</translation>
+    </message>
+    <message>
+        <source>Styless, No grid</source>
+        <translation>stillos, kein Raster</translation>
+    </message>
+    <message>
         <source>Theme Style</source>
         <translation type="unfinished">Themenstil</translation>
     </message>
     <message>
-        <source>Themed Style</source>
-        <translation type="obsolete">Themenstil</translation>
+        <source>No Style, Gridded</source>
+        <translation>stillos, gerastert</translation>
+    </message>
+    <message>
+        <source>Light Style</source>
+        <translation type="unfinished">heller Farbstil</translation>
+    </message>
+    <message>
+        <source>Medium Style</source>
+        <translation type="unfinished">mäßiger Farbton</translation>
+    </message>
+    <message>
+        <source>Dark Style</source>
+        <translation type="unfinished">dunkler Farbstil</translation>
+    </message>
+    <message>
+        <source>Dark Style 2</source>
+        <translation type="unfinished">dunkler Farbstil 2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 1/Hervorhebung 2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 3/Hervorhebung 4</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
+        <translation type="unfinished">dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
+    </message>
+    <message>
+        <source>No Style,Gridded</source>
+        <translation type="obsolete">stillos, gerastert</translation>
     </message>
 </context>
 <context>
@@ -136,24 +136,12 @@
         <translation>2-</translation>
     </message>
     <message>
-        <source>Banded Columns</source>
-        <translation type="unfinished">verbundene Spalten</translation>
-    </message>
-    <message>
-        <source>Banded Rows</source>
-        <translation type="unfinished">verbundene Zeilen</translation>
-    </message>
-    <message>
         <source>Best Match</source>
         <translation>Bester Treffer</translation>
     </message>
     <message>
         <source>Built-in</source>
         <translation>integriert</translation>
-    </message>
-    <message>
-        <source>Dark</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Color Style</source>
@@ -176,6 +164,62 @@
         <translation type="obsolete">dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
     </message>
     <message>
+        <source>Deep</source>
+        <translation type="obsolete">Tief</translation>
+    </message>
+    <message>
+        <source>Emphasize</source>
+        <translation>Hervorhebung</translation>
+    </message>
+    <message>
+        <source>Light Color Style</source>
+        <translation type="obsolete">heller Farbstil</translation>
+    </message>
+    <message>
+        <source>Medium Color Style</source>
+        <translation type="obsolete">mäßiger Farbton</translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="obsolete">Mitte</translation>
+    </message>
+    <message>
+        <source>Styless, gridded</source>
+        <translation type="obsolete">stillos, gerastert</translation>
+    </message>
+    <message>
+        <source>Styless, no grid</source>
+        <translation type="obsolete">stillos, kein Raster</translation>
+    </message>
+    <message>
+        <source>Themed Style</source>
+        <translation type="obsolete">Themenstil</translation>
+    </message>
+    <message>
+        <source>Washy</source>
+        <translation type="obsolete">Verwaschen</translation>
+    </message>
+    <message>
+        <source>Styless, No grid</source>
+        <translation>stillos, kein Raster</translation>
+    </message>
+    <message>
+        <source>Theme Style</source>
+        <translation>Themenstil</translation>
+    </message>
+    <message>
+        <source>No Style, Gridded</source>
+        <translation>stillos, gerastert</translation>
+    </message>
+    <message>
+        <source>Light Style</source>
+        <translation>heller Farbstil</translation>
+    </message>
+    <message>
+        <source>Medium Style</source>
+        <translation>mäßiger Farbton</translation>
+    </message>
+    <message>
         <source>Dark Style</source>
         <translation>dunkler Farbstil</translation>
     </message>
@@ -196,20 +240,28 @@
         <translation>dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
     </message>
     <message>
-        <source>Deep</source>
-        <translation type="obsolete">Tief</translation>
-    </message>
-    <message>
-        <source>Emphasize</source>
-        <translation>Hervorhebung</translation>
+        <source>First Row</source>
+        <translation type="unfinished">Erste Zeile</translation>
     </message>
     <message>
         <source>First Column</source>
         <translation type="unfinished">Erste Zeile</translation>
     </message>
     <message>
-        <source>First Row</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <source>Last Row</source>
+        <translation type="unfinished">Letzte Zeile</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished">Letzte Zeile</translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished">verbundene Zeilen</translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished">verbundene Spalten</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
@@ -220,44 +272,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Last Column</source>
-        <translation type="unfinished">Letzte Zeile</translation>
-    </message>
-    <message>
-        <source>Last Row</source>
-        <translation type="unfinished">Letzte Zeile</translation>
-    </message>
-    <message>
         <source>Light</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Light Color Style</source>
-        <translation type="obsolete">heller Farbstil</translation>
-    </message>
-    <message>
-        <source>Light Style</source>
-        <translation>heller Farbstil</translation>
     </message>
     <message>
         <source>Medium</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Medium Color Style</source>
-        <translation type="obsolete">mäßiger Farbton</translation>
-    </message>
-    <message>
-        <source>Medium Style</source>
-        <translation>mäßiger Farbton</translation>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="obsolete">Mitte</translation>
-    </message>
-    <message>
-        <source>No Style, Gridded</source>
-        <translation>stillos, gerastert</translation>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -267,60 +291,48 @@
         <source>None</source>
         <translation type="obsolete">stillos, kein Raster</translation>
     </message>
-    <message>
-        <source>Styless, No grid</source>
-        <translation>stillos, kein Raster</translation>
-    </message>
-    <message>
-        <source>Styless, gridded</source>
-        <translation type="obsolete">stillos, gerastert</translation>
-    </message>
-    <message>
-        <source>Styless, no grid</source>
-        <translation type="obsolete">stillos, kein Raster</translation>
-    </message>
-    <message>
-        <source>Theme Style</source>
-        <translation>Themenstil</translation>
-    </message>
-    <message>
-        <source>Themed Style</source>
-        <translation type="obsolete">Themenstil</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="obsolete">Verwaschen</translation>
-    </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
-        <source>Banded Columns</source>
-        <translation type="unfinished">verbundene Spalten</translation>
-    </message>
-    <message>
-        <source>Banded Rows</source>
-        <translation type="unfinished">verbundene Zeilen</translation>
-    </message>
-    <message>
         <source>Best Match</source>
         <translation>Bester Treffer</translation>
-    </message>
-    <message>
-        <source>Dark</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deep</source>
         <translation type="obsolete">Tief</translation>
     </message>
     <message>
-        <source>First Column</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <source>Middle</source>
+        <translation type="obsolete">Mitte</translation>
+    </message>
+    <message>
+        <source>Washy</source>
+        <translation type="obsolete">Verwaschen</translation>
     </message>
     <message>
         <source>First Row</source>
         <translation type="unfinished">Erste Zeile</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished">Erste Zeile</translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation type="unfinished">Letzte Zeile</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished">Letzte Zeile</translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished">verbundene Zeilen</translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished">verbundene Spalten</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
@@ -331,14 +343,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Last Column</source>
-        <translation type="unfinished">Letzte Zeile</translation>
-    </message>
-    <message>
-        <source>Last Row</source>
-        <translation type="unfinished">Letzte Zeile</translation>
-    </message>
-    <message>
         <source>Light</source>
         <translation type="unfinished"></translation>
     </message>
@@ -347,12 +351,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Middle</source>
-        <translation type="obsolete">Mitte</translation>
-    </message>
-    <message>
-        <source>Washy</source>
-        <translation type="obsolete">Verwaschen</translation>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

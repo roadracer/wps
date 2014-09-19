@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>docerhomepage</source>
-        <translation>docerhomepage</translation>
+        <translation type="obsolete">docerhomepage</translation>
     </message>
     <message>
         <source>Check Online Templates</source>

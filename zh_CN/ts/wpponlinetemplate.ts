@@ -5,20 +5,20 @@
 <context>
     <name>KLiveService</name>
     <message>
-        <source>Please install Klive manually.</source>
-        <translation>请手动安装快盘以使用该功能。</translation>
-    </message>
-    <message>
-        <source>Please sign in Klive manually.</source>
-        <translation>请手动登录快盘以使用该功能。</translation>
-    </message>
-    <message>
         <source>please install kuaipan manul</source>
         <translation type="obsolete">请手动安装快盘以使用该功能。</translation>
     </message>
     <message>
         <source>please login kuaipan</source>
         <translation type="obsolete">请手动登录快盘以使用该功能。</translation>
+    </message>
+    <message>
+        <source>Please install Klive manually.</source>
+        <translation>请手动安装快盘以使用该功能。</translation>
+    </message>
+    <message>
+        <source>Please sign in Klive manually.</source>
+        <translation>请手动登录快盘以使用该功能。</translation>
     </message>
 </context>
 <context>
@@ -39,10 +39,6 @@
         <translation type="obsolete">我的收藏</translation>
     </message>
     <message>
-        <source>My Favorite</source>
-        <translation>我的收藏</translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation>在线模板</translation>
     </message>
@@ -50,9 +46,25 @@
         <source>Using Template</source>
         <translation>本文模板</translation>
     </message>
+    <message>
+        <source>My Favorite</source>
+        <translation>我的收藏</translation>
+    </message>
 </context>
 <context>
     <name>QApplication</name>
+    <message>
+        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <translation type="obsolete">WPS</translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\Office Space\Desktop.ini name.</source>
+        <translation type="obsolete">办公空间</translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</source>
+        <translation type="obsolete">我的模板</translation>
+    </message>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
         <translation>WPS</translation>

@@ -44,9 +44,5 @@
         <comment>title</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>

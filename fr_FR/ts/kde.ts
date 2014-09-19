@@ -34,7 +34,7 @@
     <message>
         <source>Shortcut &amp;key:</source>
         <comment>et -&gt; Developer -&gt; Macros -&gt; Options</comment>
-        <translation>Touche de &amp;raccourci :</translation>
+        <translation type="unfinished">Touche de &amp;raccourci :</translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>
@@ -52,17 +52,17 @@
     <message>
         <source>&amp;Delete</source>
         <comment>wps -&gt; Developer -&gt; Macros</comment>
-        <translation>&amp;Supprimer</translation>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
         <comment>wps -&gt; Developer -&gt; Macros</comment>
-        <translation>&amp;Modifier</translation>
+        <translation type="unfinished">&amp;Modifier</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
         <comment>wps -&gt; Developer -&gt; Macros</comment>
-        <translation>&amp;Nom de la macro :</translation>
+        <translation type="unfinished">&amp;Nom de la macro :</translation>
     </message>
     <message>
         <source>&amp;Options</source>
@@ -72,12 +72,12 @@
     <message>
         <source>&amp;Run</source>
         <comment>wps -&gt; Developer -&gt; Macros</comment>
-        <translation>&amp;Exécuter</translation>
+        <translation type="unfinished">&amp;Exécuter</translation>
     </message>
     <message>
         <source>&amp;Step Into</source>
         <comment>wps -&gt; Developer -&gt; Macros</comment>
-        <translation>&amp;Pas à pas détaillé</translation>
+        <translation type="unfinished">&amp;Pas à pas détaillé</translation>
     </message>
     <message>
         <source>All active templates and documents</source>
@@ -133,7 +133,7 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>The project item name is not valid.</source>
         <comment>Theoretically, will not displayed any where.</comment>
-        <translation>Le nom d'élément du projet n'est pas valide.</translation>
+        <translation>Le nom d&apos;élément du projet n&apos;est pas valide.</translation>
     </message>
 </context>
 <context>
@@ -151,12 +151,12 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>&amp;Enable Macros</source>
         <comment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</comment>
-        <translation>&amp;Activer les macros</translation>
+        <translation type="unfinished">&amp;Activer les macros</translation>
     </message>
     <message>
         <source>Macros may contain viruses. It is always safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
         <comment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</comment>
-        <translation>Les macros peuvent contenir des virus. Il est toujours plus prudent de désactiver les macros. Cependant, si elles proviennent d'une source sûre, le fait de les désactiver vous empêchera d'avoir accès à toutes les fonctionnalités.</translation>
+        <translation>Les macros peuvent contenir des virus. Il est toujours plus prudent de désactiver les macros. Cependant, si elles proviennent d&apos;une source sûre, le fait de les désactiver vous empêchera d&apos;avoir accès à toutes les fonctionnalités.</translation>
     </message>
     <message>
         <source>Security Warning</source>
@@ -174,12 +174,12 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>&amp;High</source>
         <comment>developer -&gt; Security</comment>
-        <translation>&amp;Élevé</translation>
+        <translation type="unfinished">&amp;Élevé</translation>
     </message>
     <message>
         <source>&amp;Low(not recommended)</source>
         <comment>developer -&gt; Security</comment>
-        <translation>&amp;Faible (non recommandé)</translation>
+        <translation type="unfinished">&amp;Faible (non recommandé)</translation>
     </message>
     <message>
         <source>&amp;Medium</source>
@@ -189,27 +189,27 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>&amp;Remove</source>
         <comment>developer -&gt; Security -&gt; Trusted Publishers</comment>
-        <translation>&amp;Supprimer</translation>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Security Level</source>
         <comment>developer -&gt; Security</comment>
-        <translation>&amp;Niveau de sécurité</translation>
+        <translation type="unfinished">&amp;Niveau de sécurité</translation>
     </message>
     <message>
         <source>&amp;Trusted Publishers</source>
         <comment>developer -&gt; Security</comment>
-        <translation>&amp;Éditeurs approuvés</translation>
+        <translation type="unfinished">&amp;Éditeurs approuvés</translation>
     </message>
     <message>
         <source>&amp;Very high</source>
         <comment>developer -&gt; Security</comment>
-        <translation>&amp;Très élevé</translation>
+        <translation type="unfinished">&amp;Très élevé</translation>
     </message>
     <message>
         <source>Only macros installed in trusted locations will be allowed to run. All other signed and unsigned macros are disabled.</source>
         <comment>developer -&gt; Security</comment>
-        <translation>Seule l'exécution des macros installées dans des emplacements approuvés sera autorisée. Toutes les autres macros signées et non signées seront désactivées.</translation>
+        <translation type="unfinished">Seulement l&apos;exécution des macros installées dans des emplacements approuvés sera autorisée. Toutes les autres macros signées et non signées seront désactivées.</translation>
     </message>
     <message>
         <source>Only signed macros from trusted sources will be allowed to run. Unsigned macros are automatically disabled.</source>
@@ -229,12 +229,12 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>You are not protected from potentially unsafe macros. Use this setting only if you have virus scanning software installed, or you have checked the safety of all documents you open.</source>
         <comment>developer -&gt; Security</comment>
-        <translation>Vous ne serez pas protégé contre des macros potentiellement dangereuses. N'utilisez ce paramètre que si un antivirus est installé ou si vous avez vérifié la sécurité des documents que vous ouvrez.</translation>
+        <translation>Vous ne serez pas protégé contre des macros potentiellement dangereuses. N&apos;utilisez ce paramètre que si un antivirus est installé ou si vous avez vérifié la sécurité des documents que vous ouvrez.</translation>
     </message>
     <message>
         <source>You can choose whether or not to run potentially unsafe macros.</source>
         <comment>developer -&gt; Security</comment>
-        <translation>Vous pouvez choisir d'exécuter ou non des macros potentiellement dangereuses.</translation>
+        <translation>Vous pouvez choisir d&apos;exécuter ou non des macros potentiellement dangereuses.</translation>
     </message>
 </context>
 </TS>

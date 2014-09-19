@@ -1,0 +1,1258 @@
+[TIPS]
+100%25.title=100%
+100%25.content=Zoom the document to 100% of the normal size.
+
+3DColor.title=3-D color
+3DColor.content=Fill the selected 3-D shape with color.\n\nClick the arrow to select from different 3-D colors.
+
+3DColor2.title=3-D color
+3DColor2.content=Click the arrow to select from different 3-D colors.
+
+3DDepthMenu.title=Depth
+3DDepthMenu.content=Change the height of the selected 3-D shape.
+
+3DDirectionPalette.title=Direction
+3DDirectionPalette.content=Choose the direction effect of the selected 3-D Shape.
+
+3DLightingPalette.title=Lighting
+3DLightingPalette.content="Set the lighting direction and intensity for the selected 3-D shape. The latter includes bright, normal and dim."
+
+3DOnOff.title=3-D On/Off
+3DOnOff.content=Turn on or off the 3-D effect applied to the shape.
+
+3DStylePalette.title=3-D Effects
+3DStylePalette.content=Add a 3-D effect to the shape.
+
+3DSurfaceMenu.title=Surface
+3DSurfaceMenu.content=Choose a surface effect for the selected 3-D shape in the document.
+
+3DTiltDown.title=Tilt Down
+3DTiltDown.content=Tilt the shape forward.
+
+3DTiltLeft.title=Tilt Left
+3DTiltLeft.content=Tilt the shape to the left.
+
+3DTiltRight.title=Tilt Right
+3DTiltRight.content=Tilt the shape to the right.
+
+3DTiltUp.title=Tilt Up
+3DTiltUp.content=Tilt the shape backward.
+
+AcceptChangeOnTB.title=Accept the selected change
+AcceptChangeOnTB.content=Accept the current change in the document.
+
+AcceptChangeOnTB2.title=Accept the selected change
+AcceptChangeOnTB2.content=Click here to accept all changes in the document.
+
+AdjustTableProperties.title=Table Properties
+AdjustTableProperties.content=Open the Table Properties dialog box.
+AdjustTableProperties.img=WPSTableProperties
+
+AlignBottomCenter.title=Align Bottom Center
+AlignBottomCenter.content=Center text and align it to the bottom of the cell.
+
+AlignBottomJustified.title=Align Bottom Justified
+AlignBottomJustified.content=Align text to the bottom left corner of the cell.
+
+AlignBottomRight.title=Align Bottom Right
+AlignBottomRight.content=Align text to the bottom right corner of the cell.
+
+AlignCenter.title=Align Center
+AlignCenter.content=Center text vertically and horizontally within the cell.
+
+AlignCenterJustified.title=Align Center Justified
+AlignCenterJustified.content=Center text vertically and align it to the left side of the cell.
+
+AlignCenterRight.title=Align Center Right
+AlignCenterRight.content=Center text vertically and align it to the right side of the cell.
+
+AlignStyle.title=Alignment
+AlignStyle.content=Specify how content in the cell should be aligned.
+
+AlignStyle2.title=Alignment
+AlignStyle2.content=Specify how content in the cell should be aligned.
+
+AlignTopCenter.title=Align Top Center
+AlignTopCenter.content=Center text and align it to the top of the cell.
+
+AlignTopJustified.title=Align Top Justified
+AlignTopJustified.content=Align text to the top left corner of the cell.
+
+AlignTopRight.title=Align Top Right
+AlignTopRight.content=Align text to the top right corner of the cell.
+
+ArrangeAll.title=Arrange All
+ArrangeAll.content=Tile all opened documents side-by-side under the same program window.
+
+ArtisticWordCharacterSpacing.title=Character Spacing
+ArtisticWordCharacterSpacing.content=Change the spacing between the letters of the selected WordArt text.
+
+AutoAdjustRightIndent.title=Adjust Right Indent with Grid
+AutoAdjustRightIndent.content=Automatically adjust the document right indent when the document grid is defined.\n\nThis option is available when grid is defined.
+
+AutoFitWindow.title=AutoFit to Window
+AutoFitWindow.content=Automatically adjust the table width according to the window size
+
+AutoVersion.title=Enable Auto Backup
+AutoVersion.content="Enable auto backup for the current document, and save backup file to File Safe each time the document is closed."
+
+Autobackup.title=File Safe
+Autobackup.content=A brief introduction to File Safe.
+
+BackgroundShapeFillColor.title=Page Color
+BackgroundShapeFillColor.content=Choose a color for the background of the page.
+BackgroundShapeFillColor.img=WPSBackgroundShapeFillColor
+
+Bold.title=Bold
+Bold.content=Make the selected text bold.
+
+BreakForwardLink.title=Break Forward Link
+BreakForwardLink.content=Break the link between selected text box and the next one.\n\nAll of the text will be placed in the selected text box.
+
+BringForward.title=Bring Forward
+BringForward.content=Bring the selected object forward so that it is hidden by fewer objects that are in front of it.
+
+BringForward2.title=Bring Forward
+BringForward2.content=Bring the selected objects forward one level or to the front of all objects.
+
+Bullets.title=Bullets
+Bullets.content=Start a bulleted list.\n\nClick the arrow to select different bullet styles.
+
+Bullets2.title=Bullets
+Bullets2.content=Click the arrow to select different bullet styles.
+
+COMAddIns.title=COM Add-Ins
+COMAddIns.content=Add or delete available COM Add-Ins.
+
+TemplateAddIns.title=Add-Ins
+TemplateAddIns.content=Manage the add-ins available for use with this file.
+
+CTB_DesignMode.title=Design Mode
+CTB_DesignMode.content=Enter design mode to edit controls' names and functions.
+
+CTB_MoreControls.title=More Controls
+CTB_MoreControls.content=Click here to insert a control from the set of controls available on this computer.
+
+CTB_Property.title=Controls Property
+CTB_Property.content=View and modify properties for the selected control.
+
+CTB_ViewCode.title=View Code
+CTB_ViewCode.content=Launch Visual Basic editor to edit the code of the selected controls.
+
+ChangeCase.title=Change Case
+ChangeCase.content="Change all the selected text to uppercase, lowercase or other common capitalizations.\n\nClick the arrow to choose Phonetic Guide, Enclose Characters, and Character Border options."
+
+ChangePicture.title=Change Picture
+ChangePicture.content="Change to a different picture, preserving the formatting and size of the current picture."
+
+ChangeTextDirection.title=Text Direction
+ChangeTextDirection.content="Customize the text layout direction in the current section, the whole document, or the selected text box and table."
+
+CharacterBorder.title=Character Border
+CharacterBorder.content=Apply a border around a set of characters or sentence.
+
+CharacterShading.title=Character Shading
+CharacterShading.content=Shade the selected text with gray color.
+
+CheckSpelling.title=Spell Check
+CheckSpelling.content=Check the spelling of the text in the current document.
+
+Chinese%20Translation.title=Simplified to Traditional Chinese
+Chinese%20Translation.content=Decide the translation unit for Simplified - Traditional Chinese to be character or word.
+
+CleanLineSpacing.title=Clean Line Spacing
+CleanLineSpacing.content=Apply single line spacing to the selected paragraph and snap to the grid.
+
+ClearFormats.title=Clear Formatting
+ClearFormats.content="Clear all the formatting from the selection, leaving only the plain text."
+
+ClearTableStyle.title=Clear Table Style
+ClearTableStyle.content=Clear table style of selected cells.
+
+CloseDevelopmentTools.title=Close
+CloseDevelopmentTools.content=Click here to hide Developer Tools.
+
+CloseHeaderAndFooter.title=Close
+CloseHeaderAndFooter.content=Close Header and Footer Tools and return to editing the document.
+
+CloseMail.title=Close
+CloseMail.content=Click here to hide Mailings tab.
+
+CloseOtherWindow.title=Close Other Windows
+CloseOtherWindow.content=Close all other windows except the current one.
+
+CloseOutlineview.title=Close
+CloseOutlineview.content=Close Outline View and return to editing the document.
+
+ClosePreview.title=Close
+ClosePreview.content=Close Print Preview and return to editing the document.
+
+CloseWindow.title=Close Window
+CloseWindow.content=Close the current window.
+
+CmpSideBySide.title=View Side by Side
+CmpSideBySide.content=View two documents side-by-side to compare their contents.
+
+CollapseOnOutlining.title=Collapse
+CollapseOnOutlining.content=Collapse the selected item.
+
+CompressPictures.title=Compress Pictures
+CompressPictures.content=Compress the selected picture or all pictures in the document to reduce size.
+
+ConvertTabletoText.title=Convert Table to Text
+ConvertTabletoText.content="Convert table to text paragraph using commas, space or other characters as separators."
+
+Copy.title=Copy
+Copy.content=Copy the selection and put it on the system Clipboard.
+
+CoverPages.title=Insert Cover Page
+CoverPages.content="Choose from different cover page styles and insert into the document. You can fill in the title, author, email address and other information."
+CoverPages.img=WPSCoverPages
+
+CreateTextBoxLink.title=Create Text Box Link
+CreateTextBoxLink.content=Link the selected text box to another empty one so that text flows between them.
+
+CrossReference.title=Cross-reference
+CrossReference.content=Use cross-reference to refer to headings and figures in the document.
+
+Cut.title=Cut
+Cut.content=Cut the selection and put it on the system Clipboard.
+
+DecreaseIndent.title=Decrease Indent
+DecreaseIndent.content=Decrease the indent level of the paragraph.
+
+Delete.title=Delete
+Delete.content="Delete rows, columns, cells, or the entire table."
+
+DeleteSection.title=Delete Section
+DeleteSection.content=Delete the currently selected section.
+
+DemoteOnOutlining.title=Demote
+DemoteOnOutlining.content=Demote this item to a lower level.
+
+DemoteOnParagraph.title=Demote TOC Level
+DemoteOnParagraph.content=Demote the selected paragraph to a lower TOC level.
+
+DemoteToLowestLevelOnOutlining.title=Demote to Body Text
+DemoteToLowestLevelOnOutlining.content=Demote this item to the lowest level of the outline.
+
+DemoteToLowestLevelOnParagraph.title=Demote to Body Text
+DemoteToLowestLevelOnParagraph.content=Demote the selected paragraph to the lowest level of the TOC.
+
+DetailedSettings_DrawingTools.title=Settings
+DetailedSettings_DrawingTools.content=Change the settings of shape formatting.
+
+DetailedSettings_Home.title=Settings
+DetailedSettings_Home.content="Change the settings of font, paragraph, and styles and formatting."
+
+DetailedSettings_PageLayout.title=Settings
+DetailedSettings_PageLayout.content=Change the settings of page setup and paragraph.
+
+DetailedSettings_Paragraph.title=Settings
+DetailedSettings_Paragraph.content="Change the settings of paragraph, page setup, and styles and formatting."
+
+DetailedSettings_PictureTools.title=Settings
+DetailedSettings_PictureTools.content=Change the settings of picture formatting.
+
+DetailedSettings_Section.title=Settings
+DetailedSettings_Section.content="Change the settings of page setup, and header and footer."
+
+DetailedSettings_TableTools.title=DetailedSettings TableTools Title
+DetailedSettings_TableTools.content=DetailedSettings TableTools Content
+
+DetailedSettings_WordArt.title=Settings
+DetailedSettings_WordArt.content=Change the settings of WordArt formatting.
+
+DevelopmentTools.title=Developer Tools
+DevelopmentTools.content="Open the Developer Tools tab to insert the Option Button, Check Box and more."
+
+DirectoryLevel.title=TOC Level
+DirectoryLevel.content=Set the TOC level for the selected paragraph.
+
+DisableLineHeightGrid.title=Snap to Grid
+DisableLineHeightGrid.content=Align the text content according to the grid.
+
+DisplayForReview.title=Display for Review
+DisplayForReview.content=Choose how to view the proposed changes to the document.
+
+DistributeColumns.title=Distribute Columns Evenly
+DistributeColumns.content=Distribute the width of the selected columns equally between them.
+
+DistributeRows.title=Distribute Rows Evenly
+DistributeRows.content=Distribute the height of the selected rows equally between them.
+
+DoublePages.title=Two Pages
+DoublePages.content=Zoom the document so that two pages fit in the window.
+
+DrawTable.title=Draw Table
+DrawTable.content=Draw the borders of a table.
+
+DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
+DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+
+DropCap.title=Drop Cap
+DropCap.content=Create a large capital letter at the beginning of a paragraph.
+
+EditPoints.title=Edit Points
+EditPoints.content=Edit the wrap points to change the shape.
+
+EditWordArtText.title=Edit WordArt Text
+EditWordArtText.content=Edit the text of the selected WordArt.
+
+EmphasisMark.title=Emphasis Mark
+EmphasisMark.content=Add black dots under selected content to show emphasis.\n\nClick the arrow to add a strikethrough.
+
+EncloseCharacters.title=Enclose Characters
+EncloseCharacters.content="Add a circle or other border around a character.\n\nClick the arrow to choose Phonetic Guide, Change Case and Character Border options."
+
+EnterParagraphAdjustment.title=Paragraph Layout
+EnterParagraphAdjustment.content=Enter Paragraph Layout mode.
+EnterParagraphAdjustment.img=WPSEnterParagraphAdjustment
+
+ExitParagraph.title=Close
+ExitParagraph.content=Close the Paragraph Layout Tools and return to editing the document.
+
+ExpandOnOutlining.title=Expand
+ExpandOnOutlining.content=Expand the selected item.
+
+ExplorBackupDir.title=Explore File Safe
+ExplorBackupDir.content=View backup files and open or recover the backup files for a certain document.
+
+ExplorVersion.title=View Backup History
+ExplorVersion.content="View the backup record history of the current document to open, delete or restore the files."
+
+ExportWeiboImageCmd.title=Export Weibo Image
+ExportWeiboImageCmd.content=Export Weibo Image
+
+FieldFormula.title=Formula
+FieldFormula.content="Add a formula to a cell to perform a simple calculation, such as SUM, AVERAGE or MAX."
+
+FillColor.title=Shape Fill
+FillColor.content="Fill the selected shape with a solid color, gradient, picture, or texture.\n\nClick the arrow to select different fill effects."
+
+FillColor2.title=Shape Fill
+FillColor2.content=Click the arrow to select different fill effects.
+
+Find.title=Find
+Find.content="Find text in the document.\n\nClick the arrow to choose other options, such as Go To."
+
+Find2.title=Find
+Find2.content="Click the arrow to choose other options, such as Go To."
+
+FirstPageIsDifferent.title=Different First Page
+FirstPageIsDifferent.content=Specify a unique header and footer for the first page of the document.
+
+FirstRecord.title=First Record
+FirstRecord.content=Preview the first record in the recipient list.
+
+FirstSection.title=First Section
+FirstSection.content=Go to the first section of the document.
+
+FontColor.title=Text Color
+FontColor.content=Change the text color.\n\nClick the arrow to choose a different text color.
+
+FontColor2.title=Text Color
+FontColor2.content=Click the arrow to choose a different text color.
+
+FontName.title=Font
+FontName.content=Change the font face.
+
+FontSize.title=Font Size
+FontSize.content=Change the font size.
+
+FooterLinkToPrevious.title=Link to Previous Footer
+FooterLinkToPrevious.content=Link the current footer to the previous section.
+
+FormatAlignCenter.title=Center
+FormatAlignCenter.content=Center text.
+
+FormatAlignDistributed.title=Distributed
+FormatAlignDistributed.content=Align paragraph to both the left and right margins by adding extra space between characters as necessary.
+
+FormatAlignJustify.title=Justify
+FormatAlignJustify.content=Align text to both the left and right margins by adding extra space between words as necessary.
+
+FormatAlignLeft.title=Align Text Left
+FormatAlignLeft.content=Align text to the left.
+
+FormatAlignRight.title=Align Text Right
+FormatAlignRight.content=Align text to the right.
+
+FormatObject.title=Format Object
+FormatObject.content=Show the Format Object dialog box.
+FormatObject.img=WPSFormatObject
+
+FormatPainter.title=Format Painter
+FormatPainter.content=Copy formatting from one place and apply it to another.\n\nDouble-click this button to apply the same formatting to multiple places in the document.
+
+FullScreenMode.title=Full Screen Mode
+FullScreenMode.content=View the document in full screen mode.
+
+Gallery.title=WPS Gallery
+Gallery.content="WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.\n\nWPS Gallery Online Sources require Internet connection."
+
+GenkoSetting.title=Genko Setting
+GenkoSetting.content=Apply Genko settings to the current document.
+GenkoSetting.img=WPSGenkoSetting
+
+GotoFootnotes.title=Next Footnote/Endnote
+GotoFootnotes.content=Navigate to the next footnote/endnote in the document.
+
+GotoNextEndnote.title=Next Endnote
+GotoNextEndnote.content=Navigate to the next endnote in the document.
+
+GotoNextFootnote.title=Next Footnote
+GotoNextFootnote.content=Navigate to the next footnote in the document.
+
+GotoPrevEndnote.title=Previous Endnote
+GotoPrevEndnote.content=Navigate to the previous endnote in the document.
+
+GotoPrevFootnote.title=Previous Footnote
+GotoPrevFootnote.content=Navigate to the previous footnote in the document.
+
+GotoRecord.title=Go to Record
+GotoRecord.content=View a specific record in the recipient list
+
+GotoTocOnOutlining.title=Go to TOC
+GotoTocOnOutlining.content=Go to TOC of the document.
+
+Gridlines.title=Gridlines
+Gridlines.content=Turn on/off gridlines to which you can align objects in the document.
+
+GrowFont.title=Grow Font
+GrowFont.content=Increase the font size.
+
+HeadRowsRepeat.title=Repeat Header Rows
+HeadRowsRepeat.content=Repeat the header rows of the selected table on every page.\n\nThis only affects tables which extend beyond a single page.
+
+HeaderAndFooterSetting.title=Header/Footer
+HeaderAndFooterSetting.content=Show the Header/Footer dialog box.
+
+HeaderFooter.title=Header and Footer
+HeaderFooter.content=Edit the header and footer of the document.
+HeaderFooter.img=WPSHeaderFooter
+
+HeaderFooterOptions.title=Header and Footer Options
+HeaderFooterOptions.content="Apply Header and Footer settings to the current section or document, such as different first page, different odd & even pages, and margin to the border."
+HeaderFooterOptions.img=WPSHeaderFooterOptions
+
+HeaderLine.title=Show Header Line
+HeaderLine.content=Add a horizontal line to the header.
+
+HeaderLinkToPrevious.title=Link to Previous Header
+HeaderLinkToPrevious.content=Link the current header to the previous section.
+
+HighlightColor.title=Text Highlight Color
+HighlightColor.content=Make text look like it was marked with a highlighter pen.\n\nClick the arrow to select a different highlight color.
+
+HighlightColor2.title=Text Highlight Color
+HighlightColor2.content=Click the arrow to select a different highlight color.
+
+HighlightMergeFields.title=Highlight Merge Fields
+HighlightMergeFields.content=Highlight the fields you have inserted into the document.\n\nThis makes it easy to see what part of your form letter will be replaced by information from the recipient list you have chosen.
+
+HomeDetailedSettings.title=HomeDetailedSettings Title
+HomeDetailedSettings.content=HomeDetailedSettings Content
+
+IncreaseIndent.title=Increase Indent
+IncreaseIndent.content=Increase the indent level of the  paragraph.
+
+IncreaseStep.title=Increase Line Spacing
+IncreaseStep.content=Increas the current paragraph line spacing by 0.25 times.
+
+InsertAutoText.title=AutoText
+InsertAutoText.content=Insert AutoText in the header or footer to easily view and locate the related article.
+
+InsertBlankPage.title=Blank Page
+InsertBlankPage.content=Insert a new blank page at the cursor position.
+
+InsertBlankPage2.title=Blank Page
+InsertBlankPage2.content=Click here to insert a horizontal or vertical blank page.
+
+InsertBookmark.title=Insert Bookmark
+InsertBookmark.content=Create a bookmark to assign a name to a specific point in a document.
+
+InsertCaption.title=Insert Caption
+InsertCaption.content=Add a descriptive caption to a picture or a table.
+InsertCaption.img=WPSInsertCaption
+
+InsertCells.title=Insert Cells
+InsertCells.content=Show the Insert Cells dialog box.
+InsertCells.img=WPSInsertCells
+
+InsertChart.title=Insert Chart
+InsertChart.content="The inserted chart needs to be edited in WPS Spreadsheets.\n\nWhen WPS Spreadsheets closed, the chart in document can display normally. Double-click the chart if you want to edit it."
+InsertChart.img=WPSInsertChart
+
+InsertClipArt.title=Insert Clip Art
+InsertClipArt.content=Choose a Clip Art from the task window and insert it into the document.
+
+InsertColumnLeft.title=Insert Columns to the Left
+InsertColumnLeft.content=Add a column directly to the left of the selected column.
+
+InsertColumnRight.title=Insert Columns to the Right
+InsertColumnRight.content=Add a column directly to the right of the selected column.
+
+InsertComment.title=Insert Comment
+InsertComment.content=Add a comment to the document about the selection.
+
+InsertDateTime.title=Date and Time
+InsertDateTime.content=Show the Date and Time dialog box to insert the current date or time into the current document.
+
+InsertField.title=Insert Field
+InsertField.content=Insert a field into the document.
+
+InsertFileObject.title=Insert Object from File
+InsertFileObject.content=Insert selected file into the document.
+
+InsertFootnote.title=Insert Footnote/Endnote
+InsertFootnote.content=Add a footnote or endnote to the document.
+InsertFootnote.img=WPSFootAndEndnote
+
+InsertHyperlink.title=Insert Hyperlink
+InsertHyperlink.content="Create a link to a web page, a picture, or an e-mail address."
+
+InsertIndexTables.title=Insert Table of Contents
+InsertIndexTables.content="Show the Table of Contents dialog box, and add a Table of Contents to the document.\n\nSet TOC level for the selected paragraph and add a Table of Contents."
+
+InsertMergeFields.title=Insert Merge Field
+InsertMergeFields.content="Insert any field from your recipient list to the document, such as \"Last Name\", \"Nick Name\", \"Company Name\", \"Department Name\" or \"Position\"."
+
+InsertMutidiagonalCell.title=Insert Multi-diagonal Cell
+InsertMutidiagonalCell.content=Insert different types of diagonal lines in a cell to use as headings.\n\nThe diagonal lines in the table headings can be moved.
+
+InsertNumber.title=Insert Number
+InsertNumber.content=Insert a customized number format into the document.
+
+InsertObject.title=Insert Object
+InsertObject.content=Insert an embedded object into the document.\n\nClick the arrow to insert file content into the document.
+
+InsertObject2.title=Insert Object
+InsertObject2.content=Click the arrow to insert file content into the document.
+
+InsertPageBreak.title=Page Break
+InsertPageBreak.content="Start the next page at the current cursor position, and the content after the cursor will be moved to the new page."
+
+InsertPageNumbers.title=Insert Page Number
+InsertPageNumbers.content=Insert page numbers into the document.
+
+InsertPictureFromFile.title=Insert Picture
+InsertPictureFromFile.content=Insert a picture in local folder.
+
+InsertPictureFromFile2.title=Insert Picture
+InsertPictureFromFile2.content=Click here to insert a picture in local folder or from a scanner.
+
+InsertRowAbove.title=Insert Rows Above
+InsertRowAbove.content=Add a new row directly above the selected row.
+
+InsertRowBelow.title=Insert Rows Below
+InsertRowBelow.content=Add a new row directly below the selected row.
+
+InsertSectionAfter.title=Insert Section After
+InsertSectionAfter.content=Insert a new section after the current section.
+
+InsertSectionBefore.title=Insert Section Before
+InsertSectionBefore.content=Insert a section before the current section.
+
+InsertSymbol.title=Insert Symbol
+InsertSymbol.content="Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols."
+
+InsertTheEndnote.title=Insert Endnote
+InsertTheEndnote.content=Add an endnote to the document.
+
+InsertTheFootnote.title=Insert Footnote
+InsertTheFootnote.content=Add a footnote to the document.
+
+InsertWordArt.title=WordArt
+InsertWordArt.content=Show the WordArt Gallery dialog box to select a WordArt style and edit content.
+
+InsertWordField.title=Insert Next Fields
+InsertWordField.content="To solve the page break issue in mail merge, if N lines are to be shown in one page, insert N-1 next fields."
+
+Italic.title=Italic
+Italic.content=Italicize the selected text.
+
+KOSCloudFeedbackTip.title=User Feedback
+KOSCloudFeedbackTip.content=Help us to improve WPS Office.
+
+KOSCloudInformationTip.title=User Guide
+KOSCloudInformationTip.content=How to use Office Space.
+
+KOSCreatecloudLinkTip.title=Just ten seconds! You can:
+KOSCreatecloudLinkTip.content=Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=UserName or password not match
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=Password is wrong
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=Password not match
+
+KOSOpenCloudFileTip.title=Open from Cloud Docs
+KOSOpenCloudFileTip.content=Modifications of documents in Cloud Docs will be directly saved.
+
+KOSRoamingfileTip.title=File Roaming
+KOSRoamingfileTip.content="Files opened will be automatically roamed to the cloud and all your devices.\n\nYou can start work at anytime and anywhere."
+
+KOSSaveFileTocloudTip.title=Save to Cloud Docs
+KOSSaveFileTocloudTip.content=Share with others for discussing, editing, and previewing documents online.
+
+KOSUserLoginCloudTextBtnTip.title=Sign In
+KOSUserLoginCloudTextBtnTip.content=Sign in WPS Office Cloud and upload your documents. You can edit the same document on other computers or cellphones and never lose it.
+
+KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
+KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+
+KOSUserLogoutCloudTip.title=Signed in
+KOSUserLogoutCloudTip.content=You have signed in WPS Office Cloud. Click to exit.
+
+KingsoftEquationEditor.title=Insert Equation
+KingsoftEquationEditor.content=Insert mathematical equations using equation editor.
+KingsoftEquationEditor.img=WPSKingsoftEquationEditor
+
+LastRecord.title=Last Record
+LastRecord.content=Preview the last record in the recipient list.
+
+LastSection.title=Last Section
+LastSection.content=Go to the last section of the document.
+
+LineColor.title=Shape Outline
+LineColor.content="Set the color, width, and line style for the outline of the selected shape.\n\nClick the arrow to select detailed settings for the outline."
+
+LineColor2.title=Shape Outline
+LineColor2.content=Click the arrow to select detailed settings for the outline.
+
+LineSpacingShow.title=Line Spacing
+LineSpacingShow.content=Change the spacing between lines of text.
+
+LinktoPreviousHeader.title=Link to Previous
+LinktoPreviousHeader.content=Make the header and footer of the current section the same as the previous one.
+
+LocateToSection.title=Locate to Section
+LocateToSection.content=Relocate to the other section.
+
+LockSideBySide.title=Synchronous Scrolling
+LockSideBySide.content="Synchronize the scrolling of two documents so that they scroll together.\n\nTo enable this feature, turn on View Side by Side."
+
+LooseLineSpacing.title=Loose Line Spacing
+LooseLineSpacing.content=Set 1.5 line spacing to the selected paragraph with Snap to Grid selected.
+
+Macro.title=View Macros
+Macro.content="Show Macros dialog box. View the list of macros,from which you can run, create or delete a macro."
+
+Macro2.title=View Macros
+Macro2.content="View the list of macros,from which you can run, create or delete a macro."
+
+Mail.title=Mailings
+Mail.content="Click here to open Mailings tab, which includes features such as Mail Merge."
+
+MailMergeRecipients.title=Recipients
+MailMergeRecipients.content=Add or delete recipients from the Mail Merge Recipient list.
+
+MarkVersion.title=Manual Backup
+MarkVersion.content="Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file."
+
+Markup.title=Revision Markup
+Markup.content=Show or hide revision markups in the document.
+
+MatchFields.title=Match Fields
+MatchFields.content="Match Fields allows you to tell WPS Writer the meanings of different fields in the recipient list.\n\nFor example, you can indicate that your custom field \"Zip\" is equivalent to normal built-in field \"Zip Code\"."
+
+MergeCells.title=Merge Cells
+MergeCells.content=Merge the selected cells into one cell.
+
+MergeToDiffNewDoc.title=Merge to Different New Document
+MergeToDiffNewDoc.content=Export the merged mail content to different documents according to the recipient list.
+
+MergeToEmail.title=Merge to Email
+MergeToEmail.content=Send merged content via email.
+
+MergeToNewDoc.title=Merge to New Document
+MergeToNewDoc.content=Export merged content to a new document.
+
+MergeToPrinter.title=Merge to Printer
+MergeToPrinter.content=Print the merged content.
+
+NavigationPane.title=Navigation Pane
+NavigationPane.content=Show or hide Navigation Pane.
+NavigationPane.img=WPSNavigationPane
+
+NewWindow.title=New Window
+NewWindow.content=Open a new window containing a view of the current document.
+
+SplitWindow.title=Split Window
+SplitWindow.content=Split the current window into two parts so that you can view different sections of the document at the same time.
+
+SplitWindowMenu.title=Split Window
+SplitWindowMenu.content=Click to split the current window horizontally or vertically.
+
+NextChange.title=Next Change
+NextChange.content=Navigate to the next revision in the document so that you can accept or reject it.
+
+NextComment.title=Next Comment
+NextComment.content=Navigate to the next comment in the document.
+
+NextHeader.title=Show Next
+NextHeader.content=Navigate to the next section's header or footer based upon the current cursor position.
+
+NextRecord.title=Next Record
+NextRecord.content=Preview the next record in the recipient list.
+
+NextSection.title=Next Section
+NextSection.content=Go to the next section.
+
+NextTextBox.title=Next Text Box
+NextTextBox.content=Navigate to the next text box linked to the current one.
+
+NudgeShadowDown.title=Nudge Shadow Down
+NudgeShadowDown.content=Move the shadow of the selected object down.
+
+NudgeShadowLeft.title=Nudge Shadow Left
+NudgeShadowLeft.content=Move the shadow of the selected object to the left.
+
+NudgeShadowRight.title=Nudge Shadow Right
+NudgeShadowRight.content=Move the shadow of the selected object to the right.
+
+NudgeShadowUp.title=Nudge Shadow Up
+NudgeShadowUp.content=Move the shadow of the selected object up.
+
+Numbering.title=Numbering
+Numbering.content=Start a numbered list.\n\nClick the arrow to select different numbering formats.
+
+Numbering2.title=Bullets
+Numbering2.content=Click the arrow to select different numbering formats.
+
+ObjectSelect.title=Selection Pane
+ObjectSelect.content=Show the Selection Pane task window to easily find a single object or set its order and visibility.
+ObjectSelect.img=WPSObjectSelect
+
+OnePage.title=One Page
+OnePage.content=Zoom the document so that an entire page fits in the window.
+
+OpenDataSource.title=Open Data Source
+OpenDataSource.content="Open data soucres in the local folder, such as spreadsheet files, database files and text files."
+
+OpenDataSource2.title=Open Data Source
+OpenDataSource2.content=Click here to open or close Data Source files.
+
+OutLine.title=Outline View
+OutLine.content=View the document as an outline.
+
+OutLineLevelComboOnOutlining.title=Outline Level
+OutLineLevelComboOnOutlining.content=Set an outline level for the selected paragraph.
+
+PageLayoutDetailedSettings.title=PageLayoutDetailedSettings Title
+PageLayoutDetailedSettings.content=PageLayoutDetailedSettings Content
+
+PageNumber.title=Insert Page Number
+PageNumber.content="Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document."
+
+PageNumberFormat.title=Page Number Format
+PageNumberFormat.content=Select number formats for page numbers in the current document.
+
+PageNumberStart.title=Page Number Start
+PageNumberStart.content=Set a page number for the current page. This becomes available when Page Number Start at is enabled.
+
+PageOrientation.title=Page Orientation
+PageOrientation.content=Switch the pages between portrait and landscape layouts.
+
+PageSetup.title=Page Setup
+PageSetup.content=Show the Page Setup dialog box.
+PageSetup.img=WPSPageSetup
+
+PageWidth.title=Page Width
+PageWidth.content=Zoom the document so that the width of the page matches the width of the window.
+
+ParagraphDetailedSettings.title=ParagraphDetailedSettings Title
+ParagraphDetailedSettings.content=ParagraphDetailedSettings Content
+
+PhoneticGuide.title=Phonetic Guide
+PhoneticGuide.content="Display phonetic characters to clarify the pronunciation.\n\nClick the arrow to choose Change Case, Enclose Characters, or Character Border options."
+
+PhoneticGuide2.title=Other Options
+PhoneticGuide2.content="Click the arrow to choose Phonetic Guide, Change Case, Enclose Characters or Character Border options."
+
+PictureAdjust.title=Adjust Picture
+PictureAdjust.content=Increase or decrease the contrast and brightness of the selected picture.
+
+PictureColor.title=Color
+PictureColor.content="Change the color of the selected picture to give it a black and white, washout or transparent color."
+
+PictureCrop.title=Crop
+PictureCrop.content=Crop the picture to remove any unwanted parts.
+
+PictureFill.title=Picture Fill
+PictureFill.content="Fill the selected object with a color, gradient, pattern and picture.\n\nClick the arrow to select different fill effects."
+
+PictureFill2.title=Picture Fill
+PictureFill2.content=Click the arrow to select different fill modes.
+
+PictureOutline.title=Picture Outline
+PictureOutline.content="Set picture outline color,outline width and outline style for the selected object.\n\nClick the arrow to select detailed settings for the outline."
+
+PictureOutline2.title=Picture Outline
+PictureOutline2.content=Click the arrow to select detailed settings for the outline.
+
+PictureSetTransparentColor.title=Set Transparent Color
+PictureSetTransparentColor.content="Make a color in the current picture transparent.\n\nWhen you click a pixel in the current graphic, all pixels of that specific color become transparent."
+
+PictureSize.title=Picture Size
+PictureSize.content="Change the size, rotation degree and zoom scale of the selected shape."
+
+PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
+PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+
+PreviousChange.title=Previous Change
+PreviousChange.content=Navigate to the previous revision in the document so that you can accept or reject it.
+
+PreviousComment.title=Previous Comment
+PreviousComment.content=Navigate to the previous comment in the document.
+
+PreviousHeader.title=Show Previous
+PreviousHeader.content=Navigate to the previous section's header or footer based on the current cursor position.
+
+PreviousRecord.title=Previous Record
+PreviousRecord.content=Preview the previous record in the recipient list.
+
+PreviousSection.title=Previous Section
+PreviousSection.content=Go to the previous section.
+
+PreviousTextBox.title=Previous Text Box
+PreviousTextBox.content=Navigate to the previous text box that is linked to the selected text box.
+
+Print.title=Print
+Print.content="Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom."
+
+Print2.title=Print
+Print2.content="Click here to set details of printing, or use default settings to print directly."
+
+PrintDirect.title=Print Directly
+PrintDirect.content=Send the document directly to the default printer without making changes.
+
+PrintLayoutView.title=Print Layout
+PrintLayoutView.content=View the document as it will appear on the printed page.
+
+PrintPreview.title=Print Preview
+PrintPreview.content=Preview and make changes to pages before printing.
+
+PrintPreviewZoomCombo.title=Zoom
+PrintPreviewZoomCombo.content=Select the zoom size of the current document.
+
+PrintShowViewRuler.title=Ruler
+PrintShowViewRuler.content="Show or hide the rulers, used to measure and line up objects in the document."
+
+PromoteOnOutlining.title=Promote
+PromoteOnOutlining.content=Promote the selected item to a higher level.
+
+PromoteOnParagraph.title=Promote TOC Level
+PromoteOnParagraph.content=Promote the selected paragraph to a higher TOC level.
+
+PromoteToHighestLevelOnOutlining.title=Promote to Level 1
+PromoteToHighestLevelOnOutlining.content=Promote this item to the highest level of the outline.
+
+PromoteToHighestLevelOnParagraph.title=Promote to Level 1
+PromoteToHighestLevelOnParagraph.content=Promote this item to the highest level of the TOC.
+
+RB_Clipboard.title=Clipboard
+RB_Clipboard.content=View items on Clipboard.
+RB_Clipboard.img=WPSClipboard
+
+RB_Font.title=Font
+RB_Font.content=Show the Font dialog box.
+RB_Font.img=WPSFont
+
+RB_Paragraph.title=Paragraph
+RB_Paragraph.content=Show the Paragraph dialog box.
+RB_Paragraph.img=WPSParagraph
+
+RB_Style.title=Styles and Formatting
+RB_Style.content=Show the Styles and Formatting task window.
+RB_Style.img=WPSStyle
+
+RbTableOutsideBorder.title=Outside Borders
+RbTableOutsideBorder.content=Customize the borders of the selected cells or text.
+
+RbTableOutsideBorder2.title=Outside Borders
+RbTableOutsideBorder2.content=Click the arrow to select different borders.
+
+RecentFastCalc.title=Fast Calculation
+RecentFastCalc.content="Execute sum, average, maximum or minimum value calculations for the selected row or column data.\n\nResults will be displayed in a cell following the selected cells in the same row or column. If there is no cell after that, a new row or column will be created."
+
+RecentFontColor.title=Text Color
+RecentFontColor.content=Change the text color.\n\nClick the arrow to select a different text color.
+
+RecentFontColor2.title=Text Color
+RecentFontColor2.content=Click the arrow to select a different text color.
+
+RecentTableShadingColor.title=Shading Color
+RecentTableShadingColor.content=Color the background behind the selected text or paragraph.\n\nClick the arrow to select different background colors.
+
+RecentTableShadingColor2.title=Shading Color
+RecentTableShadingColor2.content=Click the arrow to select different background colors.
+
+RecordMacro.title=Record Macro
+RecordMacro.content=Show Record Macro dialog box and start recording macro.
+
+ReducedStep.title=Reduce Line Spacing
+ReducedStep.content=Reduce the line spacing of the selected paragraph by 0.25.
+
+RejectChangeOnTB.title=Reject the selected change
+RejectChangeOnTB.content=Reject the current change and delete the comment.
+
+RejectChangeOnTB2.title=Reject the selected change
+RejectChangeOnTB2.content=Click the arrow to reject all changes in the document.
+
+RejectRevisionOnTB.title=Reject Change
+RejectRevisionOnTB.content=Reject the selected change in the document
+
+RejectRevisionOnTB2.title=Reject Change
+RejectRevisionOnTB2.content=Click here to reject all changes in the document.
+
+RelocateDownOnOutlining.title=Move Down
+RelocateDownOnOutlining.content=Move the selected item down within the outline.
+
+RelocateUpOnOutlining.title=Move Up
+RelocateUpOnOutlining.content=Move the selected item up within the outline.
+
+Replace.title=Replace
+Replace.content=Replace text content in the document.
+
+ResetPicture.title=Reset Picture
+ResetPicture.content=Discard all of the formatting changes you have made to this picture.
+
+RestartPageNumber.title=Restart Page Numbering
+RestartPageNumber.content=Reset the starting page number of the current document.
+
+RestrictEditing.title=Restrict Editing
+RestrictEditing.content=Restrict how people edit or format specific parts of the document.\n\nYou can prevent formatting changes, force all changes to be tracked, or enable commenting.
+
+Ruler.title=Ruler
+Ruler.content="Show or hide the rulers, used to measure and line up objects in the document."
+
+RunMacro.title=View Macros
+RunMacro.content="Show Macros dialog box and view the list of macros, from which you can run, delete, or create a macro directly."
+
+SectionDetailedSettings.title=SectionDetailedSettings Title
+SectionDetailedSettings.content=SectionDetailedSettings Content
+
+Security.title=Macros Security
+Security.content=Customize the macro security settings.
+
+Select.title=Select
+Select.content=Select text or objects in the document.
+
+SendBackward.title=Send Backward
+SendBackward.content=Send the selected object backward so that it is hidden by the objects that are in fornt of it.
+
+SendBackward2.title=Send Backward
+SendBackward2.content=Send the selected object back one level or to the back of all objects.
+
+Separator.title=Show Footnote/Endnote Separator
+Separator.content="After inserting footnote/endnote, show or hide the footnote/endnote separator at the bottom of the document."
+
+ShadowColor.title=Shadow Color
+ShadowColor.content=Set the shadow color of the selected object.\n\nClick the arrow to select different shadow colors.
+
+ShadowColor2.title=Shadow Color
+ShadowColor2.content=Click the arrow to select different shadow colors.
+
+ShadowOnOff.title=Shadow On/Off
+ShadowOnOff.content=Turn on or off the shadow effect to the selected object.
+
+ShadowSetting.title=Shadow Effects
+ShadowSetting.content=Set shadow effect to the selected object.
+
+ShapeSize.title=Shape Size
+ShapeSize.content="Set the size, rotation degrees and zoom for the selected shape."
+
+Shapes.title=Shapes
+Shapes.content="Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts."
+
+ShowDocumentMap.title=Document Map
+ShowDocumentMap.content=Show or hide the Document Map pane.
+
+ShowDocumentMap2.title=Document Map
+ShowDocumentMap2.content=Click here to choose which position to display the Document Map pane.
+
+ShowFirstLineOnly.title=Show First Line Only
+ShowFirstLineOnly.content=Show only the first line of each item in the outline.
+
+ShowFirstPageNumber.title=Show First Page Number
+ShowFirstPageNumber.content=Show or hide the page number on the first page of the document.
+
+ShowFormatting.title=Show Text Formatting
+ShowFormatting.content=Show or hide all the text formatting in the outline.
+
+ShowGridlines.title=View Table Gridlines
+ShowGridlines.content=Show or hide the gridlines within the table that has no borders.
+
+ShowHeaderOrFooter.title=Switch between Header and Footer
+ShowHeaderOrFooter.content=Switch between the header and the footer of the current page in the document.
+
+ShowHideFormattingMarks.title=Show/Hide Editing Marks
+ShowHideFormattingMarks.content=Show all formatting symbols in the document.
+
+ShowHideTextOctopus.title=Show/Hide Paragraph Layout
+ShowHideTextOctopus.content=Show or hide the Paragraph Layout button in the document.
+ShowHideTextOctopus.img=WPSShowHideTextOctopus
+
+ShowLevelOnOutlining.title=Show Level
+ShowLevelOnOutlining.content=Choose which levels to show in the outline.\n\nThe selected level and all higher levels will be visible.
+
+ShrinkFont.title=Shrink Font
+ShrinkFont.content=Decrease the font size.
+
+SimplifiedChinese.title=Simplified
+SimplifiedChinese.content=Convert the document to Simplified Chinese.
+
+SplitCells.title=Split Cells
+SplitCells.content=Split the selected cells into multiple new cells.
+
+SplitSection.title=Split Section
+SplitSection.content=Insert the next section break into the document.
+
+SplitSection2.title=Split Section
+SplitSection2.content=Click here to choose section break types.
+
+SplitTable.title=Split Table
+SplitTable.content=Split the table into two tables according to rows or columns.
+
+SplitWindow.title=Split Window
+SplitWindow.content="Split the Window into two parts, up and down, In order to view the different parts of the same document at the same time."
+
+SplitWindow2.title=Split Window
+SplitWindow2.content="Click the button to choose horizontal split or vertical split the current window."
+
+StopAutoVersion.title=Stop Auto Backup
+StopAutoVersion.content=Stop the auto backup of the current document.
+
+StopRecordMacro.title=Stop Recording
+StopRecordMacro.content=Stop recording the macro.
+
+Strikethought.title=Strikethrough
+Strikethought.content=Draw a line through the middle of the selected text.\n\nClick the arrow to add an emphasis mark.
+
+Strikethought2.title=Other Options
+Strikethought2.content=Click the arrow to add a strikethrough or an emphasis mark.
+
+Subscript.title=Subscript
+Subscript.content=Create small letters below the text baseline.
+
+Superscript.title=Superscript
+Superscript.content=Create small letters above the line of text.
+
+Superscript2.title=Other Options
+Superscript2.content=Click the arrow to select Superscript or Subscript.
+
+SwitchWindow.title=Switch Windows
+SwitchWindow.content=Switch to a different currently open window.
+
+Table.title=Table
+Table.content="Insert or draw a table into the document, and convert text to table or vice versa."
+
+TableAutoAdjust.title=AutoFit
+TableAutoAdjust.content=Automatically resize the row and column widths within the table.
+
+TableBorderColor.title=Border Color
+TableBorderColor.content=Set a border color for the selected table.\n\nClick the arrow to select different border colors.
+
+TableBorderColor2.title=Border Color
+TableBorderColor2.content=Click the arrow to select different border colors.
+
+TableBorderStyle.title=Line Style
+TableBorderStyle.content=Change the style of the line used to draw borders.
+
+TableBorderWidth.title=Line Weight
+TableBorderWidth.content=Change the width of the line used to draw borders.
+
+TableContents.title=Table of Contents
+TableContents.content=Add a Table of Contents to the document before the body text.
+
+TableEraser.title=Table Eraser
+TableEraser.content=Erase the borders of a table in the document.
+
+TableProperties.title=Table Properties
+TableProperties.content="Change advanced table properties, such as wrapping style, indentations and allowing rows to break across pages."
+TableProperties.img=WPSTableProperties
+
+TableSelectMenu.title=Select Table
+TableSelectMenu.content="Select the current cell, row, column, or entire table, and select tables with dashed borders."
+
+TableShadingColor.title=Shading
+TableShadingColor.content=Color the background behind the selected text or paragraph.\n\nClick the arrow to select different shading colors.
+
+TableShadingColor2.title=Shading
+TableShadingColor2.content=Click the arrow to select different shading colors.
+
+Tabs.title=Tabs
+Tabs.content="Show the Tabs dialog box, and set tab stop position of the text."
+
+TaskPane.title=Task Window
+TaskPane.content=Show or hide task window in the document.
+
+TextBox.title=Draw Horizontal Text Box
+TextBox.content=Insert a horizontal text box into the document.
+
+TextBox2.title=Draw Text Box
+TextBox2.content="Click here to insert horizontal, vertical or multi-line text boxes."
+
+TextDirection.title=Text Direction
+TextDirection.content="Set either horizontal or vertical text orientation to the current section, entire document, selected text box or table."
+
+TightLineSpacing.title=Tight Line Spacing
+TightLineSpacing.content=Set 1.0 line spacing to selected paragraphs without Snap to Grid selected.
+
+TrackChanges.title=Track Changes
+TrackChanges.content="Track all changes made to the document, including insertions, deletions and formatting changes."
+
+TrackChanges2.title=Track Changes
+TrackChanges2.content="Click here to select revision markups or comment formatting, or to change reviewer information."
+
+TraditionalChinese.title=Traditional
+TraditionalChinese.content=Convert the document to Traditional Chinese.
+
+Underline.title=Underline
+Underline.content=Underline the selected text.\n\nClick the arrow to select different underlining styles.
+
+Underline2.title=Underline
+Underline2.content=Click the arrow to select different underlining styles.
+
+UpdateTocOnOutlining.title=Update Table of Contents
+UpdateTocOnOutlining.content=Update the Table of Contents so that all the entries refer to the correct page number.
+
+VerbSideBySide.title=Reset Window Position
+VerbSideBySide.content="Reset the window position of the documents being compared side-by-side so that they share the screen equally.\n\nTo enable this feature, turn on View Side by Side."
+
+ViewMergedData.title=View Merged Data
+ViewMergedData.content=Replaces the merge fields in your document with actual data from your recipient list so you can see what they looks like.
+
+ViewRuler.title=Ruler
+ViewRuler.content="View the rulers, used to measure and line up text and objects within the document."
+
+VisualBasicEditor.title=Visual Basic Editor
+VisualBasicEditor.content=Open Visual Basic editor to edit macros.
+
+WaterMark.title=Watermark
+WaterMark.content="Insert ghosted text and picture behind the content on the page.\n\nThis is often used to indicate that the document is to be treated specially, such as Encrypted, Confidential and Do not Copy, or to mark the document source such as the addition of copyright logos and author information."
+
+WebLayoutView.title=Web Layout
+WebLayoutView.content=View the document as it would look as a Web page.
+
+WordArtAlignment.title=WordArt Alignment
+WordArtAlignment.content=Specify how individual lines of a multi-line WordArt should be aligned.
+
+WordArtDetailedSettings.title=WordArtDetailedSettings Title
+WordArtDetailedSettings.content=WordArtDetailedSettings Content
+
+WordArtFill.title=WordArt Fill
+WordArtFill.content="Fill the selected WordArt with a solid color, gradient, texture or picture.\n\nClick the arrow to fill the WordArt in different ways."
+
+WordArtFill2.title=WordArt Fill
+WordArtFill2.content=Click the arrow to fill the WordArt in different ways.
+
+WordArtGallery.title=WordArt Gallery
+WordArtGallery.content=Change the style of the selected WordArt.
+
+WordArtOutline.title=WordArt Outline
+WordArtOutline.content="Set the color, width and line style for the outline of the selected WordArt.\n\nClick the arrow to select detailed settings for the outline."
+
+WordArtOutline2.title=WordArt Outline
+WordArtOutline2.content=Click the arrow to select more outline styles.
+
+WordArtSameLetterHeights.title=WordArt Same Letter Heights
+WordArtSameLetterHeights.content=Make all the letters of the selected WordArt exactly the same height.
+
+WordArtShapePalette.title=WordArt Shape
+WordArtShapePalette.content=Change the shape style of the selected WordArt.
+
+WordArtSize.title=WordArt Size
+WordArtSize.content="Set the size, rotation degree and scale of the selected WordArt."
+
+WordArtVerticalText.title=WordArt Vertical Text
+WordArtVerticalText.content="Draw the text vertically, with the letters stacked on top of each other."
+
+WordCount.title=Word Count
+WordCount.content="Count the number of pages, words, characters and paragraphs in the document."
+
+WordTools.title=Word Tools
+WordTools.content="Apply smart formatting to the document.\n\nApply smart formatting, such as \"delete spaces\", \"indent the first line of a paragraph by 2 characters\", and other specified options to the document."
+
+WorkSpace_Backup.title=WorkSpace_Backup Title
+WorkSpace_Backup.content=WorkSpace_Backup Content
+
+Zoom.title=Zoom
+Zoom.content=Show the Zoom dialog box to specify the zoom level of the document.
+
+m_Align.title=Align
+m_Align.content=Align the selected objects.
+
+m_Breaks.title=Insert Page and Section Breaks
+m_Breaks.content="Add page, section, or column breaks to the document."
+
+m_CharacterScaling.title=Character Scaling
+m_CharacterScaling.content=Set character scale of the selected content.
+
+m_ColumnsPalette.title=Columns
+m_ColumnsPalette.content=Split text into two or more columns.
+
+m_Group.title=Group
+m_Group.content=Group objects together so that they can be treated like a single object.
+
+m_LineNumber.title=Line Numbers
+m_LineNumber.content=Add line numbers in the margin alongside of each line of the document.
+
+m_LineSpacing.title=Line Spacing
+m_LineSpacing.content=Change the spacing between lines of text.
+
+m_Margins.title=Margins
+m_Margins.content=Select the margin sizes for the entire document or the current section.
+
+m_PageBorder.title=Page Borders
+m_PageBorder.content=Add or change the border around the page of the current section or the entire document.
+
+m_PageSize.title=Page Size
+m_PageSize.content=Choose a paper size for the current section or the entire document.
+
+m_Rotate.title=Rotate
+m_Rotate.content=Rotate or flip the selected object.
+
+m_ShowReviewer.title=Show Markup
+m_ShowReviewer.content=Choose what kind of markup to show in the document.
+
+m_Style.title=New Style
+m_Style.content="Show the New Style dialog box, and create a new style in the Styles and Formatting task window."
+
+m_Style2.title=New Style
+m_Style2.content="Click here to apply other options, such as clear formatting."
+
+m_Wrapping.title=Wrap Text
+m_Wrapping.content="Change the way text wraps around the selected object, such as square and behind text."
+
+m_tocLevel.title=TOC Level
+m_tocLevel.content=Set a TOC level for the selected paragraph.
+
+sp_DeleteComment.title=Delete Comment
+sp_DeleteComment.content=Delete the selected comment.
+
+sp_DeleteComment2.title=Delete Comment
+sp_DeleteComment2.content=Click here to delete all comments in the document.
+
+sp_Paste.title=Paste
+sp_Paste.content=Paste the contents of the Clipboard.
+
+sp_Paste2.title=Paste
+sp_Paste2.content=Click here for more options such as pasting only unformatted text.
+
+weibotool.title=Weibotool
+weibotool.content=Convert document to picture and share in Weibo.
+
+Protect_Eyes.title=Protect Eyes Mode
+Protect_Eyes.content=Open protect eyes mode, alleviate your eyes fatigue.
+
+Night_Mode.title=Night Mode Title
+Night_Mode.content=Open Night Mode, protect your eyes.
+
+Protect_Eyes_Night.title=Protect Eyes Mode/Night Mode
+Protect_Eyes_Night.content=Open/Close Protect Eyes Mode or Night Mode.

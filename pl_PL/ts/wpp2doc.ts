@@ -152,7 +152,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tłumacz do formatu WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>

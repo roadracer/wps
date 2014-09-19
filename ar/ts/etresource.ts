@@ -546,7 +546,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Group</source>
@@ -567,6 +567,10 @@
     <message>
         <source>Insert Picture</source>
         <translation>إدراج صورة</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -626,6 +630,10 @@
     </message>
     <message>
         <source>Nudge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1113,7 +1121,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1417,6 +1425,14 @@ Center</source>
         <translation>معالج المخططات</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Count</source>
         <translation>إحصاء</translation>
     </message>
@@ -1446,7 +1462,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -1494,7 +1510,7 @@ Center</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>لصق خاص</translation>
+        <translation type="obsolete">لصق خاص</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -1523,6 +1539,14 @@ Center</source>
     <message>
         <source>Send E-mail</source>
         <translation>إرسال بريد إلكتروني</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1567,6 +1591,10 @@ Center</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>
@@ -2027,6 +2055,10 @@ Center</source>
         <translation type="obsolete">لوحة الحافظة</translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2049,6 +2081,10 @@ Center</source>
     <message>
         <source>Connector Popup Menu</source>
         <translation type="obsolete">قائمة منبثقة للروابط</translation>
+    </message>
+    <message>
+        <source>Contents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2224,7 +2260,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -2237,6 +2273,10 @@ Center</source>
     <message>
         <source>GoogleDocs</source>
         <translation type="obsolete">محرر مستندات غوغل</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -2253,6 +2293,10 @@ Center</source>
     <message>
         <source>Hi Lo Line Popup Menu</source>
         <translation type="obsolete">قائمة منبثقة للخط المرتفع-المنخفض</translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -2303,6 +2347,10 @@ Center</source>
         <translation>وحدات الماكرو</translation>
     </message>
     <message>
+        <source>MailFeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Materials</source>
         <translation type="obsolete">مواد</translation>
     </message>
@@ -2329,6 +2377,10 @@ Center</source>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
         <translation>سجل عمل Excel-2007/2010 جديد</translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook(E)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Workbook</source>
@@ -2383,12 +2435,20 @@ Center</source>
         <translation>معاينة فواصل الصفحات</translation>
     </message>
     <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste</source>
         <translation>لصق</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2438,6 +2498,14 @@ Directly</source>
     <message>
         <source>Print Preview</source>
         <translation>معاينة الطباعة</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -2504,6 +2572,10 @@ Directly</source>
         <translation>حفظ باسم</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation type="obsolete">تحديد</translation>
     </message>
@@ -2525,10 +2597,6 @@ Directly</source>
     </message>
     <message>
         <source>Set Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape and Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2714,6 +2782,10 @@ Window</source>
         <translation>أدوات الرسم</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>ملف</translation>
     </message>
@@ -2875,7 +2947,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>تبديل واجهة المستخدم</translation>
+        <translation type="obsolete">تبديل واجهة المستخدم</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -2945,12 +3017,16 @@ Window</source>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="obsolete">صحيح</translation>
+        <translation type="unfinished">صحيح</translation>
     </message>
 </context>
 <context>
@@ -3000,6 +3076,10 @@ Window</source>
     <message>
         <source>Drawing Tools</source>
         <translation>أدوات الرسم</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -3155,7 +3235,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>تبديل واجهة المستخدم</translation>
+        <translation type="obsolete">تبديل واجهة المستخدم</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -3208,6 +3288,10 @@ Window</source>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>
@@ -3349,8 +3433,16 @@ Row</source>
         <translation type="obsolete">مسح</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>مسح الإطار</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -3446,7 +3538,7 @@ All</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="obsolete">تحديث الكل</translation>
+        <translation type="unfinished">تحديث الكل</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -3459,6 +3551,14 @@ All</source>
     <message>
         <source>Remove Duplicates</source>
         <translation>إزالة التكرارات</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
@@ -3579,6 +3679,10 @@ Properties</source>
     <message>
         <source>Control Toolbox</source>
         <translation>مربع أدوات التحكم</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -3829,6 +3933,10 @@ On</source>
     <message>
         <source>Center</source>
         <translation>توسيط</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -4786,6 +4894,10 @@ Center</source>
         <translation>لون التعبئة</translation>
     </message>
     <message>
+        <source>Fill Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Filter</source>
         <translation type="obsolete">ترشيح</translation>
     </message>
@@ -5000,7 +5112,7 @@ Center</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>لصق خاص</translation>
+        <translation type="obsolete">لصق خاص</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -5058,6 +5170,10 @@ Columns</source>
     <message>
         <source>Rows/Columns</source>
         <translation type="obsolete">صفوف/أعمدة</translation>
+    </message>
+    <message>
+        <source>RowsColumn</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -5271,7 +5387,7 @@ Properties</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Group</source>
@@ -5307,8 +5423,16 @@ Footer</source>
         <translation>رسوم توضيحية</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>إدراج كليب فني</translation>
+        <translation type="obsolete">إدراج كليب فني</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
@@ -5329,6 +5453,10 @@ Footer</source>
     <message>
         <source>Object</source>
         <translation>كائن</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -5939,7 +6067,7 @@ Pictures</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -5954,8 +6082,16 @@ Pictures</source>
         <translation>إدراج</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>إدراج كليب فني</translation>
+        <translation type="obsolete">إدراج كليب فني</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -6027,6 +6163,10 @@ Pictures</source>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7715,6 +7855,11 @@ Spacing</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt
 Gallery</source>
         <translation type="unfinished"></translation>
@@ -7769,10 +7914,6 @@ Shape</source>
         <source>WordArt Vertical Text</source>
         <translation type="obsolete">نص عمودي في WordArt</translation>
     </message>
-    <message>
-        <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_wordart.WordArtCharacterSpacing</name>
@@ -7792,11 +7933,23 @@ Shape</source>
         <translation type="obsolete">إصدار تلقائي</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7810,6 +7963,14 @@ Shape</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">استكشاف الإصدار</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ExportToPDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Auto backup</source>
@@ -7836,12 +7997,32 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Cloud Feedback</source>
         <translation type="obsolete">تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Cloud Information</source>
         <translation type="obsolete">معلومات سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -7856,6 +8037,10 @@ Shape</source>
         <translation type="obsolete">فتح ملف من سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="obsolete">حفظ الملف إلى سحابة KOS</translation>
     </message>
@@ -7866,6 +8051,10 @@ Shape</source>
     <message>
         <source>KOS User Cloud Tip</source>
         <translation type="obsolete">تلميحات سحابة المستخدم في KOS</translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -7880,6 +8069,10 @@ Shape</source>
         <translation type="obsolete">معلومات تسجيل المستخدم لـ KOS</translation>
     </message>
     <message>
+        <source>KOS User PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Login</source>
         <translation type="obsolete">تسجيل الدخول</translation>
     </message>
@@ -7892,7 +8085,15 @@ Shape</source>
         <translation type="obsolete">علامة الإصدار</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Online Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7900,7 +8101,31 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8072,6 +8297,10 @@ Add-Ins</source>
         <translation type="obsolete">تغيير النقاط</translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>تغيير الإصدار</translation>
     </message>
@@ -8116,6 +8345,10 @@ Add-Ins</source>
         <translation>مسح المحتويات</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>مسح الإطار</translation>
     </message>
@@ -8128,6 +8361,10 @@ Add-Ins</source>
         <translation type="obsolete">مسح مساحة الطباعة</translation>
     </message>
     <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8137,7 +8374,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>إغلاق</translation>
+        <translation type="obsolete">إغلاق</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -8178,7 +8415,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation>محتويات</translation>
+        <translation type="obsolete">محتويات</translation>
     </message>
     <message>
         <source>Control Menu</source>
@@ -8389,6 +8626,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fill Series</source>
+        <comment>Fill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill Weekdays</source>
         <translation>تعبئة أيام الأسبوع</translation>
     </message>
@@ -8550,11 +8792,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Goal Seek</source>
         <translation>البحث عن الهدف</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -8617,7 +8863,7 @@ Add-Ins</source>
         <translation>إدراج</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8638,6 +8884,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8729,6 +8979,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Historical Records</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8762,6 +9016,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Object Menu List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8806,7 +9064,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>إعداد الصفحة</translation>
+        <translation type="obsolete">إعداد الصفحة</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -8822,7 +9080,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>لصق خاص</translation>
+        <translation type="obsolete">لصق خاص</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -8891,6 +9149,10 @@ Add-Ins</source>
     <message>
         <source>Purchase Serial Number</source>
         <translation>شراء رقم تسلسلي</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -9001,12 +9263,25 @@ Add-Ins</source>
         <translation>سلاسل</translation>
     </message>
     <message>
+        <source>Series</source>
+        <comment>PopupFillSeries</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set AutoShape Defaults</source>
         <translation>تعيين افتراضات الشكل التلقائي</translation>
     </message>
     <message>
+        <source>Set Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Display Area</source>
         <translation>تعيين منطقة العرض</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -9015,6 +9290,10 @@ Add-Ins</source>
     <message>
         <source>Set Print Region</source>
         <translation type="obsolete">تعيين مساحة الطباعة</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
@@ -9077,8 +9356,16 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Start Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">إيقاف الإصدار التلقائي</translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -9236,6 +9523,10 @@ Add-Ins</source>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>
     </message>
@@ -9362,8 +9653,16 @@ Chart Type</source>
         <translation type="obsolete">مسح</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>مسح الإطار</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -9462,6 +9761,14 @@ OLE DB Query</source>
     <message>
         <source>Remove Duplicates</source>
         <translation>إزالة التكرارات</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9575,6 +9882,10 @@ OLE DB Query</source>
     <message>
         <source>Control Toolbox</source>
         <translation>مربع أدوات التحكم</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -9803,6 +10114,10 @@ AddIns</source>
     <message>
         <source>Bring to Front</source>
         <translation>إحضار إلى المقدمة</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dash</source>
@@ -10610,7 +10925,7 @@ Trig</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation>محتويات</translation>
+        <translation type="obsolete">محتويات</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -10707,6 +11022,10 @@ Trig</source>
     <message>
         <source>Fill Color</source>
         <translation>لون التعبئة</translation>
+    </message>
+    <message>
+        <source>Fill Series</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter</source>
@@ -10904,7 +11223,7 @@ Center</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>لصق خاص</translation>
+        <translation type="obsolete">لصق خاص</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -11153,7 +11472,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -11180,8 +11499,16 @@ Center</source>
         <translation>رسوم توضيحية</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>إدراج كليب فني</translation>
+        <translation type="obsolete">إدراج كليب فني</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
@@ -11202,6 +11529,10 @@ Center</source>
     <message>
         <source>Object</source>
         <translation>كائن</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -11639,7 +11970,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>معرض رسوم</translation>
+        <translation type="obsolete">معرض رسوم</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -11654,8 +11985,16 @@ Center</source>
         <translation>إدراج</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>إدراج كليب فني</translation>
+        <translation type="obsolete">إدراج كليب فني</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11727,6 +12066,10 @@ Center</source>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13182,6 +13525,11 @@ Color</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
         <translation>محاذاة WordArt</translation>
     </message>
@@ -13221,10 +13569,6 @@ Color</source>
         <source>WordArt Vertical Text</source>
         <translation>نص عمودي في WordArt</translation>
     </message>
-    <message>
-        <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_wordart.WordArtCharacterSpacing</name>
@@ -13244,11 +13588,23 @@ Color</source>
         <translation type="obsolete">إصدار تلقائي</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13262,6 +13618,10 @@ Color</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">استكشاف الإصدار</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Auto backup</source>
@@ -13284,12 +13644,32 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Cloud Feedback</source>
         <translation type="obsolete">تعليقات المستخدمين من سحابة KOS</translation>
     </message>
     <message>
         <source>KOS Cloud Information</source>
         <translation type="obsolete">معلومات سحابة KOS</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -13304,6 +13684,10 @@ Color</source>
         <translation type="obsolete">فتح ملف من سحابة KOS</translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="obsolete">حفظ الملف إلى سحابة KOS</translation>
     </message>
@@ -13314,6 +13698,10 @@ Color</source>
     <message>
         <source>KOS User Cloud Tip</source>
         <translation type="obsolete">تلميحات سحابة المستخدم في KOS</translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -13340,7 +13728,15 @@ Color</source>
         <translation type="obsolete">علامة الإصدار</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Online Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13348,11 +13744,39 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16382,11 +16806,23 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16406,7 +16842,19 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">استكشاف الإصدار</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16450,11 +16898,43 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">علامة الإصدار</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16466,8 +16946,16 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Start Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">إيقاف الإصدار التلقائي</translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>

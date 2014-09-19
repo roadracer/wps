@@ -37,13 +37,13 @@
         <translation>快捷键(&amp;K):</translation>
     </message>
     <message>
+        <source>The shortcut key must be a letter.</source>
+        <translation type="obsolete">快捷键必须是英文字母。</translation>
+    </message>
+    <message>
         <source>Shortcut key must be a letter.</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
         <translation type="unfinished">快捷键必须是英文字母。</translation>
-    </message>
-    <message>
-        <source>The shortcut key must be a letter.</source>
-        <translation type="obsolete">快捷键必须是英文字母。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -171,10 +171,6 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
         <translation>宏可能会携带病毒。禁用宏虽然通常可以确保安全，但如果这些宏本身是安全的，则又会损失某些功能。</translation>
     </message>
     <message>
-        <source>Macros may contain viruses. It is usually safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
-        <translation type="obsolete">宏可能会携带病毒。禁用宏虽然通常可以确保安全，但如果这些宏本身是安全的，则又会损失某些功能。</translation>
-    </message>
-    <message>
         <source>Security Warning</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
         <translation>安全警告</translation>
@@ -183,6 +179,10 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
         <source>The file you would like to open contains macros.</source>
         <extracomment>Unknown position</extracomment>
         <translation>您要打开的文档中包含宏。</translation>
+    </message>
+    <message>
+        <source>Macros may contain viruses. It is usually safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
+        <translation type="obsolete">宏可能会携带病毒。禁用宏虽然通常可以确保安全，但如果这些宏本身是安全的，则又会损失某些功能。</translation>
     </message>
 </context>
 <context>

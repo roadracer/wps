@@ -557,10 +557,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -591,6 +587,10 @@
     <message>
         <source>Insert WordArt</source>
         <translation>Vložiť WordArt</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -654,6 +654,10 @@
     </message>
     <message>
         <source>Nudge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1108,7 +1112,7 @@
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Nastavenie strany</translation>
+        <translation type="obsolete">Nastavenie strany</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -1313,10 +1317,6 @@
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1608,10 +1608,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Google Docs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1654,10 +1650,6 @@
     <message>
         <source>Page Break</source>
         <translation>Zlom strany</translation>
-    </message>
-    <message>
-        <source>Paste Special</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1703,6 +1695,10 @@
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>Prepnúť UI</translation>
     </message>
@@ -1730,7 +1726,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cells@Table-&gt;Insert</source>
+        <source>Cells</source>
+        <comment>Table-&gt;Insert</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2088,11 +2085,13 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tight@Spacing</source>
+        <source>Tight</source>
+        <comment>Spacing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tight@Wrapping</source>
+        <source>Tight</source>
+        <comment>Wrapping</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2308,6 +2307,10 @@ Properties</source>
     </message>
     <message>
         <source>Control Toolbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2554,6 +2557,10 @@ On</source>
     </message>
     <message>
         <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2856,7 +2863,7 @@ Direction</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="obsolete">Zalomiť text</translation>
+        <translation type="unfinished">Zalomiť text</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -2896,10 +2903,7 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wrap Text@rainbow</source>
+        <comment>rainbow</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3145,6 +3149,14 @@ Time</source>
         <translation>Polia</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header Line Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3155,6 +3167,10 @@ Time</source>
     <message>
         <source>Header and Footer
 Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3538,10 +3554,6 @@ Style</source>
         <translation>Prilepiť</translation>
     </message>
     <message>
-        <source>Paste Special</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Phonetic Guide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3784,10 +3796,6 @@ Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Header and 
 Footer</source>
         <translation type="unfinished"></translation>
@@ -3829,6 +3837,10 @@ Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3854,6 +3866,10 @@ Footer</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4309,11 +4325,6 @@ Borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Page
-Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page 
 Break</source>
         <translation type="unfinished"></translation>
@@ -4332,7 +4343,7 @@ Break</source>
     </message>
     <message>
         <source>Page Color</source>
-        <translation type="obsolete">Farba strany</translation>
+        <translation type="unfinished">Farba strany</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4584,7 +4595,7 @@ Direction</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Nastavenie strany</translation>
+        <translation type="obsolete">Nastavenie strany</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -4827,7 +4838,11 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4863,17 +4878,16 @@ Pictures</source>
         <translation>Vložiť</translation>
     </message>
     <message>
-        <source>Insert
-Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>Vložiť obrázok</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4937,6 +4951,10 @@ Picture</source>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5168,7 +5186,8 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wrap Text@rainbow</source>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5390,6 +5409,10 @@ vysvetlivku</translation>
     <message>
         <source>Comments</source>
         <translation>Komentáre</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -7370,11 +7393,13 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tight@Spacing</source>
+        <source>Tight</source>
+        <comment>Spacing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tight@Wrapping</source>
+        <source>Tight</source>
+        <comment>Wrapping</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7426,6 +7451,11 @@ Spacing</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt
 Gallery</source>
         <translation type="unfinished"></translation>
@@ -7445,20 +7475,21 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Wrap Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wrap Text@rainbow</source>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_workspace</name>
+    <message>
+        <source>Change Accout</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Cloud Link</source>
         <translation type="unfinished"></translation>
@@ -7473,6 +7504,10 @@ Shape</source>
     </message>
     <message>
         <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7496,7 +7531,19 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Laboratory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7512,7 +7559,19 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7529,6 +7588,10 @@ Shape</source>
     </message>
     <message>
         <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7549,6 +7612,10 @@ Shape</source>
     </message>
     <message>
         <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7700,6 +7767,10 @@ Add-Ins</source>
         <translation>Zmeniť obrázok</translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7729,7 +7800,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zatvoriť</translation>
+        <translation type="obsolete">Zatvoriť</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -7777,10 +7848,6 @@ Add-Ins</source>
     </message>
     <message>
         <source>Compared Side by Side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8081,10 +8148,6 @@ Diagonal Line in Cell</source>
         <translation>Zobrazenie na celú obrazovku</translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Genko Setting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8097,12 +8160,21 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gridlines</source>
         <translation>Vodiace čiary</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <comment>Table</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Group</source>
@@ -8182,6 +8254,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8293,6 +8369,10 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8354,7 +8434,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Nastavenie strany</translation>
+        <translation type="obsolete">Nastavenie strany</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -8661,10 +8741,6 @@ Diagonal Line in Cell</source>
         <translation>Tabuľka</translation>
     </message>
     <message>
-        <source>Table Gridlines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Table Properties</source>
         <translation>Vlastnosti tabuľky</translation>
     </message>
@@ -8829,6 +8905,10 @@ Diagonal Line in Cell</source>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>Prepnúť UI</translation>
@@ -9000,6 +9080,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Control Toolbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9211,6 +9295,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9514,7 +9602,8 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wrap Text@rainbow</source>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9757,6 +9846,14 @@ Diagonal Line in Cell</source>
     <message>
         <source>Fields</source>
         <translation>Polia</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -10112,10 +10209,6 @@ Header and Footer</source>
         <translation>Prilepiť</translation>
     </message>
     <message>
-        <source>Paste Special</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Phonetic Guide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10358,10 +10451,6 @@ Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10402,6 +10491,10 @@ Header and Footer</source>
         <translation>Vložiť WordArt</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10427,6 +10520,10 @@ Header and Footer</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11102,7 +11199,7 @@ Text</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Nastavenie strany</translation>
+        <translation type="obsolete">Nastavenie strany</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -11316,7 +11413,11 @@ Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11358,6 +11459,10 @@ Text</source>
     <message>
         <source>Insert Picture</source>
         <translation>Vložiť obrázok</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11421,6 +11526,10 @@ Text</source>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11644,7 +11753,8 @@ Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wrap Text@rainbow</source>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11837,7 +11947,7 @@ vysvetlivku</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Accept Selected Change</source>
+        <source>Accept Selection Change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11869,6 +11979,10 @@ vysvetlivku</translation>
         <translation>Komentáre</translation>
     </message>
     <message>
+        <source>Compare</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11889,7 +12003,8 @@ vysvetlivku</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete Comment@Review-&gt;Delete-&gt;Delete Comment</source>
+        <source>Delete Comment</source>
+        <comment>Review-&gt;Delete-&gt;Delete Comment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13659,11 +13774,13 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tight@Spacing</source>
+        <source>Tight</source>
+        <comment>Spacing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tight@Wrapping</source>
+        <source>Tight</source>
+        <comment>Wrapping</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13711,6 +13828,11 @@ Effects</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13743,20 +13865,21 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt@Insert</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Wrap Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wrap Text@rainbow</source>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
+    <message>
+        <source>Change Accout</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Cloud Link</source>
         <translation type="unfinished"></translation>
@@ -13771,6 +13894,10 @@ Effects</source>
     </message>
     <message>
         <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13790,7 +13917,19 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Laboratory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13806,7 +13945,19 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13823,6 +13974,10 @@ Effects</source>
     </message>
     <message>
         <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13847,6 +14002,10 @@ Effects</source>
     </message>
     <message>
         <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15321,11 +15480,23 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15378,6 +15549,10 @@ Effects</source>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15602,11 +15777,23 @@ Effects</source>
         <translation>Schránka</translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Collapse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Column StatusBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compare</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15618,8 +15805,16 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy</source>
         <translation>Kopírovať</translation>
+    </message>
+    <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve</source>
@@ -15642,6 +15837,10 @@ Effects</source>
         <translation>Vystrihnúť</translation>
     </message>
     <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Decrease Indent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15655,6 +15854,10 @@ Effects</source>
     </message>
     <message>
         <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Collaboration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15714,11 +15917,11 @@ Effects</source>
         <translation>Zobrazenie na celú obrazovku</translation>
     </message>
     <message>
-        <source>Gallery</source>
+        <source>Go To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Go To</source>
+        <source>Grab Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15731,6 +15934,10 @@ Effects</source>
     </message>
     <message>
         <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15772,6 +15979,10 @@ Effects</source>
     <message>
         <source>Macros</source>
         <translation>Makrá</translation>
+    </message>
+    <message>
+        <source>MailFeedBack</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -15875,8 +16086,16 @@ Break</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste</source>
         <translation>Prilepiť</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print</source>
@@ -15901,6 +16120,14 @@ Directly</source>
     </message>
     <message>
         <source>Promote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15940,6 +16167,10 @@ Directly</source>
         <translation>Uložiť ako</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15968,15 +16199,15 @@ Directly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shapes and Material</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show Header Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shrink Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speak</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16001,6 +16232,10 @@ Directly</source>
     </message>
     <message>
         <source>Split Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16108,6 +16343,10 @@ Directly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Online Template</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16174,6 +16413,10 @@ Directly</source>
     </message>
     <message>
         <source>Drawing Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16330,7 +16573,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Prepnúť UI</translation>
+        <translation type="obsolete">Prepnúť UI</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -16372,8 +16615,16 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>Prepnúť UI</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16410,6 +16661,10 @@ Directly</source>
     </message>
     <message>
         <source>Drawing Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16546,7 +16801,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Prepnúť UI</translation>
+        <translation type="obsolete">Prepnúť UI</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -16588,12 +16843,16 @@ Directly</source>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>OK</source>
+        <source>Professional Switch UI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
         <translation>Prepnúť UI</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

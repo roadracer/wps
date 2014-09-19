@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -595,6 +595,10 @@
     <message>
         <source>Insert WordArt</source>
         <translation>插入艺术字</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Line</source>
@@ -651,6 +655,10 @@
     <message>
         <source>Nudge</source>
         <translation>微移</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1187,7 +1195,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1472,12 +1480,20 @@ Master</source>
 <context>
     <name>classics.standard</name>
     <message>
+        <source>Convert to Simplified Chinese</source>
+        <translation type="unfinished">转换为简体中文</translation>
+    </message>
+    <message>
+        <source>Convert to Traditional Chinese</source>
+        <translation type="unfinished">转换为繁体中文</translation>
+    </message>
+    <message>
         <source>Covert to Simplified Chinese</source>
-        <translation>转换为简体中文</translation>
+        <translation type="obsolete">转换为简体中文</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation>转换为繁体中文</translation>
+        <translation type="obsolete">转换为繁体中文</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -1509,7 +1525,7 @@ Master</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -1591,8 +1607,12 @@ Master</source>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch UI</source>
+        <source>Professional Switch UI</source>
         <translation>更改界面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <translation>皮肤</translation>
     </message>
     <message>
         <source>true</source>
@@ -2097,6 +2117,22 @@ Orientation</source>
         <source>Slide Orientation</source>
         <translation type="obsolete">幻灯片方向</translation>
     </message>
+    <message>
+        <source>Slide Size</source>
+        <translation type="obsolete">幻灯片大小</translation>
+    </message>
+    <message>
+        <source>Standard(4:3)</source>
+        <translation type="obsolete">标准(4:3)</translation>
+    </message>
+    <message>
+        <source>Widescreen(16:9)</source>
+        <translation type="obsolete">宽屏(16:9)</translation>
+    </message>
+    <message>
+        <source>import templates</source>
+        <translation>导入模板</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_designtable</name>
@@ -2206,6 +2242,10 @@ Properties</source>
     <message>
         <source>Controls List</source>
         <translation>控件列表</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>说明</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2451,7 +2491,7 @@ On</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -2459,7 +2499,7 @@ On</source>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <source>Center</source>
@@ -2471,7 +2511,11 @@ On</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished">更改形状</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -2659,7 +2703,7 @@ On</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>更多</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -2667,7 +2711,7 @@ On</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>更多项目符号</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2799,7 +2843,7 @@ On</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">底端对齐</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -2849,15 +2893,19 @@ On</source>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>其他编号</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>编号</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
+    <message>
+        <source>About Kingsoft Presentation</source>
+        <translation type="obsolete">关于 WPS 演示</translation>
+    </message>
     <message>
         <source>About WPS Presentation</source>
         <translation>关于 WPS 演示</translation>
@@ -2947,6 +2995,30 @@ On</source>
         <translation>帮助</translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="obsolete">WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="obsolete">WPS Office 主页</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office New features</source>
+        <translation type="obsolete">WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>Kingsoft Online</source>
+        <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation File</source>
+        <translation type="obsolete">WPS 演示 文件（*.dps）</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Template</source>
+        <translation type="obsolete">WPS 演示 模板文件（*.dpt）</translation>
+    </message>
+    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>PowerPoint 文件（*.ppt）</translation>
     </message>
@@ -2971,6 +3043,10 @@ On</source>
         <translation>新建</translation>
     </message>
     <message>
+        <source>New Document</source>
+        <translation>新建空白文档</translation>
+    </message>
+    <message>
         <source>New From Default Template</source>
         <translation type="obsolete">从默认模板新建</translation>
     </message>
@@ -2988,7 +3064,7 @@ On</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>从在线模板新建</translation>
+        <translation type="obsolete">从在线模板新建</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -3040,7 +3116,7 @@ On</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>购买序列号</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3129,6 +3205,10 @@ On</source>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
+    <message>
+        <source>Kingsoft Presentation Help</source>
+        <translation type="obsolete">WPS 演示 帮助</translation>
+    </message>
     <message>
         <source>WPS Presentation Help</source>
         <translation>WPS 演示 帮助</translation>
@@ -3238,6 +3318,11 @@ Effects</source>
         <translation>靠下对齐</translation>
     </message>
     <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation type="unfinished">底端对齐</translation>
+    </message>
+    <message>
         <source>Align Center</source>
         <translation>水平居中</translation>
     </message>
@@ -3336,6 +3421,10 @@ Effects</source>
     <message>
         <source>Bullets</source>
         <translation>项目符号</translation>
+    </message>
+    <message>
+        <source>CellphoneControl</source>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Center</source>
@@ -3569,6 +3658,10 @@ Slide</source>
         <translation>插入图片</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation>倾斜</translation>
     </message>
@@ -3587,6 +3680,10 @@ Slide</source>
     <message>
         <source>Line Spacing</source>
         <translation>行距</translation>
+    </message>
+    <message>
+        <source>Local Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -3641,6 +3738,10 @@ Slide</source>
         <translation>新建幻灯片</translation>
     </message>
     <message>
+        <source>New Slide Online</source>
+        <translation>从幻灯片库新建</translation>
+    </message>
+    <message>
         <source>No 3-D</source>
         <translation>无三维效果</translation>
     </message>
@@ -3651,6 +3752,10 @@ Slide</source>
     <message>
         <source>Object Select</source>
         <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -3988,7 +4093,7 @@ Effects</source>
         <translation type="obsolete">动作</translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4030,7 +4135,7 @@ Music</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Header and 
@@ -4062,7 +4167,7 @@ Footer</source>
         <translation>图像</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4094,6 +4199,10 @@ Footer</source>
         <translation>插入艺术字</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>链接</translation>
     </message>
@@ -4112,6 +4221,10 @@ Footer</source>
     <message>
         <source>Object</source>
         <translation>对象</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Organization
@@ -4154,6 +4267,10 @@ Number</source>
     <message>
         <source>Slide Number</source>
         <translation type="obsolete">幻灯片编号</translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
+        <translation>幻灯片库</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -4344,23 +4461,23 @@ Number</source>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
@@ -4600,7 +4717,7 @@ Number</source>
         <translation>排列</translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4711,7 +4828,7 @@ Pictures</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -4742,12 +4859,16 @@ Pictures</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4812,6 +4933,10 @@ Pictures</source>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>略向上移</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -5170,12 +5295,20 @@ Order</source>
         <translation type="obsolete">简繁转换</translation>
     </message>
     <message>
+        <source>Convert to Simplified Chinese</source>
+        <translation type="unfinished">繁转简</translation>
+    </message>
+    <message>
+        <source>Convert to Traditional Chinese</source>
+        <translation type="unfinished">简转繁</translation>
+    </message>
+    <message>
         <source>Covert to Simplified Chinese</source>
-        <translation>繁转简</translation>
+        <translation type="obsolete">繁转简</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation>简转繁</translation>
+        <translation type="obsolete">简转繁</translation>
     </message>
     <message>
         <source>Delete 
@@ -5641,11 +5774,11 @@ Master</source>
     <message>
         <source>Save 
 Background Picture</source>
-        <translation>另存背景</translation>
+        <translation type="obsolete">另存背景</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="obsolete">另存背景</translation>
+        <translation type="unfinished">另存背景</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -5701,6 +5834,10 @@ Background Picture</source>
 </context>
 <context>
     <name>ongmani.ct_slideshow</name>
+    <message>
+        <source>CellphoneControl</source>
+        <translation>手机遥控</translation>
+    </message>
     <message>
         <source>Custom 
 Slide Shows</source>
@@ -6443,7 +6580,7 @@ On/Off</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>阴影颜色</translation>
+        <translation type="obsolete">阴影颜色</translation>
     </message>
     <message>
         <source>Shadow
@@ -6462,7 +6599,7 @@ Effects</source>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation type="unfinished">阴影颜色</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -7121,6 +7258,10 @@ Shape</source>
         <translation type="obsolete">开启自动备份</translation>
     </message>
     <message>
+        <source>CellphoneControl</source>
+        <translation>手机遥控</translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>轻地址</translation>
     </message>
@@ -7143,6 +7284,10 @@ Shape</source>
     <message>
         <source>Export as Image</source>
         <translation>输出为图片</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -7177,6 +7322,14 @@ Shape</source>
         <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>KOS Change login</source>
+        <translation>切换帐号</translation>
+    </message>
+    <message>
         <source>KOS Cloud feedback</source>
         <translation type="obsolete">用户反馈</translation>
     </message>
@@ -7187,6 +7340,10 @@ Shape</source>
     <message>
         <source>KOS Create Cloud Link</source>
         <translation type="obsolete">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation>商业授权</translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -7203,6 +7360,10 @@ Shape</source>
     <message>
         <source>KOS Open cloud file</source>
         <translation type="obsolete">从云文档打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation>充值稻米</translation>
     </message>
     <message>
         <source>KOS Roamingfile</source>
@@ -7237,6 +7398,10 @@ Shape</source>
         <translation type="obsolete">用户登录</translation>
     </message>
     <message>
+        <source>KOS logout</source>
+        <translation>注销</translation>
+    </message>
+    <message>
         <source>Laboratory</source>
         <translation>实验室</translation>
     </message>
@@ -7259,6 +7424,10 @@ Shape</source>
     <message>
         <source>Online Documents</source>
         <translation>在线文档</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Open From Cloud</source>
@@ -7297,12 +7466,24 @@ Shape</source>
         <translation>登录</translation>
     </message>
     <message>
+        <source>SlideLibrary</source>
+        <translation>幻灯片库</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation>特色功能</translation>
+    </message>
+    <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">关闭自动备份</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation>转为文字文档</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -7337,6 +7518,10 @@ Shape</source>
         <translation type="obsolete">网页版微博分享</translation>
     </message>
     <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
@@ -7350,6 +7535,10 @@ Shape</source>
     <message>
         <source>0 More Histories</source>
         <translation type="obsolete">更多历史记录</translation>
+    </message>
+    <message>
+        <source>About Kingsoft Presentation</source>
+        <translation type="obsolete">关于 WPS 演示</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
@@ -7381,7 +7570,12 @@ Shape</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>底端对齐</translation>
+        <translation type="obsolete">底端对齐</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation type="unfinished">底端对齐</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -7404,7 +7598,7 @@ Shape</source>
         <translation>箭头选项</translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7510,6 +7704,10 @@ Add-Ins</source>
         <translation type="obsolete">编辑顶点</translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation>更改形状</translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>切换版本</translation>
     </message>
@@ -7612,6 +7810,10 @@ Add-Ins</source>
     <message>
         <source>Data Chart</source>
         <translation type="obsolete">图表</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation type="obsolete">表格</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -7815,11 +8017,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Go to Slide</source>
         <translation>定位</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -7882,7 +8088,7 @@ Add-Ins</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7912,6 +8118,10 @@ Add-Ins</source>
     <message>
         <source>Insert Tab</source>
         <translation type="obsolete">插入制表位</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -7956,6 +8166,22 @@ Add-Ins</source>
     <message>
         <source>KOS View UserInfo</source>
         <translation type="obsolete">更改个人资料</translation>
+    </message>
+    <message>
+        <source>KOS logout</source>
+        <translation type="obsolete">注销帐号</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="obsolete">WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="obsolete">WPS Office 主页</translation>
+    </message>
+    <message>
+        <source>Kingsoft Online</source>
+        <translation type="obsolete">金山在线</translation>
     </message>
     <message>
         <source>KingsoftOffice_KSO</source>
@@ -8050,6 +8276,14 @@ Add-Ins</source>
         <translation>影片和声音</translation>
     </message>
     <message>
+        <source>New Blank Master</source>
+        <translation type="obsolete">新建幻灯片母版</translation>
+    </message>
+    <message>
+        <source>New Blank Slide</source>
+        <translation type="obsolete">新建空白幻灯片</translation>
+    </message>
+    <message>
         <source>New Comment</source>
         <translation>插入批注</translation>
     </message>
@@ -8064,6 +8298,14 @@ Master</source>
 母版</translation>
     </message>
     <message>
+        <source>New Slide From Library</source>
+        <translation type="obsolete">从幻灯片库新建</translation>
+    </message>
+    <message>
+        <source>New Slide From Online</source>
+        <translation>从幻灯片库新建</translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
         <translation>新幻灯片母版</translation>
     </message>
@@ -8074,6 +8316,10 @@ Master</source>
     <message>
         <source>New Window</source>
         <translation>新建窗口</translation>
+    </message>
+    <message>
+        <source>NewFromDuplicate</source>
+        <translation>新建幻灯片副本</translation>
     </message>
     <message>
         <source>Next</source>
@@ -8098,6 +8344,10 @@ Master</source>
     <message>
         <source>Object Menu List</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -8164,10 +8414,6 @@ Master</source>
         <translation>打包成文件夹</translation>
     </message>
     <message>
-        <source>Page Setup</source>
-        <translation>页面设置</translation>
-    </message>
-    <message>
         <source>Paste Special</source>
         <translation>选择性粘贴</translation>
     </message>
@@ -8225,7 +8471,7 @@ Master</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>购买序列号</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -8596,6 +8842,10 @@ Master</source>
         <translation type="obsolete">输出为图片</translation>
     </message>
     <message>
+        <source>import templates</source>
+        <translation>导入模板</translation>
+    </message>
+    <message>
         <source>login</source>
         <translation type="obsolete">登录</translation>
     </message>
@@ -8615,8 +8865,12 @@ Master</source>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch UI</source>
+        <source>Professional Switch UI</source>
         <translation>更改界面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <translation>皮肤</translation>
     </message>
     <message>
         <source>true</source>
@@ -8828,6 +9082,10 @@ Master</source>
         <translation>设计模板</translation>
     </message>
     <message>
+        <source>Edit Slide Master</source>
+        <translation>编辑母版</translation>
+    </message>
+    <message>
         <source>Landscape</source>
         <translation>横向</translation>
     </message>
@@ -8850,6 +9108,22 @@ Master</source>
     <message>
         <source>Slide Orientation</source>
         <translation>幻灯片方向</translation>
+    </message>
+    <message>
+        <source>Slide Size</source>
+        <translation type="obsolete">幻灯片大小</translation>
+    </message>
+    <message>
+        <source>Standard(4:3)</source>
+        <translation type="obsolete">标准(4:3)</translation>
+    </message>
+    <message>
+        <source>Widescreen(16:9)</source>
+        <translation type="obsolete">宽屏(16:9)</translation>
+    </message>
+    <message>
+        <source>import templates</source>
+        <translation>导入模板</translation>
     </message>
 </context>
 <context>
@@ -8945,6 +9219,10 @@ AddIns</source>
     <message>
         <source>Controls List</source>
         <translation>控件列表</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>说明</translation>
     </message>
     <message>
         <source>Image</source>
@@ -9124,6 +9402,10 @@ AddIns</source>
     <message>
         <source>Bring to Front</source>
         <translation>置于顶层</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>更改形状</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -9352,6 +9634,10 @@ AddIns</source>
 <context>
     <name>rainbow.ct_file</name>
     <message>
+        <source>About Kingsoft Presentation</source>
+        <translation type="obsolete">关于 WPS 演示</translation>
+    </message>
+    <message>
         <source>About WPS Presentation</source>
         <translation>关于 WPS 演示</translation>
     </message>
@@ -9440,6 +9726,30 @@ AddIns</source>
         <translation>帮助</translation>
     </message>
     <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="obsolete">WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="obsolete">WPS Office 主页</translation>
+    </message>
+    <message>
+        <source>Kingsoft Online</source>
+        <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation File</source>
+        <translation type="obsolete">WPS 演示 文件（*.dps）</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Help</source>
+        <translation type="obsolete">WPS 演示 帮助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Template</source>
+        <translation type="obsolete">WPS 演示 模板文件（*.dpt）</translation>
+    </message>
+    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>PowerPoint 文件（*.ppt）</translation>
     </message>
@@ -9458,6 +9768,10 @@ AddIns</source>
     <message>
         <source>New Blank Presentation</source>
         <translation>新建</translation>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation>新建空白文档</translation>
     </message>
     <message>
         <source>New From Templates</source>
@@ -9485,7 +9799,7 @@ AddIns</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>从在线模板新建</translation>
+        <translation type="obsolete">从在线模板新建</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -9533,7 +9847,7 @@ AddIns</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>购买序列号</translation>
     </message>
     <message>
         <source>Save</source>
@@ -9634,6 +9948,10 @@ AddIns</source>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
+    <message>
+        <source>Kingsoft Presentation Help</source>
+        <translation type="obsolete">WPS 演示 帮助</translation>
+    </message>
     <message>
         <source>WPS Presentation Help</source>
         <translation>WPS 演示 帮助</translation>
@@ -9742,6 +10060,11 @@ AddIns</source>
         <translation>靠下对齐</translation>
     </message>
     <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation type="unfinished">底端对齐</translation>
+    </message>
+    <message>
         <source>Align Center</source>
         <translation>水平居中</translation>
     </message>
@@ -9840,6 +10163,10 @@ AddIns</source>
     <message>
         <source>Bullets</source>
         <translation>项目符号</translation>
+    </message>
+    <message>
+        <source>CellphoneControl</source>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Center</source>
@@ -10005,7 +10332,7 @@ Slide</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -10050,6 +10377,10 @@ Slide</source>
     <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -10124,12 +10455,20 @@ Slide</source>
         <translation>新建幻灯片</translation>
     </message>
     <message>
+        <source>New Slide Online</source>
+        <translation>从幻灯片库新建</translation>
+    </message>
+    <message>
         <source>No 3-D</source>
         <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
         <translation>无阴影</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Package File</source>
@@ -10453,7 +10792,7 @@ Slide</source>
         <translation type="obsolete">动作</translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10486,7 +10825,7 @@ Slide</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -10513,7 +10852,7 @@ Slide</source>
         <translation>图像</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10545,6 +10884,10 @@ Slide</source>
         <translation>插入艺术字</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>链接</translation>
     </message>
@@ -10563,6 +10906,10 @@ Slide</source>
     <message>
         <source>Object</source>
         <translation>对象</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -10595,6 +10942,10 @@ Slide</source>
     <message>
         <source>Slide Number</source>
         <translation>幻灯片编号</translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
+        <translation>幻灯片库</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -11070,7 +11421,7 @@ Subordinate</source>
         <translation>排列</translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11175,7 +11526,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -11206,12 +11557,16 @@ Subordinate</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11276,6 +11631,10 @@ Subordinate</source>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>略向上移</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -11580,16 +11939,24 @@ Subordinate</source>
         <translation>简繁转换</translation>
     </message>
     <message>
+        <source>Convert to Simplified Chinese</source>
+        <translation type="unfinished">繁转简</translation>
+    </message>
+    <message>
+        <source>Convert to Traditional Chinese</source>
+        <translation type="unfinished">简转繁</translation>
+    </message>
+    <message>
         <source>Copy Comment</source>
         <translation type="obsolete">复制文字</translation>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
-        <translation>繁转简</translation>
+        <translation type="obsolete">繁转简</translation>
     </message>
     <message>
         <source>Covert to Traditional Chinese</source>
-        <translation>简转繁</translation>
+        <translation type="obsolete">简转繁</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11890,6 +12257,10 @@ Master</source>
 </context>
 <context>
     <name>rainbow.ct_slideshow</name>
+    <message>
+        <source>CellphoneControl</source>
+        <translation>手机遥控</translation>
+    </message>
     <message>
         <source>Custom Slide Shows</source>
         <translation>自定义放映</translation>
@@ -13029,6 +13400,10 @@ Effects</source>
         <translation type="obsolete">开启自动备份</translation>
     </message>
     <message>
+        <source>CellphoneControl</source>
+        <translation>手机遥控</translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>轻地址</translation>
     </message>
@@ -13055,6 +13430,10 @@ Effects</source>
     <message>
         <source>Export as Image</source>
         <translation>输出为图片</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -13085,6 +13464,14 @@ Effects</source>
         <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>KOS Change login</source>
+        <translation>切换帐号</translation>
+    </message>
+    <message>
         <source>KOS Cloud feedback</source>
         <translation type="obsolete">用户反馈</translation>
     </message>
@@ -13095,6 +13482,10 @@ Effects</source>
     <message>
         <source>KOS Create Cloud Link</source>
         <translation type="obsolete">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation>商业授权</translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -13111,6 +13502,10 @@ Effects</source>
     <message>
         <source>KOS Open cloud file</source>
         <translation type="obsolete">从云文档打开</translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation>充值稻米</translation>
     </message>
     <message>
         <source>KOS Roamingfile</source>
@@ -13145,6 +13540,10 @@ Effects</source>
         <translation type="obsolete">用户登录</translation>
     </message>
     <message>
+        <source>KOS logout</source>
+        <translation>注销</translation>
+    </message>
+    <message>
         <source>Laboratory</source>
         <translation>实验室</translation>
     </message>
@@ -13167,6 +13566,10 @@ Effects</source>
     <message>
         <source>Online Documents</source>
         <translation>在线文档</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Open From Cloud</source>
@@ -13205,12 +13608,24 @@ Effects</source>
         <translation>登录</translation>
     </message>
     <message>
+        <source>SlideLibrary</source>
+        <translation>幻灯片库</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation>特色功能</translation>
+    </message>
+    <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">关闭自动备份</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation>转为文字文档</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -13243,6 +13658,10 @@ Effects</source>
     <message>
         <source>openwebweibo</source>
         <translation type="obsolete">网页版微博分享</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>weiboshare</source>
@@ -14293,6 +14712,18 @@ Double-click this button to apply the same formatting to multiple places in the 
 </context>
 <context>
     <name>tips.Gallery</name>
+    <message>
+        <source>Kingsoft Gallery</source>
+        <translation type="obsolete">WPS素材库</translation>
+    </message>
+    <message>
+        <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
+
+Kingsoft Gallery Online Sources require internet connection. My Gallery can be used without internet after logging in.</source>
+        <translation type="obsolete">WPS素材库集合各类图片素材，输入相应的关键字即可搜出所需图片等素材。
+
+WPS素材库中的素材在联网情况下才可使用。</translation>
+    </message>
     <message>
         <source>WPS Gallery</source>
         <translation type="obsolete">WPS素材库</translation>
@@ -16542,6 +16973,21 @@ Click the arrow to choose more outline styles.</source>
     </message>
 </context>
 <context>
+    <name>tips.cellphoneControl</name>
+    <message>
+        <source>LinkText</source>
+        <translation type="obsolete">有关详细帮助，请按F1。</translation>
+    </message>
+    <message>
+        <source>cellphoneControl Content</source>
+        <translation type="obsolete">播放PPT时，可用手机遥控翻页。</translation>
+    </message>
+    <message>
+        <source>cellphoneControl Title</source>
+        <translation type="obsolete">手机遥控PPT</translation>
+    </message>
+</context>
+<context>
     <name>tips.sp_Macros</name>
     <message>
         <source>View Macros</source>
@@ -16618,8 +17064,16 @@ Click the arrow to choose more outline styles.</source>
         <translation>输出为图片</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF格式</translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>文档漫游</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -16666,6 +17120,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
+        <source>KOS logout</source>
+        <translation type="obsolete">注销帐号</translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>手动备份</translation>
     </message>
@@ -16676,6 +17134,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Not Logged in</source>
         <translation type="obsolete">未登录</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Open From Cloud</source>
@@ -16734,8 +17196,16 @@ Click the arrow to choose more outline styles.</source>
         <translation>注销</translation>
     </message>
     <message>
+        <source>SlideLibrary</source>
+        <translation>幻灯片库</translation>
+    </message>
+    <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation>转为WPS文字文档</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16764,6 +17234,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>openwebweibo</source>
         <translation type="obsolete">网页版微博分享</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>weiboshare</source>
@@ -16975,7 +17449,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="obsolete">发射轻地址</translation>
+        <translation type="unfinished">发射轻地址</translation>
     </message>
     <message>
         <source>CloudLink</source>
@@ -17011,7 +17485,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Creat Cloud Link</source>
-        <translation type="obsolete">发射</translation>
+        <translation type="unfinished">发射</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -17051,7 +17525,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation type="obsolete">立即恢复</translation>
+        <translation type="unfinished">立即恢复</translation>
     </message>
     <message>
         <source>DataRecover</source>
@@ -17149,7 +17623,15 @@ Slide</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材</translation>
+        <translation type="obsolete">素材</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation>截屏</translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
+        <translation>截屏时隐藏当前窗口</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -17184,6 +17666,10 @@ Slide</source>
         <translation>两端对齐</translation>
     </message>
     <message>
+        <source>Kingsoft Online Template</source>
+        <translation type="obsolete">WPS在线模板</translation>
+    </message>
+    <message>
         <source>Layout</source>
         <translation>版式</translation>
     </message>
@@ -17194,6 +17680,10 @@ Slide</source>
     <message>
         <source>Macros</source>
         <translation>宏</translation>
+    </message>
+    <message>
+        <source>MailFeedBack</source>
+        <translation>邮件反馈</translation>
     </message>
     <message>
         <source>Master Miniature</source>
@@ -17248,16 +17738,28 @@ Slide</source>
         <translation>新建​​</translation>
     </message>
     <message>
+        <source>New Blank Slide</source>
+        <translation>新建空白幻灯片</translation>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation>新建空白文档</translation>
+    </message>
+    <message>
         <source>New From Default Template</source>
-        <translation>从默认模板新建</translation>
+        <translation type="unfinished">从默认模板新建</translation>
     </message>
     <message>
         <source>New From Online Templates</source>
-        <translation>从在线模版新建</translation>
+        <translation type="obsolete">从在线模版新建</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <translation>新建演示文稿</translation>
+    </message>
+    <message>
+        <source>New Slide From Library</source>
+        <translation>从幻灯片库新建</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -17273,7 +17775,7 @@ Slide</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="obsolete">本机上的模板</translation>
+        <translation type="unfinished">本机上的模板</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -17289,7 +17791,7 @@ Slide</source>
     </message>
     <message>
         <source>Note</source>
-        <translation type="obsolete">文档备注</translation>
+        <translation type="unfinished">文档备注</translation>
     </message>
     <message>
         <source>Note View Visible</source>
@@ -17317,7 +17819,7 @@ Slide</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="obsolete">备注</translation>
+        <translation type="unfinished">备注</translation>
     </message>
     <message>
         <source>OnlineT</source>
@@ -17326,6 +17828,10 @@ Slide</source>
     <message>
         <source>Open</source>
         <translation>打开</translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translation>页面设置</translation>
     </message>
     <message>
         <source>Paint Brush</source>
@@ -17358,6 +17864,10 @@ Slide</source>
     <message>
         <source>Print Preview</source>
         <translation>打印预览</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Recent File List</source>
@@ -17412,6 +17922,10 @@ Slide</source>
         <translation>另存为</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation>屏幕截图</translation>
+    </message>
+    <message>
         <source>Select All</source>
         <translation>全选</translation>
     </message>
@@ -17429,7 +17943,7 @@ Slide</source>
     </message>
     <message>
         <source>Shape and Gallery</source>
-        <translation>形状和素材</translation>
+        <translation type="obsolete">形状和素材</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -17617,7 +18131,7 @@ Slide</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="obsolete">金山数据恢复大师</translation>
+        <translation type="unfinished">金山数据恢复大师</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -17636,12 +18150,24 @@ Slide</source>
         <translation type="obsolete">艺术字</translation>
     </message>
     <message>
+        <source>change template</source>
+        <translation>更换模板</translation>
+    </message>
+    <message>
+        <source>magic</source>
+        <translation>魔法</translation>
+    </message>
+    <message>
         <source>statusbar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.Help</name>
+    <message>
+        <source>Kingsoft Presentation Help</source>
+        <translation type="obsolete">WPS 演示 帮助</translation>
+    </message>
     <message>
         <source>WPS Presentation Help</source>
         <translation>WPS 演示 帮助</translation>
@@ -17750,6 +18276,10 @@ Slide</source>
         <translation type="obsolete">WPS 售后微博</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>文件</translation>
     </message>
@@ -17796,6 +18326,10 @@ Slide</source>
     <message>
         <source>KOS View UserInfo</source>
         <translation type="obsolete">更改个人资料</translation>
+    </message>
+    <message>
+        <source>KOS logout</source>
+        <translation type="obsolete">注销帐号</translation>
     </message>
     <message>
         <source>Login</source>
@@ -17911,7 +18445,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -17989,12 +18523,16 @@ Slide</source>
 <context>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch UI</source>
+        <source>Professional Switch UI</source>
         <translation>更改界面</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <translation>皮肤</translation>
+    </message>
+    <message>
         <source>true</source>
-        <translation type="obsolete">确定</translation>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 <context>
@@ -18059,6 +18597,10 @@ Slide</source>
     <message>
         <source>EnterpriseMicroblog</source>
         <translation type="obsolete">WPS 售后微博</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -18130,15 +18672,15 @@ Slide</source>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>新建空白文档</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="obsolete">从更多模板新建</translation>
+        <translation type="unfinished">从更多模板新建</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>从更多模板新建</translation>
+        <translation type="obsolete">本机上的模板</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -18234,7 +18776,7 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -18307,8 +18849,12 @@ Slide</source>
 <context>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch UI</source>
+        <source>Professional Switch UI</source>
         <translation>更改界面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <translation>皮肤</translation>
     </message>
     <message>
         <source>true</source>

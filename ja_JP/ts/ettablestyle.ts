@@ -21,30 +21,6 @@
         <translation>1行あけ</translation>
     </message>
     <message>
-        <source>Dark Style</source>
-        <translation>濃い色</translation>
-    </message>
-    <message>
-        <source>Dark Style 2</source>
-        <translation>濃い色2</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">濃い色2　強調1/強調2</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">濃い色2　強調3/強調4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>濃い色2　強調5/強調6</translation>
-    </message>
-    <message>
-        <source>Emphasize</source>
-        <translation>強調</translation>
-    </message>
-    <message>
         <source>First Column</source>
         <translation>最初の列</translation>
     </message>
@@ -59,30 +35,6 @@
     <message>
         <source>Last Row</source>
         <translation>最後の行</translation>
-    </message>
-    <message>
-        <source>Light Style</source>
-        <translation>浅い色</translation>
-    </message>
-    <message>
-        <source>Medium Style</source>
-        <translation>中間</translation>
-    </message>
-    <message>
-        <source>No Style, Gridded</source>
-        <translation>スタイルなし、グリッド型</translation>
-    </message>
-    <message>
-        <source>No Style, No Grid</source>
-        <translation>スタイル/グリッドなし</translation>
-    </message>
-    <message>
-        <source>No Style,Gridded</source>
-        <translation type="obsolete">スタイルなし、グリッド型</translation>
-    </message>
-    <message>
-        <source>Theme Style</source>
-        <translation>テーマスタイル</translation>
     </message>
     <message>
         <source>deep color style</source>
@@ -127,6 +79,54 @@
     <message>
         <source>theme style</source>
         <translation type="obsolete">テーマスタイル</translation>
+    </message>
+    <message>
+        <source>No Style, No Grid</source>
+        <translation>スタイル/グリッドなし</translation>
+    </message>
+    <message>
+        <source>Theme Style</source>
+        <translation>テーマスタイル</translation>
+    </message>
+    <message>
+        <source>Emphasize</source>
+        <translation>強調</translation>
+    </message>
+    <message>
+        <source>No Style, Gridded</source>
+        <translation>スタイルなし、グリッド型</translation>
+    </message>
+    <message>
+        <source>Light Style</source>
+        <translation>浅い色</translation>
+    </message>
+    <message>
+        <source>Medium Style</source>
+        <translation>中間</translation>
+    </message>
+    <message>
+        <source>Dark Style</source>
+        <translation>濃い色</translation>
+    </message>
+    <message>
+        <source>Dark Style 2</source>
+        <translation>濃い色2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation>濃い色2　強調1/強調2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation>濃い色2　強調3/強調4</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
+        <translation>濃い色2　強調5/強調6</translation>
+    </message>
+    <message>
+        <source>No Style,Gridded</source>
+        <translation type="obsolete">スタイルなし、グリッド型</translation>
     </message>
 </context>
 <context>
@@ -156,36 +156,8 @@
         <translation></translation>
     </message>
     <message>
-        <source>Dark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Style</source>
-        <translation>濃い色</translation>
-    </message>
-    <message>
-        <source>Dark Style 2</source>
-        <translation>濃い色2</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>濃い色2　強調1/強調2</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>濃い色2　強調3/強調4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>濃い色2　強調5/強調6</translation>
-    </message>
-    <message>
         <source>Deep</source>
         <translation type="obsolete">濃い色</translation>
-    </message>
-    <message>
-        <source>Emphasize</source>
-        <translation>強調</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -212,40 +184,8 @@
         <translation>最後の行</translation>
     </message>
     <message>
-        <source>Light</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Light Style</source>
-        <translation>浅い色</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Medium Style</source>
-        <translation>中間</translation>
-    </message>
-    <message>
         <source>Middle</source>
         <translation type="obsolete">中間</translation>
-    </message>
-    <message>
-        <source>No Style, Gridded</source>
-        <translation>スタイルなし、グリッド型</translation>
-    </message>
-    <message>
-        <source>No Style, No Grid</source>
-        <translation>スタイル/グリッドなし</translation>
-    </message>
-    <message>
-        <source>No Style,Gridded</source>
-        <translation type="obsolete">スタイルなし、グリッド型</translation>
-    </message>
-    <message>
-        <source>Theme Style</source>
-        <translation>テーマスタイル</translation>
     </message>
     <message>
         <source>Washy</source>
@@ -295,6 +235,66 @@
         <source>theme style</source>
         <translation type="obsolete">テーマスタイル</translation>
     </message>
+    <message>
+        <source>Light</source>
+        <translation>薄い</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation>中間</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>濃い</translation>
+    </message>
+    <message>
+        <source>No Style, No Grid</source>
+        <translation>スタイル/グリッドなし</translation>
+    </message>
+    <message>
+        <source>Theme Style</source>
+        <translation>テーマスタイル</translation>
+    </message>
+    <message>
+        <source>Emphasize</source>
+        <translation>強調</translation>
+    </message>
+    <message>
+        <source>No Style, Gridded</source>
+        <translation>スタイルなし、グリッド型</translation>
+    </message>
+    <message>
+        <source>Light Style</source>
+        <translation>浅い色</translation>
+    </message>
+    <message>
+        <source>Medium Style</source>
+        <translation>中間</translation>
+    </message>
+    <message>
+        <source>Dark Style</source>
+        <translation>濃い色</translation>
+    </message>
+    <message>
+        <source>Dark Style 2</source>
+        <translation>濃い色2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation>濃い色2　強調1/強調2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation>濃い色2　強調3/強調4</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
+        <translation>濃い色2　強調5/強調6</translation>
+    </message>
+    <message>
+        <source>No Style,Gridded</source>
+        <translation type="obsolete">スタイルなし、グリッド型</translation>
+    </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
@@ -309,10 +309,6 @@
     <message>
         <source>Best Match</source>
         <translation>ベストマッチ</translation>
-    </message>
-    <message>
-        <source>Dark</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deep</source>
@@ -343,20 +339,24 @@
         <translation>最後の行</translation>
     </message>
     <message>
-        <source>Light</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Middle</source>
         <translation type="obsolete">中間</translation>
     </message>
     <message>
         <source>Washy</source>
         <translation type="obsolete">浅い色</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>薄い</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation>中間</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>濃い</translation>
     </message>
 </context>
 <context>

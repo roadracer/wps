@@ -17,10 +17,6 @@
         <translation>正在转换</translation>
     </message>
     <message>
-        <source>Note;</source>
-        <translation>备注：</translation>
-    </message>
-    <message>
         <source>Notes Page:</source>
         <translation type="obsolete">备注：</translation>
     </message>
@@ -45,6 +41,10 @@
         <source>Still Need:</source>
         <translation>剩余时间：</translation>
     </message>
+    <message>
+        <source>Note;</source>
+        <translation>备注：</translation>
+    </message>
 </context>
 <context>
     <name>ProcessDialog</name>
@@ -61,10 +61,6 @@
         <translation>准备转换</translation>
     </message>
     <message>
-        <source>Still Need: being calculated</source>
-        <translation>剩余时间：正在计算</translation>
-    </message>
-    <message>
         <source>Still Need:Being calculated</source>
         <translation type="obsolete">剩余时间：正在计算</translation>
     </message>
@@ -76,13 +72,13 @@
         <source>Translate to WPS Writer Document</source>
         <translation>转为WPS文字文档</translation>
     </message>
+    <message>
+        <source>Still Need: being calculated</source>
+        <translation>剩余时间：正在计算</translation>
+    </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
-    <message>
-        <source>&amp;Current Slide</source>
-        <translation>当前幻灯片(&amp;C)</translation>
-    </message>
     <message>
         <source>1</source>
         <translation>1</translation>
@@ -128,10 +124,6 @@
         <translation type="obsolete">转换内容包括</translation>
     </message>
     <message>
-        <source>Converted Content</source>
-        <translation>转换内容包括</translation>
-    </message>
-    <message>
         <source>Converted Layout</source>
         <translation>转换后版式</translation>
     </message>
@@ -172,10 +164,6 @@
         <translation>选定幻灯片(&amp;S)</translation>
     </message>
     <message>
-        <source>Slide per page</source>
-        <translation>每页幻灯片数</translation>
-    </message>
-    <message>
         <source>Slide per page(&amp;E):</source>
         <translation type="obsolete">每页幻灯片数</translation>
     </message>
@@ -199,6 +187,18 @@
         <source>Translate to WPS Writer Document</source>
         <translation>转为WPS文字文档</translation>
     </message>
+    <message>
+        <source>&amp;Current Slide</source>
+        <translation>当前幻灯片(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Slide per page</source>
+        <translation>每页幻灯片数</translation>
+    </message>
+    <message>
+        <source>Converted Content</source>
+        <translation>转换内容包括</translation>
+    </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
@@ -207,12 +207,16 @@
         <translation>关闭</translation>
     </message>
     <message>
-        <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>转为WPS文字文档过程中出现错误</translation>
+        <source>Converting to Kingsoft Writer document encountered an error.</source>
+        <translation type="obsolete">转为WPS文字文档过程中出现错误</translation>
     </message>
     <message>
         <source>The conversion is completed.</source>
         <translation>转换完成</translation>
+    </message>
+    <message>
+        <source>Converting to WPS Writer document encountered an error.</source>
+        <translation>转为WPS文字文档过程中出现错误</translation>
     </message>
 </context>
 <context>
@@ -236,6 +240,14 @@
         <translation>输入幻灯片编号或范围，例如：1,3,5-9</translation>
     </message>
     <message>
+        <source>Kingsoft Presentation</source>
+        <translation type="obsolete">WPS演示</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Document(*.wps)</source>
+        <translation type="obsolete">WPS文字 文件(*.wps)</translation>
+    </message>
+    <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
         <translation>Microsoft Word 97/2000/XP/2003 文件(*.doc)</translation>
     </message>
@@ -256,20 +268,12 @@
 </translation>
     </message>
     <message>
-        <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation>与已打开的文档重名。有一个打开的文档使用了当前指定的名称。请选择其他名称，或先关闭打开的同名文档。</translation>
-    </message>
-    <message>
         <source>The number must be 1 or 2.</source>
         <translation>可输入1-2的整数。</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
         <translation type="obsolete">可输入1-4的整数</translation>
-    </message>
-    <message>
-        <source>The number must be 1, 2, 3,or 4.</source>
-        <translation>可输入1-4的整数</translation>
     </message>
     <message>
         <source>This is a valid number.
@@ -281,6 +285,14 @@ For example, 1,3,5-9.</source>
 连续的幻灯片之间可用中划线连接）。</translation>
     </message>
     <message>
+        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation type="obsolete">与已打开的文档重名。有一个打开的文档使用了当前指定的名称。请选择其他名称，或先关闭打开的同名文档。</translation>
+    </message>
+    <message>
+        <source>The number must be 1, 2, 3,or 4.</source>
+        <translation>可输入1-4的整数</translation>
+    </message>
+    <message>
         <source>WPS Presentation</source>
         <translation>WPS演示</translation>
     </message>
@@ -289,8 +301,8 @@ For example, 1,3,5-9.</source>
         <translation>WPS文字 文件(*.wps)</translation>
     </message>
     <message>
-        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation type="obsolete">与已打开的文档重名。有一个打开的文档使用了当前指定的名称。请选择其他名称，或先关闭打开的同名文档。</translation>
+        <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation>与已打开的文档重名。有一个打开的文档使用了当前指定的名称。请选择其他名称，或先关闭打开的同名文档。</translation>
     </message>
 </context>
 </TS>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <defaultcodec>UTF-8</defaultcodec>
@@ -546,7 +546,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Group</source>
@@ -567,6 +567,10 @@
     <message>
         <source>Insert Picture</source>
         <translation>Вставить изображение</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -627,6 +631,10 @@
     <message>
         <source>Nudge</source>
         <translation>Сдвинуть</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -1114,7 +1122,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1418,6 +1426,14 @@ Center</source>
         <translation>Создание диаграмм</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Count</source>
         <translation>Количество</translation>
     </message>
@@ -1451,7 +1467,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -1495,7 +1511,7 @@ Center</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Специальная вставка</translation>
+        <translation type="obsolete">Специальная вставка</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -1528,6 +1544,14 @@ Center</source>
     <message>
         <source>Send E-mail</source>
         <translation>Послать электронную почту</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1572,6 +1596,10 @@ Center</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -2032,6 +2060,10 @@ Center</source>
         <translation type="obsolete">Область буфера обмена</translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column</source>
         <translation>Столбец</translation>
     </message>
@@ -2054,6 +2086,10 @@ Center</source>
     <message>
         <source>Connector Popup Menu</source>
         <translation type="obsolete">Контекстное меню соединения</translation>
+    </message>
+    <message>
+        <source>Contents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2237,11 +2273,15 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Go To</source>
         <translation>Перейти</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -2258,6 +2298,10 @@ Center</source>
     <message>
         <source>Hi Lo Line Popup Menu</source>
         <translation type="obsolete">Контекстное меню верхнего нижнего пределов</translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -2312,6 +2356,10 @@ Center</source>
         <translation>Макросы</translation>
     </message>
     <message>
+        <source>MailFeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Materials</source>
         <translation type="obsolete">Автофигуры</translation>
     </message>
@@ -2334,6 +2382,10 @@ Center</source>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
         <translation>Новая книга Excel 2007/2010</translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook(E)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Workbook</source>
@@ -2392,12 +2444,20 @@ Center</source>
         <translation>Страничный режим</translation>
     </message>
     <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parse</source>
         <translation>Разбор по ячейкам</translation>
     </message>
     <message>
         <source>Paste</source>
         <translation>Вставить</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2447,6 +2507,14 @@ Directly</source>
     <message>
         <source>Print Preview</source>
         <translation>Предварительный просмотр</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -2505,6 +2573,10 @@ Directly</source>
         <translation>Сохранить как</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Shape</source>
         <translation>Выделить фигуру</translation>
     </message>
@@ -2534,7 +2606,7 @@ Directly</source>
     </message>
     <message>
         <source>Shape and Gallery</source>
-        <translation>Фигуры и коллекция</translation>
+        <translation type="obsolete">Фигуры и коллекция</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -2727,6 +2799,10 @@ Window</source>
         <translation type="obsolete">Микроблог предприятия</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>Файл</translation>
     </message>
@@ -2892,7 +2968,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Поменять стиль интерфейса</translation>
+        <translation type="obsolete">Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -2958,8 +3034,16 @@ Window</source>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3009,6 +3093,10 @@ Window</source>
     <message>
         <source>EnterpriseMicroblog</source>
         <translation type="obsolete">Микроблог предприятия</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -3168,7 +3256,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Поменять стиль интерфейса</translation>
+        <translation type="obsolete">Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -3237,6 +3325,10 @@ Window</source>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -3382,8 +3474,16 @@ Row</source>
         <translation type="obsolete">Очистить</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>Удалить структуру</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -3485,7 +3585,7 @@ All</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="obsolete">Обновить все</translation>
+        <translation type="unfinished">Обновить все</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -3498,6 +3598,14 @@ All</source>
     <message>
         <source>Remove Duplicates</source>
         <translation>Удалить повторения</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
@@ -3620,6 +3728,10 @@ Properties</source>
     <message>
         <source>Control Toolbox</source>
         <translation>Элементы управления</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -3872,6 +3984,10 @@ On</source>
     <message>
         <source>Center</source>
         <translation>По центру</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -4839,6 +4955,10 @@ Center</source>
         <translation>Цвет заливки</translation>
     </message>
     <message>
+        <source>Fill Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Filter</source>
         <translation type="obsolete">Фильтр</translation>
     </message>
@@ -5056,7 +5176,7 @@ Center</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Специальная вставка</translation>
+        <translation type="obsolete">Специальная вставка</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -5115,6 +5235,10 @@ Columns</source>
     <message>
         <source>Rows/Columns</source>
         <translation type="obsolete">Строки и столбцы</translation>
+    </message>
+    <message>
+        <source>RowsColumn</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -5328,7 +5452,7 @@ Properties</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Group</source>
@@ -5364,12 +5488,20 @@ Footer</source>
         <translation>Иллюстрации</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Вставить клип</translation>
+        <translation type="obsolete">Вставить клип</translation>
     </message>
     <message>
         <source>Insert File Object</source>
         <translation type="obsolete">Вставить файловый объект</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
@@ -5394,6 +5526,10 @@ Footer</source>
     <message>
         <source>Object Select</source>
         <translation type="obsolete">Выделить объект</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -5901,7 +6037,7 @@ Pictures</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -5916,8 +6052,16 @@ Pictures</source>
         <translation>Вставка</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Вставить клип</translation>
+        <translation type="obsolete">Вставить клип</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -5990,6 +6134,10 @@ Pictures</source>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>Сдвинуть тень вверх</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -7712,6 +7860,11 @@ Spacing</source>
         <translation>Фигурный текст</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt
 Gallery</source>
         <translation>Коллекция</translation>
@@ -7769,7 +7922,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation>Вставка фигурного текста</translation>
+        <translation type="obsolete">Вставка фигурного текста</translation>
     </message>
 </context>
 <context>
@@ -7790,12 +7943,24 @@ Shape</source>
         <translation type="obsolete">Автоверсия</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>Связь с облачным сервисом</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Запретить автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -7808,6 +7973,14 @@ Shape</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">Просмотр версии</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ExportToPDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Auto backup</source>
@@ -7834,6 +8007,18 @@ Shape</source>
         <translation>Помогите нам улучшить WPS Office</translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Cloud Feedback</source>
         <translation type="obsolete">Отзывы и предложения облачного сервиса KOS</translation>
     </message>
@@ -7844,6 +8029,14 @@ Shape</source>
     <message>
         <source>KOS Create Cloud Link</source>
         <translation type="obsolete">Создать CloudLink KOS</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -7858,6 +8051,10 @@ Shape</source>
         <translation type="obsolete">Открыть файл в облачном сервисе KOS</translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="obsolete">Сохранить файл в облачном сервисе KOS</translation>
     </message>
@@ -7868,6 +8065,10 @@ Shape</source>
     <message>
         <source>KOS User Cloud Tip</source>
         <translation type="obsolete">Подсказка облачного сервиса пользователя KOS</translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -7882,6 +8083,10 @@ Shape</source>
         <translation type="obsolete">Регистрация в KOS</translation>
     </message>
     <message>
+        <source>KOS User PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Login</source>
         <translation type="obsolete">Регистрация</translation>
     </message>
@@ -7894,16 +8099,48 @@ Shape</source>
         <translation type="obsolete">Пометить версию</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Online Documents</source>
         <translation>Документы из Интернета</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Открыть файл из облачного сервиса</translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>Сохранить файл в облачном сервисе</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -8071,6 +8308,10 @@ COM</translation>
         <translation type="obsolete">Изменить узлы</translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>Изменить версию</translation>
     </message>
@@ -8115,6 +8356,10 @@ COM</translation>
         <translation>Очистить содержимое</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>Удалить структуру</translation>
     </message>
@@ -8127,6 +8372,10 @@ COM</translation>
         <translation type="obsolete">Очистить диапазон для печати</translation>
     </message>
     <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>Клип</translation>
     </message>
@@ -8136,7 +8385,7 @@ COM</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="obsolete">Закрыть</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -8176,7 +8425,7 @@ COM</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Содержание</translation>
+        <translation type="obsolete">Содержание</translation>
     </message>
     <message>
         <source>Control Menu</source>
@@ -8387,6 +8636,11 @@ COM</translation>
         <translation>Заполнение рядов</translation>
     </message>
     <message>
+        <source>Fill Series</source>
+        <comment>Fill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill Weekdays</source>
         <translation>Заполнить по рабочим дням</translation>
     </message>
@@ -8548,11 +8802,15 @@ COM</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Goal Seek</source>
         <translation>Подбор параметра</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -8615,8 +8873,12 @@ COM</translation>
         <translation>Вставка</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Вставить клип</translation>
+        <translation type="obsolete">Вставить клип</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -8637,6 +8899,10 @@ COM</translation>
     <message>
         <source>Insert Sheet</source>
         <translation>Вставить лист</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -8731,6 +8997,10 @@ COM</translation>
         <translation>Маркетинговая веб-страница</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Historical Records</source>
         <translation>Другие записи архивации</translation>
     </message>
@@ -8765,6 +9035,10 @@ COM</translation>
     <message>
         <source>Object Menu List</source>
         <translation>Список объектов меню</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -8808,7 +9082,7 @@ COM</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Параметры страницы</translation>
+        <translation type="obsolete">Параметры страницы</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -8824,7 +9098,7 @@ COM</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Специальная вставка</translation>
+        <translation type="obsolete">Специальная вставка</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -8893,6 +9167,10 @@ COM</translation>
     <message>
         <source>Purchase Serial Number</source>
         <translation>Приобрести серийный номер</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -9003,12 +9281,25 @@ COM</translation>
         <translation>Ряды</translation>
     </message>
     <message>
+        <source>Series</source>
+        <comment>PopupFillSeries</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set AutoShape Defaults</source>
         <translation>По умолчанию для автофигур</translation>
     </message>
     <message>
+        <source>Set Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Display Area</source>
         <translation>Установить область отображения</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -9017,6 +9308,10 @@ COM</translation>
     <message>
         <source>Set Print Region</source>
         <translation type="obsolete">Установить диапазон для печати</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Timing Backup</source>
@@ -9075,8 +9370,16 @@ COM</translation>
         <translation>Ширина столбца</translation>
     </message>
     <message>
+        <source>Start Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">Остановить автоверсию</translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -9234,6 +9537,10 @@ COM</translation>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
     </message>
@@ -9360,8 +9667,16 @@ Chart Type</source>
         <translation type="obsolete">Очистить</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>Удалить структуру</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -9460,6 +9775,14 @@ OLE DB Query</source>
     <message>
         <source>Remove Duplicates</source>
         <translation>Удалить повторения</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9573,6 +9896,10 @@ OLE DB Query</source>
     <message>
         <source>Control Toolbox</source>
         <translation>Элементы управления</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -9801,6 +10128,10 @@ AddIns</source>
     <message>
         <source>Bring to Front</source>
         <translation>Поместить на передний план</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dash</source>
@@ -10605,7 +10936,7 @@ Trig</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Содержание</translation>
+        <translation type="obsolete">Содержание</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -10702,6 +11033,10 @@ Trig</source>
     <message>
         <source>Fill Color</source>
         <translation>Цвет заливки</translation>
+    </message>
+    <message>
+        <source>Fill Series</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter</source>
@@ -10899,7 +11234,7 @@ Center</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Специальная вставка</translation>
+        <translation type="obsolete">Специальная вставка</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -11148,7 +11483,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -11175,8 +11510,16 @@ Center</source>
         <translation>Иллюстрации</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Вставить клип</translation>
+        <translation type="obsolete">Вставить клип</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
@@ -11197,6 +11540,10 @@ Center</source>
     <message>
         <source>Object</source>
         <translation>Объект</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -11634,7 +11981,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Коллекция</translation>
+        <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -11649,8 +11996,16 @@ Center</source>
         <translation>Вставка</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Вставить клип</translation>
+        <translation type="obsolete">Вставить клип</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11723,6 +12078,10 @@ Center</source>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>Сдвинуть тень вверх</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -13180,6 +13539,11 @@ Color</source>
         <translation>Фигурный текст</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
         <translation>Выравнивание</translation>
     </message>
@@ -13221,7 +13585,7 @@ Color</source>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation>Вставка</translation>
+        <translation type="obsolete">Вставка</translation>
     </message>
 </context>
 <context>
@@ -13242,12 +13606,24 @@ Color</source>
         <translation type="obsolete">Автоверсия</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>Связь с облачным сервисом</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Запретить автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -13260,6 +13636,10 @@ Color</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">Просмотр версии</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Auto backup</source>
@@ -13282,6 +13662,18 @@ Color</source>
         <translation>Помогите нам улучшить WPS Office</translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Cloud Feedback</source>
         <translation type="obsolete">Отзывы и предложения облачного сервиса KOS</translation>
     </message>
@@ -13292,6 +13684,14 @@ Color</source>
     <message>
         <source>KOS Create Cloud Link</source>
         <translation type="obsolete">Создать CloudLink KOS</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -13306,6 +13706,10 @@ Color</source>
         <translation type="obsolete">Открыть файл в облачном сервисе KOS</translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>KOS Save File to Cloud</source>
         <translation type="obsolete">Сохранить файл в облачном сервисе KOS</translation>
     </message>
@@ -13316,6 +13720,10 @@ Color</source>
     <message>
         <source>KOS User Cloud Tip</source>
         <translation type="obsolete">Подсказка облачного сервиса пользователя KOS</translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -13342,20 +13750,56 @@ Color</source>
         <translation type="obsolete">Пометить версию</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Online Documents</source>
         <translation>Документы из Интернета</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Открыть файл из облачного сервиса</translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>Сохранить файл в облачном сервисе</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sign in</source>
         <translation>Войти</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
@@ -16805,12 +17249,24 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>Войти с другой учётной записью</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>Связь с облачным сервисом</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Запретить автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -16829,8 +17285,20 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">Просмотр версии</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>Роуминг файлов</translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -16881,12 +17349,44 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">Пометить версию</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recharge</source>
         <translation>Перезарядка</translation>
     </message>
     <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>Сохранить файл в облачном сервисе</translation>
+    </message>
+    <message>
+        <source>Set Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16897,8 +17397,16 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>Выйти</translation>
     </message>
     <message>
+        <source>Start Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">Остановить автоверсию</translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>

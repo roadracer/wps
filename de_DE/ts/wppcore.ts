@@ -97,8 +97,8 @@
         <translation type="obsolete">Text&lt;Datum und Zeit&gt;</translation>
     </message>
     <message>
-        <source>This function is offered in WPS Office 2009 Prefessional.</source>
-        <translation type="obsolete">Diese Funktion wird durch WPS Office 2012 Professional unterstützt.</translation>
+        <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
+        <translation type="obsolete">Diese Funktion wird durch Kingsoft Office 2012 Professional unterstützt.</translation>
     </message>
     <message>
         <source>Times New Roman</source>
@@ -132,6 +132,10 @@
     <message>
         <source>Wind</source>
         <translation type="obsolete">Wind</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <translation type="obsolete">Diese Funktion wird durch WPS Office 2012 Professional unterstützt.</translation>
     </message>
 </context>
 <context>
@@ -227,16 +231,16 @@
         <translation type="obsolete">Präsentation beenden</translation>
     </message>
     <message>
-        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
-        <translation type="obsolete">Innovation·Forschung·Kundenzufriedenheit·Effizienz·Aufrichtigkeit WPS Office 2012</translation>
+        <source>Innovation·Research·Customer·Result·Sincerity Kingsoft Office 2010</source>
+        <translation type="obsolete">Innovation·Forschung·Kundenzufriedenheit·Effizienz·Aufrichtigkeit Kingsoft Office 2012</translation>
     </message>
     <message>
         <source>Keep ink</source>
         <translation type="obsolete">Druckerfarbe sparen</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot be found or start %s. </source>
-        <translation type="obsolete">WPS Presentation kann nicht gefunden oder gestartet werden %s. </translation>
+        <source>Kingsoft Presentation cannot be found or start %s. </source>
+        <translation type="obsolete">Kingsoft Presentation kann nicht gefunden oder gestartet werden %s. </translation>
     </message>
     <message>
         <source>May our software run on every computer</source>
@@ -277,6 +281,14 @@
     <message>
         <source>”does not exist.</source>
         <translation type="obsolete">nicht vorhanden.</translation>
+    </message>
+    <message>
+        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
+        <translation type="obsolete">Innovation·Forschung·Kundenzufriedenheit·Effizienz·Aufrichtigkeit WPS Office 2012</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot be found or start %s. </source>
+        <translation type="obsolete">WPS Presentation kann nicht gefunden oder gestartet werden %s. </translation>
     </message>
 </context>
 <context>
@@ -588,9 +600,14 @@
         <translation type="unfinished">Text&lt;Datum und Zeit&gt;</translation>
     </message>
     <message>
-        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished">Diese Funktion wird durch WPS Office 2012 Professional unterstützt.</translation>
+        <translation type="obsolete">Diese Funktion wird durch Kingsoft Office 2012 Professional unterstützt.</translation>
+    </message>
+    <message>
+        <source>Times New Roman</source>
+        <comment>AEO_EFFECT_CHANGEFONT_DEFAULTVALUE</comment>
+        <translation type="obsolete">Times New Roman</translation>
     </message>
     <message>
         <source>Title</source>
@@ -621,6 +638,11 @@
         <source>Wind</source>
         <comment>AEO_SOUNDEFFECT_Wind</comment>
         <translation type="unfinished">Wind</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished">Diese Funktion wird durch WPS Office 2012 Professional unterstützt.</translation>
     </message>
 </context>
 <context>
@@ -749,9 +771,9 @@ Esc					End of the slide show</source>
         <translation type="unfinished">Präsentation beenden</translation>
     </message>
     <message>
-        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
+        <source>Innovation·Research·Customer·Result·Sincerity Kingsoft Office 2010</source>
         <comment>WpWPSOffice2007</comment>
-        <translation type="unfinished">Innovation·Forschung·Kundenzufriedenheit·Effizienz·Aufrichtigkeit WPS Office 2012</translation>
+        <translation type="obsolete">Innovation·Forschung·Kundenzufriedenheit·Effizienz·Aufrichtigkeit Kingsoft Office 2012</translation>
     </message>
     <message>
         <source>Keep ink</source>
@@ -759,9 +781,9 @@ Esc					End of the slide show</source>
         <translation type="unfinished">Druckerfarbe sparen</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot be found or start %s. </source>
+        <source>Kingsoft Presentation cannot be found or start %s. </source>
         <comment>WpInvalidateProgram</comment>
-        <translation type="unfinished">WPS Presentation kann nicht gefunden oder gestartet werden %s. </translation>
+        <translation type="obsolete">Kingsoft Presentation kann nicht gefunden oder gestartet werden %s. </translation>
     </message>
     <message>
         <source>May our software run on every computer</source>
@@ -818,6 +840,16 @@ Would you like to open this file?
         <source>”does not exist.</source>
         <comment>WpInvalidateNameSlideShowEnd</comment>
         <translation type="unfinished">nicht vorhanden.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot be found or start %s. </source>
+        <comment>WpInvalidateProgram</comment>
+        <translation type="unfinished">WPS Presentation kann nicht gefunden oder gestartet werden %s. </translation>
+    </message>
+    <message>
+        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
+        <comment>WpWPSOffice2007</comment>
+        <translation type="unfinished">Innovation·Forschung·Kundenzufriedenheit·Effizienz·Aufrichtigkeit WPS Office 2012</translation>
     </message>
 </context>
 <context>
@@ -1355,16 +1387,6 @@ Fifth level</source>
         <translation type="unfinished">Vor-/Abspann</translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
-        <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
-        <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Currently only support viewing PowerPoint 2007 documents, the edit cannot be saved.</source>
         <comment>WP_OPEN_PPT12_WARNING</comment>
         <translation type="unfinished"></translation>
@@ -1511,16 +1533,6 @@ Fifth level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Errors occur when WPS Presentation is opening this file.
-Please try one of the following.
-•Make sure you are permitted to access this file or drive.
-•Make sure there is enough memory and disk space.	
-•Make sure this file is recognizable format.
-(%s)</source>
-        <comment>WP_OpenFailure</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Exciting</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY5</comment>
         <translation type="unfinished">Aufregend</translation>
@@ -1627,24 +1639,9 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Presentation Slide Show - </source>
+        <source>Kingsoft Presentation Slide Show - </source>
         <comment>WPPlayerCation</comment>
-        <translation type="unfinished">WPS Presentation Bildschirmpräsentation - </translation>
-    </message>
-    <message>
-        <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
-Please try one of the following.
-•Switch to another user account.
-•Ask its creator to change the permission control level of this file.
-(%s)</source>
-        <comment>WPPKRMOPENNOOWNER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation cannot open this file, because the password is not correct.
-(%s)</source>
-        <comment>WP_OpenPasswordFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Kingsoft Presentation Bildschirmpräsentation - </translation>
     </message>
     <message>
         <source>Laser</source>
@@ -1780,11 +1777,6 @@ Please try one of the following.
         <source>Medium Style 1</source>
         <comment>WP_TBLSTYLE_TT36</comment>
         <translation type="unfinished">Mittlere Formatvorlage 1</translation>
-    </message>
-    <message>
-        <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
-        <comment>WP_CannotPlaySoundFile</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Medium Style 1 - Accent 1</source>
@@ -2009,11 +2001,6 @@ Please try one of the following.
     <message>
         <source>Paste Tips</source>
         <comment>WPPPasteTip</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
-        <comment>WPPKRMSAVEPROMPT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2359,9 +2346,9 @@ Body: Rise Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <source>The design template contains multiple masters. Kingsoft Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
         <comment>WP_APPLYMULTIPLEMASTERS</comment>
-        <translation type="unfinished">zur späteren Nutzung?</translation>
+        <translation type="obsolete">zur späteren Nutzung?</translation>
     </message>
     <message>
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
@@ -2846,18 +2833,6 @@ Body: Zoom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
-Do you still want to open this file?
-
-•Click Yes, WPS Presentation will continue to open this file.
-•Click No, WPS Presentation will stop opening this file.
-
-Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
-(%s)</source>
-        <comment>WP_AV_Scan_Failed</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Zoom</source>
         <comment>WP_ANIMATIONTYPE_ZOOM</comment>
         <translation type="unfinished">Zoom</translation>
@@ -2875,6 +2850,77 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>default.dpt</source>
         <comment>WpStartandFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Presentation is opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.	
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>WP_OpenFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>WP_OpenPasswordFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
+Do you still want to open this file?
+
+•Click Yes, WPS Presentation will continue to open this file.
+•Click No, WPS Presentation will stop opening this file.
+
+Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
+(%s)</source>
+        <comment>WP_AV_Scan_Failed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Slide Show - </source>
+        <comment>WPPlayerCation</comment>
+        <translation type="unfinished">WPS Presentation Bildschirmpräsentation - </translation>
+    </message>
+    <message>
+        <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <comment>WPPKRMSAVEPROMPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permission control level of this file.
+(%s)</source>
+        <comment>WPPKRMOPENNOOWNER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <comment>WP_APPLYMULTIPLEMASTERS</comment>
+        <translation type="unfinished">zur späteren Nutzung?</translation>
+    </message>
+    <message>
+        <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
+        <comment>WP_CannotPlaySoundFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4620,9 +4666,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished">Verknüpfung zu anderer Datei</translation>
     </message>
     <message>
-        <source>Hyperlink to Other WPS Presentation Files</source>
+        <source>Hyperlink to Other Kingsoft Presentation Files</source>
         <comment>wpp_sLinkToWppFileCaption</comment>
-        <translation type="unfinished">Verknüpfung zu anderen WPS Presentation Dateien</translation>
+        <translation type="obsolete">Verknüpfung zu anderen Kingsoft Presentation Dateien</translation>
     </message>
     <message>
         <source>I&amp;n Slightly</source>
@@ -4700,24 +4746,14 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished">Japanisch(JPN)</translation>
     </message>
     <message>
-        <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
-        <comment>wpp_sExportPDFError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation has finished searching the presentation.</source>
+        <source>Kingsoft Presentation has finished searching the presentation.</source>
         <comment>wpp_sFindComplete</comment>
-        <translation type="unfinished">Durchsuchen der Präsentation abgeschlossen.</translation>
+        <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen.</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <source>Kingsoft Presentation has finished searching the presentation. %d replacements were made.</source>
         <comment>wpp_sReplaceAllFound</comment>
-        <translation type="unfinished">Durchsuchen der Präsentation abgeschlossen. %d Elemente wurden ersetzt.</translation>
-    </message>
-    <message>
-        <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
-        <comment>wpp_sNotFound</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen. %d Elemente wurden ersetzt.</translation>
     </message>
     <message>
         <source>L&amp;eft Down</source>
@@ -5105,9 +5141,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished">%d Schritt(e) rückgängig</translation>
     </message>
     <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
         <comment>wpp_sRemoveDefaultDict</comment>
-        <translation type="unfinished">kann dies Benutzerdefinierte Wörterbücher anderer Kingsoft-Office-Programme beeinträchtigen. Fortfahren?</translation>
+        <translation type="obsolete">kann dies Benutzerdefinierte Wörterbücher anderer Kingsoft-Office-Programme beeinträchtigen. Fortfahren?</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -5926,6 +5962,36 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sPt</comment>
         <translation type="unfinished">pt</translation>
     </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
+        <comment>wpp_sExportPDFError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation.</source>
+        <comment>wpp_sFindComplete</comment>
+        <translation type="unfinished">Durchsuchen der Präsentation abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>Hyperlink to Other WPS Presentation Files</source>
+        <comment>wpp_sLinkToWppFileCaption</comment>
+        <translation type="unfinished">Verknüpfung zu anderen WPS Presentation Dateien</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
+        <comment>wpp_sNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <comment>wpp_sReplaceAllFound</comment>
+        <translation type="unfinished">Durchsuchen der Präsentation abgeschlossen. %d Elemente wurden ersetzt.</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>wpp_sRemoveDefaultDict</comment>
+        <translation type="unfinished">kann dies Benutzerdefinierte Wörterbücher anderer Kingsoft-Office-Programme beeinträchtigen. Fortfahren?</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -6086,9 +6152,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished">Alle Dateien</translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation type="unfinished">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="obsolete">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
@@ -6514,29 +6580,24 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished">Kursiv</translation>
     </message>
     <message>
-        <source>WPS Office has not found any installed printers.</source>
+        <source>Kingsoft Office has not found any installed printers.</source>
         <comment>WpMessage_NoPrinter</comment>
-        <translation type="unfinished">Keine installierten Drucker gefunden.</translation>
+        <translation type="obsolete">Keine installierten Drucker gefunden.</translation>
     </message>
     <message>
-        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
-        <comment>WP_SAVEFILE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <source>Kingsoft Presentation Template(*.dpt)|*.dpt|Kingsoft Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation type="unfinished">WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</translation>
+        <translation type="obsolete">Kingsoft Presentation Template(*.dpt)|*.dpt|Kingsoft Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertMovie</comment>
-        <translation type="unfinished">Film  aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
+        <translation type="obsolete">Film  aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertSound</comment>
-        <translation type="unfinished">Sound aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
+        <translation type="obsolete">Sound aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -6936,10 +6997,45 @@ Layout</source>
         <translation type="unfinished">[Deaktiviert]</translation>
     </message>
     <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <comment>WP_OPENFILE</comment>
+        <translation type="unfinished">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation type="obsolete">WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>WPS Office has not found any installed printers.</source>
+        <comment>WpMessage_NoPrinter</comment>
+        <translation type="unfinished">Keine installierten Drucker gefunden.</translation>
+    </message>
+    <message>
         <source>Spell 
 Check</source>
         <comment>WP_CheckSpelling_Caption</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <comment>WP_Cannot_InsertSound</comment>
+        <translation type="unfinished">Sound aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <comment>WP_Cannot_InsertMovie</comment>
+        <translation type="unfinished">Film  aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation type="unfinished">WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</translation>
     </message>
 </context>
 <context>
@@ -7153,8 +7249,8 @@ Check</source>
         <translation type="obsolete">Highlights</translation>
     </message>
     <message>
-        <source>WPS Presentation Slide Show - </source>
-        <translation type="obsolete">WPS Presentation Bildschirmpräsentation - </translation>
+        <source>Kingsoft Presentation Slide Show - </source>
+        <translation type="obsolete">Kingsoft Presentation Bildschirmpräsentation - </translation>
     </message>
     <message>
         <source>Laser</source>
@@ -7377,7 +7473,7 @@ Check</source>
         <translation type="obsolete">Text und Media Clip</translation>
     </message>
     <message>
-        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <source>The design template contains multiple masters. Kingsoft Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
         <translation type="obsolete">zur späteren Nutzung?</translation>
     </message>
     <message>
@@ -7523,6 +7619,14 @@ Check</source>
     <message>
         <source>please wait...</source>
         <translation type="obsolete">bitte warten ...</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Slide Show - </source>
+        <translation type="obsolete">WPS Presentation Bildschirmpräsentation - </translation>
+    </message>
+    <message>
+        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <translation type="obsolete">zur späteren Nutzung?</translation>
     </message>
 </context>
 <context>
@@ -8774,8 +8878,8 @@ Check</source>
         <translation type="obsolete">Verknüpfung zu anderer Datei</translation>
     </message>
     <message>
-        <source>Hyperlink to Other WPS Presentation Files</source>
-        <translation type="obsolete">Verknüpfung zu anderen WPS Presentation Dateien</translation>
+        <source>Hyperlink to Other Kingsoft Presentation Files</source>
+        <translation type="obsolete">Verknüpfung zu anderen Kingsoft Presentation Dateien</translation>
     </message>
     <message>
         <source>I&amp;n Slightly</source>
@@ -8838,19 +8942,19 @@ Check</source>
         <translation type="obsolete">Japanisch(JPN)</translation>
     </message>
     <message>
-        <source>WPS Presentation encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
+        <source>Kingsoft Presentation encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
         <translation type="obsolete">Datei als PDF zu exportieren. Bitte Name für PDF-Datei angeben.</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation.</source>
+        <source>Kingsoft Presentation has finished searching the presentation.</source>
         <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen.</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <source>Kingsoft Presentation has finished searching the presentation. %d replacements were made.</source>
         <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen. %d Elemente wurden ersetzt.</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation. The search item wasn&apos;t found.</source>
+        <source>Kingsoft Presentation has finished searching the presentation. The search item wasn&apos;t found.</source>
         <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen. Suchbegriff nicht gefunden.</translation>
     </message>
     <message>
@@ -9126,7 +9230,7 @@ Check</source>
         <translation type="obsolete">%d Schritt(e) rückgängig</translation>
     </message>
     <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
         <translation type="obsolete">kann dies Benutzerdefinierte Wörterbücher anderer Kingsoft-Office-Programme beeinträchtigen. Fortfahren?</translation>
     </message>
     <message>
@@ -9701,6 +9805,30 @@ Check</source>
         <source>then click Custom Animation on the Slide Show menu to add animation.</source>
         <translation type="obsolete">dann &apos;Benutzerdefinierte Animation&apos; im Menüpunkt &apos;Bildschirmpräsentation&apos; klicken.</translation>
     </message>
+    <message>
+        <source>Hyperlink to Other WPS Presentation Files</source>
+        <translation type="obsolete">Verknüpfung zu anderen WPS Presentation Dateien</translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
+        <translation type="obsolete">Datei als PDF zu exportieren. Bitte Name für PDF-Datei angeben.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation.</source>
+        <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen. %d Elemente wurden ersetzt.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. The search item wasn&apos;t found.</source>
+        <translation type="obsolete">Durchsuchen der Präsentation abgeschlossen. Suchbegriff nicht gefunden.</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation type="obsolete">kann dies Benutzerdefinierte Wörterbücher anderer Kingsoft-Office-Programme beeinträchtigen. Fortfahren?</translation>
+    </message>
 </context>
 <context>
     <name>wppuil</name>
@@ -9833,8 +9961,8 @@ Check</source>
         <translation type="obsolete">Alle Dateien</translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
-        <translation type="obsolete">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <translation type="obsolete">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
@@ -10149,23 +10277,23 @@ Check</source>
         <translation type="obsolete">Kursiv</translation>
     </message>
     <message>
-        <source>WPS Office has not found any installed printers.</source>
+        <source>Kingsoft Office has not found any installed printers.</source>
         <translation type="obsolete">Keine installierten Drucker gefunden.</translation>
     </message>
     <message>
-        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|GIF Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Enhanced Windows Metafile(*.emf)|*.emf</source>
-        <translation type="obsolete">WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|GIF Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Enhanced Windows Metafile(*.emf)|*.emf</translation>
+        <source>Kingsoft Presentation File(*.dps)|*.dps|Kingsoft Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|GIF Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Enhanced Windows Metafile(*.emf)|*.emf</source>
+        <translation type="obsolete">Kingsoft Presentation File(*.dps)|*.dps|Kingsoft Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|GIF Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Enhanced Windows Metafile(*.emf)|*.emf</translation>
     </message>
     <message>
-        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
-        <translation type="obsolete">WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</translation>
+        <source>Kingsoft Presentation Template(*.dpt)|*.dpt|Kingsoft Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <translation type="obsolete">Kingsoft Presentation Template(*.dpt)|*.dpt|Kingsoft Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
         <translation type="obsolete">Film  aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
         <translation type="obsolete">Sound aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
     </message>
     <message>
@@ -10455,6 +10583,30 @@ Check</source>
     <message>
         <source>then [Save] again.\n•Please copy the contents and paste them into a new file.\n•Give up the changes to this file.</source>
         <translation type="obsolete">erneut [Speichern].\n•Inhalte kopieren und in neue Datei einfügen.\n•Keine Änderungen an Datei vornehmen.</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <translation type="obsolete">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+    </message>
+    <message>
+        <source>WPS Office has not found any installed printers.</source>
+        <translation type="obsolete">Keine installierten Drucker gefunden.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|GIF Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Enhanced Windows Metafile(*.emf)|*.emf</source>
+        <translation type="obsolete">WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|GIF Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Enhanced Windows Metafile(*.emf)|*.emf</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <translation type="obsolete">WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <translation type="obsolete">Film  aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <translation type="obsolete">Sound aus angegebener Datei kann nicht eingefügt werden. Bitte Pfad und Dateiname prüfen und erneut versuchen.</translation>
     </message>
 </context>
 </TS>

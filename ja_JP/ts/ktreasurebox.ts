@@ -6,23 +6,23 @@
     <name>KCommand</name>
     <message>
         <source>All right</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
-        <translation type="unfinished"></translation>
+        <translation>たくさんの人がこの素晴らしいツールを使用しています。試してみませんか？</translation>
     </message>
     <message>
         <source>No thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>結構です。</translation>
     </message>
     <message>
         <source>Treasure Box</source>
-        <translation>宝箱</translation>
+        <translation>ツールボックス</translation>
     </message>
     <message>
         <source>WPS Office Recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office 推薦　</translation>
     </message>
 </context>
 </TS>
