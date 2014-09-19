@@ -119,7 +119,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
-        <translation type="obsolete">Хотите сохранить изменения в &quot;%s&quot;?</translation>
+        <translation type="obsolete">Сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>(Read Only)</source>
@@ -689,7 +689,7 @@ Please specify the right files.</source>
         <source>There is a large amount of information in the Clipboard. Do you want to keep the information so as to paste it to other applications later?
 ·Press Yes to keep the information.
 ·Press No to delete the information so as to set free space.</source>
-        <translation type="obsolete">Большой объем данных в буфер обмена. Хотите сохранить данные, чтобы затем вставить их в другие приложения? -
+        <translation type="obsolete">Большой объем данных в буфер обмена. Сохранить данные, чтобы затем вставить их в другие приложения? -
 ·нажмите &quot;Да&quot; для сохранения данных;
 ·нажмите &quot;Нет&quot; для удаления с освобождением памяти.</translation>
     </message>
@@ -845,7 +845,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     </message>
     <message>
         <source>Caution: You are attempting to save a shared workbook that is also protected with a password. Portions of the file that include the revision record will be encrypted. To ensure the security of the file, unshare the workbook or delete the revision record from the document. Do you want to save the file?</source>
-        <translation type="obsolete">Внимание: вы пытаетесь сохранить общую книгу, защищённую паролем. Части файла, включающие запись исправлений, будут зашифрованы. Для обеспечения безопасности файла отмените общий доступ к книге или удалите запись исправлений из документа. Хотите сохранить файл?</translation>
+        <translation type="obsolete">Внимание: вы пытаетесь сохранить общую книгу, защищённую паролем. Части файла, включающие запись исправлений, будут зашифрованы. Для обеспечения безопасности файла отмените общий доступ к книге или удалите запись исправлений из документа. Сохранить файл?</translation>
     </message>
     <message utf8="true">
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
@@ -2028,7 +2028,7 @@ Please try one of the following.
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation>Хотите сохранить изменения в &quot;%s&quot;?</translation>
+        <translation>Сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>(Read-only)</source>
@@ -2768,7 +2768,7 @@ Please specify the right files.</source>
 ? To save it on the Clipboard so that you can paste it later, click Yes.
 ? To delete it from the Clipboard and free memory, click No.</source>
         <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation>Большой объем данных в буфер обмена. Хотите сохранить данные, чтобы затем вставить их в другие приложения? -
+        <translation>Большой объем данных в буфер обмена. Сохранить данные, чтобы затем вставить их в другие приложения? -
 ·нажмите &quot;Да&quot; для сохранения данных;
 ·нажмите &quot;Нет&quot; для удаления с освобождением памяти.</translation>
     </message>
@@ -2968,7 +2968,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Caution: You are attempting to save a shared workbook that is also protected with a password. Portions of the file that include the revision record will be encrypted. To ensure the security of the file, unshare the workbook or delete the revision record from the document. Do you want to save the file?</source>
         <comment>TX_ShareWorkbook_MsgFileEncrypted</comment>
-        <translation>Внимание: вы пытаетесь сохранить общую книгу, защищённую паролем. Части файла, включающие запись исправлений, будут зашифрованы. Для обеспечения безопасности файла отмените общий доступ к книге или удалите запись исправлений из документа. Хотите сохранить файл?</translation>
+        <translation>Внимание: вы пытаетесь сохранить общую книгу, защищённую паролем. Части файла, включающие запись исправлений, будут зашифрованы. Для обеспечения безопасности файла отмените общий доступ к книге или удалите запись исправлений из документа. Сохранить файл?</translation>
     </message>
     <message utf8="true">
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
@@ -3141,7 +3141,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>The operation will effect a large number of cells and it may take several minutes to complete. Do you want to continue?</source>
         <comment>TX_FillTooMuchDataWarning</comment>
-        <translation>Данная операция повлияет на большое число ячеек и может занять несколько минут. Хотите продолжить?</translation>
+        <translation>Данная операция повлияет на большое число ячеек и может занять несколько минут. Продолжить?</translation>
     </message>
     <message>
         <source>Max</source>
@@ -4839,7 +4839,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Continue to refresh all?</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
-        <translation>Вы хотите продолжить обновление?</translation>
+        <translation>Продолжить обновление?</translation>
     </message>
 </context>
 <context>
@@ -8366,7 +8366,7 @@ Notice: if the second operand queries the number as text, single quotes should b
 ·To keep this format, which leaves out any incompatible features, click Yes. 
 ·To preserve the features, click No. Then save a copy in the latest WPS Spreadsheets format.</source>
         <comment>TX_Save_Txt_Backup</comment>
-        <translation>Файл, который вы хотите сохранить может содержать функции не совместимые с текущим форматом. Хотите, сохранить книгу в этом формате? 
+        <translation>Файл, который вы хотите сохранить может содержать функции не совместимые с текущим форматом. Сохранить книгу в этом формате? 
 
 Чтобы сохранить этот формат, удалив все несовместимые возможности, нажмите кнопку &quot;Да&quot;.
 Чтобы сохранить все возможности, нажмите кнопку &quot;Нет&quot; и сохраните файл в формате последней версии WPS Spreadsheets. </translation>
@@ -13867,12 +13867,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Can&apos;t &amp;Undo </source>
         <comment>TX_Undo_CannotUndo</comment>
-        <translation>&amp;Невозможно отменить</translation>
+        <translation>&amp;Нельзя отменить</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Redo</source>
         <comment>TX_Undo_CannotRedo</comment>
-        <translation>Невоз&amp;можно вернуть</translation>
+        <translation>Нель&amp;зя вернуть</translation>
     </message>
     <message>
         <source>&amp;Undo %s </source>
@@ -19036,7 +19036,7 @@ tically, only keep one row.
 
 •If you want to keep this format, and give up the incompatible features, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest WPS Spreadsheets format.</source>
-        <translation type="obsolete">Выбранный тип файла могжет не поддерживать некоторые характеристики этого файла. Хотите сохранить книги в этом формате? 
+        <translation type="obsolete">Выбранный тип файла могжет не поддерживать некоторые характеристики этого файла. Сохранить книги в этом формате? 
 
 • если вы хотите сохранить выбранный формат, и отказаться от несовместимых функций, нажмите кнопку &quot;Да&quot;. 
 • если вы хотите сохранить особенности формата файла, нажмите кнопку &quot;Нет&quot;, и затем сохраните копию файла в  последнем формате WPS Spreadsheets.</translation>
@@ -22655,11 +22655,11 @@ Continue ?</source>
     </message>
     <message>
         <source>Can&apos;t &amp;Undo </source>
-        <translation type="obsolete">&amp;Невозможно отменить</translation>
+        <translation type="obsolete">&amp;Нельзя отменить</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Redo</source>
-        <translation type="obsolete">Невоз&amp;можно вернуть</translation>
+        <translation type="obsolete">Нель&amp;зя вернуть</translation>
     </message>
     <message>
         <source>&amp;Undo %s </source>
