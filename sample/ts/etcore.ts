@@ -824,13 +824,6 @@ Please specify the right files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
-? To save it on the Clipboard so that you can paste it later, click Yes.
-? To delete it from the Clipboard and free memory, click No.</source>
-        <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Subtotal Result</source>
         <comment>TX_SUBTOTAL_PostfixOfResultSheetName</comment>
         <translation type="unfinished"></translation>
@@ -1880,6 +1873,282 @@ Continue without Undo?</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
+• To save it on the Clipboard so that you can paste it later, click Yes.
+• To delete it from the Clipboard and free memory, click No.</source>
+        <comment>TX_WARNING_Large_Clipboard</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DialogFrame</source>
+        <comment>Dialog Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File not loaded completely.</source>
+        <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s on %s</source>
+        <comment>TX_ACTIVE_PRINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown printer (check your Control Panel)</source>
+        <comment>TX_UNKNOWN_PRINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TX_NUMFMTApi_BuildIn_00</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_02</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0</source>
+        <comment>TX_NUMFMTApi_BuildIn_03</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_04</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.00%</source>
+        <comment>TX_NUMFMTApi_BuildIn_10</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.00E+00</source>
+        <comment>TX_NUMFMTApi_BuildIn_11</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>d-mmm-yy</source>
+        <comment>TX_NUMFMTApi_BuildIn_15</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>d-mmm</source>
+        <comment>TX_NUMFMTApi_BuildIn_16</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_20</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_21</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);(\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);[Red](\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);(\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_41</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_42</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_43</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_44</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm:ss.0</source>
+        <comment>TX_NUMFMTApi_BuildIn_45</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##0.0E+0</source>
+        <comment>TX_NUMFMTApi_BuildIn_48</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/dd/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data source contains no visible form</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)| *.*</source>
+        <comment>TX_App_GetSaveAsFileName_FileFilter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to modify the existing classification?</source>
+        <comment>TX_ChangeAutoOutline</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -2194,11 +2463,6 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The selected range contains array.</source>
-        <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Duplicates do not support reference to other workbooks or worksheets.</source>
         <comment>TX_RepeatWord_Cross_Sheet</comment>
         <translation type="unfinished"></translation>
@@ -2221,6 +2485,26 @@ Continue without Undo?</source>
     <message>
         <source>&lt;Unknown Sheet&gt;</source>
         <comment>TX_Revision_Desc_UnknownSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot change part of an array.</source>
+        <comment>TX_RepeatWord_ArrayFormula</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
+        <comment>TX_RepeatWord_Group_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Column has been chosen.</source>
+        <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table_</source>
+        <comment>TX_ListObject_NamePrefix</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2259,6 +2543,56 @@ Value: </source>
 
 Do you want WPS Spreadsheets to recalculate all formulas when this workbook is opened?</source>
         <comment>TX_RECALC_ALL_QUESTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
+        <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro Error</source>
+        <comment>TX_MSF_RUN_ERR_TITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro error at cell: </source>
+        <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Miss Next function for loop!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Miss Loop!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Miss IF function!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Miss END.IF function!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Illegal reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro interrupted at cell:</source>
+        <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2504,11 +2838,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
 </context>
 <context>
     <name>et_et_dbe</name>
-    <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
-        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Error</source>
         <comment>TX_ETDBE_ERRCAPTION</comment>
@@ -2843,6 +3172,41 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Continue to refresh all?</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection</source>
+        <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fail to open xml file. file not exit or syntax error</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parameter</source>
+        <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open %s. Cannot download the information you requested.</source>
+        <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
+        <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3784,11 +4148,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
-        <comment>DEVSQ_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
         <comment>EXPONDIST_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -3886,16 +4245,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.</source>
         <comment>HARMEAN_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
-        <comment>HYPGEOMDIST_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
-        <comment>HYPGEOMDIST_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4174,18 +4523,8 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
-        <comment>STDEV_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>STDEVA(number1,number2,...)</source>
         <comment>STDEVA_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
-        <comment>STDEVA_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4214,11 +4553,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
-        <comment>TDIST_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>TINV(probability,degrees_freedom)</source>
         <comment>TINV_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -4231,11 +4565,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TTEST(array1,array2,tails,type)</source>
         <comment>TTEST_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
-        <comment>TTEST_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4254,18 +4583,8 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
-        <comment>VAR_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>VARA(number1,number2,...)</source>
         <comment>VARA_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
-        <comment>VARA_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5854,11 +6173,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <comment>DSTDEV_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>DSTDEVP(database,field,criteria)</source>
         <comment>DSTDEVP_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -5881,11 +6195,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DVAR(database,field,criteria)</source>
         <comment>DVAR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <comment>DVAR_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6233,6 +6542,430 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>BIG_UNIT</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
+        <comment>DEVSQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
+        <comment>HYPGEOMDIST_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
+        <comment>HYPGEOMDIST_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
+        <comment>STDEV_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
+        <comment>STDEVA_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
+        <comment>TDIST_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
+        <comment>TTEST_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
+        <comment>VAR_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
+        <comment>VARA_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RTD(progID, server, topic1, [topic2], ...)</source>
+        <comment>RTD_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retrieves real-time data from a program that supports COM automation.</source>
+        <comment>RTD_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
+        <comment>DSTDEV_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
+        <comment>DVAR_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See Help for help on this function and its arguments.</source>
+        <comment>SEE_HELP_FORMORE_DESC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ARGUMENT(name_text, data_type_num, reference)</source>
+        <comment>ARGUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BREAK()</source>
+        <comment>BREAK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ELSE()</source>
+        <comment>ELSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ELSE.IF(logical_test)</source>
+        <comment>ELSEIF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>END.IF()</source>
+        <comment>ENDIF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOR(counter_text, start_num, end_num, step_num)</source>
+        <comment>FOR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOR.CELL(ref_name, area_ref, skip_blanks)</source>
+        <comment>FORCELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GOTO(reference)</source>
+        <comment>GOTO_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HALT(cancel_close)</source>
+        <comment>HALT_STNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEXT()</source>
+        <comment>NEXT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PAUSE(no_tool)</source>
+        <comment>PAUSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RESTART(level_num)</source>
+        <comment>RESTART_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RESULT(type_num)</source>
+        <comment>RESULT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RETURN(value)</source>
+        <comment>RETURN_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SET.NAME(name_text, value)</source>
+        <comment>SETNAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SET.VALUE(reference, values)</source>
+        <comment>SETVALUE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>STEP()</source>
+        <comment>STEP_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VOLATILE(logical)</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WHILE(logical_test)</source>
+        <comment>WHILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.NAME(name_text, info_type)</source>
+        <comment>GETNAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REGISTER.ID(module_text, procedure, type_text)</source>
+        <comment>REGISTERID_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UNREGISTER(register_id)</source>
+        <comment>UNREGISTER_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.DOCUMENT(type_num, name_text)</source>
+        <comment>GETDOCUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WORKBOOK(type_num, name_text)</source>
+        <comment>GETWORKBOOK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WORKSPACE(type_num)</source>
+        <comment>GETWORKSPACE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>APP.TITLE(text)</source>
+        <comment>APPTITLE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WINDOW.TITLE(text)</source>
+        <comment>WINDOWTITLE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ACTIVE.CELL()</source>
+        <comment>ACTIVECELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DOCUMENTS(type_num, match_text)</source>
+        <comment>DOCUMENTS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.FORMULA(reference)</source>
+        <comment>GETFORMULA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
+        <comment>GETNOTE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WINDOW(type_num, window_text)</source>
+        <comment>GETWINDOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WINDOWS(type_num, match_text)</source>
+        <comment>WINDOWS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
+        <comment>FORMULACONVERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXTREF(text, a1)</source>
+        <comment>TEXTREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFTEXT(reference, a1)</source>
+        <comment>REFTEXT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.BAR(bar_num, menu, command, subcommand)</source>
+        <comment>GETBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADD.BAR(bar_num)</source>
+        <comment>ADDBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADD.MENU(bar_num, menu_ref, position1, position2)</source>
+        <comment>ADDMENU_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DELETE.MENU(bar_num, menu, submenu)</source>
+        <comment>DELETEMENU_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.TOOLBAR(type_num, bar_id)</source>
+        <comment>GETTOOLBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ALERT(message_text, type_num, help_ref)</source>
+        <comment>ALERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALLER()</source>
+        <comment>CALLER_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ECHO(logical)</source>
+        <comment>ECHO_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEW(type_num, xy_series, add_logical)</source>
+        <comment>NEW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALCULATE.NOW()</source>
+        <comment>CALCULATENOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALCULATE.DOCUMENT()</source>
+        <comment>CALCULATEDOCUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.DATA(document_text, macro_text)</source>
+        <comment>ONDATA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
+        <comment>ONDOUBLECLICK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.ENTRY(sheet_text, macro_text)</source>
+        <comment>ONENTRY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.KEY(key_text, macro_text)</source>
+        <comment>ONKEY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.RECALC(sheet_text, macro_text)</source>
+        <comment>ONRECALC_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
+        <comment>ONSHEET_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
+        <comment>ONTIME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.WINDOW(window_text, macro_text)</source>
+        <comment>ONWINDOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QUIT()</source>
+        <comment>QUIT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECT(selection, active_cell)</source>
+        <comment>SELECT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECT.LAST.CELL()</source>
+        <comment>SELECTLASTCELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COPY(from_reference, to_reference)</source>
+        <comment>COPY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
+        <comment>PASTESPECIAL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULA(formula_text, reference)</source>
+        <comment>FORMULA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</source>
+        <comment>DEFINENAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
+        <comment>ROWHEIGHT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
+        <comment>COLUMNWIDTH_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ERROR(enable_logical, macro_ref)</source>
+        <comment>ERROR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RUN(reference, step)</source>
+        <comment>RUN_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILE.CLOSE(save_logical, route_logical)</source>
+        <comment>FILECLOSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PRINT(range_num, from, to, copies,...)</source>
+        <comment>PRINT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALL(module_text, procedure, type_text, argument1, ...)</source>
+        <comment>CALL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calls a procedure in a dynamic link library or code resource.</source>
+        <comment>CALL_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_persist</name>
@@ -6335,11 +7068,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format, any of the permission will be removed. Do you want to continue?</source>
         <comment>TX_Save_KRM_UnSuport_Format</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some data may be lost when a file of older version is opened.</source>
-        <comment>TX_Open_Data_Losing_On_Old_Ver_File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6568,18 +7296,43 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Spreadsheets Files(*.etx)</source>
+        <source>Access Databases(*.mdb;*.accdb)</source>
+        <comment>TX_ssDesc_ACCESS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
+        <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Query Files(*.iqy)</source>
-        <comment>TX_ssDesc_Iqy_</comment>
+        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Access Databases(*.mdb;*.accdb)</source>
-        <comment>TX_ssDesc_ACCESS</comment>
+        <source>Query Files(*.iqy; *.dqy)</source>
+        <comment>TX_ssDesc_Qy_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DIF Data Interchange File(*.dif)</source>
+        <comment>TX_ssDesc_Dif_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DIF (Data Interchange File)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7971,11 +8724,6 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number_sample</source>
-        <comment>TX_ParaInfo_128</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Population_s</source>
         <comment>TX_ParaInfo_129</comment>
         <translation type="unfinished"></translation>
@@ -9003,11 +9751,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the sample size.</source>
-        <comment>TX_ParaDesc_054</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is a cell range of values. The values should be numbers, names, arrays, or reference that contain numbers. </source>
         <comment>TX_ParaDesc_055</comment>
         <translation type="unfinished"></translation>
@@ -9570,16 +10313,6 @@ Check</source>
     <message>
         <source>is text or a number that is displayed in the cell. If omitted, the cell displays the Link_location text.</source>
         <comment>TX_ParaDesc_167</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the number of successes in the sample.</source>
-        <comment>TX_ParaDesc_168</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the size of the sample.</source>
-        <comment>TX_ParaDesc_169</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10593,16 +11326,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
-        <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
         <translation type="unfinished"></translation>
@@ -10828,11 +11551,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the kind of t-test: paired = 1, two-sample equal variance(homoscedastic) = 2, two-sample unequal variance = 3.</source>
-        <comment>TX_ParaDesc_419</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>can be any value.</source>
         <comment>TX_ParaDesc_420</comment>
         <translation type="unfinished"></translation>
@@ -10845,16 +11563,6 @@ Check</source>
     <message>
         <source>is the text enclosed in quotation marks or a reference to a cell containing the text you want to convert.</source>
         <comment>TX_ParaDesc_422</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_424</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10930,11 +11638,6 @@ Check</source>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_439</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the population (know) standard deviation. If omitted, the sample standard deviation is used.</source>
-        <comment>TX_ParaDesc_440</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11744,6 +12447,741 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>The error check is complete for the entire sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number_sample</source>
+        <comment>TX_ParaInfo_128</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the sample size.</source>
+        <comment>TX_ParaDesc_054</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the number of successes in the sample.</source>
+        <comment>TX_ParaDesc_168</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the size of the sample.</source>
+        <comment>TX_ParaDesc_169</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the kind of t-test: paired = 1, two-sample equal variance(homoscedastic) = 2, two-sample unequal variance = 3.</source>
+        <comment>TX_ParaDesc_419</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the population (know) standard deviation. If omitted, the sample standard deviation is used.</source>
+        <comment>TX_ParaDesc_440</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical_test</source>
+        <comment>TX_ParaInfo_217</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counter_text</source>
+        <comment>TX_ParaInfo_218</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start_num</source>
+        <comment>TX_ParaInfo_219</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End_num</source>
+        <comment>TX_ParaInfo_220</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step_num</source>
+        <comment>TX_ParaInfo_221</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ref_name</source>
+        <comment>TX_ParaInfo_222</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Area_ref</source>
+        <comment>TX_ParaInfo_223</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip_blanks</source>
+        <comment>TX_ParaInfo_224</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical_test</source>
+        <comment>TX_ParaInfo_225</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_226</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_227</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data_type_num</source>
+        <comment>TX_ParaInfo_228</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_229</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel_close</source>
+        <comment>TX_ParaInfo_230</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_231</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No_tool</source>
+        <comment>TX_ParaInfo_232</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Level_num</source>
+        <comment>TX_ParaInfo_233</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_234</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_235</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_236</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_237</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_ParaInfo_238</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_239</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info_type</source>
+        <comment>TX_ParaInfo_240</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Module_text</source>
+        <comment>TX_ParaInfo_241</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Procedure</source>
+        <comment>TX_ParaInfo_242</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_text</source>
+        <comment>TX_ParaInfo_243</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function_text</source>
+        <comment>TX_ParaInfo_244</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument_text</source>
+        <comment>TX_ParaInfo_245</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_type</source>
+        <comment>TX_ParaInfo_246</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>TX_ParaInfo_247</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut_text</source>
+        <comment>TX_ParaInfo_248</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help_topic</source>
+        <comment>TX_ParaInfo_249</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function_help</source>
+        <comment>TX_ParaInfo_250</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument_help</source>
+        <comment>TX_ParaInfo_251</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register_id</source>
+        <comment>TX_ParaInfo_252</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_253</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_254</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TX_ParaInfo_255</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match_text</source>
+        <comment>TX_ParaInfo_256</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell_ref</source>
+        <comment>TX_ParaInfo_257</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start_char</source>
+        <comment>TX_ParaInfo_258</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Num_chars</source>
+        <comment>TX_ParaInfo_259</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window_text</source>
+        <comment>TX_ParaInfo_260</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula_text</source>
+        <comment>TX_ParaInfo_261</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From_a1</source>
+        <comment>TX_ParaInfo_262</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To_a1</source>
+        <comment>TX_ParaInfo_263</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To_ref_type</source>
+        <comment>TX_ParaInfo_264</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rel_to_ref</source>
+        <comment>TX_ParaInfo_265</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A1</source>
+        <comment>TX_ParaInfo_266</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar_num</source>
+        <comment>TX_ParaInfo_267</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <comment>TX_ParaInfo_268</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <comment>TX_ParaInfo_269</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subcommand</source>
+        <comment>TX_ParaInfo_270</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu_ref</source>
+        <comment>TX_ParaInfo_271</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position1</source>
+        <comment>TX_ParaInfo_272</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position2</source>
+        <comment>TX_ParaInfo_273</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Submenu</source>
+        <comment>TX_ParaInfo_274</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar_id</source>
+        <comment>TX_ParaInfo_275</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ProgID</source>
+        <comment>TX_ParaInfo_217</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server</source>
+        <comment>TX_ParaInfo_218</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_219</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_220</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaInfo_548</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message_text</source>
+        <comment>TX_ParaInfo_280</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_281</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help_ref</source>
+        <comment>TX_ParaInfo_282</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical</source>
+        <comment>TX_ParaInfo_283</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_284</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xy_series</source>
+        <comment>TX_ParaInfo_285</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add_logical</source>
+        <comment>TX_ParaInfo_286</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document_text</source>
+        <comment>TX_ParaInfo_287</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_text</source>
+        <comment>TX_ParaInfo_288</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet_text</source>
+        <comment>TX_ParaInfo_289</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key_text</source>
+        <comment>TX_ParaInfo_290</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate_logical</source>
+        <comment>TX_ParaInfo_291</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>TX_ParaInfo_292</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tolerance</source>
+        <comment>TX_ParaInfo_293</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert_logical</source>
+        <comment>TX_ParaInfo_294</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window_text</source>
+        <comment>TX_ParaInfo_295</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <comment>TX_ParaInfo_296</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active_cell</source>
+        <comment>TX_ParaInfo_297</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From_reference</source>
+        <comment>TX_ParaInfo_298</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste_num</source>
+        <comment>TX_ParaInfo_299</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation_num</source>
+        <comment>TX_ParaInfo_300</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip_blanks</source>
+        <comment>TX_ParaInfo_301</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transpose</source>
+        <comment>TX_ParaInfo_302</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon_number</source>
+        <comment>TX_ParaInfo_303</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon_label</source>
+        <comment>TX_ParaInfo_304</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_305</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refers_to</source>
+        <comment>TX_ParaInfo_306</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_type</source>
+        <comment>TX_ParaInfo_307</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut_text</source>
+        <comment>TX_ParaInfo_308</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <comment>TX_ParaInfo_309</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>TX_ParaInfo_310</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <comment>TX_ParaInfo_311</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height_num</source>
+        <comment>TX_ParaInfo_312</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_313</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard_height</source>
+        <comment>TX_ParaInfo_314</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_315</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width_num</source>
+        <comment>TX_ParaInfo_316</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_317</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <comment>TX_ParaInfo_318</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_319</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard_num</source>
+        <comment>TX_ParaInfo_320</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula_text</source>
+        <comment>TX_ParaInfo_321</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_322</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To_reference</source>
+        <comment>TX_ParaInfo_323</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable_logical</source>
+        <comment>TX_ParaInfo_324</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_ref</source>
+        <comment>TX_ParaInfo_325</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_326</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step</source>
+        <comment>TX_ParaInfo_327</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save_logical</source>
+        <comment>TX_ParaInfo_328</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Route_logical</source>
+        <comment>TX_ParaInfo_329</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range_num</source>
+        <comment>TX_ParaInfo_330</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From</source>
+        <comment>TX_ParaInfo_331</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To</source>
+        <comment>TX_ParaInfo_332</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copies</source>
+        <comment>TX_ParaInfo_333</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <comment>TX_ParaInfo_334</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <comment>TX_ParaInfo_335</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print_what</source>
+        <comment>TX_ParaInfo_336</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <comment>TX_ParaInfo_337</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feed</source>
+        <comment>TX_ParaInfo_338</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quality</source>
+        <comment>TX_ParaInfo_339</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Y_resolution</source>
+        <comment>TX_ParaInfo_340</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <comment>TX_ParaInfo_341</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printer_text</source>
+        <comment>TX_ParaInfo_342</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print_to_file</source>
+        <comment>TX_ParaInfo_343</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collate</source>
+        <comment>TX_ParaInfo_344</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <comment>TX_ParaInfo_345</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore_print_area</source>
+        <comment>TX_ParaInfo_346</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Module_text</source>
+        <comment>TX_ParaInfo_347</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Procedure</source>
+        <comment>TX_ParaInfo_348</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_text</source>
+        <comment>TX_ParaInfo_349</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument</source>
+        <comment>TX_ParaInfo_350</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
