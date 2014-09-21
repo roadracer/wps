@@ -3873,7 +3873,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Pinwheel</source>
         <comment>wpp_sAnimEnterEffectTextPinwheel</comment>
-        <translation></translation>
+        <translation>Колесо</translation>
     </message>
     <message>
         <source>Plus</source>

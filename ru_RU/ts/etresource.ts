@@ -1507,7 +1507,7 @@ Center</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation></translation>
+        <translation>Приобрести серийный номер</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -3726,7 +3726,8 @@ Visual Basic</translation>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
 </context>
 <context>
@@ -6001,7 +6002,7 @@ Pictures</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation></translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -6972,7 +6973,8 @@ Layout</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>

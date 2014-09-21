@@ -4078,7 +4078,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation></translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Border</source>
@@ -4772,7 +4772,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation></translation>
+        <translation>&amp;Все</translation>
     </message>
     <message>
         <source>rbCurrentRecord</source>

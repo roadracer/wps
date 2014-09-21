@@ -16349,7 +16349,7 @@ ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
         <comment>et_sRepeatWordDelete</comment>
-        <translation>После нажатия &quot;ОК&quot;, будет сравниваться содержимое по строкам. 
+        <translation>После нажатия &quot;ОК&quot; будет сравниваться содержимое по строкам. 
 Повторяющиеся строки будут автоматически удаляться с оставлением только одной строки. 
 (Примечание: функция поддерживает только один диапазон)</translation>
     </message>
@@ -24570,7 +24570,7 @@ contents.
 ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
-        <translation type="obsolete">После нажатия &quot;ОК&quot;, будет сравниваться содержимое по строкам. 
+        <translation type="obsolete">После нажатия &quot;ОК&quot; будет сравниваться содержимое по строкам. 
 Повторяющиеся строки будут автоматически удаляться с оставлением только одной строки. 
 (Примечание: функция поддерживает только один диапазон)</translation>
     </message>

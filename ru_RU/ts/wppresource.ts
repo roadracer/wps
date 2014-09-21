@@ -282,8 +282,8 @@
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translatorcomment>З-D стиль 1</translatorcomment>
-        <translation></translation>
+        <translatorcomment>3-D</translatorcomment>
+        <translation>З-D стиль 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
@@ -3046,7 +3046,7 @@ On</source>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Справка WPSPresentation</translation>
+        <translation>Справка WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -9314,7 +9314,7 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Справка WPSPresentation</translation>
+        <translation>Справка WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Template</source>
@@ -9333,7 +9333,7 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Справка WPSPresentation</translation>
+        <translation>Справка WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -9528,7 +9528,7 @@ AddIns</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation></translation>
+        <translation>На передний план</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -9925,7 +9925,7 @@ Slide</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -10848,7 +10848,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation></translation>
+        <translation>Длинный штрих</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -16483,7 +16483,7 @@ Slide</source>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Справка WPSPresentation</translation>
+        <translation>Справка WPS Presentation</translation>
     </message>
 </context>
 <context>

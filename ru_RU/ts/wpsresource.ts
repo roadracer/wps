@@ -3691,11 +3691,11 @@ Header and Footer</source>
     <name>ongmani.ct_home</name>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation>1,0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation></translation>
+        <translation>1,5</translation>
     </message>
     <message>
         <source>100%</source>
@@ -3707,11 +3707,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>2.0</source>
-        <translation></translation>
+        <translation>2,0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation></translation>
+        <translation>2,5</translation>
     </message>
     <message>
         <source>200%</source>
@@ -3719,7 +3719,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>3.0</source>
-        <translation></translation>
+        <translation>3,0</translation>
     </message>
     <message>
         <source>33%</source>
@@ -3731,7 +3731,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation></translation>
+        <translation>5;5,5;6,5;7,5;8;9;10;10,5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
@@ -3913,7 +3913,8 @@ Replace</source>
     <message>
         <source>Format
 Painter</source>
-        <translation></translation>
+        <translation>Формат 
+по образцу</translation>
     </message>
     <message>
         <source>Format 
@@ -5871,7 +5872,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation></translation>
+        <translation>Стиль тени 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
@@ -6833,7 +6834,8 @@ Effects</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation></translation>
+        <translation>Применить 
+или отменить тень</translation>
     </message>
     <message>
         <source>Shadow 
@@ -7327,7 +7329,8 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -8907,7 +8910,8 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
     <message>
         <source>COM AddIns</source>
@@ -10441,7 +10445,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation></translation>
+        <translation>Поле со списком</translation>
     </message>
     <message>
         <source>Command Button</source>
@@ -10518,7 +10522,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation></translation>
+        <translation>Кнопка переключения</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -14163,7 +14167,7 @@ and Endnote</source>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation></translation>
+        <translation>3-D стиль 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
@@ -15062,7 +15066,7 @@ Effects</source>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation></translation>
+        <translation>Стиль тени 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
@@ -15788,7 +15792,7 @@ Effects</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation></translation>
+        <translation>Связь с облачным сервисом</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
