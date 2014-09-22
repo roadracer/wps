@@ -4222,7 +4222,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation></translation>
+        <translation>Проверка</translation>
     </message>
 </context>
 <context>

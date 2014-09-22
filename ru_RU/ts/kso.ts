@@ -5700,7 +5700,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source> Personal</source>
         <comment>_kso_versionType_PER</comment>
-        <translation></translation>
+        <translation> Личная</translation>
     </message>
     <message>
         <source> Development</source>
@@ -5760,12 +5760,12 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation></translation>
+        <translation>WPS Office Личная</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation></translation>
+        <translation>WPS Office Для обучения</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -7308,7 +7308,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ocean Blue</source>
         <comment>kso_sKclOceanBlue</comment>
-        <translation></translation>
+        <translation>Васильковый</translation>
     </message>
     <message>
         <source>Olive Green</source>
@@ -8528,7 +8528,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
         <comment>kso_SaveChangeMsg</comment>
-        <translation>Хотите сохранить изменения в &quot;%s&quot;?</translation>
+        <translation>Сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Unknown object</source>
@@ -10648,7 +10648,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
-        <translation type="obsolete">Хотите сохранить изменения в &quot;%s&quot;?</translation>
+        <translation type="obsolete">Сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Unknown object</source>

@@ -457,7 +457,7 @@
     <message>
         <source>Text Box</source>
         <comment>TxTextBox</comment>
-        <translation></translation>
+        <translation>Текстовое поле</translation>
     </message>
 </context>
 <context>
@@ -1323,7 +1323,7 @@ Do you want to replace it?</source>
     <message utf8="true">
         <source>（Asian）</source>
         <comment>TxRevision_Chp_Asian</comment>
-        <translation></translation>
+        <translation> (азиатский）</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2779,12 +2779,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation>Хотите сохранить изменения в %s?</translation>
+        <translation>Сохранить изменения в %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <comment>_TxDocument_SaveGlobalTempChange</comment>
-        <translation>Внесённые изменения повлияют на общий шаблон %s. Хотите сохранить изменения?</translation>
+        <translation>Внесённые изменения повлияют на общий шаблон %s. Сохранить изменения?</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
@@ -2891,7 +2891,7 @@ Please make sure the file is not locked by another user, or the target disk is n
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
         <comment>_TxDocument_FormatNotCompatible</comment>
-        <translation>%s может содержать форматирование не совместимое с форматом %s. Хотите сохранить документ в этом формате? 
+        <translation>%s может содержать форматирование не совместимое с форматом %s. Сохранить документ в этом формате? 
 
 • Чтобы сохранить в этом формате, нажмите кнопку &quot;Да&quot;. 
 • Чтобы сохранить всё форматирование, нажмите кнопку &quot;Нет&quot;. Затем сохраните копию в формате последней версии WPS Writer.</translation>
@@ -7618,11 +7618,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
-        <translation type="obsolete">Хотите сохранить изменения в %s?</translation>
+        <translation type="obsolete">Cохранить изменения в %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
-        <translation type="obsolete">Внесённые изменения повлияют на общий шаблон %s. Хотите сохранить изменения?</translation>
+        <translation type="obsolete">Внесённые изменения повлияют на общий шаблон %s. Сохранить изменения?</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
@@ -7712,7 +7712,7 @@ Please try one of the following.
 
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest Kingsoft Writer format.</source>
-        <translation type="obsolete">%s может содержать форматирование не совместимое с форматом %s. Хотите сохранить документ в этом формате? 
+        <translation type="obsolete">%s может содержать форматирование не совместимое с форматом %s. Сохранить документ в этом формате? 
 
 • Чтобы сохранить в этом формате, нажмите кнопку &quot;Да&quot;. 
 • Чтобы сохранить всё форматирование, нажмите кнопку &quot;Нет&quot;. Затем сохраните копию в формате последней версии Writer Kingsoft.</translation>

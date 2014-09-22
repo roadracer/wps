@@ -1196,23 +1196,23 @@ condition is true:</source>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation></translation>
+        <translation>Формат JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation>Portable Network Graphics</translation>
+        <translation>Формат PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation></translation>
+        <translation>Точечный рисунок Windows (BMP)</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation></translation>
+        <translation>Формат GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation></translation>
+        <translation>Формат TIFF</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -1951,14 +1951,14 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Command t&amp;ext:</source>
-        <translation>Т&amp;екст команды:</translation>
+        <translation>Те&amp;кст команды:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
     <message>
         <source>Error Checking</source>
-        <translation>Проверка ошибок</translation>
+        <translation>Проверка наличия ошибок</translation>
     </message>
     <message>
         <source>Cell ? Error</source>
@@ -3315,7 +3315,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error Checking</source>
-        <translation></translation>
+        <translation>Проверка наличия ошибок</translation>
     </message>
     <message>
         <source>Enable &amp;background error checking</source>
@@ -3443,7 +3443,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After pressing Enter, &amp;move selection</source>
-        <translation>После нажатия Enter, &amp;переместить выделение</translation>
+        <translation>После нажатия Enter &amp;переместить выделение</translation>
     </message>
     <message>
         <source>Recent Documents</source>
