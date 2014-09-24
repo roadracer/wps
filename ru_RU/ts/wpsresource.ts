@@ -4899,7 +4899,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Отступы</translation>
+        <translation>Поля</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -12604,7 +12604,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Отступы</translation>
+        <translation>Поля</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -20355,7 +20355,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Margins</name>
     <message>
         <source>Margins</source>
-        <translation type="obsolete">Отступы</translation>
+        <translation type="obsolete">Поля</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>

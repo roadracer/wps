@@ -5270,7 +5270,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Общие параметры и сохранение</translation>
+        <translation>Общие и сохранение</translation>
     </message>
     <message>
         <source>General options</source>
