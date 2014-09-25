@@ -3,7 +3,7 @@
 100%25.content="Отображение документа в масштабе 1:1."
 
 3DColor.title=Цвет объема
-3DColor.content="Заполнение цветом выбранной 3-D формы".\n\n"Щелкните стрелку для выбора другого цвета."
+3DColor.content="Заполнение цветом выбранной 3-D формы.\n\nЩелкните стрелку для выбора другого цвета."
 
 3DColor2.title=Цвет 3-D
 3DColor2.content="Щелкните стрелку для выбора других цветов 3-D."
@@ -45,7 +45,7 @@ AcceptChangeOnTB2.title=Выбранные изменения
 AcceptChangeOnTB2.content="Щелкните здесь для принятия всех изменений в документе."
 
 AdjustTableProperties.title=Свойства таблицы
-AdjustTableProperties.content="Открытие диалогового окна "Свойства таблицы"."
+AdjustTableProperties.content="Открытие диалогового окна \"Свойства таблицы\"."
 AdjustTableProperties.img=WPSTableProperties
 
 AlignBottomCenter.title=Выровнять снизу по центру
@@ -97,7 +97,7 @@ AutoVersion.title=Включить автоматичекое резервное
 AutoVersion.content="Включение автоматического резервного копирования для текущего документа с сохранением резервной копии файла в хранилище файлов каждый раз при закрытии документа."
 
 Autobackup.title=Хранилище файлов
-Autobackup.content="Краткое введение в функцию "хранилище файлов".
+Autobackup.content="Краткое введение в функцию хранилище файлов".
 
 BackgroundShapeFillColor.title=Цвет страницы
 BackgroundShapeFillColor.content="Выбор цвета для фона страницы."
@@ -170,13 +170,13 @@ ClearTableStyle.title=Очистить стиль таблицы
 ClearTableStyle.content="Очистка стиля таблицы для выделенных ячеек."
 
 CloseDevelopmentTools.title=Закрыть
-CloseDevelopmentTools.content="Щелкните здесь, чтобы закрыть вкладку "Конструктор"."
+CloseDevelopmentTools.content="Щелкните здесь, чтобы закрыть вкладку \"Конструктор\"."
 
 CloseHeaderAndFooter.title=Закрыть
 CloseHeaderAndFooter.content="Закрытие окна колонтитулов и возврат к редактированию документа."
 
 CloseMail.title=Закрыть
-CloseMail.content="Щелкните здесь, чтобы закрыть вкладку "Рассылки".
+CloseMail.content="Щелкните здесь, чтобы закрыть вкладку Рассылки".
 
 CloseOtherWindow.title=Закрыть другие окна
 CloseOtherWindow.content="Закрытие всех окон, кроме текущего."
@@ -264,7 +264,7 @@ DetailedSettings_WordArt.title=Параметры
 DetailedSettings_WordArt.content="Изменение настроек форматирования фигурного текста."
 
 DevelopmentTools.title=Средства разработчика
-DevelopmentTools.content="Открытие вкладки "Конструктор" для вставки переключателя, флажка и других функций."
+DevelopmentTools.content="Открытие вкладки \"Конструктор\" для вставки переключателя, флажка и других функций."
 
 DirectoryLevel.title=Уровень оглавления
 DirectoryLevel.content=Установка уровня оглавления для выделенного абзаца.
@@ -334,10 +334,10 @@ FillColor2.title=Заливка фигуры
 FillColor2.content=Щелкните стрелку для выбора из различных эффектов заливки.
 
 Find.title=Поиск и замена
-Find.content="Поиск текста в документе.\n\nЩёлкните стрелку для выбора других параметров, например "Перейти"."
+Find.content="Поиск текста в документе.\n\nЩёлкните стрелку для выбора других параметров, например \"Перейти\"."
 
 Find2.title=Поиск и замена
-Find2.content="Щелкните стрелку для выбора других параметров, например "Перейти"."
+Find2.content="Щелкните стрелку для выбора других параметров, например \"Перейти\"."
 
 FirstPageIsDifferent.title=Отличающийся колонтитул для первой страницы
 FirstPageIsDifferent.content=Установка отличающихся колонтитулов для первой страницы документа.
@@ -426,7 +426,7 @@ HeadRowsRepeat.title=Повторять колонтитул
 HeadRowsRepeat.content="Повторить строки верхнего колонтитула на каждой странице.\n\nВлияет только на таблицы, которые выходят за пределы одной страницы."
 
 HeaderAndFooterSetting.title=Колонтитулы
-HeaderAndFooterSetting.content=Отображение диалогового окна "Колонтитулы".
+HeaderAndFooterSetting.content=Отображение диалогового окна \"Колонтитулы\".
 
 HeaderFooter.title=Колонтитулы
 HeaderFooter.content=Изменение колонтитулов документа.
@@ -477,7 +477,7 @@ InsertCaption.content="Добавление подписи к изображен
 InsertCaption.img=WPSInsertCaption
 
 InsertCells.title=Вставить ячейки
-InsertCells.content="Показать диалоговое окно "Вставить ячейки"."
+InsertCells.content="Показать диалоговое окно \"Вставить ячейки\"."
 InsertCells.img=WPSInsertCells
 
 InsertChart.title=Вставить диаграмму
@@ -974,7 +974,7 @@ ShowDocumentMap.title=Схема документа
 ShowDocumentMap.content="Показать или скрыть схему документа."
 
 ShowDocumentMap2.title=Схема документа
-ShowDocumentMap2.content="Щёлкните здесь для выбора места для показа области "Схема документа"."
+ShowDocumentMap2.content="Щёлкните здесь для выбора места для показа области \"Схема документа\"."
 
 ShowFirstLineOnly.title=Показать только первую строку
 ShowFirstLineOnly.content=Показать только первую строку каждого элемента в структуре.
@@ -1117,7 +1117,7 @@ UpdateTocOnOutlining.title=Обновление оглавления
 UpdateTocOnOutlining.content="Обновление оглавления таким образом, чтобы для каждого его элемента был указан правильный номер страницы."
 
 VerbSideBySide.title=Исходное положение окна
-VerbSideBySide.content="Исходное положение окна для документов, сравниваемых рядом, чтобы они делили ширину экрана поровну.\n\nЧтобы включить эту функцию, включите функцию "Просмотр рядом"."
+VerbSideBySide.content="Исходное положение окна для документов, сравниваемых рядом, чтобы они делили ширину экрана поровну.\n\nЧтобы включить эту функцию, включите функцию \"Просмотр рядом\"."
 
 ViewMergedData.title=Просмотр данных слияния
 ViewMergedData.content="Замена полей слияния в ваших документах фактическими данными из списка получателей для предпросмотра."
