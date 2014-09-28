@@ -1227,6 +1227,14 @@ path:%3</source>
         <source>Free version limit feature list</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1-day trial period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office will be converted into free versions. At this point, some features not normally available,if you need to use these features, please purchase the WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgNewFolder</name>
@@ -1269,24 +1277,24 @@ path:%3</source>
 <context>
     <name>KxDlgVbaInstallation</name>
     <message>
-        <source>Pro</source>
+        <source>Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Need to support VBA macros run environment. If you need to run these macros, please download and install VBA.</source>
+        <source>Need to support VBA macros run environment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Download</source>
+        <source>If you need to run these macros, please download and install VBA.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Download</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxExpirationReminderDlg</name>
-    <message>
-        <source>30-day trial period has ended. WPS Office will be converted into free versions. At this point, some features not normally available, if you need to use these features, please purchase the WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Writer:</source>
         <translation type="unfinished"></translation>
@@ -1296,27 +1304,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check the spelling of English words in the current document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mail Merge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Domain Protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Region/Format Restrict Editing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1325,6 +1317,158 @@ path:%3</source>
     </message>
     <message>
         <source>Spreadsheets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office you purchased has expired at used period, the program will automatically become free version, the part of the feature is not used properly./nWe extend the 15 - day renewal fee for your time, you can renew and enjoy the discount in this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1-day trial period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office will be converted into free versions. At this point, some features not normally available, if you need to use these features, please purchase the WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as ooxml format(docx)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the current document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Online Templates on or off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fields Protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert ghosted text and picture behind the content on the page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing Content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View the list of macros, from which you can run, create, or delete a macro.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Developer tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the Option Button, Check Box and more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Presentation into Writer format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Package into Folder/Compressed File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as ooxml format(xlsx/xlsm)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the current worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Consolidate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combine values from multiple ranges into one new range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text to Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separate the contents of one Spreadsheets cell into separate columns.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goal-Seek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find the right input when you know the result you want.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow multiple people to work in a workbook at the same time.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1579,33 +1723,90 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KxQingActiveCodeDialog</name>
+    <message>
+        <source>WPS Office Active Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your active code here:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingAuthorize</name>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxQingBuyTooltip</name>
     <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have trail %1 days, can trail %2 days more. </source>
+        <source>To purchase WPS Office, click here to visit the purchase page for more information. 
+You need to sign in before you buy. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you want to buy WPS Office, click here get more informations.
-You have to login before buy WPS Office.</source>
+        <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have trail %1 days, you can trail %2 days more.
-After trail period, Part of features will be disabled.
-In order not to affect your work, buy WPS Office please.</source>
+        <source>After the trial expires, some features will not work properly. 
+Please purchase to continue using WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy it now</source>
+        <source>Buy now &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click here to open store page for more informations.
-You have to login before buy.</source>
+        <source>Buy now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your WPS Office is about to expire. 
+After expiration, some features will not work properly. Renew now and you can get a discount. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew now &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authorization will expire within today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authorization will expire after %1 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after 1 day</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after %2 days</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1613,10 +1814,6 @@ You have to login before buy.</source>
     <name>KxQingRestrictDlg</name>
     <message>
         <source>WPS Office Disable Function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The free version can not use this feature, to provoke you are paying customers can use any of the following ways:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1633,6 +1830,18 @@ You have to login before buy.</source>
     </message>
     <message>
         <source>Active product.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Limited Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The free version can not use this feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To provoke you are paying customers can use any of the following ways:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1677,26 +1886,19 @@ You have to login before buy.</source>
 <context>
     <name>KxVbaBuyDlg</name>
     <message>
-        <source>Pro</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Need to support VBA macros run environment.You are currently not included in the package purchase VBA, document macros will not work properly. If you need to run these macros, please purchase separately.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Macro</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KxVbaInstallationDlg</name>
     <message>
-        <source>Macro</source>
+        <source>Need to support VBA macros run environment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently not included in the package purchase VBA, document macros will not work properly. If you need to run these macros, please purchase separately.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Buy Now</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

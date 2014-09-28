@@ -828,6 +828,14 @@
         <source>WordArt</source>
         <translation>插入艺术字</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>classics.drawing.NudgeDown</name>
@@ -1636,7 +1644,7 @@ Center</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>皮肤</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
@@ -2905,7 +2913,7 @@ Window</source>
     </message>
     <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3225,7 +3233,7 @@ Window</source>
     </message>
     <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -4514,6 +4522,10 @@ On/Off</source>
     <message>
         <source>Encryption</source>
         <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -5975,6 +5987,14 @@ Pane</source>
     <message>
         <source>WordArt</source>
         <translation>艺术字</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -8326,7 +8346,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>艺术字大小</translation>
+        <translation type="obsolete">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt 
@@ -8363,7 +8383,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">艺术字大小</translation>
+        <translation type="unfinished">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8666,6 +8686,18 @@ Shape</source>
     <message>
         <source>WorkSpace_Backup</source>
         <translation type="obsolete">文件备份</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
     </message>
 </context>
 <context>
@@ -9092,6 +9124,10 @@ Add-Ins</source>
     <message>
         <source>Encryption</source>
         <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -10128,6 +10164,18 @@ Add-Ins</source>
         <source>Zoom</source>
         <translation>显示比例</translation>
     </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>截屏</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -10137,7 +10185,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>皮肤</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
@@ -11051,6 +11099,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -12930,6 +12982,14 @@ Center</source>
         <source>Weight</source>
         <translation>线条样式</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.PictureColor</name>
@@ -14607,6 +14667,22 @@ Color</source>
     <message>
         <source>Workspace Backup</source>
         <translation type="obsolete">文件备份</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>特色功能</translation>
     </message>
 </context>
 <context>
@@ -18697,6 +18773,14 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>WPS Business Version</source>
         <translation>商业授权</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
 </context>
 </TS>

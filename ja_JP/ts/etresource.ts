@@ -828,6 +828,14 @@
         <source>WordArt</source>
         <translation>アート文字の挿入</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.drawing.NudgeDown</name>
@@ -2880,7 +2888,7 @@ Window</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ファイル</translation>
+        <translation type="obsolete">ファイル</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3168,7 +3176,7 @@ Window</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ファイル</translation>
+        <translation type="obsolete">ファイル</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -4382,6 +4390,10 @@ On/Off</source>
     <message>
         <source>Encryption</source>
         <translation>暗号化</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -5788,6 +5800,14 @@ Pane</source>
         <source>WordArt</source>
         <translation>アート
 文字</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8211,7 +8231,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation type="unfinished">アート文字
+        <translation type="obsolete">アート文字
 のサイズ</translation>
     </message>
     <message>
@@ -8250,7 +8270,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">アート文字のサイズ</translation>
+        <translation type="unfinished">アート文字のサイズ</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8521,6 +8541,18 @@ Shape</source>
     <message>
         <source>WPS Permit</source>
         <translation>マイ・アカウント</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8938,6 +8970,10 @@ Add-Ins</source>
     <message>
         <source>Encryption</source>
         <translation>暗号化</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -9938,6 +9974,18 @@ Add-Ins</source>
         <source>Zoom</source>
         <translation>ズーム</translation>
     </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -10824,6 +10872,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>暗号化</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -12642,6 +12694,14 @@ Center</source>
         <source>Weight</source>
         <translation>線の種類</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.PictureColor</name>
@@ -14286,6 +14346,22 @@ Color</source>
     <message>
         <source>WPS Permit</source>
         <translation>マイ アカウント</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17794,6 +17870,14 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>WPS Business Version</source>
         <translation>Kingsoftビジネス版</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

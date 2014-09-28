@@ -920,6 +920,14 @@
         <source>Wrap Text</source>
         <translation>Textumbruch</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
@@ -3336,6 +3344,10 @@ Direction</source>
         <translation>Verschlüsseln</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Als PDF exportieren</translation>
     </message>
@@ -4052,13 +4064,8 @@ Painter</source>
         <translation>Weitere Unterstreichungen</translation>
     </message>
     <message>
-        <source>New 
-Style</source>
-        <translation>Neuer Stil</translation>
-    </message>
-    <message>
         <source>New Style</source>
-        <translation type="obsolete">Neuer Stil</translation>
+        <translation type="unfinished">Neuer Stil</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4582,6 +4589,14 @@ bol</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
     </message>
 </context>
 <context>
@@ -6024,6 +6039,14 @@ On/Off</source>
         <source>Wrapping Style</source>
         <translation type="obsolete">Textumbruch Stil</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
@@ -6089,7 +6112,11 @@ On/Off</source>
     <message>
         <source>Footnote/Endnote
 Separator</source>
-        <translation>Zeige Fuß- und Endnoten Seperator</translation>
+        <translation type="obsolete">Zeige Fuß- und Endnoten Seperator</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnotes</source>
@@ -7355,11 +7382,11 @@ teilen</translation>
     <message>
         <source>Text
 Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="obsolete">Textrichtung</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">Textrichtung</translation>
+        <translation type="unfinished">Textrichtung</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -8613,7 +8640,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>WordArt Größe</translation>
+        <translation type="obsolete">WordArt Größe</translation>
     </message>
     <message>
         <source>WordArt 
@@ -8650,7 +8677,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">WordArt Größe</translation>
+        <translation type="unfinished">WordArt Größe</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8911,6 +8938,26 @@ Shape</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">wpsweibolayout</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Augenschutz-Modus</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>Spezielles Werkzeug</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>Text-Tool</translation>
     </message>
 </context>
 <context>
@@ -9413,6 +9460,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>Verschlüsseln</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -10419,6 +10470,22 @@ Diagonal Line in Cell</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">wpsweibolayout</translation>
     </message>
+    <message>
+        <source>Change Account</source>
+        <translation>Konto ändern</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Screenshot</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -11255,6 +11322,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>Verschlüsseln</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16256,6 +16327,26 @@ Effects</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">wpsweibolayout</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Augenschutz-Modus</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>Spezielles Werkzeug</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>Text-Tool</translation>
+    </message>
 </context>
 <context>
     <name>tips.100%</name>
@@ -16596,6 +16687,18 @@ Effects</source>
     </message>
     <message>
         <source>Word Tools</source>
+        <translation>Text-Tool</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
         <translation>Text-Tool</translation>
     </message>
 </context>
@@ -20416,6 +20519,14 @@ Directly</source>
         <source>￥</source>
         <translation type="obsolete">￥</translation>
     </message>
+    <message>
+        <source>Mail FeedBack</source>
+        <translation>Mail-FeedBack</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Augenschutz-Modus</translation>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands.Help</name>
@@ -20537,7 +20648,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Datei</translation>
+        <translation type="obsolete">Datei</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -21309,7 +21420,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Datei</translation>
+        <translation type="obsolete">Datei</translation>
     </message>
     <message>
         <source>Final Showing Markup;Final;Original Showing Markup;Original</source>

@@ -3870,11 +3870,6 @@ Upoštevajte, da stiskanje slike, lahko zmanjša kvaliteto vaših slik.
         <translation type="unfinished">Shranjeni podatki</translation>
     </message>
     <message>
-        <source>Flowchart: Seqential Access Storage</source>
-        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Flowchart: Magnetic Disk</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICDISK</comment>
         <translation type="unfinished">Diagram poteka: Magnetni disk</translation>
@@ -4887,6 +4882,11 @@ Upoštevajte, da stiskanje slike, lahko zmanjša kvaliteto vaših slik.
     <message>
         <source>FreeForm</source>
         <comment>DRAWINGSTR_FREEFORM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

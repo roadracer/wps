@@ -541,16 +541,16 @@
         <translation>Inserir Clip Art</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Inserir Imagem</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>Inserir WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -601,7 +601,7 @@
         <translation>Chamada de Atenção</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1402,10 +1402,6 @@ mestre</translation>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Alterar IU</translation>
@@ -2597,6 +2593,10 @@ Ligado</translation>
         <translation>Criptografar</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportar para PDF</translation>
     </message>
@@ -3531,6 +3531,10 @@ Rodapé</translation>
         <translation>Inserir Hiperligação</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Organization Chart</source>
         <translation>Inserir Gráfico Organizacional</translation>
     </message>
@@ -3545,10 +3549,6 @@ Rodapé</translation>
     <message>
         <source>Insert WordArt</source>
         <translation>Inserir WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -3571,7 +3571,7 @@ Rodapé</translation>
         <translation>Objeto</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6047,7 +6047,7 @@ WordArt</translation>
     <message>
         <source>WordArt
 Size</source>
-        <translation>Tamanho do
+        <translation type="obsolete">Tamanho do
 WordArt</translation>
     </message>
     <message>
@@ -6055,6 +6055,10 @@ WordArt</translation>
 Shape</source>
         <translation>Forma do
 WordArt</translation>
+    </message>
+    <message>
+        <source>WordArt Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -6119,7 +6123,7 @@ WordArt</translation>
         <translation>Ajude-nos a melhorar o WPS Office</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6155,7 +6159,7 @@ WordArt</translation>
         <translation>Documentos Online</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6183,7 +6187,7 @@ WordArt</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6553,6 +6557,10 @@ Add-Ins</translation>
         <translation>Finalizar Apresentação</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Equação</translation>
     </message>
@@ -6637,10 +6645,6 @@ Add-Ins</translation>
         <translation>Ir para Slide</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grid and Guides</source>
         <translation>Grade e guias</translation>
     </message>
@@ -6705,16 +6709,16 @@ Add-Ins</translation>
         <translation>Inserir Colunas à Direita</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Rows Above</source>
         <translation>Inserir linha acima</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
         <translation>Inserir linha abaixo</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -6844,7 +6848,7 @@ Master</translation>
         <translation>Lista do Menu Objeto</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7026,6 +7030,10 @@ Master</translation>
     <message>
         <source>Screen</source>
         <translation>Tela</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -7270,10 +7278,6 @@ Master</translation>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Alterar UI</translation>
@@ -8000,6 +8004,10 @@ Master</translation>
     <message>
         <source>Encryption</source>
         <translation>Criptografia</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9572,12 +9580,12 @@ Subordinado</translation>
         <translation type="obsolete">Inserir Clip Atrístico</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>Inserir Imagem</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>Inserir Imagem</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -9640,7 +9648,7 @@ Subordinado</translation>
         <translation>Deslocar Sombra para Cima</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11216,7 +11224,7 @@ Sombra</translation>
         <translation>Ajude-nos a melhorar o WPS Office</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11252,7 +11260,7 @@ Sombra</translation>
         <translation>Documentos Online</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11280,7 +11288,7 @@ Sombra</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12121,7 +12129,7 @@ Sombra</translation>
         <translation>Arquivo de uso à Distância</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12129,7 +12137,7 @@ Sombra</translation>
         <translation>Cópia de Segurança Manual</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12912,7 +12920,7 @@ Slide</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Arquivos</translation>
+        <translation type="obsolete">Arquivos</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -13135,7 +13143,7 @@ Slide</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Arquivo</translation>
+        <translation type="obsolete">Arquivo</translation>
     </message>
     <message>
         <source>Formats</source>

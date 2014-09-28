@@ -374,7 +374,7 @@ condition is true:</source>
         <source>Enter the name or the description of the function you would like to look for.</source>
         <translation type="obsolete">Geben Sie den Namen oder die Beschreibung der Funktion ein, nach welcher Sie suchen.</translation>
     </message>
-    <message id="0">
+    <message>
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>Geben Sie unten den Namen oder eine Beschreibung von der Funktion Sie nachschlagen wollen  </translation>
     </message>
@@ -925,6 +925,38 @@ condition is true:</source>
         <source>does not contain a valid Automation Server.</source>
         <translation>enthält Automatisierungsserver nicht </translation>
     </message>
+    <message>
+        <source>A file named </source>
+        <translation>ein Dateiname  </translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation>Automation Server </translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation>Das Objekt enthält keinen neuen Automatisierungsserver oder Sie verfügen nicht über ausreichende Zugriffsrechte um den Automatisierungsserver zu registrieren.</translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation>ist an dieser Position bereits vorhanden.Wollen sie es ersetzen?</translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"> ist an dieser Position bereits vorhanden oder </translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation>ist an dieser Position bereits vorhanden.oder ist ein ungültig  Add-Ins Makrodatei.  </translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation>enthält Automatisierungsserver nicht </translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation>ist ein ungültig  Add-Ins Makrodatei. </translation>
+    </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
@@ -1227,6 +1259,10 @@ condition is true:</source>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
+        <translation>Mit dem ausgewählten Verbindungstyp kann kein PivotTable erstellt werden.</translation>
     </message>
 </context>
 <context>
@@ -1934,6 +1970,10 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Category:</source>
+        <translation>Kategorie</translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
         <translation>Kategorie</translation>
     </message>
 </context>
@@ -3662,6 +3702,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7667,6 +7711,10 @@ system will remind checking the correctness of the contents.
     <message>
         <source>Type</source>
         <translation>Typ</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation>Die Datenquelle enthält keine sichtbaren Tabellen</translation>
     </message>
 </context>
 <context>

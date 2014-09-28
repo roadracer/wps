@@ -320,10 +320,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The layout will take effect after restarting WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>about:blank</source>
         <translation type="unfinished"></translation>
     </message>
@@ -332,11 +328,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Layout will be changed at next start time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restart Office to bring the layout into effect</source>
+        <source>Restart WPS Office for layout setting to take effect</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -442,14 +434,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Local language packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online language packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -458,11 +442,30 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Network error</source>
+        <source>Local Language Packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get language package failed!</source>
+        <source>Online Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1338,7 +1341,7 @@
 <context>
     <name>KxCustomRibbonEx_Menu</name>
     <message>
-        <source>Custom Menu</source>
+        <source>Customize menu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3283,19 +3286,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
 <context>
     <name>KxOnlineFontTipDlg</name>
     <message>
-        <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You still not Vip member, upgrade can download all fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3307,12 +3298,24 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
+        <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
+        <source>Cannot connect to this service. Check your network connection please.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -3342,59 +3345,61 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pleas login vip first</source>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please login first</source>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vip Font, Please login</source>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Free Font, Please login</source>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>VIP font, your %1 has exprired, please renew</source>
+        <source>Your membership %1 expires now. Please renew.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vip Font, Click to use</source>
+        <source>VIP cloud fonts installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Free Font, Click to use</source>
+        <source>Cloud fonts installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>VIP font, please upgrade to VIP first</source>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Free Font, Free to download</source>
+        <source>Click to install free cloud fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your vip %1 has expired, please renew first</source>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Press to pause</source>
+        <source>Downloading fonts, please wait?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have downloaded all online fonts, please keep looking forward for more.</source>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to list online font to top</source>
+        <source>Click to keep cloud fonts on top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to shuffle online font</source>
+        <source>Click to shuffle cloud fonts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4192,7 +4197,7 @@ but the included system package is reserved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Customize animation:</source>
+        <source>Custom animation:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4243,15 +4248,6 @@ but the included system package is reserved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cannot open the file &quot;%1&quot;. 
-the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>open file folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>
 
 modify time: </source>
@@ -4261,6 +4257,15 @@ modify time: </source>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4311,12 +4316,12 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cannot open the file &quot;%1&quot;. 
-the file may be renamed,deleted or moved the location.</source>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>open file folder</source>
+        <source>Open file location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4355,38 +4360,6 @@ the file may be renamed,deleted or moved the location.</source>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxUpdateOnlineCommandBase</name>
-    <message>
-        <source>Try the Professional version now to enjoy a greater number
-of services and features.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to try it now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue Trial</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4867,10 +4840,6 @@ of services and features.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Blue Grey</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Light Purple</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5135,6 +5104,10 @@ Always take this action.</source>
     </message>
     <message>
         <source>Do not check this when starting WPS Office next time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue Gray</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

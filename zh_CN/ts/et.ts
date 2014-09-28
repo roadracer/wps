@@ -475,7 +475,7 @@ condition is true:</source>
         <source>Enter the name or the description of the function you want to look for.</source>
         <translation type="obsolete">请输入您要查找的函数名称或函数功能的简要描述...</translation>
     </message>
-    <message id="0">
+    <message>
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>请输入您要查找的函数名称或函数功能的简要描述...</translation>
     </message>
@@ -1171,6 +1171,38 @@ condition is true:</source>
         <source>is not a valid Add-In.</source>
         <translation type="obsolete">为无效的加载宏。</translation>
     </message>
+    <message>
+        <source>A file named </source>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation>自动化服务器</translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation>文件不包含自动化服务器或是没有足够的权限在自动化服务上注册。</translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation>已存在于列表中，您希望将文件替换掉吗？</translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation>已存在于列表中，或是该文件没有包含自动化服务器。</translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation>已存在于列表中，或是该文件是无效加载宏。</translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation>没有包含自动化服务器。</translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished">为无效的加载宏。</translation>
+    </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
@@ -1606,6 +1638,10 @@ condition is true:</source>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation>您不能使用当前数据来创建数据透视表。请检查引用区域是否有效，指定工作表是否存在。</translation>
+    </message>
+    <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
+        <translation type="unfinished">所选的连接类型不能用于创建数据透视表.</translation>
     </message>
 </context>
 <context>
@@ -2512,6 +2548,10 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Refer to:</source>
         <translation>引用位置(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation>分类(T)</translation>
     </message>
 </context>
 <context>
@@ -4557,6 +4597,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Form&amp;ulas Referencing Blank Cells</source>
         <translation type="obsolete">引用空单元格的公式(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation>第一次保存时生成备份文件(&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -9633,6 +9677,10 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>The data source contains no visible form</source>
+        <translation type="unfinished">数据源中没有包含可见的表格.</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
         <translation type="unfinished">数据源中没有包含可见的表格.</translation>
     </message>
 </context>

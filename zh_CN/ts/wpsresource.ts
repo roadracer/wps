@@ -920,6 +920,14 @@
         <source>Wrap Text</source>
         <translation>文字环绕</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
@@ -1987,7 +1995,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>皮肤</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
@@ -3485,6 +3493,10 @@ Direction</source>
         <translation>文件加密</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -4239,13 +4251,8 @@ Painter</source>
         <translation>其他下划线</translation>
     </message>
     <message>
-        <source>New 
-Style</source>
-        <translation>新样式</translation>
-    </message>
-    <message>
         <source>New Style</source>
-        <translation type="obsolete">新样式</translation>
+        <translation type="unfinished">新样式</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4836,6 +4843,14 @@ bol</source>
     <message>
         <source>WordArt</source>
         <translation>艺术字</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -6301,6 +6316,14 @@ On/Off</source>
         <source>Wrapping Style</source>
         <translation type="obsolete">环绕</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
@@ -6379,7 +6402,11 @@ Directly</source>
     <message>
         <source>Footnote/Endnote
 Separator</source>
-        <translation>脚注/尾注分隔线</translation>
+        <translation type="obsolete">脚注/尾注分隔线</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
+        <translation type="unfinished">脚注/尾注分隔线</translation>
     </message>
     <message>
         <source>Footnotes</source>
@@ -7662,11 +7689,11 @@ Cells</source>
     <message>
         <source>Text
 Direction</source>
-        <translation>文字方向</translation>
+        <translation type="obsolete">文字方向</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">文字方向</translation>
+        <translation type="unfinished">文字方向</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -8921,7 +8948,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>艺术字大小</translation>
+        <translation type="obsolete">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt 
@@ -8958,7 +8985,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">艺术字大小</translation>
+        <translation type="unfinished">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -9259,6 +9286,26 @@ Shape</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">适合微博显示的页面</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>特色功能</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>文字工具</translation>
     </message>
 </context>
 <context>
@@ -9758,6 +9805,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -10792,6 +10843,22 @@ Diagonal Line in Cell</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">适合微博显示的页面</translation>
     </message>
+    <message>
+        <source>Change Account</source>
+        <translation type="unfinished">更改登录账户</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>截屏</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -10823,7 +10890,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>皮肤</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
@@ -11683,6 +11750,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16843,6 +16914,26 @@ Effects</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">适合微博显示的页面</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>特色功能</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>文字工具</translation>
+    </message>
 </context>
 <context>
     <name>tips.100%</name>
@@ -21699,6 +21790,18 @@ You can also center them or distribute them evenly across the page.</source>
         <source>Word Tools</source>
         <translation>文字工具</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>文字工具</translation>
+    </message>
 </context>
 <context>
     <name>wpsclassics.mainwindow</name>
@@ -22718,6 +22821,14 @@ Directly</source>
         <source>Zoom</source>
         <translation>显示比例</translation>
     </message>
+    <message>
+        <source>Mail FeedBack</source>
+        <translation>邮件反馈</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands.Help</name>
@@ -22793,7 +22904,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -23117,7 +23228,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>

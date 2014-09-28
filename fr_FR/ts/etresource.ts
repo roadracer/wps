@@ -2932,7 +2932,7 @@ des tâches</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="obsolete">Fichier</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3162,7 +3162,7 @@ des tâches</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="obsolete">Fichier</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -4171,6 +4171,10 @@ de l&apos;ombre</translation>
     <message>
         <source>Encryption</source>
         <translation>Chiffrement</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7152,13 +7156,18 @@ WordArt</translation>
     <message>
         <source>WordArt
 Size</source>
-        <translation>Taille 
+        <translation type="obsolete">Taille 
 WordArt</translation>
     </message>
     <message>
         <source>WordArt 
 Shape</source>
         <translation>Forme 
+WordArt</translation>
+    </message>
+    <message>
+        <source>WordArt Size</source>
+        <translation type="unfinished">Taille 
 WordArt</translation>
     </message>
     <message>
@@ -7687,6 +7696,10 @@ COM</translation>
     <message>
         <source>Encryption</source>
         <translation>Chiffrement</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -9263,6 +9276,10 @@ COM</translation>
     <message>
         <source>Encryption</source>
         <translation>Chiffrement</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>

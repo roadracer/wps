@@ -617,16 +617,16 @@
         <translation>Вставить клип</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>Вставить фигурный текст</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -705,7 +705,7 @@
         <translation type="obsolete">Выбрать объект</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1905,10 +1905,6 @@ Merged Data</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -3348,6 +3344,10 @@ Direction</source>
         <translation>Шифрование</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Преобразовать в PDF</translation>
     </message>
@@ -4063,11 +4063,11 @@ Painter</source>
     <message>
         <source>New 
 Style</source>
-        <translation>Новый стиль</translation>
+        <translation type="obsolete">Новый стиль</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="obsolete">Новый стиль</translation>
+        <translation type="unfinished">Новый стиль</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4413,6 +4413,10 @@ Footer</source>
         <translation>Вставить клип</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Вставить изображение</translation>
     </message>
@@ -4439,10 +4443,6 @@ Footer</source>
     <message>
         <source>Insert Watermark</source>
         <translation>Вставить подложку</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -4473,7 +4473,7 @@ Footer</source>
         <translation>С нечётной страницы</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5655,12 +5655,12 @@ Picture</source>
         <translation>Вставить клип</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>Вставить изображение</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -5739,7 +5739,7 @@ Picture</source>
         <translation>Сдвинуть тень вверх</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6099,7 +6099,11 @@ On/Off</source>
     <message>
         <source>Footnote/Endnote
 Separator</source>
-        <translation>Разделитель сносок</translation>
+        <translation type="obsolete">Разделитель сносок</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnotes</source>
@@ -7361,12 +7365,12 @@ Cells</source>
     <message>
         <source>Text
 Direction</source>
-        <translation>Направление
+        <translation type="obsolete">Направление
 текста</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">Направление текста</translation>
+        <translation type="unfinished">Направление текста</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -8627,7 +8631,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>Размер</translation>
+        <translation type="obsolete">Размер</translation>
     </message>
     <message>
         <source>WordArt 
@@ -8664,7 +8668,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">Размер</translation>
+        <translation type="unfinished">Размер</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8739,6 +8743,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">Автоматическое резервное копирование файла</translation>
     </message>
@@ -8767,7 +8775,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8827,7 +8835,7 @@ Shape</source>
         <translation>Документы из Интернета</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8837,10 +8845,6 @@ Shape</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Открыть из облачного сервиса</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -8867,12 +8871,16 @@ Shape</source>
         <translation>Войти</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">Остановить автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -8897,10 +8905,6 @@ Shape</source>
     <message>
         <source>WPS Permit</source>
         <translation>Разрешение WPS</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -9088,11 +9092,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">Поменять учётную запись</translation>
+        <translation type="unfinished">Поменять учётную запись</translation>
     </message>
     <message>
         <source>Change Accout</source>
-        <translation>Поменять учётную запись</translation>
+        <translation type="obsolete">Поменять учётную запись</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -9405,6 +9409,10 @@ Diagonal Line in Cell</source>
         <translation>Шифрование</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Формула</translation>
     </message>
@@ -9557,10 +9565,6 @@ Diagonal Line in Cell</source>
         <translation>Перейти в сноску</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gradiant</source>
         <translation type="obsolete">Градиент</translation>
     </message>
@@ -9654,6 +9658,10 @@ Diagonal Line in Cell</source>
         <translation>Вставить несколько строк</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>Вставить таблицу</translation>
     </message>
@@ -9664,10 +9672,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Insert Watermark</source>
         <translation>Вставить подложку</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -9826,7 +9830,7 @@ Diagonal Line in Cell</source>
         <translation>С нечётной страницы</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10080,6 +10084,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">Сохранить в Klive</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Section</source>
@@ -10430,10 +10438,6 @@ Diagonal Line in Cell</source>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -11268,6 +11272,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>Шифрование</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16072,6 +16080,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">Автоматическое резервное копирование файла</translation>
     </message>
@@ -16100,7 +16112,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16144,7 +16156,7 @@ Effects</source>
         <translation>Документы из Интернета</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16154,10 +16166,6 @@ Effects</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Открыть из облачного сервиса</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16184,12 +16192,16 @@ Effects</source>
         <translation>Войти</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">Остановить резервное копирование</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16214,10 +16226,6 @@ Effects</source>
     <message>
         <source>WPS Permit</source>
         <translation>Разрешение WPS</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -20898,7 +20906,7 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Роуминг файлов</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20930,7 +20938,7 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">Не зарегистрирован</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20982,6 +20990,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">Остановить автоматическое резервное копирование</translation>
     </message>
     <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Отзывы пользователя</translation>
     </message>
@@ -21012,10 +21024,6 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Weibo Layout</source>
         <translation type="obsolete">Режим Weibo</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21387,6 +21395,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Развернуть</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Отзывы и предложения</translation>
     </message>
@@ -21441,10 +21453,6 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Google Docs</source>
         <translation type="obsolete">Google Docs</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -21507,7 +21515,7 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Макросы</translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
+        <source>Mail FeedBack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21667,10 +21675,6 @@ Directly</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21992,7 +21996,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -22234,10 +22238,6 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
     </message>
@@ -22296,7 +22296,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -22517,10 +22517,6 @@ Directly</source>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Изменить стиль интерфейса</translation>

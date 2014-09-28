@@ -840,35 +840,35 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Automation Server</source>
+        <source>Automation Servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A File named</source>
+        <source>A file named </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, Do you want to replace it?</source>
+        <source>already exists in this location. Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>does not contain a valid Automation Server.</source>
+        <source>does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is a invalid addins macro file.</source>
+        <source>is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1164,7 +1164,7 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The selected connection type can not be used to create a PivotTable.</source>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1878,7 +1878,7 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Category:</source>
+        <source>Sor&amp;t</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3494,10 +3494,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enable &amp;timing backup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3607,6 +3603,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7487,10 +7487,6 @@ system will remind checking the correctness of the contents.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7500,6 +7496,10 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

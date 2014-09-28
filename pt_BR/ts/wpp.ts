@@ -753,11 +753,11 @@
         <translation>Siga fundo esquema de cores , siga o texto e linhas de esquema de cores, sombras siga esquema de cores , siga título texto color scheme , siga fills esquema de cores , siga accent esquema de cores , siga accent e hyperlink esquema de cores , siga destaque e esquema de cores</translation>
     </message>
     <message>
-        <source>bgTemplate tooltip</source>
+        <source>bgMagic tooltip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -957,11 +957,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template background</source>
+        <source>Magic Backgroud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Magic Backgroud</source>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1838,15 +1838,15 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Embed &amp;True Type</source>
+        <source>Embed fon&amp;ts in the file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Just embed used chars</source>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Embed all &amp;characters (best for editing)</source>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

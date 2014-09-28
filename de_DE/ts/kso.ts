@@ -6576,6 +6576,11 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
         <comment>DRAWINGSTR_CDDRIVE</comment>
         <translation type="obsolete">CD-Laufwerk</translation>
     </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation>Flussdiagramm: Datenträger mit direktem Zugriff</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -7717,7 +7722,7 @@ Fortsetzen?</translation>
     <message>
         <source>Symbol(DEC)</source>
         <comment>kso_acsnDecSymbol</comment>
-        <translation type="unfinished">Symbol(DEC)</translation>
+        <translation>Symbol(DEC)</translation>
     </message>
     <message>
         <source>ASCII(HEX)</source>
@@ -7727,17 +7732,17 @@ Fortsetzen?</translation>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
         <comment>kso_acsnHexGB2312</comment>
-        <translation type="unfinished">Vereinfachtes Chinesisch GB2312(HEX)</translation>
+        <translation>Vereinfachtes Chinesisch GB2312(HEX)</translation>
     </message>
     <message>
         <source>Symbol(HEX)</source>
         <comment>kso_acsnHexSymbol</comment>
-        <translation type="unfinished">Symbol(HEX)</translation>
+        <translation>Symbol(HEX)</translation>
     </message>
     <message>
         <source>Unicode(HEX)</source>
         <comment>kso_acsnHexUnicode</comment>
-        <translation type="unfinished">Unicode(HEX)</translation>
+        <translation>Unicode(HEX)</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -7752,47 +7757,47 @@ Fortsetzen?</translation>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_Caption</comment>
-        <translation type="unfinished">Neues Dokument</translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_DisplayName</comment>
-        <translation type="unfinished">Neues Dokument</translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_Caption</comment>
-        <translation type="unfinished">Neue Präsentation</translation>
+        <translation>Neue Präsentation</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_DisplayName</comment>
-        <translation type="unfinished">Neue Präsentation</translation>
+        <translation>Neue Präsentation</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_Caption</comment>
-        <translation type="unfinished">Neue Arbeitsmappe</translation>
+        <translation>Neue Arbeitsmappe</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_DisplayName</comment>
-        <translation type="unfinished">Neue Arbeitsmappe</translation>
+        <translation>Neue Arbeitsmappe</translation>
     </message>
     <message>
         <source>Recent documents</source>
         <comment>kso_Recent_Document</comment>
-        <translation type="unfinished">Zuletzt geöffnet Dokumente</translation>
+        <translation>Zuletzt geöffnet Dokumente</translation>
     </message>
     <message>
         <source>Recent presentations</source>
         <comment>kso_Recent_Present</comment>
-        <translation type="unfinished">Zuletzt geöffnete Präsentationen</translation>
+        <translation>Zuletzt geöffnete Präsentationen</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
         <comment>kso_Recent_WorkBook</comment>
-        <translation type="unfinished">Zuletzt geöffnete Arbeitsmappen</translation>
+        <translation>Zuletzt geöffnete Arbeitsmappen</translation>
     </message>
     <message>
         <source>10%</source>
@@ -7907,12 +7912,12 @@ Fortsetzen?</translation>
     <message>
         <source>The name already exists. Please enter another one.</source>
         <comment>kso_SBarNameAlreadyExist</comment>
-        <translation type="unfinished">Name bereits vorhanden. Bitte anderen Namen eingeben.</translation>
+        <translation>Name ist bereits vorhanden. Geben Sie einen anderen Namen ein.</translation>
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
         <comment>kso_SBarNameCanEmpty</comment>
-        <translation type="unfinished">Name der Symbolleiste darf nicht leer sein. Bitte Name eingeben.</translation>
+        <translation>Der Symbolleistenname darf nicht leer sein. Bitte geben Sie einen Namen ein.</translation>
     </message>
     <message>
         <source>&amp;Blue:</source>
@@ -7927,7 +7932,7 @@ Fortsetzen?</translation>
     <message>
         <source>No</source>
         <comment>kso_sBoolNoStr</comment>
-        <translation type="unfinished">Nein</translation>
+        <translation>Nein</translation>
     </message>
     <message>
         <source>Yes or No</source>
@@ -8032,7 +8037,7 @@ Fortsetzen?</translation>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
         <comment>kso_SCmdBarNameCanEmpty</comment>
-        <translation type="unfinished">Befehlsname darf nicht leer sein. Bitte Name eingeben.</translation>
+        <translation>Steuerelementname darf nicht leer sein. Geben Sie den Namen ein.</translation>
     </message>
     <message>
         <source>Failed to modify the Add-In settings</source>
@@ -8072,7 +8077,7 @@ Fortsetzen?</translation>
     <message>
         <source>Mailstop;Matter;Office;Owner;Project;Publisher;Purpose;Received from;Recorded by;Recorded date;Reference;Source;Status;Telephone number;Typist</source>
         <comment>kso_sCustomItemNames2</comment>
-        <translation type="unfinished">Mail Stop Code;Betreff;Büro;Besitzer;Projekt;Herausgeber;Verwendungszweck;Erhalten von;Aufgezeichnet von;Aufnahmedatum;Verweis;Quelle;Status;Telefonnummer;Schreibkraft</translation>
+        <translation type="unfinished">Mail Stop Code;Betreff;Büro;Besitzer;Projekt;Herausgeber;Verwendungszweck;Erhalten von;Aufgezeichn von;Aufnahmedatum;Verweis;Quelle;Status;Telefonnummer;Schreibkraft</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
@@ -8087,7 +8092,7 @@ Fortsetzen?</translation>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
         <comment>kso_sCustomTypeValueError</comment>
-        <translation type="unfinished">Angegebener Wert stimmt nicht mit festgelegtem Typ überein. Wert wird als Text gespeichert.</translation>
+        <translation>match the specified type. The value will be stored as text. Der eingegebene Wert entspricht nicht dem angegebenen Typ. Der Wert wird als Text gespeichert. </translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
@@ -8137,7 +8142,7 @@ Fortsetzen?</translation>
     <message>
         <source>Tahoma</source>
         <comment>kso_sDefaultFontName</comment>
-        <translation type="unfinished">Tahoma</translation>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>Defined Names</source>
@@ -8167,7 +8172,7 @@ Fortsetzen?</translation>
     <message>
         <source>Modify PivotTable</source>
         <comment>kso_sDlgCaptionModify</comment>
-        <translation type="unfinished">PivotTable ändern</translation>
+        <translation>PivotTable ändern</translation>
     </message>
     <message>
         <source>Document</source>
@@ -8202,12 +8207,12 @@ Fortsetzen?</translation>
     <message>
         <source>Office Standard</source>
         <comment>kso_sEncryptionOfficeStandard</comment>
-        <translation type="unfinished">Office Standard</translation>
+        <translation>Office Standard</translation>
     </message>
     <message>
         <source>Office XOR</source>
         <comment>kso_sEncryptionOfficeXor</comment>
-        <translation type="unfinished">Office XOR</translation>
+        <translation>Office XOR</translation>
     </message>
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
@@ -8217,12 +8222,12 @@ Fortsetzen?</translation>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
         <comment>kso_sErrorKeylength</comment>
-        <translation type="unfinished">Schlüssellänge muss ein Vielfaches von 8 zwischen %d und %d sein.</translation>
+        <translation>Schlüssellänge muss ein Mehrfach von 8 zwischen %d und %d sein.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sErrorRangeNotValid</comment>
-        <translation type="unfinished">Ungültiger Verweis.</translation>
+        <translation>Verweis ist ungültig.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
@@ -8307,7 +8312,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>PivotTable field name already exists.</source>
         <comment>kso_sFieldNameExists</comment>
-        <translation type="unfinished">Name für PivotTable bereits vorhanden.</translation>
+        <translation>Der PivotTable-Feldname ist bereits vorhanden.</translation>
     </message>
     <message>
         <source>File</source>
@@ -8382,7 +8387,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
         <comment>kso_SInputToolbarName</comment>
-        <translation type="unfinished">Bitte Name der &amp;Menüleiste eingeben:</translation>
+        <translation>Geben Sie Name der &amp;Menüleiste ein:</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -8409,12 +8414,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>This is not a valid number.</source>
         <comment>kso_sInvalidNumber</comment>
-        <translation type="unfinished">Dies ist keine gültige Zahl.</translation>
+        <translation>Dies ist keine gültige Zahl.</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
         <comment>kso_sInvalidPivotTableName</comment>
-        <translation type="unfinished">Name für PivotTable nicht gültig.</translation>
+        <translation>PivotTable-Name ist ungültig.</translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
@@ -8674,67 +8679,67 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Olive Green</source>
         <comment>kso_sKclOliveGreen</comment>
-        <translation type="unfinished">Olivgrün</translation>
+        <translation>Olivgrün</translation>
     </message>
     <message>
         <source>Orange</source>
         <comment>kso_sKclOrange</comment>
-        <translation type="unfinished">Orange</translation>
+        <translation>Orange</translation>
     </message>
     <message>
         <source>Pale Blue</source>
         <comment>kso_sKclPaleBlue</comment>
-        <translation type="unfinished">Blassblau</translation>
+        <translation>Blassblau</translation>
     </message>
     <message>
         <source>Periwinkle</source>
         <comment>kso_sKclPeriwinkle</comment>
-        <translation type="unfinished">Lavendelblau</translation>
+        <translation>Immergrün</translation>
     </message>
     <message>
         <source>Pink</source>
         <comment>kso_sKclPink</comment>
-        <translation type="unfinished">Pink</translation>
+        <translation>Rosa</translation>
     </message>
     <message>
         <source>Plum</source>
         <comment>kso_sKclPlum</comment>
-        <translation type="unfinished">Pflaumenblau</translation>
+        <translation>Pflaume</translation>
     </message>
     <message>
         <source>Red</source>
         <comment>kso_sKclRed</comment>
-        <translation type="unfinished">Rot</translation>
+        <translation>Rot</translation>
     </message>
     <message>
         <source>Rose</source>
         <comment>kso_sKclRose</comment>
-        <translation type="unfinished">Rosa</translation>
+        <translation>Hellrosa</translation>
     </message>
     <message>
         <source>Sea Green</source>
         <comment>kso_sKclSeaGreen</comment>
-        <translation type="unfinished">Meergrün</translation>
+        <translation>Seegrün</translation>
     </message>
     <message>
         <source>Sky Blue</source>
         <comment>kso_sKclSkyBlue</comment>
-        <translation type="unfinished">Himmelblau</translation>
+        <translation>Himmelblau</translation>
     </message>
     <message>
         <source>Tan</source>
         <comment>kso_sKclTan</comment>
-        <translation type="unfinished">Hellbraun</translation>
+        <translation>Gelbbraun</translation>
     </message>
     <message>
         <source>Teal</source>
         <comment>kso_sKclTeal</comment>
-        <translation type="unfinished">Blaugrün</translation>
+        <translation>Blaugrün</translation>
     </message>
     <message>
         <source>Turquoise</source>
         <comment>kso_sKclTurquoise</comment>
-        <translation type="unfinished">Türkis</translation>
+        <translation>Türkis</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -8829,17 +8834,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Round Dot</source>
         <comment>kso_sLineRoundDot</comment>
-        <translation type="unfinished">Runder Punkt</translation>
+        <translation>Runder Punkt</translation>
     </message>
     <message>
         <source>Soild</source>
         <comment>kso_sLineSolid</comment>
-        <translation type="unfinished">Durchgängig</translation>
+        <translation>Durchgezogen</translation>
     </message>
     <message>
         <source>Square Dot</source>
         <comment>kso_sLineSquareDot</comment>
-        <translation type="unfinished">Viereckiger Punkt</translation>
+        <translation>Viereckiger Punkt</translation>
     </message>
     <message>
         <source>Loading DLL failed</source>
@@ -8879,62 +8884,62 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>This is not a valid measurement.</source>
         <comment>kso_sMeasureUnitInValid</comment>
-        <translation type="unfinished">Dies ist kein gültiges Maß.</translation>
+        <translation>Dies ist kein gültiges Maß.</translation>
     </message>
     <message>
         <source>More Color...</source>
         <comment>kso_sMoreColor</comment>
-        <translation type="unfinished">Mehr Farben ...</translation>
+        <translation>Weitere Farbe...</translation>
     </message>
     <message>
         <source>Move to</source>
         <comment>kso_SMoveToCaption</comment>
-        <translation type="unfinished">Wechseln nach</translation>
+        <translation>Verschieben auf</translation>
     </message>
     <message>
         <source>Narrow horizontal</source>
         <comment>kso_sNarrowHorizontal</comment>
-        <translation type="unfinished">Schmale Horizontale</translation>
+        <translation>Horizontal dünn</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
         <comment>kso_sNarrowVertical</comment>
-        <translation type="unfinished">Schmale Vertikale</translation>
+        <translation>Vertikal dünn</translation>
     </message>
     <message>
         <source>Never Modify</source>
         <comment>kso_sNeverModify</comment>
-        <translation type="unfinished">Nie ändern</translation>
+        <translation>Niemals ändern</translation>
     </message>
     <message>
         <source>New Button</source>
         <comment>kso_sNewButton</comment>
-        <translation type="unfinished">Neue Schaltfläche</translation>
+        <translation>Neue Schaltfläche</translation>
     </message>
     <message>
         <source>New Command</source>
         <comment>kso_sNewCommand</comment>
-        <translation type="unfinished">Nächster Befehl</translation>
+        <translation>Nächster Befehl</translation>
     </message>
     <message>
         <source>New Menu</source>
         <comment>kso_sNewMenu</comment>
-        <translation type="unfinished">Neues Menü</translation>
+        <translation>Neues Menü</translation>
     </message>
     <message>
         <source>Next Slide</source>
         <comment>kso_sNextSlide</comment>
-        <translation type="unfinished">Nächste Folie</translation>
+        <translation>Nächste Folie</translation>
     </message>
     <message>
         <source>No Border</source>
         <comment>kso_sNoBorder</comment>
-        <translation type="unfinished">Kein Seitenrand</translation>
+        <translation>Kein Rahmen</translation>
     </message>
     <message>
         <source>No Fill</source>
         <comment>kso_sNoFill</comment>
-        <translation type="unfinished">Keine Füllung</translation>
+        <translation>Keine Füllung</translation>
     </message>
     <message>
         <source>&quot;%s&quot; has no icon.</source>
@@ -8944,12 +8949,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>No Line</source>
         <comment>kso_sNoLine</comment>
-        <translation type="unfinished">Keine Linie</translation>
+        <translation>Keine Linienfarbe</translation>
     </message>
     <message>
         <source>None</source>
         <comment>kso_sNone</comment>
-        <translation type="unfinished">Ohne</translation>
+        <translation>Keine</translation>
     </message>
     <message>
         <source>(normal text)</source>
@@ -8959,17 +8964,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>NUM</source>
         <comment>kso_sNum</comment>
-        <translation type="unfinished">NUM</translation>
+        <translation>NUM</translation>
     </message>
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
         <comment>kso_sNumberRangeErr</comment>
-        <translation type="unfinished">Die Zahl muss zwischen %d und %d liegen. Bitte Zahl aus diesem Bereich eingeben und erneut versuchen.</translation>
+        <translation>Zahl muss zwischen %d und %d liegen. Versuchen Sie es erneut, indem Sie eine Zahl in diesem Bereich eingeben.</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>kso_sNumberType</comment>
-        <translation type="unfinished">Zahl</translation>
+        <translation>Zahl</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -8984,32 +8989,32 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select the encoding that makes your document readable.</source>
         <comment>kso_sOpenTxtWaring</comment>
-        <translation type="unfinished">in der Dokument lesbar ist.</translation>
+        <translation>Wählen Sie die Codierung, mit der Ihr Dokument eingelesen werden kann.</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
         <comment>kso_sOutlinedDiamond</comment>
-        <translation type="unfinished">Konturierte Rauten</translation>
+        <translation>Konturierte Raute</translation>
     </message>
     <message>
         <source>OVR</source>
         <comment>kso_sOver</comment>
-        <translation type="unfinished">OVR</translation>
+        <translation>OVR</translation>
     </message>
     <message>
         <source>Part of %s</source>
         <comment>kso_sPartOf</comment>
-        <translation type="unfinished">Teil von %s</translation>
+        <translation>Teil von %s</translation>
     </message>
     <message>
         <source>Part of %s trial version</source>
         <comment>kso_sPartOfTrial</comment>
-        <translation type="unfinished">Teil von %s Testversion</translation>
+        <translation>Teil von %s Testversion</translation>
     </message>
     <message>
         <source>The key length of the file encryption must not be longer than %d characters.</source>
         <comment>kso_sPasswordTooLong</comment>
-        <translation type="unfinished">Länge der Dateiverschlüsselung darf nicht länger als %d Zeichen sein.</translation>
+        <translation>Schlüssellänge der Dateiverschlüsselung darf nicht länger als %d Zeichen sein.</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
@@ -9019,12 +9024,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select Picture</source>
         <comment>kso_sPictureOpenDialogCaption</comment>
-        <translation type="unfinished">Bild wählen</translation>
+        <translation>Bild auswählen</translation>
     </message>
     <message>
         <source>Plaid</source>
         <comment>kso_sPlaid</comment>
-        <translation type="unfinished">Kariert</translation>
+        <translation>Geflochten</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9039,7 +9044,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Previous Slide</source>
         <comment>kso_sPreviousSlide</comment>
-        <translation type="unfinished">Vorherige Folie</translation>
+        <translation>Vorherige Folie</translation>
     </message>
     <message>
         <source>Initializing the printer...</source>
@@ -9049,12 +9054,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Printing %d page of %d</source>
         <comment>kso_sPrintProgress</comment>
-        <translation type="unfinished">Seite %d von %d wird gedruckt</translation>
+        <translation>Seite %d von %d wird gedruckt</translation>
     </message>
     <message>
         <source>Product ID: %s</source>
         <comment>kso_sProductID</comment>
-        <translation type="unfinished">Produkt-ID: %s</translation>
+        <translation>Produkt-ID: %s</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
@@ -9064,7 +9069,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Refercence is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished">Verweis ungültig.</translation>
+        <translation>Verweis ist ungültig.</translation>
     </message>
     <message>
         <source>Are you sure you have saved these files you need?</source>
@@ -9089,7 +9094,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Save As</source>
         <comment>kso_sSaveAS</comment>
-        <translation type="unfinished">Speichern unter</translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
@@ -9099,7 +9104,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>SCRL</source>
         <comment>kso_sScrol</comment>
-        <translation type="unfinished">SCRL</translation>
+        <translation>SCRL</translation>
     </message>
     <message>
         <source>---Search Selection---</source>
@@ -9119,7 +9124,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Please select one &amp;folder:</source>
         <comment>kso_sSelectPathDescript</comment>
-        <translation type="unfinished">Bitte einen &amp;Ordner wählen:</translation>
+        <translation>Wählen Sie einen &amp;Ordner aus:</translation>
     </message>
     <message>
         <source>Automatically check file security troubles before sending e-mail.</source>
@@ -9139,7 +9144,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Shadow Style %d</source>
         <comment>kso_sShadowStyleFormat</comment>
-        <translation type="unfinished">Schattenstil %d</translation>
+        <translation>Schattenart %d</translation>
     </message>
     <message>
         <source>[Restricted]</source>
@@ -9149,7 +9154,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Shingle</source>
         <comment>kso_sShingle</comment>
-        <translation type="unfinished">Dachplatten</translation>
+        <translation>Dachplatten</translation>
     </message>
     <message>
         <source>(Show All)</source>
@@ -9159,32 +9164,32 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Slide Titles</source>
         <comment>kso_sSlideTitles</comment>
-        <translation type="unfinished">Folientitel</translation>
+        <translation>Folientitel</translation>
     </message>
     <message>
         <source>Small checkerboard</source>
         <comment>kso_sSmallCheckerBoard</comment>
-        <translation type="unfinished">Kleine Schachfelder</translation>
+        <translation>Kleiner Schachbrett</translation>
     </message>
     <message>
         <source>Small confetti</source>
         <comment>kso_sSmallConfetti</comment>
-        <translation type="unfinished">Kleine Konfetti</translation>
+        <translation>Kleines Konfetti</translation>
     </message>
     <message>
         <source>Small grid</source>
         <comment>kso_sSmallGrid</comment>
-        <translation type="unfinished">Kleines Gitter</translation>
+        <translation>Kleines Raster</translation>
     </message>
     <message>
         <source>Solid diamond</source>
         <comment>kso_sSolidDiamond</comment>
-        <translation type="unfinished">Ausgefüllte Rauten</translation>
+        <translation>Ausgefüllte Rauten</translation>
     </message>
     <message>
         <source>Sphere</source>
         <comment>kso_sSphere</comment>
-        <translation type="unfinished">Kugeln</translation>
+        <translation>Kugeln</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -9199,22 +9204,22 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Offline</source>
         <comment>kso_sStatusOffline</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Paused</source>
         <comment>kso_sStatusPaused</comment>
-        <translation type="unfinished">Pause</translation>
+        <translation>Angehalten</translation>
     </message>
     <message>
         <source>Printing</source>
         <comment>kso_sStatusPrinting</comment>
-        <translation type="unfinished">Drucken</translation>
+        <translation>Drucken</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>kso_sStatusReady</comment>
-        <translation type="unfinished">Bereit</translation>
+        <translation>Bereit</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -9259,47 +9264,47 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Nonbreaking Space</source>
         <comment>kso_sSymbolNonbreakingSpace</comment>
-        <translation type="unfinished">Geschütztes Leerzeichen</translation>
+        <translation>Geschütztes Leerzeichen</translation>
     </message>
     <message>
         <source>Paragraph</source>
         <comment>kso_sSymbolParagraph</comment>
-        <translation type="unfinished">Paragraf</translation>
+        <translation>Absatz</translation>
     </message>
     <message>
         <source>Registered</source>
         <comment>kso_sSymbolRegistered</comment>
-        <translation type="unfinished">Registriert</translation>
+        <translation>Registriert</translation>
     </message>
     <message>
         <source>Section</source>
         <comment>kso_sSymbolSection</comment>
-        <translation type="unfinished">Bereich</translation>
+        <translation>Abschnitt</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
         <comment>kso_sSymbolSingleClosingQuote</comment>
-        <translation type="unfinished">Einfaches Abführungszeichen</translation>
+        <translation>Einfaches schließendes Anführungszeichen</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
         <comment>kso_sSymbolSingleOpeningQuote</comment>
-        <translation type="unfinished">Einfaches Anführungszeichen</translation>
+        <translation>Einfaches öffnendes Anführungszeichen</translation>
     </message>
     <message>
         <source>Trademark</source>
         <comment>kso_sSymbolTrademark</comment>
-        <translation type="unfinished">Markenzeichen</translation>
+        <translation>Marke</translation>
     </message>
     <message>
         <source>System</source>
         <comment>kso_sSysSecurity</comment>
-        <translation type="unfinished">System</translation>
+        <translation>System</translation>
     </message>
     <message>
         <source>Task Window</source>
         <comment>kso_sTaskpane</comment>
-        <translation type="unfinished">Task-Fenster</translation>
+        <translation>Aufgabenbereich</translation>
     </message>
     <message>
         <source>More Buttons</source>
@@ -9309,7 +9314,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Template</source>
         <comment>kso_sTemplate</comment>
-        <translation type="unfinished">Vorlage</translation>
+        <translation>Vorlage</translation>
     </message>
     <message>
         <source>What you entered is invalid.</source>
@@ -9324,12 +9329,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Text</source>
         <comment>kso_sTextType</comment>
-        <translation type="unfinished">Text</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Select Texture</source>
         <comment>kso_sTextureOpenDialogCaption</comment>
-        <translation type="unfinished">Gewebe auswählen</translation>
+        <translation>Struktur markieren</translation>
     </message>
     <message>
         <source>3-D Style %d</source>
@@ -9339,12 +9344,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Top of the Document</source>
         <comment>kso_sTopOfDoc</comment>
-        <translation type="unfinished">Dokumentanfang</translation>
+        <translation>Dokumentbeginn</translation>
     </message>
     <message>
         <source>Trellis</source>
         <comment>kso_sTrellis</comment>
-        <translation type="unfinished">Trellis</translation>
+        <translation>Gitter</translation>
     </message>
     <message>
         <source>Thank you for choosing WPS Office series product.
@@ -9419,7 +9424,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Mongolian;Braille;Yi Radicals</source>
         <comment>kso_sUnicodeSubsetList8</comment>
-        <translation type="unfinished">Mongolisch;Blindenschrift;Yi-Wortstämme</translation>
+        <translation>Mongolisch;Braille;Yi-Radikale</translation>
     </message>
     <message>
         <source>Value should be between %s and %s.</source>
@@ -9619,42 +9624,42 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Plain Text</source>
         <comment>kso_sWASPlainText</comment>
-        <translation type="unfinished">Reiner Text</translation>
+        <translation>Nur-Text</translation>
     </message>
     <message>
         <source>Ring Inside</source>
         <comment>kso_sWASRingInside</comment>
-        <translation type="unfinished">Ring innen</translation>
+        <translation>Kreis innen</translation>
     </message>
     <message>
         <source>Ring Outside</source>
         <comment>kso_sWASRingOutside</comment>
-        <translation type="unfinished">Ring außen</translation>
+        <translation>Kreis außen</translation>
     </message>
     <message>
         <source>Slant Down</source>
         <comment>kso_sWASSlantDown</comment>
-        <translation type="unfinished">Schräge nach unten</translation>
+        <translation>Schräg nach unten</translation>
     </message>
     <message>
         <source>Slant Up</source>
         <comment>kso_sWASSlantUp</comment>
-        <translation type="unfinished">Schräge nach oben</translation>
+        <translation>Schräg nach oben</translation>
     </message>
     <message>
         <source>Stop</source>
         <comment>kso_sWASSTop</comment>
-        <translation type="unfinished">Anhalten</translation>
+        <translation>Achteck</translation>
     </message>
     <message>
         <source>Triangle Up</source>
         <comment>kso_sWASTriangle</comment>
-        <translation type="unfinished">Dreieck nach oben</translation>
+        <translation>Dreieck nach oben</translation>
     </message>
     <message>
         <source>Triangle Down</source>
         <comment>kso_sWASTriangleDown</comment>
-        <translation type="unfinished">Dreieck nach unten</translation>
+        <translation>Dreieck nach unten</translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -9839,12 +9844,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Refresh</source>
         <comment>kso_Nav_Refresh</comment>
-        <translation type="unfinished">Aktualisieren</translation>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <source>Stop</source>
         <comment>kso_Nav_Stop</comment>
-        <translation type="unfinished">Anhalten</translation>
+        <translation>Anhalten</translation>
     </message>
     <message>
         <source>Close</source>
@@ -9854,7 +9859,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Open</source>
         <comment>kso_Nav_Open</comment>
-        <translation type="unfinished">Öffnen</translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Open in browser</source>
@@ -9889,7 +9894,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Unknown object</source>
         <comment>kso_sPasteSpecialObject</comment>
-        <translation type="unfinished">Unbekanntes Objekt</translation>
+        <translation>Unbekanntes Objekt</translation>
     </message>
     <message>
         <source>English (United States)</source>
@@ -9919,7 +9924,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation type="unfinished">um als Muster verwendet zu werden.</translation>
+        <translation>Das Bild ist zu groß, um als Muster verwendet zu werden.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -10002,22 +10007,22 @@ Used to show steps toward a goal</source>
     <message>
         <source>The previous tab</source>
         <comment>kso_sBackwardHint</comment>
-        <translation type="unfinished">Vorherige Registerkarte</translation>
+        <translation>Vorheriges Register</translation>
     </message>
     <message>
         <source>The next tab</source>
         <comment>kso_sForwardHint</comment>
-        <translation type="unfinished">Nächste Registerkarte</translation>
+        <translation>Nächstes Register</translation>
     </message>
     <message>
         <source>Tab list</source>
         <comment>kso_sTabListHint</comment>
-        <translation type="unfinished">Liste Registerkarten</translation>
+        <translation>Registerkartenliste</translation>
     </message>
     <message>
         <source>New document</source>
         <comment>kso_sAddTabBtnHint</comment>
-        <translation type="unfinished">Neues Dokument</translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <source>Document tab</source>
@@ -10072,7 +10077,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Part of %s</source>
         <comment>kso_sActivePartOf</comment>
-        <translation type="unfinished">Teil von %s</translation>
+        <translation>Teil von %s aktivierter Version</translation>
     </message>
     <message>
         <source>Custom CommandBar %ld</source>

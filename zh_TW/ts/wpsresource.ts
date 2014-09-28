@@ -1048,6 +1048,14 @@
         <source>Wrap Text</source>
         <translation>文字繞圖</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
@@ -3897,6 +3905,10 @@ Direction</source>
         <translation>加密</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>轉存為PDF檔案</translation>
     </message>
@@ -4703,13 +4715,8 @@ Painter</source>
         <translation>其他下底線</translation>
     </message>
     <message>
-        <source>New 
-Style</source>
-        <translation>新增樣式</translation>
-    </message>
-    <message>
         <source>New Style</source>
-        <translation type="obsolete">新增樣式</translation>
+        <translation type="unfinished">新增樣式</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -5371,6 +5378,14 @@ Break</source>
     <message>
         <source>water mark</source>
         <translation type="obsolete">浮水印</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7078,6 +7093,14 @@ On/Off</source>
         <source>Wrapping Style</source>
         <translation type="obsolete">文字繞圖樣式</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
@@ -7164,7 +7187,11 @@ Directly</source>
     <message>
         <source>Footnote/Endnote
 Separator</source>
-        <translation>註腳/章節附註分隔線</translation>
+        <translation type="obsolete">註腳/章節附註分隔線</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
+        <translation type="unfinished">註腳/章節附註分隔線</translation>
     </message>
     <message>
         <source>Footnotes</source>
@@ -8651,11 +8678,11 @@ Cells</source>
     <message>
         <source>Text
 Direction</source>
-        <translation>本文方向</translation>
+        <translation type="obsolete">本文方向</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">本文方向</translation>
+        <translation type="unfinished">本文方向</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -10162,7 +10189,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>藝術字大小</translation>
+        <translation type="obsolete">藝術字大小</translation>
     </message>
     <message>
         <source>WordArt 
@@ -10199,7 +10226,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">藝術字大小</translation>
+        <translation type="unfinished">藝術字大小</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -10488,6 +10515,26 @@ Shape</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">適合微博顯示的頁面</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11044,6 +11091,10 @@ MutidiagonalCell</source>
     <message>
         <source>Encryption</source>
         <translation>加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -12234,6 +12285,22 @@ MutidiagonalCell</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">適合微博顯示的頁面</translation>
     </message>
+    <message>
+        <source>Change Account</source>
+        <translation>切換帳號</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -13262,6 +13329,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -19347,6 +19418,26 @@ Effects</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">適合微博顯示的頁面</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -27391,6 +27482,18 @@ You can also center them or distribute them evenly across the page.</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">適合微博顯示的頁面</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsclassics.mainwindow</name>
@@ -28498,6 +28601,14 @@ Directly</source>
         <source>clipboard</source>
         <translation type="obsolete">剪貼簿</translation>
     </message>
+    <message>
+        <source>Mail FeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands.Help</name>
@@ -28569,7 +28680,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>檔案</translation>
+        <translation type="obsolete">檔案</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -28941,7 +29052,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>檔案</translation>
+        <translation type="obsolete">檔案</translation>
     </message>
     <message>
         <source>Formats</source>

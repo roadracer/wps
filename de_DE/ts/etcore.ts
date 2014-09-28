@@ -3366,7 +3366,7 @@ Please try one of the following.
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation>„%S“ ist schreibgeschützt.<byte value="x17"/>Klicken Sie auf &quot;OK&quot;, und speichern Sie im Dialogfeld &quot;Speichern unter&quot; die Arbeitsmappe unter einem neuen Namen.</translation>
+        <translation>„%S“ ist schreibgeschützt.Klicken Sie auf &quot;OK&quot;, und speichern Sie im Dialogfeld &quot;Speichern unter&quot; die Arbeitsmappe unter einem neuen Namen.</translation>
     </message>
     <message>
         <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
@@ -3790,6 +3790,26 @@ Continue without Undo?</source>
         <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify existing outline?</source>
+        <comment>TX_ChangeAutoOutline</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -4154,6 +4174,16 @@ Continue without Undo?</source>
         <comment>TX_ListObject_NamePrefix</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>No Column has been selected.</source>
+        <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
+        <comment>TX_RepeatWord_Group_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_chart</name>
@@ -4385,6 +4415,16 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
         <translation>Makro wurde an der Zelle unterbrochen: </translation>
+    </message>
+    <message>
+        <source>Missing loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="unfinished">auslassen  </translation>
+    </message>
+    <message>
+        <source>Missing NEXT function for loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation>WEITER-Funktion für die Schleife fehlt.</translation>
     </message>
 </context>
 <context>
@@ -4780,7 +4820,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you want to change the name of a PivotTable field, you must type a new name for the field.</source>
         <comment>TX_DAP_DlgInfo_SourceHasInvalidFieldName</comment>
-        <translation>Der PivotTable-Feldname ist ungültig.<byte value="x17"/>Um eine PivotTable zu erstellen, müssen Sie Daten verwenden, die in einer Liste mit Spaltenüberschriften organisiert sind. Wenn Sie den Namen eines PivotTable-Feldes ändern, müssen Sie einen neuen Namen für das Feld eingeben.</translation>
+        <translation>Der PivotTable-Feldname ist ungültig.Um eine PivotTable zu erstellen, müssen Sie Daten verwenden, die in einer Liste mit Spaltenüberschriften organisiert sind. Wenn Sie den Namen eines PivotTable-Feldes ändern, müssen Sie einen neuen Namen für das Feld eingeben.</translation>
     </message>
     <message>
         <source>The PivotTable will not fit on the sheet. Do you want to show as much as possible?</source>
@@ -4793,7 +4833,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
   If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
   If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
         <comment>TX_DAP_DlgInfo_CannotCreatePivotTableInOneRow</comment>
-        <translation>Dieser Befehl benötigt mindestens Ressourcendaten von zwei Zeilen.<byte value="x17"/>Der Befehl kann nicht auf die Auswahl von nur einer Zeile angewendet werden. Versuchen Sie die folgenden Verfahren:
+        <translation>Dieser Befehl benötigt mindestens Ressourcendaten von zwei Zeilen.Der Befehl kann nicht auf die Auswahl von nur einer Zeile angewendet werden. Versuchen Sie die folgenden Verfahren:
 • Wenn Sie einen erweiterten Filter verwenden, markieren Sie einen Zellbereich, der Daten in mindestens zwei Zeilen enthält. Klicken Sie dann erneut auf den Befehl &quot;Erweiterter Filter&quot;
 • Wenn Sie eine PivotTable erstellen, geben Sie einen Zellbezug an oder markieren Sie einen Zellbereich, der Daten in mindestens zwei Zeilen enthält.</translation>
     </message>
@@ -5201,6 +5241,16 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9393,6 +9443,26 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>Some data may be lost when a file of older version is opened.</source>
         <comment>TX_Open_Data_Losing_On_Old_Ver_File</comment>
         <translation type="obsolete">Wenn Sie eine ältere Version  geöffnet ist,.ein könnten einige Daten verloren gehen.</translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DIF (Data Interchange Format)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Interchange Format (*.dif)</source>
+        <comment>TX_ssDesc_Dif_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14281,7 +14351,7 @@ Buch</translation>
     <message>
         <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation>WPS Spreadsheets kann Gruppierung nicht aufgehoben werden.<byte value="x17"/>Um eine Gliederung zu erstellen, markieren Sie die Detailzeilen oder -spalten, und gruppieren Sie sie.</translation>
+        <translation>WPS Spreadsheets kann Gruppierung nicht aufgehoben werden.Um eine Gliederung zu erstellen, markieren Sie die Detailzeilen oder -spalten, und gruppieren Sie sie.</translation>
     </message>
     <message>
         <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 

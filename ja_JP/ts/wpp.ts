@@ -865,7 +865,7 @@
 </context>
 <context>
     <name>KWppZoomSlider</name>
-    <message id="0">
+    <message>
         <source>Fit slide to current window</source>
         <translation>ウィンドウの大きさに合わせてスライドを拡大または縮小します</translation>
     </message>
@@ -893,6 +893,10 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1130,6 +1134,10 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2165,6 +2173,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Caution: please keep your password properly.  File will never be recovered if you lose or forget the password. (Remember that passwords are case-sensitive.)</source>
         <translation type="obsolete">注意：パスワードを失くしたり忘れると、元に戻すことができません（パスワードの大文字と小文字は区別されます）</translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

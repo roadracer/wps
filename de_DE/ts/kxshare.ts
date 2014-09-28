@@ -379,6 +379,10 @@
         <source>The layout will take effect after restarting WPS Office.</source>
         <translation>Das Layout tritt bei nächster Startzeit in Kraft.</translation>
     </message>
+    <message>
+        <source>Restart WPS Office for layout setting to take effect</source>
+        <translation>Layout wird bei nächster Startzeit von WPS-Office geändert</translation>
+    </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
@@ -539,6 +543,33 @@
     </message>
     <message>
         <source>Click to open the credits page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
+        <translation>Fehler beim Erhalten der Sprachpaketen!</translation>
+    </message>
+    <message>
+        <source>Local Language Packs</source>
+        <translation>Lokale Sprachpaketen</translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation>Netzwerkfehler</translation>
+    </message>
+    <message>
+        <source>Online Language Packs</source>
+        <translation>Online-Sprachpaketen</translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1527,6 +1558,10 @@
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Custom Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize menu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3627,6 +3662,22 @@ Wenn das Problem ein Notfall ist, wenden Sie sich bitte an unser Kundenhotline: 
         <source>OK</source>
         <translation>OK</translation>
     </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation>Die Verbindung mit dem Server kann nicht hergestellt werden. Überprüfen Sie Ihre Netzwerkverbindung.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation>VIP %1 ist abgelaufen. Bitte erneuern</translation>
+    </message>
+    <message>
+        <source>You still not a senior member，upgrade to enjoy more cloud fonts now.</source>
+        <translation>Sie sind noch kein VIP-Mitglied. Wenn Sie VIP würden, können Sie alle Schriftarten herunterladen</translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
@@ -3712,6 +3763,67 @@ Hier für weitere Infomationen</translation>
     <message>
         <source>More online fonts</source>
         <translation>Weitere Online-Schriftarten</translation>
+    </message>
+    <message>
+        <source>Click to keep cloud fonts on top</source>
+        <translation>Klicken Sie hier, um die Online-Schriftarten oben anzuheften</translation>
+    </message>
+    <message>
+        <source>Click to shuffle cloud fonts</source>
+        <translation>Klicken Sie hier,um die Online-Schriftarten zu mischen</translation>
+    </message>
+    <message>
+        <source>Cloud fonts installed</source>
+        <translation>Freie Schriftart, Klicken Sie hier zu verwenden</translation>
+    </message>
+    <message>
+        <source>Click to install free cloud fonts</source>
+        <translation>VIP-Schriftart, Klicken Sie hier gratis herunterzuladen</translation>
+    </message>
+    <message>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
+        <translation>Freie Schriftarten für VIP, loggen Sie bitte zuerst ein</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
+        <translation>Loggen Sie zuerst auf Ihren VIP-Konto ein, um die Schriftarten für VIP zu verwenden.
+Hier zum Einloggen</translation>
+    </message>
+    <message>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
+        <translation>Bitte zuerst einloggen, um die Online-Schriftarten zu verwenden</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait…</source>
+        <translation>Schriftarten wird heruntergeladen, seien Sie bitte geduld</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
+        <translation>VIP-Schriftarten, Loggen Sie zuerst auf Ihren VIP-Konto ein.
+Hier für weitere Infomationen</translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew.</source>
+        <translation>Ihr VIP %1 ist abgelaufen.Erneuen Sie bitte hier.
+Sie könenn als VIP Online-Schriftarten verwenden</translation>
+    </message>
+    <message>
+        <source>VIP cloud fonts installed</source>
+        <translation>VIP-Schriftart, Klicken Sie hier zu verwenden</translation>
+    </message>
+    <message>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
+        <translation>VIP-Schriftarten, loggen Sie bitte zuerst ein</translation>
+    </message>
+    <message>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
+        <translation>Sie haben bereits alle Online-Schriftarten heruntergeladen. Freuen Sie sich auf neuere Schriftarten.</translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
+        <translation>Ihr VIP %1 ist abgelaufen.Erneuen Sie bitte hier</translation>
     </message>
 </context>
 <context>
@@ -4579,6 +4691,10 @@ aber das vorinstallierte Systempaket istreserviert.</translation>
         <source>Customize animation:</source>
         <translation>Benutzerdefinierte Animation:</translation>
     </message>
+    <message>
+        <source>Custom animation:</source>
+        <translation>Benutzerdefinierte Animation:</translation>
+    </message>
 </context>
 <context>
     <name>KxTpNewDoc</name>
@@ -4680,6 +4796,16 @@ Der Datensatz ist ungültig. Die Datei kann umbenannt, gelöscht oder von dem Sp
         <source>WPS Online Templates</source>
         <translation type="obsolete">WPS Online-Vorlagen</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation>Datei %1 kann nicht geöffnet werden. 
+Die Datei kann umbenannt, gelöscht oder von dem Speicherort verschoben werden.</translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation>Dateiordner öffnen</translation>
+    </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
@@ -4752,6 +4878,16 @@ Es ist vielleicht umbenannt, gelöscht oder verschoben.</translation>
     <message>
         <source>WPS Online Templates</source>
         <translation type="obsolete">WPS Online-Vorlagen</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation>Die Datei %1 kann nicht geöffent werden. 
+Es ist vielleicht umbenannt, gelöscht oder verschoben.</translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation>Datei in Ordner öffnen</translation>
     </message>
 </context>
 <context>
@@ -4841,32 +4977,32 @@ mit mehr Möglichkeiten und Funktionen aus.</translation>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
         <source>Click to try it now.</source>
-        <translation>Klicken Sie hier, um den Vorgang zu wiederholen.</translation>
+        <translation type="obsolete">Klicken Sie hier, um den Vorgang zu wiederholen.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Herunterladen</translation>
+        <translation type="obsolete">Herunterladen</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nein</translation>
+        <translation type="obsolete">Nein</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation>Kaufen</translation>
+        <translation type="obsolete">Kaufen</translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation>Probieren Sie die professionelle Version, um mehrere Services und Funktionen zu verwenden.</translation>
+        <translation type="obsolete">Probieren Sie die professionelle Version, um mehrere Services und Funktionen zu verwenden.</translation>
     </message>
     <message>
         <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation>Kaufen Sie jetzt die vollständige Version von WPS-Office-Professionell.</translation>
+        <translation type="obsolete">Kaufen Sie jetzt die vollständige Version von WPS-Office-Professionell.</translation>
     </message>
     <message>
         <source>Continue Trial</source>
-        <translation>Mit Testversion fortsetzen</translation>
+        <translation type="obsolete">Mit Testversion fortsetzen</translation>
     </message>
 </context>
 <context>
@@ -5684,6 +5820,10 @@ immer diese Aktion durchführen</translation>
 (The system uses WPS Office as the default one to open doc, xls, ppt files)</source>
         <translation type="obsolete">WPS Office ist nicht Ihr Standard-Office-Programm. Möchten Sie es als Standard-Office-Programm einstellen?
 (Das System verwendet WPS Office standardmäßig zum Öffnen von doc-, xls- und ppt-Dateien)</translation>
+    </message>
+    <message>
+        <source>Blue Gray</source>
+        <translation>Blaugrau</translation>
     </message>
 </context>
 <context>

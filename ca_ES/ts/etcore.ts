@@ -1881,18 +1881,8 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DialogFrame</source>
-        <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File not loaded completely.</source>
         <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
-        <comment>TX_CANNOTDELNUMFORMAT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2131,11 +2121,6 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2145,7 +2130,22 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Whether to modify the existing classification?</source>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2493,18 +2493,18 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
+        <source>Table_</source>
+        <comment>TX_ListObject_NamePrefix</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Column has been chosen.</source>
+        <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table_</source>
-        <comment>TX_ListObject_NamePrefix</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2561,38 +2561,38 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss Next function for loop!</source>
+        <source>Macro interrupted at cell:</source>
+        <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss Loop!</source>
+        <source>Missing loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss IF function!</source>
+        <source>Missing IF.</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss END.IF function!</source>
+        <source>Missing an END.IF function.</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No RETURN() or HALT() function fount on macro sheet!</source>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Illegal reference argument at:</source>
+        <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macro interrupted at cell:</source>
-        <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3185,16 +3185,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>map</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fail to open xml file. file not exit or syntax error</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
         <translation type="unfinished"></translation>
@@ -3207,6 +3197,16 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7311,27 +7311,27 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
-        <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Query Files(*.iqy; *.dqy)</source>
         <comment>TX_ssDesc_Qy_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DIF Data Interchange File(*.dif)</source>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Interchange Format (*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DIF (Data Interchange File)(*.dif)</source>
+        <source>DIF (Data Interchange Format)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -12800,18 +12800,8 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
-        <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13182,6 +13172,16 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

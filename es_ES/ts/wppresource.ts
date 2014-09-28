@@ -2749,6 +2749,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6667,7 +6671,7 @@ Gallery</translation>
     <message>
         <source>WordArt
 Size</source>
-        <translation>WordArt
+        <translation type="obsolete">WordArt
 Size</translation>
     </message>
     <message>
@@ -6704,7 +6708,7 @@ Shape</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">WordArt
+        <translation type="unfinished">WordArt
 Size</translation>
     </message>
     <message>
@@ -7213,6 +7217,10 @@ Comment</translation>
     </message>
     <message>
         <source>End Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8755,6 +8763,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -13494,10 +13506,6 @@ Slide</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formats</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13774,10 +13782,6 @@ Slide</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

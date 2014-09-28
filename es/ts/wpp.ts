@@ -785,11 +785,11 @@
         <translation>Seguir el esquema de color de fondo, Seguir el texto y las líneas de la combinación de colores, Seguir el esquema de color de sombras, Seguir la combinación de colores de título de texto, Seguir la combinación de colores de rellenos, Seguir el color de esquema de acento, Seguir el acento y el hipervínculo de color de esquema, Seguir el acento y color de esquema seguido</translation>
     </message>
     <message>
-        <source>bgTemplate tooltip</source>
+        <source>bgMagic tooltip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1017,11 +1017,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template background</source>
+        <source>Magic Backgroud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Magic Backgroud</source>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2020,15 +2020,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Embed &amp;True Type</source>
+        <source>Embed fon&amp;ts in the file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Just embed used chars</source>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Embed all &amp;characters (best for editing)</source>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

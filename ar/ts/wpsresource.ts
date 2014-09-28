@@ -617,16 +617,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>إدراج صورة</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>إدراج WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -701,7 +701,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1837,10 +1837,6 @@ Merged Data</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>
@@ -3227,6 +3223,10 @@ Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>تصدير إلى PDF</translation>
     </message>
@@ -3894,13 +3894,8 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New 
-Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New Style</source>
-        <translation type="obsolete">نمط جديد</translation>
+        <translation type="unfinished">نمط جديد</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4218,6 +4213,10 @@ Footer</source>
         <translation>إدراج قصاصة فنية</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4231,10 +4230,6 @@ Footer</source>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4266,7 +4261,7 @@ Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5385,12 +5380,12 @@ Pictures</source>
         <translation>إدراج قصاصة فنية</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>إدراج صورة</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>إدراج صورة</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -5469,7 +5464,7 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5816,8 +5811,7 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Footnote/Endnote
-Separator</source>
+        <source>Footnote/Endnote Separator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7041,13 +7035,8 @@ Cells</source>
         <translation type="obsolete">جداول</translation>
     </message>
     <message>
-        <source>Text
-Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text Direction</source>
-        <translation type="obsolete">اتجاه الكتابة</translation>
+        <translation type="unfinished">اتجاه الكتابة</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -8284,11 +8273,6 @@ Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt
-Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WordArt 
 Shape</source>
         <translation type="unfinished"></translation>
@@ -8323,7 +8307,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">حجم WordArt</translation>
+        <translation type="unfinished">حجم WordArt</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8390,6 +8374,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">نسخ احتياطي تلقائي للملف</translation>
     </message>
@@ -8418,7 +8406,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8470,7 +8458,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8479,10 +8467,6 @@ Shape</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8510,12 +8494,16 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">إيقاف النسخ الاحتياطي</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -8539,10 +8527,6 @@ Shape</source>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8732,11 +8716,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">تغيير الحساب</translation>
-    </message>
-    <message>
-        <source>Change Accout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تغيير الحساب</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -9053,6 +9033,10 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>معادلة</translation>
     </message>
@@ -9185,10 +9169,6 @@ Diagonal Line in Cell</source>
         <translation>اذهب إلى هامش</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gradiant</source>
         <translation type="obsolete">تدرج لوني</translation>
     </message>
@@ -9282,6 +9262,10 @@ Diagonal Line in Cell</source>
         <translation>إدراج صفوف متعددة</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>إدراج جدول</translation>
     </message>
@@ -9292,10 +9276,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Insert Watermark</source>
         <translation>إدراج Watermark</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -9430,7 +9410,7 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9664,6 +9644,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Save to File</source>
         <translation>حفظ إلى ملف</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Section</source>
@@ -9990,10 +9974,6 @@ Diagonal Line in Cell</source>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>
@@ -10789,6 +10769,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15372,6 +15356,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">نسخ احتياطي تلقائي للملف</translation>
     </message>
@@ -15400,7 +15388,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15436,7 +15424,7 @@ Effects</source>
         <translation>مستندات على الأنترنت</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15445,10 +15433,6 @@ Effects</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15476,12 +15460,16 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">إيقاف النسخ الاحتياطي</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -15505,10 +15493,6 @@ Effects</source>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18804,7 +18788,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18820,7 +18804,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>نسخ احتياطي يدوي</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18872,6 +18856,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="obsolete">إيقاف النسخ الاحتياطي</translation>
     </message>
     <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18902,10 +18890,6 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Weibo Layout</source>
         <translation type="obsolete">تخطيط Weibo</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19257,6 +19241,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>تعليقات</translation>
     </message>
@@ -19307,10 +19295,6 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Google Docs</source>
         <translation type="obsolete">محرر مستندات غوغل</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -19373,7 +19357,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>وحدات الماكرو</translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
+        <source>Mail FeedBack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19524,10 +19508,6 @@ Directly</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19845,7 +19825,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ملف</translation>
+        <translation type="obsolete">ملف</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -20079,10 +20059,6 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>
     </message>
@@ -20137,7 +20113,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ملف</translation>
+        <translation type="obsolete">ملف</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -20330,10 +20306,6 @@ Directly</source>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>تبديل واجهة المستخدم</translation>

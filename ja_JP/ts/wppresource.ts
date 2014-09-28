@@ -844,6 +844,14 @@
         <source>Weight</source>
         <translation>線の種類</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.drawing.NudgeLeft</name>
@@ -2951,6 +2959,10 @@ On</source>
         <translation>暗号化(Y)</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
     </message>
@@ -4289,6 +4301,14 @@ Number</source>
         <source>WordArt</source>
         <translation>アート
 文字</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7105,7 +7125,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation type="unfinished">アート文字
+        <translation type="obsolete">アート文字
 のサイズ</translation>
     </message>
     <message>
@@ -7144,7 +7164,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">アート文字のサイズ</translation>
+        <translation type="unfinished">アート文字のサイズ</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -7423,6 +7443,18 @@ Shape</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">Weiboツール</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7829,6 +7861,10 @@ Add-Ins</source>
     <message>
         <source>End Show</source>
         <translation>スライド ショーの終了</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -8760,6 +8796,18 @@ Master</source>
         <source>weiboshare</source>
         <translation type="obsolete">Weiboで共有</translation>
     </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -9556,6 +9604,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>暗号化（Y）</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -11591,6 +11643,14 @@ Subordinate</source>
         <source>Weight</source>
         <translation>線の種類</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Fill</name>
@@ -13452,6 +13512,18 @@ Effects</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">Weiboツール</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16549,6 +16621,14 @@ Click the arrow to choose more outline styles.</source>
         <source>weiboshare</source>
         <translation type="obsolete">Weiboで共有</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wppclassics.mainwindow</name>
@@ -17505,7 +17585,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ファイル</translation>
+        <translation type="obsolete">ファイル</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -17800,7 +17880,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ファイル</translation>
+        <translation type="obsolete">ファイル</translation>
     </message>
     <message>
         <source>Formats</source>

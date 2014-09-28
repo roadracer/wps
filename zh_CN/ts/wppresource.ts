@@ -844,6 +844,14 @@
         <source>Weight</source>
         <translation>线型</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>classics.drawing.NudgeLeft</name>
@@ -1612,7 +1620,7 @@ Master</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>皮肤</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
@@ -2967,6 +2975,10 @@ On</source>
         <translation>文件加密</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -4307,6 +4319,14 @@ Number</source>
     <message>
         <source>WordArt</source>
         <translation>艺术字</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -7200,7 +7220,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>艺术字大小</translation>
+        <translation type="obsolete">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt 
@@ -7233,7 +7253,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">艺术字大小</translation>
+        <translation type="unfinished">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -7528,6 +7548,18 @@ Shape</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">长微博</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>特色功能</translation>
     </message>
 </context>
 <context>
@@ -7926,6 +7958,10 @@ Add-Ins</source>
     <message>
         <source>End Show</source>
         <translation>结束放映</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -8861,6 +8897,18 @@ Master</source>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>截屏</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -8870,7 +8918,7 @@ Master</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>皮肤</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
@@ -9696,6 +9744,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -11780,6 +11832,14 @@ Subordinate</source>
         <source>Weight</source>
         <translation>线型</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Fill</name>
@@ -13670,6 +13730,18 @@ Effects</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">长微博</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>特色功能</translation>
     </message>
 </context>
 <context>
@@ -17243,6 +17315,14 @@ Click the arrow to choose more outline styles.</source>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
 </context>
 <context>
     <name>wppclassics.mainwindow</name>
@@ -18281,7 +18361,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -18604,7 +18684,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>

@@ -597,6 +597,17 @@
         <source>Click to open the credits page.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KNativeFileDialogEx</name>
@@ -3842,39 +3853,39 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <name>KxOverdueDlg</name>
     <message>
         <source>Disable Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar impresión</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrar visor</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir número de serie</translation>
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office Gratuito.</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation></translation>
+        <translation>Tienda en línea de WPS.</translation>
     </message>
     <message>
         <source>Purchase Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprar ahora</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gracias por usar la versión de prueba de nuestro producto.</translation>
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar a Personal</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation type="unfinished"></translation>
+        <translation>También puede descargar</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
@@ -3882,11 +3893,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>Your trial period has expired. To continue to use WPS Office Pro, please input a serial number or it will enter into view-only mode.</translation>
+        <translation>Su periodo de prueba de WPS Office ha expirado y está para entrar en modo de visor. Escriba un número de serie a continuar usando la aplicación. Si no tiene uno válido, compre uno en</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation type="unfinished"></translation>
+        <translation>Su periodo de prueba de WPS Office ha expirado y la impresión será indisponible. Escriba un número de serie a continuar usando la aplicación. Si no tiene uno válido, puede comprar uno en</translation>
     </message>
 </context>
 <context>
@@ -3897,30 +3908,30 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado:</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen de formato desconocido.</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un acceso abreviado será creado a un archivo de origen cuando se peha como un hipervínculo. Cambios al archivo de origen se van a reflejar en su documento.</translation>
     </message>
 </context>
 <context>
     <name>KxPrintProgressDlg</name>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando la impresora...</translation>
     </message>
     <message>
         <source>Printing %1 page of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimiendo %1 página de %2</translation>
     </message>
 </context>
 <context>
@@ -3931,67 +3942,67 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Inverse output</source>
-        <translation>&amp;Inverse output</translation>
+        <translation>Salida &amp;inversa</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Propiedades...</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocupado</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble cara manual</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation type="unfinished"></translation>
+        <translation>No&amp;mbre:</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <source>Page &amp;source:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Origen de página:</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Detenado</translation>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir a&amp;l archivo</translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Impresora</translation>
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimiendo</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado:</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
-        <translation>The printer &quot;%1&quot; encountered an error!</translation>
+        <translation>¡La imoresora &quot;%1&quot; se encontró con un error!</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; returned an error!</source>
@@ -3999,15 +4010,15 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Use printer setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar configuración de impresora</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dónde:</translation>
     </message>
 </context>
 <context>
@@ -4022,135 +4033,135 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Add</translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modificar</translation>
     </message>
     <message>
         <source>Checker</source>
-        <translation type="unfinished">Checker</translation>
+        <translation>Comprobador</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliente</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenido</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Dpartamento</translation>
     </message>
     <message>
         <source>Document Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de documento</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor</translation>
     </message>
     <message>
         <source>Finish Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha de cumplir</translation>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacia</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Desde</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Diseño</translation>
+        <translation>Diseño</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">No</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Oficina</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietario</translation>
     </message>
     <message>
         <source>Phone Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfono de número</translation>
     </message>
     <message>
         <source>Post Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Oficina de correos</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyecto</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation>Property</translation>
+        <translation>Propiedad</translation>
     </message>
     <message>
         <source>Publisher</source>
-        <translation type="unfinished"></translation>
+        <translation>Publicador</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Motivo</translation>
     </message>
     <message>
         <source>Record Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha de registro</translation>
     </message>
     <message>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabadora</translation>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Referencia</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished">Sección</translation>
+        <translation>Sección</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Origen</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinario</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor introducido no coincide con el tipo específico. El valor va a ser almacenado como texto.</translation>
     </message>
     <message>
         <source>Typer</source>
-        <translation type="unfinished"></translation>
+        <translation>Elaborado por</translation>
     </message>
     <message>
         <source>Work Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupo de trabajo</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Sí</translation>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>from</source>
@@ -4166,107 +4177,107 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
-        <translation type="unfinished"></translation>
+        <translation>yyyy-MM-dd</translation>
     </message>
 </context>
 <context>
     <name>KxRbCustomDlg</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Agregar</translation>
+        <translation>Agregar</translation>
     </message>
     <message>
         <source>All commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los comandos</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde</translation>
     </message>
     <message>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation>Común</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished">Mover hacia abajo</translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished">Mover hacia arriba</translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished">Rehacer</translation>
+        <translation>Rehacer</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Quitar</translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer</translation>
     </message>
     <message>
         <source>Reset Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer personalizado</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separator</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de la forma</translation>
     </message>
     <message>
         <source>The selected command is already on the Quick Access Toolbar!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡El comando seleccionado está en la barra de harramientas de acceso rápido!</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished">Deshacer</translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de restablecer barra de harramientas de acceso rápido para regresar al estado predeterminado?</translation>
     </message>
 </context>
 <context>
     <name>KxRecentFileManageDlg</name>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Una tecla a borrar</translation>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar este registro</translation>
     </message>
     <message>
         <source>Clear &amp;all selected record</source>
-        <translation type="unfinished"></translation>
+        <translation>Borr&amp;ar todos los registros seleccionados</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid record</source>
-        <translation type="unfinished"></translation>
+        <translation>Borr&amp;ar todos los registros incálidos</translation>
     </message>
     <message>
         <source>Open the file in &amp;folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir el archivo en carpeta</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation type="unfinished">
+        <translation>
 
 hora de modificación: </translation>
     </message>
@@ -4274,22 +4285,23 @@ hora de modificación: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished">
+        <translation>
 
-El rehistro es inválido, el archivo puede ser renombrado, eliminado o movido</translation>
+El registro es inválido, el archivo puede ser renombrado, eliminado o movido</translation>
     </message>
     <message>
         <source>A total of %1 records</source>
-        <translation type="unfinished"></translation>
+        <translation>Un total de %1 registros</translation>
     </message>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation>no se puede abrir &quot;%1&quot;. 
+el archivo puede ser renombrado, eliminado o movido.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir carpeta de archivo</translation>
     </message>
 </context>
 <context>
@@ -4300,7 +4312,18 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation>Unable to find the folder &quot;%1&quot;. It may hava been deleted, moved or renamed.</translation>
+        <translation>No se puede encontrar la carpeta &quot;%1&quot;. Puede que está eliminado, movido o renombrado.</translation>
+    </message>
+</context>
+<context>
+    <name>KxRestrictionDlg</name>
+    <message>
+        <source>Pro</source>
+        <translation type="obsolete">Pro</translation>
+    </message>
+    <message>
+        <source>Click to purchase license.</source>
+        <translation type="obsolete">Haga clic para comprar licencia.</translation>
     </message>
 </context>
 <context>
@@ -4314,7 +4337,7 @@ the file may be renamed,deleted or moved the location.</source>
     <name>KxSerchCtrl</name>
     <message>
         <source>Please enter name to search</source>
-        <translation>Please enter command name to search</translation>
+        <translation>Esciba nombre para buscar</translation>
     </message>
     <message>
         <source>Please input command name to search</source>
@@ -4390,15 +4413,15 @@ but the included system package is reserved.</source>
     <name>KxSwitchSkinModel</name>
     <message>
         <source>2012 Style</source>
-        <translation>2012 Style</translation>
+        <translation>2012 Estilo</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation>2013 Elegant Black</translation>
+        <translation>2013 Negro elegante</translation>
     </message>
     <message>
         <source>Classic Style</source>
-        <translation>Classic Style</translation>
+        <translation>Estilo clásico</translation>
     </message>
     <message>
         <source>classics</source>
@@ -4670,7 +4693,7 @@ but the included system package is reserved.</source>
     <name>KxTextBoxWidget</name>
     <message>
         <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
-        <translation>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</translation>
+        <translation>Se van a quitar los objectos o tablas en un cuadro de texto escalable o girable. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
@@ -4776,7 +4799,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Customize animation:</source>
-        <translation>Customize animation:</translation>
+        <translation>Animación personalizada:</translation>
     </message>
     <message>
         <source>Object Select</source>
@@ -4784,7 +4807,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selection Pane</translation>
+        <translation>Panel de selección</translation>
     </message>
 </context>
 <context>
@@ -4811,7 +4834,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation>Open the recent file record management dialog box,and remove some or all of the recent file records.</translation>
+        <translation>Abrir el cuadro de diálogo de administración de archivo reciente, y quitar unos o todos del archivo reciente.</translation>
     </message>
     <message>
         <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
@@ -4840,11 +4863,12 @@ but the included system package is reserved.</source>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">no se puede abrir &quot;%1&quot;. 
+el archivo puede ser renombrado, eliminado o movido.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir carpeta de archivo</translation>
     </message>
     <message>
         <source>
@@ -4858,9 +4882,7 @@ hora de modificación: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished">
-
-El rehistro es inválido, el archivo puede ser renombrado, eliminado o movido</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4916,11 +4938,12 @@ El rehistro es inválido, el archivo puede ser renombrado, eliminado o movido</t
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">no se puede abrir &quot;%1&quot;. 
+el archivo puede ser renombrado, eliminado o movido.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir carpeta de archivo</translation>
     </message>
 </context>
 <context>
@@ -4985,34 +5008,10 @@ of services and features.</translation>
 <context>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
-        <source>Click to try it now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download</source>
-        <translation type="unfinished">Descargar</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="unfinished">No</translation>
-    </message>
-    <message>
-        <source>Purchase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation>Try WPS Office Professional now to enjoy a greater number
+        <translation type="obsolete">Try WPS Office Professional now to enjoy a greater number
 of services and features.</translation>
-    </message>
-    <message>
-        <source>Continue Trial</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5138,7 +5137,7 @@ of services and features.</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;Left:</translation>
+        <translation type="unfinished">&amp;Left:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -5209,7 +5208,7 @@ of services and features.</translation>
     </message>
     <message>
         <source>&amp;Relative to original picture size</source>
-        <translation>&amp;Relative to original picture size</translation>
+        <translation>P&amp;roporcional al tamaño original de la imagen</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
@@ -5269,7 +5268,7 @@ of services and features.</translation>
     </message>
     <message>
         <source>Ro&amp;tation:</source>
-        <translation>Ro&amp;tation:</translation>
+        <translation type="unfinished">Giro:</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -5489,7 +5488,7 @@ of services and features.</translation>
     </message>
     <message>
         <source>AutoBackup</source>
-        <translation type="unfinished">Auto Backup</translation>
+        <translation type="unfinished">Copia de seguridad auto</translation>
     </message>
     <message>
         <source>Baby Blue</source>
@@ -5553,7 +5552,7 @@ of services and features.</translation>
     </message>
     <message>
         <source>Do not check this when starting WPS Office next time</source>
-        <translation>Do not check this when starting WPS Office next time</translation>
+        <translation type="unfinished">Do not check this when starting WPS Office next time</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
@@ -5561,7 +5560,7 @@ of services and features.</translation>
     </message>
     <message>
         <source>Do not show this message again.</source>
-        <translation>Do not show this message again.</translation>
+        <translation type="unfinished">Do not show this message again.</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
@@ -5572,7 +5571,7 @@ Always take this action.</translation>
     <message>
         <source>Don&apos;t show this message again. 
 Always take this action.</source>
-        <translation>Don&apos;t show this message again. 
+        <translation type="unfinished">Don&apos;t show this message again. 
 Always take this action.</translation>
     </message>
     <message>
@@ -5681,7 +5680,7 @@ Always take this action.</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation></translation>
+        <translation>Nombre de arhivo inválido, escriba el nombre correcto del archivo</translation>
     </message>
     <message>
         <source>WPS Office is not the default office software, do you want to set it as the default one?
@@ -5692,7 +5691,7 @@ Always take this action.</translation>
     <message>
         <source>WPS Office is not the default office software. Do you want to set it as the default one?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation>WPS Office is not the default office software. Do you want to set it as the default one?
+        <translation type="unfinished">WPS Office is not the default office software. Do you want to set it as the default one?
 (The system uses WPS Office as the default one to open %1 files)</translation>
     </message>
     <message>
@@ -5749,7 +5748,7 @@ Always take this action.</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation></translation>
+        <translation>GUardar como</translation>
     </message>
     <message>
         <source>Sea Green</source>
@@ -5766,7 +5765,7 @@ Always take this action.</translation>
     <message>
         <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
+        <translation type="unfinished">There are errors in your system registry which will disable the use of some objects. Do you want to repair?
 (The system uses WPS Office as the default one to open %1 files)</translation>
     </message>
     <message>
@@ -5832,7 +5831,7 @@ You can download WPS Office Professional to enjoy the 2012 style interface.</sou
     <name>ThemeSchemeWidget</name>
     <message>
         <source>Default</source>
-        <translation>Default</translation>
+        <translation>Predeterminado</translation>
     </message>
     <message>
         <source>default</source>
@@ -5942,7 +5941,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Web/Screen</source>
-        <translation>&amp;Web/Screen</translation>
+        <translation>&amp;Web/Pantalla</translation>
     </message>
     <message>
         <source>Apply to</source>
@@ -6051,8 +6050,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation>E&amp;xisting File 
-or Web Page</translation>
+        <translation type="unfinished">Archivo existente
+o Página web</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
@@ -6077,7 +6076,7 @@ Document</source>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation>Re&amp;cently used E-mail addresses:</translation>
+        <translation>Dirección de email usada re&amp;cientemente:</translation>
     </message>
     <message>
         <source>Re&amp;cently used e-mail addresses:</source>
@@ -6147,7 +6146,7 @@ Document</source>
     </message>
     <message>
         <source>Paste &amp;link</source>
-        <translation>Paste &amp;link</translation>
+        <translation>Pegar víncu&amp;lo</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -6178,7 +6177,7 @@ Document</source>
     <name>tpropertydlg</name>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Add</translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
@@ -6210,7 +6209,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Read-only</source>
-        <translation>&amp;Read-only</translation>
+        <translation>Solo lectu&amp;ra</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
@@ -6266,15 +6265,15 @@ Document</source>
     </message>
     <message>
         <source>Checker</source>
-        <translation>Checker</translation>
+        <translation>Comprobador</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliente</translation>
     </message>
     <message>
         <source>Completion date</source>
-        <translation>Completion date</translation>
+        <translation>Flecha de cumplimiento</translation>
     </message>
     <message>
         <source>Created:</source>
@@ -6294,7 +6293,7 @@ Document</source>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dpartamento</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -6302,11 +6301,11 @@ Document</source>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor</translation>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hacia</translation>
     </message>
     <message>
         <source>Gat&amp;egory:</source>
@@ -6326,7 +6325,7 @@ Document</source>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Idioma</translation>
     </message>
     <message>
         <source>Location:</source>
@@ -6358,11 +6357,11 @@ Document</source>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oficina</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propietario</translation>
     </message>
     <message>
         <source>Pro&amp;perty:</source>
@@ -6370,11 +6369,11 @@ Document</source>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proyecto</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Motivo</translation>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
@@ -6386,7 +6385,7 @@ Document</source>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Origen</translation>
     </message>
     <message>
         <source>Status</source>
@@ -6406,7 +6405,7 @@ Document</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo:</translation>
     </message>
     <message>
         <source>Value</source>

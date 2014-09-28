@@ -1102,7 +1102,7 @@
 </context>
 <context>
     <name>KWppZoomSlider</name>
-    <message id="0">
+    <message>
         <source>Fit slide to current window</source>
         <translation type="unfinished">最佳显示比例</translation>
     </message>
@@ -1147,6 +1147,10 @@
     <message>
         <source>bgMagic tooltip</source>
         <translation>试试手气，相信奇迹会出现</translation>
+    </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation>成千上万的时尚模板帮您打造不一样的演示稿</translation>
     </message>
 </context>
 <context>
@@ -1411,6 +1415,10 @@
     <message>
         <source>I&amp;gnore the background of master slide</source>
         <translation>忽略母版的背景图形(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation>背景模板</translation>
     </message>
 </context>
 <context>
@@ -2598,6 +2606,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Caution: please keep your password properly.  File will never be recovered if you lose or forget the password. (Remember that passwords are case-sensitive.)</source>
         <translation type="obsolete">注意：密码区分大小写，请妥善保管密码，一旦丢失或遗忘，则无法恢复。</translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation>仅嵌入文档中所用的字符(适于减小文件大小)(&amp;J)</translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation>将字体嵌入文件(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation>嵌入所有字符(适于其他人编辑)(&amp;C)</translation>
     </message>
 </context>
 <context>

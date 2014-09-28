@@ -849,35 +849,35 @@ a condição é verdadeira:</translation>
         <translation type="obsolete">Não é um complemento válido.</translation>
     </message>
     <message>
-        <source>Automation Server</source>
+        <source>Automation Servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A File named</source>
+        <source>A file named </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, Do you want to replace it?</source>
+        <source>already exists in this location. Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>does not contain a valid Automation Server.</source>
+        <source>does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is a invalid addins macro file.</source>
+        <source>is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1156,7 +1156,7 @@ a condição é verdadeira:</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="obsolete">O tipo de conexão selecionado não pode ser usado para criar uma tabela dinâmica.</translation>
+        <translation type="unfinished">O tipo de conexão selecionado não pode ser usado para criar uma tabela dinâmica.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -1179,10 +1179,6 @@ a condição é verdadeira:</translation>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation>Você não pode criar uma tabela dinâmica com esses dados. Por favor, verifique o intervalo de referência é válido e a planilha especificada existe.</translation>
-    </message>
-    <message>
-        <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1893,7 +1889,7 @@ cursor na caixa de edição e pressione o botão Formatar imagem.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Category:</source>
+        <source>Sor&amp;t</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3190,7 +3186,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Criar arquivo de backup ao salvar pela primeira vez</translation>
+        <translation type="obsolete">Criar arquivo de backup ao salvar pela primeira vez</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -3628,6 +3624,10 @@ e Minúscula</translation>
     <message>
         <source>&amp;Warn me when closing all tabs</source>
         <translation>Avisar quando fechar todas as guias</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7514,10 +7514,6 @@ automaticamente , e apenas uma linha pode ser mantido .
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation type="unfinished">Nome</translation>
     </message>
@@ -7528,6 +7524,10 @@ automaticamente , e apenas uma linha pode ser mantido .
     <message>
         <source>Type</source>
         <translation type="unfinished">Tipo</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

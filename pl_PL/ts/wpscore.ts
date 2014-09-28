@@ -105,28 +105,8 @@
 <context>
     <name>field_parser_index</name>
     <message>
-        <source>Error!Can not find xe.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error!Switch parameter is not specified.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error!Bookmark the page of an invalid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alphabet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Symbol</source>
         <translation type="unfinished">Symbol</translation>
-    </message>
-    <message>
-        <source>Error!Switch parameter unrecognizable.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stroke</source>
@@ -137,15 +117,35 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error!Is not a valid character range.</source>
+        <source>Error. No index entries found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <source>Error. Switch argument not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>wps can not update index!</source>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -617,22 +617,22 @@ Try one or more of the following:
         <translation type="unfinished">_Góra</translation>
     </message>
     <message>
-        <source>Only main text.</source>
+        <source>Main Document Only.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! lack of test conditions.</source>
+        <source>Error. Missing test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! cannot recognize the condition operation code.</source>
+        <source>Error. Unknown op code for conditional.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! lack of the second part test condition.</source>
+        <source>Error. Missing second part of test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2663,35 +2663,35 @@ Czy chcesz go zastąpić?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Make the office more relaxed</source>
-        <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Document is under protected, can not be merged</source>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There are one or all documents contain revsions, continue compare or not?</source>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>no proofing</source>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
         <comment>TxLanguage_NoProofing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4482,7 +4482,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation type="unfinished">Liczba musi być %d a %d.</translation>
+        <translation type="obsolete">Liczba musi być %d a %d.</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%d characters.</source>
@@ -4972,6 +4972,11 @@ Cancel:	Return to the dialog.</source>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished">Liczba musi być pomiędzy %d a %d.</translation>
     </message>
 </context>
 <context>
@@ -6528,11 +6533,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <comment>TxDesc_DataSource_wptx</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Table Normal</source>
         <comment>TxTableStyle_TableNormal</comment>
         <translation type="unfinished"></translation>
@@ -6755,6 +6755,11 @@ Check</source>
     <message>
         <source>Table Theme</source>
         <comment>TxTableStyle_TabelTheme</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

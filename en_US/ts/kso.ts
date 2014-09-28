@@ -1879,11 +1879,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flowchart: Seqential Access Storage</source>
-        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Flowchart: Sort</source>
         <comment>DRAWINGSTR_FLOWCHARTSORT</comment>
         <translation type="unfinished"></translation>
@@ -2946,6 +2941,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

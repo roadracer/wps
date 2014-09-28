@@ -565,12 +565,12 @@
         <translation>Вставить клип</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>Вставить изображение</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Line</source>
@@ -633,7 +633,7 @@
         <translation>Сдвинуть</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1596,10 +1596,6 @@ Center</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -2804,7 +2800,7 @@ Window</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3100,7 +3096,7 @@ Window</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -4307,6 +4303,10 @@ On/Off</source>
         <translation>Шифрование</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Преобразовать в PDF</translation>
     </message>
@@ -5500,7 +5500,7 @@ Footer</source>
         <translation type="obsolete">Вставить файловый объект</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5528,7 +5528,7 @@ Footer</source>
         <translation type="obsolete">Выделить объект</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7872,7 +7872,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>Размер</translation>
+        <translation type="obsolete">Размер</translation>
     </message>
     <message>
         <source>WordArt 
@@ -7910,7 +7910,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">Размер</translation>
+        <translation type="unfinished">Размер</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -7983,6 +7983,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto backup</source>
         <translation type="obsolete">Автоматическое резервное копирование файла</translation>
     </message>
@@ -8011,7 +8015,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8107,16 +8111,12 @@ Shape</source>
         <translation>Документы из Интернета</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Открыть файл из облачного сервиса</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -8564,6 +8564,10 @@ COM</translation>
         <translation>Шифрование</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Формула</translation>
     </message>
@@ -8809,10 +8813,6 @@ COM</translation>
         <translation>Подбор параметра</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Graphics</source>
         <translation type="obsolete">Графика</translation>
     </message>
@@ -8893,16 +8893,16 @@ COM</translation>
         <translation>Вставить вырезанные ячейки</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Page Break</source>
         <translation>Вставить разрыв страницы</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
         <translation>Вставить лист</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -9037,7 +9037,7 @@ COM</translation>
         <translation>Список объектов меню</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9247,6 +9247,10 @@ COM</translation>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">Сохранить в Klive</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Security</source>
@@ -9536,10 +9540,6 @@ COM</translation>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -10419,6 +10419,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>Шифрование</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -12004,7 +12008,7 @@ Center</source>
         <translation type="obsolete">Вставить клип</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12080,7 +12084,7 @@ Center</source>
         <translation>Сдвинуть тень вверх</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13642,6 +13646,10 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto backup</source>
         <translation type="obsolete">Автоматическое резервное копирование файла</translation>
     </message>
@@ -13666,7 +13674,7 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13758,16 +13766,12 @@ Color</source>
         <translation>Документы из Интернета</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Открыть файл из облачного сервиса</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -13798,7 +13802,7 @@ Color</source>
         <translation>Войти</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17297,7 +17301,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17353,7 +17357,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -3153,6 +3153,10 @@ On</source>
         <translation>Chiffrement</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporter au format PDF</translation>
     </message>
@@ -7210,13 +7214,18 @@ WordArt</translation>
         <source>WordArt
 Size</source>
         <translatorcomment>Insert tab-&gt;WordArt-&gt;insert a WordArt-&gt;WordArt tab</translatorcomment>
-        <translation>Taille 
+        <translation type="obsolete">Taille 
 WordArt</translation>
     </message>
     <message>
         <source>WordArt 
 Shape</source>
         <translation>Forme 
+WordArt</translation>
+    </message>
+    <message>
+        <source>WordArt Size</source>
+        <translation type="unfinished">Taille 
 WordArt</translation>
     </message>
     <message>
@@ -7746,6 +7755,10 @@ Add-Ins</source>
     <message>
         <source>End Show</source>
         <translation>Arrêter le diaporama</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -9263,6 +9276,10 @@ masque de diapositive</translation>
     <message>
         <source>Encryption</source>
         <translation>Chiffrement</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -13391,7 +13408,7 @@ diapositive actuelle</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="obsolete">Fichier</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -13614,7 +13631,7 @@ diapositive actuelle</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="obsolete">Fichier</translation>
     </message>
     <message>
         <source>Formats</source>

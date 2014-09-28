@@ -405,7 +405,7 @@ condition is true:</source>
         <source>Enter the name or the description of the function you want to look for.</source>
         <translation type="obsolete">検索したい機能の名称または説明を入力して下さい</translation>
     </message>
-    <message id="0">
+    <message>
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>検索したい機能の名称または説明を入力して下さい</translation>
     </message>
@@ -1084,6 +1084,38 @@ condition is true:</source>
         <source>is not a valid Add-In.</source>
         <translation type="obsolete">無効なアドイン</translation>
     </message>
+    <message>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
@@ -1450,6 +1482,10 @@ condition is true:</source>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
         <translation type="obsolete">データソースの参照が正しくないため、ピボットテーブルを作成できません。</translation>
+    </message>
+    <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2250,6 +2286,10 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Refer to:</source>
         <translation>参照範囲(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4240,6 +4280,10 @@ p, li { white-space: pre-wrap; }
         <source>Enter a password below to protect this document. 
 The Advanced button allows you to choose from different encryption types.</source>
         <translation type="obsolete">以下のパスワードを選択することにより、文書をより高いレベルにて暗号化できます。パスワードに入力した認証情報を使用して文書を暗号化します</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation>新規作成時にバックアップファイルを作成(&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -9217,6 +9261,10 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>The data source contains no visible form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

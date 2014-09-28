@@ -916,6 +916,14 @@
         <source>Wrap Text</source>
         <translation>テキストの折り返し</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
@@ -3456,6 +3464,10 @@ Direction</source>
         <translation>暗号化</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
     </message>
@@ -4183,14 +4195,9 @@ Painter</source>
         <translation>その他の下線</translation>
     </message>
     <message>
-        <source>New 
-Style</source>
+        <source>New Style</source>
         <translation type="unfinished">新しい
 スタイル</translation>
-    </message>
-    <message>
-        <source>New Style</source>
-        <translation type="obsolete">新しいスタイル</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4766,6 +4773,14 @@ Break</source>
         <source>WordArt</source>
         <translation>アート
 文字</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6229,6 +6244,14 @@ On/Off</source>
         <source>Wrapping Style</source>
         <translation type="obsolete">折り返し</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
@@ -6303,6 +6326,11 @@ Directly</source>
     <message>
         <source>Footnote/Endnote
 Separator</source>
+        <translation type="obsolete">脚注/文末脚
+注区切りの表示</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
         <translation type="unfinished">脚注/文末脚
 注区切りの表示</translation>
     </message>
@@ -7597,12 +7625,12 @@ Cells</source>
     <message>
         <source>Text
 Direction</source>
-        <translation type="unfinished">文字列の
+        <translation type="obsolete">文字列の
 方向</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">文字列の
+        <translation type="unfinished">文字列の
 方向</translation>
     </message>
     <message>
@@ -8865,7 +8893,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation type="unfinished">アート文字
+        <translation type="obsolete">アート文字
 のサイズ</translation>
     </message>
     <message>
@@ -8904,7 +8932,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">アート文字のサイズ</translation>
+        <translation type="unfinished">アート文字のサイズ</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -9161,6 +9189,26 @@ Shape</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">Kingsoft Weiboレイアウト</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9659,6 +9707,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>暗号化</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -10666,6 +10718,22 @@ Diagonal Line in Cell</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">Kingsoft Weiboレイアウト</translation>
     </message>
+    <message>
+        <source>Change Account</source>
+        <translation>アカウントの変更</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -11522,6 +11590,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>暗号化</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16598,6 +16670,26 @@ Effects</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">Kingsoft Weiboレイアウト</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.wordtools</name>
@@ -21081,6 +21173,18 @@ You can also center them or distribute them evenly across the page.</source>
         <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpsclassics.mainwindow</name>
@@ -21974,6 +22078,14 @@ Directly</source>
         <source>Zoom</source>
         <translation>ズーム</translation>
     </message>
+    <message>
+        <source>Mail FeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands.Help</name>
@@ -22033,7 +22145,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ファイル</translation>
+        <translation type="obsolete">ファイル</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -22321,7 +22433,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>ファイル</translation>
+        <translation type="obsolete">ファイル</translation>
     </message>
     <message>
         <source>Formats</source>

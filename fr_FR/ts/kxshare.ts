@@ -502,6 +502,17 @@
         <source>Click to open the credits page.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KNativeFileDialogEx</name>
@@ -4462,7 +4473,7 @@ the file may be renamed,deleted or moved the location.</source>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
         <source>Click to try it now.</source>
-        <translation>Cliquez pour l&apos;essayer maintenant.</translation>
+        <translation type="obsolete">Cliquez pour l&apos;essayer maintenant.</translation>
     </message>
     <message>
         <source>Continue trial</source>
@@ -4470,29 +4481,25 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation>Télécharger</translation>
+        <translation type="obsolete">Télécharger</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Non</translation>
+        <translation type="obsolete">Non</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation>Acheter</translation>
+        <translation type="obsolete">Acheter</translation>
     </message>
     <message>
         <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation>Achetez-le dès maintenant pour obtenir une version complète de WPS Office Professionnel.</translation>
+        <translation type="obsolete">Achetez-le dès maintenant pour obtenir une version complète de WPS Office Professionnel.</translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation>Essayez dès aujourd&apos;hui la version professionnelle et bénéficiez d&apos;un plus grand nombre 
+        <translation type="obsolete">Essayez dès aujourd&apos;hui la version professionnelle et bénéficiez d&apos;un plus grand nombre 
 de services et de fonctionnalités.</translation>
-    </message>
-    <message>
-        <source>Continue Trial</source>
-        <translation></translation>
     </message>
 </context>
 <context>

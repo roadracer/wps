@@ -646,6 +646,18 @@ multiple=multiple</translation>
     </message>
 </context>
 <context>
+    <name>KWPSCloudSetup</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>Illegal integer text.</source>

@@ -756,6 +756,14 @@
         <source>WordArt</source>
         <translation>Gewicht</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild </translation>
+    </message>
 </context>
 <context>
     <name>classics.drawing.NudgeDown</name>
@@ -1459,7 +1467,7 @@ Center</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Benutzeroberfläche wechseln </translation>
+        <translation></translation>
     </message>
     <message>
         <source>true</source>
@@ -5143,7 +5151,7 @@ Fenster</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Datei</translation>
+        <translation type="obsolete">Datei</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -5693,7 +5701,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Datei</translation>
+        <translation type="obsolete">Datei</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -7692,6 +7700,10 @@ On/Off</source>
         <translation>Verschlüsseln</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Als PDF exportieren</translation>
     </message>
@@ -9023,6 +9035,14 @@ Pane</source>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11095,7 +11115,7 @@ Katalog</translation>
     <message>
         <source>WordArt
 Size</source>
-        <translation>WordAr
+        <translation type="obsolete">WordAr
 Größe</translation>
     </message>
     <message>
@@ -11103,6 +11123,10 @@ Größe</translation>
 Shape</source>
         <translation>WordArt 
 Form</translation>
+    </message>
+    <message>
+        <source>WordArt Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -11273,6 +11297,18 @@ Form</translation>
     <message>
         <source>WPS Permit</source>
         <translation>WPS Zulassen</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Online-Bilder einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild </translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11681,6 +11717,10 @@ Add-Ins</source>
     <message>
         <source>Encryption</source>
         <translation>Verschlüsseln</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -12652,6 +12692,18 @@ Add-Ins</source>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -12661,7 +12713,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Benutzeroberfläche wechseln</translation>
+        <translation></translation>
     </message>
     <message>
         <source>true</source>
@@ -13418,6 +13470,10 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14988,6 +15044,14 @@ umbrechen</translation>
         <source>Weight</source>
         <translation>Gewicht</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild  einfügen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.PictureColor</name>
@@ -16391,6 +16455,22 @@ Color</source>
         <source>WPS Permit</source>
         <translation>WPS Zulassen</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen </translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>Spezial Tool</translation>
+    </message>
 </context>
 <context>
     <name>tips.SpellCheck</name>
@@ -16531,6 +16611,14 @@ Color</source>
     </message>
     <message>
         <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -2559,6 +2559,26 @@ Please try one of the following.
         <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished">數據源中沒有包含可見的表格</translation>
+    </message>
+    <message>
+        <source>Modify existing outline?</source>
+        <comment>TX_ChangeAutoOutline</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -2922,6 +2942,16 @@ Please try one of the following.
         <comment>TX_ListObject_NamePrefix</comment>
         <translation>表格_</translation>
     </message>
+    <message>
+        <source>No Column has been selected.</source>
+        <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
+        <comment>TX_RepeatWord_Group_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_chart</name>
@@ -3050,6 +3080,16 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
 ·使用舊版 WPS Spreadsheets 不支援的公式限制 (例如大於 7 個巢狀層級)
 
 您要 WPS Spreadsheets 在開啟此活頁簿時重新計算所有公式嗎?</translation>
+    </message>
+    <message>
+        <source>Missing loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing NEXT function for loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3721,6 +3761,16 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8043,6 +8093,26 @@ Note: some files may contain macro viruses and execution of them may cause damag
 
 ·若要以此格式儲存，並刪除不相容的功能，按一下 [是]。
 ·若要保留其功能，按 [否]，再以最新的 WPS Spreadsheets 格式加以儲存。</translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="unfinished">所有數據源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+    </message>
+    <message>
+        <source>DIF (Data Interchange Format)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="unfinished">DIF (數據交換文件)(*.dif)</translation>
+    </message>
+    <message>
+        <source>Data Interchange Format (*.dif)</source>
+        <comment>TX_ssDesc_Dif_</comment>
+        <translation type="unfinished">DIF 數據交換文件(*.dif)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

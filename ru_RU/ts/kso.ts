@@ -4214,7 +4214,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Блок-схема: память с последовательным доступом</translation>
+        <translation type="obsolete">Блок-схема: память с последовательным доступом</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
@@ -5230,6 +5230,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>FreeForm</source>
         <comment>DRAWINGSTR_FREEFORM</comment>
         <translation>Полилиния</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

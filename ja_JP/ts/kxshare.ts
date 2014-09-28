@@ -531,6 +531,10 @@ Try to switch user interface!</source>
         <translation type="obsolete">上記2種類のインターフェースより、好みの方を選択して下さい。
 途中で切り替えも可能です。次回起動時より有効になります。</translation>
     </message>
+    <message>
+        <source>Restart WPS Office for layout setting to take effect</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
@@ -734,6 +738,33 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Click to open the credits page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1842,6 +1873,10 @@ Try to switch user interface!</source>
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Custom Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize menu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4413,6 +4448,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
     </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You still not a senior member，upgrade to enjoy more cloud fonts now.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
@@ -4528,6 +4579,64 @@ Click the icon to sign in.</source>
         <source>VIP soon to be expired.
 Click to recharge for more discounts.</source>
         <translation type="obsolete">VIPユーザーの有効期間が間もなく終了します。再購入の場合は、割引があります。</translation>
+    </message>
+    <message>
+        <source>Click to keep cloud fonts on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to shuffle cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud fonts installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to install free cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP cloud fonts installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5693,6 +5802,10 @@ but the included system package is reserved.</source>
         <source>Customize animation:</source>
         <translation>ユーザー設定アニメーション</translation>
     </message>
+    <message>
+        <source>Custom animation:</source>
+        <translation>ユーザー設定アニメーション</translation>
+    </message>
 </context>
 <context>
     <name>KxTpNewDoc</name>
@@ -5781,6 +5894,15 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <source>WPS Online Templates</source>
         <translation type="obsolete">オンラインテンプレート</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
@@ -5861,6 +5983,15 @@ the file may be renamed,deleted or moved the location.</source>
         <source>WPS Online Templates</source>
         <translation type="obsolete">オンラインテンプレート</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
@@ -5915,7 +6046,7 @@ the file may be renamed,deleted or moved the location.</source>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
         <source>Click to try it now.</source>
-        <translation>「すぐに試用」をクリックする</translation>
+        <translation type="obsolete">「すぐに試用」をクリックする</translation>
     </message>
     <message>
         <source>Continue trial</source>
@@ -5923,15 +6054,15 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation>ダウンロード</translation>
+        <translation type="obsolete">ダウンロード</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>いいえ</translation>
+        <translation type="obsolete">いいえ</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation>購入</translation>
+        <translation type="obsolete">購入</translation>
     </message>
     <message>
         <source>Purchase now to get full version of Kingsoft Office Professional.</source>
@@ -5940,15 +6071,15 @@ the file may be renamed,deleted or moved the location.</source>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation>プロフェッショナルバージョンをお試しいただくと、今まで以上の機能を使用できます</translation>
+        <translation type="obsolete">プロフェッショナルバージョンをお試しいただくと、今まで以上の機能を使用できます</translation>
     </message>
     <message>
         <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation>Kingsoft Office Professonaを購入する</translation>
+        <translation type="obsolete">Kingsoft Office Professonaを購入する</translation>
     </message>
     <message>
         <source>Continue Trial</source>
-        <translation>試用を続ける</translation>
+        <translation type="obsolete">試用を続ける</translation>
     </message>
 </context>
 <context>
@@ -6826,6 +6957,10 @@ Always take this action.</source>
         <source>WPS Office is not the default office software, do you want to set it as the default one?
 (The system uses WPS Office as the default one to open doc, xls and ppt files)</source>
         <translation type="obsolete">Kingsoft Officeを既定のオフィスソフトに設定しますか？（Word、Excel、PowerPointファイルがWPS Officeで開くようになります。）</translation>
+    </message>
+    <message>
+        <source>Blue Gray</source>
+        <translation>ブルー—グレー</translation>
     </message>
 </context>
 <context>

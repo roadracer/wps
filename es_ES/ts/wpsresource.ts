@@ -3178,6 +3178,10 @@ Direction</translation>
         <translation>Encryption</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3815,14 +3819,8 @@ Painter</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New 
-Style</source>
-        <translation>New 
-Style</translation>
-    </message>
-    <message>
         <source>New Style</source>
-        <translation type="obsolete">New 
+        <translation type="unfinished">New 
 Style</translation>
     </message>
     <message>
@@ -5697,8 +5695,12 @@ On/Off</translation>
     <message>
         <source>Footnote/Endnote
 Separator</source>
-        <translation>Footnote/Endnote
+        <translation type="obsolete">Footnote/Endnote
 Separator</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
@@ -6908,12 +6910,12 @@ Cells</source>
     <message>
         <source>Text
 Direction</source>
-        <translation>Text
+        <translation type="obsolete">Text
 Direction</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">Text
+        <translation type="unfinished">Text
 Direction</translation>
     </message>
     <message>
@@ -8122,11 +8124,6 @@ Gallery</source>
 Gallery</translation>
     </message>
     <message>
-        <source>WordArt
-Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WordArt 
 Shape</source>
         <translation type="unfinished"></translation>
@@ -8161,6 +8158,10 @@ Gallery</translation>
         <source>WordArt Shape</source>
         <translation type="obsolete">WordArt
 Shape</translation>
+    </message>
+    <message>
+        <source>WordArt Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8794,6 +8795,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -10504,6 +10509,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Encryption</source>
         <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16288,10 +16297,6 @@ Directly</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formats</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16533,10 +16538,6 @@ Directly</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

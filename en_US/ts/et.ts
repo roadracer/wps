@@ -1079,38 +1079,42 @@ condition is true:</translation>
     </message>
     <message>
         <source>is a invalid addins macro file.</source>
-        <translation type="unfinished">is not a valid Add-In.</translation>
+        <translation type="obsolete">is not a valid Add-In.</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
         <translation type="obsolete">is not a valid Add-In.</translation>
     </message>
     <message>
-        <source>Automation Server</source>
+        <source>Automation Servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A File named</source>
+        <source>A file named </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, Do you want to replace it?</source>
+        <source>already exists in this location. Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>does not contain a valid Automation Server.</source>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1483,7 +1487,7 @@ condition is true:</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="obsolete">The type of connection selected cannot be used to create a PivotTable.</translation>
+        <translation type="unfinished">The type of connection selected cannot be used to create a PivotTable.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
@@ -1507,10 +1511,6 @@ condition is true:</translation>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <translation type="obsolete">You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</translation>
-    </message>
-    <message>
-        <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2291,7 +2291,7 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Category:</source>
+        <source>Sor&amp;t</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3768,7 +3768,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Create &amp;backup file at the first save</translation>
+        <translation type="obsolete">Create &amp;backup file at the first save</translation>
     </message>
     <message>
         <source>Custom &amp;lists:</source>
@@ -4204,6 +4204,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8696,10 +8700,6 @@ system will remind checking the correctness of the contents.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8709,6 +8709,10 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -5299,6 +5299,78 @@ Example: +4 will move forward four items:</source>
         <source>&amp;UseNewDoc</source>
         <translation>新文档(&amp;U)</translation>
     </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation>字符级别(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Revised document</source>
+        <translation>修订的文档(&amp;R)</translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
+        <translation>新文档(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation>字词级别(&amp;W)</translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation>空白区域(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Case chan&amp;ges</source>
+        <translation>大小写更改(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Comme&amp;nts</source>
+        <translation>批注(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Comparison settings</source>
+        <translation>比较设置</translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation>修订的显示位置:</translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation>显示修订</translation>
+    </message>
+    <message>
+        <source>Footnotes and en&amp;dnotes</source>
+        <translation>脚注和尾注(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Insertions and Deletions</source>
+        <translation>插入和删除</translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation>原文档(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation>修订后文档(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Original document</source>
+        <translation>原文档(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation>修订的显示级别:</translation>
+    </message>
+    <message>
+        <source>T&amp;ables</source>
+        <translation>表格(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Te&amp;xtboxes</source>
+        <translation>文本框(&amp;X)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgMergeToDiffNewDoc</name>
@@ -7003,6 +7075,30 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Remember My &amp;Choice</source>
+        <translation>提醒我是否将云字体嵌入文件中(&amp;C)</translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation>字体预览框(&amp;O)</translation>
+    </message>
+    <message>
+        <source>AutoNumber</source>
+        <translation>自动编号</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation>第一次保存时生成备份文件(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
+        <translation>不压缩文件中的图像(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation type="unfinished">最近使用的文档</translation>
+    </message>
+    <message>
+        <source>Reminder for embedding &amp;cloud fonts in the file</source>
         <translation>提醒我是否将云字体嵌入文件中(&amp;C)</translation>
     </message>
 </context>
@@ -10667,6 +10763,50 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
         <translation>在文档比较前需要保存对&quot;%1&quot;文档的修改，请保存文档。</translation>
     </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation>&lt;&lt; 更少(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
+        <translation>无法比较一个未保存的只读文档。</translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation>wps未发现这两个文档有何差别</translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation>合并文档</translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation>更多(&amp;M) &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation>修订者显示为(&amp;E)</translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation>修订者显示为(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation>未标记修订的修订者显示为(&amp;E)</translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation>未标记修订的修订者显示为(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Compare Documents</source>
+        <translation>比较文档</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>打开</translation>
+    </message>
 </context>
 <context>
     <name>KxMergeToDiffNewDocDlg</name>
@@ -10743,6 +10883,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>The number must not be nil.</source>
         <translation type="obsolete">数值不能为空</translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
+        <translation type="unfinished">数值不能为空</translation>
     </message>
 </context>
 <context>
@@ -11266,6 +11410,14 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
         <translation type="unfinished">无法连接到服务器,请检查您的网络连接。</translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="unfinished">无法连接到服务器,请检查您的网络连接。</translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished">您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
     </message>
 </context>
 <context>
@@ -13544,6 +13696,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Show header line</source>
+        <translation type="unfinished">显示页眉横线</translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
         <translation type="unfinished">显示页眉横线</translation>
     </message>
 </context>

@@ -849,35 +849,35 @@ condition is true:</source>
         <translation type="obsolete">Недопустимое дополнение.</translation>
     </message>
     <message>
-        <source>Automation Server</source>
+        <source>Automation Servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A File named</source>
+        <source>A file named </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, Do you want to replace it?</source>
+        <source>already exists in this location. Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>does not contain a valid Automation Server.</source>
+        <source>does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is a invalid addins macro file.</source>
+        <source>is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1165,7 +1165,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="obsolete">Тип выбранного соединения не может быть использован для создания сводной таблицы.</translation>
+        <translation type="unfinished">Тип выбранного соединения не может быть использован для создания сводной таблицы.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
@@ -1178,10 +1178,6 @@ condition is true:</source>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation>Невоможно создать сводную таблицу с этими данными. Проверьте правильность диапазона ссылки, и существет ли данный лист.</translation>
-    </message>
-    <message>
-        <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1890,7 +1886,7 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Category:</source>
+        <source>Sor&amp;t</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3507,7 +3503,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Создавать файл &amp;резервной копии при первом сохранении</translation>
+        <translation type="obsolete">Создавать файл &amp;резервной копии при первом сохранении</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -3620,6 +3616,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
         <translation>Нажмите Ctrl + Tab для &amp;переключения вкладок</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7507,10 +7507,6 @@ system will remind checking the correctness of the contents.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation type="unfinished">Имя</translation>
     </message>
@@ -7521,6 +7517,10 @@ system will remind checking the correctness of the contents.
     <message>
         <source>Type</source>
         <translation type="unfinished">Тип</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

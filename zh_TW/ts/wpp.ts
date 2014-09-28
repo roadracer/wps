@@ -1096,7 +1096,7 @@
 </context>
 <context>
     <name>KWppZoomSlider</name>
-    <message id="0">
+    <message>
         <source>Fit slide to current window</source>
         <translation>最適顯示比例</translation>
     </message>
@@ -1120,6 +1120,10 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1381,6 +1385,10 @@
     <message>
         <source>I&amp;gnor the back ground of main</source>
         <translation type="obsolete">忽略母片上的背景圖形(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2444,6 +2452,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>gray</source>
         <translation type="obsolete">純粹黑白</translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation>只嵌入文件中使用的字元 (有利於縮減檔案大小)(&amp;J)</translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation>在檔案內嵌字型(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

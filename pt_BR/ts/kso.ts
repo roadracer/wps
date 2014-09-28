@@ -1930,7 +1930,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Fluxograma: Seqential Acesso ao Armazenamento</translation>
+        <translation type="obsolete">Fluxograma: Seqential Acesso ao Armazenamento</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
@@ -2946,6 +2946,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>FreeForm</source>
         <comment>DRAWINGSTR_FREEFORM</comment>
         <translation>Freeform</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -4111,14 +4111,6 @@ Example: +4 will move forward four items:</source>
 <context>
     <name>KxDlgMergeCompare</name>
     <message>
-        <source>OriginalD&amp;oc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;ReviseDoc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4127,71 +4119,79 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CompareOption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertAndDelete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>T&amp;able</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comme&amp;nt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FootEn&amp;dNote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextBo&amp;x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CaseChan&amp;ge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Field&amp;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Blank&amp;Part</source>
+        <source>&amp;Original document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DisplayRevision</source>
+        <source>&amp;Revised document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>RevisionLevel</source>
+        <source>Comparison settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DisplayLocation</source>
+        <source>Insertions and Deletions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;CharLevel</source>
+        <source>T&amp;ables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Loca&amp;teOriginalDoc</source>
+        <source>Comme&amp;nts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;WordLevel</source>
+        <source>Footnotes and en&amp;dnotes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>LocateRev&amp;iseDoc</source>
+        <source>Te&amp;xtboxes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;UseNewDoc</source>
+        <source>Case chan&amp;ges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4716,10 +4716,6 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AutoFormat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5447,10 +5443,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recent documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enable &amp;timing backup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5560,22 +5552,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;FontPreview Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember My &amp;Choice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do &amp;Not Auto Compress Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Set default target out&amp;put to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5589,6 +5565,30 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>96 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reminder for embedding &amp;cloud fonts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7849,10 +7849,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sounds like(English)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8522,47 +8518,7 @@ This change will affect all new documents based on the %1 template.</source>
 <context>
     <name>KxMergeCompareDlg</name>
     <message>
-        <source>compare documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnmarkedR&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnmarkedReviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More(&amp;M) &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;&lt; Less(&amp;L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Difference not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8570,11 +8526,51 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can&apos;t compare a unsaved read only file.</source>
+        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
+        <source>Compare Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8623,15 +8619,15 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The number must not be nil</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This is not a valid number.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9073,15 +9069,15 @@ Cancel:	Return to the dialog.</source>
 <context>
     <name>KxOnlineFontTipDlg</name>
     <message>
-        <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Renew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10837,7 +10833,7 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
-        <source>Show header line</source>
+        <source>Show Header Line</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

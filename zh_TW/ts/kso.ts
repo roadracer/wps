@@ -3071,6 +3071,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
         <translation>黑色漸變</translation>
     </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation>流程圖: 循序存取儲存裝置</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>

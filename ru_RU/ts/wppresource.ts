@@ -582,16 +582,16 @@
         <translation>Вставить клип</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>Вставить фигурный текст</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -650,7 +650,7 @@
         <translation>Сдвиг</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1527,10 +1527,6 @@ Master</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -2842,6 +2838,10 @@ On</source>
         <translation>Шифрование</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Преобразовать в PDF</translation>
     </message>
@@ -3950,6 +3950,10 @@ Footer</source>
         <translation>Вставить гиперссылку</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Organization Chart</source>
         <translation>Вставить организационную диаграмму</translation>
     </message>
@@ -3964,10 +3968,6 @@ Footer</source>
     <message>
         <source>Insert WordArt</source>
         <translation>Вставить фигурный текст</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -3990,7 +3990,7 @@ Footer</source>
         <translation>Объект</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6971,7 +6971,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>Размер</translation>
+        <translation type="obsolete">Размер</translation>
     </message>
     <message>
         <source>WordArt 
@@ -7008,7 +7008,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">Размер</translation>
+        <translation type="unfinished">Размер</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -7093,7 +7093,7 @@ Shape</source>
         <translation>Помогите нам улучшить WPS Office</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7185,7 +7185,7 @@ Shape</source>
         <translation>Документы из Интернета</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7213,7 +7213,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7639,6 +7639,10 @@ COM</translation>
         <translation>Завершить показ</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Формула</translation>
     </message>
@@ -7735,10 +7739,6 @@ COM</translation>
         <translation>Перейти к слайду</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Graphics</source>
         <translation type="obsolete">Графика</translation>
     </message>
@@ -7815,16 +7815,16 @@ COM</translation>
         <translation>Вставить столбцы справа</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Rows Above</source>
         <translation>Вставить строки выше</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
         <translation>Вставить строки ниже</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -8025,7 +8025,7 @@ Master</source>
         <translation>Список объектов меню</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8239,6 +8239,10 @@ Master</source>
     <message>
         <source>Screen</source>
         <translation>Экран</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -8515,10 +8519,6 @@ Master</source>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Поменять стиль интерфейса</translation>
@@ -9314,6 +9314,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>Шифрование</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -11111,12 +11115,12 @@ Subordinate</source>
         <translation type="obsolete">Вставить художественный клип</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>Вставить изображение</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11183,7 +11187,7 @@ Subordinate</source>
         <translation>Сдвинуть тень вверх</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12969,7 +12973,7 @@ Effects</source>
         <translation>Помогите нам улучшить WPS Office</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13061,7 +13065,7 @@ Effects</source>
         <translation>Документы из Интернета</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13089,7 +13093,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15956,7 +15960,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>Роуминг файла</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16008,7 +16012,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="obsolete">Метка версии</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17027,7 +17031,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -17338,7 +17342,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
         <source>Formats</source>

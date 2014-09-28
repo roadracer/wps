@@ -2787,10 +2787,6 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formats</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3080,10 +3076,6 @@ Window</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4291,6 +4283,10 @@ On/Off</source>
     <message>
         <source>Encryption</source>
         <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7890,7 +7886,7 @@ Shape</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>WordArt
+        <translation type="obsolete">WordArt
 Size</translation>
     </message>
     <message>
@@ -7925,7 +7921,7 @@ Gallery</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">WordArt
+        <translation type="unfinished">WordArt
 Size</translation>
     </message>
     <message>
@@ -8505,6 +8501,10 @@ Add-Ins</source>
     <message>
         <source>Encryption</source>
         <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -10287,6 +10287,10 @@ AddIns</source>
     <message>
         <source>Encryption</source>
         <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>

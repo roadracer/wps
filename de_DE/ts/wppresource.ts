@@ -800,6 +800,14 @@
         <source>Weight</source>
         <translation type="unfinished">Bedeutung</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.drawing.NudgeLeft</name>
@@ -2687,6 +2695,10 @@ On</source>
         <translation>Verschlüsseln</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Als PDF exportieren</translation>
     </message>
@@ -3887,6 +3899,14 @@ Number</source>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6407,13 +6427,12 @@ Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt
-Size</source>
+        <source>WordArt 
+Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt 
-Shape</source>
+        <source>WordArt Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6564,6 +6583,18 @@ Shape</source>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6967,6 +6998,10 @@ Add-Ins</source>
     <message>
         <source>End Show</source>
         <translation>Präsentation beenden</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -7786,6 +7821,18 @@ Folienmaster</translation>
         <source>true</source>
         <translation>wahr</translation>
     </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -8555,6 +8602,10 @@ Folienmaster</translation>
     <message>
         <source>Encryption</source>
         <translation type="unfinished">Verschlüsseln</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -10382,6 +10433,14 @@ Subordinate</source>
         <source>Weight</source>
         <translation type="unfinished">Bedeutung</translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Fill</name>
@@ -11957,6 +12016,18 @@ Effects</source>
         <source>true</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>tips.AlignCenter</name>
@@ -12397,6 +12468,14 @@ Effects</source>
     </message>
     <message>
         <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15683,7 +15762,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Datei</translation>
+        <translation type="obsolete">Datei</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -16202,7 +16281,7 @@ Slide</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Datei</translation>
+        <translation type="obsolete">Datei</translation>
     </message>
     <message>
         <source>Fill</source>

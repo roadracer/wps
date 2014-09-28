@@ -617,16 +617,16 @@
         <translation>Clip Art invoegen</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>WordArt Invoegen</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -705,7 +705,7 @@
         <translation type="obsolete">Object selecteren</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1904,10 +1904,6 @@ Samengevoegde Data</translation>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Wijzig UI</translation>
@@ -3323,6 +3319,10 @@ Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporteer naar PDF</translation>
     </message>
@@ -4035,13 +4035,8 @@ Painter</source>
         <translation>Meer Onderlijnen</translation>
     </message>
     <message>
-        <source>New 
-Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New Style</source>
-        <translation type="obsolete">Nieuwe Stijl</translation>
+        <translation type="unfinished">Nieuwe Stijl</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4387,6 +4382,10 @@ Footer</source>
         <translation>Clip Art Invoegen</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Afbeelding invoegen</translation>
     </message>
@@ -4412,10 +4411,6 @@ Footer</source>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4447,7 +4442,7 @@ Footer</source>
         <translation>Oneven-pagina-einde</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5613,12 +5608,12 @@ Pictures</source>
         <translation>Clip Art Invoegen</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>Afbeelding invoegen</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>Afbeelding invoegen</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -5697,7 +5692,7 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6048,8 +6043,7 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Footnote/Endnote
-Separator</source>
+        <source>Footnote/Endnote Separator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7316,13 +7310,8 @@ Delen</translation>
         <translation type="obsolete">Tabellen</translation>
     </message>
     <message>
-        <source>Text
-Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text Direction</source>
-        <translation type="obsolete">Tekstrichting</translation>
+        <translation type="unfinished">Tekstrichting</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -8565,11 +8554,6 @@ Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt
-Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WordArt 
 Shape</source>
         <translation type="unfinished"></translation>
@@ -8605,7 +8589,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">WordArt Grootte</translation>
+        <translation type="unfinished">WordArt Grootte</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8672,6 +8656,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">Automatische Bestandsbackup</translation>
     </message>
@@ -8700,7 +8688,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8760,7 +8748,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8769,10 +8757,6 @@ Shape</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8800,12 +8784,16 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">Stop Automatische Backup</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -8829,10 +8817,6 @@ Shape</source>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9025,11 +9009,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">Account Wijzigen</translation>
-    </message>
-    <message>
-        <source>Change Accout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Account Wijzigen</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -9351,6 +9331,10 @@ Diagonale Lijn in Cel</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Formule</translation>
     </message>
@@ -9499,10 +9483,6 @@ Diagonale Lijn in Cel</translation>
         <translation>Ga naar Voetnoot</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gradiant</source>
         <translation type="obsolete">Kleurovergang</translation>
     </message>
@@ -9596,6 +9576,10 @@ Diagonale Lijn in Cel</translation>
         <translation>Meertere Rijen Invoegen</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>Voeg Tabel in</translation>
     </message>
@@ -9606,10 +9590,6 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Insert Watermark</source>
         <translation>Watermerk Invoegen</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -9752,7 +9732,7 @@ Diagonale Lijn in Cel</translation>
         <translation>Sectie-einde op Oneven Pagina&apos;s</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10006,6 +9986,10 @@ Diagonale Lijn in Cel</translation>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">Sla Op naar Klive</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Section</source>
@@ -10352,10 +10336,6 @@ Diagonale Lijn in Cel</translation>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Wijzig UI</translation>
@@ -11171,6 +11151,10 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15940,6 +15924,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">Automatische Bestandsbackup</translation>
     </message>
@@ -15968,7 +15956,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16008,7 +15996,7 @@ Effects</source>
         <translation>Online Documenten</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16017,10 +16005,6 @@ Effects</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16048,12 +16032,16 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">Stop Automatische Backup</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16077,10 +16065,6 @@ Effects</source>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20706,7 +20690,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20726,7 +20710,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation type="obsolete">Niet Ingelogd</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20778,6 +20762,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation type="obsolete">Stop Automatische Backup</translation>
     </message>
     <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20808,10 +20796,6 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>Weibo Layout</source>
         <translation type="obsolete">Weibo Opmaak</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21179,6 +21163,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Uitvouwen</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Feedback</translation>
     </message>
@@ -21233,10 +21221,6 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>Google Docs</source>
         <translation type="obsolete">Google Docs</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -21299,7 +21283,7 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation>Macro&apos;s</translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
+        <source>Mail FeedBack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21462,10 +21446,6 @@ Directly</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21791,7 +21771,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Bestand</translation>
+        <translation type="obsolete">Bestand</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -22029,10 +22009,6 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>Wijzig UI</translation>
     </message>
@@ -22091,7 +22067,7 @@ Directly</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Bestand</translation>
+        <translation type="obsolete">Bestand</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -22304,10 +22280,6 @@ Directly</source>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Wijzig UI</translation>

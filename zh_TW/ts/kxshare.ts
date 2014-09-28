@@ -665,6 +665,10 @@
         <source>The layout will take effect after restarting</source>
         <translation type="obsolete">介面配置更改將在下次啟動KingSoft Office時生效</translation>
     </message>
+    <message>
+        <source>Restart WPS Office for layout setting to take effect</source>
+        <translation type="unfinished">介面佈局變更將在下次啟動 Kingsoft Office 時生效</translation>
+    </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
@@ -861,6 +865,33 @@
     </message>
     <message>
         <source>Click to open the credits page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2011,6 +2042,10 @@
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Custom Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize menu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4453,6 +4488,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>OK</source>
         <translation type="unfinished">確定</translation>
     </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You still not a senior member，upgrade to enjoy more cloud fonts now.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
@@ -4569,6 +4620,64 @@ Click the icon to sign in.</source>
 Click to recharge for more discounts.</source>
         <translation type="obsolete">您的會員即將到期
 按一下圖標續費即可享折扣優惠</translation>
+    </message>
+    <message>
+        <source>Click to keep cloud fonts on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to shuffle cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud fonts installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to install free cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP cloud fonts installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5891,6 +6000,10 @@ but the included system package is reserved.</source>
         <source>Object Select</source>
         <translation type="obsolete">選取窗格</translation>
     </message>
+    <message>
+        <source>Custom animation:</source>
+        <translation>自訂動畫:</translation>
+    </message>
 </context>
 <context>
     <name>KxTpNewDoc</name>
@@ -5987,6 +6100,15 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <source>WPS Online Templates</source>
         <translation type="obsolete">WPS Online範本</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
@@ -6075,6 +6197,15 @@ the file may be renamed,deleted or moved the location.</source>
         <source>WPS Online Templates</source>
         <translation type="obsolete">WPS Online範本</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
@@ -6158,7 +6289,7 @@ of services and features.</source>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
         <source>Click to try it now.</source>
-        <translation>按一下開始試用。</translation>
+        <translation type="obsolete">按一下開始試用。</translation>
     </message>
     <message>
         <source>Continue trial</source>
@@ -6166,15 +6297,15 @@ of services and features.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation>下載</translation>
+        <translation type="obsolete">下載</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
+        <translation type="obsolete">否</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation>購買</translation>
+        <translation type="obsolete">購買</translation>
     </message>
     <message>
         <source>Purchase now to get full version of Kingsoft Office Professional.</source>
@@ -6183,15 +6314,15 @@ of services and features.</source>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation>現在嘗試專業版，享受更多的服務和功能。</translation>
+        <translation type="obsolete">現在嘗試專業版，享受更多的服務和功能。</translation>
     </message>
     <message>
         <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation>立即購買取得WPS Office專業版。</translation>
+        <translation type="obsolete">立即購買取得WPS Office專業版。</translation>
     </message>
     <message>
         <source>Continue Trial</source>
-        <translation>繼續試用</translation>
+        <translation type="obsolete">繼續試用</translation>
     </message>
     <message>
         <source>Click to try it now .</source>
@@ -7099,6 +7230,10 @@ Always take this action.</source>
 (The system uses WPS Office as the default one to open doc, xls and ppt files)</source>
         <translation type="obsolete">KingSoft Office不是系統預設的辦公軟體，是否將其設置為預設的辦公軟體？
 (系統預設會以KingSoft Office打開doc、xls、ppt等辦公軟體格式的檔案)</translation>
+    </message>
+    <message>
+        <source>Blue Gray</source>
+        <translation>藍灰</translation>
     </message>
 </context>
 <context>

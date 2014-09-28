@@ -48,6 +48,38 @@
         <source>wps can not update index!</source>
         <translation>wps无法更新索引!</translation>
     </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation>英文字母</translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation>错误！脚注、尾注、页眉、页脚或批注中不允许有索引。</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation>错误！页面上某项中的书签无效。</translation>
+    </message>
+    <message>
+        <source>Error. No index entries found.</source>
+        <translation>错误！未找到索引项。</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation>错误！不是有效的字符范围。</translation>
+    </message>
+    <message>
+        <source>Error. Switch argument not specified.</source>
+        <translation>错误！未指定开关参数。</translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation>错误！不能识别的开关参数。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
+        <translation>wps无法更新索引!</translation>
+    </message>
 </context>
 <context>
     <name>wps_comment</name>
@@ -230,6 +262,26 @@ Try one or more of the following:
         <source>Error! lack of the second part test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
         <translation>错误！缺少测试条件的第二部分。</translation>
+    </message>
+    <message>
+        <source>Error. Unknown op code for conditional.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation>错误！不能识别的条件操作码。</translation>
+    </message>
+    <message>
+        <source>Error. Missing test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation>错误！缺少测试条件。</translation>
+    </message>
+    <message>
+        <source>Error. Missing second part of test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation>错误！缺少测试条件的第二部分。</translation>
+    </message>
+    <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation>仅主文档。</translation>
     </message>
 </context>
 <context>
@@ -2463,6 +2515,29 @@ Do you want to replace it?</source>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished">某些浏览器可能无法正确显示路径中包含“!”、“#”、“%20”、“%23”或“%25”等字符的“单个文件网页”。是否继续？</translation>
+    </message>
+    <message>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation>是否放弃对“%s”的更新并加载最新版本?</translation>
+    </message>
+    <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation>文档被保护,不能合并</translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation>所比较的两个文档中有一个或全部含有修订。为进行比较，Wps会将这些修订视为已接受。是否继续比较？</translation>
+    </message>
+    <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation>WPS让办公更轻松</translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation>(不作校对)</translation>
     </message>
 </context>
 <context>
@@ -7048,6 +7123,11 @@ Check</source>
         <source>Date/Time</source>
         <comment>TxVersion_InsDateTime</comment>
         <translation type="unfinished">插入日期和时间</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation>WPS文字 2007/2010 模板文件(*.wptx)</translation>
     </message>
 </context>
 </TS>

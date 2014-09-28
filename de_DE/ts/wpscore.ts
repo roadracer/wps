@@ -148,6 +148,38 @@
         <source>wps can not update index!</source>
         <translation>Index kann von WPS nicht aktualisiert werden!</translation>
     </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation>Alphabet</translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation>Fehler! In Fußnoten, Endnoten, Kopfzeilen, Fußzeilen,Anmerkungen oder Textfeldern können keine Indexe erstellt werden.</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation>Fehler! Ungültige Textmarke in einem Eintrag auf der Seite.</translation>
+    </message>
+    <message>
+        <source>Error. No index entries found.</source>
+        <translation>Fehler! Keine Indexeinträge gefunden.</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation>Fehler! Kein gültiger Zeichenbereich.</translation>
+    </message>
+    <message>
+        <source>Error. Switch argument not specified.</source>
+        <translation>Fehler! Schalterargument nicht angegeben.</translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation>Fehler! Unknown switch argument.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
+        <translation>Index kann von WPS nicht aktualisiert werden!</translation>
+    </message>
 </context>
 <context>
     <name>field_parser_links_and_reference</name>
@@ -774,6 +806,26 @@ Versuchen Sie Folgendes:
         <source>Error! lack of the second part test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
         <translation>Fehler! Zweiter Teil der Testbedingung fehlt.</translation>
+    </message>
+    <message>
+        <source>Error. Unknown op code for conditional.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation>Fhler! Unbekannter Op-Code für verknüpfte Bedingung.</translation>
+    </message>
+    <message>
+        <source>Error. Missing test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation>Fehler! Fehlende Testbedingung.</translation>
+    </message>
+    <message>
+        <source>Error. Missing second part of test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation>Fehler! Zweiter Teil der Testbedingung fehlt.</translation>
+    </message>
+    <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation>Nur Haupttext.</translation>
     </message>
 </context>
 <context>
@@ -2871,6 +2923,29 @@ Do you want to replace it?</source>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished">Webseiten in einer Datei, die mit den Zeichen &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot;, oder &quot;%25&quot; im Pfad gespeichert wurden, werden möglicherweise von einigen Browsern nicht korrekt dargestellt. Möchten Sie den Vorgang fortsetzen?</translation>
+    </message>
+    <message>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation>Möchten Sie die Änderungen an &quot;%s&quot; ignorieren und die neueste Version laden?  </translation>
+    </message>
+    <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation>Das Dokument ist geschützt,es kann nicht kombiniert</translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation>Eines oder beide der miteinander verglichenen Dokumente enthalten Überarbeitungen. Zu Vergleichszwecken wird von &lt;a&gt; davon ausgegangen, dass die Änderungen angenommen wurden. Möchten Sie den Vergleich fortsetzen?</translation>
+    </message>
+    <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation>WPS entspannt die Arbeit </translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation>Keine Dokumentprüfung</translation>
     </message>
 </context>
 <context>
@@ -5112,7 +5187,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>WPS Writer has finished searching the document and made %d replacements.</source>
         <comment>wps_sReplaceAllWithCount</comment>
-        <translation>Der Suchvorgang von <byte value="xe"/>dem Dokument ist abgeschlossen. Es wurden %d Ersetzungen vorgenommen.</translation>
+        <translation>Der Suchvorgang von dem Dokument ist abgeschlossen. Es wurden %d Ersetzungen vorgenommen.</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -7053,6 +7128,11 @@ Check</source>
         <source>Date/Time</source>
         <comment>TxVersion_InsDateTime</comment>
         <translation type="unfinished">Datum und Uhrzeit einfügen</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation>Vorlagendatei von Kingsoft Writer 2007/2010 (*.wptx) </translation>
     </message>
 </context>
 <context>

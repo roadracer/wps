@@ -4327,6 +4327,78 @@ Beispiel: Mit +4 springen Sie um vier Elemente weiter.</translation>
         <source>&amp;UseNewDoc</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Revised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Case chan&amp;ges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comme&amp;nts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comparison settings</source>
+        <translation>CompareOption</translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation>DisplayLocation</translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation>DisplayRevision</translation>
+    </message>
+    <message>
+        <source>Footnotes and en&amp;dnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertions and Deletions</source>
+        <translation>Einfügen und Löschen</translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Original document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation>RevisionLevel</translation>
+    </message>
+    <message>
+        <source>T&amp;ables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xtboxes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgMergeToDiffNewDoc</name>
@@ -5723,6 +5795,30 @@ Sie können auf die erweiterte Schaltfläche klicken, um von verschiedenen Versc
     </message>
     <message>
         <source>Remember My &amp;Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoNumber</source>
+        <translation>AutoFormat</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation>Zuletzt verwendete Dokumente</translation>
+    </message>
+    <message>
+        <source>Reminder for embedding &amp;cloud fonts in the file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8739,6 +8835,50 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation>Unterschiede nicht gefunden</translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation>Änderungen konsolidieren</translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compare Documents</source>
+        <translation>Dokumente vergleichen</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Öffnen</translation>
+    </message>
 </context>
 <context>
     <name>KxMergeToDiffNewDocDlg</name>
@@ -8795,6 +8935,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>This is not a valid number.</source>
         <translation>Es ist keine gültige Zahl.</translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
+        <translation>Die Zahl darf nicht null sein.</translation>
     </message>
 </context>
 <context>
@@ -9255,6 +9399,14 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     <message>
         <source>Renew</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation>Es konnte keine Verbindung mit dem Server hergestellt werden. Überprüfen Sie Ihre Netzwerkverbindung.</translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished">Ihr VIP ist abgelaufen. Bitte erneuen</translation>
     </message>
 </context>
 <context>
@@ -11162,6 +11314,10 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show header line</source>
+        <translation>Kopfzeile anzeigen</translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
         <translation>Kopfzeile anzeigen</translation>
     </message>
 </context>

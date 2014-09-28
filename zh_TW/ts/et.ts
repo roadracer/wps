@@ -470,7 +470,7 @@ condition is true: </source>
 </context>
 <context>
     <name>InsertFunctionLineEdit</name>
-    <message id="0">
+    <message>
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>請輸入您要查找的函數名稱或函數功能的簡短描述。</translation>
     </message>
@@ -1179,6 +1179,38 @@ condition is true: </source>
         <source>file is exist in the list.</source>
         <translation type="obsolete">選取的檔案已存在檔案移動清單。</translation>
     </message>
+    <message>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished">不是一個正確的增益集程式。</translation>
+    </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
@@ -1572,6 +1604,10 @@ condition is true: </source>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <translation type="obsolete">您不能使用當前資料來修改已有的樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
+    </message>
+    <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
+        <translation type="unfinished">所選的連接類型不能用於創建數據透視表.</translation>
     </message>
 </context>
 <context>
@@ -2426,6 +2462,10 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Refers to:</source>
         <translation type="obsolete">參照到(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4482,6 +4522,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>siz&amp;e:</source>
         <translation type="obsolete">大小(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation>第一次儲存時建立備份檔案(&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -9298,6 +9342,10 @@ the exact same contents will be deleted automatically, only keep one row.
     </message>
     <message>
         <source>The data source contains no visible form</source>
+        <translation type="unfinished">數據源中沒有包含可見的表格.</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
         <translation type="unfinished">數據源中沒有包含可見的表格.</translation>
     </message>
 </context>

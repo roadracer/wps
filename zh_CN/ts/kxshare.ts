@@ -583,6 +583,10 @@
         <source>The layout will take effect after restarting</source>
         <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
     </message>
+    <message>
+        <source>Restart WPS Office for layout setting to take effect</source>
+        <translation>界面布局更改将在下次启动 WPS Office 时生效</translation>
+    </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
@@ -818,6 +822,33 @@
     <message>
         <source>Click to open the credits page.</source>
         <translation>点击此处打开贡献者页面。</translation>
+    </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
+        <translation>下载语言包失败！</translation>
+    </message>
+    <message>
+        <source>Local Language Packs</source>
+        <translation>本地语言包</translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation>网络出错</translation>
+    </message>
+    <message>
+        <source>Online Language Packs</source>
+        <translation>在线语言包</translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1990,6 +2021,10 @@
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Custom Menu</source>
+        <translation>自定义菜单</translation>
+    </message>
+    <message>
+        <source>Customize menu</source>
         <translation>自定义菜单</translation>
     </message>
 </context>
@@ -4605,6 +4640,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>OK</source>
         <translation>确定</translation>
     </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation>无法连接到服务器，请检查您的网络连接。</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation>您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
+    </message>
+    <message>
+        <source>You still not a senior member，upgrade to enjoy more cloud fonts now.</source>
+        <translation>您还不是WPS高级会员，开通高级会员即可享用相应的VIP云字体及诸多会员特权。</translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
@@ -4772,6 +4823,67 @@ Click the icon for more details.</source>
 Click to recharge for more discounts.</source>
         <translation type="obsolete">您的会员即将到期
 点击图标续费即可享折扣优惠</translation>
+    </message>
+    <message>
+        <source>Click to keep cloud fonts on top</source>
+        <translation>点击置顶云字体</translation>
+    </message>
+    <message>
+        <source>Click to shuffle cloud fonts</source>
+        <translation>点击混排云字体</translation>
+    </message>
+    <message>
+        <source>Cloud fonts installed</source>
+        <translation>云字体，已安装</translation>
+    </message>
+    <message>
+        <source>Click to install free cloud fonts</source>
+        <translation>免费云字体，点击下载安装</translation>
+    </message>
+    <message>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
+        <translation>会员可使用免费云字体，点击登录</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
+        <translation>使用VIP字体，白银以上会员可享用
+点击即可登录</translation>
+    </message>
+    <message>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
+        <translation type="unfinished">使用云字体，需登录账号
+点击图标即可登录</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait…</source>
+        <translation type="unfinished">正在下载字体，请稍候...</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
+        <translation type="unfinished">使用VIP字体，白银以上会员可享用</translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew.</source>
+        <translation>您的%1会员已过期，点击续费
+尊享云字体特权！</translation>
+    </message>
+    <message>
+        <source>VIP cloud fonts installed</source>
+        <translation>VIP云字体，已安装</translation>
+    </message>
+    <message>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
+        <translation>高级会员可享用VIP云字体，点击登录</translation>
+    </message>
+    <message>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
+        <translation>您已拥有所有云字体，请期待新款字体</translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
+        <translation>您的%1会员已过期，点击续费享云字体特权！</translation>
     </message>
 </context>
 <context>
@@ -6166,6 +6278,10 @@ Do you want to override it?</source>
         <source>Customize animation:</source>
         <translation type="unfinished">自定义动画:</translation>
     </message>
+    <message>
+        <source>Custom animation:</source>
+        <translation type="unfinished">自定义动画:</translation>
+    </message>
 </context>
 <context>
     <name>KxTpNewDoc</name>
@@ -6259,6 +6375,16 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <source>WPS Online Templates</source>
         <translation type="obsolete">从在线模板新建</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation>无法打开 “%1”。
+此文件可能被重命名、删除或移动了位置。</translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation>打开文件所在文件夹</translation>
+    </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
@@ -6340,6 +6466,16 @@ the file may be renamed,deleted or moved the location.</source>
         <source>WPS Online Templates</source>
         <translation type="obsolete">从在线模板新建</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation>无法打开 “%1”。
+此文件可能被重命名、删除或移动了位置。</translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation>打开文件所在文件夹</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
@@ -6404,33 +6540,16 @@ the file may be renamed,deleted or moved the location.</source>
 <context>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
-        <source>Click to try it now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Download</source>
-        <translation type="unfinished">下载</translation>
+        <translation type="obsolete">下载</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
-    </message>
-    <message>
-        <source>Purchase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try the Professional version now to enjoy a greater number
-of services and features.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">否</translation>
     </message>
     <message>
         <source>Continue Trial</source>
-        <translation type="unfinished">继续试用</translation>
+        <translation type="obsolete">继续试用</translation>
     </message>
 </context>
 <context>
@@ -7347,6 +7466,10 @@ Always take this action.</source>
 (The system uses WPS Office as the default one to open %1 files)</source>
         <translation type="obsolete">WPS Office 注册信息出现异常，将导致部分对象无法使用，建议您修复此问题，是否修复？
 (系统默认会以WPS Office打开%1等办公软件格式的文档)</translation>
+    </message>
+    <message>
+        <source>Blue Gray</source>
+        <translation>蓝灰</translation>
     </message>
 </context>
 <context>

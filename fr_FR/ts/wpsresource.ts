@@ -3622,6 +3622,10 @@ du texte</translation>
         <translation>Chiffrement</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translatorcomment>Title bar-&gt;Click Application buttonw-&gt;In the drop down menu,Click Save as</translatorcomment>
         <translation>Exporter au format PDF</translation>
@@ -4279,8 +4283,7 @@ la mise en forme</translation>
         <translation>Autres soulignements</translation>
     </message>
     <message>
-        <source>New 
-Style</source>
+        <source>New Style</source>
         <translatorcomment>Home tab</translatorcomment>
         <translation>Nouveau 
 style</translation>
@@ -6316,7 +6319,12 @@ de l&apos;ombre</translation>
         <source>Footnote/Endnote
 Separator</source>
         <translatorcomment>Reference tabs</translatorcomment>
-        <translation>Séparateur 
+        <translation type="obsolete">Séparateur 
+de note de bas de page/note de fin</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
+        <translation type="unfinished">Séparateur 
 de note de bas de page/note de fin</translation>
     </message>
     <message>
@@ -7632,7 +7640,13 @@ les cellules</translation>
         <source>Text
 Direction</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;Insert a table-&gt;Tab Table Tools</translatorcomment>
-        <translation>Orientation 
+        <translation type="obsolete">Orientation 
+du texte</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translatorcomment>Insert tab-&gt;Table-&gt;Insert a table-&gt;Tab Table Tools</translatorcomment>
+        <translation type="unfinished">Orientation 
 du texte</translation>
     </message>
     <message>
@@ -8886,7 +8900,7 @@ WordArt</translation>
         <source>WordArt
 Size</source>
         <translatorcomment>Insert tab-&gt;WordArt-&gt;Tab WordArt</translatorcomment>
-        <translation>Taille 
+        <translation type="obsolete">Taille 
 WordArt</translation>
     </message>
     <message>
@@ -8894,6 +8908,12 @@ WordArt</translation>
 Shape</source>
         <translatorcomment>Insert tab-&gt;WordArt-&gt;Tab WordArt</translatorcomment>
         <translation>Forme 
+WordArt</translation>
+    </message>
+    <message>
+        <source>WordArt Size</source>
+        <translatorcomment>Insert tab-&gt;WordArt-&gt;Tab WordArt</translatorcomment>
+        <translation type="unfinished">Taille 
 WordArt</translation>
     </message>
     <message>
@@ -9507,6 +9527,10 @@ une diagonale dans la cellule</translation>
     <message>
         <source>Encryption</source>
         <translation>Chiffrement</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -11116,6 +11140,10 @@ une diagonale dans la cellule</translation>
     <message>
         <source>Encryption</source>
         <translation>Chiffrement</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16387,7 +16415,7 @@ directement</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="obsolete">Fichier</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -16623,7 +16651,7 @@ directement</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="obsolete">Fichier</translation>
     </message>
     <message>
         <source>Formats</source>
