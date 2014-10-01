@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Поместить вперёд</translation>
+        <translation>Переместить вперед</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Поместить на задний план</translation>
+        <translation>Переместить на задний план</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>Поместить назад</translation>
+        <translation>Переместить на задний план</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -20919,7 +20919,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>Выровнять по центру</translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Centered</source>

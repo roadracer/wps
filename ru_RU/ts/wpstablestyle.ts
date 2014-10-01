@@ -10,11 +10,11 @@
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="obsolete">Стиль из шаблонов (&quot;тем&quot;)</translation>
+        <translation type="obsolete">Стиль из шаблонов оформления</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Выделить</translation>
+        <translation> выделение </translation>
     </message>
     <message>
         <source>1-</source>
@@ -46,15 +46,15 @@
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="obsolete">Стиль тёмный цвет 2 - Выделить 1/Выделить 2</translation>
+        <translation type="obsolete">Стиль тёмный цвет 2 - выделение 1/выделение 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="obsolete">Стиль тёмный цвет 2 - Выделить 3/Выделить 4</translation>
+        <translation type="obsolete">Стиль тёмный цвет 2 - выделение 3/выделение 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="obsolete">Стиль тёмный цвет 2 - Выделить 5/Выделить 6</translation>
+        <translation type="obsolete">Стиль тёмный цвет 2 - выделение 5/выделение 6</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -110,15 +110,15 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Тёмный стиль 2 - Выделить 1/Выделить 2</translation>
+        <translation>Тёмный стиль 2 - выделение 1/выделение 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Тёмный стиль 2 - Выделить 3/Выделить 4</translation>
+        <translation>Тёмный стиль 2 - выделение 3/выделение 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Тёмный стиль 2 - Выделить 5/Выделить 6</translation>
+        <translation>Тёмный стиль 2 - выделение 5/выделение 6</translation>
     </message>
 </context>
 <context>
@@ -133,11 +133,11 @@
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="obsolete">Стиль из шаблонов (&quot;тем&quot;)</translation>
+        <translation type="obsolete">Стиль из шаблонов оформления</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Выделить</translation>
+        <translation> выделение </translation>
     </message>
     <message>
         <source>1-</source>
@@ -169,15 +169,15 @@
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="obsolete">Стиль тёмный цвет 2 - Выделить 1/Выделить 2</translation>
+        <translation type="obsolete">Стиль тёмный цвет 2 - выделение 1/выделение 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="obsolete">Стиль тёмный цвет 2 - Выделить 3/Выделить 4</translation>
+        <translation type="obsolete">Стиль тёмный цвет 2 - выделение 3/выделение 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="obsolete">Стиль тёмный цвет 2 - Выделить 5/Выделить 6</translation>
+        <translation type="obsolete">Стиль тёмный цвет 2 - выделение 5/выделение 6</translation>
     </message>
     <message>
         <source>Best Match</source>
@@ -225,15 +225,15 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Стиль тёмный 2 - Выделить 1/Выделить 2</translation>
+        <translation>Стиль тёмный 2 - выделение 1/выделение 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Стиль тёмный 2 - Выделить 3/Выделить 4</translation>
+        <translation>Стиль тёмный 2 - выделение 3/выделение 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Стиль тёмный 2 - Выделить 5/Выделить 6</translation>
+        <translation>Стиль тёмный 2 - выделение 5/выделение 6</translation>
     </message>
     <message>
         <source>First Row</source>
