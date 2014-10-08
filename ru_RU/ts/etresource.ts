@@ -5272,7 +5272,7 @@ Columns</source>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Камера</translation>
+        <translation>Снимок выделения</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -8050,7 +8050,7 @@ COM</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Камера</translation>
+        <translation>Снимок выделения</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -11110,7 +11110,7 @@ Center</source>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Камера</translation>
+        <translation>Снимок выделения</translation>
     </message>
     <message>
         <source>Chart</source>

@@ -1,6 +1,6 @@
 [TIPS]
 3DColor.title=Цвет 3-D
-3DColor.content=Заполнение цветом, выделенной фигуры 3-D.\n\nЩёлкните стрелку для выбора цвета 3-D.
+3DColor.content="Заполнение цветом, выделенной фигуры 3-D.\n\nЩёлкните стрелку для выбора цвета 3-D."
 
 3DColor2.title=Цвет 3-D
 3DColor2.content=Щёлкните стрелку для выбора цвета 3-D.
@@ -127,7 +127,7 @@ CloseWindow.title=Закрыть окно
 CloseWindow.content=Закрыть текущее окно.
 
 Color.title=Цвет
-Color.content=Установка цветной или черно-белой печати для текущей презентации.
+Color.content=Установка цветной или чёрно-белой печати для текущей презентации.
 
 ColorScheme.title=Цветовые схемы
 ColorScheme.content="Изменение цветовой схемы заголовков, маркеров и объектов текущего слайда или всей презентации."
@@ -144,7 +144,7 @@ CustomAnimation.content=Выбор эффекта анимации для доб
 CustomAnimation.img=WPPCustomAnimation
 
 CustomShows.title=Произвольный показ
-CustomShows.content=Создание или воспроизведение произвольного показа слайдов. При произвольном показе будут показаны только выбранные слойды.
+CustomShows.content=Создание или воспроизведение произвольного показа слайдов. При произвольном показе будут показаны только выбранные слайды.
 
 Cut.title=Вырезать
 Cut.content=Вырезать выделение и поместить в буфер обмена.
@@ -201,16 +201,16 @@ DrawAlignLeft.title=Выровнять
 DrawAlignLeft.content=Выравнивание границ нескольких выделенных объектов.
 
 DrawAlignTop.title=Выровнять текст
-DrawAlignTop.content=Настройка вида выравнивания текста.\n\nЩелкните стрелку для выбора способа выравнивания текста.
+DrawAlignTop.content=Настройка вида выравнивания текста.\n\nЩёлкните стрелку для выбора способа выравнивания текста.
 
 DrawAlignTop2.title=Выровнять текст
-DrawAlignTop2.content=Щелкните стрелку для выбора способа выравнивания текста.
+DrawAlignTop2.content=Щёлкните стрелку для выбора способа выравнивания текста.
 
 DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
 DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
 
 DuplicateSlide.title=Создать копию слайда
-DuplicateSlide.content=Вставка дубликата текущего слайда в презентацию.
+DuplicateSlide.content=Вставка копии текущего слайда в презентацию.
 
 DynamicShape.title=Вставить фигуры
 DynamicShape.content="Добавление готовых форм, таких как прямоугольники и окружности, стрелки, линии, символы блок-схем и выноски"
@@ -253,7 +253,7 @@ FontColor.title=Цвет текста
 FontColor.content=Изменение цвета текста.\n\nЩелкните срелку для выбора цвета текста.
 
 FontColor2.title=Цвет текста
-FontColor2.content=Щелкните стрелку для выбора цвета текста.
+FontColor2.content=Щёлкните стрелку для выбора цвета текста.
 
 FontName.title=Шрифт
 FontName.content=Изменение типа шрифта.
@@ -377,7 +377,7 @@ KOSOfficespaceRegPsaawordTip.title=@@
 KOSOfficespaceRegPsaawordTip.content=Пароли не совпадают.
 
 KOSOpenCloudFileTip.title=Открыть из Cloud Docs
-KOSOpenCloudFileTip.content="Изменения, внесенные в документы в Cloud Docs, будут немедленно сохранены."
+KOSOpenCloudFileTip.content="Изменения, внесённые в документы в Cloud Docs, будут немедленно сохранены."
 
 KOSRoamingfileTip.title=Роуминг файлов
 KOSRoamingfileTip.content=Открытые файлы будут автоматически перемещены в облачный сервис и будут доступны на всех ваших устройствах.\n\nВы сможете начать работу в любое время и в любом месте.
@@ -386,7 +386,7 @@ KOSSaveFileTocloudTip.title=Сохранить в Cloud Docs
 KOSSaveFileTocloudTip.content="Сохранить файл в облачном сервисе. Позволяет работать с одним документом с нескольких устройств"
 
 KOSUserLoginCloudTextBtnTip.title=Войти
-KOSUserLoginCloudTextBtnTip.content=Войти, чтобы пользоваться бесплатными услугами облачного сервиса, такими как, документы из Интернета, резервное хранение файлов, шаблоны из Интернета и библиотека ресурсов.
+KOSUserLoginCloudTextBtnTip.content="Войти, чтобы пользоваться бесплатными услугами облачного сервиса, такими как, документы из Интернета, резервное хранение файлов, шаблоны из Интернета и библиотека ресурсов."
 
 KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
 KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
@@ -461,7 +461,7 @@ Numbering2.title=Нумерация
 Numbering2.content="Щёлкните стрелку для выбора формата нумерации."
 
 ObjectSelect.title=Область выделения
-ObjectSelect.content=Отображение области выделения, которая позволяет выделить отдельные объекты, изменить их порядок, а также показать или скрыть их.
+ObjectSelect.content="Отображение области выделения, которая позволяет выделить отдельные объекты, изменить их порядок, а также показать или скрыть их."
 ObjectSelect.img=WPPObjectSelect
 
 OrgChartLayout.title=Макет
@@ -478,7 +478,7 @@ Paragraph1.title=Выровнять
 Paragraph1.content=Щёлкните стрелку для выбора способа выравнивания текста.
 
 Paragraph2.title=Другие параметры
-Paragraph2.content=Щелкните стрелку для увеличения или уменьшения интервала и других настроек.
+Paragraph2.content=Щёлкните стрелку для увеличения или уменьшения интервала и других настроек.
 
 Paste.title=Вставить
 Paste.content=Вставка содержимого буфера обмена.
@@ -496,7 +496,7 @@ PictureCrop.title=Обрезать
 PictureCrop.content=Обрезать изображение для удаления ненужных фрагментов.
 
 PictureFill.title=Заливка изображения
-PictureFill.content="Заливка выделенного изображения цветом, применение градиента, текстуры, узоров и рисунков.\n\nЩелкните стрелку для выбора способа заливки."
+PictureFill.content="Заливка выделенного изображения цветом, применение градиента, текстуры, узоров и рисунков.\n\nЩёлкните стрелку для выбора способа заливки."
 
 PictureFill2.title=Заливка изображения
 PictureFill2.content="Щёлкните стрелку для выбора способа заливки."
@@ -547,10 +547,10 @@ Print.title=Печать
 Print.content="Выбор параметров печати, таких как, принтер, диапазон печати, число печатаемых экземпляров, количество страниц на листе и масштаб."
 
 Print2.title=Печать
-Print2.content="Щелкните здесь для выбора параметров печати или использования настроек по умолчанию для быстрой печати."
+Print2.content="Щёлкните здесь для выбора параметров печати или использования настроек по умолчанию для быстрой печати."
 
 PrintDirect.title=Быстрая печать
-PrintDirect.content=Отправить документ без изменений на принтер, заданный по умолчанию.
+PrintDirect.content="Отправить документ без изменений на принтер, заданный по умолчанию."
 
 PrintPreview.title=Предварительный просмотр
 PrintPreview.content=Предварительный просмотр и внесение изменений перед печатью.
@@ -628,7 +628,7 @@ ShadowButton.title=Тень текста
 ShadowButton.content=Добавление эффекта тени к выделенному тексту.
 
 ShadowColor.title=Цвет тени
-ShadowColor.content=Выбор цвета тени для выбранного объекта.\n\nЩелкните стрелку для выбора цвета тени.
+ShadowColor.content=Выбор цвета тени для выбранного объекта.\n\nЩёлкните стрелку для выбора цвета тени.
 
 ShadowColor2.title=Цвет тени
 ShadowColor2.content="Щелкните стрелку для выбора цвета тени."
@@ -761,7 +761,7 @@ TextDirection.title=Направление текста
 TextDirection.content=Изменение ориентации текста на вертикальную или горизонтальную.
 
 TextFontColor.title=Цвет текста
-TextFontColor.content=Выбор цвета текста.\n\nЩелкните стрелку для выбора цвета текста.
+TextFontColor.content=Выбор цвета текста.\n\nЩёлкните стрелку для выбора цвета текста.
 
 TextFontColor2.title=Цвет текста
 TextFontColor2.content=Щёлкните стрелку для выбора цвета текста.
@@ -792,10 +792,10 @@ WordArtDetailedSettings.title=WordArtDetailedSettings Title
 WordArtDetailedSettings.content=WordArtDetailedSettings Content
 
 WordArtFill.title=Заливка
-WordArtFill.content="Заливка выделенного фигурного текста цветом, градиентом, изображением или текстурой.\n\nЩелкните стрелку для выбора способа заливки."
+WordArtFill.content="Заливка выделенного фигурного текста цветом, градиентом, изображением или текстурой.\n\nЩёлкните стрелку для выбора способа заливки."
 
 WordArtFill2.title=Заливка
-WordArtFill2.content=Щелкните стрелку для выбора способа заливки.
+WordArtFill2.content=Щёлкните стрелку для выбора способа заливки.
 
 WordArtGallery.title=Коллекция
 WordArtGallery.content=Изменение стиля выделенного фигурного текста.
@@ -804,7 +804,7 @@ WordArtLine.title=Контур
 WordArtLine.content="Выбор цвета, ширины и типа линии для контура выделенного фигурного текста.\n\nЩелкните стрелку для выбора стиля контура."
 
 WordArtLine2.title=Контур
-WordArtLine2.content=Щелкните стрелку для выбора стиля контура.
+WordArtLine2.content=Щёлкните стрелку для выбора стиля контура.
 
 WordArtSameLetterHeights.title=Символы одной высоты
 WordArtSameLetterHeights.content=Выравнивание высоты всех символов выделенного фигурного текста.
