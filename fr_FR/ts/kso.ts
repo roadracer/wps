@@ -1936,7 +1936,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Organigramme : Stockage à accès séquentiel</translation>
+        <translation type="obsolete">Organigramme : Stockage à accès séquentiel</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
@@ -2952,6 +2952,11 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
         <translation>Dégradé noir</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

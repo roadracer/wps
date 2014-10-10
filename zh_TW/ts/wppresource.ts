@@ -689,16 +689,16 @@
         <translation>插入美工圖案</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入圖案</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>插入文字藝術師</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -769,7 +769,7 @@
         <translation type="obsolete">選取窗格</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -955,14 +955,6 @@
     <message>
         <source>Weight</source>
         <translation>線型</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1825,10 +1817,6 @@ Master</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
@@ -3371,8 +3359,12 @@ On</source>
         <translation>意見反應及產品資訊</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">使用者意見反應</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>File Infomation</source>
@@ -4754,6 +4746,10 @@ Footer</source>
         <translation>插入超連結</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Organization Chart</source>
         <translation>插入組織圖</translation>
     </message>
@@ -4768,10 +4764,6 @@ Footer</source>
     <message>
         <source>Insert WordArt</source>
         <translation>插入文字藝術師</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -4794,7 +4786,7 @@ Footer</source>
         <translation>物件</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4886,14 +4878,6 @@ Number</source>
     <message>
         <source>WordArt</source>
         <translation>文字藝術師</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8283,7 +8267,7 @@ Shape</source>
         <translation>協助我們改進產品。</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8375,7 +8359,7 @@ Shape</source>
         <translation>線上文件</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8403,7 +8387,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8461,18 +8445,6 @@ Shape</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">長微博</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8973,8 +8945,12 @@ Add-Ins</source>
         <translation>打包</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -9011,10 +8987,6 @@ Add-Ins</source>
     <message>
         <source>Go to Slide</source>
         <translation>跳至投影片</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -9105,6 +9077,10 @@ Add-Ins</source>
         <translation type="obsolete">附件</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Rows</source>
         <translation type="obsolete">插入列</translation>
     </message>
@@ -9119,10 +9095,6 @@ Add-Ins</source>
     <message>
         <source>Insert Tab</source>
         <translation type="obsolete">插入定位點</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -9330,7 +9302,7 @@ Master</source>
         <translation></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9556,6 +9528,10 @@ Master</source>
     <message>
         <source>Screen</source>
         <translation>螢幕</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -9881,25 +9857,9 @@ Master</source>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
@@ -10865,8 +10825,12 @@ AddIns</source>
         <translation>意見反應及產品資訊</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>File Infomation</source>
@@ -12991,12 +12955,12 @@ Subordinate</source>
         <translation type="obsolete">插入美工圖案</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>插入圖片</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>插入圖片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -13079,7 +13043,7 @@ Subordinate</source>
         <translation type="obsolete">選取窗格</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13245,14 +13209,6 @@ Subordinate</source>
     <message>
         <source>Weight</source>
         <translation>線型</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15201,7 +15157,7 @@ Effects</source>
         <translation>協助我們改進產品。</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15293,7 +15249,7 @@ Effects</source>
         <translation>線上文件</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15321,7 +15277,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15375,18 +15331,6 @@ Effects</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">長微博</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -20688,7 +20632,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished">檔案漫遊</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20744,7 +20688,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="obsolete">手動備份</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20822,14 +20766,6 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

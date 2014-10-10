@@ -2004,7 +2004,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>流程圖: 循序存取儲存裝置</translation>
+        <translation type="obsolete">流程圖: 循序存取儲存裝置</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>

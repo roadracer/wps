@@ -666,13 +666,17 @@
         <translation>Insérer une image clipart</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translatorcomment>Toolbars-Drawing</translatorcomment>
         <translation>Insérer une image depuis un fichier</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Line</source>
@@ -731,7 +735,11 @@
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Image en ligne</translation>
+        <translation type="obsolete">Image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -1806,10 +1814,6 @@ centrer</translation>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translatorcomment>Toolbars-Standard</translatorcomment>
@@ -4185,8 +4189,12 @@ de l&apos;ombre</translation>
         <translation>Commentaires et informations de produit</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">Commentaires par courrier électronique</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -5165,8 +5173,12 @@ Footer</source>
         <translation type="obsolete">Insérer une image clipart</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Label</source>
@@ -5190,7 +5202,11 @@ Footer</source>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Image en ligne</translation>
+        <translation type="obsolete">Image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -7221,6 +7237,10 @@ WordArt</translation>
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Sauvegarde de fichier</translation>
     </message>
@@ -7245,8 +7265,12 @@ WordArt</translation>
         <translation>Surligner les doublons</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -7286,7 +7310,11 @@ WordArt</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Image en ligne</translation>
+        <translation type="obsolete">Image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -7294,7 +7322,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mode de protection
+        <translation type="obsolete">Mode de protection
 des yeux</translation>
     </message>
     <message>
@@ -7730,8 +7758,12 @@ COM</translation>
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -7920,7 +7952,7 @@ COM</translation>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>Capture d&apos;écran</translation>
+        <translation type="obsolete">Capture d&apos;écran</translation>
     </message>
     <message>
         <source>Group</source>
@@ -7995,6 +8027,10 @@ COM</translation>
         <translation>Insérer les cellules coupées</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Page Break</source>
         <translation>Insérer un saut de page</translation>
     </message>
@@ -8004,7 +8040,7 @@ COM</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Left</source>
@@ -8072,7 +8108,11 @@ COM</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Image en ligne</translation>
+        <translation type="obsolete">Image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -8245,6 +8285,10 @@ COM</translation>
     <message>
         <source>Save to File</source>
         <translation>Enregistrer dans un fichier</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Security</source>
@@ -8514,10 +8558,6 @@ COM</translation>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Changer d&apos;interface utilisateur</translation>
@@ -9290,8 +9330,12 @@ COM</translation>
         <translation>Commentaires et informations de produit</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -10688,8 +10732,12 @@ les titres</translation>
         <translation type="obsolete">Insérer une image clipart</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -10753,7 +10801,11 @@ les titres</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Image en ligne</translation>
+        <translation type="obsolete">Image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -12141,6 +12193,10 @@ de l&apos;ombre</translation>
 format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Sauvegarde de fichier</translation>
     </message>
@@ -12161,8 +12217,12 @@ format PDF</translation>
         <translation>Surligner les doublons</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -12198,7 +12258,11 @@ format PDF</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Image en ligne</translation>
+        <translation type="obsolete">Image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -12206,7 +12270,7 @@ format PDF</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mode de protection
+        <translation type="obsolete">Mode de protection
 des yeux</translation>
     </message>
     <message>
@@ -12238,8 +12302,12 @@ des yeux</translation>
         <translation>Se connecter</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Special tool</source>
-        <translation>Outil spécial</translation>
+        <translation type="obsolete">Outil spécial</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -12307,8 +12375,12 @@ format PDF</translation>
         <translation>Surligner les doublons</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
@@ -12324,7 +12396,11 @@ format PDF</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Image en ligne</translation>
+        <translation type="obsolete">Image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>

@@ -3613,8 +3613,12 @@ Ligar/Desligar</translation>
         <translation>Feedback e Informações sobre o Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback Via e -Mail</translation>
+        <translation type="obsolete">Feedback Via e -Mail</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -7146,8 +7150,12 @@ Add-Ins</source>
         <translation>Exportar Para Pdf</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Qualificações Via e -Mail</translation>
+        <translation type="obsolete">Qualificações Via e -Mail</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -8702,8 +8710,12 @@ Add-Ins</source>
         <translation>Feedback e Informações Sobre O Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Qualificações Via e -Mail</translation>
+        <translation type="obsolete">Qualificações Via e -Mail</translation>
     </message>
     <message>
         <source>File Information</source>

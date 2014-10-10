@@ -617,6 +617,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
@@ -626,7 +630,7 @@
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Left</source>
@@ -706,6 +710,10 @@
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -919,14 +927,6 @@
     <message>
         <source>Wrap Text</source>
         <translation>文字环绕</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -1991,7 +1991,7 @@ Merged Data</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3505,8 +3505,12 @@ Direction</source>
         <translation>问题反馈及产品信息</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">WPS 客服邮箱</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4666,6 +4670,10 @@ Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
@@ -4703,7 +4711,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4735,6 +4743,10 @@ Footer</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -4843,14 +4855,6 @@ bol</source>
     <message>
         <source>WordArt</source>
         <translation>艺术字</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -5940,12 +5944,16 @@ Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -6025,6 +6033,10 @@ Picture</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -6315,14 +6327,6 @@ On/Off</source>
     <message>
         <source>Wrapping Style</source>
         <translation type="obsolete">环绕</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -9052,6 +9056,10 @@ Shape</source>
         <translation>输出为PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">文件保险箱</translation>
     </message>
@@ -9084,8 +9092,12 @@ Shape</source>
         <translation>商业授权</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -9169,6 +9181,10 @@ Shape</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -9185,7 +9201,7 @@ Shape</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -9224,12 +9240,20 @@ Shape</source>
         <translation>登录</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation>特色功能</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>文字工具</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -9261,7 +9285,7 @@ Shape</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>文字工具</translation>
+        <translation type="obsolete">文字工具</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -9286,26 +9310,6 @@ Shape</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">适合微博显示的页面</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation>护眼模式</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>特色功能</translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation>文字工具</translation>
     </message>
 </context>
 <context>
@@ -9485,8 +9489,12 @@ Add-Ins</source>
         <translation>居中对齐式制表位</translation>
     </message>
     <message>
-        <source>Change Accout</source>
+        <source>Change Account</source>
         <translation type="unfinished">更改登录账户</translation>
+    </message>
+    <message>
+        <source>Change Accout</source>
+        <translation type="obsolete">更改登录账户</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -9859,8 +9867,12 @@ Diagonal Line in Cell</source>
         <translation>快速计算</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9960,7 +9972,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>截屏</translation>
+        <translation type="obsolete">截屏</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -10064,6 +10076,10 @@ Diagonal Line in Cell</source>
         <translation>插入多行</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>表格</translation>
     </message>
@@ -10077,7 +10093,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -10237,6 +10253,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -10498,6 +10518,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">保存到快盘</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Section</source>
@@ -10843,22 +10867,6 @@ Diagonal Line in Cell</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">适合微博显示的页面</translation>
     </message>
-    <message>
-        <source>Change Account</source>
-        <translation type="unfinished">更改登录账户</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>截屏</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -10886,7 +10894,7 @@ Diagonal Line in Cell</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -11768,8 +11776,12 @@ Diagonal Line in Cell</source>
         <translation>问题反馈及产品信息</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -16719,6 +16731,10 @@ Effects</source>
         <translation>输出为PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">文件保险箱</translation>
     </message>
@@ -16747,8 +16763,12 @@ Effects</source>
         <translation>商业授权</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -16804,6 +16824,10 @@ Effects</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -16816,7 +16840,7 @@ Effects</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16851,12 +16875,20 @@ Effects</source>
         <translation>登录</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation>特色功能</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>文字工具</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16888,7 +16920,7 @@ Effects</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>文字工具</translation>
+        <translation type="obsolete">文字工具</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -16913,26 +16945,6 @@ Effects</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">适合微博显示的页面</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation>护眼模式</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>特色功能</translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation>文字工具</translation>
     </message>
 </context>
 <context>
@@ -21655,8 +21667,12 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">商业授权</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -21696,6 +21712,10 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -21755,6 +21775,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">关闭自动备份</translation>
     </message>
     <message>
+        <source>Text Tools</source>
+        <translation>文字工具</translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>用户反馈</translation>
     </message>
@@ -21788,19 +21812,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>文字工具</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation>文字工具</translation>
+        <translation type="obsolete">文字工具</translation>
     </message>
 </context>
 <context>
@@ -22232,6 +22244,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>展开 </translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>反馈</translation>
     </message>
@@ -22285,7 +22301,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>截屏</translation>
+        <translation type="obsolete">截屏</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -22348,8 +22364,12 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>宏</translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
+        <source>Mail FeedBack</source>
         <translation>邮件反馈</translation>
+    </message>
+    <message>
+        <source>MailFeedBack</source>
+        <translation type="obsolete">邮件反馈</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -22535,7 +22555,7 @@ Directly</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Protect Eyes and Night Mode</source>
@@ -22820,14 +22840,6 @@ Directly</source>
     <message>
         <source>Zoom</source>
         <translation>显示比例</translation>
-    </message>
-    <message>
-        <source>Mail FeedBack</source>
-        <translation>邮件反馈</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation>护眼模式</translation>
     </message>
 </context>
 <context>
@@ -23159,7 +23171,7 @@ Directly</source>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -23487,7 +23499,7 @@ Directly</source>
     </message>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>

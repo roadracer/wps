@@ -1884,7 +1884,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Almacenamiento de acceso secuencial</translation>
+        <translation type="obsolete">Almacenamiento de acceso secuencial</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
@@ -2950,6 +2950,11 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
         <translation>Degradado negro</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

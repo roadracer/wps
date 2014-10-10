@@ -653,6 +653,10 @@
         <translation>插入美工圖案</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished">插入線上圖片</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入圖片</translation>
     </message>
@@ -662,7 +666,7 @@
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished">插入線上圖片</translation>
+        <translation type="obsolete">插入線上圖片</translation>
     </message>
     <message>
         <source>Line</source>
@@ -730,6 +734,10 @@
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation type="unfinished">線上圖片</translation>
     </message>
     <message>
@@ -915,14 +923,6 @@
     <message>
         <source>WordArt</source>
         <translation>插入文字藝術師</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished">插入線上圖片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished">線上圖片</translation>
     </message>
 </context>
 <context>
@@ -1797,10 +1797,6 @@ Center</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
@@ -4813,8 +4809,12 @@ On/Off</source>
         <translation>意見反應及產品資訊</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">使用者意見反應</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>File Infomation</source>
@@ -6223,8 +6223,12 @@ Footer</source>
         <translation type="obsolete">附件</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished">插入線上圖片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">插入線上圖片</translation>
     </message>
     <message>
         <source>Label</source>
@@ -6252,6 +6256,10 @@ Footer</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation type="unfinished">線上圖片</translation>
     </message>
     <message>
@@ -6330,14 +6338,6 @@ Pane</source>
     <message>
         <source>WordArt</source>
         <translation>文字藝術師</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished">插入線上圖片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished">線上圖片</translation>
     </message>
 </context>
 <context>
@@ -8985,6 +8985,10 @@ Shape</source>
         <translation>匯出為 PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">檔案自動備份</translation>
     </message>
@@ -9017,8 +9021,12 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished">插入線上圖片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">插入線上圖片</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -9113,16 +9121,12 @@ Shape</source>
         <translation>綫上文檔</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>從輕辦公開啟</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -9183,18 +9187,6 @@ Shape</source>
     <message>
         <source>login</source>
         <translation type="obsolete">登錄</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished">插入線上圖片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9730,8 +9722,12 @@ Add-Ins</source>
         <translation type="obsolete">匯入外部資料</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -9944,10 +9940,6 @@ Add-Ins</source>
         <translation>目標搜尋</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Graphics</source>
         <translation type="obsolete">圖片</translation>
     </message>
@@ -10040,6 +10032,10 @@ Add-Ins</source>
         <translation type="obsolete">插入超連結</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished">插入線上圖片</translation>
+    </message>
+    <message>
         <source>Insert Page Break</source>
         <translation>插入分頁</translation>
     </message>
@@ -10049,7 +10045,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished">插入線上圖片</translation>
+        <translation type="obsolete">插入線上圖片</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -10189,6 +10185,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation type="unfinished">線上圖片</translation>
     </message>
     <message>
@@ -10422,6 +10422,10 @@ Add-Ins</source>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">另存為Klive檔案</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Security</source>
@@ -10752,25 +10756,9 @@ Add-Ins</source>
         <source>show more Windows</source>
         <translation type="obsolete">其他視窗</translation>
     </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished">插入線上圖片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished">線上圖片</translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
@@ -11791,8 +11779,12 @@ AddIns</source>
         <translation>意見反應及產品資訊</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>File Infomation</source>
@@ -13670,8 +13662,12 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished">插入線上圖片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">插入線上圖片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -13755,6 +13751,10 @@ Center</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation type="unfinished">線上圖片</translation>
     </message>
     <message>
@@ -13896,14 +13896,6 @@ Center</source>
     <message>
         <source>Weight</source>
         <translation>寬度</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished">插入線上圖片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished">線上圖片</translation>
     </message>
 </context>
 <context>
@@ -15565,6 +15557,10 @@ Color</source>
         <translation>匯出為 PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">檔案自動備份</translation>
     </message>
@@ -15593,7 +15589,7 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15685,16 +15681,12 @@ Color</source>
         <translation>在綫文檔</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>從輕辦公開啟</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -15725,7 +15717,7 @@ Color</source>
         <translation>登錄</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15767,22 +15759,6 @@ Color</source>
     <message>
         <source>login</source>
         <translation type="obsolete">登錄</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21985,7 +21961,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22021,7 +21997,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22091,14 +22067,6 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>WPS Business Version</source>
         <translation>商業授權</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

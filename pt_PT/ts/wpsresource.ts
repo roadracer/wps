@@ -3296,8 +3296,12 @@ Direction</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -9256,8 +9260,12 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -10962,8 +10970,12 @@ Diagonal Line in Cell</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>File Information</source>

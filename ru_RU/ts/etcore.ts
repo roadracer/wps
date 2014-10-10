@@ -3849,8 +3849,18 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File not loaded completely.</source>
         <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4089,27 +4099,17 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This data source contains no visible tables</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All Files(*.*)| *.*</source>
         <comment>TX_App_GetSaveAsFileName_FileFilter</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dialog Title</source>
-        <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
-        <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This data source contains no visible tables</source>
-        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4466,11 +4466,6 @@ Continue without Undo?</source>
         <translation type="unfinished">Невозможно изменение части массива.</translation>
     </message>
     <message>
-        <source>Table_</source>
-        <comment>TX_ListObject_NamePrefix</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
         <translation type="unfinished"></translation>
@@ -4478,6 +4473,11 @@ Continue without Undo?</source>
     <message>
         <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table_</source>
+        <comment>TX_ListObject_NamePrefix</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4541,11 +4541,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Macro interrupted at cell:</source>
-        <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
         <translation type="unfinished"></translation>
@@ -4573,6 +4568,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro interrupted at cell:</source>
+        <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5198,6 +5198,16 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
         <translation type="unfinished"></translation>
@@ -5210,16 +5220,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Map</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9404,13 +9404,13 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Query Files(*.iqy; *.dqy)</source>
-        <comment>TX_ssDesc_Qy_</comment>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
-        <comment>TX_ssDesc_EtxTemp_</comment>
+        <source>Query Files(*.iqy; *.dqy)</source>
+        <comment>TX_ssDesc_Qy_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14927,9 +14927,19 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
+    </message>
+    <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
     </message>
     <message>
         <source>Topic</source>
@@ -15300,16 +15310,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
-        <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished">имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
-        <translation type="unfinished">имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
     </message>
 </context>
 <context>
@@ -17819,7 +17819,7 @@ ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
         <comment>et_sRepeatWordDelete</comment>
-        <translation>После нажатия &quot;ОК&quot;, будет сравниваться содержимое по строкам. 
+        <translation>После нажатия &quot;ОК&quot; будет сравниваться содержимое по строкам. 
 Повторяющиеся строки будут автоматически удаляться с оставлением только одной строки. 
 (Примечание: функция поддерживает только один диапазон)</translation>
     </message>
@@ -26040,7 +26040,7 @@ contents.
 ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
-        <translation type="obsolete">После нажатия &quot;ОК&quot;, будет сравниваться содержимое по строкам. 
+        <translation type="obsolete">После нажатия &quot;ОК&quot; будет сравниваться содержимое по строкам. 
 Повторяющиеся строки будут автоматически удаляться с оставлением только одной строки. 
 (Примечание: функция поддерживает только один диапазон)</translation>
     </message>

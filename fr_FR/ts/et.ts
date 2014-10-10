@@ -938,35 +938,35 @@ condition est vraie :</translation>
         <translation type="obsolete">n&apos;est pas un complément valide.</translation>
     </message>
     <message>
-        <source>Automation Server</source>
+        <source>Automation Servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A File named</source>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
+        <source>A file named </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is a invalid addins macro file.</source>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
+        <source>already exists in this location. Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, Do you want to replace it?</source>
+        <source>does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>does not contain a valid Automation Server.</source>
+        <source>is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1248,7 +1248,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="obsolete">Le type de connexion sélectionné ne peut pas être utilisé pour créer un tableau croisé dynamique.</translation>
+        <translation type="unfinished">Le type de connexion sélectionné ne peut pas être utilisé pour créer un tableau croisé dynamique.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
@@ -1267,10 +1267,6 @@ condition est vraie :</translation>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation>Vous ne pouvez pas modifier le tableau croisé dynamique avec ces données. Assurez-vous que la plage de référence est valide et que la feuille de calcul spécifiée existe.</translation>
-    </message>
-    <message>
-        <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2088,7 +2084,7 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Category:</source>
+        <source>Sor&amp;t</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3595,7 +3591,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Create &amp;backup file at the first save</source>
         <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
-        <translation type="unfinished">Créer un &amp;fichier de sauvegarde lors du premier enregistrement</translation>
+        <translation type="obsolete">Créer un &amp;fichier de sauvegarde lors du premier enregistrement</translation>
     </message>
     <message>
         <source>Custom &amp;lists:</source>
@@ -4046,6 +4042,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
         <translation>Appuyer &amp;sur Ctrl+Tab pour basculer entre les onglets</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8257,10 +8257,6 @@ système rappelle de vérifier l&apos;exactitude du contenu.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation type="unfinished">Nom</translation>
     </message>
@@ -8271,6 +8267,10 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     <message>
         <source>Type</source>
         <translation type="unfinished">Type</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

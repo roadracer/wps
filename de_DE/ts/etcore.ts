@@ -3484,11 +3484,6 @@ If you are trying to open the file from your recently used file list on the File
         <translation>Zu viele leere Zellen in  WPS Spreadsheets und einige der leeren Zellen müssen gelöscht werden.</translation>
     </message>
     <message>
-        <source>DialogFrame</source>
-        <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The date you entered is not a valid date. Please try again.</source>
         <comment>TX_ShareWorkbook_MsgInvalidDate</comment>
         <translation>Ungültiger Datenwert. Bitte versuchen Sie es erneut.</translation>
@@ -3540,11 +3535,6 @@ Continue without Undo?</source>
         <source>Copy Formul&amp;a from Left</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
         <translation>Kopiert Formel(&amp;a) vom links </translation>
-    </message>
-    <message>
-        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
-        <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>General</source>
@@ -3737,11 +3727,6 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3783,11 +3768,6 @@ Continue without Undo?</source>
     <message>
         <source>m/dd/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Whether to modify the existing classification?</source>
-        <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4160,16 +4140,6 @@ Continue without Undo?</source>
         <translation type="unfinished">Teile eines Array können nicht geändert werden.</translation>
     </message>
     <message>
-        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
-        <comment>TX_RepeatWord_Group_Range</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Column has been chosen.</source>
-        <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
         <translation type="unfinished"></translation>
@@ -4384,32 +4354,32 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Miss Next function for loop!</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation>WEITER-Funktion für die Schleife fehlt.</translation>
+        <translation type="obsolete">WEITER-Funktion für die Schleife fehlt.</translation>
     </message>
     <message>
         <source>Miss Loop!</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation type="unfinished">auslassen  </translation>
+        <translation type="obsolete">auslassen  </translation>
     </message>
     <message>
         <source>Miss IF function!</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation type="unfinished">Funktion</translation>
+        <translation type="obsolete">Funktion</translation>
     </message>
     <message>
         <source>Miss END.IF function!</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation type="unfinished">Ende auslassen </translation>
+        <translation type="obsolete">Ende auslassen </translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet!</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation>Konnte RÜCKSPRUNG() oder STOP() im Makroblatt nicht finden.</translation>
+        <translation type="obsolete">Konnte RÜCKSPRUNG() oder STOP() im Makroblatt nicht finden.</translation>
     </message>
     <message>
         <source>Illegal reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation>Falsches Bezugsargument in:</translation>
+        <translation type="obsolete">Falsches Bezugsargument in:</translation>
     </message>
     <message>
         <source>Macro interrupted at cell:</source>
@@ -4425,6 +4395,26 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
         <translation>WEITER-Funktion für die Schleife fehlt.</translation>
+    </message>
+    <message>
+        <source>Missing IF.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing an END.IF function.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5211,16 +5201,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>map</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fail to open xml file. file not exit or syntax error</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9320,24 +9300,9 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>dBASE-Datei</translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
-        <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
         <comment>TX_ssDesc_ACCESS</comment>
         <translation>Access-Datenbanken</translation>
-    </message>
-    <message>
-        <source>DIF Data Interchange File(*.dif)</source>
-        <comment>TX_ssDesc_Dif_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DIF (Data Interchange File)(*.dif)</source>
-        <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
@@ -9427,11 +9392,6 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy; *.dqy)</source>
         <comment>TX_ssDesc_Qy_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
-        <comment>TX_ssDesc_DataSrcFile_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14947,19 +14907,9 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation>Programm-ID</translation>
     </message>
     <message>
-        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
-        <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
         <translation>Server </translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Topic</source>
@@ -15350,6 +15300,16 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">der Name der ProgID eines registrierten COM Auomatisierungs-Add-Ins. Schließen Sie den Namen in Anführungszeichen ein!der Name des Servers, auf dem das Add-In ausgeführt werden soll. </translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">Name des Servers, auf dem das Add-In ausgeführt werden soll. Schließen Sie den Namen in Anführungszeichen ein. Wenn das Add-In lokal ausgeführt werden soll, verwenden Sie eine leere Zeichenfolge</translation>
     </message>
 </context>
 <context>

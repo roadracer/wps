@@ -2153,16 +2153,6 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <translation></translation>
     </message>
     <message>
-        <source>DialogFrame</source>
-        <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
-        <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
         <translation type="unfinished"></translation>
@@ -2205,7 +2195,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>The data source contains no visible form</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation type="unfinished">數據源中沒有包含可見的表格</translation>
+        <translation type="obsolete">數據源中沒有包含可見的表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -2555,11 +2545,6 @@ Please try one of the following.
         <translation>[$-404]m月d日e年</translation>
     </message>
     <message>
-        <source>Whether to modify the existing classification?</source>
-        <comment>TX_ChangeAutoOutline</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dialog Title</source>
         <comment>Dialog Caption</comment>
         <translation type="unfinished"></translation>
@@ -2572,7 +2557,7 @@ Please try one of the following.
     <message>
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改現有大綱?</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
@@ -2928,16 +2913,6 @@ Please try one of the following.
         <translation type="unfinished">您無法變更陣列中的一部分。</translation>
     </message>
     <message>
-        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
-        <comment>TX_RepeatWord_Group_Range</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Column has been chosen.</source>
-        <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
         <translation>表格_</translation>
@@ -3013,36 +2988,6 @@ Do you want Kingsoft Spreadsheets to recalculate all formulas when this workbook
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss Next function for loop!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Miss Loop!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Miss IF function!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Miss END.IF function!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No RETURN() or HALT() function fount on macro sheet!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Illegal reference argument at:</source>
-        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
 
 ·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
@@ -3089,6 +3034,26 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing IF.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing an END.IF function.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3716,16 +3681,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>map</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fail to open xml file. file not exit or syntax error</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7730,12 +7685,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DIF (Data Interchange File)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation type="unfinished">DIF (數據交換文件)(*.dif)</translation>
+        <translation type="obsolete">DIF (數據交換文件)(*.dif)</translation>
     </message>
     <message>
         <source>DIF Data Interchange File(*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
-        <translation type="unfinished">DIF 數據交換文件(*.dif)</translation>
+        <translation type="obsolete">DIF 數據交換文件(*.dif)</translation>
     </message>
     <message>
         <source>Field</source>
@@ -7771,11 +7726,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Kingsoft Spreadsheets Template(*.ett)</source>
         <comment>TX_ssDesc_ETTemp_</comment>
         <translation type="obsolete">Kingsoft Spreadsheets 範本(*.ett)</translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
-        <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
@@ -7972,7 +7922,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
-        <translation type="unfinished">所有數據源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+        <translation type="obsolete">所有數據源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
     <message>
         <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
@@ -13629,18 +13579,8 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
-        <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14328,6 +14268,16 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
     </message>
 </context>
 <context>

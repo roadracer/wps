@@ -1523,7 +1523,7 @@ Center</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation></translation>
+        <translation>Приобрести серийный номер</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -3834,7 +3834,8 @@ Visual Basic</translation>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
 </context>
 <context>
@@ -4319,8 +4320,12 @@ On/Off</source>
         <translation>Обратная связь и информация о продукции</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -5395,7 +5400,7 @@ Columns</source>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Камера</translation>
+        <translation>Снимок выделения</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -6149,7 +6154,7 @@ Pictures</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation></translation>
+        <translation>Узорные линии</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -7120,7 +7125,8 @@ Layout</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -8285,7 +8291,7 @@ COM</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Камера</translation>
+        <translation>Снимок выделения</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -8612,8 +8618,12 @@ COM</translation>
         <translation type="obsolete">Отзывы и предложения</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -10437,8 +10447,12 @@ AddIns</source>
         <translation>Обратная связь и информация о продукции</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -11447,7 +11461,7 @@ Center</source>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Камера</translation>
+        <translation>Снимок выделения</translation>
     </message>
     <message>
         <source>Chart</source>

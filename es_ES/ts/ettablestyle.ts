@@ -6,67 +6,67 @@
     <name>CEtTableStyle</name>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas con bandas</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Filas con bandas</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>Dark Style</translation>
+        <translation>Estilo oscuro</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>Dark Style 2</translation>
+        <translation>Estilo oscuro 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">Dark Style 2-Emphasize 5/Emphasize 2 {2-?} {1/?}</translation>
+        <translation>Estilo oscuro 2-Enfatizar 1/Enfatizar 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">Dark Style 2-Emphasize 5/Emphasize 4 {2-?} {3/?}</translation>
+        <translation>Estilo oscuro 2-Enfatizar 3/Enfatizar 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Dark Style 2-Emphasize 5/Emphasize 6</translation>
+        <translation>Estilo oscuro 2-Enfatizar 5/Enfatizar 6</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Emphasize</translation>
+        <translation>Enfatizar</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera columna</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Última columna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Última fila</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation>Light Style</translation>
+        <translation>Estilo claro </translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>Medium Style</translation>
+        <translation>Estilo medio </translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Theme Style</translation>
+        <translation>Style de tema</translation>
     </message>
     <message>
         <source>deep color style</source>
@@ -122,50 +122,50 @@
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo ni cuadrícula</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo, con cuadrícula</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas con bandas</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Filas con bandas</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejor coincidencia</translation>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Integrado</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>Dark Style</translation>
+        <translation>Estilo oscuro</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>Dark Style 2</translation>
+        <translation>Estilo oscuro 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Dark Style 2-Emphasize 5/Emphasize 6</translation>
+        <translation>Estilo oscuro 2-Enfatizar 5/Enfatizar 6</translation>
     </message>
     <message>
         <source>Deep</source>
@@ -173,39 +173,39 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Emphasize</translation>
+        <translation>Enfatizar</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera columna</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila y primera columna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila y última columna</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Última columna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Última fila</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation>Light Style</translation>
+        <translation>Estilo claro </translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>Medium Style</translation>
+        <translation>Estilo medio </translation>
     </message>
     <message>
         <source>Middle</source>
@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Theme Style</translation>
+        <translation>Style de tema</translation>
     </message>
     <message>
         <source>Washy</source>
@@ -269,46 +269,46 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medio </translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo ni cuadrícula</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">Dark Style 2-Emphasize 5/Emphasize 2 {2-?} {1/?}</translation>
+        <translation>Estilo oscuro 2-Enfatizar 1/Enfatizar 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">Dark Style 2-Emphasize 5/Emphasize 4 {2-?} {3/?}</translation>
+        <translation>Estilo oscuro 2-Enfatizar 3/Enfatizar 4</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin estilo, con cuadrícula</translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas con bandas</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Filas con bandas</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejor coincidencia</translation>
     </message>
     <message>
         <source>Deep</source>
@@ -316,27 +316,27 @@
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera columna</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila y primera columna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera fila y última columna</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Última columna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Última fila</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -348,30 +348,30 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medio </translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar estilo de tabla</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opxiones de estilo de tabla</translation>
     </message>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de tabla:</translation>
     </message>
 </context>
 </TS>

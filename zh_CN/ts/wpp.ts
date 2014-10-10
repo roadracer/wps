@@ -1102,7 +1102,7 @@
 </context>
 <context>
     <name>KWppZoomSlider</name>
-    <message>
+    <message id="0">
         <source>Fit slide to current window</source>
         <translation type="unfinished">最佳显示比例</translation>
     </message>
@@ -1142,7 +1142,7 @@
     </message>
     <message>
         <source>bgTemplate tooltip</source>
-        <translation>成千上万的时尚模板帮您打造不一样的演示稿</translation>
+        <translation type="obsolete">成千上万的时尚模板帮您打造不一样的演示稿</translation>
     </message>
     <message>
         <source>bgMagic tooltip</source>
@@ -1406,7 +1406,7 @@
     </message>
     <message>
         <source>Template background</source>
-        <translation>背景模板</translation>
+        <translation type="obsolete">背景模板</translation>
     </message>
     <message>
         <source>Magic Backgroud</source>
@@ -2508,15 +2508,15 @@ be recovered.</source>
     </message>
     <message>
         <source>Embed &amp;True Type</source>
-        <translation>将字体嵌入文件(&amp;T)</translation>
+        <translation type="obsolete">将字体嵌入文件(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Just embed used chars</source>
-        <translation>仅嵌入文档中所用的字符(适于减小文件大小)(&amp;J)</translation>
+        <translation type="obsolete">仅嵌入文档中所用的字符(适于减小文件大小)(&amp;J)</translation>
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing)</source>
-        <translation>嵌入所有字符(适于其他人编辑)(&amp;C)</translation>
+        <translation type="obsolete">嵌入所有字符(适于其他人编辑)(&amp;C)</translation>
     </message>
     <message>
         <source>Start&amp;up task window</source>

@@ -1996,7 +1996,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>フローチャート：テープ</translation>
+        <translation type="obsolete">フローチャート：テープ</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>

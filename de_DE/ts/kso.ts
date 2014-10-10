@@ -5549,7 +5549,7 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Flussdiagramm: Datenträger mit direktem Zugriff</translation>
+        <translation type="obsolete">Flussdiagramm: Datenträger mit direktem Zugriff</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
@@ -7717,7 +7717,7 @@ Fortsetzen?</translation>
     <message>
         <source>ASCII(DEC)</source>
         <comment>kso_acsnDecAscii</comment>
-        <translation type="unfinished">ASCII(DEC)</translation>
+        <translation>ASCII(DEC)</translation>
     </message>
     <message>
         <source>Symbol(DEC)</source>
@@ -7727,7 +7727,7 @@ Fortsetzen?</translation>
     <message>
         <source>ASCII(HEX)</source>
         <comment>kso_acsnHexAscii</comment>
-        <translation type="unfinished">ASCII(HEX)</translation>
+        <translation>ASCII(HEX)</translation>
     </message>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
@@ -7747,12 +7747,12 @@ Fortsetzen?</translation>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_Caption</comment>
-        <translation type="unfinished">Backup-Management</translation>
+        <translation>Sicherungsverwaltung</translation>
     </message>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_DisplayName</comment>
-        <translation type="unfinished">Backup-Management</translation>
+        <translation>Sicherungsverwaltung</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -7802,112 +7802,112 @@ Fortsetzen?</translation>
     <message>
         <source>10%</source>
         <comment>kso_s10Percent</comment>
-        <translation type="unfinished">10%</translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>20%</source>
         <comment>kso_s20Percent</comment>
-        <translation type="unfinished">20%</translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
         <comment>kso_s25Percent</comment>
-        <translation type="unfinished">25%</translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
         <comment>kso_s30Percent</comment>
-        <translation type="unfinished">30%</translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>40%</source>
         <comment>kso_s40Percent</comment>
-        <translation type="unfinished">40%</translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>50%</source>
         <comment>kso_s50Percent</comment>
-        <translation type="unfinished">50%</translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5%</source>
         <comment>kso_s5Percent</comment>
-        <translation type="unfinished">5%</translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>60%</source>
         <comment>kso_s60Percent</comment>
-        <translation type="unfinished">60%</translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>70%</source>
         <comment>kso_s70Percent</comment>
-        <translation type="unfinished">70%</translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
         <comment>kso_s75Percent</comment>
-        <translation type="unfinished">75%</translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
         <comment>kso_s80Percent</comment>
-        <translation type="unfinished">80%</translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
         <comment>kso_s90Percent</comment>
-        <translation type="unfinished">90%</translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Add</source>
         <comment>kso_SAddCaption</comment>
-        <translation type="unfinished">Hinzufügen</translation>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Failed to add Add-In</source>
         <comment>kso_sAddCOMAddinFailure</comment>
-        <translation type="unfinished">Hinzufügen des Add-in fehlgeschlagen</translation>
+        <translation>Hinzufügen des Add-ins fehlgeschlagen</translation>
     </message>
     <message>
         <source>(All)</source>
         <comment>kso_sAllItems</comment>
-        <translation type="unfinished">(Alle)</translation>
+        <translation>(Alle)</translation>
     </message>
     <message>
         <source>Error happens when application initializes. Error code: 0x%8.8x.</source>
         <comment>kso_sAppInitializeError</comment>
-        <translation type="unfinished">Fehler bei Initialisierung der Anwendung. Fehlercode: 0x%8.8x.</translation>
+        <translation>Fehler bei Initialisierung der Anwendung. Fehlercode: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished">Fehler bei Registrierung der Anwendung. Fehlercode: 0x%8.8x.</translation>
+        <translation>Fehler bei Registrierung der Anwendung. Fehlercode: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished">Fehler beim Ausloggen der Anwendung. Fehlercode: 0x%8.8x.</translation>
+        <translation>Fehler beim Abmelden der Anwendung. Fehlercode: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Arrow Style %d</source>
         <comment>kso_sArrowStyleFormat</comment>
-        <translation type="unfinished">Pfeiltyp %d</translation>
+        <translation>Pfeilart %d</translation>
     </message>
     <message>
         <source>Automatic</source>
         <comment>kso_sAutomatic</comment>
-        <translation type="unfinished">Automatisch</translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_Caption</comment>
-        <translation type="unfinished">AutoShapes</translation>
+        <translation>AutoFormen</translation>
     </message>
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_DisplayName</comment>
-        <translation type="unfinished">AutoShapes</translation>
+        <translation>AutoFormen</translation>
     </message>
     <message>
         <source>The name already exists. Please enter another one.</source>
@@ -7922,12 +7922,12 @@ Fortsetzen?</translation>
     <message>
         <source>&amp;Blue:</source>
         <comment>kso_sBlue</comment>
-        <translation type="unfinished">&amp;Blau:</translation>
+        <translation>&amp;Blau:</translation>
     </message>
     <message>
         <source>Bookmarks</source>
         <comment>kso_sBookmarks</comment>
-        <translation type="unfinished">Lesezeichen</translation>
+        <translation>Textmarken</translation>
     </message>
     <message>
         <source>No</source>
@@ -7947,37 +7947,37 @@ Fortsetzen?</translation>
     <message>
         <source>(Build %s)</source>
         <comment>kso_sBuildNumber</comment>
-        <translation type="unfinished">(Erstellen %s)</translation>
+        <translation>(Aufbauen %s)</translation>
     </message>
     <message>
         <source>Byte</source>
         <comment>kso_sByte</comment>
-        <translation type="unfinished">Byte</translation>
+        <translation>Byte</translation>
     </message>
     <message>
         <source> Bytes</source>
         <comment>kso_sBytes</comment>
-        <translation type="unfinished"> Bytes</translation>
+        <translation> Bytes</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close the dialog box to try again.</source>
         <comment>kso_sCannotExecuteWhileModal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Befehl kann nicht ausgeführt werden, weil noch ein Dialogfeld geöffnet ist. Klicken Sie auf &quot;OK&quot;, und schließen Sie dann alle geöffneten Dialogfelder, um erneut versuchen.</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%s&quot;.</source>
         <comment>kso_sCannotInsertFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung zur Datei &quot;%s&quot; kann nicht erstellt werden.</translation>
     </message>
     <message>
         <source>An error occurred on printer &quot;%s&quot; !</source>
         <comment>kso_sCannotOpenPropertiesDialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Druckerfehler &quot;%s&quot;!</translation>
     </message>
     <message>
         <source>CAPS</source>
         <comment>kso_sCaps</comment>
-        <translation type="unfinished">CAPS</translation>
+        <translation>CAPS</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -7997,7 +7997,7 @@ Fortsetzen?</translation>
     <message>
         <source>Cell Reference</source>
         <comment>kso_sCellReference</comment>
-        <translation type="unfinished">Zellverweis</translation>
+        <translation>Zellbezug</translation>
     </message>
     <message>
         <source>Clear backup files automatically before closing application.</source>
@@ -8022,17 +8022,17 @@ Fortsetzen?</translation>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_Caption</comment>
-        <translation type="unfinished">ClipArt</translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_DisplayName</comment>
-        <translation type="unfinished">ClipArt</translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>kso_sCloseCaption</comment>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
@@ -8042,7 +8042,7 @@ Fortsetzen?</translation>
     <message>
         <source>Failed to modify the Add-In settings</source>
         <comment>kso_sCOMAddinApplied</comment>
-        <translation type="unfinished">Änderungen der Add-in-Einstellungen fehlgeschlagen</translation>
+        <translation>Änderungen der Add-in-Einstellungen fehlgeschlagen</translation>
     </message>
     <message>
         <source>Load on Demand (already loaded)</source>
@@ -8052,7 +8052,7 @@ Fortsetzen?</translation>
     <message>
         <source>Copy to</source>
         <comment>kso_SCopyToCaption</comment>
-        <translation type="unfinished">Kopieren nach</translation>
+        <translation>Kopieren auf</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -8062,32 +8062,32 @@ Fortsetzen?</translation>
     <message>
         <source>Custom</source>
         <comment>kso_sCustomColor</comment>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Customize</source>
         <comment>kso_sCustomCommandbarName</comment>
-        <translation type="unfinished">Anpassen</translation>
+        <translation>Anpassen</translation>
     </message>
     <message>
         <source>Checked by;Client;Date completed;Department;Destination;Disposition;Division;Document number;Editor;Forward to;Group;Language</source>
         <comment>kso_sCustomItemNames1</comment>
-        <translation type="unfinished">Geprüft durch;Kunde;Datum vollständig;Abteilung;Verbleib;Disposition;Bereich;Dokumentenzahl;Urheber;Weiterleiten an;Gruppe;Sprache</translation>
+        <translation>Geprüft von;Kunde;Erledigt am;Abteilung;Ziel;Anordnung;Division;Dokumentenzahl;Bearbeitet von;Weiterleiten an;Gruppe;Sprache</translation>
     </message>
     <message>
         <source>Mailstop;Matter;Office;Owner;Project;Publisher;Purpose;Received from;Recorded by;Recorded date;Reference;Source;Status;Telephone number;Typist</source>
         <comment>kso_sCustomItemNames2</comment>
-        <translation type="unfinished">Mail Stop Code;Betreff;Büro;Besitzer;Projekt;Herausgeber;Verwendungszweck;Erhalten von;Aufgezeichn von;Aufnahmedatum;Verweis;Quelle;Status;Telefonnummer;Schreibkraft</translation>
+        <translation>Ablage;Gegenstand;Büro;Besitzer;Projekt;Herausgeber;Verwendungszweck;Empfangen von;Aufgezeichnet von;Aufzeichnungsdatum;Verweis;Quelle;Status;Telefonnummer;Erstellt von</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
         <comment>kso_sCustomModify</comment>
-        <translation type="unfinished">&amp;Ändern</translation>
+        <translation>&amp;Ändern</translation>
     </message>
     <message>
         <source>Custom Shows</source>
         <comment>kso_sCustomShows</comment>
-        <translation type="unfinished">Benutzerdefinierte Präsentationen</translation>
+        <translation>Zielgruppenorientierte Präsentationen</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
@@ -8097,47 +8097,47 @@ Fortsetzen?</translation>
     <message>
         <source>Dark downward diagonal</source>
         <comment>kso_sDarkDownwardDiagonal</comment>
-        <translation type="unfinished">Diagonal dunkel nach unten</translation>
+        <translation>Diagonal dunkel nach unten</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
         <comment>kso_sDarkHorizontal</comment>
-        <translation type="unfinished">Horizontal dunkel</translation>
+        <translation>Horizontal dunkel</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
         <comment>kso_sDarkUpwardDiagonal</comment>
-        <translation type="unfinished">Diagonal dunkel nach oben</translation>
+        <translation>Diagonal dunkel nach oben</translation>
     </message>
     <message>
         <source>Dark vertical</source>
         <comment>kso_sDarkVertical</comment>
-        <translation type="unfinished">Vertikal dunkel</translation>
+        <translation>Vertikal dunkel</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
         <comment>kso_sDashedDownwardDiagonal</comment>
-        <translation type="unfinished">Diagonal gestrichelt nach unten</translation>
+        <translation>Diagonal gestrichelt nach unten</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
         <comment>kso_sDashedHorizontal</comment>
-        <translation type="unfinished">Horizontal gestrichelt</translation>
+        <translation>Horizontal gestrichelt</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
         <comment>kso_sDashedUpwardDiagonal</comment>
-        <translation type="unfinished">Diagonal gestrichelt nach oben</translation>
+        <translation>Diagonal gestrichelt nach oben</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
         <comment>kso_sDashedVertical</comment>
-        <translation type="unfinished">Vertikal gestrichelt</translation>
+        <translation>Vertikal gestrichelt</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>kso_sDateType</comment>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -8147,27 +8147,27 @@ Fortsetzen?</translation>
     <message>
         <source>Defined Names</source>
         <comment>kso_sDefinedNames</comment>
-        <translation type="unfinished">Definierte Namen</translation>
+        <translation>Definierte Namen</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
         <comment>kso_sDeleteCOMAddinFailure</comment>
-        <translation type="unfinished">Deinstallation des Add-in fehlgeschlagen</translation>
+        <translation>Deinstallation des Add-ins fehlgeschlagen</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
         <comment>kso_SDeleteToolbar</comment>
-        <translation type="unfinished">Möchten Sie die Symbolleiste &apos;%s&apos; wirklich löschen?</translation>
+        <translation>Möchten Sie die Symbolleiste &apos;%s&apos; wirklich löschen?</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
         <comment>kso_sDiagonalBrick</comment>
-        <translation type="unfinished">Diagonale Steine</translation>
+        <translation>Diagonale Steine</translation>
     </message>
     <message>
         <source>Divot</source>
         <comment>kso_sDivot</comment>
-        <translation type="unfinished">Divot</translation>
+        <translation>Krähenfüße</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -8177,32 +8177,32 @@ Fortsetzen?</translation>
     <message>
         <source>Document</source>
         <comment>kso_sDocSecurity</comment>
-        <translation type="unfinished">Dokument</translation>
+        <translation>Dokument</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
         <comment>kso_sDottedDiamond</comment>
-        <translation type="unfinished">Gepunktete Raute</translation>
+        <translation>Gepunktete Rauten</translation>
     </message>
     <message>
         <source>Dotted grid</source>
         <comment>kso_sDottedGrid</comment>
-        <translation type="unfinished">Gepunktetes Gitter</translation>
+        <translation>Gepunktetes Gitter</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
         <comment>kso_sEditHyperlink</comment>
-        <translation type="unfinished">Hyperlink bearbeiten</translation>
+        <translation>Hyperlink bearbeiten</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <comment>kso_sElseDefFontSizeItems</comment>
-        <translation type="unfinished">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
         <comment>kso_sEmptyUserInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elemente mit &quot;*&quot; müssen eigegeben werden.</translation>
     </message>
     <message>
         <source>Office Standard</source>
@@ -8217,7 +8217,7 @@ Fortsetzen?</translation>
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mindestens ein Element muss angezeigt werden. Wenn Sie das Feld überhaupt nicht anzeigen wollen, brechen Sie die derzeitige Operation ab und ziehen Sie das Feld dann aus dem Bericht heraus.</translation>
     </message>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
@@ -8232,13 +8232,15 @@ Fortsetzen?</translation>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenCreateTable_General</comment>
-        <translation type="unfinished">dass der Verweis gültig und das Arbeitsblatt vorhanden ist.</translation>
+        <translation>Sie können mit diesen Daten kein PivotTable erstellen. Stellen Sie sicher, dass der Verweis gültig und das Arbeitsblatt vorhanden ist.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. 
 Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
         <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die ausgewählte Position für Ablage des PivotTables ist ungültig.
+Stellen Sie sicher, dass der Bezugsbereich gültig ist und es ist kein Bereich aus einem ausgeblendeten Blatt.
+Wenn der Bezugsbereich in dem geschützten Blatt befindet, heben Sie zuerst den Schutz auf.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -8246,13 +8248,16 @@ Please make sure it is a valid reference range, and not a range of a hidden shee
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sie können kein PivotTable mit diesen Daten erstellen. Überprüfen Sie, ob die zu analysierenden Daten die folgende Bedingungen erfüllen:
+1. Stellen Sie sicher, dass der Verweis vorhanden ist. Wenn der Verweis ein Name ist, muss es ein gültiger Bereich sein;
+2. Stellen Sie sicher, dass der Verweis ein einzelner Arbeitsbereich ist. Es muss zwei mindestens Zeilen enthalten;
+3.Stellen Sie sicher, dass die erste Zeile des Verweiseskeine leeren Zellen, keinen Fehlerwert enthält und dass jede Zelle nicht mehr als 255 Zeichen enthält.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data.
 Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenModifyTable</comment>
-        <translation type="unfinished">dass der Verweis gültig und das Arbeitsblatt vohanden ist.</translation>
+        <translation>Sie können das PivotTable nicht mit den Daten ändern. Überprüfen Sie Ihre Daten und stellen Sie sicher, dass der Verweis gültig und das Arbeitsblatt vorhanden ist.</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
@@ -8262,52 +8267,52 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Blank Workbook</source>
         <comment>kso_sEtBlankTemplate</comment>
-        <translation type="unfinished">Leere Arbeitsmappe</translation>
+        <translation>Leere Arbeitsmappe</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
         <comment>kso_sEtFileFilter</comment>
-        <translation type="unfinished">Alle Dateien(*.*)|*.*</translation>
+        <translation>Alle Dateien(*.*)|*.*</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot access %s, the file name is invalid.</source>
         <comment>kso_sEtFileNameNoEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zugriff von WPS-Spreadsheets auf %s fehlgeschlagen. Der Dateiname ist ungültig.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
         <comment>kso_sEtInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein Symbol zu den Inhalten der Datei in Ihr Dokument ein.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the program which created the source file.</source>
         <comment>kso_sEtInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt den Inhalt der Datei in die Arbeitsmappe ein. Er kann danach mit der Anwendung, die diese Datei erstellt hat, weiterhin bearbeitet werden.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
         <comment>kso_sEtInsertObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein neues Objekt %s in Ihr Dokument ein.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document as an icon.</source>
         <comment>kso_sEtInsertObjectIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein neues Objekt %s als ein Symbol in Ihr Dokument ein.</translation>
     </message>
     <message>
         <source>Insert an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein Symbol zu den Inhalten der Datei in Ihr Dokument ein. Änderungen in der Quelldatei werden in Ihr Dokument übernommen.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a link to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt die Inhalte der Datei in Ihr Dokument ein und erstellt eine Verbindung zur Quelldatei. Änderungen in der Quelldatei werden in Ihr Dokument übernommen.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
         <comment>kso_sFailedToSaveSN</comment>
-        <translation type="unfinished">ob Sie Administratorrechte besitzen.</translation>
+        <translation>Speichern der Seriennummer fehlgeschlagen. Überprüfen Sie bitte, ob Sie über Administratorrechte verfügen.</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
@@ -8317,72 +8322,72 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>File</source>
         <comment>kso_sFile</comment>
-        <translation type="unfinished">Datei</translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <source>The file name is incorrect. Please input the file name with correct format.</source>
         <comment>kso_sFileNameError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Falscher Dateiname. Geben Sie den Dateinamen mit einem ordnungsgemäßen Format.</translation>
     </message>
     <message>
         <source>File not found</source>
         <comment>kso_SFileNotFound</comment>
-        <translation type="unfinished">Datei nicht gefunden</translation>
+        <translation>Datei nicht gefunden</translation>
     </message>
     <message>
         <source>First Slide</source>
         <comment>kso_sFirstSlide</comment>
-        <translation type="unfinished">Erste Folie</translation>
+        <translation>Erste Folie</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>kso_sFolder</comment>
-        <translation type="unfinished">Ordner</translation>
+        <translation>Ordner</translation>
     </message>
     <message>
         <source>GB</source>
         <comment>kso_sGByte</comment>
-        <translation type="unfinished">GB</translation>
+        <translation>GB</translation>
     </message>
     <message>
         <source>General</source>
         <comment>kso_sGeneralTab</comment>
-        <translation type="unfinished">Allgemein</translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
         <comment>kso_sGreen</comment>
-        <translation type="unfinished">&amp;Grün:</translation>
+        <translation>&amp;Grün:</translation>
     </message>
     <message>
         <source>Headings</source>
         <comment>kso_sHeadings</comment>
-        <translation type="unfinished">Überschriften</translation>
+        <translation>Überschriften</translation>
     </message>
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hilfedatei ist nicht vorhanden oder Fehler ist aufgetreten!</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
         <comment>kso_sHorizontalBrick</comment>
-        <translation type="unfinished">Horizontale Ziegel</translation>
+        <translation>Horizontale Steine</translation>
     </message>
     <message>
         <source>H&amp;ue:</source>
         <comment>kso_sHue</comment>
-        <translation type="unfinished">Far&amp;bton:</translation>
+        <translation>Far&amp;bton:</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in Document&gt;&gt;</source>
         <comment>kso_sHyperlinkDisplayTextCannotModify</comment>
-        <translation type="unfinished">&lt;&lt;Auswahl im Dokument&gt;&gt;</translation>
+        <translation>&lt;&lt;Auswahl im Dokument&gt;&gt;</translation>
     </message>
     <message>
         <source>An error occurred while importing this file %s.</source>
         <comment>kso_sImportPictureError</comment>
-        <translation type="unfinished">Fehler beim Import der Datei. %s</translation>
+        <translation>Fehler beim Import der Datei %s.</translation>
     </message>
     <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
@@ -8392,24 +8397,26 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert Hyperlink</source>
         <comment>kso_sInsertHyperlink</comment>
-        <translation type="unfinished">Hyperlink einfügen</translation>
+        <translation>Hyperlink einfügen</translation>
     </message>
     <message>
         <source>Invalid</source>
         <comment>kso_sInvalid</comment>
-        <translation type="unfinished">Ungültig</translation>
+        <translation>Ungültig</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <comment>kso_sInvalidFieldName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der PivotTable-Feldname ist ungültig.
+<byte value="x17"/>Um eine PivotTable zu erstellen, müssen Sie Daten verwenden, die in einer Liste mit Spaltenüberschriften organisiert sind. 
+Wenn Sie den Namen eines PivotTable-Feldes ändern, müssen Sie einen neuen Namen für das Feld eingeben. </translation>
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
         <comment>kso_SInvalidInteger</comment>
-        <translation type="unfinished">&apos;%s&apos; ist kein gültiger ganzzahliger Wert.</translation>
+        <translation>&apos;%s&apos; ist kein gültiger ganzzahliger Wert</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -8424,202 +8431,202 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
         <comment>kso_sInvalidSN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Seriennummer. Überprüfen Sie die Eingabeformat, die unterstützte Version der Seriennummer und das gültige Datum.</translation>
     </message>
     <message>
         <source>KB</source>
         <comment>kso_sKByte</comment>
-        <translation type="unfinished">KB</translation>
+        <translation>KB</translation>
     </message>
     <message>
         <source>Aqua</source>
         <comment>kso_sKclAqua</comment>
-        <translation type="unfinished">Aqua</translation>
+        <translation>Aquamarin</translation>
     </message>
     <message>
         <source>Black</source>
         <comment>kso_sKclBlack</comment>
-        <translation type="unfinished">Schwarz</translation>
+        <translation>Schwarz</translation>
     </message>
     <message>
         <source>Blue</source>
         <comment>kso_sKclBlue</comment>
-        <translation type="unfinished">Blau</translation>
+        <translation>Blau</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
         <comment>kso_sKclBlueGray</comment>
-        <translation type="unfinished">Blaugrau</translation>
+        <translation>Blaugrau</translation>
     </message>
     <message>
         <source>Bright Green</source>
         <comment>kso_sKclBrightGreen</comment>
-        <translation type="unfinished">Hellgrün</translation>
+        <translation>Grelles Grün</translation>
     </message>
     <message>
         <source>Brown</source>
         <comment>kso_sKclBrown</comment>
-        <translation type="unfinished">Braun</translation>
+        <translation>Braun</translation>
     </message>
     <message>
         <source>Coral</source>
         <comment>kso_sKclCoral</comment>
-        <translation type="unfinished">Korallenrot</translation>
+        <translation>Koralle</translation>
     </message>
     <message>
         <source>Dark Blue</source>
         <comment>kso_sKclDarkBlue</comment>
-        <translation type="unfinished">Dunkelblau</translation>
+        <translation>Dunkelblau</translation>
     </message>
     <message>
         <source>Dark Green</source>
         <comment>kso_sKclDarkGreen</comment>
-        <translation type="unfinished">Dunkelgrün</translation>
+        <translation>Dunkelgrün</translation>
     </message>
     <message>
         <source>Dark Purple</source>
         <comment>kso_sKclDarkPurple</comment>
-        <translation type="unfinished">Dunkelviolett</translation>
+        <translation>Dunkelpurpur</translation>
     </message>
     <message>
         <source>Dark Red</source>
         <comment>kso_sKclDarkRed</comment>
-        <translation type="unfinished">Dunkelrot</translation>
+        <translation>Dunkelrot</translation>
     </message>
     <message>
         <source>Dark Teal</source>
         <comment>kso_sKclDarkTeal</comment>
-        <translation type="unfinished">Dunkles Blaugrün</translation>
+        <translation>Dunkelblaugrün</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
         <comment>kso_sKclDarkYellow</comment>
-        <translation type="unfinished">Dunkelgelb</translation>
+        <translation>Dunkelgelb</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>kso_sKclGold</comment>
-        <translation type="unfinished">Gold</translation>
+        <translation>Gold</translation>
     </message>
     <message>
         <source>Gray-10%</source>
         <comment>kso_sKclGray_10</comment>
-        <translation type="unfinished">Grau-10%</translation>
+        <translation>Grau-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
         <comment>kso_sKclGray_12_5</comment>
-        <translation type="unfinished">5%</translation>
+        <translation>Grau-12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
         <comment>kso_sKclGray_15</comment>
-        <translation type="unfinished">Grau-15%</translation>
+        <translation>Grau-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
         <comment>kso_sKclGray_20</comment>
-        <translation type="unfinished">Grau-20%</translation>
+        <translation>Grau-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
         <comment>kso_sKclGray_25</comment>
-        <translation type="unfinished">Grau-25%</translation>
+        <translation>Grau-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
         <comment>kso_sKclGray_30</comment>
-        <translation type="unfinished">Grau-30%</translation>
+        <translation>Grau-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
         <comment>kso_sKclGray_35</comment>
-        <translation type="unfinished">Grau-35%</translation>
+        <translation>Grau-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
         <comment>kso_sKclGray_37_5</comment>
-        <translation type="unfinished">5%</translation>
+        <translation>Grau-37,5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
         <comment>kso_sKclGray_40</comment>
-        <translation type="unfinished">Grau-40%</translation>
+        <translation>Grau-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
         <comment>kso_sKclGray_45</comment>
-        <translation type="unfinished">Grau-45%</translation>
+        <translation>Grau-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
         <comment>kso_sKclGray_5</comment>
-        <translation type="unfinished">Grau-5%</translation>
+        <translation>Grau-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
         <comment>kso_sKclGray_50</comment>
-        <translation type="unfinished">Grau-50%</translation>
+        <translation>Grau-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
         <comment>kso_sKclGray_55</comment>
-        <translation type="unfinished">Grau-55%</translation>
+        <translation>Grau-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
         <comment>kso_sKclGray_60</comment>
-        <translation type="unfinished">Grau-60%</translation>
+        <translation>Grau-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
         <comment>kso_sKclGray_62_5</comment>
-        <translation type="unfinished">5%</translation>
+        <translation>Grau-62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
         <comment>kso_sKclGray_65</comment>
-        <translation type="unfinished">Grau-65%</translation>
+        <translation>Grau-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
         <comment>kso_sKclGray_70</comment>
-        <translation type="unfinished">Grau-70%</translation>
+        <translation>Grau-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
         <comment>kso_sKclGray_75</comment>
-        <translation type="unfinished">Grau-75%</translation>
+        <translation>Grau-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
         <comment>kso_sKclGray_80</comment>
-        <translation type="unfinished">Grau-80%</translation>
+        <translation>Grau-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
         <comment>kso_sKclGray_85</comment>
-        <translation type="unfinished">Grau-85%</translation>
+        <translation>Grau-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
         <comment>kso_sKclGray_87_5</comment>
-        <translation type="unfinished">5%</translation>
+        <translation>Grau-87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
         <comment>kso_sKclGray_90</comment>
-        <translation type="unfinished">Grau-90%</translation>
+        <translation>Grau-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
         <comment>kso_sKclGray_95</comment>
-        <translation type="unfinished">Grau-95%</translation>
+        <translation>Grau-95%</translation>
     </message>
     <message>
         <source>Green</source>
         <comment>kso_sKclGreen</comment>
-        <translation type="unfinished">Grün</translation>
+        <translation>Grün</translation>
     </message>
     <message>
         <source>Ice Blue</source>
@@ -8629,47 +8636,47 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Indigo</source>
         <comment>kso_sKclIndigo</comment>
-        <translation type="unfinished">Indigoblau</translation>
+        <translation>Indigoblau</translation>
     </message>
     <message>
         <source>Ivory</source>
         <comment>kso_sKclIvory</comment>
-        <translation type="unfinished">Elfenbein</translation>
+        <translation>Elfenbein</translation>
     </message>
     <message>
         <source>Lavender</source>
         <comment>kso_sKclLavender</comment>
-        <translation type="unfinished">Lavendel</translation>
+        <translation>Lavendel</translation>
     </message>
     <message>
         <source>Light Blue</source>
         <comment>kso_sKclLightBlue</comment>
-        <translation type="unfinished">Hellblau</translation>
+        <translation>Hellblau</translation>
     </message>
     <message>
         <source>Light Green</source>
         <comment>kso_sKclLightGreen</comment>
-        <translation type="unfinished">Hellgrün</translation>
+        <translation>Hellgrün</translation>
     </message>
     <message>
         <source>Light Orange</source>
         <comment>kso_sKclLightOrange</comment>
-        <translation type="unfinished">Hellorange</translation>
+        <translation>Hellorange</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
         <comment>kso_sKclLightTurquoise</comment>
-        <translation type="unfinished">Helltürkis</translation>
+        <translation>Helltürkis</translation>
     </message>
     <message>
         <source>Light Yellow</source>
         <comment>kso_sKclLightYellow</comment>
-        <translation type="unfinished">Hellgelb</translation>
+        <translation>Hellgelb</translation>
     </message>
     <message>
         <source>Lime</source>
         <comment>kso_sKclLime</comment>
-        <translation type="unfinished">Grün-Gelb</translation>
+        <translation>Gelbgrün</translation>
     </message>
     <message>
         <source>Ocean Blue</source>
@@ -8759,77 +8766,77 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Large checkerboard</source>
         <comment>kso_sLargeCheckerBoard</comment>
-        <translation type="unfinished">Große Schachfelder</translation>
+        <translation>Große Schachbrette</translation>
     </message>
     <message>
         <source>Large confetti</source>
         <comment>kso_sLargeConfetti</comment>
-        <translation type="unfinished">Große Konfetti</translation>
+        <translation>Große Konfetti</translation>
     </message>
     <message>
         <source>Large grid</source>
         <comment>kso_sLargeGrid</comment>
-        <translation type="unfinished">Großes Raster</translation>
+        <translation>Großes Raster</translation>
     </message>
     <message>
         <source>Last saved</source>
         <comment>kso_sLastSave</comment>
-        <translation type="unfinished">Zuletzt gespeichert</translation>
+        <translation>Letztes Speicherdatum</translation>
     </message>
     <message>
         <source>Last Slide</source>
         <comment>kso_sLastSlide</comment>
-        <translation type="unfinished">Letzte Folie</translation>
+        <translation>Letzte Folie</translation>
     </message>
     <message>
         <source>Light downward diagonal</source>
         <comment>kso_sLightDownwardDiagonal</comment>
-        <translation type="unfinished">Diagonal hell nach unten</translation>
+        <translation>Diagonal hell nach unten</translation>
     </message>
     <message>
         <source>Light horizontal</source>
         <comment>kso_sLightHorizontal</comment>
-        <translation type="unfinished">Horizontal hell</translation>
+        <translation>Horizontal hell</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
         <comment>kso_sLightUpwardDiagonal</comment>
-        <translation type="unfinished">Diagonal hell nach oben</translation>
+        <translation>Diagonal hell nach oben</translation>
     </message>
     <message>
         <source>Light vertical</source>
         <comment>kso_sLightVertical</comment>
-        <translation type="unfinished">Vertikal hell</translation>
+        <translation>Vertikal hell</translation>
     </message>
     <message>
         <source>Dash</source>
         <comment>kso_sLineDash</comment>
-        <translation type="unfinished">Strich</translation>
+        <translation>Strich</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation type="unfinished">Strichpunkt</translation>
+        <translation>Strichlinie Punkt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation type="unfinished">Strich-Punkt-Punkt</translation>
+        <translation>Strichpunkt-Punkt</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
         <comment>kso_sLineFormatCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gemusterte Linien</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <comment>kso_sLineLongDash</comment>
-        <translation type="unfinished">Langer Strich</translation>
+        <translation>Langer Strich</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation type="unfinished">Langer Strich-Punkt</translation>
+        <translation>Langer Strichpunkt</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -8859,27 +8866,27 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Load on Demand</source>
         <comment>kso_sLoadOnDemand</comment>
-        <translation type="unfinished">Bei Bedarf laden</translation>
+        <translation>Bedarfsgesteuert laden</translation>
     </message>
     <message>
         <source>Load at Startup</source>
         <comment>kso_sLoadOnStartup</comment>
-        <translation type="unfinished">Beim Systemstart laden</translation>
+        <translation>Beim Starten laden</translation>
     </message>
     <message>
         <source>&amp;Lum:</source>
         <comment>kso_sLum</comment>
-        <translation type="unfinished">&amp;Intensität:</translation>
+        <translation>&amp;Leuchte:</translation>
     </message>
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation type="unfinished"></translation>
+        <translation>Falsche Eingabe. Das Programm wird beendet.</translation>
     </message>
     <message>
         <source>MB</source>
         <comment>kso_sMByte</comment>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
@@ -8944,7 +8951,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&quot;%s&quot; has no icon.</source>
         <comment>kso_sNoIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; hat kein Symbol.</translation>
     </message>
     <message>
         <source>No Line</source>
@@ -8959,7 +8966,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>(normal text)</source>
         <comment>kso_sNormalText</comment>
-        <translation type="unfinished">(normaler Text)</translation>
+        <translation>(normaler Text)</translation>
     </message>
     <message>
         <source>NUM</source>
@@ -8979,12 +8986,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&amp;Next</source>
         <comment>kso_sOKCaption</comment>
-        <translation type="unfinished">&amp;Nächste</translation>
+        <translation>&amp;Nächste</translation>
     </message>
     <message>
         <source>All Files (*.*) | *.*</source>
         <comment>kso_sOpenfilter</comment>
-        <translation type="unfinished">Alle Dateien (*.*) | *.*</translation>
+        <translation>Alle Dateien (*.*) | *.*</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
@@ -9019,7 +9026,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sPasteLink</comment>
-        <translation type="unfinished">Bei Einfügen als Hyperlink wird Shortcut zur Quelldatei erstellt. Änderungen an der Quelldatei werden in Ihrem Dokument angzeigt.</translation>
+        <translation>Beim Einfügen des Hyperlinks wird eine Verknüpfung zur Quelldatei erstellt. Änderungen an der Quelldatei werden in Ihrem Dokument angzeigt.</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -9039,7 +9046,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>%</source>
         <comment>kso_sPrecentUnitDefine</comment>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Previous Slide</source>
@@ -9049,7 +9056,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Initializing the printer...</source>
         <comment>kso_sPrinterIniting</comment>
-        <translation type="unfinished">Drucker wird initialisiert...</translation>
+        <translation>Drucker wird initialisiert...</translation>
     </message>
     <message>
         <source>Printing %d page of %d</source>
@@ -9064,7 +9071,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&amp;Red:</source>
         <comment>kso_sRed</comment>
-        <translation type="unfinished">&amp;Rot:</translation>
+        <translation>&amp;Rot:</translation>
     </message>
     <message>
         <source>Refercence is not valid.</source>
@@ -9074,22 +9081,22 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Are you sure you have saved these files you need?</source>
         <comment>kso_sRemoveAllWarning</comment>
-        <translation type="unfinished">dass Sie die benötigten Dateien gespeichert haben?</translation>
+        <translation>Stellen Sie sicher, dass Sie die benötigten Dateien gespeichert haben?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
         <comment>kso_sResetSymbolbar</comment>
-        <translation type="unfinished">dass Sie die Symbolleiste zurücksetzen möchten?</translation>
+        <translation>Stellen Sie sicher, dass Sie die Symbolleiste zurücksetzen möchten?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; toolbar?</source>
         <comment>kso_sResetToolbar</comment>
-        <translation type="unfinished">dass Sie die &apos;%s&apos; Symbolleiste zurücksetzen möchten?</translation>
+        <translation>Stellen Sie sicher, dass Sie die Symbolleiste &apos;%s&apos; zurücksetzen möchten?</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
         <comment>kso_sSat</comment>
-        <translation type="unfinished">&amp;Sättigung:</translation>
+        <translation>&amp;Sättigung:</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -9099,7 +9106,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
         <comment>kso_sSaveTxtWaring</comment>
-        <translation type="unfinished"></translation>
+        <translation>Warnung: Das Speichern als Textdatei führt zum Verlust aller Formatierungen, Bilder und Objekte in Ihrer Datei.</translation>
     </message>
     <message>
         <source>SCRL</source>
@@ -9109,7 +9116,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>---Search Selection---</source>
         <comment>kso_sSearchSelectiveContents</comment>
-        <translation type="unfinished">---Auswahl Suche---</translation>
+        <translation>---Auswahl der Suche---</translation>
     </message>
     <message>
         <source>sec</source>
@@ -9134,12 +9141,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Fro&amp;m center</source>
         <comment>kso_sShadFromCenter</comment>
-        <translation type="unfinished">Au&amp;s Zentrum</translation>
+        <translation>Au&amp;s Zentrum</translation>
     </message>
     <message>
         <source>Fro&amp;m title</source>
         <comment>kso_sShadFromtitle</comment>
-        <translation type="unfinished">Au&amp;s Titel</translation>
+        <translation>Au&amp;s Titel</translation>
     </message>
     <message>
         <source>Shadow Style %d</source>
@@ -9159,7 +9166,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>(Show All)</source>
         <comment>kso_sShowAll</comment>
-        <translation type="unfinished">(Alle anzeigen)</translation>
+        <translation>(Alle anzeigen)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
@@ -9194,12 +9201,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Busy</source>
         <comment>kso_sStatusBusy</comment>
-        <translation type="unfinished">Ausgelastet</translation>
+        <translation>Beschäftigt</translation>
     </message>
     <message>
         <source>DoorOpen</source>
         <comment>kso_sStatusDoorOpen</comment>
-        <translation type="unfinished">TürÖffnen</translation>
+        <translation>TürÖffnen</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -9224,42 +9231,42 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Copyright</source>
         <comment>kso_sSymbolCopyright</comment>
-        <translation type="unfinished">Copyright</translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
         <comment>kso_sSymbolDoubleClosingQuote</comment>
-        <translation type="unfinished">Doopelte Abführungszeichen</translation>
+        <translation>Doppeltes schließendes Anführungszeichen</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
         <comment>kso_sSymbolDoubleOpeningQuote</comment>
-        <translation type="unfinished">Doppelte Anführungszeichen</translation>
+        <translation>Doppeltes öffnendes Anführungszeichen</translation>
     </message>
     <message>
         <source>Ellipsis</source>
         <comment>kso_sSymbolEllipsis</comment>
-        <translation type="unfinished">Ellipse</translation>
+        <translation>Ellipse</translation>
     </message>
     <message>
         <source>Em Dash</source>
         <comment>kso_sSymbolEmDash</comment>
-        <translation type="unfinished">Geviertstrich</translation>
+        <translation>Geviertstrich</translation>
     </message>
     <message>
         <source>Em Space</source>
         <comment>kso_sSymbolEmSpace</comment>
-        <translation type="unfinished">Geviert-Leerzeichen</translation>
+        <translation>Em-Abstand</translation>
     </message>
     <message>
         <source>En Dash</source>
         <comment>kso_sSymbolEnDash</comment>
-        <translation type="unfinished">Halbgeviertstrich</translation>
+        <translation>Gedankenstrich</translation>
     </message>
     <message>
         <source>En Space</source>
         <comment>kso_sSymbolEnSpace</comment>
-        <translation type="unfinished">Halbgeviert-Leerzeichen</translation>
+        <translation>En-Abstand</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
@@ -9359,32 +9366,35 @@ For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your WPS Passport&quot;. If you have not registered a WPS Passport, please click the&quot;Register WPS Passport&quot; first;
 2. Click the &quot;WPS Passport&quot; under &quot;Help&quot; menu.</source>
         <comment>kso_sTrialNotification</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vielen Dank für Ihre Verwendung an die Serienprodukte von WPS-Office.
+Sie haben die Testversion von WPS-Office-Persönlich-2005 installiert. Aktualiesieren Sie die Testversion zur Standardversion für den besseren Service durch:
+1.Klicken Sie auf&quot; Ihr WPS-Kennwort Überprüfen&quot;. Wenn Sie kein registriertes WPS-Kennwort haben. klicken Sie zuerst auf &quot;WPS-Kennwort registrieren&quot;;
+2.Klicken Sie auf &quot;WPS-Kennwort&quot; unter dem Menü &quot;Hilfe&quot;.</translation>
     </message>
     <message>
         <source>(Trial)</source>
         <comment>kso_sTrialVersion</comment>
-        <translation type="unfinished">(Probierversion)</translation>
+        <translation>(Testversion)</translation>
     </message>
     <message>
         <source>&lt;List of Toolbars&gt;</source>
         <comment>kso_sTTBControlItemCaption</comment>
-        <translation type="unfinished">&lt;Liste der Symbolleisten&gt;</translation>
+        <translation>&lt;Liste der Symbolleisten&gt;</translation>
     </message>
     <message>
         <source>&lt;More Control&gt;</source>
         <comment>kso_sTTBXCustomizeItemCaption</comment>
-        <translation type="unfinished">&lt;Mehr Steuerungen&gt;</translation>
+        <translation>&lt;Mehr Steuerelement&gt;</translation>
     </message>
     <message>
         <source>&lt;List of Current Windows&gt;</source>
         <comment>kso_sTTBXMDIWindowItemCaption</comment>
-        <translation type="unfinished">&lt;Liste der aktuellen Fenster&gt;</translation>
+        <translation>&lt;Liste der aktuellen Fenster&gt;</translation>
     </message>
     <message>
         <source>&lt;Dynamic List&gt;</source>
         <comment>kso_sTTBXMRUListItemCaption</comment>
-        <translation type="unfinished">&lt;Dynamische Liste&gt;</translation>
+        <translation>&lt;Dynamische Liste&gt;</translation>
     </message>
     <message>
         <source>Basic Latin;Latin-1 Supplement;Latin Extended-A;Latin Extended-B;IPA Extensions;Spacing Modifier Letters;Combining Diacritical Marks;Basic Greek;Cyrillic;Armenian;Basic Hebrew;Basic Arabic;Devanagari;</source>
@@ -9399,22 +9409,22 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Currency Symbols;Combining Diacritical Marks for Symbols;Letter-like Symbols;Number Forms;Arrows;Mathematical Operators;Miscellaneous Technical;Control Pictures;Optical Character Recognition;</source>
         <comment>kso_sUnicodeSubsetList3</comment>
-        <translation type="unfinished">Währungssymbole;Kombinierte Diakritische Zeichen für Symbole;Buchstabensymbole;Zahlensymbole;Pfeilsymbole;Mathematische Operatoren;Verschiedene Technische Zeichen;Kontrollaufnahmen;Optische Zeichenerkennung;</translation>
+        <translation>Währungssymbole;Kombinierte diakritische Zeichen für Symbole;Buchstabenähnliche Symbole;Zahlenformen;Pfeile;Mathematische Operatoren;Verschiedene technische Sonderzeichen;Steuerungssymbole;Optische Zeichenerkennung;</translation>
     </message>
     <message>
         <source>Enclosed Alphanumerics;Box Drawing;Block Elements;Geometric Shapes;Miscellaneous Symbols;Dingbats;CJK Symbols and Punctuation;Hiragana;Katakana;Bopomofo;Extended Bopomofo;Hangul Compatibility Jamo;</source>
         <comment>kso_sUnicodeSubsetList4</comment>
-        <translation type="unfinished">Alphanumerische Zeichen;Rahmenzeichen;Blockelemente;Geometrische Formen;Verschiedene Symbole;Dingbats;CJK Symbole und Interpunktion;Hiragana;Katakana;Bopomofo;Erweitertes Bopomofo;Hangul Kompatiblität Jamo;</translation>
+        <translation>Eingebettete alphanumerische Zeichen;Linienzeichen;Blockgrafikzeichen;Geometrische Formen;Verschiedene Symbole;Graphische Symbole;CJK-Symbole und -Zeichen;Hiragana;Katakana;Bopomofo;Erweitertes Bopomofo;Hangul Jamo (kompatibel);</translation>
     </message>
     <message>
         <source>CJK Miscellaneous;Enclosed CJK Letters and Months;CJK Compatibility;Hangul;Surrogates;CJK Unified Ideographs;CJK Radicals Supplement;Kangxi Radicals;Ideographic Description;</source>
         <comment>kso_sUnicodeSubsetList5</comment>
-        <translation type="unfinished">CJK Verschiedene;CJK Buchstaben und Monate;CJK Kompatibilität;Hangul;Ersatzzeichen;CJK Einheitliche Schriftzeichen;CJK Wortstämme Ergänzung;Kangxi Wortstämme;Schriftzeichen Beschreibung;</translation>
+        <translation>Verschiedene CJK;Eingeschlossene CJK-Buchstaben und -Monate;CJK Kompatibilität;Hangul;Surrogates;CJK - Ideogramme (vereinheitlicht);Zusätzliche CJK-Radikale;Kangxi-Radikale;Ideografische Beschreibungszeichen;</translation>
     </message>
     <message>
         <source>CJK Unified Ideograph Extension A;Private Use Area;CJK Compatibility Ideographs;Alphabetic Presentation Forms;Arabic Presentation Forms-A;Combining Half Marks;CJK Compatibility Forms;</source>
         <comment>kso_sUnicodeSubsetList6</comment>
-        <translation type="unfinished">CJK Einheitliche Schriftzeichen Erweiterung A;Bereich Private Anwendung;CJK Kompatible Schriftzeichen;Alphabetische Präsentationsformen;Arabische Präsentationsformen-A;Kombinierende Zwischennoten;CJK Kompatibilitätsformen;</translation>
+        <translation>CJK - Ideogramme (vereinheitlicht) - Erweiterung A;Bereich für privaten Gebrauch;CJK - Ideogramme (kompatibel);Zeichen zur alphabetischen Darstellung;Zeichen zur arabischen Darstellung-A;Kombinierende halbe diakritische Zeichen;CJK-Formen (kompatibel);</translation>
     </message>
     <message>
         <source>Small Form Variants;Arabic Presentation Forms-B;Halfwidth and Fullwidth Forms;Specials;Tibetan;Syriac;Thaana;Sinhala;Myanmar;Ethiopic;Cherokee;Canadian Aboriginal Syllabics;Ogham;Runic;Khmer;</source>
@@ -9444,7 +9454,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>%s is illegal floating value.</source>
         <comment>kso_sValueDeclined_FloatWarning</comment>
-        <translation type="unfinished">%s ist ein unzulässiger Gleitkommawert.</translation>
+        <translation>%s ist eine ungültige Gleitkommazahl.</translation>
     </message>
     <message>
         <source>Value should be between %d and %d.</source>
@@ -9464,42 +9474,42 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>%d is illegal value.</source>
         <comment>kso_sValueDeclined_IntWarning</comment>
-        <translation type="unfinished">%d ist ein unzulässiger Wert.</translation>
+        <translation>%d ist ein unzulässiger Wert.</translation>
     </message>
     <message>
         <source>The &quot;%s&quot; you entered is not valid.</source>
         <comment>kso_sValueTextDeclined_IntWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Eingabe &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
         <comment>kso_sWASArchDownCurve</comment>
-        <translation type="unfinished">Bogen nach unten (Kurve)</translation>
+        <translation>Bogen nach unten (Kontur)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
         <comment>kso_sWASArchDownPour</comment>
-        <translation type="unfinished">Bogen nach unten (Pour)</translation>
+        <translation>Bogen nach unten (gefüllt)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
         <comment>kso_sWASArchUpCurve</comment>
-        <translation type="unfinished">Bogen nach oben (Kurve)</translation>
+        <translation>Bogen nach oben (Kontur)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
         <comment>kso_sWASArchUpPour</comment>
-        <translation type="unfinished">Bogen nach oben (Pour)</translation>
+        <translation>Bogen nach oben (gefüllt)</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
         <comment>kso_sWASBottomCurve</comment>
-        <translation type="unfinished">Tiefstand (Kurve)</translation>
+        <translation>Schaltfläche (Kontur)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
         <comment>kso_sWASBottomPour</comment>
-        <translation type="unfinished">Tiefstand (Pour)</translation>
+        <translation>Schaltfläche (gefüllt)</translation>
     </message>
     <message>
         <source>Can Down</source>
@@ -9514,112 +9524,112 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Cascade Down</source>
         <comment>kso_sWASCascadeDown</comment>
-        <translation type="unfinished">Kaskade nach unten</translation>
+        <translation>Überlappend nach unten</translation>
     </message>
     <message>
         <source>Cascade Up</source>
         <comment>kso_sWASCascadeUp</comment>
-        <translation type="unfinished">Kaskade nach oben</translation>
+        <translation>Überlappend nach oben</translation>
     </message>
     <message>
         <source>Chevron Down</source>
         <comment>kso_sWASChevronDown</comment>
-        <translation type="unfinished">Chevron nach unten</translation>
+        <translation>Chevron nach unten</translation>
     </message>
     <message>
         <source>Chevron Up</source>
         <comment>kso_sWASChevronUp</comment>
-        <translation type="unfinished">Chevron nach oben</translation>
+        <translation>Chevron nach oben</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
         <comment>kso_sWASCircleCurve</comment>
-        <translation type="unfinished">Kreis (Kurve)</translation>
+        <translation>Kreis (Kontur)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
         <comment>kso_sWASCirclePour</comment>
-        <translation type="unfinished">Kreis (Pour)</translation>
+        <translation>Kreis (gefüllt)</translation>
     </message>
     <message>
         <source>Curve Down</source>
         <comment>kso_sWASCurveDown</comment>
-        <translation type="unfinished">Kurve nach unten</translation>
+        <translation>Kurve nach unten</translation>
     </message>
     <message>
         <source>Curve Up</source>
         <comment>kso_sWASCurveUp</comment>
-        <translation type="unfinished">Kurve nach oben</translation>
+        <translation>Kurve nach oben</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
         <comment>kso_sWASDefInfDef</comment>
-        <translation type="unfinished">Verkleinern Vergrößern Verkleinern</translation>
+        <translation>Verkleinern-Vergrößern-Verkleinern</translation>
     </message>
     <message>
         <source>Deflate</source>
         <comment>kso_sWASDeflate</comment>
-        <translation type="unfinished">Verkleinern</translation>
+        <translation>Verkleinern</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
         <comment>kso_sWASDeflateBottom</comment>
-        <translation type="unfinished">Verkleinern nach unten</translation>
+        <translation>Nach unten verkleinern</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
         <comment>kso_sWASDeflateInflate</comment>
-        <translation type="unfinished">Verkleinern Vergrößern</translation>
+        <translation>Verkleinern-Vergrößern</translation>
     </message>
     <message>
         <source>Deflate Top</source>
         <comment>kso_sWASDeflateTop</comment>
-        <translation type="unfinished">Verkleinern nach oben</translation>
+        <translation>Nach oben verkleinern</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
         <comment>kso_sWASDoubleWave1</comment>
-        <translation type="unfinished">Doppelte Welle 1</translation>
+        <translation>Doppelte Welle 1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
         <comment>kso_sWASDoubleWave2</comment>
-        <translation type="unfinished">Doppelte Welle 2</translation>
+        <translation>Doppelte Welle 2</translation>
     </message>
     <message>
         <source>Fade Down</source>
         <comment>kso_sWASFadeDown</comment>
-        <translation type="unfinished">Verblassen nach unten</translation>
+        <translation>Nach unten verblassen</translation>
     </message>
     <message>
         <source>Fade Left</source>
         <comment>kso_sWASFadeLeft</comment>
-        <translation type="unfinished">Verblassen nach links</translation>
+        <translation>Nach links verblassen</translation>
     </message>
     <message>
         <source>Fade Right</source>
         <comment>kso_sWASFadeRight</comment>
-        <translation type="unfinished">Verblassen nach rechts</translation>
+        <translation>Nach rechts verblassen</translation>
     </message>
     <message>
         <source>Fade Up</source>
         <comment>kso_sWASFadeUp</comment>
-        <translation type="unfinished">Verblassen nach oben</translation>
+        <translation>Nach oben verblassen</translation>
     </message>
     <message>
         <source>Inflate</source>
         <comment>kso_sWASInflate</comment>
-        <translation type="unfinished">Vergrößern</translation>
+        <translation>Vergrößern</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
         <comment>kso_sWASInflateBottom</comment>
-        <translation type="unfinished">Vergrößern nach unten</translation>
+        <translation>Nach unten vergrößern</translation>
     </message>
     <message>
         <source>Inflate Top</source>
         <comment>kso_sWASInflateTop</comment>
-        <translation type="unfinished">Vergrößern nach oben</translation>
+        <translation>Nach oben vergrößern</translation>
     </message>
     <message>
         <source>Plain Text</source>
@@ -9694,92 +9704,92 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Blank Presentation</source>
         <comment>kso_sWppBlankTemplate</comment>
-        <translation type="unfinished">Leere Präsentation</translation>
+        <translation>Leere Präsentation</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Presentations and Shows(*.dps;*.ppt)|*.dps;*.ppt</source>
         <comment>kso_sWppFileFilter</comment>
-        <translation type="unfinished">Alle Dateien(*.*)|*.*|Präsentationen und Shows(*.dps;*.ppt)|*.dps;*.ppt</translation>
+        <translation>Alle Dateien(*.*)|*.*|Präsentationen und Shows(*.dps;*.ppt)|*.dps;*.ppt</translation>
     </message>
     <message>
         <source>WPS Presentation cannot access %s, the file name is invalid.</source>
         <comment>kso_sWppFileNameNoEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zugriff von WPS-Präsentation auf %s fehlgeschlagen. Der Dateiname ist ungültig.</translation>
     </message>
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
         <comment>kso_sWppInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt den Inhalt der Datei als Objekt in Ihre Präsentation ein, sodass Sie es mit der Quellanwendung aktivieren können. Das Objekt wird als Symbol angezeigt.</translation>
     </message>
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
         <comment>kso_sWppInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt den Inhalt der Datei als Objekt in Ihre Präsentation ein, sodass Sie es mit der Quellanwendung aktivieren können.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your presentation.</source>
         <comment>kso_sWppInsertObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein neues Objekt %s in Ihre Präsentation ein.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your presentation. It will be displayed as an icon.</source>
         <comment>kso_sWppInsertObjectIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein neues Objekt %s in Ihre Präsentation ein. Es wird als Symbol angezeigt.</translation>
     </message>
     <message>
         <source>Insert an icon into your presentation which represents the file. The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <comment>kso_sWppLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein Symbol zur Darstellung der Datei in Ihre Präsentation ein. Das Symbol stellt eine Verknüpfung mit der Datei dar, damit Änderungen an der Datei direkt in Ihre Präsentation übernommen werden.</translation>
     </message>
     <message>
         <source>Insert a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <comment>kso_sWppLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Bild stellt eine Verknüpfung mit der Datei dar, damit Änderungen an der Datei direkt in Ihre Präsentation übernommen werden. </translation>
     </message>
     <message>
         <source>Blank Document</source>
         <comment>kso_sWpsBlankTemplate</comment>
-        <translation type="unfinished">Leeres Dokument</translation>
+        <translation>Leeres Dokument</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
         <comment>kso_sWpsFileFilter</comment>
-        <translation type="unfinished">Alle Dateien(*.*)|*.*</translation>
+        <translation>Alle Dateien(*.*)|*.*</translation>
     </message>
     <message>
         <source>WPS Writer cannot access %s, the file name is invalid.</source>
         <comment>kso_sWpsFileNameNoEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zugriff von WPS-Writer auf %s fehlgeschlagen. Der Dateiname ist ungültig.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
         <comment>kso_sWpsInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein Symbol zu den Inhalten der Datei in Ihr Dokument ein.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
         <comment>kso_sWpsInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt den Inhalt der Datei in das Dokument ein, sodass eine spätere Bearbeitung in der Ursprungsanwendung erfolgen kann.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
         <comment>kso_sWpsInsertObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein neues Objekt %s in Ihr Dokument ein.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document as an icon.</source>
         <comment>kso_sWpsInsertObjectIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein neues Objekt %s als ein Symbol in Ihr Dokument ein.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt ein Symbol zu den Inhalten der Datei in Ihr Dokument ein. Änderungen in der Quelldatei werden in Ihr Dokument übernommen.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt die Inhalte der Datei in Ihr Dokument ein und erstellt eine Verknüpfung zur Quelldatei. Änderungen in der Quelldatei werden in Ihr Dokument übernommen.</translation>
     </message>
     <message>
         <source>Zigzag</source>
@@ -9789,17 +9799,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>%s Properties</source>
         <comment>kso_sDlgPropertyCaption</comment>
-        <translation type="unfinished">%s Eigenschaften</translation>
+        <translation>%s Eigenschaften</translation>
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <comment>kso_sEtDefFontSizeItems</comment>
-        <translation type="unfinished">6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
         <comment>kso_sWppDefFontSizeItems</comment>
-        <translation type="unfinished">8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
+        <translation>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
     </message>
     <message>
         <source>Unknown picture file extension (.%s)</source>
@@ -9809,37 +9819,37 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>The size of the custom dictionary cannot be bigger than 10M.</source>
         <comment>kso_sDictBiggerError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Größe des Benutzerwörterbuchs kann nicht größer als 10M.</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; command?</source>
         <comment>kso_sResetCommand</comment>
-        <translation type="unfinished">Möchten Sie den Befehl &apos;%s&apos; wirklich zurücksetzen?</translation>
+        <translation>Möchten Sie den Befehl &apos;%s&apos; wirklich zurücksetzen?</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>PivotTable kann nicht in einem neuen Blatt erstellt werden, weil die Arbeitsmappe geschützt ist. Wählen Sie eine vorhandene Arbeitsmappe aus oder heben Sie den Schutz auf.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting.</source>
         <comment>kso_sNoPasswordInput</comment>
-        <translation type="unfinished">Bitte Passwort für Berechtigungseinstellungen eingeben!</translation>
+        <translation>Bitte Passwort für Berechtigungseinstellungen eingeben.</translation>
     </message>
     <message>
         <source>---Translate Selection---</source>
         <comment>kso_sTranslateSelectiveContents</comment>
-        <translation type="unfinished">---Auswahl Übersetzung---</translation>
+        <translation>---Auswahl der Übersetzung---</translation>
     </message>
     <message>
         <source>Back</source>
         <comment>kso_Nav_Back</comment>
-        <translation type="unfinished">Zurück</translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <source>Forword</source>
         <comment>kso_Nav_Forword</comment>
-        <translation type="unfinished">Vorwärts</translation>
+        <translation>Vorwärts</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -9854,7 +9864,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Close</source>
         <comment>kso_Nav_Close</comment>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Open</source>
@@ -9869,27 +9879,27 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font. Do you want to use it anyway?</source>
         <comment>kso_sFontNotExists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Schriftart aus Ihrem System. Der Text wird in einer Ersatzschriftart angezeigt. Möchten Sie die Schriftart trotzdem benutzen?</translation>
     </message>
     <message>
         <source>Embed in File</source>
         <comment>kso_sEmbedTitle</comment>
-        <translation type="unfinished">In Datei einbinden</translation>
+        <translation>In Datei eingebettet</translation>
     </message>
     <message>
         <source>Educational material</source>
         <comment>kso_sEducationShapes_Cation</comment>
-        <translation type="unfinished">Lehrmaterial</translation>
+        <translation>Unterrichtsmaterial</translation>
     </message>
     <message>
         <source>Educational material</source>
         <comment>kso_sEducationShapes_DisplaName</comment>
-        <translation type="unfinished">Lehrmaterial</translation>
+        <translation>Unterrichtsmaterial</translation>
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
         <comment>kso_SaveChangeMsg</comment>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die Änderungen an &quot;%s&quot; speichern?</translation>
     </message>
     <message>
         <source>Unknown object</source>
@@ -9899,17 +9909,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>English (United States)</source>
         <comment>kso_s1033</comment>
-        <translation type="unfinished">Englisch (Vereinigte Staaten)</translation>
+        <translation>Englisch (Vereinigte Staaten)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
         <comment>kso_s2052</comment>
-        <translation type="unfinished">Chinesisch (Volksrepublik China)</translation>
+        <translation>Chinesisch (V.R.China)</translation>
     </message>
     <message>
         <source>Japanese (Japan)</source>
         <comment>kso_s1041</comment>
-        <translation type="unfinished">Japanisch (Japan)</translation>
+        <translation>Japanisch (Japan)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -9919,7 +9929,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
         <comment>kso_sInsertPictureDlgFilter</comment>
-        <translation type="unfinished">Alle Bilder(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
+        <translation>Alle Grafiken(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
@@ -9929,65 +9939,71 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Chinese (Taiwan)</source>
         <comment>kso_s1028</comment>
-        <translation type="unfinished">Chinesisch (Taiwan)</translation>
+        <translation>Chinesisch (Taiwan)</translation>
     </message>
     <message>
         <source>Feedback</source>
         <comment>kso_sFeedBackMenuItemCaption</comment>
-        <translation type="unfinished">Feedback</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Organization Chart
 Used to show hierarchical relationships</source>
         <comment>kso_sOrganizationChart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramm
+Zeigt hierarchische Beziehungen an</translation>
     </message>
     <message>
         <source>Cycle Diagram
 Used to show a process with a continuous 
 cycle</source>
         <comment>kso_sCycleDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zyklusdiagramm
+Wird verwendet, um Prozessfluss darzustellen </translation>
     </message>
     <message>
         <source>Radial Diagram
 Used to show relationships of core elements</source>
         <comment>kso_sRadialDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Radialdiagramm
+Wird verwendet, um Beziehungen der Kernelemente darzustellen</translation>
     </message>
     <message>
         <source>Pyramid diagram
 Used to show foundation-based relationships</source>
         <comment>kso_sPyramidDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pyramidendiagramm
+Wird verwendet, um konstruktive Beziehungen darzustellen</translation>
     </message>
     <message>
         <source>Venn diagram
 Used to show areas of overlap between 
 elements</source>
         <comment>kso_VennDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Venn-Diagramm
+Wird verwendet zum Anzeigen von Überlappungsbereichen zwischen Elementen</translation>
     </message>
     <message>
         <source>Target Diagram
 Used to show steps toward a goal</source>
         <comment>kso_sTargetDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zieldiagramm
+Wird verwendet zum Anzeigen von zielorientierten Schritten</translation>
     </message>
     <message>
         <source>- (Hyphen)</source>
         <comment>kso_sSeparatorHyphen</comment>
-        <translation type="unfinished">- (Bindestrich)</translation>
+        <translation>- (Bindestrich)</translation>
     </message>
     <message>
         <source>. (Period)</source>
         <comment>kso_sSeparatorPeriod</comment>
-        <translation type="unfinished">. (Periode)</translation>
+        <translation>. (Punkt)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
         <comment>kso_sSeparatorColon</comment>
-        <translation type="unfinished">: (Doppelpunkt)</translation>
+        <translation>: (Doppelpunkt)</translation>
     </message>
     <message>
         <source>— (EmDash)</source>
@@ -10002,7 +10018,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
         <comment>kso_BeforCloseWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sie werden %d Tabstopps schließen. Möchten Sie den Vorgang wirklich fortsetzen?</translation>
     </message>
     <message>
         <source>The previous tab</source>
@@ -10027,42 +10043,42 @@ Used to show steps toward a goal</source>
     <message>
         <source>Document tab</source>
         <comment>kso_sDocumentTab</comment>
-        <translation type="unfinished">Dokument Registerkarte</translation>
+        <translation>Dokumentregisterkarte</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
         <comment>kso_sWpsIsDefaultOfficeSoftware</comment>
-        <translation type="unfinished">%s ist momentan nicht das Standard-Office-Programm.</translation>
+        <translation>%s ist momentan das Standard-Office-Programm.</translation>
     </message>
     <message>
         <source>%s is not the current default office software. Are you sure you want to set %s as the default office software?</source>
         <comment>kso_sWpsIsNotDefaultOfficeSoftware</comment>
-        <translation type="unfinished">%s ist momentan nicht das Standard-Office-Programm. Möchten Sie %s als Standard-Office-Programm festlegen?</translation>
+        <translation>%s ist momentan nicht das Standard-Office-Programm. Möchten Sie %s als Standard-Office-Programm festlegen?</translation>
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
         <comment>kso_sVerifyOnline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Seriennummer wird überprüft. Seien Sie bitte geduldig...</translation>
     </message>
     <message>
         <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
         <comment>kso_sFailToSendMail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen beim Email-Kunde fehlgeschlagen. Schicken Sie bitte eine Email an %s, um die Information zu berichten.</translation>
     </message>
     <message>
         <source>The installation or update patches are running, %s will exit, please run %s again after the completion of installation or updating.</source>
         <comment>kso_sInstallPackageRunning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Patches von Installation oder Update werden ausgeführt. %s wird beendet. Führen Sie %s nach dem Abschluss der Installation oder des Upgrades erneut aus.</translation>
     </message>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei kann nicht gelöscht. Sie ist vielleicht belegt.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einige Dateien können nicht gelöscht werden. Sie sind vielleicht belegt.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>
@@ -10072,7 +10088,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>
         <comment>sHaveNewUpdatePatchTip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die neuesten Updates sind bereitheruntergeladen. Möchten Sie sie jetzt installieren?</translation>
     </message>
     <message>
         <source>Part of %s</source>
@@ -10082,12 +10098,12 @@ Used to show steps toward a goal</source>
     <message>
         <source>Custom CommandBar %ld</source>
         <comment>kso_Custom_CommandBar_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Befehlsleiste %d</translation>
     </message>
     <message>
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
         <comment>kso_COM_Addins_Crash_Alerts</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 hat ein Problem mit dem Add-In %2. Wenn sich dies wiederholt, deaktivieren Sie dieses Add-In, und überprüfen Sie, ob ein Update verfügbar ist. Möchten Sie das Add-In jetzt deaktivieren?</translation>
     </message>
     <message>
         <source>3D Style %d</source>

@@ -671,6 +671,10 @@
         <translation>Insérer une image clipart</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translatorcomment>View-&gt;Toolbars-&gt;Drawing tools</translatorcomment>
         <translation>Insérer une image</translation>
@@ -679,10 +683,6 @@
         <source>Insert WordArt</source>
         <translatorcomment>View-&gt;Toolbars-&gt;Drawing tools</translatorcomment>
         <translation>Insérer un objet WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -745,7 +745,7 @@
         <translation>Déplacer</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1708,10 +1708,6 @@ de diapositive</translation>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translatorcomment>View-&gt;Toolbars-&gt;Standard</translatorcomment>
@@ -3165,8 +3161,12 @@ On</source>
         <translation>Commentaires et informations relatives au produit</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">Commentaires par courrier électronique</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4243,6 +4243,10 @@ pied de page</translation>
         <translation>Insérer un lien hypertexte</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Organization Chart</source>
         <translation>Insérer un organigramme</translation>
     </message>
@@ -4257,10 +4261,6 @@ pied de page</translation>
     <message>
         <source>Insert WordArt</source>
         <translation>Insérer un objet WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -4288,7 +4288,7 @@ pied de page</translation>
         <translation>Objet</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7289,7 +7289,7 @@ WordArt</translation>
         <translation>Aidez-nous à améliorer WPS Office</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7325,7 +7325,7 @@ WordArt</translation>
         <translation>Documents en ligne</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7354,7 +7354,7 @@ WordArt</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7808,8 +7808,12 @@ Add-Ins</source>
         <translation>Exporter vers le package</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -7852,10 +7856,6 @@ Add-Ins</source>
     <message>
         <source>Go to Slide</source>
         <translation>Aller à</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -7926,16 +7926,16 @@ Add-Ins</source>
         <translation>Insérer des colonnes à droite</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Rows Above</source>
         <translation>Insérer des lignes au-dessus</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
         <translation>Insérer des lignes en dessous</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -8072,7 +8072,7 @@ masque de diapositive</translation>
         <translation>Liste du menu Objet</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8269,6 +8269,10 @@ masque de diapositive</translation>
     <message>
         <source>Screen</source>
         <translation>Écran</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -8531,10 +8535,6 @@ masque de diapositive</translation>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translatorcomment>Drop-down menu-&gt;Tools</translatorcomment>
@@ -9290,8 +9290,12 @@ masque de diapositive</translation>
         <translation>Commentaires et informations relatives au produit</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -10850,12 +10854,12 @@ subordonné</translation>
         <translation type="obsolete">Insérer une image clipart</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>Insérer une image</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>Insérer une image</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -10918,7 +10922,7 @@ subordonné</translation>
         <translation>Déplacer l&apos;ombre vers le haut</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12493,7 +12497,7 @@ d&apos;ombre</translation>
         <translation>Aidez-nous à améliorer WPS Office</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12529,7 +12533,7 @@ d&apos;ombre</translation>
         <translation>Documents en ligne</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12557,7 +12561,7 @@ d&apos;ombre</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12613,7 +12617,7 @@ des utilisateurs</translation>
         <translation>File Roaming</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12621,7 +12625,7 @@ des utilisateurs</translation>
         <translation>Sauvegarde manuelle</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -2152,12 +2152,12 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>DialogFrame</source>
         <comment>Dialog Caption</comment>
-        <translation>对话框标题</translation>
+        <translation type="obsolete">对话框标题</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation>[%s]%s:
+        <translation type="obsolete">[%s]%s:
 不能在保护工作表上使用该命令，要取消工作表保护。在“工具”菜单上，指向“保护”，再单击“撤消工作表保护”命令，此后，可能需要输入密码。</translation>
     </message>
     <message>
@@ -2207,7 +2207,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>The data source contains no visible form</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation>数据源中没有包含可见的表格</translation>
+        <translation type="obsolete">数据源中没有包含可见的表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -2557,7 +2557,7 @@ Please try one of the following.
     <message>
         <source>Whether to modify the existing classification?</source>
         <comment>TX_ChangeAutoOutline</comment>
-        <translation>是否修改现有分级？</translation>
+        <translation type="obsolete">是否修改现有分级？</translation>
     </message>
     <message>
         <source>Dialog Title</source>
@@ -2931,12 +2931,12 @@ Please try one of the following.
     <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
-        <translation>当范围具有大纲时无法删除重复项信息。若在删除重复，请清除大纲然后再次执行删除重复操作。</translation>
+        <translation type="obsolete">当范围具有大纲时无法删除重复项信息。若在删除重复，请清除大纲然后再次执行删除重复操作。</translation>
     </message>
     <message>
         <source>No Column has been chosen.</source>
         <comment>TX_RepeatWord_No_Column</comment>
-        <translation>未选择指定列</translation>
+        <translation type="obsolete">未选择指定列</translation>
     </message>
     <message>
         <source>Table_</source>
@@ -3016,32 +3016,32 @@ Do you want Kingsoft Spreadsheets to recalculate all formulas when this workbook
     <message>
         <source>Miss Next function for loop!</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation>遗漏 NEXT。</translation>
+        <translation type="obsolete">遗漏 NEXT。</translation>
     </message>
     <message>
         <source>Miss Loop!</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation>遗漏 Loop。</translation>
+        <translation type="obsolete">遗漏 Loop。</translation>
     </message>
     <message>
         <source>Miss IF function!</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation>遗漏 IF。</translation>
+        <translation type="obsolete">遗漏 IF。</translation>
     </message>
     <message>
         <source>Miss END.IF function!</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation>遗漏 END.IF。</translation>
+        <translation type="obsolete">遗漏 END.IF。</translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet!</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation>宏表内找不到 RETURN() 或者 HALT() 函数。</translation>
+        <translation type="obsolete">宏表内找不到 RETURN() 或者 HALT() 函数。</translation>
     </message>
     <message>
         <source>Illegal reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation>无效的引用参数，位于：</translation>
+        <translation type="obsolete">无效的引用参数，位于：</translation>
     </message>
     <message>
         <source>Macro interrupted at cell:</source>
@@ -3091,6 +3091,26 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
         <translation>遗漏 NEXT。</translation>
+    </message>
+    <message>
+        <source>Missing IF.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing an END.IF function.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3721,7 +3741,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation>映射</translation>
+        <translation type="obsolete">映射</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|Kingsoft Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn||</source>
@@ -3736,7 +3756,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Fail to open xml file. file not exit or syntax error</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation>打开xml数据文件时失败。文件不存在或xml语法错误。</translation>
+        <translation type="obsolete">打开xml数据文件时失败。文件不存在或xml语法错误。</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
@@ -7749,12 +7769,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DIF (Data Interchange File)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation>DIF (数据交换文件)(*.dif)</translation>
+        <translation type="obsolete">DIF (数据交换文件)(*.dif)</translation>
     </message>
     <message>
         <source>DIF Data Interchange File(*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
-        <translation>DIF 数据交换文件(*.dif)</translation>
+        <translation type="obsolete">DIF 数据交换文件(*.dif)</translation>
     </message>
     <message>
         <source>Field</source>
@@ -7794,7 +7814,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
         <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation>WPS表格 2007/2010 模板文件(*.ettx)</translation>
+        <translation type="obsolete">WPS表格 2007/2010 模板文件(*.ettx)</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
@@ -8005,7 +8025,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
-        <translation>所有数据源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+        <translation type="obsolete">所有数据源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
@@ -11943,12 +11963,12 @@ Workbook</source>
     <message>
         <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation>一个注册的COM自动化加载项的ProgID名称，名称放在双引号中。</translation>
+        <translation type="obsolete">一个注册的COM自动化加载项的ProgID名称，名称放在双引号中。</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
-        <translation>运行该加载项的服务器名称，服务器名称放在双引号中。如果加载项在本地运行，请使用空字符串。</translation>
+        <translation type="obsolete">运行该加载项的服务器名称，服务器名称放在双引号中。如果加载项在本地运行，请使用空字符串。</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
@@ -14380,6 +14400,16 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">一个注册 COM 自动化加载项的 ProgID 名称，名称放在双引号中</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">运行该加载项的服务器名称，服务器名称放在双引号中。如果加载项在本地运行，请使用空字符串</translation>
     </message>
 </context>
 <context>

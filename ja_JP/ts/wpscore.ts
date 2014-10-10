@@ -5,28 +5,8 @@
 <context>
     <name>field_parser_index</name>
     <message>
-        <source>Error!Can not find xe.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error!Switch parameter is not specified.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error!Bookmark the page of an invalid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alphabet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Symbol</source>
         <translation type="unfinished">記号と特殊文字の挿入</translation>
-    </message>
-    <message>
-        <source>Error!Switch parameter unrecognizable.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stroke</source>
@@ -34,18 +14,6 @@
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error!Is not a valid character range.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>wps can not update index!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -242,26 +210,6 @@ Try one or more of the following:
         <source>_Top</source>
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
         <translation>文書先頭</translation>
-    </message>
-    <message>
-        <source>Only main text.</source>
-        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! lack of test conditions.</source>
-        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! cannot recognize the condition operation code.</source>
-        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! lack of the second part test condition.</source>
-        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error. Unknown op code for conditional.</source>
@@ -2364,24 +2312,9 @@ Do you want to replace it?</source>
         <translation>（デフォルト）</translation>
     </message>
     <message>
-        <source>no proofing</source>
-        <comment>TxLanguage_NoProofing</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
-        <comment>TxReload_ConfirmDropChanges</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Image</source>
         <comment>_TxBuiltInCaptionLabelImage</comment>
         <translation>図</translation>
-    </message>
-    <message>
-        <source>WPS Make the office more relaxed</source>
-        <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer has reached the beginning of the document.</source>
@@ -2492,14 +2425,6 @@ Do you want to replace it?</source>
         <source>Cannot Load this Add-In.</source>
         <comment>_TxAddin_CannotLoadAddIn</comment>
         <translation>Kingsoft Officeはこのアドインをロードできません。</translation>
-    </message>
-    <message>
-        <source>Document is under protected, can not be merged</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There are one or all documents contain revsions, continue compare or not?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer cannot merge the main document with the data source, because the date record is empty or unmatched with the inquiry.</source>
@@ -4720,7 +4645,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>数値は %d から %d までです。</translation>
+        <translation type="obsolete">数値は %d から %d までです。</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
@@ -5240,6 +5165,11 @@ Cancel:	Return to the dialog.</source>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished">“%s”の検索が完了しました。条件に合う項目は見つかりませんでした。</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6868,11 +6798,6 @@ Check</source>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <comment>TxDesc_DataSource_wpsx</comment>
         <translation>Kingsoft Writer 2007/2010ファイル(*.wpsx)</translation>
-    </message>
-    <message>
-        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <comment>TxDesc_DataSource_wptx</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Normal</source>

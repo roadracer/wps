@@ -96,18 +96,6 @@
 <context>
     <name>field_parser_index</name>
     <message>
-        <source>Symbol</source>
-        <translation type="unfinished">Символ</translation>
-    </message>
-    <message>
-        <source>Stroke</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error. No index entries found.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -124,7 +112,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Symbol</source>
+        <translation type="unfinished">Символ</translation>
+    </message>
+    <message>
         <source>Error. Unknown switch argument.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -504,7 +504,7 @@
     <message>
         <source>Text Box</source>
         <comment>TxTextBox</comment>
-        <translation></translation>
+        <translation>Текстовое поле</translation>
     </message>
 </context>
 <context>
@@ -1390,7 +1390,7 @@ Do you want to replace it?</source>
     <message utf8="true">
         <source>（Asian）</source>
         <comment>TxRevision_Chp_Asian</comment>
-        <translation></translation>
+        <translation> (азиатский）</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2662,17 +2662,13 @@ Do you want to replace it?</source>
         <translation></translation>
     </message>
     <message>
-        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
-        <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Make office work easier</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2691,6 +2687,10 @@ Do you want to replace it?</source>
     <message>
         <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2878,12 +2878,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation>Хотите сохранить изменения в %s?</translation>
+        <translation>Сохранить изменения в %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <comment>_TxDocument_SaveGlobalTempChange</comment>
-        <translation>Внесённые изменения повлияют на общий шаблон %s. Хотите сохранить изменения?</translation>
+        <translation>Внесённые изменения повлияют на общий шаблон %s. Сохранить изменения?</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
@@ -2990,7 +2990,7 @@ Please make sure the file is not locked by another user, or the target disk is n
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
         <comment>_TxDocument_FormatNotCompatible</comment>
-        <translation>%s может содержать форматирование не совместимое с форматом %s. Хотите сохранить документ в этом формате? 
+        <translation>%s может содержать форматирование не совместимое с форматом %s. Сохранить документ в этом формате? 
 
 • Чтобы сохранить в этом формате, нажмите кнопку &quot;Да&quot;. 
 • Чтобы сохранить всё форматирование, нажмите кнопку &quot;Нет&quot;. Затем сохраните копию в формате последней версии WPS Writer.</translation>
@@ -5019,14 +5019,14 @@ Cancel:	Return to the dialog.</source>
         <translation>Нельзя изменять защищённое выделенное содержимое.</translation>
     </message>
     <message>
-        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
-        <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished">Число должно быть в диапазоне между %d и %d.</translation>
+    </message>
+    <message>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6585,6 +6585,11 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table Normal</source>
         <comment>TxTableStyle_TableNormal</comment>
         <translation type="unfinished"></translation>
@@ -6807,11 +6812,6 @@ Check</source>
     <message>
         <source>Table Theme</source>
         <comment>TxTableStyle_TabelTheme</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
-        <comment>TxDesc_DataSource_wptx</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7975,11 +7975,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
-        <translation type="obsolete">Хотите сохранить изменения в %s?</translation>
+        <translation type="obsolete">Cохранить изменения в %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
-        <translation type="obsolete">Внесённые изменения повлияют на общий шаблон %s. Хотите сохранить изменения?</translation>
+        <translation type="obsolete">Внесённые изменения повлияют на общий шаблон %s. Сохранить изменения?</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
@@ -8069,7 +8069,7 @@ Please try one of the following.
 
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest Kingsoft Writer format.</source>
-        <translation type="obsolete">%s может содержать форматирование не совместимое с форматом %s. Хотите сохранить документ в этом формате? 
+        <translation type="obsolete">%s может содержать форматирование не совместимое с форматом %s. Сохранить документ в этом формате? 
 
 • Чтобы сохранить в этом формате, нажмите кнопку &quot;Да&quot;. 
 • Чтобы сохранить всё форматирование, нажмите кнопку &quot;Нет&quot;. Затем сохраните копию в формате последней версии Writer Kingsoft.</translation>

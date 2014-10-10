@@ -5214,88 +5214,16 @@ Example: +4 will move forward four items:</source>
 <context>
     <name>KxDlgMergeCompare</name>
     <message>
-        <source>&amp;CharLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;ReviseDoc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;UseNewDoc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;WordLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blank&amp;Part</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished">取消</translation>
-    </message>
-    <message>
-        <source>CaseChan&amp;ge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comme&amp;nt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CompareOption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DisplayLocation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DisplayRevision</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Field&amp;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FootEn&amp;dNote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertAndDelete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loca&amp;teOriginalDoc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LocateRev&amp;iseDoc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="unfinished">確定</translation>
-    </message>
-    <message>
-        <source>OriginalD&amp;oc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RevisionLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>T&amp;able</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextBo&amp;x</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Character level</source>
@@ -5862,10 +5790,6 @@ Example: +4 will move forward four items:</source>
         <translation>檔案類型(&amp;F):</translation>
     </message>
     <message>
-        <source>&amp;FontPreview Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Highlight</source>
         <translation>醒目提示(&amp;H)</translation>
     </message>
@@ -6067,7 +5991,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation>自動格式設定</translation>
+        <translation type="obsolete">自動格式設定</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6752,7 +6676,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>最近的文件</translation>
+        <translation type="obsolete">最近的文件</translation>
     </message>
     <message>
         <source>Recover options</source>
@@ -7035,10 +6959,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation>pt, 0, 0, 898.75, 1</translation>
     </message>
     <message>
-        <source>Do &amp;Not Auto Compress Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Set default target out&amp;put to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7056,11 +6976,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished">第一次儲存時，建立備份檔案(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Remember My &amp;Choice</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">第一次儲存時，建立備份檔案(&amp;B)</translation>
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
@@ -9973,7 +9889,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Sounds like(English)</source>
-        <translation>類似拼音(英文)</translation>
+        <translation type="obsolete">類似拼音(英文)</translation>
     </message>
     <message>
         <source>Sounds like(Japanese)</source>
@@ -10780,55 +10696,11 @@ This change will affect all the new documents based on the %1 template.</source>
 <context>
     <name>KxMergeCompareDlg</name>
     <message>
-        <source>&lt;&lt; Less(&amp;L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Difference not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More(&amp;M) &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnmarkedR&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnmarkedReviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>compare documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can&apos;t compare a unsaved read only file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10877,7 +10749,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">開啟</translation>
     </message>
 </context>
 <context>
@@ -10938,7 +10810,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation>數值不能為空</translation>
+        <translation type="obsolete">數值不能為空</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -11572,14 +11444,6 @@ Cancel:	Return to the dialog.</source>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vip %1 has expired, please renew</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14027,15 +13891,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show Header Line</source>
-        <translation type="obsolete">顯示頁首橫線</translation>
+        <translation type="unfinished">顯示頁首橫線</translation>
     </message>
     <message>
         <source>Show header line</source>
-        <translation>顯示頁首橫線</translation>
-    </message>
-    <message>
-        <source>Show Header Line</source>
-        <translation>顯示頁首橫線</translation>
+        <translation type="obsolete">顯示頁首橫線</translation>
     </message>
 </context>
 <context>

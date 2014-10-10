@@ -4244,14 +4244,6 @@ Beispiel: Mit +4 springen Sie um vier Elemente weiter.</translation>
 <context>
     <name>KxDlgMergeCompare</name>
     <message>
-        <source>OriginalD&amp;oc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;ReviseDoc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>Ok</translation>
     </message>
@@ -4261,71 +4253,27 @@ Beispiel: Mit +4 springen Sie um vier Elemente weiter.</translation>
     </message>
     <message>
         <source>CompareOption</source>
-        <translation>CompareOption</translation>
+        <translation type="obsolete">CompareOption</translation>
     </message>
     <message>
         <source>InsertAndDelete</source>
-        <translation>Einfügen und Löschen</translation>
-    </message>
-    <message>
-        <source>T&amp;able</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comme&amp;nt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FootEn&amp;dNote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextBo&amp;x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CaseChan&amp;ge</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Einfügen und Löschen</translation>
     </message>
     <message>
         <source>Field&amp;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Blank&amp;Part</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>DisplayRevision</source>
-        <translation>DisplayRevision</translation>
+        <translation type="obsolete">DisplayRevision</translation>
     </message>
     <message>
         <source>RevisionLevel</source>
-        <translation>RevisionLevel</translation>
+        <translation type="obsolete">RevisionLevel</translation>
     </message>
     <message>
         <source>DisplayLocation</source>
-        <translation>DisplayLocation</translation>
-    </message>
-    <message>
-        <source>&amp;CharLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loca&amp;teOriginalDoc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;WordLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LocateRev&amp;iseDoc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;UseNewDoc</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">DisplayLocation</translation>
     </message>
     <message>
         <source>&amp;Character level</source>
@@ -4965,7 +4913,7 @@ Beispiel: Mit +4 springen Sie um vier Elemente weiter.</translation>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation>AutoFormat</translation>
+        <translation type="obsolete">AutoFormat</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5457,7 +5405,7 @@ Beispiel: Mit +4 springen Sie um vier Elemente weiter.</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Zuletzt verwendete Dokumente</translation>
+        <translation type="obsolete">Zuletzt verwendete Dokumente</translation>
     </message>
     <message>
         <source>Recover options</source>
@@ -5602,10 +5550,6 @@ Beispiel: Mit +4 springen Sie um vier Elemente weiter.</translation>
     <message>
         <source>Web page</source>
         <translation>Webseite</translation>
-    </message>
-    <message>
-        <source>&amp;FontPreview Label</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Editing options</source>
@@ -5766,10 +5710,6 @@ Sie können auf die erweiterte Schaltfläche klicken, um von verschiedenen Versc
         <translation>Helfen Sie uns dabei, WPS-Office zu verbessern</translation>
     </message>
     <message>
-        <source>Do &amp;Not Auto Compress Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Set default target out&amp;put to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5787,14 +5727,6 @@ Sie können auf die erweiterte Schaltfläche klicken, um von verschiedenen Versc
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember My &amp;Choice</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8112,7 +8044,7 @@ Sie können auf die erweiterte Schaltfläche klicken, um von verschiedenen Versc
     </message>
     <message>
         <source>Sounds like(English)</source>
-        <translation>Ähnl. Schreibweise (Japanisch)</translation>
+        <translation type="obsolete">Ähnl. Schreibweise (Japanisch)</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -8781,55 +8713,27 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxMergeCompareDlg</name>
     <message>
         <source>compare documents</source>
-        <translation>Dokumente vergleichen</translation>
-    </message>
-    <message>
-        <source>R&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Dokumente vergleichen</translation>
     </message>
     <message>
         <source>Merge documents</source>
-        <translation>Änderungen konsolidieren</translation>
-    </message>
-    <message>
-        <source>UnmarkedR&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnmarkedReviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More(&amp;M) &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Änderungen konsolidieren</translation>
     </message>
     <message>
         <source>browse...</source>
         <translation>Durchsuchen...</translation>
     </message>
     <message>
-        <source>&lt;&lt; Less(&amp;L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>open</source>
-        <translation>Öffnen</translation>
+        <translation type="obsolete">Öffnen</translation>
     </message>
     <message>
         <source>Difference not found</source>
-        <translation>Unterschiede nicht gefunden</translation>
+        <translation type="obsolete">Unterschiede nicht gefunden</translation>
     </message>
     <message>
         <source>Author</source>
         <translation>Autor</translation>
-    </message>
-    <message>
-        <source>Can&apos;t compare a unsaved read only file.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
@@ -8930,7 +8834,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation>Die Zahl darf nicht null sein.</translation>
+        <translation type="obsolete">Die Zahl darf nicht null sein.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -9390,11 +9294,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation>Es konnte keine Verbindung mit dem Server hergestellt werden. Überprüfen Sie Ihre Netzwerkverbindung.</translation>
+        <translation type="obsolete">Es konnte keine Verbindung mit dem Server hergestellt werden. Überprüfen Sie Ihre Netzwerkverbindung.</translation>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished">Ihr VIP ist abgelaufen. Bitte erneuen</translation>
+        <translation type="obsolete">Ihr VIP ist abgelaufen. Bitte erneuen</translation>
     </message>
     <message>
         <source>Renew</source>
@@ -11314,7 +11218,7 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show header line</source>
-        <translation>Kopfzeile anzeigen</translation>
+        <translation type="obsolete">Kopfzeile anzeigen</translation>
     </message>
     <message>
         <source>Show Header Line</source>

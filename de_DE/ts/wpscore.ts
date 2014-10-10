@@ -106,19 +106,19 @@
     <name>field_parser_index</name>
     <message>
         <source>Error!Can not find xe.</source>
-        <translation>Fehler! Keine Indexeinträge gefunden.</translation>
+        <translation type="obsolete">Fehler! Keine Indexeinträge gefunden.</translation>
     </message>
     <message>
         <source>Error!Switch parameter is not specified.</source>
-        <translation>Fehler! Schalterargument nicht angegeben.</translation>
+        <translation type="obsolete">Fehler! Schalterargument nicht angegeben.</translation>
     </message>
     <message>
         <source>Error!Bookmark the page of an invalid.</source>
-        <translation>Fehler! Ungültige Textmarke in einem Eintrag auf der Seite.</translation>
+        <translation type="obsolete">Fehler! Ungültige Textmarke in einem Eintrag auf der Seite.</translation>
     </message>
     <message>
         <source>Alphabet</source>
-        <translation>Alphabet</translation>
+        <translation type="obsolete">Alphabet</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Error!Switch parameter unrecognizable.</source>
-        <translation>Fehler! Unknown switch argument.</translation>
+        <translation type="obsolete">Fehler! Unknown switch argument.</translation>
     </message>
     <message>
         <source>Stroke</source>
@@ -138,15 +138,15 @@
     </message>
     <message>
         <source>Error!Is not a valid character range.</source>
-        <translation>Fehler! Kein gültiger Zeichenbereich.</translation>
+        <translation type="obsolete">Fehler! Kein gültiger Zeichenbereich.</translation>
     </message>
     <message>
         <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation>Fehler! In Fußnoten, Endnoten, Kopfzeilen, Fußzeilen,Anmerkungen oder Textfeldern können keine Indexe erstellt werden.</translation>
+        <translation type="obsolete">Fehler! In Fußnoten, Endnoten, Kopfzeilen, Fußzeilen,Anmerkungen oder Textfeldern können keine Indexe erstellt werden.</translation>
     </message>
     <message>
         <source>wps can not update index!</source>
-        <translation>Index kann von WPS nicht aktualisiert werden!</translation>
+        <translation type="obsolete">Index kann von WPS nicht aktualisiert werden!</translation>
     </message>
     <message>
         <source>Alphanumeric</source>
@@ -790,22 +790,22 @@ Versuchen Sie Folgendes:
     <message>
         <source>Only main text.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation>Nur Haupttext.</translation>
+        <translation type="obsolete">Nur Haupttext.</translation>
     </message>
     <message>
         <source>Error! lack of test conditions.</source>
         <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
-        <translation>Fehler! Fehlende Testbedingung.</translation>
+        <translation type="obsolete">Fehler! Fehlende Testbedingung.</translation>
     </message>
     <message>
         <source>Error! cannot recognize the condition operation code.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation>Fhler! Unbekannter Op-Code für verknüpfte Bedingung.</translation>
+        <translation type="obsolete">Fhler! Unbekannter Op-Code für verknüpfte Bedingung.</translation>
     </message>
     <message>
         <source>Error! lack of the second part test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
-        <translation>Fehler! Zweiter Teil der Testbedingung fehlt.</translation>
+        <translation type="obsolete">Fehler! Zweiter Teil der Testbedingung fehlt.</translation>
     </message>
     <message>
         <source>Error. Unknown op code for conditional.</source>
@@ -2785,7 +2785,7 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Make the office more relaxed</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation>WPS entspannt die Arbeit </translation>
+        <translation type="obsolete">WPS entspannt die Arbeit </translation>
     </message>
     <message>
         <source>WPS Writer has reached the beginning of the document.</source>
@@ -2899,21 +2899,21 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Document is under protected, can not be merged</source>
-        <translation>Das Dokument ist geschützt,es kann nicht kombiniert</translation>
+        <translation type="obsolete">Das Dokument ist geschützt,es kann nicht kombiniert</translation>
     </message>
     <message>
         <source>There are one or all documents contain revsions, continue compare or not?</source>
-        <translation>Eines oder beide der miteinander verglichenen Dokumente enthalten Überarbeitungen. Zu Vergleichszwecken wird von &lt;a&gt; davon ausgegangen, dass die Änderungen angenommen wurden. Möchten Sie den Vergleich fortsetzen?</translation>
+        <translation type="obsolete">Eines oder beide der miteinander verglichenen Dokumente enthalten Überarbeitungen. Zu Vergleichszwecken wird von &lt;a&gt; davon ausgegangen, dass die Änderungen angenommen wurden. Möchten Sie den Vergleich fortsetzen?</translation>
     </message>
     <message>
         <source>no proofing</source>
         <comment>TxLanguage_NoProofing</comment>
-        <translation>Keine Dokumentprüfung</translation>
+        <translation type="obsolete">Keine Dokumentprüfung</translation>
     </message>
     <message>
         <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
-        <translation>Möchten Sie die Änderungen an &quot;%s&quot; ignorieren und die neueste Version laden?  </translation>
+        <translation type="obsolete">Möchten Sie die Änderungen an &quot;%s&quot; ignorieren und die neueste Version laden?  </translation>
     </message>
     <message>
         <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
@@ -4827,7 +4827,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>Die Zahl muss zwischen %d und %d liegen.</translation>
+        <translation type="obsolete">Die Zahl muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
@@ -5310,6 +5310,11 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished">Durchsuchen von %s ist abgeschlossen. Das gesuchte Element konnte nicht gefunden werden.</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished">Die Zahl muss zwischen %d und %d liegen.</translation>
     </message>
 </context>
 <context>
@@ -6897,7 +6902,7 @@ Check</source>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
-        <translation>Vorlagendatei von Kingsoft Writer 2007/2010 (*.wptx) </translation>
+        <translation type="obsolete">Vorlagendatei von Kingsoft Writer 2007/2010 (*.wptx) </translation>
     </message>
     <message>
         <source>Table Normal</source>

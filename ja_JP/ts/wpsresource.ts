@@ -617,16 +617,16 @@
         <translation>クリップアート</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>図の挿入</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>アート文字の挿入</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -701,7 +701,7 @@
         <translation>微調整</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -915,14 +915,6 @@
     <message>
         <source>Wrap Text</source>
         <translation>テキストの折り返し</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1997,10 +1989,6 @@ Merged Data</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI切り替え</translation>
@@ -3476,8 +3464,12 @@ Direction</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">改善要望</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4617,6 +4609,10 @@ Footer</source>
         <translation>クリップアート</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>図の挿入</translation>
     </message>
@@ -4631,10 +4627,6 @@ Footer</source>
     <message>
         <source>Insert Watermark</source>
         <translation>透かしの挿入</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -4665,7 +4657,7 @@ Footer</source>
         <translation>奇数のページから</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4773,14 +4765,6 @@ Break</source>
         <source>WordArt</source>
         <translation>アート
 文字</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5871,12 +5855,12 @@ Picture</source>
         <translation>クリップアート</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>図の挿入</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>図の挿入</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -5951,7 +5935,7 @@ Picture</source>
         <translation>影の微調整(上) </translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6243,14 +6227,6 @@ On/Off</source>
     <message>
         <source>Wrapping Style</source>
         <translation type="obsolete">折り返し</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8999,6 +8975,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">ファイルの自動バックアップ</translation>
     </message>
@@ -9027,7 +9007,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9091,7 +9071,7 @@ Shape</source>
         <translation>ユーザークラウド</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9101,10 +9081,6 @@ Shape</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>クラウドファイルを開く</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -9131,12 +9107,16 @@ Shape</source>
         <translation></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">自動バックアップの停止</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -9167,10 +9147,6 @@ Shape</source>
         <translation>マイアカウント</translation>
     </message>
     <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>login</source>
         <translation type="obsolete">ログイン</translation>
     </message>
@@ -9189,26 +9165,6 @@ Shape</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">Kingsoft Weiboレイアウト</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9381,11 +9337,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">アカウントの変更</translation>
+        <translation>アカウントの変更</translation>
     </message>
     <message>
         <source>Change Accout</source>
-        <translation>アカウントの変更</translation>
+        <translation type="obsolete">アカウントの変更</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -9761,8 +9717,12 @@ Diagonal Line in Cell</source>
         <translation>オート計算</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9855,10 +9815,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Go to Footnote</source>
         <translation>脚注へ移動</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -9954,6 +9910,10 @@ Diagonal Line in Cell</source>
         <translation>複数行の挿入</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>表</translation>
     </message>
@@ -9964,10 +9924,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Insert Watermark</source>
         <translation>透かしの挿入</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -10118,7 +10074,7 @@ Diagonal Line in Cell</source>
         <translation>奇数のページから</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10377,6 +10333,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">オンラインストレージ KDriveに保存</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Section</source>
@@ -10718,22 +10678,6 @@ Diagonal Line in Cell</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">Kingsoft Weiboレイアウト</translation>
     </message>
-    <message>
-        <source>Change Account</source>
-        <translation>アカウントの変更</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -10759,10 +10703,6 @@ Diagonal Line in Cell</source>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI切り替え</translation>
@@ -11604,8 +11544,12 @@ Diagonal Line in Cell</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -16503,6 +16447,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">ファイルの自動バックアップ</translation>
     </message>
@@ -16531,7 +16479,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16575,7 +16523,7 @@ Effects</source>
         <translation>ユーザークラウドヘルプ</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16585,10 +16533,6 @@ Effects</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>クラウドファイルを開く</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16615,12 +16559,16 @@ Effects</source>
         <translation>ログイン</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">自動バックアップの停止</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16651,10 +16599,6 @@ Effects</source>
         <translation>マイ アカウント</translation>
     </message>
     <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>openwebweibo</source>
         <translation type="obsolete">Weiboを開く</translation>
     </message>
@@ -16669,26 +16613,6 @@ Effects</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">Kingsoft Weiboレイアウト</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21062,7 +20986,7 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>ファイルローミング</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21086,7 +21010,7 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21138,6 +21062,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">自動バックアップの停止</translation>
     </message>
     <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>ヘルプ</translation>
     </message>
@@ -21168,22 +21096,6 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Weibo Layout</source>
         <translation type="obsolete">Kingsoft Weiboレイアウト</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21559,6 +21471,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>展開</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>改善要望</translation>
     </message>
@@ -21609,10 +21525,6 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Google Docs</source>
         <translation type="obsolete">Google Docs</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -21675,7 +21587,7 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>マクロ</translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
+        <source>Mail FeedBack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21831,10 +21743,6 @@ Directly</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22077,14 +21985,6 @@ Directly</source>
     <message>
         <source>Zoom</source>
         <translation>ズーム</translation>
-    </message>
-    <message>
-        <source>Mail FeedBack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22367,10 +22267,6 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>UI切り替え</translation>
     </message>
@@ -22637,10 +22533,6 @@ Directly</source>
     <message>
         <source>OK</source>
         <translation type="obsolete">OK</translation>
-    </message>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>

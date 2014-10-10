@@ -2955,8 +2955,12 @@ Texto</translation>
         <translation>Feedback e Informação do Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback por E-mail</translation>
+        <translation type="obsolete">Feedback por E-mail</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -7989,8 +7993,12 @@ Diagonal Line in Cell</source>
         <translation>Cálculos Rápidos</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback via E-mail</translation>
+        <translation type="obsolete">Feedback via E-mail</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9569,8 +9577,12 @@ Design</translation>
         <translation>Comentários e Informações sobre o Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback via E-mail</translation>
+        <translation type="obsolete">Feedback via E-mail</translation>
     </message>
     <message>
         <source>File Information</source>

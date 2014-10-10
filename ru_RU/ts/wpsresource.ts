@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>Поместить вперёд</translation>
+        <translation>Переместить вперед</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Поместить на задний план</translation>
+        <translation>Переместить на задний план</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>Поместить назад</translation>
+        <translation>Переместить на задний план</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -3360,8 +3360,12 @@ Direction</source>
         <translation>Отзывы и информация о продукции</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -3743,11 +3747,11 @@ Header and Footer</source>
     <name>ongmani.ct_home</name>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation>1,0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation></translation>
+        <translation>1,5</translation>
     </message>
     <message>
         <source>100%</source>
@@ -3759,11 +3763,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>2.0</source>
-        <translation></translation>
+        <translation>2,0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation></translation>
+        <translation>2,5</translation>
     </message>
     <message>
         <source>200%</source>
@@ -3771,7 +3775,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>3.0</source>
-        <translation></translation>
+        <translation>3,0</translation>
     </message>
     <message>
         <source>33%</source>
@@ -3783,7 +3787,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation></translation>
+        <translation>5;5,5;6,5;7,5;8;9;10;10,5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
@@ -3965,7 +3969,8 @@ Replace</source>
     <message>
         <source>Format
 Painter</source>
-        <translation></translation>
+        <translation>Формат 
+по образцу</translation>
     </message>
     <message>
         <source>Format 
@@ -4958,7 +4963,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Отступы</translation>
+        <translation>Поля</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -5947,7 +5952,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation></translation>
+        <translation>Стиль тени 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
@@ -6922,7 +6927,8 @@ Effects</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation></translation>
+        <translation>Применить 
+или отменить тень</translation>
     </message>
     <message>
         <source>Shadow 
@@ -7416,7 +7422,8 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -9056,7 +9063,8 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation></translation>
+        <translation>Надстройки 
+COM</translation>
     </message>
     <message>
         <source>COM AddIns</source>
@@ -9465,8 +9473,12 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">Отзывы и предложения</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -10615,7 +10627,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation></translation>
+        <translation>Поле со списком</translation>
     </message>
     <message>
         <source>Command Button</source>
@@ -10696,7 +10708,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation></translation>
+        <translation>Кнопка переключения</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -11290,8 +11302,12 @@ Diagonal Line in Cell</source>
         <translation>Отзывы и информация о продукции</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзывы по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -12807,7 +12823,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Отступы</translation>
+        <translation>Поля</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -14400,7 +14416,7 @@ and Endnote</source>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation></translation>
+        <translation>3-D стиль 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
@@ -15299,7 +15315,7 @@ Effects</source>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation></translation>
+        <translation>Стиль тени 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
@@ -16049,7 +16065,7 @@ Effects</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation></translation>
+        <translation>Связь с облачным сервисом</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
@@ -20648,7 +20664,7 @@ You can also center them or distribute them evenly across the page.</source>
     <name>tips.m_Margins</name>
     <message>
         <source>Margins</source>
-        <translation type="obsolete">Отступы</translation>
+        <translation type="obsolete">Поля</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -21228,7 +21244,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>Выровнять по центру</translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Centered</source>

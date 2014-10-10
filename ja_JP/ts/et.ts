@@ -405,7 +405,7 @@ condition is true:</source>
         <source>Enter the name or the description of the function you want to look for.</source>
         <translation type="obsolete">検索したい機能の名称または説明を入力して下さい</translation>
     </message>
-    <message>
+    <message id="0">
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>検索したい機能の名称または説明を入力して下さい</translation>
     </message>
@@ -1033,38 +1033,6 @@ condition is true:</source>
         <translation>参照</translation>
     </message>
     <message>
-        <source>is a invalid addins macro file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automation Server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A File named</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>does not contain a valid Automation Server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>already exists in this location, Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cannot find the Add-Ins.</source>
         <translation>アドインが見つかりませんでした</translation>
     </message>
@@ -1460,10 +1428,6 @@ condition is true:</source>
 3.参照範囲の1行目が空白セルでなく、エラー値を含まず、またセル内の文字数が255以内であることを確認してください。</translation>
     </message>
     <message>
-        <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
         <translation>このブックは保護されているので、新しいシートにピボットテーブルを作成できません。既存のシートを選択するか、ブックの保護を解除してください。</translation>
     </message>
@@ -1481,11 +1445,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="obsolete">データソースの参照が正しくないため、ピボットテーブルを作成できません。</translation>
-    </message>
-    <message>
-        <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データソースの参照が正しくないため、ピボットテーブルを作成できません。</translation>
     </message>
 </context>
 <context>
@@ -2277,10 +2237,6 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Non&amp;e</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Category:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4178,7 +4134,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>新規作成時にバックアップファイルを作成(&amp;B)</translation>
+        <translation type="obsolete">新規作成時にバックアップファイルを作成(&amp;B)</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -9258,10 +9214,6 @@ system will remind checking the correctness of the contents.
     <message>
         <source>Select Table</source>
         <translation type="unfinished">表を選択</translation>
-    </message>
-    <message>
-        <source>The data source contains no visible form</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This data source contains no visible tables.</source>

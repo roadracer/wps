@@ -5217,11 +5217,11 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMergeCompare</name>
     <message>
         <source>OriginalD&amp;oc:</source>
-        <translation>原文档(&amp;O)</translation>
+        <translation type="obsolete">原文档(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;ReviseDoc:</source>
-        <translation>修订的文档(&amp;R)</translation>
+        <translation type="obsolete">修订的文档(&amp;R)</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5233,31 +5233,31 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>CompareOption</source>
-        <translation>比较设置</translation>
+        <translation type="obsolete">比较设置</translation>
     </message>
     <message>
         <source>InsertAndDelete</source>
-        <translation>插入和删除</translation>
+        <translation type="obsolete">插入和删除</translation>
     </message>
     <message>
         <source>T&amp;able</source>
-        <translation>表格(&amp;A)</translation>
+        <translation type="obsolete">表格(&amp;A)</translation>
     </message>
     <message>
         <source>Comme&amp;nt</source>
-        <translation>批注(&amp;N)</translation>
+        <translation type="obsolete">批注(&amp;N)</translation>
     </message>
     <message>
         <source>FootEn&amp;dNote</source>
-        <translation>脚注和尾注(&amp;D)</translation>
+        <translation type="obsolete">脚注和尾注(&amp;D)</translation>
     </message>
     <message>
         <source>TextBo&amp;x</source>
-        <translation>文本框(&amp;X)</translation>
+        <translation type="obsolete">文本框(&amp;X)</translation>
     </message>
     <message>
         <source>CaseChan&amp;ge</source>
-        <translation>大小写更改(&amp;G)</translation>
+        <translation type="obsolete">大小写更改(&amp;G)</translation>
     </message>
     <message>
         <source>Field&amp;s</source>
@@ -5265,39 +5265,39 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Blank&amp;Part</source>
-        <translation>空白区域(&amp;P)</translation>
+        <translation type="obsolete">空白区域(&amp;P)</translation>
     </message>
     <message>
         <source>DisplayRevision</source>
-        <translation>显示修订</translation>
+        <translation type="obsolete">显示修订</translation>
     </message>
     <message>
         <source>RevisionLevel</source>
-        <translation>修订的显示级别:</translation>
+        <translation type="obsolete">修订的显示级别:</translation>
     </message>
     <message>
         <source>DisplayLocation</source>
-        <translation>修订的显示位置:</translation>
+        <translation type="obsolete">修订的显示位置:</translation>
     </message>
     <message>
         <source>&amp;CharLevel</source>
-        <translation>字符级别(&amp;C)</translation>
+        <translation type="obsolete">字符级别(&amp;C)</translation>
     </message>
     <message>
         <source>Loca&amp;teOriginalDoc</source>
-        <translation>原文档(&amp;T)</translation>
+        <translation type="obsolete">原文档(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;WordLevel</source>
-        <translation>字词级别(&amp;W)</translation>
+        <translation type="obsolete">字词级别(&amp;W)</translation>
     </message>
     <message>
         <source>LocateRev&amp;iseDoc</source>
-        <translation>修订后文档(&amp;I)</translation>
+        <translation type="obsolete">修订后文档(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;UseNewDoc</source>
-        <translation>新文档(&amp;U)</translation>
+        <translation type="obsolete">新文档(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Character level</source>
@@ -6117,7 +6117,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation>自动编号</translation>
+        <translation type="obsolete">自动编号</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6653,7 +6653,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished">最近使用的文档</translation>
+        <translation type="obsolete">最近使用的文档</translation>
     </message>
     <message>
         <source>Recover options</source>
@@ -6893,7 +6893,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;FontPreview Label</source>
-        <translation>字体预览框(&amp;O)</translation>
+        <translation type="obsolete">字体预览框(&amp;O)</translation>
     </message>
     <message>
         <source>Editing options</source>
@@ -7051,7 +7051,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Do &amp;Not Auto Compress Pictures</source>
-        <translation>不压缩文件中的图像(&amp;N)</translation>
+        <translation type="obsolete">不压缩文件中的图像(&amp;N)</translation>
     </message>
     <message>
         <source>Set default target out&amp;put to:</source>
@@ -7071,11 +7071,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>第一次保存时生成备份文件(&amp;B)</translation>
+        <translation type="obsolete">第一次保存时生成备份文件(&amp;B)</translation>
     </message>
     <message>
         <source>Remember My &amp;Choice</source>
-        <translation>提醒我是否将云字体嵌入文件中(&amp;C)</translation>
+        <translation type="obsolete">提醒我是否将云字体嵌入文件中(&amp;C)</translation>
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
@@ -9945,7 +9945,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>Sounds like(English)</source>
-        <translation>同音(日语)</translation>
+        <translation type="obsolete">同音(日语)</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -10709,23 +10709,23 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxMergeCompareDlg</name>
     <message>
         <source>R&amp;eviserBeDisplayed:</source>
-        <translation>修订者显示为(&amp;E)</translation>
+        <translation type="obsolete">修订者显示为(&amp;E)</translation>
     </message>
     <message>
         <source>Reviser&amp;BeDisplayed:</source>
-        <translation>修订者显示为(&amp;B)</translation>
+        <translation type="obsolete">修订者显示为(&amp;B)</translation>
     </message>
     <message>
         <source>UnmarkedR&amp;eviserBeDisplayed:</source>
-        <translation>未标记修订的修订者显示为(&amp;E)</translation>
+        <translation type="obsolete">未标记修订的修订者显示为(&amp;E)</translation>
     </message>
     <message>
         <source>UnmarkedReviser&amp;BeDisplayed:</source>
-        <translation>未标记修订的修订者显示为(&amp;B)</translation>
+        <translation type="obsolete">未标记修订的修订者显示为(&amp;B)</translation>
     </message>
     <message>
         <source>More(&amp;M) &gt;&gt;</source>
-        <translation>更多(&amp;M) &gt;&gt;</translation>
+        <translation type="obsolete">更多(&amp;M) &gt;&gt;</translation>
     </message>
     <message>
         <source>browse...</source>
@@ -10733,19 +10733,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&lt;&lt; Less(&amp;L)</source>
-        <translation>&lt;&lt; 更少(&amp;L)</translation>
+        <translation type="obsolete">&lt;&lt; 更少(&amp;L)</translation>
     </message>
     <message>
         <source>open</source>
-        <translation>打开</translation>
+        <translation type="obsolete">打开</translation>
     </message>
     <message>
         <source>compare documents</source>
-        <translation>比较文档</translation>
+        <translation type="obsolete">比较文档</translation>
     </message>
     <message>
         <source>Merge documents</source>
-        <translation>合并文档</translation>
+        <translation type="obsolete">合并文档</translation>
     </message>
     <message>
         <source>Author</source>
@@ -10753,11 +10753,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Difference not found</source>
-        <translation>wps未发现这两个文档有何差别</translation>
+        <translation type="obsolete">wps未发现这两个文档有何差别</translation>
     </message>
     <message>
         <source>Can&apos;t compare a unsaved read only file.</source>
-        <translation>无法比较一个未保存的只读文档。</translation>
+        <translation type="obsolete">无法比较一个未保存的只读文档。</translation>
     </message>
     <message>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
@@ -10874,7 +10874,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation type="unfinished">数值不能为空</translation>
+        <translation type="obsolete">数值不能为空</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -11401,7 +11401,7 @@ Cancel:	Return to the dialog.</source>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished">您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
+        <translation type="obsolete">您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
     </message>
     <message>
         <source>Renew</source>
@@ -11409,7 +11409,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished">无法连接到服务器,请检查您的网络连接。</translation>
+        <translation type="obsolete">无法连接到服务器,请检查您的网络连接。</translation>
     </message>
     <message>
         <source>Cannot connect to this service. Check your network connection please.</source>
@@ -13692,15 +13692,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show Header Line</source>
-        <translation type="obsolete">显示页眉横线</translation>
+        <translation type="unfinished">显示页眉横线</translation>
     </message>
     <message>
         <source>Show header line</source>
-        <translation type="unfinished">显示页眉横线</translation>
-    </message>
-    <message>
-        <source>Show Header Line</source>
-        <translation type="unfinished">显示页眉横线</translation>
+        <translation type="obsolete">显示页眉横线</translation>
     </message>
 </context>
 <context>

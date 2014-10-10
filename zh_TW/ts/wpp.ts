@@ -1096,7 +1096,7 @@
 </context>
 <context>
     <name>KWppZoomSlider</name>
-    <message>
+    <message id="0">
         <source>Fit slide to current window</source>
         <translation>最適顯示比例</translation>
     </message>
@@ -1113,10 +1113,6 @@
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation>依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
-    </message>
-    <message>
-        <source>bgTemplate tooltip</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>bgMagic tooltip</source>
@@ -1372,10 +1368,6 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Template background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2278,15 +2270,11 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Embed &amp;True Type</source>
-        <translation>在檔案內嵌字型(&amp;T)</translation>
+        <translation type="obsolete">在檔案內嵌字型(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Just embed used chars</source>
-        <translation>只嵌入文件中使用的字元 (有利於縮減檔案大小)(&amp;J)</translation>
-    </message>
-    <message>
-        <source>Embed all &amp;characters (best for editing)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">只嵌入文件中使用的字元 (有利於縮減檔案大小)(&amp;J)</translation>
     </message>
     <message>
         <source>Start&amp;up task window</source>

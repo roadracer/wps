@@ -755,11 +755,11 @@
         <translation>Цвет фона,Цвет текстов и линий,Цвет теней,Цвет заголовков,Цвет заливки,Цвет акцентов,Цвет акцентов с гиперссылкой,Цвет акцентов с последующей гиперссылкой</translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <source>bgMagic tooltip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -959,11 +959,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Magic Backgroud</source>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template Background</source>
+        <source>Magic Backgroud</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4282,7 +4282,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation></translation>
+        <translation>Проверка</translation>
     </message>
 </context>
 <context>

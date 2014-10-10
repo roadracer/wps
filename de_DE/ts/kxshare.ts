@@ -361,7 +361,7 @@
     </message>
     <message>
         <source>Layout will be changed at next start time</source>
-        <translation>Layout wird bei nächster Startzeit von WPS-Office geändert</translation>
+        <translation type="obsolete">Layout wird bei nächster Startzeit von WPS-Office geändert</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
@@ -373,11 +373,11 @@
     </message>
     <message>
         <source>Restart Office to bring the layout into effect</source>
-        <translation>Neu starten, um das Layout in Kraft zu setzen</translation>
+        <translation type="obsolete">Neu starten, um das Layout in Kraft zu setzen</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation>Das Layout tritt bei nächster Startzeit in Kraft.</translation>
+        <translation type="obsolete">Das Layout tritt bei nächster Startzeit in Kraft.</translation>
     </message>
     <message>
         <source>Restart WPS Office for layout setting to take effect</source>
@@ -523,11 +523,11 @@
     </message>
     <message>
         <source>Local language packages</source>
-        <translation>Lokale Sprachpaketen</translation>
+        <translation type="obsolete">Lokale Sprachpaketen</translation>
     </message>
     <message>
         <source>Online language packages</source>
-        <translation>Online-Sprachpaketen</translation>
+        <translation type="obsolete">Online-Sprachpaketen</translation>
     </message>
     <message>
         <source>Loading...</source>
@@ -535,11 +535,11 @@
     </message>
     <message>
         <source>Network error</source>
-        <translation>Netzwerkfehler</translation>
+        <translation type="obsolete">Netzwerkfehler</translation>
     </message>
     <message>
         <source>Get language package failed!</source>
-        <translation>Fehler beim Erhalten der Sprachpaketen!</translation>
+        <translation type="obsolete">Fehler beim Erhalten der Sprachpaketen!</translation>
     </message>
     <message>
         <source>Click to open the credits page.</source>
@@ -1556,10 +1556,6 @@
 </context>
 <context>
     <name>KxCustomRibbonEx_Menu</name>
-    <message>
-        <source>Custom Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Customize menu</source>
         <translation type="unfinished"></translation>
@@ -3632,11 +3628,11 @@ Wenn das Problem ein Notfall ist, wenden Sie sich bitte an unser Kundenhotline: 
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation>Die Verbindung mit dem Server kann nicht hergestellt werden. Überprüfen Sie Ihre Netzwerkverbindung.</translation>
+        <translation type="obsolete">Die Verbindung mit dem Server kann nicht hergestellt werden. Überprüfen Sie Ihre Netzwerkverbindung.</translation>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation>VIP %1 ist abgelaufen. Bitte erneuern</translation>
+        <translation type="obsolete">VIP %1 ist abgelaufen. Bitte erneuern</translation>
     </message>
     <message>
         <source>Renew</source>
@@ -3644,7 +3640,7 @@ Wenn das Problem ein Notfall ist, wenden Sie sich bitte an unser Kundenhotline: 
     </message>
     <message>
         <source>You still not Vip member, upgrade can download all fonts</source>
-        <translation>Sie sind noch kein VIP-Mitglied. Wenn Sie VIP würden, können Sie alle Schriftarten herunterladen</translation>
+        <translation type="obsolete">Sie sind noch kein VIP-Mitglied. Wenn Sie VIP würden, können Sie alle Schriftarten herunterladen</translation>
     </message>
     <message>
         <source>Upgrade</source>
@@ -3656,7 +3652,7 @@ Wenn das Problem ein Notfall ist, wenden Sie sich bitte an unser Kundenhotline: 
     </message>
     <message>
         <source>Cancle</source>
-        <translation>Abbrechen</translation>
+        <translation type="obsolete">Abbrechen</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3676,31 +3672,35 @@ Wenn das Problem ein Notfall ist, wenden Sie sich bitte an unser Kundenhotline: 
     </message>
     <message>
         <source>You still not a senior member，upgrade to enjoy more cloud fonts now.</source>
-        <translation>Sie sind noch kein VIP-Mitglied. Wenn Sie VIP würden, können Sie alle Schriftarten herunterladen</translation>
+        <translation type="obsolete">Sie sind noch kein VIP-Mitglied. Wenn Sie VIP würden, können Sie alle Schriftarten herunterladen</translation>
+    </message>
+    <message>
+        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
     <message>
         <source>Pleas login vip first</source>
-        <translation>Loggen Sie zuerst auf Ihren VIP-Konto ein, um die Schriftarten für VIP zu verwenden.
+        <translation type="obsolete">Loggen Sie zuerst auf Ihren VIP-Konto ein, um die Schriftarten für VIP zu verwenden.
 Hier zum Einloggen</translation>
     </message>
     <message>
         <source>Please login first</source>
-        <translation>Bitte zuerst einloggen, um die Online-Schriftarten zu verwenden</translation>
+        <translation type="obsolete">Bitte zuerst einloggen, um die Online-Schriftarten zu verwenden</translation>
     </message>
     <message>
         <source>Vip Font, Please login</source>
-        <translation>VIP-Schriftarten, loggen Sie bitte zuerst ein</translation>
+        <translation type="obsolete">VIP-Schriftarten, loggen Sie bitte zuerst ein</translation>
     </message>
     <message>
         <source>Free Font, Please login</source>
-        <translation>Freie Schriftarten für VIP, loggen Sie bitte zuerst ein</translation>
+        <translation type="obsolete">Freie Schriftarten für VIP, loggen Sie bitte zuerst ein</translation>
     </message>
     <message>
         <source>VIP font, your %1 has exprired, please renew</source>
-        <translation>Ihr VIP %1 ist abgelaufen.Erneuen Sie bitte hier.
+        <translation type="obsolete">Ihr VIP %1 ist abgelaufen.Erneuen Sie bitte hier.
 Sie könenn als VIP Online-Schriftarten verwenden</translation>
     </message>
     <message>
@@ -3713,32 +3713,32 @@ Sie könenn als VIP Online-Schriftarten verwenden</translation>
     </message>
     <message>
         <source>Vip Font, Click to use</source>
-        <translation>VIP-Schriftart, Klicken Sie hier zu verwenden</translation>
+        <translation type="obsolete">VIP-Schriftart, Klicken Sie hier zu verwenden</translation>
     </message>
     <message>
         <source>Free Font, Click to use</source>
-        <translation>Freie Schriftart, Klicken Sie hier zu verwenden</translation>
+        <translation type="obsolete">Freie Schriftart, Klicken Sie hier zu verwenden</translation>
     </message>
     <message>
         <source>VIP font, please upgrade to VIP first</source>
-        <translation>VIP-Schriftarten, Loggen Sie zuerst auf Ihren VIP-Konto ein.
+        <translation type="obsolete">VIP-Schriftarten, Loggen Sie zuerst auf Ihren VIP-Konto ein.
 Hier für weitere Infomationen</translation>
     </message>
     <message>
         <source>Free Font, Free to download</source>
-        <translation>VIP-Schriftart, Klicken Sie hier gratis herunterzuladen</translation>
+        <translation type="obsolete">VIP-Schriftart, Klicken Sie hier gratis herunterzuladen</translation>
     </message>
     <message>
         <source>Your vip %1 has expired, please renew first</source>
-        <translation>Ihr VIP %1 ist abgelaufen.Erneuen Sie bitte hier</translation>
+        <translation type="obsolete">Ihr VIP %1 ist abgelaufen.Erneuen Sie bitte hier</translation>
     </message>
     <message>
         <source>Press to pause</source>
-        <translation>Schriftarten wird heruntergeladen, seien Sie bitte geduld</translation>
+        <translation type="obsolete">Schriftarten wird heruntergeladen, seien Sie bitte geduld</translation>
     </message>
     <message>
         <source>You have downloaded all online fonts, please keep looking forward for more.</source>
-        <translation>Sie haben bereits alle Online-Schriftarten heruntergeladen. Freuen Sie sich auf neuere Schriftarten.</translation>
+        <translation type="obsolete">Sie haben bereits alle Online-Schriftarten heruntergeladen. Freuen Sie sich auf neuere Schriftarten.</translation>
     </message>
     <message>
         <source>Fold online fonts</source>
@@ -3750,11 +3750,11 @@ Hier für weitere Infomationen</translation>
     </message>
     <message>
         <source>Click to list online font to top</source>
-        <translation>Klicken Sie hier, um die Online-Schriftarten oben anzuheften</translation>
+        <translation type="obsolete">Klicken Sie hier, um die Online-Schriftarten oben anzuheften</translation>
     </message>
     <message>
         <source>Click to shuffle online font</source>
-        <translation>Klicken Sie hier,um die Online-Schriftarten zu mischen</translation>
+        <translation type="obsolete">Klicken Sie hier,um die Online-Schriftarten zu mischen</translation>
     </message>
     <message>
         <source>Online Fonts</source>
@@ -3797,7 +3797,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Downloading fonts, please wait…</source>
-        <translation>Schriftarten wird heruntergeladen, seien Sie bitte geduld</translation>
+        <translation type="obsolete">Schriftarten wird heruntergeladen, seien Sie bitte geduld</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
@@ -3824,6 +3824,10 @@ Sie könenn als VIP Online-Schriftarten verwenden</translation>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
         <translation>Ihr VIP %1 ist abgelaufen.Erneuen Sie bitte hier</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3929,6 +3933,48 @@ Sie könenn als VIP Online-Schriftarten verwenden</translation>
     <message>
         <source>Printing %1 page of %2</source>
         <translation>Seite %1 von %2 wird gedruckt</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished">Drucken</translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Abbrechen</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintWatermarkDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4689,7 +4735,7 @@ aber das vorinstallierte Systempaket istreserviert.</translation>
     </message>
     <message>
         <source>Customize animation:</source>
-        <translation>Benutzerdefinierte Animation:</translation>
+        <translation type="obsolete">Benutzerdefinierte Animation:</translation>
     </message>
     <message>
         <source>Custom animation:</source>
@@ -4765,12 +4811,12 @@ aber das vorinstallierte Systempaket istreserviert.</translation>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Datei %1 kann nicht geöffnet werden. 
+        <translation type="obsolete">Datei %1 kann nicht geöffnet werden. 
 Die Datei kann umbenannt, gelöscht oder von dem Speicherort verschoben werden.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation>Dateiordner öffnen</translation>
+        <translation type="obsolete">Dateiordner öffnen</translation>
     </message>
     <message>
         <source>
@@ -4868,12 +4914,12 @@ Die Datei kann umbenannt, gelöscht oder von dem Speicherort verschoben werden.<
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Die Datei %1 kann nicht geöffent werden. 
+        <translation type="obsolete">Die Datei %1 kann nicht geöffent werden. 
 Es ist vielleicht umbenannt, gelöscht oder verschoben.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation>Datei in Ordner öffnen</translation>
+        <translation type="obsolete">Datei in Ordner öffnen</translation>
     </message>
     <message>
         <source>WPS Online Templates</source>
@@ -5503,7 +5549,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Blue Grey</source>
-        <translation>Blaugrau</translation>
+        <translation type="obsolete">Blaugrau</translation>
     </message>
     <message>
         <source>Blue Violet</source>

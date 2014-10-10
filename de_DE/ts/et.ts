@@ -374,7 +374,7 @@ condition is true:</source>
         <source>Enter the name or the description of the function you would like to look for.</source>
         <translation type="obsolete">Geben Sie den Namen oder die Beschreibung der Funktion ein, nach welcher Sie suchen.</translation>
     </message>
-    <message>
+    <message id="0">
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>Geben Sie unten den Namen oder eine Beschreibung von der Funktion Sie nachschlagen wollen  </translation>
     </message>
@@ -883,7 +883,7 @@ condition is true:</source>
     </message>
     <message>
         <source>is a invalid addins macro file.</source>
-        <translation>ist ein ungültig  Add-Ins Makrodatei. </translation>
+        <translation type="obsolete">ist ein ungültig  Add-Ins Makrodatei. </translation>
     </message>
     <message>
         <source>Cannot find the Add-Ins.</source>
@@ -899,31 +899,31 @@ condition is true:</source>
     </message>
     <message>
         <source>Automation Server</source>
-        <translation>Automation Server </translation>
+        <translation type="obsolete">Automation Server </translation>
     </message>
     <message>
         <source>A File named</source>
-        <translation>ein Dateiname  </translation>
+        <translation type="obsolete">ein Dateiname  </translation>
     </message>
     <message>
         <source>already exists in this location, or it is a invalid addins macro file.</source>
-        <translation>ist an dieser Position bereits vorhanden.oder ist ein ungültig  Add-Ins Makrodatei.  </translation>
+        <translation type="obsolete">ist an dieser Position bereits vorhanden.oder ist ein ungültig  Add-Ins Makrodatei.  </translation>
     </message>
     <message>
         <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
-        <translation>Das Objekt enthält keinen neuen Automatisierungsserver oder Sie verfügen nicht über ausreichende Zugriffsrechte um den Automatisierungsserver zu registrieren.</translation>
+        <translation type="obsolete">Das Objekt enthält keinen neuen Automatisierungsserver oder Sie verfügen nicht über ausreichende Zugriffsrechte um den Automatisierungsserver zu registrieren.</translation>
     </message>
     <message>
         <source>already exists in this location, or it does not contain a valid Automation Server.</source>
-        <translation type="unfinished"> ist an dieser Position bereits vorhanden oder </translation>
+        <translation type="obsolete"> ist an dieser Position bereits vorhanden oder </translation>
     </message>
     <message>
         <source>already exists in this location, Do you want to replace it?</source>
-        <translation>ist an dieser Position bereits vorhanden.Wollen sie es ersetzen?</translation>
+        <translation type="obsolete">ist an dieser Position bereits vorhanden.Wollen sie es ersetzen?</translation>
     </message>
     <message>
         <source>does not contain a valid Automation Server.</source>
-        <translation>enthält Automatisierungsserver nicht </translation>
+        <translation type="obsolete">enthält Automatisierungsserver nicht </translation>
     </message>
     <message>
         <source>A file named </source>
@@ -1246,7 +1246,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation>Mit dem ausgewählten Verbindungstyp kann kein PivotTable erstellt werden.</translation>
+        <translation type="obsolete">Mit dem ausgewählten Verbindungstyp kann kein PivotTable erstellt werden.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
@@ -1970,7 +1970,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Category:</source>
-        <translation>Kategorie</translation>
+        <translation type="obsolete">Kategorie</translation>
     </message>
     <message>
         <source>Sor&amp;t</source>
@@ -3591,10 +3591,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Recent Documents</source>
         <translation>Zuletzt verwendete Dokumente</translation>
-    </message>
-    <message>
-        <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -7698,7 +7694,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>The data source contains no visible form</source>
-        <translation>Die Datenquelle enthält keine sichtbaren Tabellen</translation>
+        <translation type="obsolete">Die Datenquelle enthält keine sichtbaren Tabellen</translation>
     </message>
     <message>
         <source>Name</source>

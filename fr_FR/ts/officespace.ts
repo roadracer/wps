@@ -332,11 +332,15 @@
     <name>KDataRecoverButton</name>
     <message>
         <source>Kingsoft Data Recovery Master</source>
-        <translation>Kingsoft Maître de Récupération des Données</translation>
+        <translation type="obsolete">Kingsoft Maître de Récupération des Données</translation>
     </message>
     <message>
         <source>Data Recovery Master</source>
         <translation>Maître de Récupération des Données</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -399,12 +403,12 @@
     <message>
         <source>Changing the file suffix may lead to file opening failure!
 Are you sure to change?</source>
-        <translation>La modification de l&apos;extension du fichier peut conduire à l&apos;échec de l&apos;ouverture du fichier! 
+        <translation type="obsolete">La modification de l&apos;extension du fichier peut conduire à l&apos;échec de l&apos;ouverture du fichier! 
 Etes-vous sûr de vouloir la modifier?</translation>
     </message>
     <message>
         <source>rename</source>
-        <translation>Renommer</translation>
+        <translation type="obsolete">Renommer</translation>
     </message>
     <message>
         <source>The file name cannot be empty.</source>
@@ -414,6 +418,14 @@ Etes-vous sûr de vouloir la modifier?</translation>
     <message>
         <source>The file name already exists.</source>
         <translation>Ce nom de  fichier existe déjà!</translation>
+    </message>
+    <message>
+        <source>If you change the filename extension, the file can become unusable. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -924,19 +936,19 @@ Chemin:%3</translation>
         <translation type="unfinished">Ouvrir</translation>
     </message>
     <message>
-        <source>Delete from the Listing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open Folder</source>
+        <source>Remove From List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Invalid File</source>
+        <source>Open File Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid Records</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -997,19 +1009,19 @@ Chemin:%3</translation>
         <translation type="unfinished">Ouvrir</translation>
     </message>
     <message>
-        <source>Delete from the Listing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open Folder</source>
+        <source>Remove From List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Invalid File</source>
+        <source>Open File Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid Records</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1260,15 +1272,15 @@ Chemin:%3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Free version limit feature list</source>
+        <source>The %1-day trial expires now. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1-day trial period has ended.</source>
+        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office will be converted into free versions. At this point, some features not normally available,if you need to use these features, please purchase the WPS Office.</source>
+        <source>List of limited features in free version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1299,11 +1311,11 @@ Chemin:%3</translation>
     <name>KxDlgSyncProcess</name>
     <message>
         <source>Synchronize progress</source>
-        <translation>Synchroniser le progrès</translation>
+        <translation type="obsolete">Synchroniser le progrès</translation>
     </message>
     <message>
         <source>Synchronizing, please wait...</source>
-        <translation>En cours de synchronisation. Veuillez patienter...</translation>
+        <translation type="obsolete">En cours de synchronisation. Veuillez patienter...</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1313,6 +1325,14 @@ Chemin:%3</translation>
         <source>Cancel</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Sync Progress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syncing, please wait…</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgVbaInstallation</name>
@@ -1321,15 +1341,15 @@ Chemin:%3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Need to support VBA macros run environment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you need to run these macros, please download and install VBA.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please download and install VBA to allow all macros to run if you need.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1360,35 +1380,11 @@ Chemin:%3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office you purchased has expired at used period, the program will automatically become free version, the part of the feature is not used properly./nWe extend the 15 - day renewal fee for your time, you can renew and enjoy the discount in this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Renew Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1-day trial period has ended.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office will be converted into free versions. At this point, some features not normally available, if you need to use these features, please purchase the WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save as ooxml format(docx)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check the spelling of the text in the current document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Online Templates on or off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1436,27 +1432,11 @@ Chemin:%3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Convert Presentation into Writer format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advanced Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Package into Folder/Compressed File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save as ooxml format(xlsx/xlsm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1496,10 +1476,6 @@ Chemin:%3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Goal-Seek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Find the right input when you know the result you want.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1509,6 +1485,50 @@ Chemin:%3</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The %1-day trial expires now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office you purchased has expired at used period, the program will automatically become free version, the part of the feature is not used properly./nWe extend the %1 - day renewal fee for your time, you can renew and enjoy the discount in this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as docx format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Online Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced Timeline </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package to Folder/Compressed File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as xlsx/xlsm format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1674,7 +1694,7 @@ Chemin:%3</translation>
     <name>KxLiveStateUpdateCache</name>
     <message>
         <source>Click icon</source>
-        <translation>cliquer l&apos;icône</translation>
+        <translation type="obsolete">cliquer l&apos;icône</translation>
     </message>
     <message>
         <source>You can view or send collaborative information.</source>
@@ -1711,6 +1731,10 @@ Chemin:%3</translation>
     <message>
         <source>You have logged in to the WPS Office account: &lt;br/&gt;%1&lt;br/&gt; You can %2 change your login account or sign out.</source>
         <translation>Vous êtes connecté au compte WPS: &lt;br/&gt;%1&lt;br/&gt; Vous pouvez %2 changer le compte ou vous déconnecter.</translation>
+    </message>
+    <message>
+        <source>Click Icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1767,16 +1791,52 @@ Chemin:%3</translation>
 <context>
     <name>KxQingActiveCodeDialog</name>
     <message>
-        <source>WPS Office Active Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter your active code here:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ACTIVING...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid activation code.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation code does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation code has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation code has exceeded the maximum number of activations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The server is busy. Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please update your system time to connect to server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your activation code here:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1787,6 +1847,18 @@ Chemin:%3</translation>
     </message>
     <message>
         <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office detects that the current system time and the actual time do not match. Please update your current system time to authenticate against the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1811,24 +1883,12 @@ Please purchase to continue using WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Renew now and you can get a discount. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Renew now &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1844,36 +1904,28 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The authorization will expire within today</source>
+        <source>Buy Now &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The authorization will expire after %1 days</source>
+        <source>Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription will expire after %1 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew Now &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription will expire by the end of the day</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
-    <message>
-        <source>WPS Office Disable Function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login or register our service.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Activion Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Active product.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>WPS Office Limited Features</source>
         <translation type="unfinished"></translation>
@@ -1886,6 +1938,26 @@ After expiration, some features will not work properly. Renew now and you can ge
         <source>To provoke you are paying customers can use any of the following ways:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Office Disable Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished">Se connecter</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your activation code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxQingWelcomeDlg</name>
@@ -1894,27 +1966,27 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Trail</source>
+        <source>Trial</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can trail our product %1 days.</source>
+        <source>Start your free %-day trial.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Login</source>
+        <source>Sign in</source>
+        <translation type="unfinished">Se connecter</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Login or register our service.</source>
+        <source>Enter Your Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter Activion Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Active product.</source>
+        <source>If you already have an activation code, use it to activate WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1932,15 +2004,50 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Need to support VBA macros run environment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are currently not included in the package purchase VBA, document macros will not work properly. If you need to run these macros, please purchase separately.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document contains macros.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial version does not support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Free cannot support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaInstallationDlg</name>
+    <message>
+        <source>Macros depend on VBA support to function correctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document contains macros.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please download and install VBA to allow all macros to run if you need.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1972,15 +2079,23 @@ After expiration, some features will not work properly. Renew now and you can ge
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
-        <translation>La suppression des fichiers ci-dessous a échoué. Veuillez vérifier si les fichiers sont en usage.</translation>
+        <translation type="obsolete">La suppression des fichiers ci-dessous a échoué. Veuillez vérifier si les fichiers sont en usage.</translation>
     </message>
     <message>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
-        <translation>La coupe des fichiers ci-dessous a échoué. Veuillez vérifier si les fichiers sont en usage.</translation>
+        <translation type="obsolete">La coupe des fichiers ci-dessous a échoué. Veuillez vérifier si les fichiers sont en usage.</translation>
     </message>
     <message>
         <source>Open</source>
         <translation type="obsolete">Ouvrir</translation>
+    </message>
+    <message>
+        <source>Failed to delete the following files. Please check if the files were in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to cut the following files. Please check if the files were in use.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

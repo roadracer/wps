@@ -865,7 +865,7 @@
 </context>
 <context>
     <name>KWppZoomSlider</name>
-    <message>
+    <message id="0">
         <source>Fit slide to current window</source>
         <translation>ウィンドウの大きさに合わせてスライドを拡大または縮小します</translation>
     </message>
@@ -886,10 +886,6 @@
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation>背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
-    </message>
-    <message>
-        <source>bgTemplate tooltip</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>bgMagic tooltip</source>
@@ -1126,10 +1122,6 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Template background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2099,18 +2091,6 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed &amp;True Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Just embed used chars</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed all &amp;characters (best for editing)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

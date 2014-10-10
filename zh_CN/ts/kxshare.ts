@@ -545,11 +545,11 @@
     </message>
     <message>
         <source>Layout will be changed at next start time</source>
-        <translation>界面布局更改将在下次启动 WPS Office 时生效</translation>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
     </message>
     <message>
         <source>Restart Office to bring the layout into effect</source>
-        <translation type="unfinished">界面布局更改将在下次启动 WPS Office 时生效</translation>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
     </message>
     <message>
         <source>2012 Style</source>
@@ -573,7 +573,7 @@
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation>界面布局更改将在下次启动 WPS Office 时生效</translation>
+        <translation type="obsolete">界面布局更改将在下次启动 WPS Office 时生效</translation>
     </message>
     <message>
         <source>Classic Skin</source>
@@ -801,11 +801,11 @@
     </message>
     <message>
         <source>Local language packages</source>
-        <translation>本地语言包</translation>
+        <translation type="obsolete">本地语言包</translation>
     </message>
     <message>
         <source>Online language packages</source>
-        <translation>在线语言包</translation>
+        <translation type="obsolete">在线语言包</translation>
     </message>
     <message>
         <source>Loading...</source>
@@ -813,11 +813,11 @@
     </message>
     <message>
         <source>Network error</source>
-        <translation>网络出错</translation>
+        <translation type="obsolete">网络出错</translation>
     </message>
     <message>
         <source>Get language package failed!</source>
-        <translation>下载语言包失败！</translation>
+        <translation type="obsolete">下载语言包失败！</translation>
     </message>
     <message>
         <source>Click to open the credits page.</source>
@@ -2021,7 +2021,7 @@
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Custom Menu</source>
-        <translation>自定义菜单</translation>
+        <translation type="obsolete">自定义菜单</translation>
     </message>
     <message>
         <source>Customize menu</source>
@@ -4610,11 +4610,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation>您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
+        <translation type="obsolete">您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
     </message>
     <message>
         <source>Renew</source>
@@ -4626,7 +4626,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>You still not Vip member, upgrade can download all fonts</source>
-        <translation>您还不是WPS高级会员，开通高级会员即可享用相应的VIP云字体及诸多会员特权。</translation>
+        <translation type="obsolete">您还不是WPS高级会员，开通高级会员即可享用相应的VIP云字体及诸多会员特权。</translation>
     </message>
     <message>
         <source>Upgrade</source>
@@ -4634,7 +4634,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation>无法连接到服务器，请检查您的网络连接。</translation>
+        <translation type="obsolete">无法连接到服务器，请检查您的网络连接。</translation>
     </message>
     <message>
         <source>OK</source>
@@ -4654,7 +4654,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>You still not a senior member，upgrade to enjoy more cloud fonts now.</source>
-        <translation>您还不是WPS高级会员，开通高级会员即可享用相应的VIP云字体及诸多会员特权。</translation>
+        <translation type="obsolete">您还不是WPS高级会员，开通高级会员即可享用相应的VIP云字体及诸多会员特权。</translation>
+    </message>
+    <message>
+        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4689,7 +4693,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Please login first</source>
-        <translation type="unfinished">使用云字体，需登录账号
+        <translation type="obsolete">使用云字体，需登录账号
 点击图标即可登录</translation>
     </message>
     <message>
@@ -4698,7 +4702,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Press to pause</source>
-        <translation type="unfinished">正在下载字体，请稍候...</translation>
+        <translation type="obsolete">正在下载字体，请稍候...</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
@@ -4706,7 +4710,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>VIP font, please upgrade to VIP first</source>
-        <translation type="unfinished">使用VIP字体，白银以上会员可享用</translation>
+        <translation type="obsolete">使用VIP字体，白银以上会员可享用</translation>
     </message>
     <message>
         <source>VIP soon to be expired</source>
@@ -4715,32 +4719,32 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>You have downloaded all online fonts, please keep looking forward for more.</source>
-        <translation>您已拥有所有云字体，请期待新款字体</translation>
+        <translation type="obsolete">您已拥有所有云字体，请期待新款字体</translation>
     </message>
     <message>
         <source>Click to list online font to top</source>
-        <translation>点击置顶云字体</translation>
+        <translation type="obsolete">点击置顶云字体</translation>
     </message>
     <message>
         <source>Click to shuffle online font</source>
-        <translation>点击混排云字体</translation>
+        <translation type="obsolete">点击混排云字体</translation>
     </message>
     <message>
         <source>Pleas login vip first</source>
-        <translation>使用VIP字体，白银以上会员可享用
+        <translation type="obsolete">使用VIP字体，白银以上会员可享用
 点击即可登录</translation>
     </message>
     <message>
         <source>Vip Font, Please login</source>
-        <translation>高级会员可享用VIP云字体，点击登录</translation>
+        <translation type="obsolete">高级会员可享用VIP云字体，点击登录</translation>
     </message>
     <message>
         <source>Free Font, Please login</source>
-        <translation>会员可使用免费云字体，点击登录</translation>
+        <translation type="obsolete">会员可使用免费云字体，点击登录</translation>
     </message>
     <message>
         <source>VIP font, your %1 has exprired, please renew</source>
-        <translation>您的%1会员已过期，点击续费
+        <translation type="obsolete">您的%1会员已过期，点击续费
 尊享云字体特权！</translation>
     </message>
     <message>
@@ -4749,19 +4753,19 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Your vip %1 has expired, please renew first</source>
-        <translation>您的%1会员已过期，点击续费享云字体特权！</translation>
+        <translation type="obsolete">您的%1会员已过期，点击续费享云字体特权！</translation>
     </message>
     <message>
         <source>Vip Font, Click to use</source>
-        <translation>VIP云字体，已安装</translation>
+        <translation type="obsolete">VIP云字体，已安装</translation>
     </message>
     <message>
         <source>Free Font, Click to use</source>
-        <translation>云字体，已安装</translation>
+        <translation type="obsolete">云字体，已安装</translation>
     </message>
     <message>
         <source>Free Font, Free to download</source>
-        <translation>免费云字体，点击下载安装</translation>
+        <translation type="obsolete">免费云字体，点击下载安装</translation>
     </message>
     <message>
         <source>It&apos;s downloading, please wait...</source>
@@ -4858,7 +4862,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Downloading fonts, please wait…</source>
-        <translation type="unfinished">正在下载字体，请稍候...</translation>
+        <translation type="obsolete">正在下载字体，请稍候...</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
@@ -4884,6 +4888,10 @@ Click the icon to sign in now.</source>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
         <translation>您的%1会员已过期，点击续费享云字体特权！</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4993,6 +5001,52 @@ Click the icon to sign in now.</source>
     <message>
         <source>Printing %1 page of %2</source>
         <translation>正在打印第 %1 页，总共 %2 页</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>Writer</source>
+        <translation type="obsolete">文字</translation>
+    </message>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished">您当前使用的是WPS Office 免费版。</translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
+        <translation type="unfinished">打印时会附带WPS Office水印，我们建议您在打印前先点击“打印预览”查看具体效果。</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished">打印(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation type="unfinished">打印预览(&amp;V)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintWatermarkDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished">您当前使用的是WPS Office 免费版。</translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. </source>
+        <translation type="unfinished">打印时会附带WPS Office水印。</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">确定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again.</source>
+        <translation type="unfinished">不再显示</translation>
     </message>
 </context>
 <context>
@@ -6276,7 +6330,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Customize animation:</source>
-        <translation type="unfinished">自定义动画:</translation>
+        <translation type="obsolete">自定义动画:</translation>
     </message>
     <message>
         <source>Custom animation:</source>
@@ -6336,12 +6390,12 @@ Do you want to override it?</source>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation>无法打开 “%1”。
+        <translation type="obsolete">无法打开 “%1”。
 此文件可能被重命名、删除或移动了位置。</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation>打开文件所在文件夹</translation>
+        <translation type="obsolete">打开文件所在文件夹</translation>
     </message>
     <message>
         <source>
@@ -6439,12 +6493,12 @@ This file may be renamed , deleted or moved the location.</source>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation>无法打开 “%1”。
+        <translation type="obsolete">无法打开 “%1”。
 此文件可能被重命名、删除或移动了位置。</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation>打开文件所在文件夹</translation>
+        <translation type="obsolete">打开文件所在文件夹</translation>
     </message>
     <message>
         <source>Management</source>
@@ -7099,7 +7153,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Blue Grey</source>
-        <translation>蓝灰</translation>
+        <translation type="obsolete">蓝灰</translation>
     </message>
     <message>
         <source>Blue Violet</source>

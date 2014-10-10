@@ -3874,7 +3874,7 @@ On/Off</source>
         <translation>Feedback en Productinformatie</translation>
     </message>
     <message>
-        <source>Feedback via E-mail</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7773,7 +7773,7 @@ Add-Ins</source>
         <translation type="obsolete">Feedback</translation>
     </message>
     <message>
-        <source>Feedback via E-mail</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9418,7 +9418,7 @@ Add-Ins</source>
         <translation>Feedback en Productinformatie</translation>
     </message>
     <message>
-        <source>Feedback via E-mail</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -4074,7 +4074,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation></translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Border</source>
@@ -4660,24 +4660,20 @@ Example: +4 will move forward four items:</source>
 <context>
     <name>KxDlgMergeCompare</name>
     <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
-    </message>
-    <message>
-        <source>Field&amp;s</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Original document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Revised document</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
     </message>
     <message>
         <source>Comparison settings</source>
@@ -4705,6 +4701,10 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Case chan&amp;ges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field&amp;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4855,7 +4855,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation></translation>
+        <translation>&amp;Все</translation>
     </message>
     <message>
         <source>rbCurrentRecord</source>
@@ -5353,7 +5353,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Общие параметры и сохранение</translation>
+        <translation>Общие и сохранение</translation>
     </message>
     <message>
         <source>General options</source>
@@ -6258,22 +6258,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation>Помогите нам улучшить WPS Office</translation>
     </message>
     <message>
-        <source>Set default target out&amp;put to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>220 ppi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>150 ppi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>96 ppi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>F&amp;onts Preview Box</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6291,6 +6275,22 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set default target out&amp;put to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>220 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>150 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>96 ppi</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9676,18 +9676,6 @@ This change will affect all new documents based on the %1 template.</source>
 <context>
     <name>KxMergeCompareDlg</name>
     <message>
-        <source>browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Compare Documents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9716,6 +9704,10 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;&lt; &amp;Less</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9728,7 +9720,15 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cannot compare the unsaved read-only document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10261,15 +10261,15 @@ Cancel:	Return to the dialog.</source>
 <context>
     <name>KxOnlineFontTipDlg</name>
     <message>
-        <source>Renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cannot connect to this service. Check your network connection please.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

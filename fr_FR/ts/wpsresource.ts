@@ -727,6 +727,10 @@
         <translation>Insérer une image clipart</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translatorcomment>1.View-&gt;Toolbars-&gt;Drawing 2.Insert-&gt;Picture</translatorcomment>
         <translation>Insérer une image</translation>
@@ -738,7 +742,7 @@
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Left</source>
@@ -817,7 +821,11 @@
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>L&apos;image en ligne</translation>
+        <translation type="obsolete">L&apos;image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -2094,10 +2102,6 @@
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translatorcomment>View-&gt;Toolbars-&gt;Standard</translatorcomment>
@@ -3636,8 +3640,12 @@ du texte</translation>
         <translation>Commentaires et informations relatives au produit</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">Commentaires par courrier électronique</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4637,6 +4645,10 @@ pied de page</translation>
         <translation>Insérer une image clipart</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Insérer une image</translation>
     </message>
@@ -4657,7 +4669,7 @@ pied de page</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4696,7 +4708,11 @@ pied de page</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>L&apos;image en ligne</translation>
+        <translation type="obsolete">L&apos;image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page
@@ -5882,12 +5898,16 @@ une image</translation>
         <translation>Insérer une image clipart</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Insérer une image</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -5971,7 +5991,11 @@ une image</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>L&apos;image en ligne</translation>
+        <translation type="obsolete">L&apos;image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -8963,6 +8987,10 @@ automatiquement</translation>
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Sauvegarde de fichier</translation>
     </message>
@@ -8988,8 +9016,12 @@ automatiquement</translation>
         <translation>Embaucher</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -9014,7 +9046,11 @@ automatiquement</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>L&apos;image en ligne</translation>
+        <translation type="obsolete">L&apos;image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -9023,7 +9059,7 @@ automatiquement</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mode de protection des yeux</translation>
+        <translation type="obsolete">Mode de protection des yeux</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -9050,8 +9086,16 @@ automatiquement</translation>
         <translation>Connexion</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Special tool</source>
-        <translation>Outil spécial</translation>
+        <translation type="obsolete">Outil spécial</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -9079,7 +9123,7 @@ des utilisateurs</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Outils de mot</translation>
+        <translation type="obsolete">Outils de mot</translation>
     </message>
 </context>
 <context>
@@ -9237,8 +9281,12 @@ Add-Ins</source>
         <translation>Tabulation centrée</translation>
     </message>
     <message>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Accout</source>
-        <translation>Modifier le compte</translation>
+        <translation type="obsolete">Modifier le compte</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -9562,8 +9610,12 @@ une diagonale dans la cellule</translation>
         <translation>Calcul rapide</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9656,7 +9708,7 @@ une diagonale dans la cellule</translation>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>Capture d&apos;écran</translation>
+        <translation type="obsolete">Capture d&apos;écran</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -9739,6 +9791,10 @@ une diagonale dans la cellule</translation>
         <translation>Insérer plusieurs lignes</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>Insérer un tableau</translation>
     </message>
@@ -9752,7 +9808,7 @@ une diagonale dans la cellule</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -9864,7 +9920,11 @@ une diagonale dans la cellule</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>L&apos;image en ligne</translation>
+        <translation type="obsolete">L&apos;image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -10091,6 +10151,10 @@ une diagonale dans la cellule</translation>
     <message>
         <source>Save to File</source>
         <translation>Enregistrer dans un fichier</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Section</source>
@@ -10404,10 +10468,6 @@ une diagonale dans la cellule</translation>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>Changer d&apos;interface utilisateur</translation>
@@ -11154,8 +11214,12 @@ une diagonale dans la cellule</translation>
         <translation>Commentaires et informations relatives au produit</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Commentaires par courrier électronique</translation>
+        <translation type="obsolete">Commentaires par courrier électronique</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -15305,6 +15369,10 @@ automatiquement</translation>
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Sauvegarde de fichier</translation>
     </message>
@@ -15325,8 +15393,12 @@ automatiquement</translation>
         <translation>Embaucher</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -15350,7 +15422,11 @@ automatiquement</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>L&apos;image en ligne</translation>
+        <translation type="obsolete">L&apos;image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -15358,7 +15434,7 @@ automatiquement</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mode de protection des yeux</translation>
+        <translation type="obsolete">Mode de protection des yeux</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -15381,8 +15457,16 @@ automatiquement</translation>
         <translation>Connexion</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Special tool</source>
-        <translation>Outil spécial</translation>
+        <translation type="obsolete">Outil spécial</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -15411,7 +15495,7 @@ des utilisateurs</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Outils de mot</translation>
+        <translation type="obsolete">Outils de mot</translation>
     </message>
 </context>
 <context>
@@ -15492,8 +15576,12 @@ des utilisateurs</translation>
         <translation>File Roaming</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
-        <translation>Insérer une image en ligne</translation>
+        <translation type="obsolete">Insérer une image en ligne</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -15501,7 +15589,11 @@ des utilisateurs</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>L&apos;image en ligne</translation>
+        <translation type="obsolete">L&apos;image en ligne</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -15532,6 +15624,10 @@ des utilisateurs</translation>
         <translation>Déconnexion</translation>
     </message>
     <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Commentaires des utilisateur</translation>
     </message>
@@ -15557,7 +15653,7 @@ des utilisateurs</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Outils de mot</translation>
+        <translation type="obsolete">Outils de mot</translation>
     </message>
 </context>
 <context>
@@ -15881,6 +15977,10 @@ des utilisateurs</translation>
         <translation>Développer</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Commentaires</translation>
     </message>
@@ -15930,7 +16030,7 @@ des utilisateurs</translation>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>Capture d&apos;écran</translation>
+        <translation type="obsolete">Capture d&apos;écran</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -15989,8 +16089,12 @@ des utilisateurs</translation>
         <translation>Macros</translation>
     </message>
     <message>
+        <source>Mail FeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>MailFeedBack</source>
-        <translation>Commentaire par mail</translation>
+        <translation type="obsolete">Commentaire par mail</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -16126,7 +16230,7 @@ directement</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mode de protection des yeux</translation>
+        <translation type="obsolete">Mode de protection des yeux</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -16597,10 +16701,6 @@ directement</translation>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translation>Changer d&apos;interface utilisateur</translation>
     </message>
@@ -16823,10 +16923,6 @@ directement</translation>
     <message>
         <source>OK</source>
         <translation type="obsolete">OK</translation>
-    </message>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>

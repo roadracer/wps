@@ -2605,8 +2605,12 @@ Ligado</translation>
         <translation>Feedback e Informação do Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback via E-mail</translation>
+        <translation type="obsolete">Feedback via E-mail</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -6605,8 +6609,12 @@ Add-Ins</translation>
         <translation>Exportar para Pacote</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback via E-mail</translation>
+        <translation type="obsolete">Feedback via E-mail</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -8018,8 +8026,12 @@ Master</translation>
         <translation>Feedback e Informação do Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback via E-mail</translation>
+        <translation type="obsolete">Feedback via E-mail</translation>
     </message>
     <message>
         <source>File Information</source>

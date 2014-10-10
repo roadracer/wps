@@ -4259,7 +4259,7 @@ On/Off</source>
         <translation>تعليقات ومعلومات المنتج</translation>
     </message>
     <message>
-        <source>Feedback via E-mail</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8597,7 +8597,7 @@ Add-Ins</source>
         <translation type="obsolete">تعليقات</translation>
     </message>
     <message>
-        <source>Feedback via E-mail</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10410,7 +10410,7 @@ AddIns</source>
         <translation>تعليقات ومعلومات المنتج</translation>
     </message>
     <message>
-        <source>Feedback via E-mail</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

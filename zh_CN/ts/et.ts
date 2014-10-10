@@ -475,7 +475,7 @@ condition is true:</source>
         <source>Enter the name or the description of the function you want to look for.</source>
         <translation type="obsolete">请输入您要查找的函数名称或函数功能的简要描述...</translation>
     </message>
-    <message>
+    <message id="0">
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>请输入您要查找的函数名称或函数功能的简要描述...</translation>
     </message>
@@ -1117,11 +1117,11 @@ condition is true:</source>
     </message>
     <message>
         <source>is a invalid addins macro file.</source>
-        <translation type="unfinished">为无效的加载宏。</translation>
+        <translation type="obsolete">为无效的加载宏。</translation>
     </message>
     <message>
         <source>Automation Server</source>
-        <translation>自动化服务器</translation>
+        <translation type="obsolete">自动化服务器</translation>
     </message>
     <message>
         <source>is a invalid automation server.</source>
@@ -1129,27 +1129,27 @@ condition is true:</source>
     </message>
     <message>
         <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
-        <translation>文件不包含自动化服务器或是没有足够的权限在自动化服务上注册。</translation>
+        <translation type="obsolete">文件不包含自动化服务器或是没有足够的权限在自动化服务上注册。</translation>
     </message>
     <message>
         <source>A File named</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>already exists in this location, or it is a invalid addins macro file.</source>
-        <translation>已存在于列表中，或是该文件是无效加载宏。</translation>
+        <translation type="obsolete">已存在于列表中，或是该文件是无效加载宏。</translation>
     </message>
     <message>
         <source>already exists in this location, or it does not contain a valid Automation Server.</source>
-        <translation>已存在于列表中，或是该文件没有包含自动化服务器。</translation>
+        <translation type="obsolete">已存在于列表中，或是该文件没有包含自动化服务器。</translation>
     </message>
     <message>
         <source>does not contain a valid Automation Server.</source>
-        <translation>没有包含自动化服务器。</translation>
+        <translation type="obsolete">没有包含自动化服务器。</translation>
     </message>
     <message>
         <source>already exists in this location, Do you want to replace it?</source>
-        <translation>已存在于列表中，您希望将文件替换掉吗？</translation>
+        <translation type="obsolete">已存在于列表中，您希望将文件替换掉吗？</translation>
     </message>
     <message>
         <source>Cannot find the Add-Ins.</source>
@@ -1599,7 +1599,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="obsolete">所选的连接类型不能用于创建数据透视表</translation>
+        <translation type="unfinished">所选的连接类型不能用于创建数据透视表</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -1621,7 +1621,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation type="unfinished">所选的连接类型不能用于创建数据透视表.</translation>
+        <translation type="obsolete">所选的连接类型不能用于创建数据透视表.</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
@@ -1638,10 +1638,6 @@ condition is true:</source>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation>您不能使用当前数据来创建数据透视表。请检查引用区域是否有效，指定工作表是否存在。</translation>
-    </message>
-    <message>
-        <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="unfinished">所选的连接类型不能用于创建数据透视表.</translation>
     </message>
 </context>
 <context>
@@ -2543,7 +2539,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Category:</source>
-        <translation>分类(T)</translation>
+        <translation type="obsolete">分类(T)</translation>
     </message>
     <message>
         <source>&amp;Refer to:</source>
@@ -4491,7 +4487,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>第一次保存时生成备份文件(&amp;B)</translation>
+        <translation type="obsolete">第一次保存时生成备份文件(&amp;B)</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -9677,7 +9673,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>The data source contains no visible form</source>
-        <translation type="unfinished">数据源中没有包含可见的表格.</translation>
+        <translation type="obsolete">数据源中没有包含可见的表格.</translation>
     </message>
     <message>
         <source>This data source contains no visible tables.</source>

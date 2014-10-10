@@ -589,16 +589,16 @@
         <translation>クリップアート</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>画像を挿入</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>アート文字を挿入</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -657,7 +657,7 @@
         <translation>微調整</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -843,14 +843,6 @@
     <message>
         <source>Weight</source>
         <translation>線の種類</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1622,10 +1614,6 @@ Master</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI切り替え</translation>
@@ -2971,8 +2959,12 @@ On</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">改善要望</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4181,6 +4173,10 @@ Footer</source>
         <translation>ハイパーリンク挿入</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Organization Chart</source>
         <translation>組織図の挿入</translation>
     </message>
@@ -4195,10 +4191,6 @@ Footer</source>
     <message>
         <source>Insert WordArt</source>
         <translation>アート文字の挿入</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -4221,7 +4213,7 @@ Footer</source>
         <translation>オブジェクト</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4301,14 +4293,6 @@ Number</source>
         <source>WordArt</source>
         <translation>アート
 文字</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7253,7 +7237,7 @@ Shape</source>
         <translation>Kingsoft Officeを改良するために支援して下さい。</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7349,7 +7333,7 @@ Shape</source>
         <translation>ユーザークラウド</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7389,7 +7373,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7443,18 +7427,6 @@ Shape</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">Weiboツール</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7923,8 +7895,12 @@ Add-Ins</source>
         <translation>パッケージにエクスポート</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -7961,10 +7937,6 @@ Add-Ins</source>
     <message>
         <source>Go to Slide</source>
         <translation>スライドへジャンプ</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -8047,6 +8019,10 @@ Add-Ins</source>
         <translation>列（右）</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Rows</source>
         <translation type="obsolete">行の挿入</translation>
     </message>
@@ -8061,10 +8037,6 @@ Add-Ins</source>
     <message>
         <source>Insert Tab</source>
         <translation type="obsolete">タブの挿入</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -8253,7 +8225,7 @@ Master</source>
         <translation>オブジェクトメニューリスト</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8479,6 +8451,10 @@ Master</source>
     <message>
         <source>Screen</source>
         <translation>スクリーン</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -8796,25 +8772,9 @@ Master</source>
         <source>weiboshare</source>
         <translation type="obsolete">Weiboで共有</translation>
     </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI切り替え</translation>
@@ -9618,8 +9578,12 @@ AddIns</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -11422,12 +11386,12 @@ Subordinate</source>
         <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
-        <source>Insert Picture</source>
-        <translation>グラフィックス挿入</translation>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <source>Insert Picture</source>
+        <translation>グラフィックス挿入</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11494,7 +11458,7 @@ Subordinate</source>
         <translation>影の微調整(上)</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11642,14 +11606,6 @@ Subordinate</source>
     <message>
         <source>Weight</source>
         <translation>線の種類</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13326,7 +13282,7 @@ Effects</source>
         <translation>Kingsoft Officeを改良するために支援して下さい</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13422,7 +13378,7 @@ Effects</source>
         <translation> ユーザークラウド</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13462,7 +13418,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13512,18 +13468,6 @@ Effects</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">Weiboツール</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16470,7 +16414,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>ファイルローミング</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16518,7 +16462,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
-        <source>Online Picture</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16620,14 +16564,6 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>weiboshare</source>
         <translation type="obsolete">Weiboで共有</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

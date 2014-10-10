@@ -841,11 +841,15 @@
     </message>
     <message>
         <source>bgTemplate tooltip</source>
-        <translation>bgTemplate tooltip</translation>
+        <translation type="obsolete">bgTemplate tooltip</translation>
     </message>
     <message>
         <source>bgMagic tooltip</source>
         <translation>bgMagic tooltip</translation>
+    </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1072,11 +1076,15 @@
     </message>
     <message>
         <source>Template background</source>
-        <translation>Modèle d&apos;arrière-plan</translation>
+        <translation type="obsolete">Modèle d&apos;arrière-plan</translation>
     </message>
     <message>
         <source>Magic Backgroud</source>
         <translation>Arrière-plan magique</translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2144,15 +2152,27 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Embed &amp;True Type</source>
-        <translation>Incorporer &amp;True Type</translation>
+        <translation type="obsolete">Incorporer &amp;True Type</translation>
     </message>
     <message>
         <source>&amp;Just embed used chars</source>
-        <translation>Incorporer seulement les chars utilisés</translation>
+        <translation type="obsolete">Incorporer seulement les chars utilisés</translation>
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing)</source>
-        <translation>Incorporer tous les caractères (meilleur pour la rédaction)</translation>
+        <translation type="obsolete">Incorporer tous les caractères (meilleur pour la rédaction)</translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -6,11 +6,11 @@
     <name>field_parser_index</name>
     <message>
         <source>Alphabet</source>
-        <translation>英文字母</translation>
+        <translation type="obsolete">英文字母</translation>
     </message>
     <message>
         <source>Error!Can not find xe.</source>
-        <translation>错误！未找到索引项。</translation>
+        <translation type="obsolete">错误！未找到索引项。</translation>
     </message>
     <message>
         <source>Chinese</source>
@@ -18,19 +18,19 @@
     </message>
     <message>
         <source>Error!Bookmark the page of an invalid.</source>
-        <translation>错误！页面上某项中的书签无效。</translation>
+        <translation type="obsolete">错误！页面上某项中的书签无效。</translation>
     </message>
     <message>
         <source>Error!Is not a valid character range.</source>
-        <translation>错误！不是有效的字符范围。</translation>
+        <translation type="obsolete">错误！不是有效的字符范围。</translation>
     </message>
     <message>
         <source>Error!Switch parameter is not specified.</source>
-        <translation>错误！未指定开关参数。</translation>
+        <translation type="obsolete">错误！未指定开关参数。</translation>
     </message>
     <message>
         <source>Error!Switch parameter unrecognizable.</source>
-        <translation>错误！不能识别的开关参数。</translation>
+        <translation type="obsolete">错误！不能识别的开关参数。</translation>
     </message>
     <message>
         <source>Stroke</source>
@@ -42,11 +42,11 @@
     </message>
     <message>
         <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation>错误！脚注、尾注、页眉、页脚或批注中不允许有索引。</translation>
+        <translation type="obsolete">错误！脚注、尾注、页眉、页脚或批注中不允许有索引。</translation>
     </message>
     <message>
         <source>wps can not update index!</source>
-        <translation>wps无法更新索引!</translation>
+        <translation type="obsolete">wps无法更新索引!</translation>
     </message>
     <message>
         <source>Alphanumeric</source>
@@ -246,22 +246,22 @@ Try one or more of the following:
     <message>
         <source>Only main text.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation>仅主文档。</translation>
+        <translation type="obsolete">仅主文档。</translation>
     </message>
     <message>
         <source>Error! lack of test conditions.</source>
         <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
-        <translation>错误！缺少测试条件。</translation>
+        <translation type="obsolete">错误！缺少测试条件。</translation>
     </message>
     <message>
         <source>Error! cannot recognize the condition operation code.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation>错误！不能识别的条件操作码。</translation>
+        <translation type="obsolete">错误！不能识别的条件操作码。</translation>
     </message>
     <message>
         <source>Error! lack of the second part test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
-        <translation>错误！缺少测试条件的第二部分。</translation>
+        <translation type="obsolete">错误！缺少测试条件的第二部分。</translation>
     </message>
     <message>
         <source>Error. Unknown op code for conditional.</source>
@@ -928,7 +928,7 @@ Do you want to replace it?</source>
     <message>
         <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
-        <translation>是否放弃对“%s”的更新并加载最新版本?</translation>
+        <translation type="obsolete">是否放弃对“%s”的更新并加载最新版本?</translation>
     </message>
     <message>
         <source>At least </source>
@@ -2377,20 +2377,20 @@ Do you want to replace it?</source>
     <message>
         <source>no proofing</source>
         <comment>TxLanguage_NoProofing</comment>
-        <translation>(不作校对)</translation>
+        <translation type="obsolete">(不作校对)</translation>
     </message>
     <message>
         <source>WPS Make the office more relaxed</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation>WPS让办公更轻松</translation>
+        <translation type="obsolete">WPS让办公更轻松</translation>
     </message>
     <message>
         <source>Document is under protected, can not be merged</source>
-        <translation>文档被保护,不能合并</translation>
+        <translation type="obsolete">文档被保护,不能合并</translation>
     </message>
     <message>
         <source>There are one or all documents contain revsions, continue compare or not?</source>
-        <translation>所比较的两个文档中有一个或全部含有修订。为进行比较，Wps会将这些修订视为已接受。是否继续比较？</translation>
+        <translation type="obsolete">所比较的两个文档中有一个或全部含有修订。为进行比较，Wps会将这些修订视为已接受。是否继续比较？</translation>
     </message>
     <message>
         <source>WPS Writer has reached the beginning of the document.</source>
@@ -4740,7 +4740,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>数字必须介于 %d 和 %d 之间。</translation>
+        <translation type="obsolete">数字必须介于 %d 和 %d 之间。</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
@@ -5260,6 +5260,11 @@ Cancel:	Return to the dialog.</source>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished">已完成对“%s”的搜索，未找到搜索项。</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished">数字必须介于 %d 和 %d 之间。</translation>
     </message>
 </context>
 <context>
@@ -6815,7 +6820,7 @@ Changes</source>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
-        <translation>WPS文字 2007/2010 模板文件(*.wptx)</translation>
+        <translation type="obsolete">WPS文字 2007/2010 模板文件(*.wptx)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et) | *.et; |</source>

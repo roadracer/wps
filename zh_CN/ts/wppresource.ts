@@ -589,6 +589,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
@@ -598,7 +602,7 @@
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Line</source>
@@ -658,6 +662,10 @@
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -843,14 +851,6 @@
     <message>
         <source>Weight</source>
         <translation>线型</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -1616,7 +1616,7 @@ Master</source>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -2991,8 +2991,12 @@ On</source>
         <translation>问题反馈及产品信息</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">WPS 客服邮箱</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4195,6 +4199,10 @@ Footer</source>
         <translation>插入超链接 (Ctrl+K)</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Organization Chart</source>
         <translation>插入组织结构图</translation>
     </message>
@@ -4212,7 +4220,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4236,6 +4244,10 @@ Footer</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -4319,14 +4331,6 @@ Number</source>
     <message>
         <source>WordArt</source>
         <translation>艺术字</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -7342,8 +7346,12 @@ Shape</source>
         <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -7447,6 +7455,10 @@ Shape</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -7490,8 +7502,12 @@ Shape</source>
         <translation>幻灯片库</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation>特色功能</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -7548,18 +7564,6 @@ Shape</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">长微博</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>特色功能</translation>
     </message>
 </context>
 <context>
@@ -8020,8 +8024,12 @@ Add-Ins</source>
         <translation>打包</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -8061,7 +8069,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>截屏</translation>
+        <translation type="obsolete">截屏</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -8140,6 +8148,10 @@ Add-Ins</source>
         <translation type="unfinished">在右侧插入列</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Rows</source>
         <translation type="obsolete">插入行</translation>
     </message>
@@ -8157,7 +8169,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -8383,6 +8395,10 @@ Master</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -8588,6 +8604,10 @@ Master</source>
     <message>
         <source>Screen</source>
         <translation>屏幕</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -8897,24 +8917,12 @@ Master</source>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>截屏</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -9762,8 +9770,12 @@ AddIns</source>
         <translation>问题反馈及产品信息</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -11613,12 +11625,16 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -11686,6 +11702,10 @@ Subordinate</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -11831,14 +11851,6 @@ Subordinate</source>
     <message>
         <source>Weight</source>
         <translation>线型</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
     </message>
 </context>
 <context>
@@ -13524,8 +13536,12 @@ Effects</source>
         <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -13629,6 +13645,10 @@ Effects</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -13672,8 +13692,12 @@ Effects</source>
         <translation>幻灯片库</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation>特色功能</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -13730,18 +13754,6 @@ Effects</source>
     <message>
         <source>weibotool</source>
         <translation type="obsolete">长微博</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>特色功能</translation>
     </message>
 </context>
 <context>
@@ -17144,8 +17156,12 @@ Click the arrow to choose more outline styles.</source>
         <translation>文档漫游</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -17209,6 +17225,10 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>在线图片</translation>
     </message>
     <message>
@@ -17314,14 +17334,6 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>在线图片</translation>
     </message>
 </context>
 <context>

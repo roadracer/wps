@@ -1780,12 +1780,12 @@ No se puede ejecutar ese comando en una hoja protegida.<byte value="x17"/>Para d
     <message>
         <source>DialogFrame</source>
         <comment>Dialog Caption</comment>
-        <translation>Marco del diálogo</translation>
+        <translation type="obsolete">Marco del diálogo</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation>No se puede ejecutar este comando en una hoja protegida. Para usar este comando, desproteja primero la hoja (pestaña Revisar. grupo Cambios, botón Desproteger hoja). Puede que se le pida una contraseña.</translation>
+        <translation type="obsolete">No se puede ejecutar este comando en una hoja protegida. Para usar este comando, desproteja primero la hoja (pestaña Revisar. grupo Cambios, botón Desproteger hoja). Puede que se le pida una contraseña.</translation>
     </message>
     <message>
         <source>General</source>
@@ -1890,7 +1890,7 @@ No se puede ejecutar ese comando en una hoja protegida.<byte value="x17"/>Para d
     <message>
         <source>The data source contains no visible form</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation>El origen de datos no contiene un formulario visible.</translation>
+        <translation type="obsolete">El origen de datos no contiene un formulario visible.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -2182,9 +2182,24 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Whether to modify the existing classification?</source>
-        <comment>TX_ChangeAutoOutline</comment>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify existing outline?</source>
+        <comment>TX_ChangeAutoOutline</comment>
+        <translation type="unfinished">¿Desea modificar el esquema existente?</translation>
     </message>
 </context>
 <context>
@@ -2532,17 +2547,27 @@ Continue without Undo?</source>
     <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
-        <translation>No se puede quitar información duplicada cuando el rango tiene un esquema. Si desea quitar duplicados, borre el esquema y vuelva a realizar la operación para quitar duplicados.</translation>
+        <translation type="obsolete">No se puede quitar información duplicada cuando el rango tiene un esquema. Si desea quitar duplicados, borre el esquema y vuelva a realizar la operación para quitar duplicados.</translation>
     </message>
     <message>
         <source>No Column has been chosen.</source>
         <comment>TX_RepeatWord_No_Column</comment>
-        <translation>No columnas se han seleccionado.</translation>
+        <translation type="obsolete">No columnas se han seleccionado.</translation>
     </message>
     <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
         <translation type="unfinished">Tabla_</translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
+        <comment>TX_RepeatWord_Group_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Column has been selected.</source>
+        <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2590,32 +2615,32 @@ Valor</translation>
     <message>
         <source>Miss Next function for loop!</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation>¡Falta la función SALIR.BUCLE!</translation>
+        <translation type="obsolete">¡Falta la función SALIR.BUCLE!</translation>
     </message>
     <message>
         <source>Miss Loop!</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation>¡Falta Bucle!</translation>
+        <translation type="obsolete">¡Falta Bucle!</translation>
     </message>
     <message>
         <source>Miss IF function!</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation>¡Falta la función IF!</translation>
+        <translation type="obsolete">¡Falta la función IF!</translation>
     </message>
     <message>
         <source>Miss END.IF function!</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation>Falta una función FIN.SI.</translation>
+        <translation type="obsolete">Falta una función FIN.SI.</translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet!</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation>¡No se puede encontrar VOLVER() o DETENER() en la hoja de macros!</translation>
+        <translation type="obsolete">¡No se puede encontrar VOLVER() o DETENER() en la hoja de macros!</translation>
     </message>
     <message>
         <source>Illegal reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation>Argumento de referencia no válido en:</translation>
+        <translation type="obsolete">Argumento de referencia no válido en:</translation>
     </message>
     <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
@@ -2636,6 +2661,36 @@ Uso de límites de fórmulas no admitidos en una versión anterior de WPS Spread
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
         <translation>Interrupción de la macro en la celda:</translation>
+    </message>
+    <message>
+        <source>Missing NEXT function for loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing IF.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing an END.IF function.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3235,12 +3290,12 @@ Hay errores con la  consulta generada.</translation>
     <message>
         <source>map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation>mapa</translation>
+        <translation type="obsolete">mapa</translation>
     </message>
     <message>
         <source>Fail to open xml file. file not exit or syntax error</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation>Error al abrir el archivo xml. El archvo no existe o error de sintaxis </translation>
+        <translation type="obsolete">Error al abrir el archivo xml. El archvo no existe o error de sintaxis </translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
@@ -3265,6 +3320,16 @@ Hay errores con la  consulta generada.</translation>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7167,12 +7232,12 @@ Para cambiar el nombre del rango al que se hace referencia en la fórmula u hoja
     <message>
         <source>DIF (Data Interchange File)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation>DIF(Archivo de Intercambio de Datos)(*.dif)</translation>
+        <translation type="obsolete">DIF(Archivo de Intercambio de Datos)(*.dif)</translation>
     </message>
     <message>
         <source>DIF Data Interchange File(*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
-        <translation>DIF Archivo de Intercambio de Datos(*.dif)</translation>
+        <translation type="obsolete">DIF Archivo de Intercambio de Datos(*.dif)</translation>
     </message>
     <message>
         <source>Field</source>
@@ -7316,7 +7381,7 @@ Si desea guardar todas las hojas del libro, use un nombre de archivo distinto pa
     <message>
         <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
-        <translation>Todos los origenes de datos(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+        <translation type="obsolete">Todos los origenes de datos(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
     <message>
         <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
@@ -7413,11 +7478,6 @@ Aviso: unos archivos pueden contener virus macros y ejecución de ellos puede ca
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
-        <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Kingsoft Spreadsheets Template(*.ettx)</source>
         <comment>TX_ssDesc_EtxTemp_</comment>
         <translation type="obsolete">Plantilla de Kingsoft Spreadsheets(*.ettx)</translation>
@@ -7426,6 +7486,26 @@ Aviso: unos archivos pueden contener virus macros y ejecución de ellos puede ca
         <source>WPS Spreadsheets Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
         <translation type="obsolete">Arcivho de WPS Spreadsheets(*.et) </translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Interchange Format (*.dif)</source>
+        <comment>TX_ssDesc_Dif_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DIF (Data Interchange Format)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12347,7 +12427,7 @@ Workbook</source>
     <message>
         <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation>es el nombre del ProgID de un complemento de automatización COM registrado. Encierre el texto entre comillas.</translation>
+        <translation type="obsolete">es el nombre del ProgID de un complemento de automatización COM registrado. Encierre el texto entre comillas.</translation>
     </message>
     <message>
         <source>Server</source>
@@ -12357,7 +12437,7 @@ Workbook</source>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
-        <translation>es el nombre del servidor donde se debe ejecutar el complemento.Encierre el nombre entre comillas. Si el complemento se ejecuta localmente, use una cadena vacía.</translation>
+        <translation type="obsolete">es el nombre del servidor donde se debe ejecutar el complemento.Encierre el nombre entre comillas. Si el complemento se ejecuta localmente, use una cadena vacía.</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
@@ -13358,6 +13438,16 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Icon_file</source>
         <comment>TX_ParaInfo_302</comment>
         <translation type="obsolete">archivo_icono</translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">es el nombre del ProgID de un complemento de automatización COM registrado. Encierre el texto entre comillas.</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">es el nombre del servidor donde se debe ejecutar el complemento. Encierre el texto entre comillas. Si el complemento se ejecuta localmente, use una cadena vacía.</translation>
     </message>
 </context>
 <context>

@@ -617,6 +617,10 @@
         <translation>ClipArt einfügen</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
     </message>
@@ -626,7 +630,7 @@
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="obsolete">Onlinebild einfügen</translation>
     </message>
     <message>
         <source>Left</source>
@@ -706,6 +710,10 @@
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">Onlinebild</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>Onlinebild</translation>
     </message>
     <message>
@@ -919,14 +927,6 @@
     <message>
         <source>Wrap Text</source>
         <translation>Textumbruch</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
     </message>
 </context>
 <context>
@@ -1918,10 +1918,6 @@ Daten anzeigen</translation>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI wechseln</translation>
@@ -3360,8 +3356,12 @@ Direction</source>
         <translation>Hilfe Titel</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback per E-Mail</translation>
+        <translation type="obsolete">Feedback per E-Mail</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4411,6 +4411,10 @@ Footer</source>
         <translation>ClipArt einfügen</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
     </message>
@@ -4448,7 +4452,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="obsolete">Onlinebild einfügen</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4480,6 +4484,10 @@ Footer</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">Onlinebild</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>Onlinebild</translation>
     </message>
     <message>
@@ -4589,14 +4597,6 @@ bol</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
     </message>
 </context>
 <context>
@@ -5667,12 +5667,16 @@ Picture</source>
         <translation>ClipArt einfügen</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="obsolete">Onlinebild einfügen</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -5752,6 +5756,10 @@ Picture</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">Onlinebild</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>Onlinebild</translation>
     </message>
     <message>
@@ -6038,14 +6046,6 @@ On/Off</source>
     <message>
         <source>Wrapping Style</source>
         <translation type="obsolete">Textumbruch Stil</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
     </message>
 </context>
 <context>
@@ -8740,6 +8740,10 @@ Shape</source>
         <translation>In PDF exportieren</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Augenschutz-Modus</translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">autom. Dateisicherung</translation>
     </message>
@@ -8772,8 +8776,12 @@ Shape</source>
         <translation>Einstellen</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">Onlinebild einfügen</translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -8837,6 +8845,10 @@ Shape</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">Onlinebild</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>Onlinebild</translation>
     </message>
     <message>
@@ -8849,7 +8861,7 @@ Shape</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Augenschutz-Modus</translation>
+        <translation type="obsolete">Augenschutz-Modus</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -8876,12 +8888,20 @@ Shape</source>
         <translation>Login</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation>Spezielles Werkzeug</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">Spezielles Werkzeug</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">Stoppe autom. Dateisicherung</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>Text-Tool</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -8913,7 +8933,7 @@ Shape</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Text-Tool</translation>
+        <translation type="obsolete">Text-Tool</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -8938,26 +8958,6 @@ Shape</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">wpsweibolayout</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation>Augenschutz-Modus</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>Spezielles Werkzeug</translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation>Text-Tool</translation>
     </message>
 </context>
 <context>
@@ -9134,11 +9134,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">Konto wechseln</translation>
+        <translation>Konto ändern</translation>
     </message>
     <message>
         <source>Change Accout</source>
-        <translation>Konto ändern</translation>
+        <translation type="obsolete">Konto ändern</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -9518,8 +9518,12 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">Feedback</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback per E-Mail</translation>
+        <translation type="obsolete">Feedback per E-Mail</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9619,7 +9623,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>Screenshot</translation>
+        <translation type="obsolete">Screenshot</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -9715,6 +9719,10 @@ Diagonal Line in Cell</source>
         <translation>Multiple Zeilen einfügen</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>Tabelle einfügen</translation>
     </message>
@@ -9728,7 +9736,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="obsolete">Onlinebild einfügen</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -9876,6 +9884,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">Onlinebild</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>Onlinebild</translation>
     </message>
     <message>
@@ -10137,6 +10149,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">Speichern in Klive</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <source>Section</source>
@@ -10470,22 +10486,6 @@ Diagonal Line in Cell</source>
         <source>wpsweibolayout</source>
         <translation type="obsolete">wpsweibolayout</translation>
     </message>
-    <message>
-        <source>Change Account</source>
-        <translation>Konto ändern</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>Screenshot</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -10511,10 +10511,6 @@ Diagonal Line in Cell</source>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI wechseln</translation>
@@ -11340,8 +11336,12 @@ Diagonal Line in Cell</source>
         <translation>Feedback und Produkt Information</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback per E-Mail</translation>
+        <translation type="obsolete">Feedback per E-Mail</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -16152,6 +16152,10 @@ Effects</source>
         <translation>In PDF exportieren</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Augenschutz-Modus</translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">autom. Dateisicherung</translation>
     </message>
@@ -16180,8 +16184,12 @@ Effects</source>
         <translation>Einstellen</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">Onlinebild einfügen</translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -16225,6 +16233,10 @@ Effects</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">Onlinebild</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>Onlinebild</translation>
     </message>
     <message>
@@ -16237,7 +16249,7 @@ Effects</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Augenschutz-Modus</translation>
+        <translation type="obsolete">Augenschutz-Modus</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16264,12 +16276,20 @@ Effects</source>
         <translation>Login</translation>
     </message>
     <message>
-        <source>Special tool</source>
+        <source>Special Features</source>
         <translation>Spezielles Werkzeug</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">Spezielles Werkzeug</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">Stoppe autom. Dateisicherung</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation>Text-Tool</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16301,7 +16321,7 @@ Effects</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Text-Tool</translation>
+        <translation type="obsolete">Text-Tool</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -16326,26 +16346,6 @@ Effects</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">wpsweibolayout</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation>Augenschutz-Modus</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>Spezielles Werkzeug</translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation>Text-Tool</translation>
     </message>
 </context>
 <context>
@@ -16622,8 +16622,12 @@ Effects</source>
         <translation type="unfinished">Datei-Roaming</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Pictures</source>
         <translation>Onlinebild einfügen</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">Onlinebild einfügen</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -16631,6 +16635,10 @@ Effects</source>
     </message>
     <message>
         <source>Online Picture</source>
+        <translation type="obsolete">Onlinebild</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
         <translation>Onlinebild</translation>
     </message>
     <message>
@@ -16662,6 +16670,10 @@ Effects</source>
         <translation>Abmelden</translation>
     </message>
     <message>
+        <source>Text Tools</source>
+        <translation>Text-Tool</translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Benutzerfeedback</translation>
     </message>
@@ -16687,19 +16699,7 @@ Effects</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Text-Tool</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
-    </message>
-    <message>
-        <source>Text Tools</source>
-        <translation>Text-Tool</translation>
+        <translation type="obsolete">Text-Tool</translation>
     </message>
 </context>
 <context>
@@ -18322,6 +18322,10 @@ Effects</source>
         <translation type="obsolete">Als PDF exportieren</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Augenschutz-Modus</translation>
+    </message>
+    <message>
         <source>Fade Down</source>
         <translation type="obsolete">Verblassen nach unten</translation>
     </message>
@@ -18511,7 +18515,7 @@ Effects</source>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>Screenshot</translation>
+        <translation type="obsolete">Screenshot</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -18850,6 +18854,10 @@ Effects</source>
         <translation>Makros</translation>
     </message>
     <message>
+        <source>Mail FeedBack</source>
+        <translation>Mail-FeedBack</translation>
+    </message>
+    <message>
         <source>Mail Merge Recipients</source>
         <translation type="obsolete">Serienbriefempfänger</translation>
     </message>
@@ -18859,7 +18867,7 @@ Effects</source>
     </message>
     <message>
         <source>MailFeedBack</source>
-        <translation>Mail-FeedBack</translation>
+        <translation type="obsolete">Mail-FeedBack</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -19381,7 +19389,7 @@ Directly</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Augenschutz-Modus</translation>
+        <translation type="obsolete">Augenschutz-Modus</translation>
     </message>
     <message>
         <source>Protection Form</source>
@@ -20519,14 +20527,6 @@ Directly</source>
         <source>￥</source>
         <translation type="obsolete">￥</translation>
     </message>
-    <message>
-        <source>Mail FeedBack</source>
-        <translation>Mail-FeedBack</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation>Augenschutz-Modus</translation>
-    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands.Help</name>
@@ -20885,10 +20885,6 @@ Directly</source>
 </context>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Switch UI</source>
         <translation>UI wechseln</translation>
@@ -22642,10 +22638,6 @@ Abschnitt</translation>
     <message>
         <source>OK</source>
         <translation type="obsolete">wahr</translation>
-    </message>
-    <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>

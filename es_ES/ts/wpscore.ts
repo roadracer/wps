@@ -6,19 +6,19 @@
     <name>field_parser_index</name>
     <message>
         <source>Error!Can not find xe.</source>
-        <translation>¡Error! No se puede encontrar xe.</translation>
+        <translation type="obsolete">¡Error! No se puede encontrar xe.</translation>
     </message>
     <message>
         <source>Error!Switch parameter is not specified.</source>
-        <translation>¡Error! No se especificó el  parámetro de modificador.</translation>
+        <translation type="obsolete">¡Error! No se especificó el  parámetro de modificador.</translation>
     </message>
     <message>
         <source>Error!Bookmark the page of an invalid.</source>
-        <translation>¡Error! Marque la página de un inválido.</translation>
+        <translation type="obsolete">¡Error! Marque la página de un inválido.</translation>
     </message>
     <message>
         <source>Alphabet</source>
-        <translation>Alfapético</translation>
+        <translation type="obsolete">Alfapético</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Error!Switch parameter unrecognizable.</source>
-        <translation>¡Error! No se puede reconocer el parámetro de modificador.</translation>
+        <translation type="obsolete">¡Error! No se puede reconocer el parámetro de modificador.</translation>
     </message>
     <message>
         <source>Stroke</source>
@@ -38,15 +38,47 @@
     </message>
     <message>
         <source>Error!Is not a valid character range.</source>
-        <translation>¡Error! El rango de carácter no es válido.</translation>
+        <translation type="obsolete">¡Error! El rango de carácter no es válido.</translation>
     </message>
     <message>
         <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation>¡Error! No se permite índice en el pie de página, encabezamiento, comentario, o cuadro de texto.</translation>
+        <translation type="obsolete">¡Error! No se permite índice en el pie de página, encabezamiento, comentario, o cuadro de texto.</translation>
     </message>
     <message>
         <source>wps can not update index!</source>
-        <translation>¡WPS no puede actualizar índice!</translation>
+        <translation type="obsolete">¡WPS no puede actualizar índice!</translation>
+    </message>
+    <message>
+        <source>Error. No index entries found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Switch argument not specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -186,22 +218,42 @@ Intente uno o más de los siguientes:
     <message>
         <source>Only main text.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation>Solo texto principal.</translation>
+        <translation type="obsolete">Solo texto principal.</translation>
     </message>
     <message>
         <source>Error! lack of test conditions.</source>
         <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
-        <translation>¡Error! falta condiciones de prueba.</translation>
+        <translation type="obsolete">¡Error! falta condiciones de prueba.</translation>
     </message>
     <message>
         <source>Error! cannot recognize the condition operation code.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation>¡Error! no se puede reconocer el código de operación en condición.</translation>
+        <translation type="obsolete">¡Error! no se puede reconocer el código de operación en condición.</translation>
     </message>
     <message>
         <source>Error! lack of the second part test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
-        <translation>¡Error! falta la segunda parte de la condición de prueba.</translation>
+        <translation type="obsolete">¡Error! falta la segunda parte de la condición de prueba.</translation>
+    </message>
+    <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Missing test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Unknown op code for conditional.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Missing second part of test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2116,12 +2168,12 @@ Do you want to replace it?</source>
     <message>
         <source>no proofing</source>
         <comment>TxLanguage_NoProofing</comment>
-        <translation>No revisión</translation>
+        <translation type="obsolete">No revisión</translation>
     </message>
     <message>
         <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
-        <translation>¿Está seguro de que descarta los cambios de “%s” y carga la última versión?</translation>
+        <translation type="obsolete">¿Está seguro de que descarta los cambios de “%s” y carga la última versión?</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2131,7 +2183,7 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Make the office more relaxed</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation>WPS hace la oficina más relajada</translation>
+        <translation type="obsolete">WPS hace la oficina más relajada</translation>
     </message>
     <message>
         <source>WPS Writer has reached the beginning of the document.</source>
@@ -2244,13 +2296,8 @@ Do you want to replace it?</source>
         <translation>No se puede cargar este complemento.</translation>
     </message>
     <message>
-        <source>Document is under protected, can not be merged</source>
-        <translatorcomment>El documento está protegido, no se puede combinar.</translatorcomment>
-        <translation></translation>
-    </message>
-    <message>
         <source>There are one or all documents contain revsions, continue compare or not?</source>
-        <translation>Hay uno o todos los documentos contienen revisiones, continua la comparación o no?</translation>
+        <translation type="obsolete">Hay uno o todos los documentos contienen revisiones, continua la comparación o no?</translation>
     </message>
     <message>
         <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
@@ -2260,6 +2307,29 @@ Do you want to replace it?</source>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished">Puede que los exploradores no estén capaz de mostrar Página Web de un solo archivo donde la trayectoria incluye las caracteres “!”、“#”、“%20”、“%23”o“%25”. ¿Desea continuar?</translation>
+    </message>
+    <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4109,7 +4179,7 @@ Cancelar:	Volver al diálogo.</translation>
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>El número tiene que ser entre %d y %d.</translation>
+        <translation type="obsolete">El número tiene que ser entre %d y %d.</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
@@ -4574,6 +4644,11 @@ Cancelar:	Volver al diálogo.</translation>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished">Se ha determinado buscar “%s”. No se encontró el elemento de búsqueda.</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished">El número tiene que ser entre %d y %d.</translation>
     </message>
 </context>
 <context>
@@ -6129,7 +6204,7 @@ Check</source>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
-        <translation>Plantilla de Kingsoft 2007/2010(*.wptx)</translation>
+        <translation type="obsolete">Plantilla de Kingsoft 2007/2010(*.wptx)</translation>
     </message>
     <message>
         <source>Table Normal</source>
@@ -6360,6 +6435,11 @@ Check</source>
         <source>Date/Time</source>
         <comment>TxVersion_InsDateTime</comment>
         <translation type="unfinished">Dato/Hora</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

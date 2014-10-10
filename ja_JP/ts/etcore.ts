@@ -2158,16 +2158,6 @@ Microsoft Excel でファイルを開い、保存した後Kingsoft Spreadsheets�
         <translation></translation>
     </message>
     <message>
-        <source>DialogFrame</source>
-        <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
-        <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
         <translation>Kingsoft Spreadsheets</translation>
@@ -2485,11 +2475,6 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
-        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2562,11 +2547,6 @@ Please try one of the following.
         <translation>[$-411]m月d日ggge年</translation>
     </message>
     <message>
-        <source>Whether to modify the existing classification?</source>
-        <comment>TX_ChangeAutoOutline</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dialog Title</source>
         <comment>Dialog Caption</comment>
         <translation type="unfinished"></translation>
@@ -2579,7 +2559,7 @@ Please try one of the following.
     <message>
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">現在のアウトラインを変更しますか。</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
@@ -2935,16 +2915,6 @@ Please try one of the following.
         <translation type="unfinished">配列の一部を変更できません。</translation>
     </message>
     <message>
-        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
-        <comment>TX_RepeatWord_Group_Range</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Column has been chosen.</source>
-        <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
         <translation type="unfinished"></translation>
@@ -3020,31 +2990,6 @@ Spreadsheetsを開き再計算を行いますか？</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss Next function for loop!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Miss Loop!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Miss IF function!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Miss END.IF function!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No RETURN() or HALT() function fount on macro sheet!</source>
-        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
 
 ·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
@@ -3060,11 +3005,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
 ·旧バージョンのプログラムで対応していない数式の設定をおこなった場合
 
 Spreadsheetsを開き再計算を行いますか？</translation>
-    </message>
-    <message>
-        <source>Illegal reference argument at:</source>
-        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Macro interrupted at cell:</source>
@@ -3096,6 +3036,26 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing IF.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing an END.IF function.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3721,11 +3681,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>map</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
         <translation type="unfinished"></translation>
@@ -3734,11 +3689,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
         <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
         <translation>Kingsoft Spreadsheetsはクエリファイルを開いたり、読み込むことはできません。ファイルが破損しているか、ファイル形式が正しくありません。</translation>
-    </message>
-    <message>
-        <source>Fail to open xml file. file not exit or syntax error</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
@@ -7733,12 +7683,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DIF (Data Interchange File)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation type="unfinished">DIF (データ交換ファイル)(*.dif)</translation>
+        <translation type="obsolete">DIF (データ交換ファイル)(*.dif)</translation>
     </message>
     <message>
         <source>DIF Data Interchange File(*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
-        <translation type="unfinished">DIF データ交換ファイル(*.dif)</translation>
+        <translation type="obsolete">DIF データ交換ファイル(*.dif)</translation>
     </message>
     <message>
         <source>Field</source>
@@ -7774,11 +7724,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Kingsoft Spreadsheets Template(*.ett)</source>
         <comment>TX_ssDesc_ETTemp_</comment>
         <translation type="obsolete">Kingsoft Spreadsheets テンプレート(*.ett)</translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
-        <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
@@ -7974,7 +7919,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
-        <translation type="unfinished">すべてのデータ·ソース(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+        <translation type="obsolete">すべてのデータ·ソース(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
@@ -13636,18 +13581,8 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
-        <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14348,6 +14283,16 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
     </message>
 </context>
 <context>

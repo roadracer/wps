@@ -4775,14 +4775,6 @@ Example: +4 will move forward four items:</source>
 <context>
     <name>KxDlgMergeCompare</name>
     <message>
-        <source>OriginalD&amp;oc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;ReviseDoc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
     </message>
@@ -4791,71 +4783,7 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished">キャンセル</translation>
     </message>
     <message>
-        <source>CompareOption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertAndDelete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>T&amp;able</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comme&amp;nt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FootEn&amp;dNote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextBo&amp;x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CaseChan&amp;ge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Field&amp;s</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blank&amp;Part</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DisplayRevision</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RevisionLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DisplayLocation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;CharLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loca&amp;teOriginalDoc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;WordLevel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LocateRev&amp;iseDoc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;UseNewDoc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5536,7 +5464,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation>オートフォーマット</translation>
+        <translation type="obsolete">オートフォーマット</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6077,11 +6005,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="obsolete">最近使用した文書</translation>
+        <translation type="unfinished">最近使用した文書</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>最近使用したファイル</translation>
+        <translation type="obsolete">最近使用したファイル</translation>
     </message>
     <message>
         <source>Recover options</source>
@@ -6292,10 +6220,6 @@ Example: +4 will move forward four items:</source>
         <translation>既定値(&amp;F)</translation>
     </message>
     <message>
-        <source>&amp;FontPreview Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Editing options</source>
         <translation>入力オプション</translation>
     </message>
@@ -6459,10 +6383,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="obsolete">吹き出しに校閲者情報を表示する</translation>
     </message>
     <message>
-        <source>Do &amp;Not Auto Compress Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Set default target out&amp;put to:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6480,11 +6400,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>新規作成時にバックアップファイルを作成(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Remember My &amp;Choice</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">新規作成時にバックアップファイルを作成(&amp;B)</translation>
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
@@ -6501,10 +6417,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Do &amp;not compress images in file</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent Documents</source>
-        <translation>最近使用したファイル</translation>
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
@@ -9215,7 +9127,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Sounds like(English)</source>
-        <translation>あいまい検索</translation>
+        <translation type="obsolete">あいまい検索</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -9948,55 +9860,11 @@ This change will affect all new documents based on the %1 template.</source>
 <context>
     <name>KxMergeCompareDlg</name>
     <message>
-        <source>compare documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnmarkedR&amp;eviserBeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UnmarkedReviser&amp;BeDisplayed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More(&amp;M) &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>browse...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;&lt; Less(&amp;L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Difference not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can&apos;t compare a unsaved read only file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10045,7 +9913,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">オン</translation>
     </message>
 </context>
 <context>
@@ -10114,7 +9982,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation>0以外の数字を入力して下さい</translation>
+        <translation type="obsolete">0以外の数字を入力して下さい</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -10584,14 +10452,6 @@ Cancel:	Return to the dialog.</source>
 </context>
 <context>
     <name>KxOnlineFontTipDlg</name>
-    <message>
-        <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Renew</source>
         <translation type="unfinished"></translation>
@@ -12600,7 +12460,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show header line</source>
-        <translation>ヘッダーラインの表示</translation>
+        <translation type="obsolete">ヘッダーラインの表示</translation>
     </message>
     <message>
         <source>Show Header Line</source>

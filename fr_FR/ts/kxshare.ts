@@ -341,7 +341,7 @@
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation>La mise en page prendra effet après le redémarrage de WPS Office.</translation>
+        <translation type="obsolete">La mise en page prendra effet après le redémarrage de WPS Office.</translation>
     </message>
     <message>
         <source>about:blank</source>
@@ -352,11 +352,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Layout will be changed at next start time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restart Office to bring the layout into effect</source>
+        <source>Restart WPS Office for layout setting to take effect</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -479,23 +475,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Local language packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online language packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get language package failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -504,6 +484,22 @@
     </message>
     <message>
         <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1377,7 +1373,7 @@
 <context>
     <name>KxCustomRibbonEx_Menu</name>
     <message>
-        <source>Custom Menu</source>
+        <source>Customize menu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3363,19 +3359,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
 <context>
     <name>KxOnlineFontTipDlg</name>
     <message>
-        <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You still not Vip member, upgrade can download all fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3387,12 +3371,24 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancle</source>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3456,59 +3452,61 @@ Cliquez sur l&apos;icône pour obtenir plus de détails.</translation>
         <translation>Pause. Cliquer pour continuer</translation>
     </message>
     <message>
-        <source>Pleas login vip first</source>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please login first</source>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vip Font, Please login</source>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Free Font, Please login</source>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>VIP font, your %1 has exprired, please renew</source>
+        <source>Your membership %1 expires now. Please renew.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vip Font, Click to use</source>
+        <source>VIP cloud fonts installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Free Font, Click to use</source>
+        <source>Cloud fonts installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>VIP font, please upgrade to VIP first</source>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Free Font, Free to download</source>
+        <source>Click to install free cloud fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your vip %1 has expired, please renew first</source>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Press to pause</source>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have downloaded all online fonts, please keep looking forward for more.</source>
+        <source>Click to keep cloud fonts on top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to list online font to top</source>
+        <source>Click to shuffle cloud fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to shuffle online font</source>
+        <source>Downloading fonts, please wait?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3587,6 +3585,48 @@ Cliquez sur l&apos;icône pour obtenir plus de détails.</translation>
     <message>
         <source>Printing %1 page of %2</source>
         <translation>Impression de %1 page sur %2</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished">Im&amp;primer</translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">A&amp;nnuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintWatermarkDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -4300,11 +4340,15 @@ mais le package du système inclus est réservé.</translation>
     <name>KxTpNativeWrapperContainer</name>
     <message>
         <source>Customize animation:</source>
-        <translation>Personnaliser l&apos;animation :</translation>
+        <translation type="obsolete">Personnaliser l&apos;animation :</translation>
     </message>
     <message>
         <source>Selection Pane</source>
         <translation>Volet Sélection</translation>
+    </message>
+    <message>
+        <source>Custom animation:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4354,15 +4398,6 @@ mais le package du système inclus est réservé.</translation>
         <translation>Nouveau d&apos;après un modèle en ligne</translation>
     </message>
     <message>
-        <source>cannot open the file &quot;%1&quot;. 
-the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>open file folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>
 
 modify time: </source>
@@ -4372,6 +4407,15 @@ modify time: </source>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4422,12 +4466,12 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <translation>Nouveau d&apos;après un modèle en ligne</translation>
     </message>
     <message>
-        <source>cannot open the file &quot;%1&quot;. 
-the file may be renamed,deleted or moved the location.</source>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>open file folder</source>
+        <source>Open file location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4972,7 +5016,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>Blue Grey</source>
-        <translation>Bleu Gris</translation>
+        <translation type="obsolete">Bleu Gris</translation>
     </message>
     <message>
         <source>Blue Violet</source>
@@ -5251,6 +5295,10 @@ Toujours effectuer cette action.</translation>
     <message>
         <source>AutoBackup</source>
         <translation>Sauvegarde automatique</translation>
+    </message>
+    <message>
+        <source>Blue Gray</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

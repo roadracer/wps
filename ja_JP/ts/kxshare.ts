@@ -507,10 +507,6 @@ Try to switch user interface!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Layout will be changed at next start time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>2013 Elegant Black</source>
         <translation>2013UI（黒）</translation>
     </message>
@@ -519,12 +515,8 @@ Try to switch user interface!</source>
         <translation>2013UI（青）</translation>
     </message>
     <message>
-        <source>Restart Office to bring the layout into effect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation>ユーザーインターフェースを変更する場合は、ここをクリックしてください。</translation>
+        <translation type="obsolete">ユーザーインターフェースを変更する場合は、ここをクリックしてください。</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting</source>
@@ -717,23 +709,7 @@ Try to switch user interface!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Local language packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online language packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get language package failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1871,10 +1847,6 @@ Try to switch user interface!</source>
 </context>
 <context>
     <name>KxCustomRibbonEx_Menu</name>
-    <message>
-        <source>Custom Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Customize menu</source>
         <translation type="unfinished"></translation>
@@ -4417,19 +4389,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
 <context>
     <name>KxOnlineFontTipDlg</name>
     <message>
-        <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You still not Vip member, upgrade can download all fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4438,10 +4398,6 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4454,31 +4410,19 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">キャンセル</translation>
     </message>
     <message>
         <source>Your VIP %1 expires now.  Please renew for more discount.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You still not a senior member，upgrade to enjoy more cloud fonts now.</source>
+        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
-    <message>
-        <source>Please login first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>VIP font, please upgrade to VIP first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press to pause</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Show Online Fonts</source>
         <translation>オンラインフォントを表示</translation>
@@ -4486,22 +4430,6 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Online Fonts</source>
         <translation>オンラインフォント</translation>
-    </message>
-    <message>
-        <source>Pleas login vip first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vip Font, Please login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Free Font, Please login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>VIP font, your %1 has exprired, please renew</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>It&apos;s downloading, please wait...</source>
@@ -4512,36 +4440,8 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <translation>一時停止中です。「続行」をクリックすると、フォントをダウンロードします。</translation>
     </message>
     <message>
-        <source>Vip Font, Click to use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Free Font, Click to use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Free Font, Free to download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your vip %1 has expired, please renew first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have downloaded all online fonts, please keep looking forward for more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fold online fonts</source>
         <translation>オンラインフォントを非表示</translation>
-    </message>
-    <message>
-        <source>Click to list online font to top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to shuffle online font</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More online fonts</source>
@@ -4611,10 +4511,6 @@ Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Downloading fonts, please wait…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4636,6 +4532,10 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4746,6 +4646,48 @@ Click the icon to sign in now.</source>
     <message>
         <source>Printing %1 page of %2</source>
         <translation>%2 ページ中 %1 を印刷中</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished">印刷(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintWatermarkDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">OK(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -5800,7 +5742,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Customize animation:</source>
-        <translation>ユーザー設定アニメーション</translation>
+        <translation type="obsolete">ユーザー設定アニメーション</translation>
     </message>
     <message>
         <source>Custom animation:</source>
@@ -5868,15 +5810,6 @@ but the included system package is reserved.</source>
     <message>
         <source>New from Online Templates</source>
         <translation>オンラインテンプレート</translation>
-    </message>
-    <message>
-        <source>cannot open the file &quot;%1&quot;. 
-the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>open file folder</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
@@ -5965,15 +5898,6 @@ This file may be renamed , deleted or moved the location.</source>
     <message>
         <source>New from Online Templates</source>
         <translation>オンラインテンプレート</translation>
-    </message>
-    <message>
-        <source>cannot open the file &quot;%1&quot;. 
-the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>open file folder</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open the recent file record management dialog box,and remove some or all of the recent file records.</source>
@@ -6633,7 +6557,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>Blue Grey</source>
-        <translation>ブルー—グレー</translation>
+        <translation type="obsolete">ブルー—グレー</translation>
     </message>
     <message>
         <source>Blue Violet</source>

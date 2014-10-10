@@ -470,7 +470,7 @@ condition is true: </source>
 </context>
 <context>
     <name>InsertFunctionLineEdit</name>
-    <message>
+    <message id="0">
         <source>Enter the name or the description of the function you want to look up.</source>
         <translation>請輸入您要查找的函數名稱或函數功能的簡短描述。</translation>
     </message>
@@ -1113,35 +1113,7 @@ condition is true: </source>
     </message>
     <message>
         <source>is a invalid addins macro file.</source>
-        <translation type="unfinished">不是一個正確的增益集程式。</translation>
-    </message>
-    <message>
-        <source>Automation Server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A File named</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>does not contain a valid Automation Server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>already exists in this location, Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">不是一個正確的增益集程式。</translation>
     </message>
     <message>
         <source>Cannot find the Add-Ins.</source>
@@ -1567,7 +1539,7 @@ condition is true: </source>
     </message>
     <message>
         <source>The selected connection type can not be used to create a PivotTable.</source>
-        <translation type="unfinished">所選的連接類型不能用於創建數據透視表.</translation>
+        <translation type="obsolete">所選的連接類型不能用於創建數據透視表.</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
@@ -1587,7 +1559,7 @@ condition is true: </source>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="obsolete">選取的連線類型無法用來建立樞紐分析表。</translation>
+        <translation type="unfinished">選取的連線類型無法用來建立樞紐分析表。</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
@@ -1604,10 +1576,6 @@ condition is true: </source>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <translation type="obsolete">您不能使用當前資料來修改已有的樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
-    </message>
-    <message>
-        <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="unfinished">所選的連接類型不能用於創建數據透視表.</translation>
     </message>
 </context>
 <context>
@@ -2449,10 +2417,6 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Non&amp;e</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Category:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4337,7 +4301,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>第一次儲存時建立備份檔案(&amp;B)</translation>
+        <translation type="obsolete">第一次儲存時建立備份檔案(&amp;B)</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -9342,7 +9306,7 @@ the exact same contents will be deleted automatically, only keep one row.
     </message>
     <message>
         <source>The data source contains no visible form</source>
-        <translation type="unfinished">數據源中沒有包含可見的表格.</translation>
+        <translation type="obsolete">數據源中沒有包含可見的表格.</translation>
     </message>
     <message>
         <source>This data source contains no visible tables.</source>
