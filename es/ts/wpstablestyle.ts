@@ -200,27 +200,27 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="Estilo del Tema"></translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation type="sin Estilo, Grieed"></translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Estilo Suave</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obsolete">Estilo medio</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obsolete">Estilo nocturno</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Estilo Nocturno 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
@@ -236,27 +236,27 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Primera fila</translation>
+        <translation type="obsolete">Primera fila</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Primera columna</translation>
+        <translation type="obsolete">Primera columna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Última fila</translation>
+        <translation type="obsolete">Última fila</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Última columna</translation>
+        <translation type="obsolete">Última columna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Filas con bandas</translation>
+        <translation type="obsolete">Filas con bandas</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Columnas con bandas</translation>
+        <translation type="obsolete">Columnas con bandas</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
@@ -268,15 +268,15 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Medio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obsolete">Oscuro</translation>
     </message>
 </context>
 <context>
@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Primera fila</translation>
+        <translation type="Obsolete">Primera fila</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -307,11 +307,11 @@
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Última fila</translation>
+        <translation type="Obsolete">Última fila</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Última columna</translation>
+        <translation type="Obsolete">Última columna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Columnas con bandas</translation>
+        <translation type="Obsolete">Columnas con bandas</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
@@ -331,15 +331,15 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obsolete">Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obsolete">Medio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation type="Obsolete">Oscuro</translation>
     </message>
 </context>
 <context>
