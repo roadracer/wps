@@ -6,27 +6,27 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zur Liste &amp;hinzufügen</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Von der Liste &amp;löschen</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zur Liste &amp;hinzufügen</translation>
     </message>
     <message>
         <source>Advanced Query</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erweiterte Suche</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Von der Liste &amp;löschen</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -34,26 +34,26 @@
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortieren</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ:</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Verwerfen</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Speichern unter</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ein anderer Benutzer hat evenfalls Änderungen vorgenommen. Was wollen Sie tun?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sie haben Änderugen an &quot;%s&quot; vorgenommen.</translation>
     </message>
 </context>
 <context>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Daten&amp;quelle auswählen...</translation>
     </message>
     <message>
         <source>Explanation</source>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datenquelle auswählen</translation>
     </message>
     <message>
         <source>Step 1 : Select data source</source>
@@ -137,11 +137,11 @@
     <name>Constraint</name>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Hinzufügen</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Abbrechen</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Referenz&amp;Zelle:</translation>
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
@@ -184,7 +184,7 @@
     <name>DisplayResult</name>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Weiter</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
@@ -253,7 +253,7 @@
     <name>FilterPageUi</name>
     <message>
         <source>&amp;Advanced Query...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Erweiterte Suche...</translation>
     </message>
     <message>
         <source>By</source>
