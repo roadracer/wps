@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es_MX">
+<TS version="2.0" language="es">
 <context>
     <name>CWpsTableStyle</name>
     <message>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>1-</source>
-        <translation>1-</translation>
+        <translation type="obsolete">1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Best Match</source>
-        <translation>Mejor combinación</translation>
+        <translation type="obsolete">Mejor combinación</translation>
     </message>
     <message>
         <source>Washy</source>
