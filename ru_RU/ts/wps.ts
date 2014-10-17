@@ -5,7 +5,7 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation>Без заливки</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>White</source>
@@ -1570,31 +1570,31 @@
     </message>
     <message>
         <source>B&amp;orders</source>
-        <translation>&amp;Границы</translation>
+        <translation>&amp;Граница</translation>
     </message>
     <message>
         <source>Setting:</source>
-        <translation>Настройка:</translation>
+        <translation>Тип:</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>&amp;Нет</translation>
+        <translation>&amp;нет</translation>
     </message>
     <message>
         <source>Bo&amp;x</source>
-        <translation>&amp;Поле</translation>
+        <translation>&amp;рамка</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation>&amp;Все</translation>
+        <translation>&amp;все</translation>
     </message>
     <message>
         <source>Gri&amp;d</source>
-        <translation>&amp;Сетка</translation>
+        <translation>&amp;сетка</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
-        <translation>Настройки &amp;пользователя</translation>
+        <translation>&amp;другая</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
@@ -1629,7 +1629,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Page Border</source>
-        <translation>&amp;Граница страницы</translation>
+        <translation>&amp;Страница</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -1649,7 +1649,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Shading</source>
-        <translation>&amp;Затенение фона</translation>
+        <translation>&amp;Заливка</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1674,7 +1674,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Pure(100%)</source>
-        <translation>Чистый (100%)</translation>
+        <translation>Сплошная (100%)</translation>
     </message>
     <message>
         <source>5%</source>
@@ -12878,7 +12878,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>No Fill</source>
-        <translation>Без заливки</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
