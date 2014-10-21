@@ -120,9 +120,14 @@
         <translation>テキスト(日時)</translation>
     </message>
     <message>
-        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <source>This function is offered in Kingsoft Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>このファンクションがWPS Office プロフェッショナル版で提供します。</translation>
+        <translation type="obsolete">このファンクションがKingsoft Office プロフェッショナル版で提供します。</translation>
+    </message>
+    <message>
+        <source>Times New Roman</source>
+        <comment>AEO_EFFECT_CHANGEFONT_DEFAULTVALUE</comment>
+        <translation type="obsolete">ＭＳ Ｐ明朝</translation>
     </message>
     <message>
         <source>Title</source>
@@ -153,6 +158,11 @@
         <source>Wind</source>
         <comment>AEO_SOUNDEFFECT_Wind</comment>
         <translation>風</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation>このファンクションがKingsoft Office プロフェッショナル版で提供します。</translation>
     </message>
 </context>
 <context>
@@ -289,9 +299,9 @@ F1+Enterを押す					最初のスライドに戻る
         <translation>スライドショーの終了</translation>
     </message>
     <message>
-        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
+        <source>Innovation·Research·Customer·Result·Sincerity Kingsoft Office 2010</source>
         <comment>WpWPSOffice2007</comment>
-        <translation>創新·学習·客様·結果·信頼   WPS Office 2010</translation>
+        <translation type="obsolete">創新·学習·客様·結果·信頼   Kingsoft Office 2010</translation>
     </message>
     <message>
         <source>Keep ink</source>
@@ -299,9 +309,9 @@ F1+Enterを押す					最初のスライドに戻る
         <translation>インク マークの保持</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot be found or start %s. </source>
+        <source>Kingsoft Presentation cannot be found or start %s. </source>
         <comment>WpInvalidateProgram</comment>
-        <translation>WPS Presentationが見つかりません。あるいは、%sを起動できません。</translation>
+        <translation type="obsolete">Kingsoft Presentationが見つかりません。あるいは、%sを起動できません。</translation>
     </message>
     <message>
         <source>May our software run on every computer</source>
@@ -364,6 +374,16 @@ Would you like to open this file?
         <source>”does not exist.</source>
         <comment>WpInvalidateNameSlideShowEnd</comment>
         <translation>”は存在しません。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot be found or start %s. </source>
+        <comment>WpInvalidateProgram</comment>
+        <translation>Kingsoft Presentationが見つかりません。あるいは、%sを起動できません。</translation>
+    </message>
+    <message>
+        <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
+        <comment>WpWPSOffice2007</comment>
+        <translation>創新·学習·客様·結果·信頼   Kingsoft Office 2010</translation>
     </message>
 </context>
 <context>
@@ -910,14 +930,14 @@ Fifth level</source>
         <translation>字幕</translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>WPS Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。ビューワーモードで開きますか？</translation>
+        <translation type="obsolete">Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。ビューワーモードで開きますか？</translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
+        <source>Currently Kingsoft Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>WPS Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。</translation>
+        <translation type="obsolete">Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。</translation>
     </message>
     <message>
         <source>Currently only support viewing PowerPoint 2007 documents, the edit cannot be saved.</source>
@@ -1067,14 +1087,14 @@ Fifth level</source>
         <translation>楕円</translation>
     </message>
     <message>
-        <source>Errors occur when WPS Presentation is opening this file.
+        <source>Errors occur when Kingsoft Presentation is opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.	
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>WP_OpenFailure</comment>
-        <translation>WPS Presentationは ファイルを開こうとしている時に、エラーが発生しました。
+        <translation type="obsolete">Kingsoft Presentationは ファイルを開こうとしている時に、エラーが発生しました。
 次の操作を行ってください。
 ·文書またはドライブのアクセス権を確認してください。
 ·メモリおよびディスクの空き領域が十分であるかを確認してください。
@@ -1189,28 +1209,28 @@ Please try one of the following.
         <translation>ハイパーリンク</translation>
     </message>
     <message>
-        <source>WPS Presentation Slide Show - </source>
+        <source>Kingsoft Presentation Slide Show - </source>
         <comment>WPPlayerCation</comment>
-        <translation>WPS Presentation スライドショー - </translation>
+        <translation type="obsolete">Kingsoft Presentation スライドショー - </translation>
     </message>
     <message>
-        <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
+        <source>Kingsoft Presentation cannot open this file, because the current user does not have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
-        <translation>WPS Presentation アクセス権が不足しているため、ファイルを開けません。
+        <translation type="obsolete">Kingsoft Presentation アクセス権が不足しているため、ファイルを開けません。
 次の操作を行ってください。　
 現在のユーザーを他のユーザーに変更してください。
 ファイルの作成者にこのファイルの権限を変更してもらうように連絡してください。
 </translation>
     </message>
     <message>
-        <source>WPS Presentation cannot open this file, because the password is not correct.
+        <source>Kingsoft Presentation cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>WP_OpenPasswordFailure</comment>
-        <translation>パスワードが正しくないため、WPS Presentationはファイルを開けません。
+        <translation type="obsolete">パスワードが正しくないため、Kingsoft Presentationはファイルを開けません。
 (%s)</translation>
     </message>
     <message>
@@ -1574,9 +1594,9 @@ Please try one of the following.
         <translation>貼り付けチップ</translation>
     </message>
     <message>
-        <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <source>Permission for this file is currently restricted. Only Kingsoft Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>WPPKRMSAVEPROMPT</comment>
-        <translation>プレゼンテーション以外のファイル種類で文書を保存すると、文書に設定したアクセス権が削除されます。続けますか。</translation>
+        <translation type="obsolete">プレゼンテーション以外のファイル種類で文書を保存すると、文書に設定したアクセス権が削除されます。続けますか。</translation>
     </message>
     <message>
         <source>Pinwheel</source>
@@ -1594,7 +1614,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation type="unfinished">WPS Presentation 2012</translation>
+        <translation>プレゼンテーション表題</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -1953,9 +1973,9 @@ Body: Rise Up</source>
         <translation>含まれているタブを表として貼り付けますか。</translation>
     </message>
     <message>
-        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <source>The design template contains multiple masters. Kingsoft Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
         <comment>WP_APPLYMULTIPLEMASTERS</comment>
-        <translation>このテンプレートにはいくつかのマスタがあります。その中の最初のマスタをすでにWPS Presentationに応用しました。その他のマスタもプレゼンテーションにコピーし、後で使いますか。</translation>
+        <translation type="obsolete">このテンプレートにはいくつかのマスタがあります。その中の最初のマスタをすでにKingsoft Presentationに応用しました。その他のマスタもプレゼンテーションにコピーし、後で使いますか。</translation>
     </message>
     <message>
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
@@ -2460,13 +2480,13 @@ Body: Zoom</source>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
 Do you still want to open this file?
 
-•Click Yes, WPS Presentation will continue to open this file.
-•Click No, WPS Presentation will stop opening this file.
+•Click Yes, Kingsoft Presentation will continue to open this file.
+•Click No, Kingsoft Presentation will stop opening this file.
 
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</source>
         <comment>WP_AV_Scan_Failed</comment>
-        <translation>ウィルス駆除プログラムがこのファイルをスキャンしている時に、エラーが発生しました（エラー番号：0x%08X）。アンチウィルスソフトのサポートセンターに連絡してください。
+        <translation type="obsolete">ウィルス駆除プログラムがこのファイルをスキャンしている時に、エラーが発生しました（エラー番号：0x%08X）。アンチウィルスソフトのサポートセンターに連絡してください。
 ファイルを開きますか。
 
 ·&quot;はい&quot;を選択すると、ファイルを開きます。&quot;いいえ&quot;を選択すると、開かずにファイルを終了します。
@@ -2495,9 +2515,91 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation>default.dpt</translation>
     </message>
     <message>
+        <source>Errors occur when WPS Presentation is opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.	
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>WP_OpenFailure</comment>
+        <translation>Kingsoft Presentationは ファイルを開こうとしている時に、エラーが発生しました。
+次の操作を行ってください。
+·文書またはドライブのアクセス権を確認してください。
+·メモリおよびディスクの空き領域が十分であるかを確認してください。
+·識別できるファイル形式であることを確認してください。
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>WP_OpenPasswordFailure</comment>
+        <translation>パスワードが正しくないため、Kingsoft Presentationはファイルを開けません。
+(%s)</translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
+Do you still want to open this file?
+
+•Click Yes, WPS Presentation will continue to open this file.
+•Click No, WPS Presentation will stop opening this file.
+
+Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
+(%s)</source>
+        <comment>WP_AV_Scan_Failed</comment>
+        <translation>ウィルス駆除プログラムがこのファイルをスキャンしている時に、エラーが発生しました（エラー番号：0x%08X）。アンチウィルスソフトのサポートセンターに連絡してください。
+ファイルを開きますか。
+
+·&quot;はい&quot;を選択すると、ファイルを開きます。&quot;いいえ&quot;を選択すると、開かずにファイルを終了します。
+
+注意：あるファイルはマクロウィルスを含め、他の悪操作を行う可能性があります。このファイルを信用できない場合開かないでください。
+(%s)　</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Slide Show - </source>
+        <comment>WPPlayerCation</comment>
+        <translation>Kingsoft Presentation スライドショー - </translation>
+    </message>
+    <message>
+        <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <comment>WPPKRMSAVEPROMPT</comment>
+        <translation>プレゼンテーション以外のファイル種類で文書を保存すると、文書に設定したアクセス権が削除されます。続けますか。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permission control level of this file.
+(%s)</source>
+        <comment>WPPKRMOPENNOOWNER</comment>
+        <translation>アクセス権が不足しているため、Kingsoft Presentationはファイルを開けません。
+次の操作を行ってください。　
+現在のユーザーを他のユーザーに変更してください。
+ファイルの作成者にこのファイルの権限を変更してもらうように連絡してください。
+</translation>
+    </message>
+    <message>
+        <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
+        <comment>WP_APPLYMULTIPLEMASTERS</comment>
+        <translation>このテンプレートにはいくつかのマスタがあります。その中の最初のマスタをすでにKingsoft Presentationに応用しました。その他のマスタもプレゼンテーションにコピーし、後で使いますか。</translation>
+    </message>
+    <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
         <comment>WP_CannotPlaySoundFile</comment>
-        <translation type="unfinished">%s はサウンド ファイル “%s”を再生できません。ファイルが .wav形式であることを確認してください。またはパソコンのサウンド システムの設定が正しいであることを確認してください。</translation>
+        <translation>%s はサウンド ファイル “%s”を再生できません。ファイルが .wav形式であることを確認してください。またはパソコンのサウンド システムの設定が正しいであることを確認してください。</translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation>Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。ビューワーモードで開きますか？</translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation>Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4245,9 +4347,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>その他のファイルへのハイパーリンク</translation>
     </message>
     <message>
-        <source>Hyperlink to Other WPS Presentation Files</source>
+        <source>Hyperlink to Other Kingsoft Presentation Files</source>
         <comment>wpp_sLinkToWppFileCaption</comment>
-        <translation>他のプレゼンテーション ファイルへのハイパーリンク</translation>
+        <translation type="obsolete">他のプレゼンテーション ファイルへのハイパーリンク</translation>
     </message>
     <message>
         <source>I&amp;n Slightly</source>
@@ -4325,24 +4427,24 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>日本語(日本)</translation>
     </message>
     <message>
-        <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
+        <source>Kingsoft Presentation encountered an error while trying exporting to PDF.</source>
         <comment>wpp_sExportPDFError</comment>
-        <translation>PDFファイルを出力中、エラーが発生しました！</translation>
+        <translation type="obsolete">PDFファイルを出力中、エラーが発生しました！</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation.</source>
+        <source>Kingsoft Presentation has finished searching the presentation.</source>
         <comment>wpp_sFindComplete</comment>
-        <translation>検索が終了しました。</translation>
+        <translation type="obsolete">検索が終了しました。</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <source>Kingsoft Presentation has finished searching the presentation. %d replacements were made.</source>
         <comment>wpp_sReplaceAllFound</comment>
-        <translation>検索が終了しました。%d個の項目を置換しました。</translation>
+        <translation type="obsolete">検索が終了しました。%d個の項目を置換しました。</translation>
     </message>
     <message>
-        <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
+        <source>Kingsoft Presentation has finished searching the presentation. The search item was not found.</source>
         <comment>wpp_sNotFound</comment>
-        <translation>検索が終了しました。検索文字列は見つかりませんでした。</translation>
+        <translation type="obsolete">検索が終了しました。検索文字列は見つかりませんでした。</translation>
     </message>
     <message>
         <source>L&amp;eft Down</source>
@@ -4730,9 +4832,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>%d 操作やり直し(&amp;s)</translation>
     </message>
     <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
         <comment>wpp_sRemoveDefaultDict</comment>
-        <translation>ユーザー辞書を削除すると他のKingsoft officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
+        <translation type="obsolete">ユーザー辞書を削除すると他のKingsoft officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -5553,6 +5655,36 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sPt</comment>
         <translation>pt</translation>
     </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
+        <comment>wpp_sExportPDFError</comment>
+        <translation>PDFファイルを出力中、エラーが発生しました！</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation.</source>
+        <comment>wpp_sFindComplete</comment>
+        <translation>検索が終了しました。</translation>
+    </message>
+    <message>
+        <source>Hyperlink to Other WPS Presentation Files</source>
+        <comment>wpp_sLinkToWppFileCaption</comment>
+        <translation>他のプレゼンテーション ファイルへのハイパーリンク</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
+        <comment>wpp_sNotFound</comment>
+        <translation>検索が終了しました。検索文字列は見つかりませんでした。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
+        <comment>wpp_sReplaceAllFound</comment>
+        <translation>検索が終了しました。%d個の項目を置換しました。</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>wpp_sRemoveDefaultDict</comment>
+        <translation>ユーザー辞書を削除すると他のKingsoft officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -5714,9 +5846,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation>すべてのファイル</translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation Files(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation>すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation ファイル(*.dps)|*.dps|WPS Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2000/XP/2003 ファイル(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 ファイル(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2000/XP/2003 ファイル(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 ファイル(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
@@ -6152,29 +6284,29 @@ Spelling</source>
         <translation>斜体</translation>
     </message>
     <message>
-        <source>WPS Office has not found any installed printers.</source>
+        <source>Kingsoft Office has not found any installed printers.</source>
         <comment>WpMessage_NoPrinter</comment>
-        <translation>プリンタがインストールされていません。</translation>
+        <translation type="obsolete">プリンタがインストールされていません。</translation>
     </message>
     <message>
-        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <source>Kingsoft Presentation File(*.dps)|*.dps|Kingsoft Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation>WPS Presentation ファイル(*.dps)|*.dps|WPS Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2000/XP/2003 スライドショー(*.pps)|*.pps|JPEGファイル交換形式(*.jpg)|*.jpg|PNGポータブル　ネットワーク形式(*.png)|*.png|TIFF形式(*.tif)|*.tif|デバイスに依存しないビットマップ(*.bmp)|*.bmp</translation>
+        <translation type="obsolete">Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2000/XP/2003 スライドショー(*.pps)|*.pps|JPEGファイル交換形式(*.jpg)|*.jpg|PNGポータブル　ネットワーク形式(*.png)|*.png|TIFF形式(*.tif)|*.tif|デバイスに依存しないビットマップ(*.bmp)|*.bmp</translation>
     </message>
     <message>
-        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <source>Kingsoft Presentation Template(*.dpt)|*.dpt|Kingsoft Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>WPS Presentation テンプレート(*.dpt)|*.dpt|WPS Presentation ファイル(*.dps)|*.dps|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt</translation>
+        <translation type="obsolete">Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Kingsoft Presentation ファイル(*.dps)|*.dps|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertMovie</comment>
-        <translation>選択されたファイルからビデオを挿入することができません。パスまたはファイル名が正しいことを確認してから再実行してください。</translation>
+        <translation type="obsolete">選択されたファイルからビデオを挿入することができません。パスまたはファイル名が正しいことを確認してから再実行してください。</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <source>Kingsoft Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertSound</comment>
-        <translation>選択されたファイルからサウンドを挿入することができません。パスまたはファイル名が正しいことを確認してから再実行してください。</translation>
+        <translation type="obsolete">選択されたファイルからサウンドを挿入することができません。パスまたはファイル名が正しいことを確認してから再実行してください。</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -6576,10 +6708,46 @@ Layout</source>
         <translation>[使用禁止]</translation>
     </message>
     <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <comment>WP_OPENFILE</comment>
+        <translation>すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2000/XP/2003 ファイル(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 ファイル(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation>Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2000/XP/2003 スライドショー(*.pps)|*.pps|JPEGファイル交換形式(*.jpg)|*.jpg|PNGポータブル　ネットワーク形式(*.png)|*.png|TIFF形式(*.tif)|*.tif|デバイスに依存しないビットマップ(*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation type="obsolete">Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Kingsoft Presentation ファイル(*.dps)|*.dps|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>WPS Office has not found any installed printers.</source>
+        <comment>WpMessage_NoPrinter</comment>
+        <translation>プリンタがインストールされていません。</translation>
+    </message>
+    <message>
         <source>Spell 
 Check</source>
         <comment>WP_CheckSpelling_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>スペル
+チェック</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
+        <comment>WP_Cannot_InsertSound</comment>
+        <translation>選択されたファイルからサウンドを挿入することができません。パスまたはファイル名が正しいことを確認してから再実行してください。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
+        <comment>WP_Cannot_InsertMovie</comment>
+        <translation>選択されたファイルからビデオを挿入することができません。パスまたはファイル名が正しいことを確認してから再実行してください。</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation>Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Kingsoft Presentation ファイル(*.dps)|*.dps|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt</translation>
     </message>
 </context>
 </TS>

@@ -842,11 +842,43 @@ condition is true:</source>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation>Файл в списке уже существует.</translation>
+        <translation type="obsolete">Файл в списке уже существует.</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation>Недопустимое дополнение.</translation>
+        <translation type="obsolete">Недопустимое дополнение.</translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1836,6 +1868,26 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Refer to:</source>
         <translation>&amp;Ссылка на:</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3451,7 +3503,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Создавать файл &amp;резервной копии при первом сохранении</translation>
+        <translation type="obsolete">Создавать файл &amp;резервной копии при первом сохранении</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -3564,6 +3616,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
         <translation>Нажмите Ctrl + Tab для &amp;переключения вкладок</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4283,6 +4339,61 @@ prior to sharing the workbook.</source>
     <message>
         <source>Form</source>
         <translation>Форма</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicates</name>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished">Удалить повторения</translation>
+    </message>
+    <message>
+        <source>Please select one or more columns that contain duplicates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;My data has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d duplicates are found;
+Only %d unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicatesWarning</name>
+    <message>
+        <source>Remove Duplicates Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What do you want to do?</source>
+        <translation type="unfinished">Что вы хотите сделать?</translation>
+    </message>
+    <message>
+        <source>&amp;Expand the selection</source>
+        <translation type="unfinished">&amp;Расширить выделенный диапазон</translation>
+    </message>
+    <message>
+        <source>&amp;Continue with the current selection</source>
+        <translation type="unfinished">&amp;Сортировать в пределах указанного выделения</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5574,6 +5685,33 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
 </context>
 <context>
+    <name>KxEtDialogSheetDlg</name>
+    <message>
+        <source>Integer is not valid.</source>
+        <translation type="unfinished">Недопустимое целое.</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished">Введено недопустимое значение. Следует ввести число.</translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required
+To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.
+To get assistance in entering a function, click Function Wizard
+If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only.
+To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
@@ -5920,7 +6058,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Save Adobe PDF File</source>
-        <translation>Сохранить файл PDF</translation>
+        <translation type="obsolete">Сохранить файл PDF</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
@@ -5933,6 +6071,10 @@ If this is correct, choose Next, or choose the data type that best describes you
     <message>
         <source>Please input the password of permission settings!</source>
         <translation>Введите пароль для настройки разрешений!</translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6807,6 +6949,14 @@ on iteration #%2.</source>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
         <translation>Изменения стандартного шрифта и размера вступят в силу только после перезагрузки WPS Spreadsheets..</translation>
     </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished">Списки</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Параметры</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -7256,6 +7406,30 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxRemoveDuplicatesDlg</name>
+    <message>
+        <source>( Select All )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column </source>
+        <translation type="unfinished">столбец </translation>
+    </message>
+    <message>
+        <source>(%1) %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>Highlight Duplicate</source>
@@ -7324,6 +7498,29 @@ system will remind checking the correctness of the contents.
     <message>
         <source>*No Assign*</source>
         <translation>*Не определено*</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectTableFromDbDlg</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Имя</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Тип</translation>
     </message>
 </context>
 <context>
@@ -7832,7 +8029,7 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
     <message>
         <source>Parameter</source>
-        <translation>Параметр</translation>
+        <translation type="obsolete">Параметр</translation>
     </message>
     <message>
         <source>Empty value for parameter.</source>
@@ -9281,6 +9478,13 @@ t</source>
     </message>
 </context>
 <context>
+    <name>SelectTableFromDbUI</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SolverOptions</name>
     <message>
         <source>Options</source>
@@ -9709,7 +9913,7 @@ t</source>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Преобразование в файл PDF</translation>
+        <translation type="obsolete">Преобразование в файл PDF</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9819,12 +10023,16 @@ t</source>
         <source>Low-quality printing</source>
         <translation>Печать низкого качества</translation>
     </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Преобразование в файл PDF</translation>
+        <translation type="obsolete">Преобразование в файл PDF</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
@@ -9837,6 +10045,10 @@ t</source>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Подготовка для преобразования в файл PDF...</translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

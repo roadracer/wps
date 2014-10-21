@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
-<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KGalleryClient</name>
     <message>
@@ -22,10 +21,6 @@
     <message>
         <source>Directory:</source>
         <translation>Verzeichnis:</translation>
-    </message>
-    <message>
-        <source>Edit Gallery</source>
-        <translation>Galerie bearbeiten</translation>
     </message>
     <message>
         <source>EditGallery</source>
@@ -64,6 +59,10 @@
         <translation type="obsolete">Die höchste Anzahl an Titeln ist 5.</translation>
     </message>
     <message>
+        <source>Edit Gallery</source>
+        <translation>Galerie bearbeiten</translation>
+    </message>
+    <message>
         <source>The most number of caption is 5.</source>
         <translation>Die höchste Anzahl an Titeln ist 5.</translation>
     </message>
@@ -82,6 +81,18 @@
 <context>
     <name>QApplication</name>
     <message>
+        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
+        <translation>\Kingsoft Office\AppData\Desktop.ini Name.</translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
+        <translation>\Kingsoft Office\AppData\My Materials\Desktop.ini Name.</translation>
+    </message>
+    <message>
+        <source>\Kingsoft Office\Desktop.ini name.</source>
+        <translation>\Kingsoft Office\Desktop.ini name.</translation>
+    </message>
+    <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
         <translation>\WPS Office\AppData\Desktop.ini Name.</translation>
     </message>
@@ -98,7 +109,7 @@
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation>WPSGalerie</translation>
+        <translation>WPS-Galerie</translation>
     </message>
 </context>
 </TS>

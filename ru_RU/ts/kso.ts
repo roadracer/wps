@@ -4214,7 +4214,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Блок-схема: память с последовательным доступом</translation>
+        <translation type="obsolete">Блок-схема: память с последовательным доступом</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
@@ -5230,6 +5230,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>FreeForm</source>
         <comment>DRAWINGSTR_FREEFORM</comment>
         <translation>Полилиния</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6297,7 +6302,7 @@ You can click the button to recover files you work on.</source>
 You can add the customized paper %dmm�%dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation>Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
+        <translation type="obsolete">Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
 Вы можете добавить в свойствах принтера другой размер бумаги %d мм × %d мм, и повторить печать.
 Продолжить?</translation>
     </message>
@@ -6337,6 +6342,13 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
         <translation>Все файлы(*.*)|*.*|Файлы для печати(*.prn)|*.prn</translation>
+    </message>
+    <message>
+        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
+You can add the customized paper %dmm x %dmm in printer properties and print it again.
+Do you want to continue?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

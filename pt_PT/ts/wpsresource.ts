@@ -10,11 +10,11 @@
     </message>
     <message>
         <source>144 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>288 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -26,11 +26,11 @@
     </message>
     <message>
         <source>36 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>72 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bright</source>
@@ -211,11 +211,11 @@
     </message>
     <message>
         <source>Control List</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation>"obsolete">Lista de Controlos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Lista de Controlos</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -231,11 +231,11 @@
     </message>
     <message>
         <source>List Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>List Button</source>
-        <translation>"obsolete">Botão de Listagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Botão de Listagem</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -274,31 +274,31 @@
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0.5 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0.75 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3 pt</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -422,11 +422,11 @@
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Align/Distribute/Equalize</source>
-        <translation>"obsolete">Alinhar/Distribuir/Justificar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar/Distribuir/Justificar</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -482,11 +482,11 @@
     </message>
     <message>
         <source>Auto Shapes</source>
-        <translation>"obsolete">Formas Automáticas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Formas Automáticas</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -510,7 +510,7 @@
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>"obsolete">Traço-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço-Ponto</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -542,7 +542,7 @@
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -550,15 +550,15 @@
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>"obsolete">Mesma Largura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Largura</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -586,7 +586,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -598,11 +598,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>"obsolete">Horizontal</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Horizontal</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -614,7 +614,11 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>"Inserir Clip Art"</translation>
+        <translation>&quot;Inserir Clip Art&quot;</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -630,7 +634,7 @@
     </message>
     <message>
         <source>Line</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -638,7 +642,7 @@
     </message>
     <message>
         <source>Lines</source>
-        <translation>"obsolete">Linhas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -646,19 +650,19 @@
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>"obsolete">Travessão-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Travessão-Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>"obsolete">Travessão-Ponto-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Travessão-Ponto-Ponto</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -697,6 +701,10 @@
         <translation>Chamada de Atenção</translation>
     </message>
     <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Order</source>
         <translation>Ordenar</translation>
     </message>
@@ -730,11 +738,11 @@
     </message>
     <message>
         <source>Rotate or Flip</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Rotate/Flip</source>
-        <translation>"obsolete">Rodar/Inverter</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Rodar/Inverter</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -766,7 +774,7 @@
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -774,7 +782,7 @@
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>"obsolete">Estilo do Sombreado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo do Sombreado</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -870,7 +878,7 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Through</source>
@@ -894,11 +902,11 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"obsolete">Vertical</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Vertical</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -906,18 +914,18 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
     <message>
         <source>1.5 Space</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>1.5 lines</source>
-        <translation>"obsolete">1.5 Linhas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;1.5 Linhas</translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -937,11 +945,11 @@
     </message>
     <message>
         <source>Double</source>
-        <translation>"obsolete">Duplo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Duplo</translation>
     </message>
     <message>
         <source>Double Space</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
@@ -949,11 +957,11 @@
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>"obsolete">Marca de Ênfase</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marca de Ênfase</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -965,11 +973,11 @@
     </message>
     <message>
         <source>Single</source>
-        <translation>"obsolete">Único</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Único</translation>
     </message>
     <message>
         <source>Single Space</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -980,59 +988,59 @@
     <name>classics.formatting</name>
     <message>
         <source>1.0</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.5</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>100%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>150%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.0</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.5</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>200%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3.0</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>33%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>50%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>66%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>80%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>90%</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -1080,11 +1088,11 @@
     </message>
     <message>
         <source>Styles Window</source>
-        <translation>"obsolete">Janela de Estilos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Janela de Estilos</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -1095,38 +1103,38 @@
     </message>
     <message>
         <source>Number</source>
-        <translation>"obsolete">Número</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>classics.forms</name>
     <message>
         <source>Check Box Form Field</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Check box Form Field</source>
-        <translation>"obsolete">Campo de Formulário do tipo Caixa de Verificação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Campo de Formulário do tipo Caixa de Verificação</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Drop-down Form Field</source>
-        <translation>"obsolete">Campo de Formulário do tipo Pendente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Campo de Formulário do tipo Pendente</translation>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>"obsolete">Opções do Campo de Formulário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções do Campo de Formulário</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -1134,19 +1142,19 @@
     </message>
     <message>
         <source>Protect Form</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Protection Form</source>
-        <translation>"obsolete">Protecção do Formulário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Protecção do Formulário</translation>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>"obsolete">Repor Campo do Formulário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Repor Campo do Formulário</translation>
     </message>
     <message>
         <source>Reset Form Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -1172,11 +1180,11 @@
     </message>
     <message>
         <source>Insert Auto Text</source>
-        <translation>"obsolete">Inserir Texto Automático</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Texto Automático</translation>
     </message>
     <message>
         <source>Insert AutoText</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Date</source>
@@ -1184,11 +1192,11 @@
     </message>
     <message>
         <source>Insert Number of Pages</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Page Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Time</source>
@@ -1204,16 +1212,16 @@
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>"obsolete">Número de Páginas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número de Páginas</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>"obsolete">Número
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número
 da Página</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Configurar Página</translation>
+        <translation type="obsolete">Configurar Página</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -1225,11 +1233,11 @@ da Página</translation>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>"obsolete">Cabeçalho Anterior</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho Anterior</translation>
     </message>
     <message>
         <source>Show Previous</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
@@ -1272,7 +1280,7 @@ da Página</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>"Enviar para vários destinatários"</translation>
+        <translation>&quot;Enviar para vários destinatários&quot;</translation>
     </message>
     <message>
         <source>Match Fields</source>
@@ -1315,11 +1323,11 @@ da Página</translation>
     <name>classics.outlining</name>
     <message>
         <source>Go to TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Go to ToC</source>
-        <translation>"obsolete">Ir para Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ir para Índice</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -1343,7 +1351,7 @@ da Página</translation>
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -1355,15 +1363,15 @@ da Página</translation>
     </message>
     <message>
         <source>Show Text Formatting</source>
-        <translation>"obsolete">Mostrar Formatação do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar Formatação do Texto</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>"obsolete">Actualizar Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Actualizar Índice</translation>
     </message>
 </context>
 <context>
@@ -1434,7 +1442,7 @@ da Página</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1490,7 +1498,7 @@ da Página</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Through</source>
@@ -1514,7 +1522,7 @@ da Página</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -1568,11 +1576,11 @@ da Página</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation>"obsolete">Visualizar Para Revisão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Visualizar Para Revisão</translation>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Final</source>
@@ -1580,7 +1588,7 @@ da Página</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>"Mostrar Marcações Finais;Mostrar Marcações Originais;Original"</translation>
+        <translation>&quot;Mostrar Marcações Finais;Mostrar Marcações Originais;Original&quot;</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -1608,11 +1616,11 @@ da Página</translation>
     </message>
     <message>
         <source>Reject Change / Delete Comment</source>
-        <translation>"obsolete">Rejeitar Alteração / Apagar Comentário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Rejeitar Alteração / Apagar Comentário</translation>
     </message>
     <message>
         <source>Reject Change/Delete Comment</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reject Selected Comment</source>
@@ -1636,11 +1644,11 @@ da Página</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation>"obsolete">Mostrar no Balão a Informação Sobre o Revisor</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar no Balão a Informação Sobre o Revisor</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1659,19 +1667,19 @@ da Página</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -1687,19 +1695,19 @@ da Página</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>"obsolete">Mudar Sombreado para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombreado para Baixo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>"obsolete">Mudar Sombreado para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombreado para a Esquerda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>"obsolete">Mudar Sombreado para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombreado para a Direita</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>"obsolete">Mudar Sombreado para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombreado para Cima</translation>
     </message>
 </context>
 <context>
@@ -1734,11 +1742,11 @@ da Página</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>"obsolete">Expandir Formato do Texto a Colar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Expandir Formato do Texto a Colar</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>"obsolete">Expandir Texto a Colar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Expandir Texto a Colar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -1754,7 +1762,7 @@ da Página</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1762,7 +1770,7 @@ da Página</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -1770,7 +1778,7 @@ da Página</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>"obsolete">Página Inicial</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Página Inicial</translation>
     </message>
     <message>
         <source>Insert Horizontal Blank Page</source>
@@ -1790,7 +1798,7 @@ da Página</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1802,11 +1810,11 @@ da Página</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -1814,7 +1822,7 @@ da Página</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Colar Especial</translation>
+        <translation type="obsolete">Colar Especial</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1826,11 +1834,11 @@ da Página</translation>
     </message>
     <message>
         <source>Show / Hide Editing Marks</source>
-        <translation>"obsolete">Mostrar/Esconder as Marcas de Edição</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar/Esconder as Marcas de Edição</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>"obsolete">Mostrar/Esconder a Disposição do Parágrafo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar/Esconder a Disposição do Parágrafo</translation>
     </message>
     <message>
         <source>Show Document Map</source>
@@ -1838,11 +1846,11 @@ da Página</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1854,11 +1862,11 @@ da Página</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1873,7 +1881,7 @@ da Página</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>"obsolete">verdade</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;verdade</translation>
     </message>
 </context>
 <context>
@@ -1900,15 +1908,20 @@ da Página</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>"obsolete">Células</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Células</translation>
+    </message>
+    <message>
+        <source>Cells</source>
+        <comment>Table-&gt;Insert</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cells@Table-&gt;Insert</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>"obsolete">Colunas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Colunas</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
@@ -1920,15 +1933,15 @@ da Página</translation>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -1964,11 +1977,11 @@ da Página</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Width</source>
-        <translation>"obsolete">Espessura da Linha</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espessura da Linha</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1992,7 +2005,7 @@ da Página</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>"obsolete">Linhas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas</translation>
     </message>
     <message>
         <source>Rows Above</source>
@@ -2035,7 +2048,7 @@ da Página</translation>
     <name>classics.text_box</name>
     <message>
         <source>Break Forward Link</source>
-        <translation>"Quebrar Ligação Seguinte"</translation>
+        <translation>&quot;Quebrar Ligação Seguinte&quot;</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -2078,27 +2091,27 @@ da Página</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>"obsolete">Fundo (Curva)</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fundo (Curva)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>"obsolete">Fundo (Fluir)</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fundo (Fluir)</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>"Varrer para baixo"</translation>
+        <translation>&quot;Varrer para baixo&quot;</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>"Varrer para cima"</translation>
+        <translation>&quot;Varrer para cima&quot;</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -2110,11 +2123,11 @@ da Página</translation>
     </message>
     <message>
         <source>Center Align</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Center Alignment</source>
-        <translation>"obsolete">Alinhar ao Centro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar ao Centro</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -2222,15 +2235,15 @@ da Página</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Left Alignment</source>
-        <translation>"obsolete">Alinhar à Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar à Esquerda</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>"Justificado"</translation>
+        <translation>&quot;Justificado&quot;</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -2246,19 +2259,19 @@ da Página</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Right Alignment</source>
-        <translation>"obsolete">Alinhar à Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar à Direita</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>"Anel Interior"</translation>
+        <translation>&quot;Anel Interior&quot;</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>"Anel Exterior"</translation>
+        <translation>&quot;Anel Exterior&quot;</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -2278,11 +2291,11 @@ da Página</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>"Ajustar ao justificado"</translation>
+        <translation>&quot;Ajustar ao justificado&quot;</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Through</source>
@@ -2290,15 +2303,25 @@ da Página</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>"obsolete">Justo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Justo</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <comment>Spacing</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <comment>Wrapping</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight@Wrapping</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2358,7 +2381,7 @@ da Página</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -2369,22 +2392,22 @@ da Página</translation>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation>"Todos os Limites"</translation>
+        <translation>&quot;Todos os Limites&quot;</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>"Limite"</translation>
+        <translation>&quot;Limite&quot;</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -2392,24 +2415,24 @@ da Página</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>"Limite inferior"</translation>
+        <translation>&quot;Limite inferior&quot;</translation>
     </message>
     <message>
         <source>Clear
 Table Style</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation>"obsolete">Limpar Estilo da Tabela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Limpar Estilo da Tabela</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>"unfinished">Desenhar Linha Diagonal na Célula</translation>
+        <translation>&quot;unfinished&quot;&gt;Desenhar Linha Diagonal na Célula</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -2421,19 +2444,19 @@ Table Style</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>"Limite Esquerdo"</translation>
+        <translation>&quot;Limite Esquerdo&quot;</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -2441,11 +2464,11 @@ Table Style</source>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Width</source>
-        <translation>"obsolete">Espessura da Linha</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espessura da Linha</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2457,27 +2480,27 @@ Table Style</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation>"Sem Limites"</translation>
+        <translation>&quot;Sem Limites&quot;</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>"obsolete">Limite Exterior&quot;&gt;</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Limite Exterior&quot;&gt;</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>"Limites Exteriores"</translation>
+        <translation>&quot;Limites Exteriores&quot;</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>"Limite Direito"</translation>
+        <translation>&quot;Limite Direito&quot;</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation>"Sombreado"</translation>
+        <translation>&quot;Sombreado&quot;</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>"obsolete">Cor do Sombreado&quot;&gt;</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor do Sombreado&quot;&gt;</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2485,18 +2508,18 @@ Table Style</source>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>"unfinished">Estilos da Tabela&quot;&gt;</translation>
+        <translation>&quot;unfinished&quot;&gt;Estilos da Tabela&quot;&gt;</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>"Limite Superior"</translation>
+        <translation>&quot;Limite Superior&quot;</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_developtools</name>
     <message>
         <source> Add-Ins</source>
-        <translation>"obsolete"> Suplementos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt; Suplementos</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -2504,7 +2527,7 @@ Table Style</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2525,7 +2548,7 @@ Table Style</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -2537,7 +2560,11 @@ Properties</source>
     </message>
     <message>
         <source>ControlProperties</source>
-        <translation>"obsolete">Propriedades de Controlo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Propriedades de Controlo</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -2546,11 +2573,11 @@ Properties</source>
     <message>
         <source>Exit
 Design Mode</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation>"obsolete">Sair do Modo de Edição</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sair do Modo de Edição</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2562,11 +2589,11 @@ Design Mode</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>List Button</source>
-        <translation>"obsolete">Botão de Listagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Botão de Listagem</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -2582,7 +2609,7 @@ Design Mode</source>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -2611,11 +2638,11 @@ Design Mode</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>"obsolete">Editor de Visual Basic</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Editor de Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2807,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
-        <translation>"Quebrar Ligação Seguinte"</translation>
+        <translation>&quot;Quebrar Ligação Seguinte&quot;</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -2796,11 +2823,15 @@ Ligado</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>"obsolete">Centrado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centrado</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -2812,7 +2843,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -2820,11 +2851,11 @@ Ligado</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>"obsolete">Traço-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço-Ponto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -2844,15 +2875,15 @@ Ligado</translation>
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>EmphasisMark</source>
-        <translation>"obsolete">Marca de Enfase</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marca de Enfase</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -2860,19 +2891,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>"obsolete">Mesma Largura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Largura</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2888,7 +2919,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>"obsolete">Cor da Fonte</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Fonte</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -2908,11 +2939,11 @@ Ligado</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -2968,19 +2999,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>"obsolete">Travessão-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Travessão-Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>"obsolete">Travessão-Ponto-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Travessão-Ponto-Ponto</translation>
     </message>
     <message>
         <source>More</source>
@@ -3024,7 +3055,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3080,24 +3111,24 @@ Ligado</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation>"obsolete">Mostrar Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar Sombra</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>"obsolete">Preenchimento da forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preenchimento da forma</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>"obsolete">Contorno da Forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno da Forma</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -3125,16 +3156,16 @@ On/Off</source>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation>"obsolete">Rasurar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Rasurar</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text
 Direction</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -3142,15 +3173,15 @@ Direction</source>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>"obsolete">Direcção do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Direcção do Texto</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation>&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -3190,26 +3221,31 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>"obsolete">Estilo de Moldagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo de Moldagem</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>"obsolete">Sobre o Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sobre o Kingsoft Writer</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -3217,19 +3253,19 @@ Direction</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>"Alterar Versão"</translation>
+        <translation>&quot;Alterar Versão&quot;</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3237,11 +3273,15 @@ Direction</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>"obsolete">Encriptar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Encriptar</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -3249,15 +3289,19 @@ Direction</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>"obsolete">Enviar Comentários</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -3265,51 +3309,51 @@ Direction</source>
     </message>
     <message>
         <source>File Menu Help</source>
-        <translation>"obsolete">Ajuda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajuda</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Help Title</source>
-        <translation>"obsolete">Tópicos da Ajuda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tópicos da Ajuda</translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation>"obsolete">Kingsoft BBS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Kingsoft BBS</translation>
     </message>
     <message>
         <source>Kingsoft Facebook</source>
-        <translation>"obsolete">Facebook do Kingsoft</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Facebook do Kingsoft</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>"obsolete">Comunidade Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Comunidade Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>"obsolete">Facebook do Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Facebook do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>"obsolete">Portal do Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Portal do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
-        <translation>"obsolete">Documento Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Documento Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
-        <translation>"obsolete">Modelo do Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Modelo do Kingsoft Writer</translation>
     </message>
     <message>
         <source>KingsoftOffice</source>
-        <translation>"obsolete">Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Kingsoft Office</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -3337,19 +3381,19 @@ Direction</source>
     </message>
     <message>
         <source>New from Local Template</source>
-        <translation>"obsolete">Novo baseado em Modelo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novo baseado em Modelo</translation>
     </message>
     <message>
         <source>New from Online Template</source>
-        <translation>"obsolete">Novo a Partir de Modelo Online</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novo a Partir de Modelo Online</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3357,7 +3401,7 @@ Direction</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>"obsolete">Abrir do Klive</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Abrir do Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -3373,7 +3417,7 @@ Direction</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>"obsolete">Centro do Produto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centro do Produto</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -3385,7 +3429,7 @@ Direction</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>"Adquirir Licença"</translation>
+        <translation>&quot;Adquirir Licença&quot;</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -3401,7 +3445,7 @@ Direction</source>
     </message>
     <message>
         <source>Save To Klive</source>
-        <translation>"obsolete">Gravar no Klive</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gravar no Klive</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
@@ -3409,7 +3453,7 @@ Direction</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -3421,62 +3465,62 @@ Direction</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>"obsolete">Pesquisar na Internet</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Pesquisar na Internet</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>"obsolete">Actualização Online</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Actualização Online</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Forum</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation>"obsolete">Novas Funcionalidades do WPS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novas Funcionalidades do WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>"obsolete">Ajuda do Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajuda do Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer Help</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -3487,15 +3531,15 @@ Direction</source>
     </message>
     <message>
         <source>Auto Text</source>
-        <translation>"obsolete">Texto Automático</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Texto Automático</translation>
     </message>
     <message>
         <source>AutoText</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>"Clip Art"</translation>
+        <translation>&quot;Clip Art&quot;</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3503,37 +3547,49 @@ Direction</source>
     </message>
     <message>
         <source>Date / Time</source>
-        <translation>"obsolete">Data / Hora</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Data / Hora</translation>
     </message>
     <message>
         <source>Date and
 Time</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Fields</source>
         <translation>Campos</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Header Line Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Header and Footer Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header&amp;Footer Options</source>
-        <translation>"obsolete">Opções do Cabeçalho&amp;Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções do Cabeçalho&amp;Rodapé</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>"obsolete">Cabeçalho/Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -3541,7 +3597,7 @@ Options</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>"Inserir ClipArt"</translation>
+        <translation>&quot;Inserir ClipArt&quot;</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3550,15 +3606,15 @@ Options</source>
     <message>
         <source>Link to
 Previous</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Link to Previous</source>
-        <translation>"obsolete">Ligar ao Anterior</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ligar ao Anterior</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -3567,20 +3623,20 @@ Previous</source>
     <message>
         <source>Next
 Header</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Header</source>
-        <translation>"obsolete">Próximo Cabeçalho</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Próximo Cabeçalho</translation>
     </message>
     <message>
         <source>Page
 Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>"obsolete">Número de Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número de Página</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -3597,24 +3653,24 @@ Number</source>
     <message>
         <source>Previous
 Header</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>"obsolete">Cabeçalho Anterior</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho Anterior</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>"obsolete">Alternar Entre Cabeçalho e Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alternar Entre Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
@@ -3689,7 +3745,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>"Todos os Limites"</translation>
+        <translation>&quot;Todos os Limites&quot;</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3701,11 +3757,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>"Limite Inferior"</translation>
+        <translation>&quot;Limite Inferior&quot;</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3713,15 +3769,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>"obsolete">Centrado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centrado</translation>
     </message>
     <message>
         <source>Change Case</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -3753,7 +3809,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>"obsolete">Converter Maiúsculas/Minúsculas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Converter Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3769,7 +3825,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Avançadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Avançadas</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -3781,11 +3837,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>"obsolete">Marca de Enfase</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marca de Enfase</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -3797,11 +3853,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>"obsolete">Expandir Formato do Texto a Colar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Expandir Formato do Texto a Colar</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>"obsolete">Expandir Texto a Colar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Expandir Texto a Colar</translation>
     </message>
     <message>
         <source>Find</source>
@@ -3810,11 +3866,11 @@ Header and Footer</source>
     <message>
         <source>Find and 
 Replace</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation>"obsolete">Procurar/Substituir</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Procurar/Substituir</translation>
     </message>
     <message>
         <source>Font</source>
@@ -3822,7 +3878,7 @@ Replace</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>"obsolete">Cor da Fonte</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Fonte</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -3835,16 +3891,16 @@ Replace</source>
     <message>
         <source>Format
 Painter</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Format 
 Painter</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -3864,15 +3920,15 @@ Painter</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3884,7 +3940,7 @@ Painter</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>"Limite Esquerdo"</translation>
+        <translation>&quot;Limite Esquerdo&quot;</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3892,7 +3948,7 @@ Painter</source>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More</source>
@@ -3921,23 +3977,23 @@ Painter</source>
     <message>
         <source>New 
 Style</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation>"obsolete">Novo Estilo</translation>
+        <translation type="unfinished">&quot;obsolete&quot;&gt;Novo Estilo</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>"Sem Limites"</translation>
+        <translation>&quot;Sem Limites&quot;</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>"obsolete">Limite Exterior</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Limite Exterior</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>"Limites Exteriores"</translation>
+        <translation>&quot;Limites Exteriores&quot;</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3953,7 +4009,7 @@ Style</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Colar Especial</translation>
+        <translation type="obsolete">Colar Especial</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -3969,7 +4025,7 @@ Style</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>"Limite Direito"</translation>
+        <translation>&quot;Limite Direito&quot;</translation>
     </message>
     <message>
         <source>Select</source>
@@ -3989,39 +4045,39 @@ Style</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>"unfinished">Painel de Selecção</translation>
+        <translation>&quot;unfinished&quot;&gt;Painel de Selecção</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>"Definir Colagem Padrão"</translation>
+        <translation>&quot;Definir Colagem Padrão&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>"obsolete">Cor do Sombreado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor do Sombreado</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>"obsolete">Mostrar/Esconder as Marcas de Formatação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar/Esconder as Marcas de Formatação</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>"obsolete">Mostrar/Esconder a Disposição do Parágrafo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar/Esconder a Disposição do Parágrafo</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -4033,19 +4089,19 @@ Style</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>"obsolete">Estilos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilos</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>"obsolete">Estilos / Formatação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilos / Formatação</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -4057,15 +4113,15 @@ Style</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>"Indentações"</translation>
+        <translation>&quot;Indentações&quot;</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>"Limite Superior"</translation>
+        <translation>&quot;Limite Superior&quot;</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -4081,7 +4137,7 @@ Style</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -4096,18 +4152,18 @@ Style</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>"obsolete">Número</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_insert</name>
     <message>
         <source>AutoShape</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Blank Page</source>
@@ -4115,15 +4171,15 @@ Style</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>"obsolete">Marcadores</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marcadores</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>"Quebras"</translation>
+        <translation>&quot;Quebras&quot;</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -4139,15 +4195,15 @@ Style</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation>"Quebra de Coluna"</translation>
+        <translation>&quot;Quebra de Coluna&quot;</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>"Comentário"</translation>
+        <translation>&quot;Comentário&quot;</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>"Quebra de Secção Contínua"</translation>
+        <translation>&quot;Quebra de Secção Contínua&quot;</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -4163,15 +4219,15 @@ Style</source>
     </message>
     <message>
         <source>Custom Shape</source>
-        <translation>"obsolete">Forma Personalizada</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Forma Personalizada</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>"obsolete">Data/Hora</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Data/Hora</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -4191,7 +4247,7 @@ Style</source>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>"Quebra de Secção em Páginas Ímpares"</translation>
+        <translation>&quot;Quebra de Secção em Páginas Ímpares&quot;</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -4207,11 +4263,11 @@ Style</source>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation>"obsolete">Opções do Campo de Formulário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções do Campo de Formulário</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -4223,24 +4279,24 @@ Style</source>
     </message>
     <message>
         <source>From File</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>"obsolete">Cabeçalho/Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -4248,7 +4304,7 @@ Footer</source>
     </message>
     <message>
         <source>Horizontal Blank Page</source>
-        <translation>"obsolete">Página Horizontal em Branco</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Página Horizontal em Branco</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -4263,20 +4319,24 @@ Footer</source>
         <translation>Inserir ClipArt</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
-        <translation>"Inserir Imagem"</translation>
+        <translation>&quot;Inserir Imagem&quot;</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4292,7 +4352,7 @@ Footer</source>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>"Quebra de Secção na Próxima Página"</translation>
+        <translation>&quot;Quebra de Secção na Próxima Página&quot;</translation>
     </message>
     <message>
         <source>Number</source>
@@ -4304,25 +4364,29 @@ Footer</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>"Quebra de Secção em Páginas Pares"</translation>
+        <translation>&quot;Quebra de Secção em Páginas Pares&quot;</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page
 Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>"obsolete">Quebra de Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Quebra de Página</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>"obsolete">Número da Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número da Página</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -4342,11 +4406,11 @@ Break</source>
     </message>
     <message>
         <source>Reset Form Field</source>
-        <translation>"obsolete">Repor Campo do Formulário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Repor Campo do Formulário</translation>
     </message>
     <message>
         <source>Reset Form Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -4354,7 +4418,7 @@ Break</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>"Símbolo"</translation>
+        <translation>&quot;Símbolo&quot;</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -4382,23 +4446,23 @@ Break</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation>"Quebra na Moldagem do Texto"</translation>
+        <translation>&quot;Quebra na Moldagem do Texto&quot;</translation>
     </message>
     <message>
         <source>Text from File</source>
-        <translation>"obsolete">Texto de um Ficheiro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Texto de um Ficheiro</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical Blank Page</source>
-        <translation>"obsolete">Página Vertical em Branco</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Página Vertical em Branco</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>"obsolete">Caixa de Texto Vertical</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Caixa de Texto Vertical</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -4437,11 +4501,11 @@ Break</source>
     </message>
     <message>
         <source>Insert Merge Field</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Merge Fields</source>
-        <translation>"obsolete">Inserir Campos Unidos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Campos Unidos</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
@@ -4453,7 +4517,7 @@ Break</source>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>"Unir Destinatários de Correio"</translation>
+        <translation>&quot;Unir Destinatários de Correio&quot;</translation>
     </message>
     <message>
         <source>Match Fields</source>
@@ -4485,11 +4549,11 @@ Break</source>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>"obsolete">Pré-visualizar do Resultado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Pré-visualizar do Resultado</translation>
     </message>
     <message>
         <source>Preview Results</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -4497,7 +4561,7 @@ Break</source>
     </message>
     <message>
         <source>Start Mail Merge</source>
-        <translation>"Iniciar Envio de Correio"</translation>
+        <translation>&quot;Iniciar Envio de Correio&quot;</translation>
     </message>
     <message>
         <source>View Merged Data</source>
@@ -4528,7 +4592,7 @@ Break</source>
     </message>
     <message>
         <source>Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -4536,11 +4600,11 @@ Break</source>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Go to ToC</source>
-        <translation>"obsolete">Ir para Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ir para Índice</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -4548,11 +4612,11 @@ Break</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>"obsolete">Mover para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mover para Baixo</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>"obsolete">Mover para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mover para Cima</translation>
     </message>
     <message>
         <source>Outline Level</source>
@@ -4588,15 +4652,15 @@ Break</source>
     </message>
     <message>
         <source>Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>"obsolete">Actualizar Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Actualizar Índice</translation>
     </message>
 </context>
 <context>
@@ -4675,11 +4739,11 @@ Break</source>
     </message>
     <message>
         <source>Custom Margins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Avançadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Avançadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -4695,7 +4759,7 @@ Break</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4703,11 +4767,11 @@ Break</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -4715,7 +4779,7 @@ Break</source>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>"obsolete">Mesma Largura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Largura</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4735,11 +4799,11 @@ Break</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -4783,7 +4847,7 @@ Break</source>
     </message>
     <message>
         <source>More Paper Sizes</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -4808,17 +4872,17 @@ Break</source>
     <message>
         <source>Page
 Borders</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page
 Color</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -4826,15 +4890,15 @@ Break</source>
     </message>
     <message>
         <source>Page Border</source>
-        <translation>"obsolete">Borda da Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Borda da Página</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>"obsolete">Quebra de Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Quebra de Página</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>"obsolete">Cor da Página</translation>
+        <translation>&quot;obsolete&quot;&gt;Cor da Página</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -4890,15 +4954,15 @@ Break</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>"obsolete">Enviar para Segundo Plano</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar para Segundo Plano</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4910,16 +4974,16 @@ Break</source>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation>"Suprimir para o Parágrafo Actual"</translation>
+        <translation>&quot;Suprimir para o Parágrafo Actual&quot;</translation>
     </message>
     <message>
         <source>Text
 Direction</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>"obsolete">Orientação do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Orientação do Texto</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -4927,7 +4991,7 @@ Direction</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -4963,7 +5027,7 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -4990,11 +5054,11 @@ Direction</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>"obsolete">Centrado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centrado</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
@@ -5010,19 +5074,19 @@ Direction</source>
     </message>
     <message>
         <source>Demote TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Demote to Common Text</source>
-        <translation>"obsolete">Despromover a Texto Normal</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Despromover a Texto Normal</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Avançadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Avançadas</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -5074,7 +5138,7 @@ Direction</source>
     </message>
     <message>
         <source>Line Space</source>
-        <translation>"obsolete">Tamanho das Linhas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tamanho das Linhas</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -5086,7 +5150,7 @@ Direction</source>
     </message>
     <message>
         <source>Loose Line Spacing</source>
-        <translation>"obsolete">Espaçamento das Linhas Livre</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento das Linhas Livre</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -5098,11 +5162,11 @@ Direction</source>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation>"obsolete">Mais Cores de Sublinhado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mais Cores de Sublinhado</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -5114,7 +5178,7 @@ Direction</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Configurar Página</translation>
+        <translation type="obsolete">Configurar Página</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -5122,31 +5186,31 @@ Direction</source>
     </message>
     <message>
         <source>Promote TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Promote to Level 1</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Promote to ToC 1</source>
-        <translation>"obsolete">Promover a Índice 1</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Promover a Índice 1</translation>
     </message>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reduced Line Spacing</source>
-        <translation>"obsolete">Espaçamento entre Linhas Reduzido</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento entre Linhas Reduzido</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>"Alterar para Grelha"</translation>
+        <translation>&quot;Alterar para Grelha&quot;</translation>
     </message>
     <message>
         <source>Style</source>
@@ -5154,15 +5218,15 @@ Direction</source>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>"obsolete">Estilos / Formatação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilos / Formatação</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -5170,11 +5234,11 @@ Direction</source>
     </message>
     <message>
         <source>Tight Line Spacing</source>
-        <translation>"obsolete">Espaçamento Entre Linhas Reduzido</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento Entre Linhas Reduzido</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation>"obsolete">Cor do Sublinhado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor do Sublinhado</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -5182,7 +5246,7 @@ Direction</source>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -5193,11 +5257,11 @@ Direction</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>"obsolete">Número</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -5240,7 +5304,7 @@ Direction</source>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Align</source>
@@ -5301,11 +5365,11 @@ Direction</source>
     <message>
         <source>Change
 Picture</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>"obsolete">Alterar Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alterar Imagem</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -5318,11 +5382,11 @@ Picture</source>
     <message>
         <source>Compress
 Pictures</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>"obsolete">Comprimir Imagens</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Comprimir Imagens</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -5334,7 +5398,7 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -5342,11 +5406,11 @@ Pictures</source>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>"obsolete">Traço-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço-Ponto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -5370,7 +5434,7 @@ Pictures</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -5389,16 +5453,24 @@ Pictures</source>
         <translation>Rotação Livre</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -5431,11 +5503,15 @@ Pictures</source>
     <message>
         <source>Insert
 Picture</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
         <translation>Inserir Clip Art</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -5455,19 +5531,19 @@ Picture</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>"obsolete">Traço Longo e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo e Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>"obsolete">Traço Longo, Ponto e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo, Ponto e Ponto</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -5499,23 +5575,27 @@ Picture</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5532,23 +5612,23 @@ Picture</source>
     <message>
         <source>Picture
 Size</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation>"obsolete">Ajustar a Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajustar a Imagem</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>"obsolete">Preencher a Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preencher a Imagem</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>"obsolete">Contorno da Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno da Imagem</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>"obsolete">Tamanho da Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tamanho da Imagem</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -5561,11 +5641,11 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>"obsolete">Repor Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Repor Imagem</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5586,11 +5666,11 @@ Picture</source>
     <message>
         <source>Selection
 Pane</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>"obsolete">Painel de Selecção</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Painel de Selecção</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -5606,11 +5686,11 @@ Pane</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>"obsolete">Enviar para o Fundo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar para o Fundo</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -5618,12 +5698,12 @@ Pane</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -5631,11 +5711,11 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation>"obsolete">Mostrar Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar Sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -5643,7 +5723,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>"obsolete">Estilo da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -5727,19 +5807,19 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>"obsolete">Mudar Sombra para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>"obsolete">Mudar Sombra para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>"obsolete">Mudar Sombra para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>"obsolete">Mudar Sombra para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5755,7 +5835,7 @@ On/Off</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -5787,15 +5867,20 @@ On/Off</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>"obsolete">Estilo de Moldagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo de Moldagem</translation>
     </message>
 </context>
 <context>
@@ -5806,7 +5891,7 @@ On/Off</source>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation>"obsolete">Fechar Pré-visualização</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar Pré-visualização</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -5845,7 +5930,7 @@ On/Off</source>
     </message>
     <message>
         <source>Captions</source>
-        <translation>"obsolete">Legendas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Legendas</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -5853,40 +5938,44 @@ On/Off</source>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Footnote/Endnote
 Separator</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote Separator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation>"obsolete">Notas de Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Notas de Rodapé</translation>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Footnote/Endnote</source>
-        <translation>"obsolete">Inserir Nota de Rodapé/Nota Final</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Nota de Rodapé/Nota Final</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert ToC</source>
-        <translation>"obsolete">Inserir Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Índice</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -5930,47 +6019,47 @@ Separator</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Footnote/Endnote</source>
-        <translation>"obsolete">Próxima Nota de Rodapé/Nota Final</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Próxima Nota de Rodapé/Nota Final</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>"obsolete">Mostrar Separador de Nota de Rodapé/Nota Final</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar Separador de Nota de Rodapé/Nota Final</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>"obsolete">Mostra ou Esconderr Separador de Nota de Rodapé/Nota Final</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostra ou Esconderr Separador de Nota de Rodapé/Nota Final</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -5978,15 +6067,15 @@ Separator</source>
     </message>
     <message>
         <source>ToC Level</source>
-        <translation>"obsolete">Nível do Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Nível do Índice</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>"obsolete">Actualizar Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Actualizar Índice</translation>
     </message>
 </context>
 <context>
@@ -6021,15 +6110,19 @@ Separator</source>
     </message>
     <message>
         <source>Change and Comment</source>
-        <translation>"obsolete">Mudar e Comentar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar e Comentar</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>"obsolete">Verificação Ortográfica</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Comments</source>
         <translation>Comentários</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -6046,7 +6139,7 @@ Separator</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -6054,23 +6147,23 @@ Comment</source>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>"obsolete">Apagar Comentário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apagar Comentário</translation>
     </message>
     <message>
         <source>Display For Review</source>
-        <translation>"obsolete">Visualizar Para Revisão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Visualizar Para Revisão</translation>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>"obsolete">Inserir Comentário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Comentário</translation>
     </message>
     <message>
         <source>Language</source>
@@ -6079,7 +6172,7 @@ Comment</source>
     <message>
         <source>New
 Comment</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next</source>
@@ -6091,7 +6184,7 @@ Comment</source>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation>"obsolete">Próximo Comentário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Próximo Comentário</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -6103,7 +6196,7 @@ Comment</source>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>"obsolete">Comentário Anterior</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Comentário Anterior</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -6143,7 +6236,7 @@ Comment</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>"obsolete">Mostrar no Balão a Informação Sobre o Revisor</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar no Balão a Informação Sobre o Revisor</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -6151,24 +6244,24 @@ Comment</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Track
 Changes</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>"obsolete">Registar Alterações</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Registar Alterações</translation>
     </message>
     <message>
         <source>Tracking</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -6177,11 +6270,11 @@ Changes</source>
     <message>
         <source>Word
 Count</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>"obsolete">Contabilizar Palavras</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contabilizar Palavras</translation>
     </message>
 </context>
 <context>
@@ -6193,11 +6286,11 @@ Count</source>
     <message>
         <source>Contents
 Page</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Contents Page</source>
-        <translation>"obsolete">Página de Conteúdos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Página de Conteúdos</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -6206,32 +6299,32 @@ Page</source>
     <message>
         <source>Cover
 Pages</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation>"obsolete">Páginas de Rosto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Páginas de Rosto</translation>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cover and ToC</source>
-        <translation>"obsolete">Capa e Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Capa e Índice</translation>
     </message>
     <message>
         <source>Delete
 Section</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Section</source>
-        <translation>"obsolete">Apagar Secção</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apagar Secção</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Avançadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Avançadas</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -6247,20 +6340,20 @@ Section</source>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header and
 Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>"obsolete">Cabeçalho/Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -6288,11 +6381,11 @@ Footer</source>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -6325,20 +6418,20 @@ Footer</source>
     <message>
         <source>Page
 Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>"obsolete">Número de Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número de Página</translation>
     </message>
     <message>
         <source>Page Number
 Format</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Number Format</source>
-        <translation>"obsolete">Formato do Número de Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Formato do Número de Página</translation>
     </message>
     <message>
         <source>Page Number Start</source>
@@ -6363,32 +6456,32 @@ Format</source>
     <message>
         <source>Section
 Navigation</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Section Management</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Section Manager</source>
-        <translation>"obsolete">Gestor de Secções</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gestor de Secções</translation>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>"obsolete">Navegador de Secções</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Navegador de Secções</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show
 Header Line</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>"obsolete">Mostrar / Esconder Navegação de Secções</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar / Esconder Navegação de Secções</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -6396,20 +6489,20 @@ Header Line</source>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>"obsolete">Mostrar Linha do Cabeçalho</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar Linha do Cabeçalho</translation>
     </message>
     <message>
         <source>Show/Hide Section Navigation</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Split
 Section</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>"obsolete">Dividir Secção</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Dividir Secção</translation>
     </message>
     <message>
         <source>Three</source>
@@ -6437,38 +6530,38 @@ Section</source>
     <message>
         <source>3-D
 Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>"obsolete">Cor 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>"obsolete">3D Ligado/Desligado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;3D Ligado/Desligado</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>"obsolete">Configurações 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Configurações 3D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>"obsolete">Estilo 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -6616,19 +6709,19 @@ Effects</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -6649,12 +6742,12 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow
@@ -6665,23 +6758,23 @@ Ligar/Desligar</translation>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>"obsolete">Cor da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>"obsolete">Ligar/Desligar Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ligar/Desligar Sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>"obsolete">Opções de Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções de Sombra</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>"obsolete">Estilo de Sombreado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo de Sombreado</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -6765,19 +6858,19 @@ Effects</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>"obsolete">Mudar Sombra para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>"obsolete">Mudar Sombra para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>"obsolete">Mudar Sombra para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>"obsolete">Mudar Sombra para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6856,7 +6949,7 @@ Effects</source>
     </message>
     <message>
         <source>AutoFit</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -6872,7 +6965,7 @@ Effects</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation>"obsolete">Células</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Células</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -6880,7 +6973,7 @@ Effects</source>
     </message>
     <message>
         <source>Columns</source>
-        <translation>"obsolete">Colunas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Colunas</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -6896,23 +6989,23 @@ Effects</source>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Table</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Configurações Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Configurações Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -6928,11 +7021,11 @@ Effects</source>
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>EmphasisMark</source>
-        <translation>"obsolete">Marca de Enfase</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marca de Enfase</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -7016,23 +7109,23 @@ Effects</source>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
-        <translation>"obsolete">Repetir Cabeçalhos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Repetir Cabeçalhos</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>"obsolete">Linhas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>"obsolete">Linhas/Colunas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas/Colunas</translation>
     </message>
     <message>
         <source>Select</source>
@@ -7082,11 +7175,11 @@ Células</translation>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation>"obsolete">Riscar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Riscar</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -7102,20 +7195,20 @@ Células</translation>
     </message>
     <message>
         <source>TableAutoAdjust</source>
-        <translation>"obsolete">Auto Ajustar Tabela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Auto Ajustar Tabela</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>"obsolete">Tabelas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tabelas</translation>
     </message>
     <message>
         <source>Text
 Direction</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>"obsolete">Direcção do Texto</translation>
+        <translation type="unfinished">&quot;obsolete&quot;&gt;Direcção do Texto</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -7123,7 +7216,7 @@ Direction</source>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation>"obsolete">Cor de Sublinhado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor de Sublinhado</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -7131,7 +7224,7 @@ Direction</source>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -7146,21 +7239,21 @@ Direction</source>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Arrange
 All</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Arrange All</source>
-        <translation>"obsolete">Organizar Tudo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Organizar Tudo</translation>
     </message>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7169,7 +7262,7 @@ Add-Ins</source>
     <message>
         <source>Close
 Other Windows</source>
-        <translation>"obsolete">Fechar
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar
 Outras Janelas</translation>
     </message>
     <message>
@@ -7182,45 +7275,45 @@ Outras Janelas</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Document
 Map</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>"obsolete">Mapa do Documento</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mapa do Documento</translation>
     </message>
     <message>
         <source>Document View</source>
-        <translation>"obsolete">Vista do Documento</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Vista do Documento</translation>
     </message>
     <message>
         <source>Document Views</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Full 
 Screen</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>"obsolete">Ecrã Inteiro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ecrã Inteiro</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>"obsolete">Linhas da Grelha</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas da Grelha</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>"obsolete">Organizar Horizontalmente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Organizar Horizontalmente</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -7232,7 +7325,7 @@ Screen</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation>"Marcações"</translation>
+        <translation>&quot;Marcações&quot;</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -7241,11 +7334,11 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation>"obsolete">Nova Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Nova Janela</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -7270,11 +7363,11 @@ Window</source>
     <message>
         <source>Print 
 Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation>"obsolete">Esquema de Impressão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Esquema de Impressão</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -7302,16 +7395,16 @@ Layout</source>
     </message>
     <message>
         <source>Show View Gridlines</source>
-        <translation>"obsolete">Ver Linhas de Grelha</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Linhas de Grelha</translation>
     </message>
     <message>
         <source>Switch
 Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>"obsolete">Mudar de Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar de Janela</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -7319,7 +7412,7 @@ Window</source>
     </message>
     <message>
         <source>Table Gridlines</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -7331,24 +7424,24 @@ Window</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>"obsolete">Organizar Verticalmente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Organizar Verticalmente</translation>
     </message>
     <message>
         <source>View
 Side by Side</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>"obsolete">Ver Lado a Lado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Lado a Lado</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -7384,25 +7477,25 @@ Side by Side</source>
     <message>
         <source>3-D
 Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>"obsolete">Cor 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>"obsolete">3D Ligado/Desligado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;3D Ligado/Desligado</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -7410,7 +7503,7 @@ On/Off</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>"obsolete">Estilo 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -7558,19 +7651,19 @@ On/Off</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -7591,12 +7684,12 @@ On/Off</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow
@@ -7607,23 +7700,23 @@ Ligar/Desligar</translation>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>"obsolete">Cor da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>"obsolete">Ligar/Desligar Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ligar/Desligar Sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>"obsolete">Opções da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>"obsolete">Estilo da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -7707,19 +7800,19 @@ Effects</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>"obsolete">Mudar Sombra para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>"obsolete">Mudar Sombra para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>"obsolete">Mudar Sombra para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>"obsolete">Mudar Sombra para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -7824,7 +7917,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
@@ -7852,11 +7945,11 @@ Ligado</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>"obsolete">Fundo (Curva)</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fundo (Curva)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>"obsolete">Fundo (Verter)</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fundo (Verter)</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -7872,19 +7965,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -7896,16 +7989,16 @@ Ligado</translation>
     </message>
     <message>
         <source>Center Align</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Center Alignment</source>
-        <translation>"obsolete">Alinhar ao Centro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar ao Centro</translation>
     </message>
     <message>
         <source>Character 
 Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -7941,7 +8034,7 @@ Spacing</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -7949,7 +8042,7 @@ Spacing</source>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>"obsolete">Traço-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço-Ponto</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -7973,7 +8066,7 @@ Spacing</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Configurações Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Configurações Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -7997,7 +8090,7 @@ Spacing</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -8005,15 +8098,15 @@ Spacing</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>"obsolete">Mesma Largura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Largura</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -8033,7 +8126,7 @@ Spacing</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8053,11 +8146,11 @@ Spacing</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -8093,19 +8186,19 @@ Spacing</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>"obsolete">Inserir WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir WordArt</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Left Alignment</source>
-        <translation>"obsolete">Alinhar à Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar à Esquerda</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -8113,19 +8206,19 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>"obsolete">Traço Longo e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo e Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>"obsolete">Traço Longo, Ponto e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo, Ponto e Ponto</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -8149,11 +8242,11 @@ Spacing</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>"obsolete">Seleccionar Objecto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Seleccionar Objecto</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -8177,19 +8270,19 @@ Spacing</source>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Right Alignment</source>
-        <translation>"obsolete">Alinhar à Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar à Direita</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -8209,11 +8302,11 @@ Spacing</source>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -8225,15 +8318,15 @@ Spacing</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>"obsolete">Enviar para o Fundo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar para o Fundo</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -8265,11 +8358,11 @@ Spacing</source>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8281,15 +8374,25 @@ Spacing</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>"obsolete">Apertado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apertado</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <comment>Spacing</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <comment>Wrapping</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight@Wrapping</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -8309,7 +8412,7 @@ Spacing</source>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -8340,51 +8443,56 @@ Spacing</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt
 Gallery</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WordArt
 Size</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>"obsolete">Alinhamento do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhamento do WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>"obsolete">Espaçamento de Caracteres do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento de Caracteres do WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>"obsolete">Preenchimento do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preenchimento do WordArt</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>"obsolete">Galeria de WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Galeria de WordArt</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>"obsolete">Contorno do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno do WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>"obsolete">WordArt - Altura das Letras Uniforme</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;WordArt - Altura das Letras Uniforme</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>"obsolete">Forma do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Forma do WordArt</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>"obsolete">Tamanho do WordArt</translation>
+        <translation type="unfinished">&quot;obsolete&quot;&gt;Tamanho do WordArt</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8392,106 +8500,135 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>"obsolete">Texto Vertical do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Texto Vertical do WordArt</translation>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>"obsolete">Estilo de Moldagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo de Moldagem</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Auto Backup</source>
-        <translation>"obsolete">Cópia de Segurança Automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Change Accout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>"obsolete">Enviar Comentários sobre a Núvem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários sobre a Núvem</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>"obsolete">Explorar Directório de Cópias de Segurança</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Explorar Directório de Cópias de Segurança</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>"obsolete">Explorar Versões de Cópias de Segurança</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Explorar Versões de Cópias de Segurança</translation>
     </message>
     <message>
         <source>Export as Image</source>
         <translation>Exportar Como Imagem</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
-        <translation>"obsolete">Cópia de Segurança Automática do Ficheiro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança Automática do Ficheiro</translation>
     </message>
     <message>
         <source>File Backup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation>"obsolete">A Minha Conta KOS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;A Minha Conta KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>"obsolete">Dica da Minha Conta KOS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Dica da Minha Conta KOS</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation>"obsolete">Núvem do Utilizador KOS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Núvem do Utilizador KOS</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation>"obsolete">Dica da Utilizador KOS na Núvem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Dica da Utilizador KOS na Núvem</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation>"obsolete">Conta de Utilizador KOS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Conta de Utilizador KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
         <translation>Laboratório</translation>
+    </message>
+    <message>
+        <source>Logout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -8499,98 +8636,114 @@ Shape</source>
     </message>
     <message>
         <source>More from Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>"obsolete">Sem Sessão Iniciada</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sem Sessão Iniciada</translation>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation>"obsolete">Abrir da Núvem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Abrir da Núvem</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>"obsolete">Gravar Ficheiro na Núvem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gravar Ficheiro na Núvem</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>"obsolete">Parar Cópia de Segurança Automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>User Guide</source>
-        <translation>"obsolete">Manual do Utilizador</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Manual do Utilizador</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation>"obsolete">Cópia de Segurança da Área de Trabalho</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança da Área de Trabalho</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>"obsolete">Iniciar Sessão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Iniciar Sessão</translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation>"obsolete">0 Histórico</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;0 Histórico</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation>"obsolete">Sobre o Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sobre o Kingsoft Writer</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Accept Deletion</source>
@@ -8606,11 +8759,11 @@ Shape</source>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation>"obsolete">Activar o Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Activar o Kingsoft Office</translation>
     </message>
     <message>
         <source>Activate WPS Office</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -8626,7 +8779,7 @@ Shape</source>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -8634,7 +8787,7 @@ Shape</source>
     </message>
     <message>
         <source>Auto Backup</source>
-        <translation>"obsolete">Cópia de Segurança Automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>AutoFit</source>
@@ -8646,7 +8799,7 @@ Shape</source>
     </message>
     <message>
         <source>AutoPoint</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Average</source>
@@ -8654,7 +8807,7 @@ Shape</source>
     </message>
     <message>
         <source>Background</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -8670,15 +8823,15 @@ Shape</source>
     </message>
     <message>
         <source>Break</source>
-        <translation>"obsolete">Quebra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Quebra</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
-        <translation>"Quebra da Ligação Seguinte"</translation>
+        <translation>&quot;Quebra da Ligação Seguinte&quot;</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -8699,11 +8852,11 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>COM AddIns</source>
-        <translation>"obsolete">Suplementos COM</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Suplementos COM</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8731,27 +8884,31 @@ Add-Ins</source>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation>"Centrar Separador"</translation>
+        <translation>&quot;Centrar Separador&quot;</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>"obsolete">Mudar de Conta</translation>
+        <translation type="unfinished">&quot;obsolete&quot;&gt;Mudar de Conta</translation>
     </message>
     <message>
         <source>Change Accout</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Change Case</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <translation>Alterar Imagem</translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change User Information</source>
-        <translation>"obsolete">Mudar Informação do Utilizador</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Informação do Utilizador</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -8759,7 +8916,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Chart</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
@@ -8767,19 +8924,19 @@ Add-Ins</source>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Chinese Transition</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>"obsolete">Tradução Chinêsa</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tradução Chinêsa</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>"Clip Art"</translation>
+        <translation>&quot;Clip Art&quot;</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -8787,7 +8944,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fechar</translation>
+        <translation type="obsolete">Fechar</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -8799,7 +8956,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Close Path</source>
-        <translation>"Fechar Caminho"</translation>
+        <translation>&quot;Fechar Caminho&quot;</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -8807,7 +8964,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>"obsolete">Enviar Comentários sobre a Cloud</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários sobre a Cloud</translation>
     </message>
     <message>
         <source>Column</source>
@@ -8839,11 +8996,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Compared Side by Side</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Conteúdos</translation>
+        <translation type="obsolete">Conteúdos</translation>
     </message>
     <message>
         <source>Continue Numbering</source>
@@ -8859,7 +9016,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation>"obsolete">Menu de Controlos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Menu de Controlos</translation>
     </message>
     <message>
         <source>Control Menu List</source>
@@ -8871,7 +9028,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation>"obsolete">Converter Maiúsculas/Minúsculas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Converter Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -8883,11 +9040,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Convert to Endnote</source>
-        <translation>"Converter para Nota Final"</translation>
+        <translation>&quot;Converter para Nota Final&quot;</translation>
     </message>
     <message>
         <source>Convert to Footnote</source>
-        <translation>"Converter para Nota de Rodapé"</translation>
+        <translation>&quot;Converter para Nota de Rodapé&quot;</translation>
     </message>
     <message>
         <source>Copy Here</source>
@@ -8899,11 +9056,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation>"Ponto de Canto"</translation>
+        <translation>&quot;Ponto de Canto&quot;</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -8915,15 +9072,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation>"Conector Curvo"</translation>
+        <translation>&quot;Conector Curvo&quot;</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation>"Segmento Curvo"</translation>
+        <translation>&quot;Segmento Curvo&quot;</translation>
     </message>
     <message>
         <source>Data Chart</source>
-        <translation>"obsolete">Tabela de Dados</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tabela de Dados</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -8931,7 +9088,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation>"Tabulação Decimal"</translation>
+        <translation>&quot;Tabulação Decimal&quot;</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8939,11 +9096,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -8959,7 +9116,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Segment</source>
@@ -8967,11 +9124,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Table</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -8991,12 +9148,12 @@ Add-Ins</source>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation>"obsolete">Protecção do Documento</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Protecção do Documento</translation>
     </message>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -9032,11 +9189,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation>"Conector em cotovelo"</translation>
+        <translation>&quot;Conector em cotovelo&quot;</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -9044,11 +9201,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>"obsolete">Encriptar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Encriptar</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -9064,23 +9225,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation>"Sair da Edição de Pontos"</translation>
+        <translation>&quot;Sair da Edição de Pontos&quot;</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation>"obsolete">Expandir Formato do Texto a Colar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Expandir Formato do Texto a Colar</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation>"obsolete">Expandir Texto a Colar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Expandir Texto a Colar</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>"obsolete">Explorar Directório de Cópias de Segurança</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Explorar Directório de Cópias de Segurança</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>"obsolete">Explorar Versões de Cópias de Segurança</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Explorar Versões de Cópias de Segurança</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -9096,11 +9257,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>"obsolete">Enviar Comentários</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -9144,7 +9309,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -9152,15 +9317,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation>"Formatos"</translation>
+        <translation>&quot;Formatos&quot;</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>"Fórmula"</translation>
+        <translation>&quot;Fórmula&quot;</translation>
     </message>
     <message>
         <source>From File</source>
@@ -9168,11 +9333,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>From Scan</source>
-        <translation>"obsolete">Do Digitalizador</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Do Digitalizador</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -9180,35 +9345,40 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>"Opções do Antvírus Genko"</translation>
+        <translation>&quot;Opções do Antvírus Genko&quot;</translation>
     </message>
     <message>
         <source>Go to Endnote</source>
-        <translation>"Ir para a Nota Final"</translation>
+        <translation>&quot;Ir para a Nota Final&quot;</translation>
     </message>
     <message>
         <source>Go to Footnote</source>
-        <translation>"Ir para a Nota de Rodapé"</translation>
+        <translation>&quot;Ir para a Nota de Rodapé&quot;</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation>"obsolete">Gráficos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gráficos</translation>
     </message>
     <message>
         <source>Gridlines</source>
         <translation>Linhas da Grelha</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <comment>Table</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Group</source>
@@ -9216,11 +9386,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Grouping</source>
-        <translation>"Agrupando"</translation>
+        <translation>&quot;Agrupando&quot;</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
-        <translation>"Indentação Deslocada"</translation>
+        <translation>&quot;Indentação Deslocada&quot;</translation>
     </message>
     <message>
         <source>Header Center</source>
@@ -9244,23 +9414,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>"obsolete">Cabeçalho/Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
-        <translation>"Esconder o Esquema de Parágrafo"</translation>
+        <translation>&quot;Esconder o Esquema de Parágrafo&quot;</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>"unfinished">Horizontal</translation>
+        <translation>&quot;unfinished&quot;&gt;Horizontal</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>"obsolete">Dispor Horizontalmente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Dispor Horizontalmente</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -9268,7 +9438,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>"Ignorar"</translation>
+        <translation>&quot;Ignorar&quot;</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -9276,11 +9446,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>"Inserir Clip Art"</translation>
+        <translation>&quot;Inserir Clip Art&quot;</translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
-        <translation>"Inserir Múltiplas Linhas"</translation>
+        <translation>&quot;Inserir Múltiplas Linhas&quot;</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -9300,27 +9474,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>"obsolete">Comunidade Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Comunidade Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>"obsolete">Facebook do Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Facebook do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>"obsolete">Portal do Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Portal do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>"obsolete">Ajuda do Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajuda do Kingsoft Writer</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation>"Separador Esquerdo"</translation>
+        <translation>&quot;Separador Esquerdo&quot;</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -9348,11 +9522,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>"Máx"</translation>
+        <translation>&quot;Máx&quot;</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -9360,11 +9534,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Min</source>
-        <translation>"Min"</translation>
+        <translation>&quot;Min&quot;</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -9372,11 +9546,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Move Here</source>
-        <translation>"Mover para aqui"</translation>
+        <translation>&quot;Mover para aqui&quot;</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -9384,7 +9558,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>"Novo a partir de Outros Modelos"</translation>
+        <translation>&quot;Novo a partir de Outros Modelos&quot;</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -9392,7 +9566,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation>"Nova Caixa de Texto"</translation>
+        <translation>&quot;Nova Caixa de Texto&quot;</translation>
     </message>
     <message>
         <source>None</source>
@@ -9408,47 +9582,51 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Object Menu</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Object Menu List</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
         <translation>Quebra de Secção nas Páginas Pares</translation>
     </message>
     <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Online Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation>"Abrir Directoria da Cópia de Segurança"</translation>
+        <translation>&quot;Abrir Directoria da Cópia de Segurança&quot;</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>"Abrir Pasta"</translation>
+        <translation>&quot;Abrir Pasta&quot;</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>"obsolete">Abrir do Klive</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Abrir do Klive</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation>"Abrir Hiperligação"</translation>
+        <translation>&quot;Abrir Hiperligação&quot;</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation>"Abrir Caminho"</translation>
+        <translation>&quot;Abrir Caminho&quot;</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation>"Opções"</translation>
+        <translation>&quot;Opções&quot;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -9460,23 +9638,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Over Type</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Area</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>"Quebra de Página"</translation>
+        <translation>&quot;Quebra de Página&quot;</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>"obsolete">Cor da Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Página</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -9484,7 +9662,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Configurar Página</translation>
+        <translation type="obsolete">Configurar Página</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9492,7 +9670,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Paste Column</source>
-        <translation>"Colar Coluna"</translation>
+        <translation>&quot;Colar Coluna&quot;</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -9500,7 +9678,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Paste as Nest Table</source>
-        <translation>"Colar como Tabela Interna"</translation>
+        <translation>&quot;Colar como Tabela Interna&quot;</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9508,7 +9686,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>"Guia Fonético"</translation>
+        <translation>&quot;Guia Fonético&quot;</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -9524,7 +9702,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation>"Caixa de Texto Anterior"</translation>
+        <translation>&quot;Caixa de Texto Anterior&quot;</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -9532,7 +9710,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>"obsolete">Centro do Produto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centro do Produto</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -9548,15 +9726,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reconvert</source>
-        <translation>"Reconverter"</translation>
+        <translation>&quot;Reconverter&quot;</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reference</source>
@@ -9564,27 +9742,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
-        <translation>"Aceitar Eliminação"</translation>
+        <translation>&quot;Aceitar Eliminação&quot;</translation>
     </message>
     <message>
         <source>Reject Formating Changes</source>
-        <translation>"Rejeitar Acções de Formatação"</translation>
+        <translation>&quot;Rejeitar Acções de Formatação&quot;</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
-        <translation>"Rejeitar Inserção"</translation>
+        <translation>&quot;Rejeitar Inserção&quot;</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>"Recarregar"</translation>
+        <translation>&quot;Recarregar&quot;</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation>"Remover Hiperligação"</translation>
+        <translation>&quot;Remover Hiperligação&quot;</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -9592,15 +9770,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
-        <translation>"obsolete">Repetir Títulos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Repetir Títulos</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation>"Repor o Formato do Parágrafo"</translation>
+        <translation>&quot;Repor o Formato do Parágrafo&quot;</translation>
     </message>
     <message>
         <source>Restart Each Page</source>
@@ -9612,15 +9790,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Restart Numbering</source>
-        <translation>"Recomeçar NUmeração"</translation>
+        <translation>&quot;Recomeçar NUmeração&quot;</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>"Restingir Edição"</translation>
+        <translation>&quot;Restingir Edição&quot;</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation>"Separador Direito"</translation>
+        <translation>&quot;Separador Direito&quot;</translation>
     </message>
     <message>
         <source>Row</source>
@@ -9648,19 +9826,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation>"Salvar como Imagem"</translation>
+        <translation>&quot;Salvar como Imagem&quot;</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation>"Salvar para Ficheiro"</translation>
+        <translation>&quot;Salvar para Ficheiro&quot;</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Security</source>
@@ -9672,7 +9854,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Select Hyperlink</source>
-        <translation>"Seleccionar Hiperligação"</translation>
+        <translation>&quot;Seleccionar Hiperligação&quot;</translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -9680,7 +9862,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>"Seleccionar Tabela com Limites a Tracejado"</translation>
+        <translation>&quot;Seleccionar Tabela com Limites a Tracejado&quot;</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -9688,7 +9870,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>"Enviar para Trás do Texto"</translation>
+        <translation>&quot;Enviar para Trás do Texto&quot;</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -9704,11 +9886,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
@@ -9716,7 +9898,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Ignored Words</source>
-        <translation>"Mostrar Palavras Ignoradas"</translation>
+        <translation>&quot;Mostrar Palavras Ignoradas&quot;</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -9728,27 +9910,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>"Mostrar ou Esconder Separador das Notas de Rodapé/Finais"</translation>
+        <translation>&quot;Mostrar ou Esconder Separador das Notas de Rodapé/Finais&quot;</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation>"Inflexão Suave"</translation>
+        <translation>&quot;Inflexão Suave&quot;</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Spelling Suggestions</source>
-        <translation>"Sugestões Gramaticais"</translation>
+        <translation>&quot;Sugestões Gramaticais&quot;</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -9764,19 +9946,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>"obsolete">Parar Cópia de Segurança Automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation>"Conector Linear"</translation>
+        <translation>&quot;Conector Linear&quot;</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation>"Ponto Linear"</translation>
+        <translation>&quot;Ponto Linear&quot;</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation>"Segmento Linear"</translation>
+        <translation>&quot;Segmento Linear&quot;</translation>
     </message>
     <message>
         <source>Study Online</source>
@@ -9784,7 +9966,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>"obsolete">Pesquisar na Internet</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Pesquisar na Internet</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -9792,7 +9974,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation>"Soma"</translation>
+        <translation>&quot;Soma&quot;</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -9808,7 +9990,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table Gridlines</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -9840,15 +10022,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Track</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation>"Duas Linhas Numa"</translation>
+        <translation>&quot;Duas Linhas Numa&quot;</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -9856,23 +10038,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Unit</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>"obsolete">Actualizar Online</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Actualizar Online</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished">Vertical</translation>
+        <translation>&quot;unfinished&quot;&gt;Vertical</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>"obsolete">Dispor Verticalmente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Dispor Verticalmente</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -9880,63 +10062,63 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>"obsolete">Ver Linhas de Grelha</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Linhas de Grelha</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Shortcut</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>"obsolete">Ver Lado a Lado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Lado a Lado</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Forum</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>"Microblog WPS"</translation>
+        <translation>&quot;Microblog WPS&quot;</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS New features</source>
-        <translation>"obsolete">Novas Funcionalidades do WPS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novas Funcionalidades do WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -9944,11 +10126,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>"Ferramentas Gramaticais"</translation>
+        <translation>&quot;Ferramentas Gramaticais&quot;</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -9960,37 +10142,37 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Zoom Ratio</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Zoom Slider</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>"obsolete">Iniciar Sessão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Iniciar Sessão</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertTextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -10019,30 +10201,30 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Border Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -10051,43 +10233,43 @@ Diagonal Line in Cell</source>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -10099,23 +10281,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Table Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -10127,7 +10309,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -10138,7 +10320,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -10158,23 +10340,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Control List</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
         <translation>Ferramentas de Controlo</translation>
     </message>
     <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Design Mode</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Image</source>
@@ -10186,7 +10372,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -10202,7 +10388,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -10218,7 +10404,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -10237,31 +10423,31 @@ Diagonal Line in Cell</source>
     <name>rainbow.ct_drawingtools</name>
     <message>
         <source>0.25 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -10353,7 +10539,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -10361,7 +10547,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Break Forward Link</source>
-        <translation>"Quebra da Ligação Seguinte"</translation>
+        <translation>&quot;Quebra da Ligação Seguinte&quot;</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -10369,7 +10555,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -10377,15 +10563,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>"obsolete">Centrado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centrado</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -10393,7 +10583,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10401,11 +10591,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>"obsolete">Traço-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço-Ponto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10425,7 +10615,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -10433,15 +10623,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -10465,15 +10655,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -10485,7 +10675,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -10493,11 +10683,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -10517,15 +10707,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>"obsolete">Traço Longo e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo e Ponto</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -10549,23 +10739,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10581,11 +10771,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -10613,27 +10803,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>"obsolete">Preenchimento da forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preenchimento da forma</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>"obsolete">Contorno da Forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno da Forma</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -10641,11 +10831,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation>"obsolete">Estilos da Forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilos da Forma</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -10653,7 +10843,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -10661,11 +10851,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -10677,7 +10867,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Through</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -10685,7 +10875,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -10693,7 +10883,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -10709,18 +10899,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>About WPS Writer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -10728,7 +10923,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -10736,15 +10931,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -10752,11 +10947,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>"obsolete">Encriptar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Encriptar</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -10764,15 +10963,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>"obsolete">Enviar Comentários</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -10780,39 +10983,39 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation>"obsolete">Comunidade Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Comunidade Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation>"obsolete">Facebook do Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Facebook do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation>"obsolete">Portal do Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Portal do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Office New features</source>
-        <translation>"obsolete">Novas Funcionalidades do Kingsoft Office</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novas Funcionalidades do Kingsoft Office</translation>
     </message>
     <message>
         <source>Kingsoft Writer Document</source>
-        <translation>"obsolete">Documento Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Documento Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>"obsolete">Ajuda do Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajuda do Kingsoft Writer</translation>
     </message>
     <message>
         <source>Kingsoft Writer Template</source>
-        <translation>"obsolete">Modelo do Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Modelo do Kingsoft Writer</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -10844,7 +11047,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Open</source>
@@ -10852,7 +11055,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation>"obsolete">Abrir do Klive</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Abrir do Klive</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -10868,7 +11071,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Product Center</source>
-        <translation>"obsolete">Centro do Produto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centro do Produto</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -10884,7 +11087,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10900,7 +11103,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -10912,69 +11115,69 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>"obsolete">Pesquisar na Internet</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Pesquisar na Internet</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation>"obsolete">Actualizar Online</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Actualizar Online</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Forum</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Writer Help</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>WPS Writer Help</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_headerfooter</name>
     <message>
         <source>- Page -</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>AutoText</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Close</source>
@@ -10982,24 +11185,32 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -11011,27 +11222,27 @@ Options</source>
     </message>
     <message>
         <source>Link to Previous</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Header</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page X</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -11039,79 +11250,79 @@ Options</source>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home</name>
     <message>
         <source>1.0</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>33%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>66%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -11123,11 +11334,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Asian Layout</source>
-        <translation>"Esquema Asiático"</translation>
+        <translation>&quot;Esquema Asiático&quot;</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -11135,11 +11346,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -11147,35 +11358,35 @@ Header and Footer</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>"obsolete">Centrado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centrado</translation>
     </message>
     <message>
         <source>Change Case</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Character Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -11183,7 +11394,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -11199,7 +11410,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -11211,19 +11422,19 @@ Header and Footer</source>
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Enclose Characters...</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Font</source>
@@ -11231,7 +11442,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -11244,7 +11455,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -11264,15 +11475,15 @@ Formatação</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -11284,7 +11495,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -11292,7 +11503,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More</source>
@@ -11324,15 +11535,15 @@ Formatação</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>"obsolete">Borda Exterior</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Borda Exterior</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -11340,7 +11551,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -11348,7 +11559,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Colar Especial</translation>
+        <translation type="obsolete">Colar Especial</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -11360,7 +11571,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Select</source>
@@ -11376,7 +11587,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -11384,11 +11595,11 @@ Formatação</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -11396,19 +11607,19 @@ Formatação</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
-        <translation>"obsolete">Mostrar/Esconder as Marcas de Formatação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar/Esconder as Marcas de Formatação</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
-        <translation>"obsolete">Mostrar/Esconder a Disposição do Parágrafo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar/Esconder a Disposição do Parágrafo</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -11420,19 +11631,19 @@ Formatação</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>"obsolete">Estilos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilos</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
-        <translation>"obsolete">Estilos / Formatação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilos / Formatação</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -11448,7 +11659,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -11464,11 +11675,11 @@ Formatação</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -11479,30 +11690,30 @@ Formatação</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>"obsolete">Número</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Número</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
         <source>AutoShape</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>"Página em branco"</translation>
+        <translation>&quot;Página em branco&quot;</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>"Quebras"</translation>
+        <translation>&quot;Quebras&quot;</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -11510,47 +11721,47 @@ Formatação</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation>"Campo de Formulário do tipo Selecção"</translation>
+        <translation>&quot;Campo de Formulário do tipo Selecção&quot;</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>"Clip Art"</translation>
+        <translation>&quot;Clip Art&quot;</translation>
     </message>
     <message>
         <source>Column Break</source>
-        <translation>"Quebra de Coluna"</translation>
+        <translation>&quot;Quebra de Coluna&quot;</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>"Comentário"</translation>
+        <translation>&quot;Comentário&quot;</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>"Comentários"</translation>
+        <translation>&quot;Comentários&quot;</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>"Quebra de Secção Contínua"</translation>
+        <translation>&quot;Quebra de Secção Contínua&quot;</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation>"Converter Tabela em Texto"</translation>
+        <translation>&quot;Converter Tabela em Texto&quot;</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation>"Converter Texto em Tabela"</translation>
+        <translation>&quot;Converter Texto em Tabela&quot;</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation>"Referência Cruzada"</translation>
+        <translation>&quot;Referência Cruzada&quot;</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>"Desenhar Tabela"</translation>
+        <translation>&quot;Desenhar Tabela&quot;</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -11558,7 +11769,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation>"Campo de Formulário em Lista"</translation>
+        <translation>&quot;Campo de Formulário em Lista&quot;</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -11566,11 +11777,11 @@ Formatação</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>"Quebra de Secção em Páginas Ímpares"</translation>
+        <translation>&quot;Quebra de Secção em Páginas Ímpares&quot;</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation>"Campos"</translation>
+        <translation>&quot;Campos&quot;</translation>
     </message>
     <message>
         <source>File</source>
@@ -11582,35 +11793,35 @@ Formatação</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>"obsolete">Horizontal</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Horizontal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -11634,15 +11845,19 @@ Formatação</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation>"Inserir Marca de Água"</translation>
+        <translation>&quot;Inserir Marca de Água&quot;</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>Inserir WordArt</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -11654,11 +11869,11 @@ Formatação</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>"Quebra de Secção na Próxima Página"</translation>
+        <translation>&quot;Quebra de Secção na Próxima Página&quot;</translation>
     </message>
     <message>
         <source>Number</source>
@@ -11670,20 +11885,24 @@ Formatação</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>"Quebra de Secção em Páginas Pares"</translation>
+        <translation>&quot;Quebra de Secção em Páginas Pares&quot;</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -11691,15 +11910,15 @@ Break</source>
     </message>
     <message>
         <source>Protect Form</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
-        <translation>"Remover Marca de Água"</translation>
+        <translation>&quot;Remover Marca de Água&quot;</translation>
     </message>
     <message>
         <source>Reset Form Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -11727,23 +11946,23 @@ Break</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Form field</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation>"Quebra de Moldagem do Texto"</translation>
+        <translation>&quot;Quebra de Moldagem do Texto&quot;</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"obsolete">Vertical</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Vertical</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>"Marca de Água"</translation>
+        <translation>&quot;Marca de Água&quot;</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -11754,22 +11973,22 @@ Break</source>
     <name>rainbow.ct_insert.BlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert.TextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -11780,48 +11999,48 @@ Break</source>
     </message>
     <message>
         <source>Close Data Source</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>First Record</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Go to Record</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Merge Field</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Last Record</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Merge
 to Email</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Merge to
@@ -11855,21 +12074,21 @@ Outro Novo Documento</translation>
     </message>
     <message>
         <source>Preview Result</source>
-        <translation>"obsolete">Pré-visualizar Resultado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Pré-visualizar Resultado</translation>
     </message>
     <message>
         <source>Preview Results</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Previous
 Record</source>
-        <translation>"obsolete">Registo
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Registo
 Anterior</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Start Mail Merge</source>
@@ -11914,11 +12133,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Go to ToC</source>
-        <translation>"obsolete">Ir para Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ir para Índice</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -11966,11 +12185,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Update ToC</source>
-        <translation>"obsolete">Actualizar Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Actualizar Índice</translation>
     </message>
 </context>
 <context>
@@ -12009,7 +12228,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -12053,11 +12272,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Custom Margins</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -12073,7 +12292,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -12081,11 +12300,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -12093,7 +12312,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>"obsolete">Mesma Largura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Largura</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -12113,11 +12332,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -12161,7 +12380,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>More Paper Sizes</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -12197,7 +12416,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>"obsolete">Cor da Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Página</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -12253,15 +12472,15 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>"obsolete">Enviar para o Fundo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar para o Fundo</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12273,7 +12492,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation>"Suprimir para o Parágrafo Actual"</translation>
+        <translation>&quot;Suprimir para o Parágrafo Actual&quot;</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -12281,11 +12500,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation>"Quebra de Moldagem do Texto"</translation>
+        <translation>&quot;Quebra de Moldagem do Texto&quot;</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -12293,11 +12512,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Three</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -12305,11 +12524,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -12318,22 +12537,22 @@ Que Foram Juntos</translation>
     <message>
         <source>Wrap
 Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_paragraph</name>
     <message>
         <source>Auto Adjust Right Indent</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Close</source>
@@ -12341,19 +12560,19 @@ Text</source>
     </message>
     <message>
         <source>Demote TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Document Gridlines</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -12361,11 +12580,11 @@ Text</source>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -12377,11 +12596,11 @@ Text</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Configurar Página</translation>
+        <translation type="obsolete">Configurar Página</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -12389,35 +12608,35 @@ Text</source>
     </message>
     <message>
         <source>Promote TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Promote to Level 1</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -12428,31 +12647,31 @@ Text</source>
     <name>rainbow.ct_picturetools</name>
     <message>
         <source>0.25 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -12504,7 +12723,7 @@ Text</source>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Black and White</source>
@@ -12516,7 +12735,7 @@ Text</source>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -12528,7 +12747,7 @@ Text</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Color</source>
@@ -12548,7 +12767,7 @@ Text</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -12556,11 +12775,11 @@ Text</source>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>"obsolete">Traço-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço-Ponto</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -12572,7 +12791,7 @@ Text</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -12580,15 +12799,15 @@ Text</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -12607,16 +12826,24 @@ Text</source>
         <translation>Rotação Livre</translation>
     </message>
     <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -12624,7 +12851,7 @@ Text</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -12636,11 +12863,11 @@ Text</source>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -12653,6 +12880,10 @@ Text</source>
     <message>
         <source>Insert Picture</source>
         <translation>Inserir Imagem</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -12668,15 +12899,15 @@ Text</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>"obsolete">Traço Longo e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo e Ponto</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -12708,23 +12939,27 @@ Text</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -12740,15 +12975,15 @@ Text</source>
     </message>
     <message>
         <source>Picture Adjust</source>
-        <translation>"obsolete">Ajustar a Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajustar a Imagem</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>"obsolete">Preencher a Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preencher a Imagem</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>"obsolete">Contorno da Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno da Imagem</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -12760,7 +12995,7 @@ Text</source>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -12796,11 +13031,11 @@ Text</source>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -12808,7 +13043,7 @@ Text</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -12816,11 +13051,11 @@ Text</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -12828,7 +13063,7 @@ Text</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>"obsolete">Estilo da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -12840,7 +13075,7 @@ Text</source>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
@@ -12912,19 +13147,19 @@ Text</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>"obsolete">Mudar Sombra para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>"obsolete">Mudar Sombra para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>"obsolete">Mudar Sombra para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>"obsolete">Mudar Sombra para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -12932,7 +13167,7 @@ Text</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -12944,7 +13179,7 @@ Text</source>
     </message>
     <message>
         <source>Through</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -12952,7 +13187,7 @@ Text</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -12968,11 +13203,16 @@ Text</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -12983,7 +13223,7 @@ Text</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Print</source>
@@ -12995,11 +13235,11 @@ Text</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -13010,202 +13250,215 @@ Text</source>
     <name>rainbow.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation>"Corpo do Texto"</translation>
+        <translation>&quot;Corpo do Texto&quot;</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>"Citação"</translation>
+        <translation>&quot;Citação&quot;</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation>"Referência Cruzada"</translation>
+        <translation>&quot;Referência Cruzada&quot;</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 1</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation>"Índice"</translation>
+        <translation>&quot;Índice&quot;</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_review</name>
     <message>
         <source>Accept</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Accept Selection Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All Reviewers</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>"obsolete">Verificação Ortográfica</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Chinese Transition</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>"obsolete">Apagar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apagar</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Comment</source>
         <translation>Apagar Comentário</translation>
     </message>
     <message>
+        <source>Delete Comment</source>
+        <comment>Review-&gt;Delete-&gt;Delete Comment</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Comment@Review-&gt;Delete-&gt;Delete Comment</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next</source>
@@ -13213,7 +13466,7 @@ Text</source>
     </message>
     <message>
         <source>Next Change</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Next Comment</source>
@@ -13225,7 +13478,7 @@ Text</source>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Previous Comment</source>
@@ -13237,19 +13490,19 @@ Text</source>
     </message>
     <message>
         <source>Protect</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -13269,7 +13522,7 @@ Text</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation>"obsolete">Mostrar no Balão a Informação Sobre o Revisor</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar no Balão a Informação Sobre o Revisor</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -13277,11 +13530,11 @@ Text</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -13289,7 +13542,7 @@ Text</source>
     </message>
     <message>
         <source>Tracking</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -13304,7 +13557,7 @@ Text</source>
     <name>rainbow.ct_section</name>
     <message>
         <source> Contents Page</source>
-        <translation>"obsolete"> Página de Conteúdos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt; Página de Conteúdos</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -13312,7 +13565,7 @@ Text</source>
     </message>
     <message>
         <source>Contents Page</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -13324,11 +13577,11 @@ Text</source>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cover and ToC</source>
-        <translation>"obsolete">Capa e Índice</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Capa e Índice</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -13336,7 +13589,7 @@ Text</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -13352,11 +13605,11 @@ Text</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>"obsolete">Cabeçalho/Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -13384,7 +13637,7 @@ Text</source>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -13444,11 +13697,11 @@ Text</source>
     </message>
     <message>
         <source>Section Management</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Section Manager</source>
-        <translation>"obsolete">Gestor de Secções</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gestor de Secções</translation>
     </message>
     <message>
         <source>Section Navigation</source>
@@ -13456,11 +13709,11 @@ Text</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
-        <translation>"obsolete">Mostrar / Esconder Navegação de Secções</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar / Esconder Navegação de Secções</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -13468,11 +13721,11 @@ Text</source>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>"obsolete">Mostrar Linha do Cabeçalho</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar Linha do Cabeçalho</translation>
     </message>
     <message>
         <source>Show/Hide Section Navigation</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -13507,7 +13760,7 @@ Text</source>
     </message>
     <message>
         <source>3-D Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
@@ -13519,7 +13772,7 @@ Text</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>"obsolete">Estilo 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -13667,19 +13920,19 @@ Text</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -13703,7 +13956,7 @@ Text</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -13715,7 +13968,7 @@ Text</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>"obsolete">Estilo da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -13799,19 +14052,19 @@ Text</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>"obsolete">Mudar Sombra para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>"obsolete">Mudar Sombra para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>"obsolete">Mudar Sombra para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>"obsolete">Mudar Sombra para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -13918,7 +14171,7 @@ Text</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -13970,11 +14223,11 @@ Text</source>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
-        <translation>"obsolete">Repetir Cabeçalhos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Repetir Cabeçalhos</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -13982,11 +14235,11 @@ Text</source>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
-        <translation>"obsolete">Linhas/Colunas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas/Colunas</translation>
     </message>
     <message>
         <source>Select</source>
@@ -14014,7 +14267,7 @@ Text</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -14046,7 +14299,7 @@ Text</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation>"obsolete">Tabelas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tabelas</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -14078,13 +14331,13 @@ Text</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation>"obsolete">Fechar
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar
 Outras Janelas</translation>
     </message>
     <message>
         <source>Close
 Other Windows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -14096,7 +14349,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Document Map</source>
@@ -14104,11 +14357,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Document View</source>
-        <translation>"obsolete">Vista do Documento</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Vista do Documento</translation>
     </message>
     <message>
         <source>Document Views</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -14116,15 +14369,15 @@ Other Windows</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>"obsolete">Linhas da Grelha</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas da Grelha</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation>"obsolete">Organizar Horizontalmente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Organizar Horizontalmente</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -14136,7 +14389,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation>"Marcações"</translation>
+        <translation>&quot;Marcações&quot;</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -14196,11 +14449,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation>"obsolete">Mudar de Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar de Janela</translation>
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -14208,7 +14461,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Table Gridlines</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -14220,11 +14473,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation>"obsolete">Organizar Verticalmente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Organizar Verticalmente</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -14268,7 +14521,7 @@ Other Windows</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -14284,7 +14537,7 @@ Effects</source>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>"obsolete">Estilo 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo 3D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -14432,19 +14685,19 @@ Effects</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -14465,16 +14718,16 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>"obsolete">Cor da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -14486,7 +14739,7 @@ Effects</source>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation>"obsolete">Estilo da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
@@ -14570,19 +14823,19 @@ Effects</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation>"obsolete">Mudar Sombra para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation>"obsolete">Mudar Sombra para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation>"obsolete">Mudar Sombra para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation>"obsolete">Mudar Sombra para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -14701,7 +14954,7 @@ Effects</source>
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation>"obsolete">Fundo (Curva)</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fundo (Curva)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
@@ -14721,15 +14974,15 @@ Effects</source>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -14745,7 +14998,7 @@ Effects</source>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -14781,7 +15034,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -14789,7 +15042,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>"obsolete">Traço-Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço-Ponto</translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -14813,7 +15066,7 @@ Effects</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>"obsolete">Opções Detalhadas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Opções Detalhadas</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -14837,7 +15090,7 @@ Effects</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -14845,15 +15098,15 @@ Effects</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>"obsolete">Mesma Largura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Largura</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -14889,11 +15142,11 @@ Effects</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>"obsolete">Gradiente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -14929,7 +15182,7 @@ Effects</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>"obsolete">Inserir WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir WordArt</translation>
     </message>
     <message>
         <source>Left Alignment</source>
@@ -14937,7 +15190,7 @@ Effects</source>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -14945,19 +15198,19 @@ Effects</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>"obsolete">Traço Longo e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo e Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>"obsolete">Traço Longo, Ponto e Ponto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo, Ponto e Ponto</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -15005,11 +15258,11 @@ Effects</source>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -15029,7 +15282,7 @@ Effects</source>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -15045,15 +15298,15 @@ Effects</source>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>"obsolete">Enviar para o Fundo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar para o Fundo</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -15081,11 +15334,11 @@ Effects</source>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>"obsolete">Moldagem do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -15097,15 +15350,25 @@ Effects</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation>"obsolete">Apertado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apertado</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <comment>Spacing</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <comment>Wrapping</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tight@Wrapping</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -15152,12 +15415,17 @@ Effects</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
         <translation>Alinhamento do WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>"obsolete">Espaçamento de Caracteres do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento de Caracteres do WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
@@ -15173,7 +15441,7 @@ Effects</source>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>"obsolete">WordArt - Altura das Letras Uniforme</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;WordArt - Altura das Letras Uniforme</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -15193,66 +15461,83 @@ Effects</source>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>"obsolete">Estilo de Moldagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo de Moldagem</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Auto Backup</source>
-        <translation>"obsolete">Cópia de Segurança Automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Change Accout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>"obsolete">Enviar Comentários sobre a Núvem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários sobre a Núvem</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation>"obsolete">Explorar Directório de Cópias de Segurança</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Explorar Directório de Cópias de Segurança</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation>"obsolete">Explorar Versões de Cópias de Segurança</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Explorar Versões de Cópias de Segurança</translation>
     </message>
     <message>
         <source>Export as Image</source>
         <translation>Exportar Como Imagem</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
-        <translation>"obsolete">Cópia de Segurança Automática do Ficheiro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança Automática do Ficheiro</translation>
     </message>
     <message>
         <source>File Backup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Help</source>
@@ -15260,19 +15545,27 @@ Effects</source>
     </message>
     <message>
         <source>Help us improve our product.</source>
-        <translation>"obsolete">Ajude-nos a melhorar o nosso produto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajude-nos a melhorar o nosso produto</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation>"obsolete">A Minha Conta KOS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;A Minha Conta KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation>"obsolete">Dica da Minha Conta KOS</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Dica da Minha Conta KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -15280,7 +15573,11 @@ Effects</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>"obsolete">Iniciar Sessão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Iniciar Sessão</translation>
+    </message>
+    <message>
+        <source>Logout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -15288,51 +15585,67 @@ Effects</source>
     </message>
     <message>
         <source>More from Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>"obsolete">Sem Sessão Iniciada</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sem Sessão Iniciada</translation>
     </message>
     <message>
         <source>Online Documents</source>
         <translation>Documentos Online</translation>
     </message>
     <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open from Cloud</source>
-        <translation>"obsolete">Abrir da Núvem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Abrir da Núvem</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation>"obsolete">Gravar Ficheiro na Núvem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Gravar Ficheiro na Núvem</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>"obsolete">Parar Cópias de Segurança Automáticas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópias de Segurança Automáticas</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -15340,58 +15653,58 @@ Effects</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
-        <translation>"obsolete">Cópia de Segurança da Área de Trabalho</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança da Área de Trabalho</translation>
     </message>
 </context>
 <context>
     <name>tips.100%</name>
     <message>
         <source>100%</source>
-        <translation>"obsolete">100%</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;100%</translation>
     </message>
 </context>
 <context>
     <name>tips.3DColor</name>
     <message>
         <source>3-D color</source>
-        <translation>"obsolete">Cor 3D</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor 3D</translation>
     </message>
 </context>
 <context>
     <name>tips.3DDepthMenu</name>
     <message>
         <source>Depth</source>
-        <translation>"obsolete">Profundidade</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Profundidade</translation>
     </message>
 </context>
 <context>
     <name>tips.3DDirectionPalette</name>
     <message>
         <source>Direction</source>
-        <translation>"obsolete">Direcção</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Direcção</translation>
     </message>
 </context>
 <context>
     <name>tips.3DLightingPalette</name>
     <message>
         <source>Lighting Angle</source>
-        <translation>"obsolete">Angulo da Luminosidade</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Angulo da Luminosidade</translation>
     </message>
 </context>
 <context>
@@ -15407,28 +15720,28 @@ Effects</source>
     <name>tips.3DTiltDown</name>
     <message>
         <source>Tilt Down</source>
-        <translation>"obsolete">Inclinar para Baixo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inclinar para Baixo</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltLeft</name>
     <message>
         <source>Tilt Left</source>
-        <translation>"obsolete">Inclinar para a Esquerda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inclinar para a Esquerda</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltRight</name>
     <message>
         <source>Tilt Right</source>
-        <translation>"obsolete">Inclinar para a Direita</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inclinar para a Direita</translation>
     </message>
 </context>
 <context>
     <name>tips.3DTiltUp</name>
     <message>
         <source>Tilt Up</source>
-        <translation>"obsolete">Inclinar para Cima</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inclinar para Cima</translation>
     </message>
 </context>
 <context>
@@ -15450,7 +15763,7 @@ Effects</source>
     <name>tips.AlignCenter</name>
     <message>
         <source>Align Center</source>
-        <translation>"obsolete">Alinhar ao Centro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar ao Centro</translation>
     </message>
 </context>
 <context>
@@ -15475,7 +15788,7 @@ Effects</source>
     <name>tips.ArrangeAll</name>
     <message>
         <source>Arrange All</source>
-        <translation>"obsolete">Organizar Tudo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Organizar Tudo</translation>
     </message>
 </context>
 <context>
@@ -15500,7 +15813,7 @@ Effects</source>
     <name>tips.Bold</name>
     <message>
         <source>Bold</source>
-        <translation>"obsolete">Negrito</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Negrito</translation>
     </message>
 </context>
 <context>
@@ -15510,21 +15823,21 @@ Effects</source>
     <name>tips.BringForward</name>
     <message>
         <source>Bring Forward</source>
-        <translation>"obsolete">Trazer para a Frente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Trazer para a Frente</translation>
     </message>
 </context>
 <context>
     <name>tips.Bullets</name>
     <message>
         <source>Bullets</source>
-        <translation>"obsolete">Marcas de Lista</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marcas de Lista</translation>
     </message>
 </context>
 <context>
     <name>tips.COMAddIns</name>
     <message>
         <source>Add-Ins</source>
-        <translation>"obsolete">Suplementos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Suplementos</translation>
     </message>
 </context>
 <context>
@@ -15534,7 +15847,7 @@ Effects</source>
     <name>tips.CTB_MoreControls</name>
     <message>
         <source>More Controls</source>
-        <translation>"obsolete">Mais Controlos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mais Controlos</translation>
     </message>
 </context>
 <context>
@@ -15544,7 +15857,7 @@ Effects</source>
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>View Code</source>
-        <translation>"obsolete">Ver Código</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Código</translation>
     </message>
 </context>
 <context>
@@ -15554,14 +15867,14 @@ Effects</source>
     <name>tips.ChangePicture</name>
     <message>
         <source>Change Picture</source>
-        <translation>"obsolete">Alterar Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alterar Imagem</translation>
     </message>
 </context>
 <context>
     <name>tips.ChangeTextDirection</name>
     <message>
         <source>Text Direction</source>
-        <translation>"obsolete">Direcção do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Direcção do Texto</translation>
     </message>
 </context>
 <context>
@@ -15574,7 +15887,7 @@ Effects</source>
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
-        <translation>"obsolete">Verificação Ortográfica</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Verificação Ortográfica</translation>
     </message>
 </context>
 <context>
@@ -15590,56 +15903,56 @@ Effects</source>
     <name>tips.ClearTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation>"obsolete">Limpar Estilo da Tabela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Limpar Estilo da Tabela</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseDevelopmentTools</name>
     <message>
         <source>Close</source>
-        <translation>"obsolete">Fechar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseHeaderAndFooter</name>
     <message>
         <source>Close</source>
-        <translation>"obsolete">Fechar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseMail</name>
     <message>
         <source>Close</source>
-        <translation>"obsolete">Fechar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOtherWindow</name>
     <message>
         <source>Close Other Windows</source>
-        <translation>"obsolete">Fechar Outras Janelas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar Outras Janelas</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseOutlineview</name>
     <message>
         <source>Close</source>
-        <translation>"obsolete">Fechar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar</translation>
     </message>
 </context>
 <context>
     <name>tips.ClosePreview</name>
     <message>
         <source>Close</source>
-        <translation>"obsolete">Fechar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseWindow</name>
     <message>
         <source>Close Window</source>
-        <translation>"obsolete">Fechar Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar Janela</translation>
     </message>
 </context>
 <context>
@@ -15658,11 +15971,11 @@ Effects</source>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
-        <translation>"obsolete">Copiar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Copiar</translation>
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation>"obsolete">Copiar a selecção para a Área de Transferência</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Copiar a selecção para a Área de Transferência</translation>
     </message>
 </context>
 <context>
@@ -15678,21 +15991,21 @@ Effects</source>
     <name>tips.Cut</name>
     <message>
         <source>Cut</source>
-        <translation>"obsolete">Cortar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cortar</translation>
     </message>
 </context>
 <context>
     <name>tips.DecreaseIndent</name>
     <message>
         <source>Decrease Indent</source>
-        <translation>"obsolete">Diminuir Avanço</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Diminuir Avanço</translation>
     </message>
 </context>
 <context>
     <name>tips.Delete</name>
     <message>
         <source>Delete</source>
-        <translation>"obsolete">Apagar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apagar</translation>
     </message>
 </context>
 <context>
@@ -15750,14 +16063,14 @@ Effects</source>
     <name>tips.DistributeColumns</name>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>"obsolete">Distribuir Colunas Uniformemente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Distribuir Colunas Uniformemente</translation>
     </message>
 </context>
 <context>
     <name>tips.DistributeRows</name>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>"obsolete">Distribuir Linhas Uniformemente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Distribuir Linhas Uniformemente</translation>
     </message>
 </context>
 <context>
@@ -15773,18 +16086,18 @@ Effects</source>
     <name>tips.DropCap</name>
     <message>
         <source>Drop Cap</source>
-        <translation>"obsolete">Capitalização</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Capitalização</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>"obsolete">Carrege em F1 para mais ajuda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Carrege em F1 para mais ajuda</translation>
     </message>
 </context>
 <context>
     <name>tips.EditPoints</name>
     <message>
         <source>Edit Points</source>
-        <translation>"obsolete">Editar Pontos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Editar Pontos</translation>
     </message>
 </context>
 <context>
@@ -15803,7 +16116,7 @@ Effects</source>
     <name>tips.ExitParagraph</name>
     <message>
         <source>Close</source>
-        <translation>"obsolete">Fechar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar</translation>
     </message>
 </context>
 <context>
@@ -15825,14 +16138,14 @@ Effects</source>
     <name>tips.FillColor</name>
     <message>
         <source>Shape Fill</source>
-        <translation>"obsolete">Preenchimento da forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preenchimento da forma</translation>
     </message>
 </context>
 <context>
     <name>tips.Find</name>
     <message>
         <source>Find</source>
-        <translation>"obsolete">Procurar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Procurar</translation>
     </message>
 </context>
 <context>
@@ -15851,14 +16164,14 @@ Effects</source>
     <name>tips.FontName</name>
     <message>
         <source>Font</source>
-        <translation>"obsolete">Fonte</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fonte</translation>
     </message>
 </context>
 <context>
     <name>tips.FontSize</name>
     <message>
         <source>Font Size</source>
-        <translation>"obsolete">Tamanho da Fonte</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tamanho da Fonte</translation>
     </message>
 </context>
 <context>
@@ -15871,14 +16184,14 @@ Effects</source>
     <name>tips.FormatAlignDistributed</name>
     <message>
         <source>Distributed</source>
-        <translation>"obsolete">Distribuido</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Distribuido</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatAlignJustify</name>
     <message>
         <source>Justify</source>
-        <translation>"obsolete">Justificar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Justificar</translation>
     </message>
 </context>
 <context>
@@ -15891,18 +16204,18 @@ Effects</source>
     <name>tips.FormatObject</name>
     <message>
         <source>Format Object</source>
-        <translation>"obsolete">Formatar Objecto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Formatar Objecto</translation>
     </message>
 </context>
 <context>
     <name>tips.FormatPainter</name>
     <message>
         <source>Format Painter</source>
-        <translation>"obsolete">Pincel de Formatação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Pincel de Formatação</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation>"obsolete">Carrege em F1 para mais ajuda</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Carrege em F1 para mais ajuda</translation>
     </message>
 </context>
 <context>
@@ -15927,7 +16240,7 @@ Effects</source>
     <name>tips.Gridlines</name>
     <message>
         <source>Gridlines</source>
-        <translation>"obsolete">Linhas da Grelha</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas da Grelha</translation>
     </message>
 </context>
 <context>
@@ -15964,7 +16277,7 @@ Effects</source>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
-        <translation>"obsolete">Aumentar Avanço</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Aumentar Avanço</translation>
     </message>
 </context>
 <context>
@@ -15992,7 +16305,7 @@ Effects</source>
     <name>tips.InsertClipArt</name>
     <message>
         <source>Insert Clip Art</source>
-        <translation>"obsolete">Inserir Clip Art</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Clip Art</translation>
     </message>
 </context>
 <context>
@@ -16008,7 +16321,7 @@ Effects</source>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation>"obsolete">Data e Hora</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Data e Hora</translation>
     </message>
 </context>
 <context>
@@ -16024,7 +16337,7 @@ Effects</source>
     <name>tips.InsertHyperlink</name>
     <message>
         <source>Insert Hyperlink</source>
-        <translation>"obsolete">Inserir Hiperligação</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Hiperligação</translation>
     </message>
 </context>
 <context>
@@ -16070,7 +16383,7 @@ Effects</source>
     <name>tips.InsertWordArt</name>
     <message>
         <source>WordArt</source>
-        <translation>"obsolete">WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;WordArt</translation>
     </message>
 </context>
 <context>
@@ -16080,14 +16393,14 @@ Effects</source>
     <name>tips.Italic</name>
     <message>
         <source>Italic</source>
-        <translation>"obsolete">Itálico</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Itálico</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>Feedback</source>
-        <translation>"obsolete">Enviar Comentários</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar Comentários</translation>
     </message>
 </context>
 <context>
@@ -16133,14 +16446,14 @@ Effects</source>
     <name>tips.LineColor</name>
     <message>
         <source>Shape Outline</source>
-        <translation>"obsolete">Contorno da Forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno da Forma</translation>
     </message>
 </context>
 <context>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Line Spacing</source>
-        <translation>"obsolete">Espaçamento entre Linhas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento entre Linhas</translation>
     </message>
 </context>
 <context>
@@ -16168,7 +16481,7 @@ Effects</source>
     <name>tips.MarkVersion</name>
     <message>
         <source>Manual Backup</source>
-        <translation>"obsolete">Cópia de Segurança Manual</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança Manual</translation>
     </message>
 </context>
 <context>
@@ -16181,7 +16494,7 @@ Effects</source>
     <name>tips.MergeCells</name>
     <message>
         <source>Merge Cells</source>
-        <translation>"obsolete">Juntar Células</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Juntar Células</translation>
     </message>
 </context>
 <context>
@@ -16203,7 +16516,7 @@ Effects</source>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation>"obsolete">Nova Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Nova Janela</translation>
     </message>
 </context>
 <context>
@@ -16213,7 +16526,7 @@ Effects</source>
     <name>tips.NextComment</name>
     <message>
         <source>Next Comment</source>
-        <translation>"obsolete">Próximo Comentário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Próximo Comentário</translation>
     </message>
 </context>
 <context>
@@ -16244,14 +16557,14 @@ Effects</source>
     <name>tips.Numbering</name>
     <message>
         <source>Bullets</source>
-        <translation>"obsolete">Marcas de Lista</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marcas de Lista</translation>
     </message>
 </context>
 <context>
     <name>tips.ObjectSelect</name>
     <message>
         <source>Selection Pane</source>
-        <translation>"obsolete">Painel de Selecção</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Painel de Selecção</translation>
     </message>
 </context>
 <context>
@@ -16282,14 +16595,14 @@ Effects</source>
     <name>tips.PageOrientation</name>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
-        <translation>"obsolete">Alternar as páginas entre Orientação Vertical e Horizontal</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alternar as páginas entre Orientação Vertical e Horizontal</translation>
     </message>
 </context>
 <context>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation>"obsolete">Configurar Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Configurar Página</translation>
     </message>
 </context>
 <context>
@@ -16314,21 +16627,21 @@ Effects</source>
     <name>tips.PictureCrop</name>
     <message>
         <source>Crop</source>
-        <translation>"obsolete">Recortar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Recortar</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureFill</name>
     <message>
         <source>Picture Fill</source>
-        <translation>"obsolete">Preencher a Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preencher a Imagem</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureOutline</name>
     <message>
         <source>Picture Outline</source>
-        <translation>"obsolete">Contorno da Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno da Imagem</translation>
     </message>
 </context>
 <context>
@@ -16338,7 +16651,7 @@ Effects</source>
     <name>tips.PictureSize</name>
     <message>
         <source>Picture Size</source>
-        <translation>"obsolete">Tamanho da Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tamanho da Imagem</translation>
     </message>
 </context>
 <context>
@@ -16351,7 +16664,7 @@ Effects</source>
     <name>tips.PreviousComment</name>
     <message>
         <source>Previous Comment</source>
-        <translation>"obsolete">Comentário Anterior</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Comentário Anterior</translation>
     </message>
 </context>
 <context>
@@ -16370,7 +16683,7 @@ Effects</source>
     <name>tips.Print</name>
     <message>
         <source>Print</source>
-        <translation>"obsolete">Imprimir</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Imprimir</translation>
     </message>
 </context>
 <context>
@@ -16383,21 +16696,21 @@ Effects</source>
     <name>tips.PrintPreview</name>
     <message>
         <source>Print Preview</source>
-        <translation>"obsolete">Pré-visualizar de Impressão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Pré-visualizar de Impressão</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Zoom</source>
-        <translation>"obsolete">Ampliar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ampliar</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintShowViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>"obsolete">Régua</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Régua</translation>
     </message>
 </context>
 <context>
@@ -16419,21 +16732,21 @@ Effects</source>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation>"obsolete">Área de Transferência</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Área de Transferência</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Font</name>
     <message>
         <source>Font</source>
-        <translation>"obsolete">Fonte</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fonte</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Paragraph</name>
     <message>
         <source>Paragraph</source>
-        <translation>"obsolete">Parágrafo</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Parágrafo</translation>
     </message>
 </context>
 <context>
@@ -16470,14 +16783,14 @@ Effects</source>
     <name>tips.Replace</name>
     <message>
         <source>Replace</source>
-        <translation>"obsolete">Substituir</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Substituir</translation>
     </message>
 </context>
 <context>
     <name>tips.ResetPicture</name>
     <message>
         <source>Reset Picture</source>
-        <translation>"obsolete">Repor Imagem</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Repor Imagem</translation>
     </message>
 </context>
 <context>
@@ -16490,7 +16803,7 @@ Effects</source>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation>"obsolete">Régua</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Régua</translation>
     </message>
 </context>
 <context>
@@ -16506,14 +16819,14 @@ Effects</source>
     <name>tips.Select</name>
     <message>
         <source>Select</source>
-        <translation>"obsolete">Seleccionar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Seleccionar</translation>
     </message>
 </context>
 <context>
     <name>tips.SendBackward</name>
     <message>
         <source>Send Backward</source>
-        <translation>"obsolete">Enviar para Trás</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Enviar para Trás</translation>
     </message>
 </context>
 <context>
@@ -16523,7 +16836,7 @@ Effects</source>
     <name>tips.ShadowColor</name>
     <message>
         <source>Shadow Color</source>
-        <translation>"obsolete">Cor da Sombra</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Sombra</translation>
     </message>
 </context>
 <context>
@@ -16536,14 +16849,14 @@ Effects</source>
     <name>tips.ShapeSize</name>
     <message>
         <source>Shape Size</source>
-        <translation>"obsolete">Tamanho da Forma</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tamanho da Forma</translation>
     </message>
 </context>
 <context>
     <name>tips.Shapes</name>
     <message>
         <source>Shapes</source>
-        <translation>"obsolete">Formas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Formas</translation>
     </message>
 </context>
 <context>
@@ -16583,7 +16896,7 @@ Effects</source>
     <name>tips.SplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation>"obsolete">Dividir Células</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Dividir Células</translation>
     </message>
 </context>
 <context>
@@ -16596,7 +16909,7 @@ Effects</source>
     <name>tips.StopAutoVersion</name>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>"obsolete">Parar Cópia de Segurança Automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópia de Segurança Automática</translation>
     </message>
 </context>
 <context>
@@ -16609,14 +16922,14 @@ Effects</source>
     <name>tips.Subscript</name>
     <message>
         <source>Subscript</source>
-        <translation>"obsolete">Subscrito</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Subscrito</translation>
     </message>
 </context>
 <context>
     <name>tips.Superscript</name>
     <message>
         <source>Superscript</source>
-        <translation>"obsolete">Sobrescrito</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sobrescrito</translation>
     </message>
 </context>
 <context>
@@ -16629,7 +16942,7 @@ Effects</source>
     <name>tips.Table</name>
     <message>
         <source>Table</source>
-        <translation>"obsolete">Tabela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tabela</translation>
     </message>
 </context>
 <context>
@@ -16657,14 +16970,14 @@ Effects</source>
     <name>tips.TableSelectMenu</name>
     <message>
         <source>Select</source>
-        <translation>"obsolete">Seleccionar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Seleccionar</translation>
     </message>
 </context>
 <context>
     <name>tips.TableShadingColor</name>
     <message>
         <source>Shading</source>
-        <translation>"obsolete">Sombras</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sombras</translation>
     </message>
 </context>
 <context>
@@ -16680,7 +16993,7 @@ Effects</source>
     <name>tips.TextDirection</name>
     <message>
         <source>Text Direction</source>
-        <translation>"obsolete">Direcção do Texto</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Direcção do Texto</translation>
     </message>
 </context>
 <context>
@@ -16696,7 +17009,7 @@ Effects</source>
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
-        <translation>"obsolete">Sublinhar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sublinhar</translation>
     </message>
 </context>
 <context>
@@ -16712,14 +17025,14 @@ Effects</source>
     <name>tips.ViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation>"obsolete">Régua</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Régua</translation>
     </message>
 </context>
 <context>
     <name>tips.VisualBasicEditor</name>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>"obsolete">Editor de Visual Basic</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Editor de Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -16732,7 +17045,7 @@ Effects</source>
     <name>tips.WordArtAlignment</name>
     <message>
         <source>WordArt Alignment</source>
-        <translation>"obsolete">Alinhamento do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhamento do WordArt</translation>
     </message>
 </context>
 <context>
@@ -16742,49 +17055,49 @@ Effects</source>
     <name>tips.WordArtFill</name>
     <message>
         <source>WordArt Fill</source>
-        <translation>"obsolete">Preenchimento do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Preenchimento do WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtGallery</name>
     <message>
         <source>WordArt Gallery</source>
-        <translation>"obsolete">Galeria do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Galeria do WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtOutline</name>
     <message>
         <source>WordArt Outline</source>
-        <translation>"obsolete">Contorno do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno do WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSameLetterHeights</name>
     <message>
         <source>Even Height</source>
-        <translation>"obsolete">Mesma Altura</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mesma Altura</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtShapePalette</name>
     <message>
         <source>WordArt Shape</source>
-        <translation>"obsolete">Forma do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Forma do WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtSize</name>
     <message>
         <source>WordArt Size</source>
-        <translation>"obsolete">Tamanho do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tamanho do WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.WordArtVerticalText</name>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>"obsolete">Texto Vertical do WordArt</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Texto Vertical do WordArt</translation>
     </message>
 </context>
 <context>
@@ -16800,14 +17113,14 @@ Effects</source>
     <name>tips.Zoom</name>
     <message>
         <source>Zoom</source>
-        <translation>"obsolete">Ampliar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ampliar</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Align</name>
     <message>
         <source>Align</source>
-        <translation>"obsolete">Alinhar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar</translation>
     </message>
 </context>
 <context>
@@ -16820,14 +17133,14 @@ Effects</source>
     <name>tips.m_ColumnsPalette</name>
     <message>
         <source>Columns</source>
-        <translation>"obsolete">Colunas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Colunas</translation>
     </message>
 </context>
 <context>
     <name>tips.m_Group</name>
     <message>
         <source>Group</source>
-        <translation>"obsolete">Agrupar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Agrupar</translation>
     </message>
 </context>
 <context>
@@ -16837,7 +17150,7 @@ Effects</source>
     <name>tips.m_LineSpacing</name>
     <message>
         <source>Line Spacing</source>
-        <translation>"obsolete">Espaçamento das Linhas</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento das Linhas</translation>
     </message>
 </context>
 <context>
@@ -16853,7 +17166,7 @@ Effects</source>
     <name>tips.m_Rotate</name>
     <message>
         <source>Rotate</source>
-        <translation>"obsolete">Rodar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Rodar</translation>
     </message>
 </context>
 <context>
@@ -16872,21 +17185,21 @@ Effects</source>
     <name>tips.sp_DeleteComment</name>
     <message>
         <source>Delete Comment</source>
-        <translation>"obsolete">Apagar Comentário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apagar Comentário</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_DeleteComment2</name>
     <message>
         <source>Delete Comment</source>
-        <translation>"obsolete">Apagar Comentário</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Apagar Comentário</translation>
     </message>
 </context>
 <context>
     <name>tips.sp_Paste</name>
     <message>
         <source>Paste</source>
-        <translation>"obsolete">Colar</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Colar</translation>
     </message>
 </context>
 <context>
@@ -16896,134 +17209,150 @@ Effects</source>
     <name>wordtools</name>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Convert Soft Return to Return</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Blank Paragraph</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Spaces</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Delete Spaces before First-line Indent</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Insert Blank Paragraphs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Smart Rearrange</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
     <name>workspacemenu</name>
     <message>
         <source>Change Account</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Export as Images</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manual Backup</source>
         <translation>Cópia de Segurança Manual</translation>
     </message>
     <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation>"obsolete">Parar Cópia de Segurança Automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Text Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -17077,7 +17406,7 @@ Effects</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Outlining</source>
@@ -17105,7 +17434,7 @@ Effects</source>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
@@ -17117,7 +17446,7 @@ Effects</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>"Ver Lado a Lado"</translation>
+        <translation>&quot;Ver Lado a Lado&quot;</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -17140,11 +17469,11 @@ Effects</source>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
-        <translation>"obsolete">Formas Automáticas e Materiais</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Formas Automáticas e Materiais</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -17160,15 +17489,15 @@ Effects</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>"obsolete">Marcadores</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Marcadores</translation>
     </message>
     <message>
         <source>Browse Objects</source>
-        <translation>"obsolete">Ver Objectos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Objectos</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -17180,27 +17509,27 @@ Effects</source>
     </message>
     <message>
         <source>Browse by Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Browse by Field</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Browse by Footnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Browse by Graphic</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Browse by Heading</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Browse by Objects (Alt+Ctrl+Home)</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Browse by Page</source>
@@ -17212,7 +17541,7 @@ Effects</source>
     </message>
     <message>
         <source>Browse by Table</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17220,55 +17549,63 @@ Effects</source>
     </message>
     <message>
         <source>Cancel Splitting</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>"obsolete">Centrado</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Centrado</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>"obsolete">Verificar Ortografia</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Verificar Ortografia</translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Click to turn on/off OverType Statusbar</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Click to turn on/off Reviewing function</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Click to turn on/off Spell Check</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
-        <translation>"obsolete">Clicar para ligar/desligar cópia de segurança automática</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Clicar para ligar/desligar cópia de segurança automática</translation>
     </message>
     <message>
         <source>Click to turn on/off reviewing function</source>
-        <translation>"obsolete">Clicar para ligar/desligar função de revisão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Clicar para ligar/desligar função de revisão</translation>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation>"obsolete">Clicar para ligar/desligar verificador ortográfico</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Clicar para ligar/desligar verificador ortográfico</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>"Clip Art"</translation>
+        <translation>&quot;Clip Art&quot;</translation>
     </message>
     <message>
         <source>Clipboard</source>
         <translation>Área de Transferência</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -17276,7 +17613,11 @@ Effects</source>
     </message>
     <message>
         <source>Column StatusBar</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -17287,8 +17628,16 @@ Effects</source>
         <translation>Conector</translation>
     </message>
     <message>
+        <source>Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy</source>
         <translation>Copiar</translation>
+    </message>
+    <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve</source>
@@ -17296,19 +17645,23 @@ Effects</source>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation>"Ponto em Curva"</translation>
+        <translation>&quot;Ponto em Curva&quot;</translation>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation>"Segmento Curvo"</translation>
+        <translation>&quot;Segmento Curvo&quot;</translation>
     </message>
     <message>
         <source>Custom StatusBar</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>Cortar</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -17316,15 +17669,19 @@ Effects</source>
     </message>
     <message>
         <source>Demote</source>
-        <translation>"Baixar"</translation>
+        <translation>&quot;Baixar&quot;</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>"Converter para Corpo de Texto"</translation>
+        <translation>&quot;Converter para Corpo de Texto&quot;</translation>
     </message>
     <message>
         <source>Distributed</source>
         <translation>Distribuido</translation>
+    </message>
+    <message>
+        <source>Document Collaboration</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -17332,7 +17689,7 @@ Effects</source>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -17343,12 +17700,16 @@ Effects</source>
         <translation>Expandir</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Enviar Comentários</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>File</source>
@@ -17368,7 +17729,7 @@ Effects</source>
     </message>
     <message>
         <source>Footnotes Context Menu</source>
-        <translation>"Menu de Contexto das Notas de Rodapé"</translation>
+        <translation>&quot;Menu de Contexto das Notas de Rodapé&quot;</translation>
     </message>
     <message>
         <source>Format</source>
@@ -17376,7 +17737,7 @@ Effects</source>
     </message>
     <message>
         <source>Frame Context Menu</source>
-        <translation>"Menu de Contexto das Molduras"</translation>
+        <translation>&quot;Menu de Contexto das Molduras&quot;</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -17384,7 +17745,7 @@ Effects</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -17396,11 +17757,15 @@ Effects</source>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Help</source>
         <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -17408,7 +17773,7 @@ Effects</source>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
-        <translation>"Menu de Contexto das Hiperligações"</translation>
+        <translation>&quot;Menu de Contexto das Hiperligações&quot;</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -17416,7 +17781,7 @@ Effects</source>
     </message>
     <message>
         <source>Inline Picture</source>
-        <translation>"Imagem Alinhada"</translation>
+        <translation>&quot;Imagem Alinhada&quot;</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -17436,31 +17801,35 @@ Effects</source>
     </message>
     <message>
         <source>Line StatusBar</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Macros</source>
         <translation></translation>
     </message>
     <message>
+        <source>Mail FeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Materials</source>
-        <translation>"obsolete">Materiais</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Materiais</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
-        <translation>"Unidade de Medida. Prima para abrir as "Opções"."</translation>
+        <translation>&quot;Unidade de Medida. Prima para abrir as &quot;Opções&quot;.&quot;</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation>"Mais Cores de Sublinhado"</translation>
+        <translation>&quot;Mais Cores de Sublinhado&quot;</translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation>"Mais Sublinhados"</translation>
+        <translation>&quot;Mais Sublinhados&quot;</translation>
     </message>
     <message>
         <source>Move Down</source>
@@ -17488,7 +17857,7 @@ Effects</source>
     </message>
     <message>
         <source>New File</source>
-        <translation>"obsolete">Novo Ficheiro</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novo Ficheiro</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -17496,7 +17865,7 @@ Effects</source>
     </message>
     <message>
         <source>New from Local Templates</source>
-        <translation>"obsolete">Novo a partir de Modelos Locais</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novo a partir de Modelos Locais</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -17508,11 +17877,11 @@ Effects</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -17529,27 +17898,35 @@ Effects</source>
     <message>
         <source>Page 
 Break</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>"obsolete">Quebra de Página</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Quebra de Página</translation>
     </message>
     <message>
         <source>Page Number. Click to open &quot;Go To&quot; dialog.</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Page Section. Click to Open &quot;Go To&quot; dialog.</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste</source>
         <translation>Colar</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print</source>
@@ -17558,11 +17935,11 @@ Break</source>
     <message>
         <source>Print 
 Directly</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Print Directly</source>
-        <translation>"obsolete">Imprimir Directamente</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Imprimir Directamente</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -17574,11 +17951,15 @@ Directly</source>
     </message>
     <message>
         <source>Print Setup</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Promote</source>
         <translation>Promover</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -17586,7 +17967,7 @@ Directly</source>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -17598,11 +17979,11 @@ Directly</source>
     </message>
     <message>
         <source>Restrict</source>
-        <translation>"Restringir"</translation>
+        <translation>&quot;Restringir&quot;</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>"Restringir a Edição"</translation>
+        <translation>&quot;Restringir a Edição&quot;</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -17617,6 +17998,10 @@ Directly</source>
         <translation>Gravar Como</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>Seleccionar</translation>
     </message>
@@ -17626,47 +18011,51 @@ Directly</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Selection and Visibility</source>
-        <translation>"obsolete">Selecção e Visibilidade</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Selecção e Visibilidade</translation>
     </message>
     <message>
         <source>Set Language</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation>"obsolete">Escolher Linguagem de Verificação Ortográfica</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Escolher Linguagem de Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
-        <translation>"Menu de Contexto das Formas"</translation>
+        <translation>&quot;Menu de Contexto das Formas&quot;</translation>
     </message>
     <message>
         <source>Shapes and Material</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Shrink Font</source>
         <translation>Diminuir Fonte</translation>
     </message>
     <message>
+        <source>Speak</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Spell Check</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Split Horizontally</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Split Table by Column</source>
@@ -17678,11 +18067,15 @@ Directly</source>
     </message>
     <message>
         <source>Split Vertically</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Split Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -17690,7 +18083,7 @@ Directly</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -17714,7 +18107,7 @@ Directly</source>
     </message>
     <message>
         <source>Table</source>
-        <translation>"obsolete">Tabela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Tabela</translation>
     </message>
     <message>
         <source>Table Cells</source>
@@ -17738,7 +18131,7 @@ Directly</source>
     </message>
     <message>
         <source>Text Context Menu</source>
-        <translation>"Menu de Contexto do Texto"</translation>
+        <translation>&quot;Menu de Contexto do Texto&quot;</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -17746,7 +18139,7 @@ Directly</source>
     </message>
     <message>
         <source>Toggle Field Codes</source>
-        <translation>"Alternar Códigos de Campo"</translation>
+        <translation>&quot;Alternar Códigos de Campo&quot;</translation>
     </message>
     <message>
         <source>Toolbars</source>
@@ -17758,7 +18151,7 @@ Directly</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>"Registar Alterações"</translation>
+        <translation>&quot;Registar Alterações&quot;</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -17789,8 +18182,12 @@ Directly</source>
         <translation>Editor de Visual Basic</translation>
     </message>
     <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Online Template</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Web Layout</source>
@@ -17810,7 +18207,7 @@ Directly</source>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
-        <translation>"Contar Palavras. Seleccione para abrir o diálogo "Contar Palavras"."</translation>
+        <translation>&quot;Contar Palavras. Seleccione para abrir o diálogo &quot;Contar Palavras&quot;.&quot;</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -17821,11 +18218,11 @@ Directly</source>
     <name>wpscommon.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation>"obsolete">Ajuda do Kingsoft Writer</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Ajuda do Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer Help</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
 </context>
 <context>
@@ -17847,27 +18244,31 @@ Directly</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>"obsolete">Mudar Informação do Utilizador</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Informação do Utilizador</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Customize Task Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>"Programador"</translation>
+        <translation>&quot;Programador&quot;</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
         <translation>Ferramentas de Desenho</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
-        <translation>Ficheiro</translation>
+        <translation type="obsolete">Ficheiro</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -17875,11 +18276,11 @@ Directly</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>"obsolete">Cabeçalho/Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -17895,27 +18296,27 @@ Directly</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>"obsolete">Iniciar Sessão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Iniciar Sessão</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>"obsolete">Terminar Sessão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Terminar Sessão</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>"Endereços"</translation>
+        <translation>&quot;Endereços&quot;</translation>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -17923,31 +18324,31 @@ Directly</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation>"obsolete">Novo Ficheiro Vazio</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novo Ficheiro Vazio</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>"obsolete">Novo a Partir de Mais Modelos</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Novo a Partir de Mais Modelos</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>"obsolete">Sem sessão Iniciada</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sem sessão Iniciada</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Open</source>
@@ -17979,7 +18380,7 @@ Directly</source>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation>"Barra de Acesso Rápido"</translation>
+        <translation>&quot;Barra de Acesso Rápido&quot;</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -17987,7 +18388,7 @@ Directly</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>References</source>
@@ -17995,7 +18396,7 @@ Directly</source>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Review</source>
@@ -18007,11 +18408,11 @@ Directly</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>"Navegação por Secções"</translation>
+        <translation>&quot;Navegação por Secções&quot;</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -18019,20 +18420,20 @@ Directly</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation>"Afixar a Barra de Ferramentas"</translation>
+        <translation>&quot;Afixar a Barra de Ferramentas&quot;</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <translatorcomment>Alterar Interface de Utilizador</translatorcomment>
-        <translation>Alterar IU</translation>
+        <translation type="obsolete">Alterar IU</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -18044,11 +18445,11 @@ Directly</source>
     </message>
     <message>
         <source>User Login</source>
-        <translation>"obsolete">Conta do Utilizador</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Conta do Utilizador</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View</source>
@@ -18056,11 +18457,11 @@ Directly</source>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -18068,19 +18469,19 @@ Directly</source>
     </message>
     <message>
         <source>Window Close</source>
-        <translation>"obsolete">Fechar Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar Janela</translation>
     </message>
     <message>
         <source>Window Max</source>
-        <translation>"obsolete">Maximizar Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Maximizar Janela</translation>
     </message>
     <message>
         <source>Window Min</source>
-        <translation>"obsolete">Minimizar Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Minimizar Janela</translation>
     </message>
     <message>
         <source>Window Restore</source>
-        <translation>"obsolete">Restaurar Janela</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Restaurar Janela</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -18088,11 +18489,11 @@ Directly</source>
     </message>
     <message>
         <source>setting</source>
-        <translation>"obsolete">configuração</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;configuração</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation>"testRbTabWidget"</translation>
+        <translation>&quot;testRbTabWidget&quot;</translation>
     </message>
 </context>
 <context>
@@ -18101,6 +18502,10 @@ Directly</source>
         <source>Switch UI</source>
         <translatorcomment>Alterar Interface do Utilizador</translatorcomment>
         <translation>Alterar IU</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18115,7 +18520,7 @@ Directly</source>
     <name>wpsrainbow.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation>"Processador de Texto"</translation>
+        <translation>&quot;Processador de Texto&quot;</translation>
     </message>
 </context>
 <context>
@@ -18130,23 +18535,27 @@ Directly</source>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation>"obsolete">Mudar Informação de Utilizador</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Informação de Utilizador</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>"Programador"</translation>
+        <translation>&quot;Programador&quot;</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
         <translation>Ferramentas de Desenho</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
-        <translation>Ficheiro</translation>
+        <translation type="obsolete">Ficheiro</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -18154,15 +18563,15 @@ Directly</source>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>"obsolete">Google Docs</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Google Docs</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>"obsolete">Cabeçalho/Rodapé</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Cabeçalho/Rodapé</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -18178,43 +18587,43 @@ Directly</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>"obsolete">Iniciar Sessão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Iniciar Sessão</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>"obsolete">Terminar Sessão</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Terminar Sessão</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>"Endereços"</translation>
+        <translation>&quot;Endereços&quot;</translation>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>"Painel de Navegação"</translation>
+        <translation>&quot;Painel de Navegação&quot;</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation>"obsolete">Sem Sessão Iniciada</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Sem Sessão Iniciada</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -18250,7 +18659,7 @@ Directly</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>References</source>
@@ -18258,7 +18667,7 @@ Directly</source>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Review</source>
@@ -18270,7 +18679,7 @@ Directly</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>"Navegação por Secções"</translation>
+        <translation>&quot;Navegação por Secções&quot;</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -18282,20 +18691,20 @@ Directly</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation>"Afixar a Barra de Ferramentas"</translation>
+        <translation>&quot;Afixar a Barra de Ferramentas&quot;</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <translatorcomment>Alterar Interface de Utilizador</translatorcomment>
-        <translation>Alterar IU</translation>
+        <translation type="obsolete">Alterar IU</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -18307,11 +18716,11 @@ Directly</source>
     </message>
     <message>
         <source>User Login</source>
-        <translation>"obsolete">Conta do Utilizador</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Conta do Utilizador</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>View</source>
@@ -18319,11 +18728,11 @@ Directly</source>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>"unfinished"</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -18335,18 +18744,18 @@ Directly</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation>"obsolete">Área de Trabalho</translation>
+        <translation type="obsolete">&quot;obsolete&quot;&gt;Área de Trabalho</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation>"testRbTabWidget"</translation>
+        <translation>&quot;testRbTabWidget&quot;</translation>
     </message>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>OK</source>
-        <translation>"unfinished"</translation>
+        <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -18355,7 +18764,7 @@ Directly</source>
     </message>
     <message>
         <source>true</source>
-        <translation>"obsolete">verdadeiro</translation>
+        <translation>&quot;obsolete&quot;&gt;verdadeiro</translation>
     </message>
 </context>
 <context>

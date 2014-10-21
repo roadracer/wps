@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="pt_BR">
 <context>
     <name>wpp_aeobean</name>
     <message>
@@ -263,9 +265,9 @@
     <message>
         <source>During the slide show:
 
-Left Click, Space, 'N', Right or Down Arrow 	Advance to the next slide	
+Left Click, Space, &apos;N&apos;, Right or Down Arrow 	Advance to the next slide	
 Enter, or Page Down
-Backspace, 'P', Left or Up Arrow, 		Return to the previous slide	
+Backspace, &apos;P&apos;, Left or Up Arrow, 		Return to the previous slide	
 or Page Up
 Number followed by Enter			Go to that slide	
 Esc					End of the slide show</source>
@@ -2486,6 +2488,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Presentation Caption</source>
         <translation>Legenda da Apresentação</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6048,7 +6054,7 @@ Layout</source>
     <message>
         <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>Wps modelo de apresentação (* dpt . ) | * .dpt | wps apresentação (* dps . ) | * .pd | microsoft powerpoint 97 /2000 /xp /2003 modelo de apresentação (* pot . ) | * .pot | microsoft powerpoint 97 /2000 /xp /2003 apresentação (* ppt . ) | * .ppt</translation>
+        <translation type="obsolete">Wps modelo de apresentação (* dpt . ) | * .dpt | wps apresentação (* dps . ) | * .pd | microsoft powerpoint 97 /2000 /xp /2003 modelo de apresentação (* pot . ) | * .pot | microsoft powerpoint 97 /2000 /xp /2003 apresentação (* ppt . ) | * .ppt</translation>
     </message>
     <message>
         <source>Apply Design Template</source>
@@ -6564,6 +6570,11 @@ Check</source>
         <source>Play Background Music</source>
         <comment>WpBkSoundButton</comment>
         <translation>Reproduzir música de fundo</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

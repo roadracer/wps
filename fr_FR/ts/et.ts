@@ -45,7 +45,7 @@
     <name>ChangeFileAccess</name>
     <message>
         <source>&amp;Discard</source>
-        <translation>&amp;Ignorer</translation>
+        <translation type="unfinished">&amp;Ignorer</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation>Cliquez sur Enregistrer sous pour enregistrer vos modifications sous un nom de fichier différent et ouvrir la dernière version de ce fichier.</translation>
+        <translation>Cliquez sur Enregistrer sous pour enregistrer vos modifications sous un nom de fichier différent et ouvrir la dernière version.</translation>
     </message>
 </context>
 <context>
@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation>Utiliser le guide de connexion aux sources de données ODBC(W)</translation>
+        <translation>Utiliser le guide de connexion aux sources de données ODBC(&amp;W)</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>A&amp;nnuler</translation>
+        <translation type="unfinished">A&amp;nnuler</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
-        <translation>Référen&amp;ce de cellule :</translation>
+        <translation type="unfinished">Référen&amp;ce de cellule :</translation>
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation>&amp;Arrêter</translation>
+        <translation type="unfinished">&amp;Arrêter</translation>
     </message>
     <message>
         <source>Show Trial Solution</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation>&amp;Retour</translation>
+        <translation>&amp;Retourner</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
@@ -226,7 +226,7 @@
     <name>FileNowAvialable</name>
     <message>
         <source>&quot;%s&quot; is now available for editing.</source>
-        <translation>%s peut à présent être modifié.</translation>
+        <translation>%s est disponible pour la modification.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Read-&amp;Write</source>
-        <translation>&amp;Lecture/écriture</translation>
+        <translation type="unfinished">&amp;Lecture/écriture</translation>
     </message>
 </context>
 <context>
@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Input query &amp;statement directly</source>
-        <translation>Entrer directement l&apos;in&amp;struction de la requête</translation>
+        <translation>Entrer directement l&apos;in&amp;struction de requête</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -281,71 +281,85 @@
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
-        <translation>Vous pouvez cliquer sur Requête avancée pour trier et filtrer davantage de données complexes. Si cela ne suffit pas, vous pouvez entrer directement l&apos;instruction de requête.</translation>
+        <translation>Vous pouvez cliquer sur Requête avancée pour trier et filtrer des données complexes. Si vos exigences ne sont pas répondues, vous pouvez entrer directement l&apos;instruction de requête.</translation>
     </message>
 </context>
 <context>
     <name>GrpboxCondition</name>
     <message>
         <source>Cell value is</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>La valeur de la cellule est</translation>
     </message>
     <message>
         <source>Formula is</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>La formule est</translation>
     </message>
     <message>
         <source>Grpbox Condition</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>Condition de GroupBox</translation>
     </message>
     <message>
         <source>Infotip</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>Info-bulle</translation>
     </message>
     <message>
         <source>Preview of format to use when
 condition is true:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>Aperçu du format à utiliser lorsque la 
 condition est vraie :</translation>
     </message>
     <message>
         <source>The Conditional formatting contains number format, and the settings would be lost opened by the earlier version of Excel or WPS Spreadsheets.</source>
-        <translation>La mise en forme conditionnelle contient le format numérique et les paramètres ne seront pas conservés si l&apos;ouverture s&apos;effectue dans une version antérieure d&apos;Excel ou de WPS Spreadsheets.</translation>
+        <translation>La mise en forme conditionnelle contient le format numérique. Les paramètres ne seront pas enregistrés si l&apos;ouverture s&apos;effectue dans une version antérieure d&apos;Excel ou de WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>and</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>et</translation>
     </message>
     <message>
         <source>between</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>entre</translation>
     </message>
     <message>
         <source>equal to</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>égal à</translation>
     </message>
     <message>
         <source>greater than</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>supérieur à</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>supérieur ou égal à</translation>
     </message>
     <message>
         <source>less than</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>inférieur à</translation>
     </message>
     <message>
         <source>less than or equal to</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>inférieur ou égal à</translation>
     </message>
     <message>
         <source>not between</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>non compris entre</translation>
     </message>
     <message>
         <source>not equal to</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>différent de</translation>
     </message>
 </context>
@@ -389,12 +403,12 @@ condition est vraie :</translation>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation>S&amp;tyle de départ :</translation>
+        <translation type="unfinished">S&amp;tyle de départ :</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation>&amp;Pointillés :</translation>
+        <translation type="unfinished">&amp;Pointillés :</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
@@ -419,7 +433,7 @@ condition est vraie :</translation>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation>Taille de &amp;fin :</translation>
+        <translation type="unfinished">Taille de &amp;fin :</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -497,298 +511,372 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>(Showing all)</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>(Afficher tout)</translation>
     </message>
     <message>
         <source>Above Average</source>
-        <translation>Valeurs supérieures à la moyenne</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Au-dessus de la moyenne</translation>
     </message>
     <message>
         <source>After</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Après</translation>
     </message>
     <message>
         <source>And</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Et</translation>
     </message>
     <message>
         <source>Ascending</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Croissant</translation>
     </message>
     <message>
         <source>Ascending(S)</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Croissant(S)</translation>
     </message>
     <message>
         <source>Before</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Avant</translation>
     </message>
     <message>
         <source>Begin With</source>
-        <translation>Commencer par</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Commence par</translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Commence par %1</translation>
     </message>
     <message>
         <source>Below Average</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>En dessous de la moyenne</translation>
     </message>
     <message>
         <source>Between</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Entre</translation>
     </message>
     <message>
         <source>Bottom %1 Items</source>
-        <translation>%1 valeurs les moins élevées</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Bas %1 Éléments</translation>
     </message>
     <message>
         <source>Bottom %1 Percent</source>
-        <translation>%1 pourcent inférieur</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Bas %1 Pourcentage</translation>
     </message>
     <message>
         <source>Can display up to 10000 items.</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Peut afficher jusqu&apos;à 10 000 éléments.</translation>
     </message>
     <message>
         <source>Cancel</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Annuler</translation>
     </message>
     <message>
         <source>Clear</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Effacer</translation>
     </message>
     <message>
         <source>Clear(C)</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Effacer(C)</translation>
     </message>
     <message>
         <source>Color Sort</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Tri par couleur</translation>
     </message>
     <message>
         <source>Contains</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Contient</translation>
     </message>
     <message>
         <source>Contains &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Contient %1</translation>
     </message>
     <message>
         <source>Custom Filter</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtre personnalisé</translation>
     </message>
     <message>
         <source>Date Filter</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtre chronologique</translation>
     </message>
     <message>
         <source>Date Filter(F)</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtre chronologique(F)</translation>
     </message>
     <message>
         <source>Descending</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Décroissant</translation>
     </message>
     <message>
         <source>Descending(O)</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Décroissant(O)</translation>
     </message>
     <message>
         <source>Does Not Contain</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Ne contient pas</translation>
     </message>
     <message>
         <source>Does not begin with &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Ne commence pas par %1</translation>
     </message>
     <message>
         <source>Does not contain &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Ne contient pas %1</translation>
     </message>
     <message>
         <source>Does not end with &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Ne se termine pas par %1</translation>
     </message>
     <message>
         <source>End With</source>
-        <translation>Terminer par</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Se termine par</translation>
     </message>
     <message>
         <source>Ends with &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Se termine par %1</translation>
     </message>
     <message>
         <source>Equals</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Est égal à</translation>
     </message>
     <message>
         <source>Equals &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Est égal à %1</translation>
     </message>
     <message>
         <source>Fill by Color</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Remplir par couleur</translation>
     </message>
     <message>
         <source>Filter by Value</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtrer par valeur</translation>
     </message>
     <message>
         <source>Greater Than</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Supérieur à</translation>
     </message>
     <message>
         <source>Greater Than Or Equal To</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Supérieur ou égal à</translation>
     </message>
     <message>
         <source>Greater than &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Supérieur à %1</translation>
     </message>
     <message>
         <source>Greater than or equal to &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Supérieur ou égal à %1</translation>
     </message>
     <message>
         <source>Is after &quot;%1&quot;</source>
-        <translation>Postérieur à %1</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Est ostérieur à %1</translation>
     </message>
     <message>
         <source>Is before &quot;%1&quot;</source>
-        <translation>Antérieur à %1</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Est antérieur à %1</translation>
     </message>
     <message>
         <source>Last Month</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Le mois dernier</translation>
     </message>
     <message>
         <source>Last Quarter</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Le trimestre dernier</translation>
     </message>
     <message>
         <source>Last Week</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>La semaine dernière</translation>
     </message>
     <message>
         <source>Last Year</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>L&apos;année dernière</translation>
     </message>
     <message>
         <source>Less Than</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Inférieur à</translation>
     </message>
     <message>
         <source>Less Than Or Equal To</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Inférieur ou égal à</translation>
     </message>
     <message>
         <source>Less than &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Inférieur à %1</translation>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Inférieur ou égal à %1</translation>
     </message>
     <message>
         <source>More</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Plus</translation>
     </message>
     <message>
         <source>Next Month</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Le mois prochain</translation>
     </message>
     <message>
         <source>Next Quarter</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Le trimestre prochain</translation>
     </message>
     <message>
         <source>Next Week</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>La semaine prochaine</translation>
     </message>
     <message>
         <source>Next Year</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>L&apos;année prochaine</translation>
     </message>
     <message>
         <source>No items match your search.</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Aucun élément ne correspond à votre recherche.</translation>
     </message>
     <message>
         <source>Not Equal To</source>
-        <translation>Différent de</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Est différent de</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Est différent de %1</translation>
     </message>
     <message>
         <source>Number Filter</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtre numérique</translation>
     </message>
     <message>
         <source>Number Filter(F)</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtre numérique(F)</translation>
     </message>
     <message>
         <source>OK</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>OK</translation>
     </message>
     <message>
         <source>Or</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Ou</translation>
     </message>
     <message>
         <source>Search</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Rechercher</translation>
     </message>
     <message>
         <source>Text Filter</source>
+        <translatorcomment>click A1, enter &apos;q&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtre textuel</translation>
     </message>
     <message>
         <source>Text Filter(F)</source>
+        <translatorcomment>click A1, enter &apos;q&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Filtre textuel(F)</translation>
     </message>
     <message>
         <source>This Month</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Ce mois</translation>
     </message>
     <message>
         <source>This Quarter</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Ce trimestre</translation>
     </message>
     <message>
         <source>This Week</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Cette semaine</translation>
     </message>
     <message>
         <source>This Year</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Cette année</translation>
     </message>
     <message>
         <source>Today</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Aujourd&apos;hui</translation>
     </message>
     <message>
         <source>Tomorrow</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Demain</translation>
     </message>
     <message>
         <source>Top %1 Items</source>
-        <translation>%1 valeurs les plus élevées</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Haut %1 Éléments</translation>
     </message>
     <message>
         <source>Top %1 Percent</source>
-        <translation>%1 pourcent supérieur</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
+        <translation>Haut %1 Pourcentage</translation>
     </message>
     <message>
         <source>Top 10...</source>
+        <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>10 premiers...</translation>
     </message>
     <message>
         <source>Yesterday</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Hier</translation>
     </message>
 </context>
@@ -796,23 +884,23 @@ condition est vraie :</translation>
     <name>KxAdcancedFilterDialog</name>
     <message>
         <source>Criteria range is not valid.</source>
-        <translation>Zone de critères non valide.</translation>
+        <translation>La zone de critères n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Data range is not valid.</source>
-        <translation>Plage de données non valide.</translation>
+        <translation>La plage de données n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Extract range is not valid.</source>
-        <translation>Zone d&apos;extraction non valide.</translation>
+        <translation>La zone d&apos;extraction n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation>Référence non valide.</translation>
+        <translation>La référence n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation>Le texte saisi ne correspond pas à une référence correcte ni à un nom défini.</translation>
+        <translation>Le texte que vous avez tapé n&apos;est ni une référence ni un nom défini valides.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
@@ -843,11 +931,43 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation>Le fichier existe déjà dans la liste.</translation>
+        <translation type="obsolete">Le fichier existe déjà dans la liste.</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation>n&apos;est pas un complément valide.</translation>
+        <translation type="obsolete">n&apos;est pas un complément valide.</translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -876,11 +996,11 @@ condition est vraie :</translation>
     <name>KxAlignWidget</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Texte entier non valide.</translation>
+        <translation>Texte entré non valide.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation>La valeur doit être comprise entre %1 et %2.</translation>
+        <translation>La valeur doit être entre %1 et %2.</translation>
     </message>
 </context>
 <context>
@@ -925,7 +1045,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation>Vous devez disposer d&apos;un droit d&apos;accès à la base de données :</translation>
+        <translation>Vous devez avoir le droit d&apos;accès à la base de données :</translation>
     </message>
 </context>
 <context>
@@ -946,7 +1066,7 @@ condition est vraie :</translation>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation>Mot de passe de confirmation différent.</translation>
+        <translation>Le mot de passe de confirmation n&apos;est pas identique.</translation>
     </message>
 </context>
 <context>
@@ -1011,7 +1131,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Nbval</translation>
+        <translation>Nb</translation>
     </message>
     <message>
         <source>Count Numbers</source>
@@ -1058,7 +1178,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>Cell Reference box is empty or contents are not valid.</source>
-        <translation>La référence de la cellule est vide, ou son contenu est incorrect.</translation>
+        <translation>La référence de la cellule est vide ou le contenu est incorrect.</translation>
     </message>
     <message>
         <source>Constraint must be a number, simple reference, or formula with a numeric value.</source>
@@ -1070,15 +1190,15 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>Unequal number of cells in Cell Reference and Constraint.</source>
-        <translation>Les zones Cellule et Contrainte ne contiennent pas un nombre de cellules identique.</translation>
+        <translation>Les nombres dans les zones de Référence Cellule et Contrainte ne sont pas identiques.</translation>
     </message>
     <message>
         <source>Integer Constraint Cell Reference must include only Variable Cells.</source>
-        <translation>La référence de la cellule de la contrainte Entier doit uniquement inclure des cellules variables.</translation>
+        <translation>La Référence de la Cellule de Contrainte Entier doit contenir que des Cellules Variables.</translation>
     </message>
     <message>
         <source>Binary Constraint Cell Reference must include only Variable Cells.</source>
-        <translation>La référence de la cellule de la contrainte Binaire doit uniquement inclure des cellules variables.</translation>
+        <translation>La Référence de Cellule de Contrainte Binaire doit contenir que des Cellules Variables.</translation>
     </message>
 </context>
 <context>
@@ -1089,7 +1209,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation>Le texte saisi ne correspond pas à une référence correcte ni à un nom défini.</translation>
+        <translation>Le texte que vous avez tapé n&apos;est ni une référence ni un nom défini valides.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -1128,7 +1248,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation>Le type de connexion sélectionné ne peut pas être utilisé pour créer un tableau croisé dynamique.</translation>
+        <translation type="unfinished">Le type de connexion sélectionné ne peut pas être utilisé pour créer un tableau croisé dynamique.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
@@ -1173,7 +1293,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation>Format GIF</translation>
+        <translation>Graphics Interchange Format</translation>
     </message>
     <message>
         <source>Header</source>
@@ -1181,7 +1301,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation>Format d&apos;échange de fichiers JPEG</translation>
+        <translation>JPEG File InterChange Format</translation>
     </message>
     <message>
         <source>Number of Pages</source>
@@ -1201,7 +1321,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation>Format PNG</translation>
+        <translation>Portable Network Graphics</translation>
     </message>
     <message>
         <source>Sheet Name</source>
@@ -1209,7 +1329,7 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation>Format TIFF</translation>
+        <translation>Tag Image File Format</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -1280,7 +1400,7 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDisplayResultDlg</name>
     <message>
         <source>Solver paused, current solution values displayed on worksheet.</source>
-        <translation>Les valeurs de la solution actuelle sont affichées sur la feuille de calcul.</translation>
+        <translation>Le solveur est suspendu. Les valeurs de la solution actuelle sont affichées sur la feuille de calcul.</translation>
     </message>
     <message>
         <source>Stop generating report will cause unexpected value on reports.</source>
@@ -1311,46 +1431,57 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgAdcancedFilter</name>
     <message>
         <source>&amp;Criteria range:</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>Zone de &amp;critères :</translation>
     </message>
     <message>
         <source>&amp;Filter the list, in-place</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>&amp;Filtrer la liste sur place</translation>
     </message>
     <message>
         <source>&amp;List range:</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>P&amp;lages :</translation>
     </message>
     <message>
         <source>Action</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>Action</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>Filtre avancé</translation>
     </message>
     <message>
         <source>C&amp;opy to another location</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>C&amp;opier vers un autre emplacement</translation>
     </message>
     <message>
         <source>Cancel</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>Annuler</translation>
     </message>
     <message>
         <source>Copy &amp;to:</source>
-        <translation>Copier &amp;vers :</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
+        <translation type="unfinished">Copier &amp;vers :</translation>
     </message>
     <message>
         <source>OK</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>OK</translation>
     </message>
     <message>
         <source>Unique &amp;records only</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>Ext&amp;raction sans doublon</translation>
     </message>
     <message>
         <source>Extending range may co&amp;ver the original data</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1-&gt;Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box</translatorcomment>
         <translation>L&apos;extension de la plage peut cou&amp;vrir les données d&apos;origine</translation>
     </message>
 </context>
@@ -1358,18 +1489,22 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgAddIns</name>
     <message>
         <source>&amp;Add-Ins available:</source>
+        <translatorcomment>Developer tab-&gt;Add-Ins-&gt;Add-Ins dialog box</translatorcomment>
         <translation>&amp;Compléments disponibles :</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation>&amp;Parcourir...</translation>
+        <translatorcomment>Developer tab-&gt;Add-Ins-&gt;Add-Ins dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Parcourir...</translation>
     </message>
     <message>
         <source>A&amp;utomation...</source>
+        <translatorcomment>Developer tab-&gt;Add-Ins-&gt;Add-Ins dialog box</translatorcomment>
         <translation>A&amp;utomation...</translation>
     </message>
     <message>
         <source>Add-Ins</source>
+        <translatorcomment>Developer tab-&gt;Add-Ins-&gt;Add-Ins dialog box</translatorcomment>
         <translation>Compléments</translation>
     </message>
 </context>
@@ -1377,42 +1512,52 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgAllowUsersToEditRanges</name>
     <message>
         <source>&amp;Delete</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>&amp;Modifier...</translation>
     </message>
     <message>
         <source>&amp;New...</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>&amp;Nouveau...</translation>
     </message>
     <message>
         <source>&amp;Permissions...</source>
-        <translation>&amp;Autorisations...</translation>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Autorisations...</translation>
     </message>
     <message>
         <source>&amp;Ranges unlocked by a password when sheet is protected:</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>Plages déve&amp;rrouillées par un mot de passe lorsque la feuille est protégée :</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>Permettre la modification des plages</translation>
     </message>
     <message>
         <source>Pr&amp;otect Sheet...</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>Pr&amp;otéger la feuille...</translation>
     </message>
     <message>
         <source>Refer to cells</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>Faire référence aux cellules</translation>
     </message>
     <message>
         <source>Specify who may edit the range without a password:</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>Indiquez qui peut modifier la plage sans mot de passe :</translation>
     </message>
     <message>
         <source>Title</source>
+        <translatorcomment>Review tab-&gt;Allow Users to Edit Ranges-&gt;Allow Users to Edit Ranges dialog box</translatorcomment>
         <translation>Titre</translation>
     </message>
 </context>
@@ -1420,18 +1565,22 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgAssignMacro</name>
     <message>
         <source>&amp;Clear</source>
+        <translatorcomment>Insert tab-&gt;Shapes-&gt;draw a shape-&gt;right click on the shape, drop down menu-&gt;Assign Macro-&gt;Assign Macro dialog box</translatorcomment>
         <translation>Effa&amp;cer</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
+        <translatorcomment>Insert tab-&gt;Shapes-&gt;draw a shape-&gt;right click on the shape, drop down menu-&gt;Assign Macro-&gt;Assign Macro dialog box</translatorcomment>
         <translation>Nom de &amp;macro :</translation>
     </message>
     <message>
         <source>Assign Macro</source>
+        <translatorcomment>Insert tab-&gt;Shapes-&gt;draw a shape-&gt;right click on the shape, drop down menu-&gt;Assign Macro-&gt;Assign Macro dialog box</translatorcomment>
         <translation>Affecter une macro</translation>
     </message>
     <message>
         <source>Description</source>
+        <translatorcomment>Insert tab-&gt;Shapes-&gt;draw a shape-&gt;right click on the shape, drop down menu-&gt;Assign Macro-&gt;Assign Macro dialog box</translatorcomment>
         <translation>Description</translation>
     </message>
 </context>
@@ -1439,82 +1588,102 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgCellPasteSpecial</name>
     <message>
         <source>&amp;All</source>
-        <translation>&amp;Tout</translation>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Tout</translation>
     </message>
     <message>
         <source>&amp;Comment</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>&amp;Commentaire</translation>
     </message>
     <message>
         <source>&amp;Formulas</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>&amp;Formules</translation>
     </message>
     <message>
         <source>&amp;Multiply</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>&amp;Multiplication</translation>
     </message>
     <message>
         <source>&amp;Subtract</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>&amp;Soustraction</translation>
     </message>
     <message>
         <source>&amp;Values</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>&amp;Valeurs</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>A&amp;jouter</translation>
     </message>
     <message>
         <source>All e&amp;xcept borders</source>
-        <translation>Tout sauf la &amp;bordure</translation>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
+        <translation type="unfinished">Tout sauf la &amp;bordure</translation>
     </message>
     <message>
         <source>Column &amp;widths</source>
-        <translation>Lar&amp;geur des colonnes</translation>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
+        <translation type="unfinished">Lar&amp;geur des colonnes</translation>
     </message>
     <message>
         <source>D&amp;ivide</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>D&amp;ivision</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas and number formats</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Fo&amp;rmules et formats des nombres</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Forma&amp;ts</translation>
     </message>
     <message>
         <source>N&amp;one</source>
-        <translation>A&amp;ucun</translation>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
+        <translation type="unfinished">A&amp;ucun</translation>
     </message>
     <message>
         <source>Operation</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Opération</translation>
     </message>
     <message>
         <source>Paste</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Coller</translation>
     </message>
     <message>
         <source>Paste Special</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Collage spécial</translation>
     </message>
     <message>
         <source>Skip &amp;blanks</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>&amp;Blancs non compris</translation>
     </message>
     <message>
         <source>Transpos&amp;e</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Transpos&amp;er</translation>
     </message>
     <message>
         <source>Val&amp;ues and number formats</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Vale&amp;urs et formats des nombres</translation>
     </message>
     <message>
         <source>Validatio&amp;n</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;right click A1, choose Copy-&gt;right click A2, choose Paste Special-&gt;Paste Special dialog box</translatorcomment>
         <translation>Validatio&amp;n</translation>
     </message>
 </context>
@@ -1537,26 +1706,32 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgConditionFormat</name>
     <message>
         <source>&amp;Add&gt;&gt;</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>&amp;Ajouter&gt;&gt;</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>&amp;Supprimer...</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>Condition &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>Condition &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>Condition &amp;3</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Conditional Formatting dialog box</translatorcomment>
         <translation>Mise en forme conditionnelle</translation>
     </message>
 </context>
@@ -1579,14 +1754,17 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgConfirmProtectSheet</name>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place.(Remember that passwords are case-sensitive.)</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box-&gt;enter&apos;123&apos; as Password-&gt;OK-&gt;Confirm Password dialog box</translatorcomment>
         <translation>Attention : si vous oubliez ou perdez votre mot de passe, il sera impossible de le récupérer. Il est recommandé de conserver en lieu sûr une liste des mots de passe et des noms de feuilles et classeurs correspondants (n&apos;oubliez pas que les mots de passe respectent la casse).</translation>
     </message>
     <message>
         <source>Confirm Password</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box-&gt;enter&apos;123&apos; as Password-&gt;OK-&gt;Confirm Password dialog box</translatorcomment>
         <translation>Confirmer le mot de passe</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box-&gt;enter&apos;123&apos; as Password-&gt;OK-&gt;Confirm Password dialog box</translatorcomment>
         <translation>&amp;Entrer de nouveau le mot de passe :</translation>
     </message>
 </context>
@@ -1594,42 +1772,52 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgConsolidate</name>
     <message>
         <source>&amp;Add</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>&amp;Ajouter</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>&amp;Parcourir...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Function:</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>&amp;Fonction :</translation>
     </message>
     <message>
         <source>&amp;Left column</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>Co&amp;lonne de gauche</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>&amp;Référence :</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>Ligne du hau&amp;t</translation>
     </message>
     <message>
         <source>All r&amp;eferences:</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>Tout&amp;es les références :</translation>
     </message>
     <message>
         <source>Consolidate</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>Consolider</translation>
     </message>
     <message>
         <source>Use labels in</source>
+        <translatorcomment>Data tab-&gt;Consolidate-&gt;Consolidate dialog box</translatorcomment>
         <translation>Étiquettes dans</translation>
     </message>
     <message>
@@ -1661,41 +1849,50 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgCreateGroup</name>
     <message>
         <source>&amp;Columns</source>
+        <translatorcomment>Data tab-&gt;Group-&gt;Group dialog box</translatorcomment>
         <translation>&amp;Colonnes</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
+        <translatorcomment>Data tab-&gt;Group-&gt;Group dialog box</translatorcomment>
         <translation>&amp;Lignes</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Groupe</translation>
+        <translatorcomment>Data tab-&gt;Group-&gt;Group dialog box</translatorcomment>
+        <translation>Grouper</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCreateNames</name>
     <message>
         <source>&amp;Bottom row</source>
+        <translatorcomment>Formulas tab-&gt;Create-&gt;Create Names dialog box</translatorcomment>
         <translation>Ligne du &amp;bas</translation>
     </message>
     <message>
         <source>&amp;Left column</source>
+        <translatorcomment>Formulas tab-&gt;Create-&gt;Create Names dialog box</translatorcomment>
         <translation>Co&amp;lonne de gauche</translation>
     </message>
     <message>
         <source>&amp;Right column</source>
+        <translatorcomment>Formulas tab-&gt;Create-&gt;Create Names dialog box</translatorcomment>
         <translation>Colonne de d&amp;roite</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
+        <translatorcomment>Formulas tab-&gt;Create-&gt;Create Names dialog box</translatorcomment>
         <translation>Ligne du hau&amp;t</translation>
     </message>
     <message>
         <source>Create Names</source>
+        <translatorcomment>Formulas tab-&gt;Create-&gt;Create Names dialog box</translatorcomment>
         <translation>Créer des noms</translation>
     </message>
     <message>
         <source>Create names in</source>
+        <translatorcomment>Formulas tab-&gt;Create-&gt;Create Names dialog box</translatorcomment>
         <translation>Créer des noms dans</translation>
     </message>
 </context>
@@ -1703,104 +1900,128 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <name>KxDlgCreatePivotTable</name>
     <message>
         <source>&amp;Existing worksheet:</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>Feuille de calcul &amp;existante :</translation>
     </message>
     <message>
         <source>&amp;New worksheet</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>&amp;Nouvelle feuille de calcul</translation>
     </message>
     <message>
         <source>&amp;Select a range:</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>&amp;Sélectionner une plage :</translation>
     </message>
     <message>
         <source>&amp;Use an external data source</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>&amp;Utiliser une source de données externe</translation>
     </message>
     <message>
         <source>Choose &amp;Connection...</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>Choisir la &amp;connexion...</translation>
     </message>
     <message>
         <source>Choose the data that you want to analyze</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>Choisissez les données à analyser</translation>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>Choisissez l&apos;emplacement du tableau croisé dynamique</translation>
     </message>
     <message>
         <source>Create PivotTable</source>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
         <translation>Créer un tableau croisé dynamique</translation>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
-        <translation>Utiliser un autre &amp;tableau croisé dynamique :</translation>
+        <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
+        <translation type="unfinished">Utiliser un autre &amp;tableau croisé dynamique :</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCustomHeaderFooter</name>
     <message>
         <source>&amp;Center section:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Partie &amp;centrale :</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation>Partie ga&amp;uche :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
+        <translation type="unfinished">Partie ga&amp;uche :</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Partie d&amp;roite :</translation>
     </message>
     <message>
         <source>Date</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Date</translation>
     </message>
     <message>
         <source>File</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Fichier</translation>
     </message>
     <message>
         <source>Font</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Police</translation>
     </message>
     <message>
         <source>Insert Picture</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Insérer une image</translation>
     </message>
     <message>
         <source>Number of Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Nombre de pages</translation>
     </message>
     <message>
         <source>Page Number</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Numéro de page</translation>
     </message>
     <message>
         <source>Reset Picture</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Rétablir l’image</translation>
     </message>
     <message>
         <source>Sheet Name</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Nom de la feuille</translation>
     </message>
     <message>
         <source>Time</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Heure</translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Pour mettre en forme du texte, sélectionnez-le, et cliquez sur « A ».</translation>
     </message>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Pour insérer un numéro de page, une date, une heure, un nom de fichier, placez le point d’insertion dans la zone 
 d’édition, puis cliquez sur le bouton approprié.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer-&gt;Custom Header</translatorcomment>
         <translation>Pour insérer une image, cliquez sur le bouton Insérer une image. Pour mettre en forme votre image, placez le 
 curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.</translation>
     </message>
@@ -1813,53 +2034,85 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgDefineName</name>
     <message>
         <source>&amp;Add</source>
+        <translatorcomment>Formulas tab-&gt;Name Manager-&gt;Define Name dialog box</translatorcomment>
         <translation>&amp;Ajouter</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
+        <translatorcomment>Formulas tab-&gt;Name Manager-&gt;Define Name dialog box</translatorcomment>
         <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Refer to:</source>
+        <translatorcomment>Formulas tab-&gt;Name Manager-&gt;Define Name dialog box</translatorcomment>
         <translation>Se &amp;reporter à :</translation>
     </message>
     <message>
         <source>Close</source>
+        <translatorcomment>Formulas tab-&gt;Name Manager-&gt;Define Name dialog box</translatorcomment>
         <translation>Fermer</translation>
     </message>
     <message>
         <source>Define Name</source>
+        <translatorcomment>Formulas tab-&gt;Name Manager-&gt;Define Name dialog box</translatorcomment>
         <translation>Définir un nom</translation>
     </message>
     <message>
         <source>Names in &amp;workbook:</source>
-        <translation>Noms dans le &amp;classeur :</translation>
+        <translatorcomment>Formulas tab-&gt;Name Manager-&gt;Define Name dialog box</translatorcomment>
+        <translation type="unfinished">Noms dans le &amp;classeur :</translation>
     </message>
     <message>
         <source>OK</source>
+        <translatorcomment>Formulas tab-&gt;Name Manager-&gt;Define Name dialog box</translatorcomment>
         <translation>OK</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgDelCell</name>
     <message>
         <source>Delete</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Delete Cells-&gt;Delete Cells dialog box</translatorcomment>
         <translation>Supprimer</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Delete Cells-&gt;Delete Cells dialog box</translatorcomment>
         <translation>&amp;Colonne entière</translation>
     </message>
     <message>
         <source>Entire &amp;row</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Delete Cells-&gt;Delete Cells dialog box</translatorcomment>
         <translation>Ligne entiè&amp;re</translation>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Delete Cells-&gt;Delete Cells dialog box</translatorcomment>
         <translation>Déca&amp;ler les cellules vers la gauche</translation>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Delete Cells-&gt;Delete Cells dialog box</translatorcomment>
         <translation>Décaler les cell&amp;ules vers le haut</translation>
     </message>
 </context>
@@ -1867,22 +2120,27 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgDeleteCondition</name>
     <message>
         <source>Condition &amp;1</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Add-&gt;Delete</translatorcomment>
         <translation>Condition &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Add-&gt;Delete</translatorcomment>
         <translation>Condition &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Add-&gt;Delete</translatorcomment>
         <translation>Condition &amp;3</translation>
     </message>
     <message>
         <source>Delete Conditional Format</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Add-&gt;Delete</translatorcomment>
         <translation>Supprimer le format conditionnel</translation>
     </message>
     <message>
         <source>Select the conditions to delete:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Conditional Formatting-&gt;Add-&gt;Delete</translatorcomment>
         <translation>Sélectionnez les conditions à supprimer :</translation>
     </message>
 </context>
@@ -1910,11 +2168,11 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>If the number of rows in the data range changes upon refresh:</source>
-        <translation>Si le nombre d’enregistrements (lignes) change après l’actualisation :</translation>
+        <translation>Si le nombre de lignes change après l’actualisation :</translation>
     </message>
     <message>
         <source>Insert entire ro&amp;ws for new data, clear unused cells</source>
-        <translation>Insérer des li&amp;gnes pour les nouvelles données, supprimer les cellules inutilisées</translation>
+        <translation type="unfinished">Insérer des li&amp;gnes pour les nouvelles données, supprimer les cellules inutilisées</translation>
     </message>
     <message>
         <source>Pre&amp;serve formatting</source>
@@ -1960,18 +2218,22 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgErrorCheck</name>
     <message>
         <source>&amp;Ignore Error</source>
+        <translatorcomment>Formulas tab-&gt;Error Checking dialog box</translatorcomment>
         <translation>&amp;Ignorer l&apos;erreur</translation>
     </message>
     <message>
         <source>&amp;Next</source>
+        <translatorcomment>Formulas tab-&gt;Error Checking dialog box</translatorcomment>
         <translation>Suiva&amp;nt</translation>
     </message>
     <message>
         <source>&amp;Option...</source>
+        <translatorcomment>Formulas tab-&gt;Error Checking dialog box</translatorcomment>
         <translation>&amp;Option...</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
+        <translatorcomment>Formulas tab-&gt;Error Checking dialog box</translatorcomment>
         <translation>&amp;Précédent</translation>
     </message>
     <message>
@@ -1980,23 +2242,25 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
+        <translatorcomment>Formulas tab-&gt;Error Checking dialog box</translatorcomment>
         <translation>Modifier dans la barre de &amp;formule</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Vérifier les erreurs</translation>
+        <translatorcomment>Formulas tab-&gt;Error Checking dialog box</translatorcomment>
+        <translation>Vérification des erreurs</translation>
     </message>
     <message>
         <source>ErrorType</source>
-        <translation>ErrorType</translation>
+        <translation type="unfinished">ErrorType</translation>
     </message>
     <message>
         <source>FixItem1</source>
-        <translation>FixItem1</translation>
+        <translation type="unfinished">FixItem1</translation>
     </message>
     <message>
         <source>FixItem2</source>
-        <translation>FixItem2</translation>
+        <translation type="unfinished">FixItem2</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -2042,7 +2306,7 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
-        <translation>Touche de &amp;raccourci :</translation>
+        <translation type="unfinished">Touche de &amp;raccourci :</translation>
     </message>
 </context>
 <context>
@@ -2072,35 +2336,43 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgFindReplace</name>
     <message>
         <source>&amp;Comments</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>&amp;Commentaires</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>&amp;Erreurs</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation>&amp;Rechercher suivant</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Rechercher suivant</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation>&amp;Atteindre</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Atteindre</translation>
     </message>
     <message>
         <source>&amp;Logicals</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>Valeurs &amp;logiques</translation>
     </message>
     <message>
         <source>&amp;Look in:</source>
-        <translation>&amp;Regarder dans :</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
+        <translation type="unfinished">&amp;Regarder dans :</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Replace dialog box</translatorcomment>
         <translation>&amp;Remplacer</translation>
     </message>
     <message>
         <source>&amp;Search for a function:</source>
-        <translation>&amp;Recherchez une fonction :</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
+        <translation type="unfinished">&amp;Recherchez une fonction :</translation>
     </message>
     <message>
         <source>Alt+M</source>
@@ -2108,14 +2380,17 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Blan&amp;ks</source>
-        <translation>Cellules &amp;vides</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
+        <translation type="unfinished">Cellules &amp;vides</translation>
     </message>
     <message>
         <source>By columns</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Par colonnes</translation>
     </message>
     <message>
         <source>By rows</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Par lignes</translation>
     </message>
     <message>
@@ -2128,50 +2403,62 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Close</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
         <translation>Fermer</translation>
     </message>
     <message>
         <source>Comments</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Commentaires</translation>
     </message>
     <message>
         <source>Curre&amp;nt data area</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>Zo&amp;ne de données actuelle</translation>
     </message>
     <message>
         <source>D&amp;ata</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>D&amp;onnées</translation>
     </message>
     <message>
         <source>Data type:</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>Type de données :</translation>
     </message>
     <message>
         <source>F&amp;ind All</source>
-        <translation>&amp;Rechercher tout</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Rechercher tout</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation>Rec&amp;hercher :</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
+        <translation type="unfinished">Rec&amp;hercher :</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
-        <translation>Recherche&amp;r</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
+        <translation type="unfinished">Recherche&amp;r</translation>
     </message>
     <message>
         <source>Find</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
         <translation>Rechercher</translation>
     </message>
     <message>
         <source>Find Pre&amp;vious</source>
-        <translation>Rechercher pré&amp;cédent</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
+        <translation type="unfinished">Rechercher pré&amp;cédent</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Fo&amp;rmules</translation>
     </message>
     <message>
         <source>For&amp;mat...</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>For&amp;mat...</translation>
     </message>
     <message>
@@ -2184,7 +2471,8 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>La&amp;st cell</source>
-        <translation>Dernière ce&amp;llule</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
+        <translation type="unfinished">Dernière ce&amp;llule</translation>
     </message>
     <message>
         <source>Match &amp;byte</source>
@@ -2192,15 +2480,17 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Match &amp;case</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Respe&amp;cter la casse</translation>
     </message>
     <message>
         <source>Match entire cell c&amp;ontents</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Totalité du c&amp;ontenu de la cellule</translation>
     </message>
     <message>
         <source>N&amp;umbers</source>
-        <translation>N&amp;ombres</translation>
+        <translation type="unfinished">N&amp;ombres</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2208,18 +2498,22 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>O&amp;bjects</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>O&amp;bjets</translation>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box</translatorcomment>
         <translation>Op&amp;tions &lt;&lt;</translation>
     </message>
     <message>
         <source>R&amp;eplace with:</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Replace dialog box</translatorcomment>
         <translation>R&amp;emplacer par :</translation>
     </message>
     <message>
         <source>Re&amp;place</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Replace dialog box</translatorcomment>
         <translation>Rem&amp;placer</translation>
     </message>
     <message>
@@ -2228,10 +2522,12 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Select</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
         <translation>Sélectionner</translation>
     </message>
     <message>
         <source>Sheet</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Feuille</translation>
     </message>
     <message>
@@ -2244,18 +2540,22 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Values</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Valeurs</translation>
     </message>
     <message>
         <source>Visible cells onl&amp;y</source>
-        <translation>Cellules visibles seule&amp;ment</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Go to dialog box</translatorcomment>
+        <translation type="unfinished">Cellules visibles seule&amp;ment</translation>
     </message>
     <message>
         <source>Wit&amp;hin:</source>
-        <translation>&amp;Dans :</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
+        <translation type="unfinished">&amp;Dans :</translation>
     </message>
     <message>
         <source>Workbook</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Classeur</translation>
     </message>
 </context>
@@ -2263,14 +2563,17 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Font:</source>
-        <translation>&amp;Police :</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
+        <translation type="unfinished">&amp;Police :</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;Taille :</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
+        <translation type="unfinished">&amp;Taille :</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>So&amp;uligner :</translation>
     </message>
     <message>
@@ -2343,58 +2646,72 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Bold</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Gras</translation>
     </message>
     <message>
         <source>Bold Italic</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Italique gras</translation>
     </message>
     <message>
         <source>Effects</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Effets</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Style de p&amp;olice :</translation>
     </message>
     <message>
         <source>Font</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Police</translation>
     </message>
     <message>
         <source>Italic</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Italique</translation>
     </message>
     <message>
         <source>None</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Aucun</translation>
     </message>
     <message>
         <source>Preview</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Aperçu</translation>
     </message>
     <message>
         <source>Regular</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Normal</translation>
     </message>
     <message>
         <source>Single</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Unique</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation>&amp;Barré</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
+        <translation type="unfinished">&amp;Barré</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>I&amp;ndice</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
+        <translation type="unfinished">I&amp;ndice</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>&amp;Exposant</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Il s&apos;agit d&apos;une police TrueType. Cette police sera identique à l&apos;écran et à l&apos;impression.</translation>
     </message>
 </context>
@@ -2402,6 +2719,7 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgFormatCells</name>
     <message>
         <source>Format Cells</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box</translatorcomment>
         <translation>Format de cellule</translation>
     </message>
 </context>
@@ -2417,58 +2735,71 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>&amp;Bottom:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>&amp;Bas :</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>&amp;Couleur :</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>&amp;Hauteur :</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;Gauche :</translation>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
+        <translation type="unfinished">&amp;Gauche :</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>D&amp;roite :</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>&amp;Rotation :</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Hau&amp;t :</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>&amp;Largeur :</translation>
+        <translation type="unfinished">&amp;Largeur :</translation>
     </message>
     <message>
         <source>Automatic</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Automatique</translation>
     </message>
     <message>
         <source>Black and White</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Noir et blanc</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation>Lumi&amp;nosité :</translation>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
+        <translation type="unfinished">Lumi&amp;nosité :</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Co&amp;mpresser...</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Co&amp;ntraste :</translation>
     </message>
     <message>
         <source>Crop from</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Rognage</translation>
     </message>
     <message>
@@ -2477,23 +2808,28 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Grayscale</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Nuances de gris</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>Haut&amp;eur :</translation>
     </message>
     <message>
         <source>Height:</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>Hauteur :</translation>
     </message>
     <message>
         <source>Image Control</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Contrôle de l&apos;image</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation>&amp;Conserver les proportions</translation>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
+        <translation type="unfinished">&amp;Conserver les proportions</translation>
     </message>
     <message>
         <source>Original Size</source>
@@ -2501,30 +2837,37 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Picture</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Image</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>Réinitiali&amp;ser</translation>
     </message>
     <message>
         <source>Relative to original picture size</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>Proportionnelle à l&apos;image d&apos;origine</translation>
     </message>
     <message>
         <source>Reset</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Picture</translatorcomment>
         <translation>Rétablir</translation>
     </message>
     <message>
         <source>Scale</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>Échelle</translation>
     </message>
     <message>
         <source>Size</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>Taille</translation>
     </message>
     <message>
         <source>Size and rotate</source>
+        <translatorcomment>Insert tab-&gt;Picture-&gt;insert a picture-&gt;right click the picture, choose Format Object-&gt;Format AutoShape dialog box-&gt;Size</translatorcomment>
         <translation>Dimensionnement et rotation</translation>
     </message>
     <message>
@@ -2533,7 +2876,7 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation>Lar&amp;geur :</translation>
+        <translation type="unfinished">Lar&amp;geur :</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -2604,7 +2947,7 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgGroupOutlineSettings</name>
     <message>
         <source>Direction</source>
-        <translation>Sens</translation>
+        <translation>Orientation</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2616,7 +2959,7 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Summary rows &amp;below detail</source>
-        <translation>Lignes de s&amp;ynthèse sous les lignes de détail</translation>
+        <translation type="unfinished">Lignes de s&amp;ynthèse sous les lignes de détail</translation>
     </message>
 </context>
 <context>
@@ -2627,7 +2970,7 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>&amp;Row</source>
-        <translation>&amp;Ligne</translation>
+        <translation type="unfinished">&amp;Ligne</translation>
     </message>
     <message>
         <source>Custom lists from</source>
@@ -2661,30 +3004,37 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgInsertCells</name>
     <message>
         <source>Columns:</source>
+        <translatorcomment>right click A1, choose Insert-&gt;Insert dialog box</translatorcomment>
         <translation>Colonnes :</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
+        <translatorcomment>right click A1, choose Insert-&gt;Insert dialog box</translatorcomment>
         <translation>&amp;Colonne entière</translation>
     </message>
     <message>
         <source>Entire &amp;row</source>
+        <translatorcomment>right click A1, choose Insert-&gt;Insert dialog box</translatorcomment>
         <translation>Ligne entiè&amp;re</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>right click A1, choose Insert-&gt;Insert dialog box</translatorcomment>
         <translation>Insérer</translation>
     </message>
     <message>
         <source>Rows:</source>
+        <translatorcomment>right click A1, choose Insert-&gt;Insert dialog box</translatorcomment>
         <translation>Lignes :</translation>
     </message>
     <message>
         <source>Shift cells &amp;down</source>
+        <translatorcomment>right click A1, choose Insert-&gt;Insert dialog box</translatorcomment>
         <translation>&amp;Décaler les cellules vers le bas</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
+        <translatorcomment>right click A1, choose Insert-&gt;Insert dialog box</translatorcomment>
         <translation>Décaler les cellules vers la dro&amp;ite</translation>
     </message>
 </context>
@@ -2692,14 +3042,17 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgInsertComment</name>
     <message>
         <source>&amp;Author:</source>
+        <translatorcomment>right click A1, choose Insert Comment-&gt;Comment dialog box</translatorcomment>
         <translation>&amp;Auteur :</translation>
     </message>
     <message>
         <source>&amp;Comment:</source>
-        <translation>&amp;Commentaire :</translation>
+        <translatorcomment>right click A1, choose Insert Comment-&gt;Comment dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Commentaire :</translation>
     </message>
     <message>
         <source>Comment</source>
+        <translatorcomment>right click A1, choose Insert Comment-&gt;Comment dialog box</translatorcomment>
         <translation>Commentaire</translation>
     </message>
 </context>
@@ -2707,11 +3060,12 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <name>KxDlgInsertFunction</name>
     <message>
         <source>&amp;Goto</source>
-        <translation>&amp;Atteindre</translation>
+        <translation type="unfinished">&amp;Atteindre</translation>
     </message>
     <message>
         <source>&amp;Search for a function:</source>
-        <translation>&amp;Recherchez une fonction :</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Recherchez une fonction :</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -2727,14 +3081,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All Functions</source>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
         <translation>Toutes les fonctions</translation>
     </message>
     <message>
         <source>Common Formula</source>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
         <translation>Formule courante</translation>
     </message>
     <message>
         <source>Formula List:</source>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
         <translation>Liste de formules :</translation>
     </message>
     <message>
@@ -2747,18 +3104,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert Function</source>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
         <translation>Insérer une fonction</translation>
     </message>
     <message>
         <source>Or select a &amp;category:</source>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
         <translation>Ou sélectionnez une &amp;catégorie :</translation>
     </message>
     <message>
         <source>Parameter Input</source>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
         <translation>Saisie des paramètres</translation>
     </message>
     <message>
         <source>Select a functio&amp;n:</source>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box</translatorcomment>
         <translation>Sélectionnez une fonctio&amp;n :</translation>
     </message>
     <message>
@@ -2790,22 +3151,27 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertWorkSheet</name>
     <message>
         <source>&amp;After current sheet</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Insert Sheet-&gt;Insert Sheet dialog box</translatorcomment>
         <translation>&amp;Après la feuille active</translation>
     </message>
     <message>
         <source>&amp;Before current sheet</source>
-        <translation>A&amp;vant la feuille active</translation>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Insert Sheet-&gt;Insert Sheet dialog box</translatorcomment>
+        <translation type="unfinished">A&amp;vant la feuille active</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Insert Sheet-&gt;Insert Sheet dialog box</translatorcomment>
         <translation>Insérer</translation>
     </message>
     <message>
         <source>Insert &amp;count:</source>
-        <translation>Insérer u&amp;n nombre :</translation>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Insert Sheet-&gt;Insert Sheet dialog box</translatorcomment>
+        <translation type="unfinished">Insérer u&amp;n nombre :</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Insert Sheet-&gt;Insert Sheet dialog box</translatorcomment>
         <translation>Insérer une feuille</translation>
     </message>
     <message>
@@ -2821,22 +3187,27 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgMoveOrCopySheet</name>
     <message>
         <source>&amp;Before sheet:</source>
-        <translation>&amp;Avant la feuille :</translation>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Move or Copy Sheet-&gt;Move or Copy dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Avant la feuille :</translation>
     </message>
     <message>
         <source>&amp;Create a copy</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Move or Copy Sheet-&gt;Move or Copy dialog box</translatorcomment>
         <translation>&amp;Créer une copie</translation>
     </message>
     <message>
         <source>&amp;To workbook:</source>
-        <translation>&amp;Vers le classeur :</translation>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Move or Copy Sheet-&gt;Move or Copy dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Vers le classeur :</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Move or Copy Sheet-&gt;Move or Copy dialog box</translatorcomment>
         <translation>Déplacer ou copier une feuille</translation>
     </message>
     <message>
         <source>Move selected sheets</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Move or Copy Sheet-&gt;Move or Copy dialog box</translatorcomment>
         <translation>Déplacer les feuilles sélectionnées</translation>
     </message>
 </context>
@@ -2887,7 +3258,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>P&amp;ermissions...</source>
-        <translation>A&amp;utorisations...</translation>
+        <translation type="unfinished">A&amp;utorisations...</translation>
     </message>
     <message>
         <source>Range</source>
@@ -2925,14 +3296,17 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgOptions</name>
     <message>
         <source>&amp;Add</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Custom Lists</translatorcomment>
         <translation>&amp;Ajouter</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
         <translation>&amp;Ajouter...</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>&amp;Avancé...</translation>
     </message>
     <message>
@@ -2941,15 +3315,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Automatic</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>&amp;Automatique</translation>
     </message>
     <message>
         <source>&amp;Default file location:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Emplacement &amp;du fichier par défaut :</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Supprimer</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Custom Lists</translatorcomment>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Document tab</source>
@@ -2961,30 +3338,37 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Formula bar</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
         <translation>Barre de &amp;formule</translation>
     </message>
     <message>
         <source>&amp;Gridlines</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
         <translation>Quadrilla&amp;ge</translation>
     </message>
     <message>
         <source>&amp;Import list from cells:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Custom Lists</translatorcomment>
         <translation>&amp;Importer la liste des cellules :</translation>
     </message>
     <message>
         <source>&amp;Iteration</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>&amp;Itération</translation>
     </message>
     <message>
         <source>&amp;Manual</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>&amp;Manuel</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
         <translation>&amp;Modifier</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Color</translatorcomment>
         <translation>&amp;Modifier...</translation>
     </message>
     <message>
@@ -2993,51 +3377,63 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;New...</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
         <translation>&amp;Nouveau...</translation>
     </message>
     <message>
         <source>&amp;Outline symbols</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
         <translation>Symb&amp;oles du plan</translation>
     </message>
     <message>
         <source>&amp;Places:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>&amp;Places :</translation>
     </message>
     <message>
         <source>&amp;Precision as displayed</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>Calcul avec la &amp;précision au format affiché</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>De&amp;rniers fichiers utilisés :</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
+        <translation>Liste des fichiers &amp;récemment utilisés :</translation>
     </message>
     <message>
         <source>&amp;Reenter password to modify:</source>
-        <translation>Mot de passe &amp;réservant l&apos;accès à l&apos;écriture :</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
+        <translation>&amp;Retaper le mot de passe pour modifier :</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
         <translation>Supp&amp;rimer</translation>
     </message>
     <message>
         <source>&amp;Replace Internet and network paths with hyperlinks as you type</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>&amp;Remplacer les adresses Internet et réseau par des liens hypertexte lors de la saisie</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Color</translatorcomment>
         <translation>&amp;Réinitialiser</translation>
     </message>
     <message>
         <source>&amp;Row and column h&amp;eadings</source>
-        <translation>E&amp;n-têtes de ligne et d&amp;e colonne</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
+        <translation type="unfinished">E&amp;n-têtes de ligne et d&amp;e colonne</translation>
     </message>
     <message>
         <source>&amp;Set as Default</source>
-        <translation>&amp;Définir par défaut</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
+        <translation type="unfinished">&amp;Définir par défaut</translation>
     </message>
     <message>
         <source>&amp;Sheets in new workbook:</source>
-        <translation>Nombre de feuille&amp;s de calcul par nouveau classeur :</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
+        <translation>Nombre de feuille&amp;s de calcul dans le nouveau classeur :</translation>
     </message>
     <message>
         <source>&amp;Show names</source>
@@ -3049,22 +3445,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Status bar</source>
-        <translation>&amp;Barre d&apos;état</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
+        <translation type="unfinished">&amp;Barre d&apos;état</translation>
     </message>
     <message>
         <source>&amp;Trace hyperlinks with Alt key pressed</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>&amp;Tracer les liens hypertexte en maintenant la touche Alt enfoncée</translation>
     </message>
     <message>
         <source>&amp;Warn me when closing all tabs</source>
-        <translation>&amp;M’avertir lors de la fermeture de plusieurs onglets</translation>
+        <translation type="unfinished">&amp;M’avertir lors de la fermeture de plusieurs onglets</translation>
     </message>
     <message>
         <source>&amp;Zero values</source>
-        <translation>&amp;Valeurs nulles</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
+        <translation type="unfinished">&amp;Valeurs nulles</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>&amp;minutes</translation>
     </message>
     <message>
@@ -3141,34 +3541,42 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>A&amp;dd</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
         <translation>A&amp;jouter</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation>T&amp;oujours suggérer</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
+        <translation type="unfinished">T&amp;oujours suggérer</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>A&amp;vancé...</translation>
     </message>
     <message>
         <source>Allow cell &amp;drag and drop</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>Glissement-&amp;déplacement de la cellule</translation>
     </message>
     <message>
         <source>Calculation</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>Calcul</translation>
     </message>
     <message>
         <source>Cells containing &amp;years represented as 2 digits</source>
-        <translation>Cellules contenant des années à deux c&amp;hiffres</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
+        <translation type="unfinished">Cellules contenant des années à deux c&amp;hiffres</translation>
     </message>
     <message>
         <source>Chart fills:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Color</translatorcomment>
         <translation>Remplissage :</translation>
     </message>
     <message>
         <source>Chart lines:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Color</translatorcomment>
         <translation>Lignes du graphique :</translation>
     </message>
     <message>
@@ -3177,18 +3585,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Color</translatorcomment>
         <translation>Couleur</translation>
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Créer un &amp;fichier de sauvegarde lors du premier enregistrement</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
+        <translation type="obsolete">Créer un &amp;fichier de sauvegarde lors du premier enregistrement</translation>
     </message>
     <message>
         <source>Custom &amp;lists:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Custom Lists</translatorcomment>
         <translation>&amp;Listes personnalisées :</translation>
     </message>
     <message>
         <source>Custom Lists</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Custom Lists</translatorcomment>
         <translation>Listes personnalisées</translation>
     </message>
     <message>
@@ -3197,7 +3609,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;irection:</source>
-        <translation>S&amp;ens :</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
+        <translation type="unfinished">S&amp;ens :</translation>
     </message>
     <message>
         <source>Default</source>
@@ -3205,11 +3618,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Default document &amp;format to save:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>&amp;Format du document par défaut à enregistrer :</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
-        <translation>Affi&amp;cher le bouton Fermer dans l&apos;onglet actif</translation>
+        <translation type="unfinished">Affi&amp;cher le bouton Fermer dans l&apos;onglet actif</translation>
     </message>
     <message>
         <source>Display the &amp;tab bar at the top of document</source>
@@ -3221,6 +3635,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>M&amp;ot de passe du document :</translation>
     </message>
     <message>
@@ -3233,91 +3648,111 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>Modifier</translation>
     </message>
     <message>
         <source>Edit settings</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>Modifier les paramètres</translation>
     </message>
     <message>
         <source>Enable &amp;background error checking</source>
-        <translation>Activer la &amp;vérification des erreurs d’arrière-plan</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
+        <translation type="unfinished">Activer la &amp;vérification des erreurs d’arrière-plan</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
-        <translation>Activer l&apos;enregis&amp;trement de la durée de sauvegarde</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
+        <translation>Activer la sauvegarde de re&amp;tardement</translation>
     </message>
     <message>
         <source>Enable Auto&amp;Complete for cell values</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>Saisie semi-automatique des valeurs de &amp;cellule</translation>
     </message>
     <message>
         <source>Error &amp;indicator color:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
         <translation>Couleur de l’&amp;indicateur d’erreur :</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Vérifier les erreurs</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
+        <translation>Vérification des erreurs</translation>
     </message>
     <message>
         <source>Evaluates to error &amp;value</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
         <translation>Donne une &amp;valeur d&apos;erreur</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
         <translation>Décimale fi&amp;xe</translation>
     </message>
     <message>
         <source>File encryption options for this workbook</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>Options de chiffrement de fichier pour ce classeur</translation>
     </message>
     <message>
         <source>File sharing options for this workbook</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>Options de partage de fichier pour ce classeur</translation>
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
-        <translation>&amp;Largeur d&apos;onglet fixe</translation>
+        <translation type="unfinished">&amp;Largeur d&apos;onglet fixe</translation>
     </message>
     <message>
         <source>Formulas inco&amp;nsistent with other formulas in the region</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
         <translation>Formules incohére&amp;ntes avec d&apos;autres formules de la zone</translation>
     </message>
     <message>
         <source>Formulas which &amp;omit cells in a region</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
         <translation>Cellules &amp;omises dans une formule appliquée à une zone</translation>
     </message>
     <message>
         <source>General and Save</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Général et sauvegarde</translation>
     </message>
     <message>
         <source>Gridlines &amp;color:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
         <translation>&amp;Couleur du quadrillage :</translation>
     </message>
     <message>
         <source>GroupBox</source>
-        <translation>GroupBox</translation>
+        <translation type="unfinished">GroupBox</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Privacy</translatorcomment>
         <translation>Aidez-nous à améliorer WPS Office</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Pa&amp;ge d&apos;accueil</translation>
     </message>
     <message>
         <source>I&amp;mport</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Custom Lists</translatorcomment>
         <translation>I&amp;mporter</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation>Ignorer les mots en maj&amp;uscules</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
+        <translation type="unfinished">Ignorer les mots en maj&amp;uscules</translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
-        <translation>Ignorer les mots ave&amp;c chiffres</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
+        <translation type="unfinished">Ignorer les mots ave&amp;c chiffres</translation>
     </message>
     <message>
         <source>Left</source>
@@ -3325,14 +3760,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>List &amp;entries:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Custom Lists</translatorcomment>
         <translation>&amp;Entrées de la liste :</translation>
     </message>
     <message>
         <source>Maximum &amp;change:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>É&amp;cart maximal :</translation>
     </message>
     <message>
         <source>Maximum it&amp;erations:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>Nombr&amp;e maximal d&apos;itérations :</translation>
     </message>
     <message>
@@ -3349,10 +3787,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ne&amp;w word:</source>
-        <translation>Nou&amp;veau mot :</translation>
+        <translation type="unfinished">Nou&amp;veau mot :</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Nouvea&amp;u document</translation>
     </message>
     <message>
@@ -3365,23 +3804,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page brea&amp;ks</source>
-        <translation>&amp;Sauts de page</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
+        <translation type="unfinished">&amp;Sauts de page</translation>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>&amp;Mot de passe à modifier :</translation>
     </message>
     <message>
         <source>Privacy</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Privacy</translatorcomment>
         <translation>Confidentialité</translation>
     </message>
     <message>
         <source>R1&amp;C1 reference style</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Style de référen&amp;ce L1C1</translation>
     </message>
     <message>
         <source>Re&amp;turn</source>
-        <translation>Re&amp;tour</translation>
+        <translation>Re&amp;tourner</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -3389,10 +3832,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recover options</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Options de récupération</translation>
     </message>
     <message>
         <source>Reenter &amp;password to open:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>Reta&amp;pez le mot de passe :</translation>
     </message>
     <message>
@@ -3401,6 +3846,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rules</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
         <translation>Règles</translation>
     </message>
     <message>
@@ -3409,55 +3855,68 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save</source>
-        <translation>Enregistrement</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Save backup f&amp;ile every:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Enregistrer le f&amp;ichier de sauvegarde toutes les :</translation>
     </message>
     <message>
         <source>Security</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>Sécurité</translation>
     </message>
     <message>
         <source>Set decimal symbol to ,</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Définir le symbole décimal sur ,</translation>
     </message>
     <message>
         <source>Settings</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Paramètres</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
-        <translation>Onglets de fe&amp;uille</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
+        <translation type="unfinished">Onglets de fe&amp;uille</translation>
     </message>
     <message>
         <source>Show</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
         <translation>Afficher</translation>
     </message>
     <message>
         <source>Smart Backup</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Sauvegarde intelligente</translation>
     </message>
     <message>
         <source>St&amp;andard font:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Police st&amp;andard :</translation>
     </message>
     <message>
         <source>Standard colors:</source>
-        <translation>Couleurs standard :</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Color</translatorcomment>
+        <translation>Couleurs standards :</translation>
     </message>
     <message>
         <source>Start With</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Démarrer avec</translation>
     </message>
     <message>
         <source>Start With:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Démarrer avec :</translation>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation>Démarrer &amp;la fenêtre des tâches</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
+        <translation type="unfinished">Démarrer &amp;la fenêtre des tâches</translation>
     </message>
     <message>
         <source>Tab display position</source>
@@ -3473,11 +3932,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The password will protect your workbook.</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>Le mot de passe protégera votre classeur.</translation>
     </message>
     <message>
         <source>Unloc&amp;ked cells containing formulas</source>
-        <translation>Formules da&amp;ns des cellules déverrouillées</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
+        <translation type="unfinished">Formules da&amp;ns des cellules déverrouillées</translation>
     </message>
     <message>
         <source>Up</source>
@@ -3485,6 +3946,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>User &amp;name:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>&amp;Nom d&apos;utilisateur :</translation>
     </message>
     <message>
@@ -3497,6 +3959,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Window options</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;View</translatorcomment>
         <translation>Fenêtres</translation>
     </message>
     <message>
@@ -3505,6 +3968,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Workbook options</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Calculation</translatorcomment>
         <translation>Options de classeur</translation>
     </message>
     <message>
@@ -3525,18 +3989,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>en&amp;tries</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>en&amp;trées</translation>
     </message>
     <message>
         <source>After pressing Enter, &amp;move selection</source>
-        <translation>Déplacer la sélection après &amp;validation</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Edit</translatorcomment>
+        <translation type="unfinished">Déplacer la sélection après &amp;validation</translation>
     </message>
     <message>
         <source>Siz&amp;e:</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;General and Save</translatorcomment>
         <translation>Taill&amp;e :</translation>
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security</translatorcomment>
         <translation>Attention : choisissez un mot de passe que vous pouvez facilement retenir. Si vous oubliez ou perdez votre mot de passe, il sera impossible de le récupérer. N&apos;oubliez pas que les mots de passe respectent la casse.</translation>
     </message>
     <message>
@@ -3545,19 +4013,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Number stored as text(&amp;H)</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
         <translation>Nombre stocké en tant que texte(&amp;H)</translation>
     </message>
     <message>
         <source>Form&amp;ulas referring to empty cells</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Error Checking</translatorcomment>
         <translation>Form&amp;ules faisant référence à des cellules vides</translation>
     </message>
     <message>
         <source>Spell Check</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
         <translation>Vérifier l’orthographe</translation>
     </message>
     <message>
         <source>Custom Dictionary</source>
-        <translation>Dictionnaire personnel</translation>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check</translatorcomment>
+        <translation>Dictionnaire personnalisé</translation>
     </message>
     <message>
         <source>Path(Double-click to open the folder)</source>
@@ -3565,25 +4037,32 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
-        <translation>Double-cliquer da&amp;ns l&apos;espace pour créer un nouveau document</translation>
+        <translation type="unfinished">Double-cliquer da&amp;ns l&apos;espace pour créer un nouveau document</translation>
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
         <translation>Appuyer &amp;sur Ctrl+Tab pour basculer entre les onglets</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
     <message>
         <source>#N/A</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>#N/A</translation>
     </message>
     <message>
         <source>% normal size</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>% de la taille normale</translation>
     </message>
     <message>
         <source>&amp;Adjust to:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>Réduire/&amp;agrandir à :</translation>
     </message>
     <message>
@@ -3592,66 +4071,82 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Bottom:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
         <translation>&amp;Bas :</translation>
     </message>
     <message>
         <source>&amp;Columns to repeat at left:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>&amp;Colonnes à répéter à gauche :</translation>
     </message>
     <message>
         <source>&amp;Custom Header...</source>
-        <translation>&amp;En-tête personnalisé...</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
+        <translation type="unfinished">&amp;En-tête personnalisé...</translation>
     </message>
     <message>
         <source>&amp;Down, then over</source>
-        <translation>&amp;Vers le bas, puis à droite</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
+        <translation type="unfinished">&amp;Vers le bas, puis à droite</translation>
     </message>
     <message>
         <source>&amp;Fit to:</source>
-        <translation>&amp;Ajuster :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
+        <translation type="unfinished">&amp;Ajuster :</translation>
     </message>
     <message>
         <source>&amp;Footer:</source>
-        <translation>&amp;Pied de page :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
+        <translation type="unfinished">&amp;Pied de page :</translation>
     </message>
     <message>
         <source>&amp;Gridlines</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>Quadrilla&amp;ge</translation>
     </message>
     <message>
         <source>&amp;Landscape</source>
-        <translation>Pa&amp;ysage</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
+        <translation type="unfinished">Pa&amp;ysage</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;Gauche :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
+        <translation type="unfinished">&amp;Gauche :</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>&amp;Options...</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>Im&amp;primer...</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
         <translation>D&amp;roite :</translation>
     </message>
     <message>
         <source>&amp;Rows to repeat at top:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>Lignes à &amp;répéter en haut :</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
         <translation>Hau&amp;t :</translation>
     </message>
     <message>
         <source>&amp;Vertically</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
         <translation>&amp;Verticalement</translation>
     </message>
     <message>
         <source>(none)</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
         <translation>(aucun)</translation>
     </message>
     <message>
@@ -3660,34 +4155,42 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>1200 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>1 200 ppp</translation>
     </message>
     <message>
         <source>144 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>144 ppp</translation>
     </message>
     <message>
         <source>2400 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>2 400 ppp</translation>
     </message>
     <message>
         <source>300 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>300 ppp</translation>
     </message>
     <message>
         <source>3600 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>3 600 ppp</translation>
     </message>
     <message>
         <source>4000 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>4 000 ppp</translation>
     </message>
     <message>
         <source>600 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>600 ppp</translation>
     </message>
     <message>
         <source>72 dpi</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>72 ppp</translation>
     </message>
     <message>
@@ -3696,14 +4199,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>C&amp;ustom Footer...</source>
-        <translation>P&amp;ied de page personnalisé...</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
+        <translation type="unfinished">P&amp;ied de page personnalisé...</translation>
     </message>
     <message>
         <source>Cell &amp;error as:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>&amp;Erreur de cellule comme :</translation>
     </message>
     <message>
         <source>Center on page</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
         <translation>Centrer sur la page</translation>
     </message>
     <message>
@@ -3712,6 +4218,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fi&amp;rst page number:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>Commence&amp;r la numérotation à :</translation>
     </message>
     <message>
@@ -3728,14 +4235,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>He&amp;ader:</source>
-        <translation>En-&amp;tête :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
+        <translation type="unfinished">En-&amp;tête :</translation>
     </message>
     <message>
         <source>Header and Footer</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
         <translation>En-tête et pied de page</translation>
     </message>
     <message>
         <source>Hori&amp;zontally</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
         <translation>Hori&amp;zontalement</translation>
     </message>
     <message>
@@ -3744,10 +4254,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>O&amp;ver, then down</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>À droite, puis &amp;vers le bas</translation>
     </message>
     <message>
         <source>Orientation</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>Orientation</translation>
     </message>
     <message>
@@ -3756,54 +4268,67 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>Page</translation>
     </message>
     <message>
         <source>Page 1</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
         <translation>Page 1</translation>
     </message>
     <message>
         <source>Page 1 Sheet1</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
         <translation>Page 1 Feuil1</translation>
     </message>
     <message>
         <source>Page 1 of ?</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
         <translation>Page 1 sur ?</translation>
     </message>
     <message>
         <source>Page Setup</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box</translatorcomment>
         <translation>Mise en page</translation>
     </message>
     <message>
         <source>Page order</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>Ordre des pages</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
-        <translation>Dimensions de pa&amp;ge :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
+        <translation type="unfinished">Dimensions de pa&amp;ge :</translation>
     </message>
     <message>
         <source>Por&amp;trait</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>Por&amp;trait</translation>
     </message>
     <message>
         <source>Print</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box</translatorcomment>
         <translation>Imprimer</translation>
     </message>
     <message>
         <source>Print &amp;area:</source>
-        <translation>&amp;Zone d&apos;impression :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
+        <translation type="unfinished">&amp;Zone d&apos;impression :</translation>
     </message>
     <message>
         <source>Print &amp;quality:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Page</translatorcomment>
         <translation>&amp;Qualité d’impression :</translation>
     </message>
     <message>
         <source>Print titles</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>Titres à imprimer</translation>
     </message>
     <message>
         <source>Row and co&amp;lumn headings</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>En-têtes de &amp;ligne et de colonne</translation>
     </message>
     <message>
@@ -3812,14 +4337,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sheet</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Sheet</translatorcomment>
         <translation>Feuille</translation>
     </message>
     <message>
         <source>Sheet1</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Header and Footer</translatorcomment>
         <translation>Feuil1</translation>
     </message>
     <message>
         <source>Unit: Centimeters</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Page Setup-&gt;Page Setup dialog box-&gt;Margins</translatorcomment>
         <translation>Unité : Centimètres</translation>
     </message>
     <message>
@@ -3874,23 +4402,24 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Au&amp;tomatic</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check-&gt;Calculation</translatorcomment>
         <translation>Au&amp;tomatique</translation>
     </message>
     <message>
         <source>Base &amp;field:</source>
-        <translation>Champ &amp;de base :</translation>
+        <translation type="unfinished">Champ &amp;de base :</translation>
     </message>
     <message>
         <source>Base &amp;item:</source>
-        <translation>Élément de b&amp;ase :</translation>
+        <translation type="unfinished">Élément de b&amp;ase :</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
-        <translation>P&amp;ersonnalisé</translation>
+        <translation type="unfinished">P&amp;ersonnalisé</translation>
     </message>
     <message>
         <source>Choose the type of calculation that you want to use to summarize data from the selected field</source>
-        <translation>Choisissez le type de calcul à utiliser pour synthétiser les données du champ sélectionné.</translation>
+        <translation>Choisissez le type de calcul à utiliser pour synthétiser les données du champ sélectionné</translation>
     </message>
     <message>
         <source>Display</source>
@@ -3946,7 +4475,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Source field:</source>
-        <translation>Champ source :</translation>
+        <translation>Champ de source :</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -3958,22 +4487,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>buttonGroup</source>
-        <translation>buttonGroup</translation>
+        <translation type="unfinished">buttonGroup</translation>
     </message>
     <message>
         <source>buttonGroup_2</source>
-        <translation>buttonGroup_2</translation>
+        <translation type="unfinished">buttonGroup_2</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
     <message>
         <source>&amp;Fields per row:</source>
-        <translation>&amp;Champs par ligne :</translation>
+        <translation type="unfinished">&amp;Champs par ligne :</translation>
     </message>
     <message>
         <source>&amp;Grand totals for columns</source>
-        <translation>&amp;Totaux des colonnes</translation>
+        <translation type="unfinished">&amp;Totaux des colonnes</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -3981,7 +4510,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Refresh on open</source>
-        <translation>&amp;Actualise&amp;r lors de l’ouverture</translation>
+        <translation type="unfinished">&amp;Actualise&amp;r lors de l’ouverture</translation>
     </message>
     <message>
         <source>Down, then over</source>
@@ -4005,7 +4534,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page &amp;layout:</source>
-        <translation>&amp;Mise en page :</translation>
+        <translation type="unfinished">&amp;Mise en page :</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
@@ -4013,129 +4542,159 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Subtotal &amp;hidden page items</source>
-        <translation>Sous-total des éléments p&amp;age masqués</translation>
+        <translation type="unfinished">Sous-total des éléments p&amp;age masqués</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPrint</name>
     <message>
         <source>&amp;All</source>
-        <translation>&amp;Tout</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Tout</translation>
     </message>
     <message>
         <source>&amp;Draw line between pages </source>
-        <translation>&amp;Tracer une ligne entre les pages </translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Tracer une ligne entre les pages </translation>
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Class&amp;eur entier</translation>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation>&amp;De :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">&amp;De :</translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>&amp;Répéter</translation>
     </message>
     <message>
         <source>&amp;To:</source>
-        <translation>&amp;À :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">&amp;À :</translation>
     </message>
     <message>
         <source>1 Page</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>1 page</translation>
     </message>
     <message>
         <source>16 Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>16 pages</translation>
     </message>
     <message>
         <source>2 Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>2 pages</translation>
     </message>
     <message>
         <source>32 Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>32 pages</translation>
     </message>
     <message>
         <source>4 Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>4 pages</translation>
     </message>
     <message>
         <source>6 Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>6 pages</translation>
     </message>
     <message>
         <source>8 Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>8 pages</translation>
     </message>
     <message>
         <source>9 Pages</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>9 pages</translation>
     </message>
     <message>
         <source>Acti&amp;ve sheet</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Feuille acti&amp;ve</translation>
     </message>
     <message>
         <source>C&amp;ollate</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>C&amp;opies assemblées</translation>
     </message>
     <message>
         <source>Copies</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Copies</translation>
     </message>
     <message>
         <source>From le&amp;ft to right</source>
-        <translation>De gauche à &amp;droite</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">De gauche à &amp;droite</translation>
     </message>
     <message>
         <source>From top to &amp;bottom</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Du haut vers le &amp;bas</translation>
     </message>
     <message>
         <source>Multipage output and zoom</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Sortie multipage et zoom</translation>
     </message>
     <message>
         <source>Number of &amp;copies:</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Nombre de &amp;copies :</translation>
     </message>
     <message>
         <source>Order</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Ordre</translation>
     </message>
     <message>
         <source>Pa&amp;ges</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Pa&amp;ges</translation>
     </message>
     <message>
         <source>Page range</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Étendue de page</translation>
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
-        <translation>Pages par &amp;feuille :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">Pages par &amp;feuille :</translation>
     </message>
     <message>
         <source>Pre&amp;view</source>
-        <translation>Aperç&amp;u</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">Aperç&amp;u</translation>
     </message>
     <message>
         <source>Print</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Imprimer</translation>
     </message>
     <message>
         <source>Print what</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Impression</translation>
     </message>
     <message>
         <source>Scale to paper si&amp;ze:</source>
-        <translation>Mettre à l&apos;éc&amp;helle du papier :</translation>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
+        <translation type="unfinished">Mettre à l&apos;éc&amp;helle du papier :</translation>
     </message>
     <message>
         <source>Selectio&amp;n</source>
+        <translatorcomment>Drop-down menu-&gt;File-&gt;Print-&gt;Print dialog box</translatorcomment>
         <translation>Sélectio&amp;n</translation>
     </message>
 </context>
@@ -4143,29 +4702,35 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgProtectAndShareWorkbook</name>
     <message>
         <source>&amp;Password(optional):</source>
+        <translatorcomment>Review tab-&gt;Proctect and Share Workbook-&gt;Protect and Share Workbook dialog box</translatorcomment>
         <translation>Mot de &amp;passe (facultatif) :</translation>
     </message>
     <message>
         <source>If desired, a password must be chosen now, 
 prior to sharing the workbook.</source>
+        <translatorcomment>Review tab-&gt;Proctect and Share Workbook-&gt;Protect and Share Workbook dialog box</translatorcomment>
         <translation>Si vous souhaitez définir un mot de passe, choisissez-en un tout de suite, 
 avant de partager le classeur.</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
+        <translatorcomment>Review tab-&gt;Proctect and Share Workbook-&gt;Protect and Share Workbook dialog box</translatorcomment>
         <translation>Protéger et partager le classeur</translation>
     </message>
     <message>
         <source>Protect workbook for</source>
+        <translatorcomment>Review tab-&gt;Proctect and Share Workbook-&gt;Protect and Share Workbook dialog box</translatorcomment>
         <translation>Éléments à protéger</translation>
     </message>
     <message>
         <source>Sharing with track changes.</source>
-        <translation>Partage avec suivi des modifications.</translation>
+        <translatorcomment>Review tab-&gt;Proctect and Share Workbook-&gt;Protect and Share Workbook dialog box</translatorcomment>
+        <translation>Partage par le suivi des modifications.</translation>
     </message>
     <message>
         <source>This shares your workbook and then prevents 
 change tracking from being removed.</source>
+        <translatorcomment>Review tab-&gt;Proctect and Share Workbook-&gt;Protect and Share Workbook dialog box</translatorcomment>
         <translation>Cette option permet de partager le classeur et d’empêcher la 
 suppression du suivi des modifications.</translation>
     </message>
@@ -4174,10 +4739,12 @@ suppression du suivi des modifications.</translation>
     <name>KxDlgProtectBook</name>
     <message>
         <source>&amp;Password(optional):</source>
+        <translatorcomment>Review tab-&gt;Proctect Workbook-&gt;Protect Workbook dialog box</translatorcomment>
         <translation>Mot de &amp;passe (facultatif) :</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
+        <translatorcomment>Review tab-&gt;Proctect Workbook-&gt;Protect Workbook dialog box</translatorcomment>
         <translation>Protéger le classeur</translation>
     </message>
 </context>
@@ -4185,74 +4752,92 @@ suppression du suivi des modifications.</translation>
     <name>KxDlgProtectSheet</name>
     <message>
         <source>&amp;Allow all users of this worksheet to:</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>&amp;Autoriser tous les utilisateurs de cette feuille à :</translation>
     </message>
     <message>
         <source>&amp;Password(optional):</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Mot de &amp;passe (facultatif) :</translation>
     </message>
     <message>
         <source>Delete columns</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Supprimer les colonnes</translation>
     </message>
     <message>
         <source>Delete rows</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Supprimer les lignes</translation>
     </message>
     <message>
         <source>Edit objects</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Modifier les objets</translation>
     </message>
     <message>
         <source>Edit scenarios</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Modifier des scénarios</translation>
     </message>
     <message>
         <source>Format cells</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Format de cellule</translation>
     </message>
     <message>
         <source>Format columns</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Format de colonnes</translation>
     </message>
     <message>
         <source>Format rows</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Format de lignes</translation>
     </message>
     <message>
         <source>Insert columns</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Insérer des colonnes</translation>
     </message>
     <message>
         <source>Insert hyperlinks</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Insérer des liens hypertexte</translation>
     </message>
     <message>
         <source>Insert rows</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Insérer des lignes</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Protéger la feuille</translation>
     </message>
     <message>
         <source>Select locked cells</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Sélectionner les cellules verrouillées</translation>
     </message>
     <message>
         <source>Select unlocked cells</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Sélectionner les cellules déverrouillées</translation>
     </message>
     <message>
         <source>Sort</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Trier</translation>
     </message>
     <message>
         <source>Use AutoFilter</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Utiliser le filtre automatique</translation>
     </message>
     <message>
         <source>Use PivotTable reports</source>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box</translatorcomment>
         <translation>Utiliser des rapports de tableau croisé dynamique</translation>
     </message>
 </context>
@@ -4260,42 +4845,105 @@ suppression du suivi des modifications.</translation>
     <name>KxDlgRecordForm</name>
     <message>
         <source>&amp;Criteria</source>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
         <translation>&amp;Critère</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
         <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
         <translation>&amp;Restaurer</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>Fer&amp;mer</translation>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
+        <translation type="unfinished">Fer&amp;mer</translation>
     </message>
     <message>
         <source>Find &amp;Next</source>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
         <translation>Rechercher suiva&amp;nt</translation>
     </message>
     <message>
         <source>Find &amp;Prev</source>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
         <translation>&amp;Précédente</translation>
     </message>
     <message>
         <source>Form</source>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
         <translation>Grille</translation>
     </message>
     <message>
         <source>Ne&amp;w</source>
-        <translation>Nou&amp;veau</translation>
+        <translatorcomment>click and hold to select A1 to A13-&gt;Data tab-&gt;Form-&gt;Sheet1 dialog box</translatorcomment>
+        <translation type="unfinished">Nou&amp;veau</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicates</name>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished">Supprimer les doublons</translation>
+    </message>
+    <message>
+        <source>Please select one or more columns that contain duplicates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;My data has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d duplicates are found;
+Only %d unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicatesWarning</name>
+    <message>
+        <source>Remove Duplicates Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What do you want to do?</source>
+        <translation type="unfinished">Que voulez-vous faire ?</translation>
+    </message>
+    <message>
+        <source>&amp;Expand the selection</source>
+        <translation type="unfinished">Ét&amp;endre la sélection</translation>
+    </message>
+    <message>
+        <source>&amp;Continue with the current selection</source>
+        <translation type="unfinished">&amp;Continuer avec la sélection en cours</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgRepeatWord</name>
     <message>
         <source>It compares the contents by rows after clicking OK.</source>
-        <translation>Il compare le contenu en fonction des lignes après que vous avez cliqué sur OK.</translation>
+        <translation>Il compare le contenu en fonction des lignes après cliquer sur OK.</translation>
     </message>
     <message>
         <source>input</source>
@@ -4407,14 +5055,17 @@ suppression du suivi des modifications.</translation>
     <name>KxDlgScreenTip</name>
     <message>
         <source>Hyperlink ScreenTip</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box-&gt;Screen Tip</translatorcomment>
         <translation>Info-bulle des liens hypertexte</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box-&gt;Screen Tip</translatorcomment>
         <translation>&amp;Texte de l&apos;info-bulle :</translation>
     </message>
     <message>
         <source>Set Hyperlink ScreenTip</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box-&gt;Screen Tip</translatorcomment>
         <translation>Définir une info-bulle pour le lien hypertexte</translation>
     </message>
 </context>
@@ -4422,74 +5073,91 @@ suppression du suivi des modifications.</translation>
     <name>KxDlgSeries</name>
     <message>
         <source>&amp;Columns</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>&amp;Colonnes</translation>
     </message>
     <message>
         <source>&amp;Date</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>&amp;Date</translation>
     </message>
     <message>
         <source>&amp;Growth</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>&amp;Géométrique</translation>
     </message>
     <message>
         <source>&amp;Linear</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>&amp;Linéaire</translation>
     </message>
     <message>
         <source>&amp;Month</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>&amp;Mois</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation>&amp;Lignes</translation>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Lignes</translation>
     </message>
     <message>
         <source>&amp;Step value:</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>Valeur du pa&amp;s :</translation>
     </message>
     <message>
         <source>&amp;Trend</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>&amp;Tendance</translation>
     </message>
     <message>
         <source>&amp;Weekday</source>
-        <translation>&amp;Jour ouvré</translation>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Jour ouvré</translation>
     </message>
     <message>
         <source>&amp;Year</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>&amp;Année</translation>
     </message>
     <message>
         <source>1</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>1</translation>
     </message>
     <message>
         <source>Auto&amp;Fill</source>
-        <translation>Recop&amp;ie incrémentée</translation>
+        <translation type="unfinished">Recop&amp;ie incrémentée</translation>
     </message>
     <message>
         <source>D&amp;ay</source>
-        <translation>J&amp;our</translation>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
+        <translation type="unfinished">J&amp;our</translation>
     </message>
     <message>
         <source>Date unit</source>
-        <translation>Unité de temps</translation>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
+        <translation>Unité de date</translation>
     </message>
     <message>
         <source>Series</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>Série</translation>
     </message>
     <message>
         <source>Series in</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>Série en</translation>
     </message>
     <message>
         <source>St&amp;op value:</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>Dernière val&amp;eur :</translation>
     </message>
     <message>
         <source>Type</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Fill Series-&gt;Series dialog box</translatorcomment>
         <translation>Type</translation>
     </message>
 </context>
@@ -4497,10 +5165,12 @@ suppression du suivi des modifications.</translation>
     <name>KxDlgSetColumnWidth</name>
     <message>
         <source>&amp;Column width:</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>Largeur de &amp;colonne :</translation>
     </message>
     <message>
         <source>Column Width</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>Largeur de colonne</translation>
     </message>
 </context>
@@ -4520,6 +5190,7 @@ suppression du suivi des modifications.</translation>
     <message>
         <source>&amp;Allow changes by more than one user at the same time.
 This also allows workbook merging.</source>
+        <translatorcomment>Review tab-&gt;Share Workbook-&gt;Share Workbook dialog box</translatorcomment>
         <translation>Permettre une modific&amp;ation multi-utilisateur. 
 Ceci permet également de fusionner des classeurs.</translation>
     </message>
@@ -4529,73 +5200,90 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>&amp;Who has this workbook open now:</source>
-        <translation>Ce classeur est ouvert par les utilisateurs suivants :</translation>
+        <translatorcomment>Review tab-&gt;Share Workbook-&gt;Share Workbook dialog box</translatorcomment>
+        <translation>Ce classeur est ouvert par les utilisateurs suivants (&amp;W):</translation>
     </message>
     <message>
         <source>Edit</source>
+        <translatorcomment>Review tab-&gt;Share Workbook-&gt;Share Workbook dialog box</translatorcomment>
         <translation>Modifier</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation>Options de partage du fichier</translation>
+        <translatorcomment>Review tab-&gt;Share Workbook-&gt;Share Workbook dialog box</translatorcomment>
+        <translation>Partager le fichier</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSort</name>
     <message>
         <source>&amp;Ascending</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>Croiss&amp;ant</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>&amp;Décroissant</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>&amp;Options...</translation>
     </message>
     <message>
         <source>As&amp;cending</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>&amp;Croissant</translation>
     </message>
     <message>
         <source>Ascend&amp;ing</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>Cro&amp;issant</translation>
     </message>
     <message>
         <source>Desce&amp;nding</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>Décroissa&amp;nt</translation>
     </message>
     <message>
         <source>Descendin&amp;g</source>
-        <translation>Décroissan&amp;t</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
+        <translation type="unfinished">Décroissan&amp;t</translation>
     </message>
     <message>
         <source>Header &amp;row</source>
-        <translation>&amp;Ligne d&apos;en-tête</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
+        <translation type="unfinished">&amp;Ligne d&apos;en-tête</translation>
     </message>
     <message>
         <source>My data range has</source>
-        <translation>Ma plage de données a une ligne de titres</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
+        <translation type="unfinished">Ma plage de données a</translation>
     </message>
     <message>
         <source>No header ro&amp;w</source>
-        <translation>A&amp;ucune ligne d&apos;en-tête</translation>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
+        <translation type="unfinished">A&amp;ucune ligne d&apos;en-tête</translation>
     </message>
     <message>
         <source>Sort</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>Trier</translation>
     </message>
     <message>
         <source>Sort by</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>Trier par</translation>
     </message>
     <message>
         <source>Then by</source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>Ensuite par</translation>
     </message>
     <message>
         <source>Then by </source>
+        <translatorcomment>click A1, enter &apos;1&apos;-&gt;select A1 &amp; A2-&gt;Home tab-&gt;Sort-&gt;Custom Sort</translatorcomment>
         <translation>Ensuite par </translation>
     </message>
 </context>
@@ -4607,11 +5295,11 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>&amp;Sort by alphabet</source>
-        <translation>&amp;Trier par ordre alphabétique</translation>
+        <translation type="unfinished">&amp;Trier par ordre alphabétique</translation>
     </message>
     <message>
         <source>C&amp;ustom sort order</source>
-        <translation>Ordre de tri &amp;personnalisé</translation>
+        <translation type="unfinished">Ordre de tri &amp;personnalisé</translation>
     </message>
     <message>
         <source>Method</source>
@@ -4642,42 +5330,52 @@ Ceci permet également de fusionner des classeurs.</translation>
     <name>KxDlgSpellCheck</name>
     <message>
         <source>&amp;Add to Dictionary</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>&amp;Ajouter au dictionnaire</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation>&amp;Modifier</translation>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Modifier</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Supprimer</translation>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Ignore Once</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>&amp;Ignorer</translation>
     </message>
     <message>
         <source>&amp;Options</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>&amp;Options</translation>
     </message>
     <message>
         <source>&amp;Set Spell Check Language</source>
-        <translation>&amp;Définir la langue de vérification de l&apos;orthographe</translation>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Set Spell Check Language-&gt;Set Spell Check Language dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Définir la langue de vérification de l&apos;orthographe</translation>
     </message>
     <message>
         <source>Cancel</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>Annuler</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation>Remplacer &amp;par :</translation>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
+        <translation type="unfinished">Remplacer &amp;par :</translation>
     </message>
     <message>
         <source>Change Al&amp;l</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>Tout remp&amp;lacer</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>I&amp;gnorer tout</translation>
     </message>
     <message>
@@ -4686,18 +5384,22 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>Spell Check</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>Vérifier l’orthographe</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>Suggestio&amp;ns :</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>Le mot n&apos;est pas dans le dictionnaire</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
+        <translatorcomment>click A1, enter &apos;sdfhs&apos;, press Enter-&gt;Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
         <translation>Ann&amp;uler dernière action</translation>
     </message>
 </context>
@@ -4705,62 +5407,77 @@ Ceci permet également de fusionner des classeurs.</translation>
     <name>KxDlgStyle</name>
     <message>
         <source>&amp;Add</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>&amp;Ajouter</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Supprimer</translation>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>&amp;Modifier...</translation>
     </message>
     <message>
         <source>&amp;Style name:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Nom du &amp;style :</translation>
     </message>
     <message>
         <source>Alignment:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Alignement :</translation>
     </message>
     <message>
         <source>Border:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Bordure :</translation>
     </message>
     <message>
         <source>Cancel</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Annuler</translation>
     </message>
     <message>
         <source>Font:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Police :</translation>
     </message>
     <message>
         <source>M&amp;erge...</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Fusionn&amp;er...</translation>
     </message>
     <message>
         <source>Number:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Numéro :</translation>
     </message>
     <message>
         <source>OK</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>OK</translation>
     </message>
     <message>
         <source>Patterns:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Remplissage :</translation>
     </message>
     <message>
         <source>Protection:</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Protection :</translation>
     </message>
     <message>
         <source>Style</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Style</translation>
     </message>
     <message>
         <source>Style includes</source>
+        <translatorcomment>Home tab-&gt;Format-&gt;Style-&gt;Style dialog box</translatorcomment>
         <translation>Le style inclut</translation>
     </message>
 </context>
@@ -4768,7 +5485,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     <name>KxDlgStylesMerge</name>
     <message>
         <source>&amp;Merge styles from:</source>
-        <translation>&amp;Fusionner à partir de :</translation>
+        <translation type="unfinished">&amp;Fusionner à partir de :</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4787,90 +5504,112 @@ Ceci permet également de fusionner des classeurs.</translation>
     <name>KxDlgSubTotal</name>
     <message>
         <source>&amp;At each change in:</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>&amp;À chaque changement de :</translation>
     </message>
     <message>
         <source>&amp;Filter subtotal</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>&amp;Filtrer le sous-total</translation>
     </message>
     <message>
         <source>&amp;Page break between groups</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Saut de &amp;page entre les groupes</translation>
     </message>
     <message>
         <source>&amp;Remove All</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Supp&amp;rimer tout</translation>
     </message>
     <message>
         <source>&amp;Summary below data</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>&amp;Synthèse sous les données</translation>
     </message>
     <message>
         <source>&amp;Use function:</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>&amp;Utiliser la fonction :</translation>
     </message>
     <message>
         <source>A&amp;dd subtotal to:</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Aj&amp;outer un sous-total à :</translation>
     </message>
     <message>
         <source>Average</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Moyenne</translation>
     </message>
     <message>
         <source>C&amp;opy subtotal to new sheet</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>C&amp;opier le sous-total vers une nouvelle feuille</translation>
     </message>
     <message>
         <source>Count</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Nbval</translation>
     </message>
     <message>
         <source>Count Numbers</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Chiffres</translation>
     </message>
     <message>
         <source>Max</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Min</translation>
     </message>
     <message>
         <source>Product</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Produit</translation>
     </message>
     <message>
         <source>Replace &amp;current subtotals</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Rempla&amp;cer les sous-totaux existants</translation>
     </message>
     <message>
         <source>Sort</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Trier</translation>
     </message>
     <message>
         <source>StdDev</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Ecartype</translation>
     </message>
     <message>
         <source>StdDevp</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Ecartypep</translation>
     </message>
     <message>
         <source>Subtotal</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Sous-total</translation>
     </message>
     <message>
         <source>Sum</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Somme</translation>
     </message>
     <message>
         <source>Var</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Var</translation>
     </message>
     <message>
         <source>Varp</source>
+        <translatorcomment>enter &apos;1&apos; in A1 A2 B1 B2-&gt;click and hold to select them-&gt;Data tab-&gt;Subtotal-&gt;Subtotal dialog box</translatorcomment>
         <translation>Varp</translation>
     </message>
 </context>
@@ -4886,7 +5625,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>&amp;Comma</source>
-        <translation>&amp;Virgule</translation>
+        <translation type="unfinished">&amp;Virgule</translation>
     </message>
     <message>
         <source>&amp;Date</source>
@@ -4898,7 +5637,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation>&amp;Terminer</translation>
+        <translation type="unfinished">&amp;Terminer</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -4910,7 +5649,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>&amp;Other:</source>
-        <translation>&amp;Autre :</translation>
+        <translation type="unfinished">&amp;Autre :</translation>
     </message>
     <message>
         <source>&amp;Space</source>
@@ -4978,7 +5717,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>Fixed &amp;width</source>
-        <translation>Largeur fi&amp;xe</translation>
+        <translation type="unfinished">Largeur fi&amp;xe</translation>
     </message>
     <message>
         <source>Lines with arrows signify a column break.</source>
@@ -5002,7 +5741,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>Se&amp;micolon</source>
-        <translation>Point-&amp;virgule</translation>
+        <translation type="unfinished">Point-&amp;virgule</translation>
     </message>
     <message>
         <source>Start import at &amp;row: </source>
@@ -5014,7 +5753,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>Text &amp;qualifier:</source>
-        <translation>Identificateur de te&amp;xte :</translation>
+        <translation type="unfinished">Identificateur de te&amp;xte :</translation>
     </message>
     <message>
         <source>The Text Wizard has determined that your data is Delimited. 
@@ -5106,7 +5845,7 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation>&amp;Lignes</translation>
+        <translation type="unfinished">&amp;Lignes</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -5154,18 +5893,22 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxDlgValidation</name>
     <message>
         <source>&amp;Allow:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>&amp;Autoriser :</translation>
     </message>
     <message>
         <source>&amp;Clear All</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box</translatorcomment>
         <translation>Effa&amp;cer tout</translation>
     </message>
     <message>
         <source>&amp;Data:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>&amp;Données :</translation>
     </message>
     <message>
         <source>&amp;Error message:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>Message d&apos;&amp;erreur :</translation>
     </message>
     <message>
@@ -5174,134 +5917,167 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>&amp;Input:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Input Message</translatorcomment>
         <translation>&amp;Entrée :</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>&amp;Minimum :</translation>
     </message>
     <message>
         <source>&amp;Show error alert after invalid data is entered</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>Quand des donnée&amp;s non valides sont tapées</translation>
     </message>
     <message>
         <source>&amp;Show input message when cell is selected</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Input Message</translatorcomment>
         <translation>Quand la cellule e&amp;st sélectionnée</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Input Message</translatorcomment>
         <translation>&amp;Titre :</translation>
     </message>
     <message>
         <source>Any value</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Tout</translation>
     </message>
     <message>
         <source>Ap&amp;ply these changes to all other cells with the same settings</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Ap&amp;pliquer ces modifications aux cellules de paramètres identiques</translation>
     </message>
     <message>
         <source>Custom</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Personnalisé</translation>
     </message>
     <message>
         <source>Data Validation</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box</translatorcomment>
         <translation>Validation des données</translation>
     </message>
     <message>
         <source>Date</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Date</translation>
     </message>
     <message>
         <source>Decimal</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Décimal</translation>
     </message>
     <message>
         <source>Error Alert</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>Alerte d&apos;erreur</translation>
     </message>
     <message>
         <source>Ignore &amp;blank</source>
-        <translation>Ignorer si &amp;vide</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
+        <translation type="unfinished">Ignorer si &amp;vide</translation>
     </message>
     <message>
         <source>Information</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>Informations</translation>
     </message>
     <message>
         <source>Input Message</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Input Message</translatorcomment>
         <translation>Message de saisie</translation>
     </message>
     <message>
         <source>List</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Liste</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Ma&amp;ximum :</translation>
     </message>
     <message>
         <source>Settings</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Paramètres</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>St&amp;yle :</translation>
     </message>
     <message>
         <source>Stop</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>Arrêter</translation>
     </message>
     <message>
         <source>Text length</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Longueur du texte</translation>
     </message>
     <message>
         <source>Time</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Heure</translation>
     </message>
     <message>
         <source>Validation criteria</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Critères de validation</translation>
     </message>
     <message>
         <source>Warning</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>Avertissement</translation>
     </message>
     <message>
         <source>When cell is selected, show this input message:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Input Message</translatorcomment>
         <translation>Afficher le message de saisie suivant</translation>
     </message>
     <message>
         <source>When user enters invalid data, show this error alert:</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Error Alert</translatorcomment>
         <translation>Afficher le message d’erreur suivant :</translation>
     </message>
     <message>
         <source>Whole number</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>Nombre entier</translation>
     </message>
     <message>
         <source>between</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>entre</translation>
     </message>
     <message>
         <source>equal to</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>égal à</translation>
     </message>
     <message>
         <source>greater than</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>supérieur à</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>supérieur ou égal à</translation>
     </message>
     <message>
         <source>less than</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>inférieur à</translation>
     </message>
     <message>
         <source>less than or equal to</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>inférieur ou égal à</translation>
     </message>
     <message>
@@ -5314,10 +6090,12 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>not between</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>non compris entre</translation>
     </message>
     <message>
         <source>not equal to</source>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Data Validation dialog box-&gt;Settings</translatorcomment>
         <translation>différent de</translation>
     </message>
 </context>
@@ -5325,42 +6103,52 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxDlgZoomView</name>
     <message>
         <source>%</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>&amp;100 %</translation>
     </message>
     <message>
         <source>&amp;25%</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>&amp;25 %</translation>
     </message>
     <message>
         <source>&amp;50%</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>&amp;50 %</translation>
     </message>
     <message>
         <source>&amp;75%</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>&amp;75 %</translation>
     </message>
     <message>
         <source>&amp;Custom:</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>&amp;Personnaliser :</translation>
     </message>
     <message>
         <source>&amp;Fit selection</source>
-        <translation>&amp;Ajusté à la sélection</translation>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Ajusté à la sélection</translation>
     </message>
     <message>
         <source>20&amp;0%</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>20&amp;0 %</translation>
     </message>
     <message>
         <source>Magnification</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>Facteur d&apos;agrandissement</translation>
     </message>
     <message>
         <source>Zoom</source>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box</translatorcomment>
         <translation>Zoom</translation>
     </message>
 </context>
@@ -5498,7 +6286,7 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxEtCfCalendarWidget</name>
     <message>
         <source>&amp;Today</source>
-        <translation>Au&amp;jourd&apos;hui</translation>
+        <translation type="unfinished">Au&amp;jourd&apos;hui</translation>
     </message>
 </context>
 <context>
@@ -5516,74 +6304,117 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>begins with</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>commence par</translation>
     </message>
     <message>
         <source>contains</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>contient</translation>
     </message>
     <message>
         <source>does not begin with</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>ne commence pas par</translation>
     </message>
     <message>
         <source>does not contain</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>ne contient pas</translation>
     </message>
     <message>
         <source>does not end with</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>ne se termine pas par</translation>
     </message>
     <message>
         <source>ends with</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>se termine par</translation>
     </message>
     <message>
         <source>equals</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>est égal à</translation>
     </message>
     <message>
         <source>is after</source>
-        <translation>postérieur au</translation>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
+        <translation>est postérieur au</translation>
     </message>
     <message>
         <source>is after or equal to</source>
-        <translation>postérieur ou égal au</translation>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
+        <translation>est postérieur ou égal au</translation>
     </message>
     <message>
         <source>is before</source>
-        <translation>antérieur au</translation>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
+        <translation>est antérieur au</translation>
     </message>
     <message>
         <source>is before or equal to</source>
-        <translation>antérieur ou égal au</translation>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
+        <translation>est antérieur ou égal au</translation>
     </message>
     <message>
         <source>is greater than</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>est supérieur à</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>est supérieur ou égal à</translation>
     </message>
     <message>
         <source>is less than</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>est inférieur à</translation>
     </message>
     <message>
         <source>is less than or equal to</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>est inférieur ou égal à</translation>
     </message>
     <message>
         <source>not equal to</source>
+        <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box-&gt;click Date Filter-&gt;Custom Filter</translatorcomment>
         <translation>différent de</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDialogSheetDlg</name>
+    <message>
+        <source>Integer is not valid.</source>
+        <translation type="unfinished">Valeur d&apos;entier non valide.</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished">Impossible d&apos;utiliser votre saisie. Un nombre entier ou un nombre décimal est peut-être requis.</translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required
+To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.
+To get assistance in entering a function, click Function Wizard
+If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only.
+To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation>Format de la forme automatique</translation>
+        <translation>Format des formes automatiques</translation>
     </message>
 </context>
 <context>
@@ -5608,18 +6439,22 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxEtErrorCheckDlg</name>
     <message>
         <source>Edit in &amp;Formula Bar</source>
+        <translatorcomment>click A1-&gt;enter &apos;=a&apos;, press Enter-&gt;Formulas tab-&gt;Error Checking-&gt;Error Checking dialog box</translatorcomment>
         <translation>Modifier dans la barre de &amp;formule</translation>
     </message>
     <message>
         <source>Error in cell %1</source>
+        <translatorcomment>click A1-&gt;enter &apos;=a&apos;, press Enter-&gt;Formulas tab-&gt;Error Checking-&gt;Error Checking dialog box</translatorcomment>
         <translation>Erreur dans la cellule %1</translation>
     </message>
     <message>
         <source>R&amp;esume</source>
+        <translatorcomment>click A1-&gt;enter &apos;=a&apos;, press Enter-&gt;Formulas tab-&gt;Error Checking-&gt;Error Checking dialog box</translatorcomment>
         <translation>R&amp;eprendre</translation>
     </message>
     <message>
         <source>The error check is complete for the entire sheet.</source>
+        <translatorcomment>click A1-&gt;enter &apos;=a&apos;, press Enter-&gt;Formulas tab-&gt;Error Checking-&gt;Error Checking dialog box-&gt;click Next</translatorcomment>
         <translation>La vérification des erreurs est terminée pour la totalité de la feuille.</translation>
     </message>
 </context>
@@ -5706,7 +6541,7 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxEtOleSetDisplayAreaCommand</name>
     <message>
         <source>The OLE display area cannot be objects, please select again.</source>
-        <translation>La zone d&apos;affichage OLE ne peut correspondre à des objets. Effectuez une nouvelle sélection.</translation>
+        <translation>La zone d&apos;affichage OLE ne peut pas être des objets. Effectuez une nouvelle sélection.</translation>
     </message>
 </context>
 <context>
@@ -5738,30 +6573,37 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxEtRecordMacroDlg</name>
     <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
+        <translatorcomment>Developer tab-&gt;Record Macro-&gt;Record Macro dialog box-&gt;click OK-&gt;click Stop Recording-&gt;click Record Macro again-&gt;Record Macro dialog box-&gt;Macro name-&gt;enter&apos;Macro1&apos;-&gt;click OK</translatorcomment>
         <translation>La macro %1 existe déjà. Remplacer la macro existante ?</translation>
     </message>
     <message>
         <source>Macro recorded %2 by %1</source>
+        <translatorcomment>Developer tab-&gt;Record Macro-&gt;Record Macro dialog box</translatorcomment>
         <translation>Macro enregistrée %2 par %1</translation>
     </message>
     <message>
         <source>New Workbook</source>
+        <translatorcomment>Developer tab-&gt;Record Macro-&gt;Record Macro dialog box</translatorcomment>
         <translation>Nouveau classeur</translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>
+        <translatorcomment>Developer tab-&gt;Record Macro-&gt;Record Macro dialog box-&gt;Shortcut key-&gt;enter &apos;2&apos;-&gt;press Enter</translatorcomment>
         <translation>Le raccourci doit être une lettre (lettres accentuées ou lettre ç non valides).</translation>
     </message>
     <message>
         <source>The name you entered is not valid.</source>
+        <translatorcomment>Developer tab-&gt;Record Macro-&gt;Record Macro dialog box-&gt;Macro name-&gt;enter &apos;123&apos;-&gt;press Enter</translatorcomment>
         <translation>Le nom que vous avez entré n’est pas valide.</translation>
     </message>
     <message>
         <source>This Workbook</source>
+        <translatorcomment>Developer tab-&gt;Record Macro-&gt;Record Macro dialog box</translatorcomment>
         <translation>Ce classeur</translation>
     </message>
     <message>
         <source>This command cannot be applied in shared workbook and you cannot record.</source>
+        <translatorcomment>Developer tab-&gt;Record Macro-&gt;Record Macro dialog box</translatorcomment>
         <translation>Cette commande ne peut pas être appliquée dans le classeur partagé et vous ne pouvez pas enregistrer.</translation>
     </message>
 </context>
@@ -5796,7 +6638,7 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Fill &amp;Days</source>
-        <translation>Incrémenter les &amp;jours</translation>
+        <translation type="unfinished">Incrémenter les &amp;jours</translation>
     </message>
     <message>
         <source>Fill &amp;Months</source>
@@ -5808,11 +6650,11 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Fill &amp;Weekdays</source>
-        <translation>Incrémenter les &amp;jours ouvrés</translation>
+        <translation type="unfinished">Incrémenter les &amp;jours ouvrés</translation>
     </message>
     <message>
         <source>Fill &amp;Years</source>
-        <translation>I&amp;ncrémenter les années</translation>
+        <translation type="unfinished">I&amp;ncrémenter les années</translation>
     </message>
     <message>
         <source>Fill Without F&amp;ormatting</source>
@@ -5846,7 +6688,7 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Percent</source>
-        <translation>Pour cent</translation>
+        <translation>Pourcent</translation>
     </message>
     <message>
         <source>The number must be between 1 and 500.</source>
@@ -5929,8 +6771,8 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
         <translation>Entrez le mot de passe des paramètres d&apos;autorisation !</translation>
     </message>
     <message>
-        <source>Save Adobe PDF File</source>
-        <translation>Enregistrer le fichier Adobe PDF</translation>
+        <source>Save PDF File</source>
+        <translation>Enregistrer le fichier PDF</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -5999,18 +6841,22 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxFindReplaceDlg</name>
     <message>
         <source>&amp;Find Next</source>
-        <translation>&amp;Rechercher suivant</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Rechercher suivant</translation>
     </message>
     <message>
         <source>&amp;Format</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Format</translatorcomment>
         <translation>&amp;Format</translation>
     </message>
     <message>
         <source>0 cell found</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;Home tab-&gt;Find and Replace-&gt;Find what-&gt;enter &apos;2&apos;, press Enter</translatorcomment>
         <translation>Aucune cellule trouvée</translation>
     </message>
     <message>
         <source>All Formats(&amp;C)</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Format</translatorcomment>
         <translation>Tous les formats(&amp;C)</translation>
     </message>
     <message>
@@ -6019,26 +6865,32 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Choose Format From Cell:</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Format</translatorcomment>
         <translation>Choisir le format à partir de la cellule :</translation>
     </message>
     <message>
         <source>Clea&amp;r Find Format</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Format</translatorcomment>
         <translation>Efface&amp;r la recherche de format</translation>
     </message>
     <message>
         <source>Clear &amp;Replace Format</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Format</translatorcomment>
         <translation>Efface&amp;r le remplacement de format</translation>
     </message>
     <message>
         <source>Comments</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Look in</translatorcomment>
         <translation>Commentaires</translation>
     </message>
     <message>
         <source>F&amp;ill Color</source>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Format</translatorcomment>
         <translation>Couleur de rempl&amp;issage</translation>
     </message>
     <message>
         <source>Find</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box</translatorcomment>
         <translation>Rechercher</translation>
     </message>
     <message>
@@ -6047,6 +6899,7 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Find Pre&amp;vious</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box</translatorcomment>
         <translation>Rechercher pré&amp;cédent</translation>
     </message>
     <message>
@@ -6059,22 +6912,27 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Fon&amp;t Color</source>
-        <translation>Co&amp;uleur de police</translation>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Format</translatorcomment>
+        <translation type="unfinished">Co&amp;uleur de police</translation>
     </message>
     <message>
         <source>Font &amp;And Fill Color</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Format</translatorcomment>
         <translation>Couleur de police et de rempliss&amp;age</translation>
     </message>
     <message>
         <source>For&amp;mat</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Format</translatorcomment>
         <translation>For&amp;mat</translation>
     </message>
     <message>
         <source>Formulas</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Look in</translatorcomment>
         <translation>Formules</translation>
     </message>
     <message>
         <source>Go To</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box</translatorcomment>
         <translation>Atteindre</translation>
     </message>
     <message>
@@ -6087,14 +6945,17 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Find</translatorcomment>
         <translation>Op&amp;tions &lt;&lt;</translation>
     </message>
     <message>
         <source>Op&amp;tions &gt;&gt;</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Find</translatorcomment>
         <translation>Op&amp;tions &gt;&gt;</translation>
     </message>
     <message>
         <source>Replace</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box</translatorcomment>
         <translation>Remplacer</translation>
     </message>
     <message>
@@ -6103,10 +6964,12 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Smart</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Look in</translatorcomment>
         <translation>Smart</translation>
     </message>
     <message>
         <source>Values</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box-&gt;Look in</translatorcomment>
         <translation>Valeurs</translation>
     </message>
     <message>
@@ -6135,10 +6998,12 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Go &amp;To</source>
+        <translatorcomment>Home tab-&gt;Find and Replace dialog box</translatorcomment>
         <translation>A&amp;tteindre</translation>
     </message>
     <message>
         <source>%1 cell(s) found</source>
+        <translatorcomment>enter &apos;1&apos; in A1-&gt;Home tab-&gt;Find and Replace-&gt;Find what-&gt;enter &apos;1&apos;, press Enter</translatorcomment>
         <translation>%1 cellule(s) trouvée(s)</translation>
     </message>
     <message>
@@ -6255,7 +7120,7 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     </message>
     <message>
         <source>Number</source>
-        <translation>Numérotation</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Patterns</source>
@@ -6351,10 +7216,12 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxFunctionArgumentsDlg</name>
     <message>
         <source>Formula result</source>
+        <translatorcomment>Formulas tab-&gt;All-&gt;choose the function&apos;ABS&apos;-&gt;Function Arguments dialog box</translatorcomment>
         <translation>Résultat</translation>
     </message>
     <message>
         <source>Function Arguments</source>
+        <translatorcomment>Formulas tab-&gt;All-&gt;choose the function&apos;ABS&apos;-&gt;Function Arguments dialog box</translatorcomment>
         <translation>Arguments de la fonction</translation>
     </message>
     <message>
@@ -6504,7 +7371,7 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation>Le texte saisi ne correspond pas à une référence correcte ni à un nom défini.</translation>
+        <translation>Le texte que vous avez tapé n&apos;est ni une référence ni un nom défini valides.</translation>
     </message>
 </context>
 <context>
@@ -6613,38 +7480,47 @@ au bout de l&apos;itération #%2.</translation>
     <name>KxNumberWidget</name>
     <message>
         <source>Accounting formats line up the currency symbols and decimal points in a column.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Accounting</translatorcomment>
         <translation>Les formats Comptabilité alignent les symboles monétaires et les décimales dans une colonne.</translation>
     </message>
     <message>
         <source>Currency formats are used for general monetary values. Use Accounting formats to align decimal points in a column.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Currency</translatorcomment>
         <translation>Les formats Monétaire sont utilisés pour des valeurs monétaires générales. Utilisez les formats Comptabilité pour aligner les décimaux dans une colonne.</translation>
     </message>
     <message>
         <source>Date formats display date and time serial numbers as date values.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Date</translatorcomment>
         <translation>Les formats Date affichent les numéros de série date et heure comme valeurs date.</translation>
     </message>
     <message>
         <source>Number is used for general display of numbers.Currency and Accounting offer specialized formatting for monetary value.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Number</translatorcomment>
         <translation>La catégorie Nombre est utilisée pour l&apos;affichage général des nombres. Les catégories Monétaire et Comptabilité offrent des formatages spécialisés pour des valeurs monétaires.</translation>
     </message>
     <message>
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Percentage</translatorcomment>
         <translation>Les formats Pourcentage multiplient la valeur de la cellule par 100 et affichent le résultat avec le symbole pourcentage.</translation>
     </message>
     <message>
         <source>Special formats are useful for tracking list and database values.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Special</translatorcomment>
         <translation>Les formats Spécial sont utilisés pour contrôler des valeurs de liste et de base de données.</translation>
     </message>
     <message>
         <source>Time formats display date and time serial numbers as time values.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Time</translatorcomment>
         <translation>Les formats Heure affichent les numéros de série date et heure comme valeurs heure.</translation>
     </message>
     <message>
         <source>Type the number format code,using one of the existing codes as a starting point.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Custom</translatorcomment>
         <translation>Entrez le code du format de nombre, en utilisant un des codes existants comme point de départ.</translation>
     </message>
     <message>
         <source>&amp;Use 1000 separator ( %1)</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Number widget-&gt;Categoty-&gt;Number</translatorcomment>
         <translation>&amp;Utiliser le séparateur de milliers ( %1)</translation>
     </message>
 </context>
@@ -6751,7 +7627,7 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation>Sélectionne&amp;z un dossier :</translation>
+        <translation type="unfinished">Sélectionne&amp;z un dossier :</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
@@ -6791,10 +7667,12 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>Delete from &amp;List</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check-&gt;Remove</translatorcomment>
         <translation>Supprimer de la &amp;liste</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Spell Check-&gt;Remove</translatorcomment>
         <translation>Supprimer du &amp;disque</translation>
     </message>
     <message>
@@ -6816,6 +7694,14 @@ au bout de l&apos;itération #%2.</translation>
     <message>
         <source>The word contains unallowable characters. Cannot process it.</source>
         <translation>Le mot contient des caractères inadmissibles. Vous ne pouvez pas le traiter.</translation>
+    </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished">Listes personnalisées</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Options</translation>
     </message>
 </context>
 <context>
@@ -6846,7 +7732,7 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
-        <translation>Valeur incorrecte.</translation>
+        <translation>Valeur d&apos;entier non valide.</translation>
     </message>
     <message>
         <source>Margins do not fit page size.</source>
@@ -7054,7 +7940,7 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>O&amp;n</source>
-        <translation>A&amp;ctif</translation>
+        <translation type="unfinished">A&amp;ctif</translation>
     </message>
     <message>
         <source>Page Field Options</source>
@@ -7070,7 +7956,7 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>S&amp;how:</source>
-        <translation>Affic&amp;her :</translation>
+        <translation type="unfinished">Affic&amp;her :</translation>
     </message>
     <message>
         <source>Top</source>
@@ -7082,7 +7968,7 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>Usin&amp;g field:</source>
-        <translation>Sur le c&amp;hamp :</translation>
+        <translation type="unfinished">Sur le c&amp;hamp :</translation>
     </message>
 </context>
 <context>
@@ -7156,11 +8042,11 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <name>KxPivotTableOptionsDlg</name>
     <message>
         <source>&amp;Fields per column:</source>
-        <translation>&amp;Champs par colonne :</translation>
+        <translation type="unfinished">&amp;Champs par colonne :</translation>
     </message>
     <message>
         <source>&amp;Fields per row:</source>
-        <translation>&amp;Champs par ligne :</translation>
+        <translation type="unfinished">&amp;Champs par ligne :</translation>
     </message>
     <message>
         <source>A PivotTable report with that name already exists on the destination sheet.</source>
@@ -7253,11 +8139,11 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Supprimer</translation>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Form</source>
-        <translation>&amp;Grille</translation>
+        <translation type="unfinished">&amp;Grille</translation>
     </message>
     <message>
         <source>Criteria</source>
@@ -7269,19 +8155,44 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     </message>
 </context>
 <context>
+    <name>KxRemoveDuplicatesDlg</name>
+    <message>
+        <source>( Select All )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column </source>
+        <translation type="unfinished">colonne </translation>
+    </message>
+    <message>
+        <source>(%1) %2</source>
+        <translation type="unfinished">(%1) %2</translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>After clicking OK, the duplicated rows will be deleted 
 automatically, and only one row can be kept.
 
 (Note: The function only supports single range)</source>
-        <translation>Après que vous avez cliqué sur OK, les lignes en doublon seront automatiquement 
+        <translation>Après cliquer sur OK, les lignes en doublon seront automatiquement 
 supprimées, et une seule ligne peut être conservée. 
 
 (Remarque : la fonction prend uniquement en charge une seule plage)</translation>
     </message>
     <message>
         <source>Highlight Duplicate</source>
+        <translatorcomment>Office Space tab-&gt;Duplicates-&gt;Highlight Duplicates-&gt;Set Highlight Repeat Items-&gt;Highlight Duplicate dialog box</translatorcomment>
         <translation>Surligner le doublon</translation>
     </message>
     <message>
@@ -7340,6 +8251,29 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
 </context>
 <context>
+    <name>KxSelectTableFromDbDlg</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Type</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxSeriesDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -7350,6 +8284,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     <name>KxSetColumnWidthDlg</name>
     <message>
         <source>&amp;Column width:</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>Largeur de &amp;colonne :</translation>
     </message>
     <message>
@@ -7358,10 +8293,12 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>Column Width</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>Largeur de colonne</translation>
     </message>
     <message>
         <source>Column width must be between 0 %1 and %2 %1.</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box-&gt;enter&apos;2555&apos;</translatorcomment>
         <translation>La largeur de colonne doit être comprise entre 0 %1 et %2 %1.</translation>
     </message>
     <message>
@@ -7378,22 +8315,27 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>character</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>caractère</translation>
     </message>
     <message>
         <source>cm</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>cm</translation>
     </message>
     <message>
         <source>inch</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>pouce</translation>
     </message>
     <message>
         <source>mm</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Column Width-&gt;Column width dialog box</translatorcomment>
         <translation>pt</translation>
     </message>
 </context>
@@ -7401,6 +8343,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     <name>KxSetRowHeightDlg</name>
     <message>
         <source>Row height must be between 0 %1 and %2 %1.</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Row Height-&gt;Row Height dialog box-&gt;enter &apos;2555&apos;-&gt;press enter</translatorcomment>
         <translation>La hauteur de ligne doit être comprise entre 0 %1 et %2 %1.</translation>
     </message>
     <message>
@@ -7413,18 +8356,22 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>cm</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Row Height-&gt;Row Height dialog box</translatorcomment>
         <translation>cm</translation>
     </message>
     <message>
         <source>inch</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Row Height-&gt;Row Height dialog box</translatorcomment>
         <translation>pouce</translation>
     </message>
     <message>
         <source>mm</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Row Height-&gt;Row Height dialog box</translatorcomment>
         <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
+        <translatorcomment>Home tab-&gt;Rows and Columns-&gt;Row Height-&gt;Row Height dialog box</translatorcomment>
         <translation>pt</translation>
     </message>
 </context>
@@ -7444,7 +8391,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>Max Feasible Solutions must be a positive integer number.</source>
-        <translation>Le nombre de solutions réalisables max. doit être un nombre entier positif.</translation>
+        <translation>Le nombre de solutions réalisables maximale doit être un nombre entier positif.</translation>
     </message>
     <message>
         <source>Max Subproblems must be a positive integer number.</source>
@@ -7627,7 +8574,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation>T&amp;oujours suggérer</translation>
+        <translation type="unfinished">T&amp;oujours suggérer</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -7635,7 +8582,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
-        <translation>Ignorer les mots ave&amp;c chiffres</translation>
+        <translation type="unfinished">Ignorer les mots ave&amp;c chiffres</translation>
     </message>
 </context>
 <context>
@@ -7653,7 +8600,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     <name>KxStylesMergeDlg</name>
     <message>
         <source>Too many different cell formats.</source>
-        <translation>Nombre de formats de cellule différents trop élevé.</translation>
+        <translation>Trop de formats de cellule différents.</translation>
     </message>
 </context>
 <context>
@@ -7667,7 +8614,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     <name>KxTextToColumnsDlg</name>
     <message>
         <source>Convert Text to Columns Wizard - Step %1 of 3</source>
-        <translation>Assistant Conversion - Étape %1 sur 3</translation>
+        <translation>Assistant Conversion de texte - Étape %1 sur 3</translation>
     </message>
     <message>
         <source>DMY</source>
@@ -7718,11 +8665,11 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>&amp;Field Settings...</source>
-        <translation>&amp;Paramètres de champ...</translation>
+        <translation type="unfinished">&amp;Paramètres de champ...</translation>
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation>&amp;Déplacer</translation>
+        <translation type="unfinished">&amp;Déplacer</translation>
     </message>
     <message>
         <source>&amp;Remove Field</source>
@@ -7774,7 +8721,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation>Mon&amp;ter</translation>
+        <translation type="unfinished">Mon&amp;ter</translation>
     </message>
     <message>
         <source>Move to &amp;Column Area</source>
@@ -7798,7 +8745,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>Move to Be&amp;ginning</source>
-        <translation>Déplacer au débu&amp;t</translation>
+        <translation type="unfinished">Déplacer au débu&amp;t</translation>
     </message>
     <message>
         <source>Ord&amp;er</source>
@@ -7850,7 +8797,7 @@ Pour ne pas afficher du tout le champ, veuillez annuler l&apos;action en cours, 
     </message>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation type="obsolete">Paramètre</translation>
     </message>
     <message>
         <source>Selection can be a single row or single column only.</source>
@@ -7894,39 +8841,48 @@ You may still need to manually update any references to this name used in VBA co
     <name>KxWidgetAlign</name>
     <message>
         <source>&amp;Degrees</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>&amp;Degrés</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>&amp;Horizontal :</translation>
     </message>
     <message>
         <source>&amp;Indent:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Retra&amp;it :</translation>
     </message>
     <message>
         <source>&amp;Merge cells</source>
-        <translation>&amp;Fusionner les cellules</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
+        <translation type="unfinished">&amp;Fusionner les cellules</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>&amp;Vertical :</translation>
     </message>
     <message>
         <source>&amp;Wrap text</source>
-        <translation>&amp;Habiller le texte</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
+        <translation type="unfinished">&amp;Habiller le texte</translation>
     </message>
     <message>
         <source>Bottom</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Bas</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Centré</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
+        <translation>Centrer</translation>
     </message>
     <message>
         <source>Center across selection</source>
-        <translation>Centré sur plusieurs colonnes</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
+        <translation>Centrer sur plusieurs colonnes</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
@@ -7934,52 +8890,64 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Distributed</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Paragraphe réparti</translation>
     </message>
     <message>
         <source>Distributed(Indent)</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Paragraphe réparti (Retrait)</translation>
     </message>
     <message>
         <source>Fill</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Remplissage</translation>
     </message>
     <message>
         <source>General</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Général</translation>
     </message>
     <message>
         <source>Justify</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Justifié</translation>
     </message>
     <message>
         <source>Left(Indent)</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Gauche (Retrait)</translation>
     </message>
     <message>
         <source>Orientation</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Orientation</translation>
     </message>
     <message>
         <source>Right(Indent)</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Droite (Retrait)</translation>
     </message>
     <message>
         <source>Shrin&amp;k to fit</source>
-        <translation>A&amp;juster</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
+        <translation type="unfinished">A&amp;juster</translation>
     </message>
     <message>
         <source>T
 e
 x
 t</source>
-        <translation>T 
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
+        <translation type="unfinished">T 
 e 
 x 
-te</translation>
+t 
+e</translation>
     </message>
     <message>
         <source>Text alignment</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Alignement du texte</translation>
     </message>
     <message>
@@ -7988,10 +8956,12 @@ te</translation>
     </message>
     <message>
         <source>Top</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Haut</translation>
     </message>
     <message>
         <source>Vertica&amp;l text</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Alignment Widget</translatorcomment>
         <translation>Texte vertica&amp;l</translation>
     </message>
 </context>
@@ -8035,7 +9005,7 @@ te</translation>
     </message>
     <message>
         <source>Increase In&amp;dent</source>
-        <translation>Au&amp;gmenter le retrait</translation>
+        <translation type="unfinished">Au&amp;gmenter le retrait</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -8078,22 +9048,27 @@ te</translation>
     <name>KxWidgetBorder</name>
     <message>
         <source>&amp;Color:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>&amp;Couleur :</translation>
     </message>
     <message>
         <source>&amp;Inside</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>&amp;Intérieur</translation>
     </message>
     <message>
         <source>&amp;None</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>Aucu&amp;n</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>&amp;Plan</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>&amp;Style :</translation>
     </message>
     <message>
@@ -8126,6 +9101,7 @@ te</translation>
     </message>
     <message>
         <source>Border</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>Bordure</translation>
     </message>
     <message>
@@ -8134,14 +9110,17 @@ te</translation>
     </message>
     <message>
         <source>Line</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>Ligne</translation>
     </message>
     <message>
         <source>Presets</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>Prédéfinir</translation>
     </message>
     <message>
         <source>The selected border style can be applied by clicking the presets, preview diagram or the buttons above.</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Border widget</translatorcomment>
         <translation>Le style de bordure sélectionné peut être appliqué en cliquant sur l’une des présélections, sur l’aperçu ou les boutons ci-dessus.</translation>
     </message>
 </context>
@@ -8149,18 +9128,22 @@ te</translation>
     <name>KxWidgetFont</name>
     <message>
         <source>&amp;Color:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>&amp;Couleur :</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>&amp;Police :</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>&amp;Taille :</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>So&amp;uligner :</translation>
     </message>
     <message>
@@ -8169,14 +9152,17 @@ te</translation>
     </message>
     <message>
         <source>Double</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Double</translation>
     </message>
     <message>
         <source>Effects</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Effets</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Style de p&amp;olice :</translation>
     </message>
     <message>
@@ -8185,26 +9171,32 @@ te</translation>
     </message>
     <message>
         <source>None</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Aucun</translation>
     </message>
     <message>
         <source>Preview</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Aperçu</translation>
     </message>
     <message>
         <source>Single</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>Unique</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>&amp;Barré</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>I&amp;ndice</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
+        <translation type="unfinished">I&amp;ndice</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Font Widget</translatorcomment>
         <translation>&amp;Exposant</translation>
     </message>
 </context>
@@ -8220,7 +9212,7 @@ te</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Supprimer</translation>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Negative numbers:</source>
@@ -8264,7 +9256,7 @@ te</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation>Devise</translation>
+        <translation>Monétaire</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -8323,14 +9315,17 @@ te</translation>
     <name>KxWidgetPatterns</name>
     <message>
         <source>&amp;Pattern color:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>Couleur de moti&amp;f :</translation>
     </message>
     <message>
         <source>Background color:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>Couleur d’arrière-plan :</translation>
     </message>
     <message>
         <source>Cell shading</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>Ombrage de cellule</translation>
     </message>
     <message>
@@ -8339,14 +9334,17 @@ te</translation>
     </message>
     <message>
         <source>No Pattern</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>Aucun motif</translation>
     </message>
     <message>
         <source>Pattern &amp;style:</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>&amp;Style de motif :</translation>
     </message>
     <message>
         <source>Sample</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>Exemple</translation>
     </message>
 </context>
@@ -8354,14 +9352,17 @@ te</translation>
     <name>KxWidgetProtection</name>
     <message>
         <source>&amp;Hidden</source>
-        <translation>Mas&amp;qué</translation>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
+        <translation type="unfinished">Mas&amp;qué</translation>
     </message>
     <message>
         <source>&amp;Locked</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>Verroui&amp;llé</translation>
     </message>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet (Review tab, Protect Sheet button).</source>
+        <translatorcomment>right click A1, choose Format Cells-&gt;Format Cells dialog box-&gt;Patterns widget</translatorcomment>
         <translation>Le verrouillage des cellules ou le masquage des formules sont sans effet si la feuille n’est pas protégée (onglet Révision, bouton Protéger la feuille).</translation>
     </message>
 </context>
@@ -8461,15 +9462,15 @@ te</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation>Date de dé&amp;but :</translation>
+        <translation type="unfinished">Date de dé&amp;but :</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation>&amp;Heure de début :</translation>
+        <translation type="unfinished">&amp;Heure de début :</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation>Heu&amp;re :</translation>
+        <translation type="unfinished">Heu&amp;re :</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
@@ -8509,7 +9510,7 @@ te</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation>Gris bleu</translation>
+        <translation>Bleu gris</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -8537,15 +9538,15 @@ te</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Centre</translation>
+        <translation>Centrer</translation>
     </message>
     <message>
         <source>Center Across</source>
-        <translation>Centré sur plusieurs colonnes</translation>
+        <translation>Centrer sur plusieurs colonnes</translation>
     </message>
     <message>
         <source>Change Constraint</source>
-        <translation>Modifier une contrainte</translation>
+        <translation>Modifier la contrainte</translation>
     </message>
     <message>
         <source>Click to accept the solution and place the resulting values in the adjustable cells.</source>
@@ -8781,7 +9782,7 @@ te</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Justifier</translation>
+        <translation>Justifié</translation>
     </message>
     <message>
         <source>Keep Solver Solution</source>
@@ -8853,11 +9854,11 @@ te</translation>
     </message>
     <message>
         <source>No Protection</source>
-        <translation>Pas de protection</translation>
+        <translation>Sans protection</translation>
     </message>
     <message>
         <source>No Shading</source>
-        <translation>Pas d&apos;ombrage</translation>
+        <translation>Aucun ombrage</translation>
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
@@ -9113,7 +10114,7 @@ te</translation>
     </message>
     <message>
         <source>Wrap</source>
-        <translation>Renvoi à la ligne : oui</translation>
+        <translation type="unfinished">Renvoi à la ligne : oui</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -9279,7 +10280,7 @@ te</translation>
     </message>
     <message>
         <source>Available &amp;fields:</source>
-        <translation>C&amp;hamps disponibles :</translation>
+        <translation type="unfinished">C&amp;hamps disponibles :</translation>
     </message>
     <message>
         <source>Explanation</source>
@@ -9295,101 +10296,132 @@ te</translation>
     </message>
 </context>
 <context>
+    <name>SelectTableFromDbUI</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SolverOptions</name>
     <message>
         <source>All Methods</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Toutes les méthodes</translation>
     </message>
     <message>
         <source>Central</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Central</translation>
     </message>
     <message>
         <source>Constraint Precision:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Précision des contraintes :</translation>
     </message>
     <message>
         <source>Convergence:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Convergence :</translation>
     </message>
     <message>
         <source>Derivatives</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Dérivées</translation>
     </message>
     <message>
         <source>Forward</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Transfert</translation>
     </message>
     <message>
         <source>IPOPT Nonlinear</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>IPOPT non linéaire</translation>
     </message>
     <message>
         <source>Integer Constraints:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Contraintes Entier :</translation>
     </message>
     <message>
         <source>Max Feasible Solutions:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Solutions réalisables max :</translation>
     </message>
     <message>
         <source>Max Subproblems:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Sous-problèmes max :</translation>
     </message>
     <message>
         <source>Multistart</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Multistart</translation>
     </message>
     <message>
         <source>Options</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options</translatorcomment>
         <translation>Options</translation>
     </message>
     <message>
         <source>Population Size:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Taille de la population :</translation>
     </message>
     <message>
         <source>Random Seed:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Valeur de départ aléatoire :</translation>
     </message>
     <message>
         <source>Require Bounds on Variables</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Limites sur les variables requises</translation>
     </message>
     <message>
         <source>Solving Limits</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Résolution des limites</translation>
     </message>
     <message>
         <source>Solving with Integer Constraints</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Résolution avec des contraintes de nombre entier</translation>
     </message>
     <message>
         <source>Use Automatic Scaling</source>
-        <translation>Échelle automatique</translation>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
+        <translation>Utiliser l&apos;échelle automatique</translation>
     </message>
     <message>
         <source>Use Multistart</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;IPOPT Nonlinear</translatorcomment>
         <translation>Utiliser Multistart</translation>
     </message>
     <message>
         <source>Show Iteration Results</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Afficher le résultat des itérations</translation>
     </message>
     <message>
         <source>Ignore Integer Constraints</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Ignorer les contraintes de nombre entier</translation>
     </message>
     <message>
         <source>Integer Optimality(%):</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Optimalité des nombres entiers (%) :</translation>
     </message>
     <message>
         <source>Max Time (Seconds):</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Temps max (secondes) :</translation>
     </message>
     <message>
         <source>Iterations:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box-&gt;Options-&gt;All Methods</translatorcomment>
         <translation>Itérations :</translation>
     </message>
 </context>
@@ -9397,38 +10429,47 @@ te</translation>
     <name>SolverParameters</name>
     <message>
         <source>&amp;Add</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>&amp;Ajouter</translation>
     </message>
     <message>
         <source>&amp;By Changing Variable Cells:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>Cellules varia&amp;bles :</translation>
     </message>
     <message>
         <source>&amp;Change</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>&amp;Modifier</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Supprimer</translation>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Supprimer</translation>
     </message>
     <message>
         <source>&amp;Make Unconstrained Variables Non-Negative</source>
-        <translation>&amp;Rendre les variables sans contrainte non négatives</translation>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Rendre les variables sans contrainte non négatives</translation>
     </message>
     <message>
         <source>&amp;Max</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>&amp;Max</translation>
     </message>
     <message>
         <source>&amp;Reset All</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>&amp;Rétablir tout</translation>
     </message>
     <message>
         <source>&amp;Solve</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>Ré&amp;soudre</translation>
     </message>
     <message>
         <source>&amp;Value Of:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>&amp;Valeur :</translation>
     </message>
     <message>
@@ -9437,38 +10478,47 @@ te</translation>
     </message>
     <message>
         <source>Cl&amp;ose</source>
-        <translation>&amp;Fermer</translation>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Fermer</translation>
     </message>
     <message>
         <source>Mi&amp;n</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>Mi&amp;n</translation>
     </message>
     <message>
         <source>O&amp;ptions</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>O&amp;ptions</translation>
     </message>
     <message>
         <source>S&amp;ubject to the Constraint:</source>
-        <translation>C&amp;ontraintes :</translation>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
+        <translation type="unfinished">C&amp;ontraintes :</translation>
     </message>
     <message>
         <source>Se&amp;t Objective:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>Objec&amp;tif à définir :</translation>
     </message>
     <message>
         <source>Select a Solving M&amp;ethod:</source>
-        <translation>Sél&amp;ect. une résolution :</translation>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
+        <translation>Sél&amp;ectionner une résolution :</translation>
     </message>
     <message>
         <source>Solver Parameters</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>Paramètres du solveur</translation>
     </message>
     <message>
         <source>Solving Method</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>Méthode de résolution</translation>
     </message>
     <message>
         <source>To:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>À :</translation>
     </message>
 </context>
@@ -9476,7 +10526,7 @@ te</translation>
     <name>SolverResult</name>
     <message>
         <source>&amp;Keep Solver Solution</source>
-        <translation>Conserver la solution du sol&amp;veur</translation>
+        <translation type="unfinished">Conserver la solution du sol&amp;veur</translation>
     </message>
     <message>
         <source>&amp;Restore Original Values</source>
@@ -9488,7 +10538,7 @@ te</translation>
     </message>
     <message>
         <source>O&amp;utline Reports</source>
-        <translation>Rapports de &amp;plan</translation>
+        <translation type="unfinished">Rapports de &amp;plan</translation>
     </message>
     <message>
         <source>R&amp;eturn to Solver Parameters Dialog</source>
@@ -9515,11 +10565,11 @@ te</translation>
     <name>breakLinksWarningDlg</name>
     <message>
         <source>&amp;Break Links</source>
-        <translation>&amp;Rompre les liaisons</translation>
+        <translation type="unfinished">&amp;Rompre les liens</translation>
     </message>
     <message>
         <source>Breaking links permanently converts formulas and external references to their existing values. Because this cannot be undone, you may want to save a version of this file with a new name. Are you sure you want to break links?</source>
-        <translation>Rompre des liaisons de façon permanente permet de remplacer les formules et les références externes par leurs valeurs existantes. Cette opération ne pouvant pas être annulée, vous pouvez enregistrer une version de ce fichier sous un autre nom. Voulez-vous rompre les liaisons ?</translation>
+        <translation>La rupture des liens de façon permanente permet de remplacer les formules et les références externes par leurs valeurs existantes. Cette opération ne pouvant pas être annulée, vous pouvez enregistrer une version de ce fichier sous un autre nom. Voulez-vous rompre les liens ?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9527,7 +10577,7 @@ te</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Feuilles de calcul</translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -9545,7 +10595,7 @@ te</translation>
     <name>customfilterdlg</name>
     <message>
         <source>&amp;And</source>
-        <translation>&amp;Et</translation>
+        <translation type="unfinished">&amp;Et</translation>
     </message>
     <message>
         <source>&amp;Or</source>
@@ -9572,22 +10622,22 @@ te</translation>
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation>dialogstest</translation>
+        <translation type="unfinished">dialogstest</translation>
     </message>
 </context>
 <context>
     <name>editCrossBookLinksDlg</name>
     <message>
         <source>&amp;Break Link</source>
-        <translation>&amp;Rompre la liaison</translation>
+        <translation type="unfinished">&amp;Rompre le lien</translation>
     </message>
     <message>
         <source>&amp;Check Status</source>
-        <translation>&amp;Vérifier l’état</translation>
+        <translation type="unfinished">&amp;Vérifier l’état</translation>
     </message>
     <message>
         <source>&amp;Do not display the alert and do not update automatic links</source>
-        <translation>&amp;Ne pas afficher l’alerte et ne pas mettre à jour les liens automatiques</translation>
+        <translation type="unfinished">&amp;Ne pas afficher l’alerte et ne pas mettre à jour les liens automatiques</translation>
     </message>
     <message>
         <source>&amp;Open Source</source>
@@ -9595,7 +10645,7 @@ te</translation>
     </message>
     <message>
         <source>&amp;Startup Prompt...</source>
-        <translation>In&amp;vite de démarrage...</translation>
+        <translation type="unfinished">In&amp;vite de démarrage...</translation>
     </message>
     <message>
         <source>&amp;Update Values</source>
@@ -9603,15 +10653,15 @@ te</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>Fer&amp;mer</translation>
+        <translation type="unfinished">Fer&amp;mer</translation>
     </message>
     <message>
         <source>Cha&amp;nge Source...</source>
-        <translation>Modi&amp;fier la source...</translation>
+        <translation type="unfinished">Modi&amp;fier la source...</translation>
     </message>
     <message>
         <source>Do not display the alert and update lin&amp;ks</source>
-        <translation>Ne pas afficher l’alerte et ne pas mettre à jour les lien&amp;s</translation>
+        <translation type="unfinished">Ne pas afficher l’alerte et ne pas mettre à jour les lien&amp;s</translation>
     </message>
     <message>
         <source>Edit Links</source>
@@ -9646,30 +10696,37 @@ te</translation>
     <name>evaluateFormula</name>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Fermer</translation>
+        <translatorcomment>Formulas tab-&gt;Evaluate Formula-&gt;Evaluate Formula dialog box</translatorcomment>
+        <translation type="unfinished">&amp;Fermer</translation>
     </message>
     <message>
         <source>&amp;Evaluate</source>
+        <translatorcomment>Formulas tab-&gt;Evaluate Formula-&gt;Evaluate Formula dialog box</translatorcomment>
         <translation>Évalu&amp;er</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
+        <translatorcomment>Formulas tab-&gt;Evaluate Formula-&gt;Evaluate Formula dialog box</translatorcomment>
         <translation>&amp;Référence :</translation>
     </message>
     <message>
         <source>E&amp;valuation:</source>
+        <translatorcomment>Formulas tab-&gt;Evaluate Formula-&gt;Evaluate Formula dialog box</translatorcomment>
         <translation>É&amp;valuation :</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
+        <translatorcomment>Formulas tab-&gt;Evaluate Formula-&gt;Evaluate Formula dialog box</translatorcomment>
         <translation>Évaluer la formule</translation>
     </message>
     <message>
         <source>Step &amp;In</source>
+        <translatorcomment>Formulas tab-&gt;Evaluate Formula-&gt;Evaluate Formula dialog box</translatorcomment>
         <translation>Pas à pas déta&amp;illé</translation>
     </message>
     <message>
         <source>Step &amp;Out</source>
+        <translatorcomment>Formulas tab-&gt;Evaluate Formula-&gt;Evaluate Formula dialog box</translatorcomment>
         <translation>Pas à pas s&amp;ortant</translation>
     </message>
 </context>
@@ -9677,18 +10734,22 @@ te</translation>
     <name>goalseek</name>
     <message>
         <source>By &amp;changing cell:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Goal Seek dialog box</translatorcomment>
         <translation>&amp;Cellule à modifier :</translation>
     </message>
     <message>
         <source>Goal Seek</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Goal Seek dialog box</translatorcomment>
         <translation>Valeur cible</translation>
     </message>
     <message>
         <source>S&amp;et cell:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Goal Seek dialog box</translatorcomment>
         <translation>C&amp;ellule à définir :</translation>
     </message>
     <message>
         <source>To &amp;value:</source>
+        <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Goal Seek dialog box</translatorcomment>
         <translation>&amp;Valeur à atteindre :</translation>
     </message>
 </context>
@@ -9723,62 +10784,82 @@ te</translation>
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Browse...</source>
-        <translation>&amp;Parcourir...</translation>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
+        <translation type="unfinished">&amp;Parcourir...</translation>
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>Class&amp;eur entier</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Autorisation Im&amp;pression :</translation>
     </message>
     <message>
         <source>Active &amp;Sheet</source>
-        <translation>Feuille acti&amp;ve</translation>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
+        <translation type="unfinished">Feuille acti&amp;ve</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>C&amp;onfirmer :</translation>
     </message>
     <message>
         <source>Close w&amp;hen export completes</source>
-        <translation>Fermer une fois l&apos;e&amp;xportation terminée</translation>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
+        <translation type="unfinished">Fermer une fois l&apos;e&amp;xportation terminée</translation>
     </message>
     <message>
         <source>Confir&amp;m:</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Confir&amp;mer :</translation>
     </message>
     <message>
         <source>Export options</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>Options d&apos;exportation</translation>
     </message>
     <message>
         <source>Export range</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>Étendue de l&apos;exportation</translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
+        <source>Export to PDF File</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box</translatorcomment>
         <translation>Exporter au format Adobe PDF</translation>
     </message>
     <message>
+        <source>Export to Adobe PDF File</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box</translatorcomment>
+        <translation type="obsolete">Exporter au format Adobe PDF</translation>
+    </message>
+    <message>
         <source>File password:</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Mot de passe du fichier :</translation>
     </message>
     <message>
         <source>Free printing</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Impression libre</translation>
     </message>
     <message>
         <source>Hyper&amp;link</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>&amp;Lien hypertexte</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Impression brouillon</translation>
     </message>
     <message>
         <source>Normal</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>Normal</translation>
     </message>
     <message>
@@ -9787,50 +10868,62 @@ te</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation>&amp;Mot de passe :</translation>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
+        <translation type="unfinished">&amp;Mot de passe :</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Mot &amp;de passe :</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Mot de passe pour protéger les paramètres d&apos;autorisation</translation>
     </message>
     <message>
         <source>Permission Settings</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Paramètres d&apos;autorisation</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Autoriser à &amp;ajouter des commentaires</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation>A&amp;utoriser à copier</translation>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
+        <translation type="unfinished">A&amp;utoriser à copier</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Autoriser à modi&amp;fier</translation>
     </message>
     <message>
         <source>Printing Permission</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Autorisation d&apos;impression</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
         <translation>Impression non autorisée</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>Enregis&amp;trer sur</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation>Résu&amp;mé</translation>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
+        <translation type="unfinished">Résu&amp;mé</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
+        <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>Nouveau &amp;commentaire</translation>
     </message>
 </context>
@@ -9845,8 +10938,8 @@ te</translation>
         <translation>Annuler</translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
-        <translation>Exporter au format Adobe PDF</translation>
+        <source>Export to PDF File</source>
+        <translation>Exporter au format PDF</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
@@ -9857,6 +10950,7 @@ te</translation>
     <name>kxDlgHyperlink</name>
     <message>
         <source>&amp;E-mail address:</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box</translatorcomment>
         <translation>Adr&amp;esse de messagerie :</translation>
     </message>
     <message>
@@ -9865,6 +10959,7 @@ te</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box</translatorcomment>
         <translation>&amp;Texte à afficher :</translation>
     </message>
     <message>
@@ -9873,16 +10968,19 @@ te</translation>
     </message>
     <message>
         <source>Browse for File</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box</translatorcomment>
         <translation>Rechercher le fichier</translation>
     </message>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box</translatorcomment>
         <translation>Fichier ou 
 page Web e&amp;xistant(e)</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
+        <translatorcomment>right click A1, choose Hyperlink-&gt;Hyperlink dialog box</translatorcomment>
         <translation>Adresse de &amp;messagerie</translation>
     </message>
     <message>
@@ -9913,11 +11011,11 @@ document</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation>Ob&amp;jet :</translation>
+        <translation type="unfinished">Ob&amp;jet :</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation>Info-&amp;bulle...</translation>
+        <translation type="unfinished">Info-&amp;bulle...</translation>
     </message>
     <message>
         <source>Up One Folder</source>
@@ -9947,7 +11045,7 @@ document</translation>
     </message>
     <message>
         <source>&amp;Cell link:</source>
-        <translation>&amp;Cellule liée :</translation>
+        <translation>Lien de &amp;cellule :</translation>
     </message>
     <message>
         <source>&amp;Checked</source>
@@ -9987,11 +11085,11 @@ document</translation>
     </message>
     <message>
         <source>&amp;Single</source>
-        <translation>Uni&amp;que</translation>
+        <translation type="unfinished">Uni&amp;que</translation>
     </message>
     <message>
         <source>&amp;UnChecked</source>
-        <translation>&amp;Désactivé</translation>
+        <translation type="unfinished">&amp;Désactivé</translation>
     </message>
     <message>
         <source>0</source>
@@ -9999,7 +11097,7 @@ document</translation>
     </message>
     <message>
         <source>Cell &amp;link:</source>
-        <translation>Cellule &amp;liée :</translation>
+        <translation>&amp;Lien de cellule :</translation>
     </message>
     <message>
         <source>Form</source>
@@ -10034,7 +11132,7 @@ document</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;Gauche :</translation>
+        <translation type="unfinished">&amp;Gauche :</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -10111,23 +11209,23 @@ document</translation>
     </message>
     <message>
         <source>Edit &amp;Links...</source>
-        <translation>Modifier les &amp;liaisons...</translation>
+        <translation>Modifier les &amp;liens...</translation>
     </message>
     <message>
         <source>This workbook contains one or more links that cannot be updated.</source>
-        <translation>Ce classeur contient une ou plusieurs liaisons qui ne peuvent pas être mises à jour.</translation>
+        <translation>Ce classeur contient un ou plusieurs liens qui ne peuvent pas être mises à jour.</translation>
     </message>
     <message>
         <source>To change the source of links, or attempt to update values again, click Edit Links.</source>
-        <translation>Pour modifier la source des liaisons ou tenter de mettre à nouveau les valeurs à jour, cliquez sur Modifier les liaisons.</translation>
+        <translation>Pour modifier la source des liens ou tenter de mettre à nouveau les valeurs à jour, cliquez sur Modifier les liens.</translation>
     </message>
     <message>
         <source>To leave the links as they are, click Continue.</source>
-        <translation>Pour laisser les liaisons telles quelles, cliquez sur Continuer.</translation>
+        <translation>Pour laisser les liens telles quelles, cliquez sur Continuer.</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Feuilles de calcul</translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -10205,7 +11303,7 @@ Voulez-vous basculer en Manuel ?</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Feuilles de calcul</translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 </TS>

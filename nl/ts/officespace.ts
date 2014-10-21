@@ -61,6 +61,10 @@
         <source>This file does not belong to the current user. Please change the account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Check failed because the account was logged off. Please login again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
@@ -310,11 +314,11 @@
 <context>
     <name>KDataRecoverButton</name>
     <message>
-        <source>Kingsoft Data Recovery Master</source>
+        <source>Data Recovery Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data Recovery Master</source>
+        <source>WPS Data Recovery Master</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -374,15 +378,6 @@
         <translation type="obsolete">Het pad kan niet langer dan 255 tekens zijn!</translation>
     </message>
     <message>
-        <source>Changing the file suffix may lead to file opening failure!
-Are you sure to change?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>rename</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The file name cannot be empty !</source>
         <comment>The file name cannot been empty!</comment>
         <translation type="obsolete">De bestandsnaam kan niet leeg zijn!</translation>
@@ -407,6 +402,14 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>The file name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you change the filename extension, the file can become unusable. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -795,6 +798,41 @@ Are you sure to change?</source>
     </message>
 </context>
 <context>
+    <name>KLoginButtonTipWidget</name>
+    <message>
+        <source>UC_Feature1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login gifts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature_More</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KOpenCloudLinkOKTip</name>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -895,6 +933,37 @@ path:%3</source>
         <source>Remove all non-starred records</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove From List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open File Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid Records</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingFilePageFixedButton</name>
+    <message>
+        <source>Remove star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add star</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFloatingWidget</name>
@@ -935,6 +1004,26 @@ path:%3</source>
     </message>
     <message>
         <source>Disable File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove From List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open File Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid Records</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1071,6 +1160,41 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KUpgradeHintDlg</name>
+    <message>
+        <source>Upgrade Hint</source>
+        <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; contains macros.</source>
+        <extracomment>open a document contains macros</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want to use marcos, please upgrade to professional or commercial version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Learn Professional</source>
+        <extracomment>click upgrade to professional version</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Learn Commercial</source>
+        <extracomment>click to upgrade to commercial version</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 contains macro.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you would like to open contains macros.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KUserCenterCommand</name>
     <message>
         <source>You have logged in WPS Office</source>
@@ -1104,6 +1228,13 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KxDaysRemainWidget</name>
+    <message>
+        <source>Days Remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgCheckUpload</name>
     <message>
         <source>retry</source>
@@ -1119,6 +1250,29 @@ path:%3</source>
     </message>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgExpirationReminder</name>
+    <message>
+        <source>WPS Office Expiration Reminder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The %1-day trial expires now. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List of limited features in free version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1148,16 +1302,214 @@ path:%3</source>
 <context>
     <name>KxDlgSyncProcess</name>
     <message>
-        <source>Synchronize progress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Synchronizing, please wait...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Annuleren</translation>
+    </message>
+    <message>
+        <source>Sync Progress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syncing, please wait…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgVbaInstallation</name>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please download and install VBA to allow all macros to run if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExpirationReminderDlg</name>
+    <message>
+        <source>Writer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mail Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spreadsheets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the current document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fields Protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert ghosted text and picture behind the content on the page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing Content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View the list of macros, from which you can run, create, or delete a macro.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Developer tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the Option Button, Check Box and more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the current worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Consolidate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combine values from multiple ranges into one new range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text to Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separate the contents of one Spreadsheets cell into separate columns.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find the right input when you know the result you want.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow multiple people to work in a workbook at the same time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office you purchased has expired at used period, the program will automatically become free version, the part of the feature is not used properly./nWe extend the %1 - day renewal fee for your time, you can renew and enjoy the discount in this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The %1-day trial expires now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as docx format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Online Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced Timeline </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package to Folder/Compressed File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as xlsx/xlsm format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goal Seek</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1311,10 +1663,6 @@ path:%3</source>
 <context>
     <name>KxLiveStateUpdateCache</name>
     <message>
-        <source>Click icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can view or send collaborative information.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1348,6 +1696,10 @@ path:%3</source>
     </message>
     <message>
         <source>Equipment Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Icon</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1406,9 +1758,265 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KxQingActiveCodeDialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your activation code here:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid activation code.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation code does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation code has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The activation code has exceeded the maximum number of activations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The server is busy. Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please update your system time to connect to server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ACTIVING...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingAuthorize</name>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office detects that the current system time and the actual time do not match. Please update your current system time to authenticate against the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingBuyTooltip</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Van</translation>
+    </message>
+    <message>
+        <source>To purchase WPS Office, click here to visit the purchase page for more information. 
+You need to sign in before you buy. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After the trial expires, some features will not work properly. 
+Please purchase to continue using WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your WPS Office is about to expire. 
+After expiration, some features will not work properly. Renew now and you can get a discount. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after 1 day</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after %2 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription will expire after %1 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew Now &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription will expire by the end of the day</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingRestrictDlg</name>
+    <message>
+        <source>WPS Office Limited Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The free version can not use this feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To provoke you are paying customers can use any of the following ways:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Disable Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your activation code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingWelcomeDlg</name>
+    <message>
+        <source>Welcome to WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start your free %-day trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Your Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpCloudLinkWidget</name>
     <message>
         <source>Transmitting share link failed. Please check the network or operation authorization.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaBuyDlg</name>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document contains macros.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial version does not support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Free cannot support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaInstallationDlg</name>
+    <message>
+        <source>Macros depend on VBA support to function correctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please download and install VBA to allow all macros to run if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document contains macros.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1417,14 +2025,6 @@ path:%3</source>
     <message>
         <source>Delete file</source>
         <translation>Bestand verwijderen</translation>
-    </message>
-    <message>
-        <source>Failed to delete the following files! Please check if the files are being used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to cut the following files! Please check if the files are being used.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&apos;%1&apos; already exists. Operation cannot be completed.</source>
@@ -1447,23 +2047,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open</source>
+        <source>Failed to delete the following files. Please check if the files were in use.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete From The Listing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete from List</source>
+        <source>Failed to cut the following files. Please check if the files were in use.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -10,11 +10,6 @@
         <translation type="obsolete">“%s” 是唯讀檔案，若要儲存為複本，請按 [確定]，然後在 [另存新檔] 對話方塊中，指定一個新檔名。</translation>
     </message>
     <message>
-        <source>&quot;%s&quot; is read-only.  If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
-        <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation type="obsolete">“%s” 是唯讀檔案，若要儲存為複本，請按 [確定]，然後在 [另存新檔] 對話方塊中，指定一個新檔名。</translation>
-    </message>
-    <message>
         <source>%s is an invalid workbook name.</source>
         <comment>TX_Invalid_Book_Name</comment>
         <translation>%s 不是一個合法的活頁簿名稱。</translation>
@@ -137,17 +132,9 @@ To open the second document with the same name, you can close the document that 
         <translation>A value used in the formula is of the wrong data type.</translation>
     </message>
     <message>
-        <source>A workbook must contain at least one visible worksheet. 
-
-To hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
-        <comment>TX_Sheet_DEL_OneSheet_ET</comment>
-        <translation>活頁簿內至少須有一張未隱藏的工作表。
-若要隱藏、刪除、或移動工作表，您要先插入一張新的工作表，或是將一張工作表取消隱藏（如果先前有隱藏工作表的話）。</translation>
-    </message>
-    <message>
-        <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
+        <source>All Kingsoft Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
         <comment>TxDesc_AllETFiles</comment>
-        <translation>所有 WPS Spreadsheets 檔案(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
+        <translation type="obsolete">所有 Kingsoft Spreadsheets 檔案(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>Allowable</source>
@@ -280,13 +267,6 @@ If you want to hide, delete, or move the selected sheet(s), you must first inser
 如果你正試圖從“檔案”選單上最近使用的檔案清單中開啟檔案，請確認檔案未被重新命名、移動或刪除。</translation>
     </message>
     <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
-If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
-        <comment>TX_Open_File_Isnot_Exist</comment>
-        <translation>無法找到“%s”。請檢查檔案名稱的拼字，並檢查檔案位置是否正確。
-如果你正試圖從“檔案”選單上最近使用的檔案清單中開啟檔案，請確認檔案未被重新命名、移動或刪除。</translation>
-    </message>
-    <message>
         <source>Cannot find workbooks &quot;%s&quot; that referenced by formulas.
 Please specify the right files.</source>
         <comment>TX_SUPBOOK_FILE_USER_ASSIGN</comment>
@@ -317,11 +297,6 @@ Please specify the right files.</source>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>TX_PrinterError</comment>
         <translation>印表機錯誤，請確認您的印表機已經安裝好!</translation>
-    </message>
-    <message>
-        <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
-        <comment>TX_RenameSheet_Error2</comment>
-        <translation>無法將工作表命名為這個名稱，已經有其他的工作表、被參照到的物件函數庫、或是在VB中參考到的活頁簿等，使用了這個名稱。</translation>
     </message>
     <message>
         <source>Cannot run the macro &quot;%s&quot;. The macro may not be available in this workbook or all macros may be disabled.</source>
@@ -389,14 +364,9 @@ Please specify the right files.</source>
         <translation>命令無法使用：活頁簿開啟了修訂。</translation>
     </message>
     <message>
-        <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
-        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
+        <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Kingsoft Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
-        <translation>常用檔案(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets檔案(*.et)|*.et|Microsoft Excel檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
+        <translation type="obsolete">常用檔案(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Kingsoft Spreadsheets檔案(*.et)|*.et|Microsoft Excel檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
     </message>
     <message>
         <source>Con&amp;vert XX to 20XX</source>
@@ -437,11 +407,6 @@ Please specify the right files.</source>
         <source>Convergence</source>
         <comment>TX_SOLVER_CONVERGENCE</comment>
         <translation>收斂值</translation>
-    </message>
-    <message>
-        <source>Copy Formul&amp;a from Left</source>
-        <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
-        <translation>Copy Formula from &amp;Left</translation>
     </message>
     <message>
         <source>Copy Formula from &amp;Above</source>
@@ -594,14 +559,14 @@ Please specify the right files.</source>
         <translation>Error in Value</translation>
     </message>
     <message>
-        <source>Errors occur when WPS Spreadsheets opening this file.
+        <source>Errors occur when Kingsoft Spreadsheets opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.	
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure</comment>
-        <translation>WPS Spreadsheets 嘗試開啟此檔案時發生錯誤。
+        <translation type="obsolete">Kingsoft Spreadsheets 嘗試開啟此檔案時發生錯誤。
 請嘗試下列建議。
 ·檢查您對此文件在磁碟上的權限。
 ·確保記憶體或磁碟空間足夠。	
@@ -609,26 +574,26 @@ Please try one of the following.
 (%s)</translation>
     </message>
     <message>
-        <source>Errors occur when WPS Spreadsheets opening this file.
+        <source>Errors occur when Kingsoft Spreadsheets opening this file.
 Please try one of the following.
-•The current version of WPS Spreadsheets does not support this file&apos;s permission contorl level, please update to the latest version.
+•The current version of Kingsoft Spreadsheets does not support this file&apos;s permission contorl level, please update to the latest version.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
-        <translation type="obsolete">WPS Spreadsheets 嘗試開啟此檔案時發生錯誤。
+        <translation type="obsolete">Kingsoft Spreadsheets 嘗試開啟此檔案時發生錯誤。
 請嘗試下列建議。
-·WPS Spreadsheets 的目前版本不支援此檔案所具有的權限控制層級，請升級到最新版本。
+·Kingsoft Spreadsheets 的目前版本不支援此檔案所具有的權限控制層級，請升級到最新版本。
 ·請檔案的建立者將此檔案的權限控制層級改變為完全控制層級。
 (%s)</translation>
     </message>
     <message>
-        <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
+        <source>Errors occur when Kingsoft Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
 •Undo the previous operations and save it. 
 •Save it as text file. 
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
         <comment>TX_Cannot_Write_File_Unknown_Error</comment>
-        <translation>WPS Spreadsheets 在進行儲存動作時發生錯誤! 您可以嘗試以下動作：
+        <translation type="obsolete">Kingsoft Spreadsheets 在進行儲存動作時發生錯誤! 您可以嘗試以下動作：
 ·[撤消] 之前的動作，然後執行 [儲存] 。
 ·[另存新檔] 純文字檔案(*.txt)。
 ·將内容[複製/貼上]到新檔案。
@@ -639,6 +604,11 @@ Please try one of the following.
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
         <comment>TX_ShareWorkbook_TransformFailed</comment>
         <translation>轉換“%s”失敗，將以唯讀方式開啟此檔案。</translation>
+    </message>
+    <message>
+        <source>File not loaded completely.</source>
+        <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
+        <translation type="unfinished">文件未完全加載</translation>
     </message>
     <message>
         <source>Fill failed due to there is an array in source area.</source>
@@ -786,6 +756,16 @@ Please try one of the following.
         <translation>反覆運算次數</translation>
     </message>
     <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>TX_DESC_APP_NAME</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
+        <comment>TX_SheetCopyRemoveInvalid</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法將工作表插入目的地活頁簿，因為它包含的列和欄比來源活頁簿少。若要移動或複製資料至目的地活頁簿，您可以選取資料，然後使用 [複製] 與 [貼上] 命令將它插入另一個活頁簿的工作表。</translation>
+    </message>
+    <message>
         <source>Kingsoft Spreadsheets cannot complete this task with available resources.
 Choose less data or close other applications.
 
@@ -794,6 +774,73 @@ Continue without Undo?</source>
         <translation type="obsolete">WPS表格無法以可用的資源完成工作。請選擇較小的資料或關閉其他應用程式。
 
 繼續執行而不要復原?</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
+
+·If you want the first row of the selection or list used as labels and not as data, click OK.
+·If you selected a subset of cells in error, select a single cell, and try the command again.
+·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
+        <comment>TX_ETDataForm_RemindUser</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法判定在您的清單或選取範圍中，是哪一列包含這個命令所需的欄名稱。
+
+·如果您要將選取範圍或清單中的第一列作為標籤而非資料使用，請按一下 [確定]。
+·如果您選取的資料集有誤，請選取單一儲存格，然後再次執行這個命令。
+·若要建立欄標籤，請按一下 [取消]，並在每個資料欄頂端輸入文字標籤。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot finish this operation due to insufficient memory.</source>
+        <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 發現系統記憶體不足，無法完成此動作。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permissions control level of this file.
+(%s)</source>
+        <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 嘗試開啟此檔案時發現目前使用者權限不足。
+請嘗試下列建議。
+·更換目前使用者為其它使用者。
+·請檔案的建立者改變此檔案的權限控制層級。
+(%s)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>TX_Workbook_OpenPasswordFailure</comment>
+        <translation type="obsolete">密碼不正確，Kingsoft Spreadsheets 無法開啟檔案。
+(%s)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
+
+•Click a single cell, and then paste.
+•Select a rectangle area with the same size and shape, and then paste.</source>
+        <comment>TX_ERROR_INVALIDPASTERG</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法貼上資訊，因為複製區的大小或形狀與貼上區不同。您可嘗試以下的方法：	
+. 選擇單一儲存格，然後貼上。
+. 選擇相同大小及形狀的儲存格範圍，然後貼上。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
+(%s)</source>
+        <comment>TX_Workbook_SaveFailure</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法儲存或建立此檔案。請確定用來儲存檔案的磁碟未滿或沒有損毀。
+(%s)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot save this file due to a file permission error.
+(%s)</source>
+        <comment>TX_Workbook_SaveFailurePermission</comment>
+        <translation type="obsolete">由於檔案認可錯誤，Kingsoft Spreadsheets 無法完成儲存。
+(%s)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets finds nothing to print.</source>
+        <comment>TX_PrintPreview_No_data</comment>
+        <translation type="obsolete">没有發現可以列印的内容。</translation>
     </message>
     <message>
         <source>Label</source>
@@ -1190,17 +1237,17 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
         <translation>規劃求解選項</translation>
     </message>
     <message>
-        <source>Some formulas or names of this file contain the built-in functions which WPS Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
+        <source>Some formulas or names of this file contain the built-in functions which Kingsoft Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
 </source>
         <comment>TX_Open_File_UnkBuildInFunction_In_File</comment>
-        <translation>本檔案中的某些公式或名稱包含有下列 WPS Spreadsheets 不支援的内建函數，重算這些公式或名稱可能導致結果不正確：
+        <translation type="obsolete">本檔案中的某些公式或名稱包含有下列 Kingsoft Spreadsheets 不支援的内建函數，重算這些公式或名稱可能導致結果不正確：
 </translation>
     </message>
     <message>
-        <source>Some formulas or names of this file contain the user-defined functions which WPS Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
+        <source>Some formulas or names of this file contain the user-defined functions which Kingsoft Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
 </source>
         <comment>TX_Open_File_UnkCustomFunction_In_File</comment>
-        <translation>本檔案中的某些公式或名稱包含有下列 WPS Spreadsheets 不支援的自訂函數，重算這些公式或名稱可能導致結果不正確：
+        <translation type="obsolete">本檔案中的某些公式或名稱包含有下列 Kingsoft Spreadsheets 不支援的自訂函數，重算這些公式或名稱可能導致結果不正確：
 </translation>
     </message>
     <message>
@@ -1226,7 +1273,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished">工作表</translation>
+        <translation>工作表</translation>
     </message>
     <message>
         <source>Status</source>
@@ -1274,11 +1321,6 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
         <translation type="obsolete">Text Date with 2-Digit Year</translation>
     </message>
     <message>
-        <source>Text date with 2 digit years</source>
-        <comment>TX_ERRORCHECK_ERR_TextDate</comment>
-        <translation>Text Date with 2-Digit Year</translation>
-    </message>
-    <message>
         <source>The calculation is not complete</source>
         <comment>TX_ETCalculateInfo_BeBreak</comment>
         <translation>計算尚未完成</translation>
@@ -1311,19 +1353,9 @@ Select a single range and click the command again.</source>
 Select a single range and click the command again.</translation>
     </message>
     <message>
-        <source>The data not within the worksheet will be lost.</source>
-        <comment>TX_TextToColumns_Tip2</comment>
-        <translation>資料長度超出工作表外,會遺失部分資料</translation>
-    </message>
-    <message>
         <source>The data out of worksheet will be lost.</source>
         <comment>TX_TextToColumns_Tip2</comment>
         <translation type="obsolete">資料長度超出工作表外,會遺失部分資料</translation>
-    </message>
-    <message>
-        <source>The date you entered is not a valid date. Please try again.</source>
-        <comment>TX_ShareWorkbook_MsgInvalidDate</comment>
-        <translation>輸入日期不正確，請重新輸入。</translation>
     </message>
     <message>
         <source>The destination cells may contain some data values will be lost when continue, do you want to continue?</source>
@@ -1375,7 +1407,7 @@ Select a single range and click the command again.</translation>
     <message>
         <source>The formula in this cell differs from the formulas in this aera of the spreadsheet.</source>
         <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>此儲存格內的公式與試算表中本區域內的公式並不相同。</translation>
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this aera of the spreadsheet. </source>
@@ -1403,18 +1435,9 @@ Select a single range and click the command again.</translation>
         <translation>The formula or function used is dividing by zero or empty cells.</translation>
     </message>
     <message>
-        <source>The function you are using is invalid in WPS Spreadsheets.</source>
+        <source>The function you are using is invalid in Kingsoft Spreadsheets.</source>
         <comment>TX_FunctionInvalid</comment>
-        <translation>當前所使用的函數在 WPS Spreadsheets 中无效。</translation>
-    </message>
-    <message>
-        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
-• Click a single cell, and then paste.
-• Select a rectangle that&apos;s the same size and shape, and then paste.</source>
-        <comment>TX_ERROR_INVALIDPASTERG</comment>
-        <translation type="unfinished">WPS Spreadsheets 無法貼上資訊，因為複製區的大小或形狀與貼上區不同。您可嘗試以下的方法：	
-. 選擇單一儲存格，然後貼上。
-. 選擇相同大小及形狀的儲存格範圍，然後貼上。</translation>
+        <translation type="obsolete">當前所使用的函數在 Kingsoft Spreadsheets 中无效。</translation>
     </message>
     <message>
         <source>The merged cells cannot be sorted.</source>
@@ -1521,22 +1544,22 @@ There are several possible reasons:
     <message>
         <source>There are links to other data sources in this workbook.
 
-•If you update the links, WPS Spreadsheets will try to get the latest data.
-•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
+•If you update the links, Kingsoft Spreadsheets will try to get the latest data.
+•If you don&apos;t update the links, Kingsoft Spreadsheets will use the previous data.
 
 Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
         <comment>TX_NeedToUpdateExternalDataLink</comment>
-        <translation>此活頁簿包含與其他資料來源的連結。是否更新?
+        <translation type="obsolete">此活頁簿包含與其他資料來源的連結。是否更新?
 
-. 若更新連結，WPS Spreadsheets 將會嘗試擷取最新的資料。
-· 若不要更新連結，WPS Spreadsheets 將採用先前的資訊。
+. 若更新連結，Kingsoft Spreadsheets 將會嘗試擷取最新的資料。
+· 若不要更新連結，Kingsoft Spreadsheets 將採用先前的資訊。
 
 請注意，資料連結可在未得到您的許可下，被用於存取及共用機密資料，可能會被用於執行其他有害動作。如果您並不信任此活頁簿的來源，請不要更新連結。</translation>
     </message>
     <message>
-        <source>There are too many blank cells in WPS Spreadsheets and part of them have been deleted.</source>
+        <source>There are too many blank cells in Kingsoft Spreadsheets and part of them have been deleted.</source>
         <comment>TX_LosePartBlankCells</comment>
-        <translation>WPS Spreadsheets 發現該檔案有過多的空儲存格，有部分空儲存格已經刪除。</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets 發現該檔案有過多的空儲存格，有部分空儲存格已經刪除。</translation>
     </message>
     <message>
         <source>There is a large amount of information in the Clipboard. Do you want to keep the information so as to paste it to other applications later?
@@ -1548,18 +1571,9 @@ Note that data links can be used to access and share confidential information wi
 ·若要刪除剪貼簿的資料，釋放所佔的記憶體，請按 [否] 。</translation>
     </message>
     <message>
-        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
-• To save it on the Clipboard so that you can paste it later, click Yes.
-• To delete it from the Clipboard and free memory, click No.</source>
-        <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation type="unfinished">剪貼簿中含有大量資料。您以後還會用到嗎?
-·若要保存剪貼簿中的資料，以便待會使用，請按 [是] 。
-·若要刪除剪貼簿的資料，釋放所佔的記憶體，請按 [否] 。</translation>
-    </message>
-    <message>
         <source>There is a problem with a number used in the formula.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>公式中所使用的數值有問題。</translation>
     </message>
     <message>
         <source>There is a problem with a number used in the formula. </source>
@@ -1692,13 +1706,13 @@ To fix the links, select a single sheet and click Edit Links.</source>
         <translation>ThisWorkbook</translation>
     </message>
     <message>
-        <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
+        <source>To prevent possible losing data, Kingsoft Spreadsheets cannot shove nonblank cells off the worksheet.
 
 Delete or clear all cells between the end of your data and the last cell. You can locate the last nonblank cell by pressing Ctrl+End and select the area to be deleted, then perform delete or clear.
 
 Or, you can move the last nonblank cells to a new location and try again.</source>
         <comment>TX_InsertRange_LoseData</comment>
-        <translation>為了防止可能的資料遺失，不能移去工作表中的非空白儲存格。
+        <translation type="obsolete">為了防止可能的資料遺失，不能移去工作表中的非空白儲存格。
 請按CTRL+END， 定位最後的非空白儲存格，再刪除或清除在該儲存格後和資料末尾之間儲存格中的所有內容。
 或是，將資料移到新的位置後重試。</translation>
     </message>
@@ -1812,93 +1826,6 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
         <translation>母體變異值</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets</source>
-        <comment>TX_DESC_APP_NAME</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
-        <comment>TX_SheetCopyRemoveInvalid</comment>
-        <translation>WPS Spreadsheets 無法將工作表插入目的地活頁簿，因為它包含的列和欄比來源活頁簿少。若要移動或複製資料至目的地活頁簿，您可以選取資料，然後使用 [複製] 與 [貼上] 命令將它插入另一個活頁簿的工作表。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot complete this task with available resources.
-Choose less data or close other applications.
-
-Continue without Undo?</source>
-        <comment>TX_OPERATION_INADEQUATE_RESOURCES</comment>
-        <translation>WPS表格無法以可用的資源完成工作。請選擇較小的資料或關閉其他應用程式。
-
-繼續執行而不要復原?</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
-
-·If you want the first row of the selection or list used as labels and not as data, click OK.
-·If you selected a subset of cells in error, select a single cell, and try the command again.
-·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
-        <comment>TX_ETDataForm_RemindUser</comment>
-        <translation>WPS Spreadsheets 無法判定在您的清單或選取範圍中，是哪一列包含這個命令所需的欄名稱。
-
-·如果您要將選取範圍或清單中的第一列作為標籤而非資料使用，請按一下 [確定]。
-·如果您選取的資料集有誤，請選取單一儲存格，然後再次執行這個命令。
-·若要建立欄標籤，請按一下 [取消]，並在每個資料欄頂端輸入文字標籤。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
-        <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
-        <translation>WPS Spreadsheets 發現系統記憶體不足，無法完成此動作。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
-Please try one of the following.
-•Switch to another user account.
-•Ask its creator to change the permissions control level of this file.
-(%s)</source>
-        <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
-        <translation>WPS Spreadsheets 嘗試開啟此檔案時發現目前使用者權限不足。
-請嘗試下列建議。
-·更換目前使用者為其它使用者。
-·請檔案的建立者改變此檔案的權限控制層級。
-(%s)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
-(%s)</source>
-        <comment>TX_Workbook_OpenPasswordFailure</comment>
-        <translation>密碼不正確，WPS Spreadsheets 無法開啟檔案。
-(%s)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
-
-•Click a single cell, and then paste.
-•Select a rectangle area with the same size and shape, and then paste.</source>
-        <comment>TX_ERROR_INVALIDPASTERG</comment>
-        <translation type="obsolete">WPS Spreadsheets 無法貼上資訊，因為複製區的大小或形狀與貼上區不同。您可嘗試以下的方法：	
-. 選擇單一儲存格，然後貼上。
-. 選擇相同大小及形狀的儲存格範圍，然後貼上。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
-(%s)</source>
-        <comment>TX_Workbook_SaveFailure</comment>
-        <translation>WPS Spreadsheets 無法儲存或建立此檔案。請確定用來儲存檔案的磁碟未滿或沒有損毀。
-(%s)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot save this file due to a file permission error.
-(%s)</source>
-        <comment>TX_Workbook_SaveFailurePermission</comment>
-        <translation>由於檔案認可錯誤，WPS Spreadsheets 無法完成儲存。
-(%s)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets finds nothing to print.</source>
-        <comment>TX_PrintPreview_No_data</comment>
-        <translation>没有發現可以列印的内容。</translation>
-    </message>
-    <message>
         <source>Workbook</source>
         <comment>TX_OnSetHostNames_4</comment>
         <translation>活頁簿</translation>
@@ -1938,16 +1865,16 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
 若要儲存您所做的修改，請按 [確定]，然後選擇功能表 [檔案] [另存新檔]，再將此共用活頁簿以另一個檔名儲存。下次您可以再開啟原來的共用活頁簿，且併入您在新活頁簿中所做的修改。</translation>
     </message>
     <message>
-        <source>You are opening a shared Excel workbook that updates at intervals. WPS Spreadsheets does not support this format.
-Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
+        <source>You are opening a shared Excel workbook that updates at intervals. Kingsoft Spreadsheets does not support this format.
+Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with Kingsoft Spreadsheets.</source>
         <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
-        <translation>您正在開啟一個 Excel 定時更新的共用活頁簿。WPS Spreadsheets 不支援此類型的檔案。
-請先用 Microsoft Excel 開啟該檔案，並執行 [儲存]，再嘗試用 WPS Spreadsheets 開啟。</translation>
+        <translation type="obsolete">您正在開啟一個 Excel 定時更新的共用活頁簿。Kingsoft Spreadsheets 不支援此類型的檔案。
+請先用 Microsoft Excel 開啟該檔案，並執行 [儲存]，再嘗試用 Kingsoft Spreadsheets 開啟。</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataForm_ArraryFormula</comment>
-        <translation type="unfinished">您無法變更陣列中的一部分。</translation>
+        <translation>您無法變更陣列中的一部分。</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
@@ -1955,9 +1882,9 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <translation>您無法變更陣列中的一部分。</translation>
     </message>
     <message>
-        <source>You cannot open the shared workbook with WPS Spreadsheets and you can only open it with Read-only mode.</source>
+        <source>You cannot open the shared workbook with Kingsoft Spreadsheets and you can only open it with Read-only mode.</source>
         <comment>TX_ShareWorkbook_Xlsx</comment>
-        <translation>由於目前 WPS Spreadsheets 无法将此活頁簿以共用活頁簿方式開啟，因此它将以唯讀方式開啟。</translation>
+        <translation type="obsolete">由於目前 Kingsoft Spreadsheets 无法将此活頁簿以共用活頁簿方式開啟，因此它将以唯讀方式開啟。</translation>
     </message>
     <message>
         <source>You cannot use this command on a list or range that contains merged cells.</source>
@@ -2046,22 +1973,399 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <translation>· 確認活頁簿名稱不可為空白。</translation>
     </message>
     <message>
+        <source>%s on %s</source>
+        <comment>TX_ACTIVE_PRINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown printer (check your Control Panel)</source>
+        <comment>TX_UNKNOWN_PRINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation type="obsolete">&quot;US$&quot;#,##0_);(&quot;US$&quot;#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation type="obsolete">&quot;US$&quot;#,##0_);[Red](&quot;US$&quot;#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation type="obsolete">&quot;US$&quot;#,##0.00_);(&quot;US$&quot;#,##0.00)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation type="obsolete">&quot;US$&quot;#,##0.00_);[Red](&quot;US$&quot;#,##0.00)</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation>[$-404]m/d/e</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <translation>[$-404]m&quot;月&quot;d&quot;日&quot;e&quot;年&quot;</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation>m/d/yy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation>m&quot;月&quot;d&quot;日&quot;yyyy&quot;年&quot;</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation>h&quot;時&quot;mm&quot;分&quot;</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation>h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation>上午/下午h&quot;時&quot;mm&quot;分&quot;</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation>上午/下午h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TX_NUMFMTApi_BuildIn_00</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_02</comment>
+        <translation>0.00</translation>
+    </message>
+    <message>
+        <source>#,##0</source>
+        <comment>TX_NUMFMTApi_BuildIn_03</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_04</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>0.00%</source>
+        <comment>TX_NUMFMTApi_BuildIn_10</comment>
+        <translation>0.00%</translation>
+    </message>
+    <message>
+        <source>0.00E+00</source>
+        <comment>TX_NUMFMTApi_BuildIn_11</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>d-mmm-yy</source>
+        <comment>TX_NUMFMTApi_BuildIn_15</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>d-mmm</source>
+        <comment>TX_NUMFMTApi_BuildIn_16</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_20</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_21</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>mm:ss.0</source>
+        <comment>TX_NUMFMTApi_BuildIn_45</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>##0.0E+0</source>
+        <comment>TX_NUMFMTApi_BuildIn_48</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);(\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);[Red](\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);(\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_41</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_42</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_43</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_44</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data source contains no visible form</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="obsolete">數據源中沒有包含可見的表格</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>TX_DESC_APP_NAME</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Spreadsheets opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.	
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>TX_Workbook_OpenFailure</comment>
+        <translation>WPS Spreadsheets 嘗試開啟此檔案時發生錯誤。
+請嘗試下列建議。
+·檢查您對此文件在磁碟上的權限。
+·確保記憶體或磁碟空間足夠。	
+·確保此檔案是可以辨識的格式。
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permissions control level of this file.
+(%s)</source>
+        <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
+        <translation>WPS Spreadsheets 嘗試開啟此檔案時發現目前使用者權限不足。
+請嘗試下列建議。
+·更換目前使用者為其它使用者。
+·請檔案的建立者改變此檔案的權限控制層級。
+(%s)</translation>
+    </message>
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
-        <translation type="unfinished">WPS Spreadsheets 嘗試開啟此檔案時發生錯誤。
+        <translation>WPS Spreadsheets 嘗試開啟此檔案時發生錯誤。
 請嘗試下列建議。
 ·WPS Spreadsheets 的目前版本不支援此檔案所具有的權限控制層級，請升級到最新版本。
 ·請檔案的建立者將此檔案的權限控制層級改變為完全控制層級。
 (%s)</translation>
     </message>
     <message>
+        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>TX_Workbook_OpenPasswordFailure</comment>
+        <translation>密碼不正確，WPS Spreadsheets 無法開啟檔案。
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
+(%s)</source>
+        <comment>TX_Workbook_SaveFailure</comment>
+        <translation>WPS Spreadsheets 無法儲存或建立此檔案。請確定用來儲存檔案的磁碟未滿或沒有損毀。
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot save this file due to a file permission error.
+(%s)</source>
+        <comment>TX_Workbook_SaveFailurePermission</comment>
+        <translation>由於檔案認可錯誤，WPS Spreadsheets 無法完成儲存。
+(%s)</translation>
+    </message>
+    <message>
+        <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
+        <comment>TxDesc_AllETFiles</comment>
+        <translation>所有 WPS Spreadsheets 檔案(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
+    </message>
+    <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation type="unfinished">“%s” 是唯讀檔案，若要儲存為複本，請按 [確定]，然後在 [另存新檔] 對話方塊中，指定一個新檔名。</translation>
+        <translation>“%s” 是唯讀檔案，若要儲存為複本，請按 [確定]，然後在 [另存新檔] 對話方塊中，指定一個新檔名。</translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
+•Undo the previous operations and save it. 
+•Save it as text file. 
+•Copy/paste the contents to a new document. 
+•Give up the changes to this file.</source>
+        <comment>TX_Cannot_Write_File_Unknown_Error</comment>
+        <translation>WPS Spreadsheets 在進行儲存動作時發生錯誤! 您可以嘗試以下動作：
+·[撤消] 之前的動作，然後執行 [儲存] 。
+·[另存新檔] 純文字檔案(*.txt)。
+·將内容[複製/貼上]到新檔案。
+·放棄對檔案的變更。
+(%s)</translation>
+    </message>
+    <message>
+        <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
+
+Delete or clear all cells between the end of your data and the last cell. You can locate the last nonblank cell by pressing Ctrl+End and select the area to be deleted, then perform delete or clear.
+
+Or, you can move the last nonblank cells to a new location and try again.</source>
+        <comment>TX_InsertRange_LoseData</comment>
+        <translation>為了防止可能的資料遺失，不能移去工作表中的非空白儲存格。
+請按CTRL+END， 定位最後的非空白儲存格，再刪除或清除在該儲存格後和資料末尾之間儲存格中的所有內容。
+或是，將資料移到新的位置後重試。</translation>
+    </message>
+    <message>
+        <source>A workbook must contain at least one visible worksheet. 
+
+To hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
+        <comment>TX_Sheet_DEL_OneSheet_ET</comment>
+        <translation>活頁簿內至少須有一張未隱藏的工作表。
+若要隱藏、刪除、或移動工作表，您要先插入一張新的工作表，或是將一張工作表取消隱藏（如果先前有隱藏工作表的話）。</translation>
+    </message>
+    <message>
+        <source>There are links to other data sources in this workbook.
+
+•If you update the links, WPS Spreadsheets will try to get the latest data.
+•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
+
+Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
+        <comment>TX_NeedToUpdateExternalDataLink</comment>
+        <translation>此活頁簿包含與其他資料來源的連結。是否更新?
+
+. 若更新連結，WPS Spreadsheets 將會嘗試擷取最新的資料。
+· 若不要更新連結，WPS Spreadsheets 將採用先前的資訊。
+
+請注意，資料連結可在未得到您的許可下，被用於存取及共用機密資料，可能會被用於執行其他有害動作。如果您並不信任此活頁簿的來源，請不要更新連結。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets finds nothing to print.</source>
+        <comment>TX_PrintPreview_No_data</comment>
+        <translation>没有發現可以列印的内容。</translation>
+    </message>
+    <message>
+        <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
+        <comment>TX_RenameSheet_Error2</comment>
+        <translation>無法將工作表命名為這個名稱，已經有其他的工作表、被參照到的物件函數庫、或是在VB中參考到的活頁簿等，使用了這個名稱。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
+        <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
+        <translation>WPS Spreadsheets 發現系統記憶體不足，無法完成此動作。</translation>
+    </message>
+    <message>
+        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
+• Click a single cell, and then paste.
+• Select a rectangle that&apos;s the same size and shape, and then paste.</source>
+        <comment>TX_ERROR_INVALIDPASTERG</comment>
+        <translation>WPS Spreadsheets 無法貼上資訊，因為複製區的大小或形狀與貼上區不同。您可嘗試以下的方法：	
+. 選擇單一儲存格，然後貼上。
+. 選擇相同大小及形狀的儲存格範圍，然後貼上。</translation>
+    </message>
+    <message>
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
+If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
+        <comment>TX_Open_File_Isnot_Exist</comment>
+        <translation>無法找到“%s”。請檢查檔案名稱的拼字，並檢查檔案位置是否正確。
+如果你正試圖從“檔案”選單上最近使用的檔案清單中開啟檔案，請確認檔案未被重新命名、移動或刪除。</translation>
+    </message>
+    <message>
+        <source>Some formulas or names of this file contain the built-in functions which WPS Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
+</source>
+        <comment>TX_Open_File_UnkBuildInFunction_In_File</comment>
+        <translation>本檔案中的某些公式或名稱包含有下列 WPS Spreadsheets 不支援的内建函數，重算這些公式或名稱可能導致結果不正確：
+</translation>
+    </message>
+    <message>
+        <source>Some formulas or names of this file contain the user-defined functions which WPS Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
+</source>
+        <comment>TX_Open_File_UnkCustomFunction_In_File</comment>
+        <translation>本檔案中的某些公式或名稱包含有下列 WPS Spreadsheets 不支援的自訂函數，重算這些公式或名稱可能導致結果不正確：
+</translation>
     </message>
     <message>
         <source>Due to the following reasons, macros codes in this file will be lost. Do you still want to save it?
@@ -2069,15 +2373,196 @@ Please try one of the following.
 1.Changes you made to this file cause the macros to be re-organized.
 2.You didn&apos;t install the necessary environment to run macros.</source>
         <comment>TX_Macro_Lost_On_NoneKDE_Env</comment>
-        <translation type="unfinished">由於以下原因，檔案中的巨集代碼將被遺失，是否繼續儲存?
+        <translation>由於以下原因，檔案中的巨集代碼將被遺失，是否繼續儲存?
 
 1.您對本檔案的修改導致原有的巨集代碼必須重新組織
 2.您没有安裝支援巨集代碼執行的必要環境</translation>
     </message>
     <message>
+        <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+        <translation>常用檔案(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets檔案(*.et)|*.et|Microsoft Excel檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
+        <translation type="unfinished">常用檔案(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets 檔案(*.et)|*.et|WPS Spreadsheets 檔案(*.etx)|*.etx|Microsoft Excel 檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
+    </message>
+    <message>
         <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
         <comment>TX_TextToColumns_Tip1</comment>
-        <translation type="unfinished">目標儲存格可能含有資料,繼續可能會造成資料遺失,是否繼續</translation>
+        <translation>目標儲存格可能含有資料,繼續可能會造成資料遺失,是否繼續</translation>
+    </message>
+    <message>
+        <source>The data not within the worksheet will be lost.</source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation>資料長度超出工作表外,會遺失部分資料</translation>
+    </message>
+    <message>
+        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
+• To save it on the Clipboard so that you can paste it later, click Yes.
+• To delete it from the Clipboard and free memory, click No.</source>
+        <comment>TX_WARNING_Large_Clipboard</comment>
+        <translation>剪貼簿中含有大量資料。您以後還會用到嗎?
+·若要保存剪貼簿中的資料，以便待會使用，請按 [是] 。
+·若要刪除剪貼簿的資料，釋放所佔的記憶體，請按 [否] 。</translation>
+    </message>
+    <message>
+        <source>There are too many blank cells in WPS Spreadsheets and part of them have been deleted.</source>
+        <comment>TX_LosePartBlankCells</comment>
+        <translation>WPS Spreadsheets 發現該檔案有過多的空儲存格，有部分空儲存格已經刪除。</translation>
+    </message>
+    <message>
+        <source>The date you entered is not a valid date. Please try again.</source>
+        <comment>TX_ShareWorkbook_MsgInvalidDate</comment>
+        <translation>輸入日期不正確，請重新輸入。</translation>
+    </message>
+    <message>
+        <source>You are opening a shared Excel workbook that updates at intervals. WPS Spreadsheets does not support this format.
+Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
+        <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
+        <translation>您正在開啟一個 Excel 定時更新的共用活頁簿。WPS Spreadsheets 不支援此類型的檔案。
+請先用 Microsoft Excel 開啟該檔案，並執行 [儲存]，再嘗試用 WPS Spreadsheets 開啟。</translation>
+    </message>
+    <message>
+        <source>The function you are using is invalid in WPS Spreadsheets.</source>
+        <comment>TX_FunctionInvalid</comment>
+        <translation>當前所使用的函數在 WPS Spreadsheets 中无效。</translation>
+    </message>
+    <message>
+        <source>You cannot open the shared workbook with WPS Spreadsheets and you can only open it with Read-only mode.</source>
+        <comment>TX_ShareWorkbook_Xlsx</comment>
+        <translation>由於目前 WPS Spreadsheets 无法将此活頁簿以共用活頁簿方式開啟，因此它将以唯讀方式開啟。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
+
+·If you want the first row of the selection or list used as labels and not as data, click OK.
+·If you selected a subset of cells in error, select a single cell, and try the command again.
+·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
+        <comment>TX_ETDataForm_RemindUser</comment>
+        <translation>WPS Spreadsheets 無法判定在您的清單或選取範圍中，是哪一列包含這個命令所需的欄名稱。
+
+·如果您要將選取範圍或清單中的第一列作為標籤而非資料使用，請按一下 [確定]。
+·如果您選取的資料集有誤，請選取單一儲存格，然後再次執行這個命令。
+·若要建立欄標籤，請按一下 [取消]，並在每個資料欄頂端輸入文字標籤。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
+        <comment>TX_SheetCopyRemoveInvalid</comment>
+        <translation>WPS Spreadsheets 無法將工作表插入目的地活頁簿，因為它包含的列和欄比來源活頁簿少。若要移動或複製資料至目的地活頁簿，您可以選取資料，然後使用 [複製] 與 [貼上] 命令將它插入另一個活頁簿的工作表。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot complete this task with available resources.
+Choose less data or close other applications.
+
+Continue without Undo?</source>
+        <comment>TX_OPERATION_INADEQUATE_RESOURCES</comment>
+        <translation>WPS表格無法以可用的資源完成工作。請選擇較小的資料或關閉其他應用程式。
+
+繼續執行而不要復原?</translation>
+    </message>
+    <message>
+        <source>Text date with 2 digit years</source>
+        <comment>TX_ERRORCHECK_ERR_TextDate</comment>
+        <translation>Text Date with 2-Digit Year</translation>
+    </message>
+    <message>
+        <source>Copy Formul&amp;a from Left</source>
+        <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
+        <translation>Copy Formula from &amp;Left</translation>
+    </message>
+    <message>
+        <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is read-only.  If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
+        <comment>TX_Cannot_Write_Readonly_File</comment>
+        <translation type="obsolete">“%s” 是唯讀檔案，若要儲存為複本，請按 [確定]，然後在 [另存新檔] 對話方塊中，指定一個新檔名。</translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Spreadsheets opening this file.
+Please try one of the following.
+•The current version of WPS Spreadsheets does not support this file&apos;s permission contorl level, please update to the latest version.
+•Ask its creator to change the permission control level as full control level.
+(%s)</source>
+        <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
+        <translation type="obsolete">WPS Spreadsheets 嘗試開啟此檔案時發生錯誤。
+請嘗試下列建議。
+·WPS Spreadsheets 的目前版本不支援此檔案所具有的權限控制層級，請升級到最新版本。
+·請檔案的建立者將此檔案的權限控制層級改變為完全控制層級。
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
+
+•Click a single cell, and then paste.
+•Select a rectangle area with the same size and shape, and then paste.</source>
+        <comment>TX_ERROR_INVALIDPASTERG</comment>
+        <translation type="obsolete">WPS Spreadsheets 無法貼上資訊，因為複製區的大小或形狀與貼上區不同。您可嘗試以下的方法：	
+. 選擇單一儲存格，然後貼上。
+. 選擇相同大小及形狀的儲存格範圍，然後貼上。</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)| *.*</source>
+        <comment>TX_App_GetSaveAsFileName_FileFilter</comment>
+        <translation>所有檔案(*.*)| *.*</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+        <translation>m月d日yyyy年</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+        <translation>h時mm分</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+        <translation>h時mm分ss秒</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+        <translation>上午/下午h時mm分</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+        <translation>上午/下午h時mm分ss秒</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+        <translation>[$-404]m/d/e</translation>
+    </message>
+    <message>
+        <source>m/dd/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+        <translation>[$-404]m月d日e年</translation>
+    </message>
+    <message>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished">數據源中沒有包含可見的表格</translation>
+    </message>
+    <message>
+        <source>Modify existing outline?</source>
+        <comment>TX_ChangeAutoOutline</comment>
+        <translation type="unfinished">修改現有大綱?</translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2345,7 +2830,7 @@ Please try one of the following.
     <message>
         <source>The selected range contains array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation>選取的範圍包含多列陳列公式。</translation>
+        <translation type="obsolete">選取的範圍包含多列陳列公式。</translation>
     </message>
     <message>
         <source>The selected range contains pivotTable.</source>
@@ -2422,6 +2907,26 @@ Please try one of the following.
         <comment>TX_Show_All_DateItems</comment>
         <translation>（顯示全部）</translation>
     </message>
+    <message>
+        <source>You cannot change part of an array.</source>
+        <comment>TX_RepeatWord_ArrayFormula</comment>
+        <translation type="unfinished">您無法變更陣列中的一部分。</translation>
+    </message>
+    <message>
+        <source>Table_</source>
+        <comment>TX_ListObject_NamePrefix</comment>
+        <translation>表格_</translation>
+    </message>
+    <message>
+        <source>No Column has been selected.</source>
+        <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
+        <comment>TX_RepeatWord_Group_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_chart</name>
@@ -2444,1285 +2949,66 @@ Value: </source>
     </message>
 </context>
 <context>
-    <name>et_et_cmdbar</name>
-    <message>
-        <source> </source>
-        <comment>EtCmdBar___254</comment>
-        <translation type="obsolete"> </translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <comment>EtCmdBar__Delete_130</comment>
-        <translation type="obsolete">刪除(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert</source>
-        <comment>EtCmdBar__Insert_129</comment>
-        <translation type="obsolete">插入(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;List</source>
-        <comment>EtCmdBar__List_128</comment>
-        <translation type="obsolete">清單(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;XML</source>
-        <comment>EtCmdBar__XML_159</comment>
-        <translation type="obsolete">XML(&amp;X)</translation>
-    </message>
-    <message>
-        <source>3-D Effect</source>
-        <comment>EtCmdBar_3_D_Effect_212</comment>
-        <translation type="obsolete">立體效果</translation>
-    </message>
-    <message>
-        <source>3-D Lighting</source>
-        <comment>EtCmdBar_3_D_Lighting_217</comment>
-        <translation type="obsolete">立體光源</translation>
-    </message>
-    <message>
-        <source>3-D Settings</source>
-        <comment>EtCmdBar_3_D_Settings_72</comment>
-        <translation type="obsolete">立體設定</translation>
-    </message>
-    <message>
-        <source>3-D Surface Material</source>
-        <comment>EtCmdBar_3_D_Surface_Material_218</comment>
-        <translation type="obsolete">立體表面材質</translation>
-    </message>
-    <message>
-        <source>ActiveX Control</source>
-        <comment>EtCmdBar_ActiveX_Control_111</comment>
-        <translation type="obsolete">ActiveX 控制項</translation>
-    </message>
-    <message>
-        <source>Add Command</source>
-        <comment>EtCmdBar_Add_Command_230</comment>
-        <translation type="obsolete">新增指令</translation>
-    </message>
-    <message>
-        <source>Align or Distribute</source>
-        <comment>EtCmdBar_Align_or_Distribute_191</comment>
-        <translation type="obsolete">對齊或等距分佈</translation>
-    </message>
-    <message>
-        <source>Align or Distribute</source>
-        <comment>EtCmdBar_Align_or_Distribute_92</comment>
-        <translation type="obsolete">對齊或等距分佈</translation>
-    </message>
-    <message>
-        <source>Annotation Pens</source>
-        <comment>EtCmdBar_Annotation_Pens_228</comment>
-        <translation type="obsolete">註釋畫筆</translation>
-    </message>
-    <message>
-        <source>Annotation Pens</source>
-        <comment>EtCmdBar_Annotation_Pens_87</comment>
-        <translation type="obsolete">註釋畫筆</translation>
-    </message>
-    <message>
-        <source>Annotation Pens</source>
-        <comment>EtCmdBar_Annotation_Pens_89</comment>
-        <translation type="obsolete">註釋畫筆</translation>
-    </message>
-    <message>
-        <source>Arrow</source>
-        <comment>EtCmdBar_Arrow_210</comment>
-        <translation type="obsolete">箭頭</translation>
-    </message>
-    <message>
-        <source>Auto Sum</source>
-        <comment>EtCmdBar_Auto_Sum_61</comment>
-        <translation type="obsolete">自動加總</translation>
-    </message>
-    <message>
-        <source>AutoCalculate</source>
-        <comment>EtCmdBar_AutoCalculate_55</comment>
-        <translation type="obsolete">自動計算</translation>
-    </message>
-    <message>
-        <source>AutoFill</source>
-        <comment>EtCmdBar_AutoFill_40</comment>
-        <translation type="obsolete">自動填滿</translation>
-    </message>
-    <message>
-        <source>AutoShapes</source>
-        <comment>EtCmdBar_AutoShapes_199</comment>
-        <translation type="obsolete">快取圖案</translation>
-    </message>
-    <message>
-        <source>AutoShapes</source>
-        <comment>EtCmdBar_AutoShapes_96</comment>
-        <translation type="obsolete">快取圖案</translation>
-    </message>
-    <message>
-        <source>AutoShapes Well</source>
-        <comment>EtCmdBar_AutoShapes_Well_247</comment>
-        <translation type="obsolete">快取圖案</translation>
-    </message>
-    <message>
-        <source>Basic Shapes</source>
-        <comment>EtCmdBar_Basic_Shapes_101</comment>
-        <translation type="obsolete">基本圖案</translation>
-    </message>
-    <message>
-        <source>Basic Shapes</source>
-        <comment>EtCmdBar_Basic_Shapes_202</comment>
-        <translation type="obsolete">基本圖案</translation>
-    </message>
-    <message>
-        <source>Block Arrows</source>
-        <comment>EtCmdBar_Block_Arrows_203</comment>
-        <translation type="obsolete">箭號圖案</translation>
-    </message>
-    <message>
-        <source>Block Arrows</source>
-        <comment>EtCmdBar_Block_Arrows_99</comment>
-        <translation type="obsolete">箭號圖案</translation>
-    </message>
-    <message>
-        <source>Border Color</source>
-        <comment>EtCmdBar_Border_Color_186</comment>
-        <translation type="obsolete">框線色彩</translation>
-    </message>
-    <message>
-        <source>Borders</source>
-        <comment>EtCmdBar_Borders_181</comment>
-        <translation type="obsolete">框線</translation>
-    </message>
-    <message>
-        <source>Borders</source>
-        <comment>EtCmdBar_Borders_21</comment>
-        <translation type="obsolete">框線</translation>
-    </message>
-    <message>
-        <source>Borders</source>
-        <comment>EtCmdBar_Borders_78</comment>
-        <translation type="obsolete">框線</translation>
-    </message>
-    <message>
-        <source>Borders</source>
-        <comment>EtCmdBar_Borders_79</comment>
-        <translation type="obsolete">框線</translation>
-    </message>
-    <message>
-        <source>Built-in Menus</source>
-        <comment>EtCmdBar_Built_in_Menus_240</comment>
-        <translation type="obsolete">內建功能表</translation>
-    </message>
-    <message>
-        <source>Button</source>
-        <comment>EtCmdBar_Button_41</comment>
-        <translation type="obsolete">按鈕</translation>
-    </message>
-    <message>
-        <source>Callouts</source>
-        <comment>EtCmdBar_Callouts_206</comment>
-        <translation type="obsolete">圖說文字</translation>
-    </message>
-    <message>
-        <source>Callouts</source>
-        <comment>EtCmdBar_Callouts_97</comment>
-        <translation type="obsolete">圖說文字</translation>
-    </message>
-    <message>
-        <source>Canvas Popup</source>
-        <comment>EtCmdBar_Canvas_Popup_116</comment>
-        <translation type="obsolete">Canvas Popup</translation>
-    </message>
-    <message>
-        <source>Cell</source>
-        <comment>EtCmdBar_Cell_29</comment>
-        <translation type="obsolete">儲存格</translation>
-    </message>
-    <message>
-        <source>Cell</source>
-        <comment>EtCmdBar_Cell_32</comment>
-        <translation type="obsolete">儲存格</translation>
-    </message>
-    <message>
-        <source>Change AutoShape - Basic Shapes</source>
-        <comment>EtCmdBar_Change_AutoShape___Basic_Shapes_194</comment>
-        <translation type="obsolete">變更快取圖案 - 基本圖案</translation>
-    </message>
-    <message>
-        <source>Change AutoShape - Block Arrows</source>
-        <comment>EtCmdBar_Change_AutoShape___Block_Arrows_195</comment>
-        <translation type="obsolete">變更快取圖案 - 箭號圖案</translation>
-    </message>
-    <message>
-        <source>Change AutoShape - Callouts</source>
-        <comment>EtCmdBar_Change_AutoShape___Callouts_198</comment>
-        <translation type="obsolete">變更快取圖案 -圖說文字</translation>
-    </message>
-    <message>
-        <source>Change AutoShape - Flowchart</source>
-        <comment>EtCmdBar_Change_AutoShape___Flowchart_196</comment>
-        <translation type="obsolete">變更快取圖案 - 流程圖</translation>
-    </message>
-    <message>
-        <source>Change AutoShape - Stars &amp; Banners</source>
-        <comment>EtCmdBar_Change_AutoShape___Stars___Banners_197</comment>
-        <translation type="obsolete">變更快取圖案 - 星星和綵帶</translation>
-    </message>
-    <message>
-        <source>Change Shape</source>
-        <comment>EtCmdBar_Change_Shape_193</comment>
-        <translation type="obsolete">變更圖案</translation>
-    </message>
-    <message>
-        <source>Chart</source>
-        <comment>EtCmdBar_Chart_175</comment>
-        <translation type="obsolete">圖表</translation>
-    </message>
-    <message>
-        <source>Chart</source>
-        <comment>EtCmdBar_Chart_47</comment>
-        <translation type="obsolete">圖表</translation>
-    </message>
-    <message>
-        <source>Chart</source>
-        <comment>EtCmdBar_Chart_6</comment>
-        <translation type="obsolete">圖表</translation>
-    </message>
-    <message>
-        <source>Chart Menu Bar</source>
-        <comment>EtCmdBar_Chart_Menu_Bar_2</comment>
-        <translation type="obsolete">圖表功能表列</translation>
-    </message>
-    <message>
-        <source>Chart Type</source>
-        <comment>EtCmdBar_Chart_Type_184</comment>
-        <translation type="obsolete">圖表類型</translation>
-    </message>
-    <message>
-        <source>Chart Type</source>
-        <comment>EtCmdBar_Chart_Type_81</comment>
-        <translation type="obsolete">圖表類型</translation>
-    </message>
-    <message>
-        <source>Charting Well</source>
-        <comment>EtCmdBar_Charting_Well_245</comment>
-        <translation type="obsolete">圖表</translation>
-    </message>
-    <message>
-        <source>Circular Reference</source>
-        <comment>EtCmdBar_Circular_Reference_13</comment>
-        <translation type="obsolete">循環參照</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <comment>EtCmdBar_Clear_136</comment>
-        <translation type="obsolete">清除</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <comment>EtCmdBar_Clear_164</comment>
-        <translation type="obsolete">清除</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <comment>EtCmdBar_Clipboard_250</comment>
-        <translation type="obsolete">剪貼簿</translation>
-    </message>
-    <message>
-        <source>Column</source>
-        <comment>EtCmdBar_Column_144</comment>
-        <translation type="obsolete">欄</translation>
-    </message>
-    <message>
-        <source>Column</source>
-        <comment>EtCmdBar_Column_30</comment>
-        <translation type="obsolete">欄</translation>
-    </message>
-    <message>
-        <source>Column</source>
-        <comment>EtCmdBar_Column_33</comment>
-        <translation type="obsolete">欄</translation>
-    </message>
-    <message>
-        <source>Compare Side by Side</source>
-        <comment>EtCmdBar_Compare_Side_by_Side_25</comment>
-        <translation type="obsolete">並排比較</translation>
-    </message>
-    <message>
-        <source>Connector</source>
-        <comment>EtCmdBar_Connector_114</comment>
-        <translation type="obsolete">連接線</translation>
-    </message>
-    <message>
-        <source>Connectors</source>
-        <comment>EtCmdBar_Connectors_201</comment>
-        <translation type="obsolete">連接線</translation>
-    </message>
-    <message>
-        <source>Connectors</source>
-        <comment>EtCmdBar_Connectors_95</comment>
-        <translation type="obsolete">連接線</translation>
-    </message>
-    <message>
-        <source>Control Toolbox</source>
-        <comment>EtCmdBar_Control_Toolbox_16</comment>
-        <translation type="obsolete">控制工具箱</translation>
-    </message>
-    <message>
-        <source>Control Toolbox Well</source>
-        <comment>EtCmdBar_Control_Toolbox_Well_248</comment>
-        <translation type="obsolete">控制工具箱</translation>
-    </message>
-    <message>
-        <source>Convert Diagram</source>
-        <comment>EtCmdBar_Convert_Diagram_225</comment>
-        <translation type="obsolete">轉換圖表</translation>
-    </message>
-    <message>
-        <source>Curve</source>
-        <comment>EtCmdBar_Curve_106</comment>
-        <translation type="obsolete">曲線</translation>
-    </message>
-    <message>
-        <source>Curve Node</source>
-        <comment>EtCmdBar_Curve_Node_107</comment>
-        <translation type="obsolete">曲線節點</translation>
-    </message>
-    <message>
-        <source>Curve Segment</source>
-        <comment>EtCmdBar_Curve_Segment_108</comment>
-        <translation type="obsolete">曲線片段</translation>
-    </message>
-    <message>
-        <source>Data</source>
-        <comment>EtCmdBar_Data_160</comment>
-        <translation type="obsolete">資料</translation>
-    </message>
-    <message>
-        <source>Data Well</source>
-        <comment>EtCmdBar_Data_Well_243</comment>
-        <translation type="obsolete">資料</translation>
-    </message>
-    <message>
-        <source>Desktop</source>
-        <comment>EtCmdBar_Desktop_38</comment>
-        <translation type="obsolete">桌面</translation>
-    </message>
-    <message>
-        <source>Diagram</source>
-        <comment>EtCmdBar_Diagram_118</comment>
-        <translation type="obsolete">資料庫圖表</translation>
-    </message>
-    <message>
-        <source>Diagram</source>
-        <comment>EtCmdBar_Diagram_75</comment>
-        <translation type="obsolete">資料庫圖表</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <comment>EtCmdBar_Dialog_42</comment>
-        <translation type="obsolete">對話方塊</translation>
-    </message>
-    <message>
-        <source>Document</source>
-        <comment>EtCmdBar_Document_37</comment>
-        <translation type="obsolete">文件</translation>
-    </message>
-    <message>
-        <source>Draw</source>
-        <comment>EtCmdBar_Draw_187</comment>
-        <translation type="obsolete">繪圖</translation>
-    </message>
-    <message>
-        <source>Draw Border</source>
-        <comment>EtCmdBar_Draw_Border_185</comment>
-        <translation type="obsolete">繪製框線</translation>
-    </message>
-    <message>
-        <source>Draw Border</source>
-        <comment>EtCmdBar_Draw_Border_80</comment>
-        <translation type="obsolete">繪製框線</translation>
-    </message>
-    <message>
-        <source>Drawing</source>
-        <comment>EtCmdBar_Drawing_26</comment>
-        <translation type="obsolete">繪圖</translation>
-    </message>
-    <message>
-        <source>Drawing Canvas</source>
-        <comment>EtCmdBar_Drawing_Canvas_73</comment>
-        <translation type="obsolete">繪圖畫布</translation>
-    </message>
-    <message>
-        <source>Drawing Well</source>
-        <comment>EtCmdBar_Drawing_Well_238</comment>
-        <translation type="obsolete">繪圖</translation>
-    </message>
-    <message>
-        <source>Drawing and Writing Pens</source>
-        <comment>EtCmdBar_Drawing_and_Writing_Pens_227</comment>
-        <translation type="obsolete">畫筆及手寫筆</translation>
-    </message>
-    <message>
-        <source>Drawing and Writing Pens</source>
-        <comment>EtCmdBar_Drawing_and_Writing_Pens_86</comment>
-        <translation type="obsolete">畫筆及手寫筆</translation>
-    </message>
-    <message>
-        <source>Drawing and Writing Pens</source>
-        <comment>EtCmdBar_Drawing_and_Writing_Pens_88</comment>
-        <translation type="obsolete">畫筆及手寫筆</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <comment>EtCmdBar_Edit_138</comment>
-        <translation type="obsolete">編輯</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <comment>EtCmdBar_Edit_165</comment>
-        <translation type="obsolete">編輯</translation>
-    </message>
-    <message>
-        <source>Edit Well</source>
-        <comment>EtCmdBar_Edit_Well_233</comment>
-        <translation type="obsolete">編輯</translation>
-    </message>
-    <message>
-        <source>Envelope</source>
-        <comment>EtCmdBar_Envelope_252</comment>
-        <translation type="obsolete">信封</translation>
-    </message>
-    <message>
-        <source>Excel Control</source>
-        <comment>EtCmdBar_Excel_Control_105</comment>
-        <translation type="obsolete">Excel 控制項</translation>
-    </message>
-    <message>
-        <source>Exit Design Mode</source>
-        <comment>EtCmdBar_Exit_Design_Mode_17</comment>
-        <translation type="obsolete">結束設計模式</translation>
-    </message>
-    <message>
-        <source>External Data</source>
-        <comment>EtCmdBar_External_Data_10</comment>
-        <translation type="obsolete">外部資料</translation>
-    </message>
-    <message>
-        <source>Extrusion Color</source>
-        <comment>EtCmdBar_Extrusion_Color_219</comment>
-        <translation type="obsolete">立體化色彩</translation>
-    </message>
-    <message>
-        <source>Extrusion Depth</source>
-        <comment>EtCmdBar_Extrusion_Depth_215</comment>
-        <translation type="obsolete">立體化深度</translation>
-    </message>
-    <message>
-        <source>Extrusion Direction</source>
-        <comment>EtCmdBar_Extrusion_Direction_216</comment>
-        <translation type="obsolete">立體化方向</translation>
-    </message>
-    <message>
-        <source>Favorites</source>
-        <comment>EtCmdBar_Favorites_241</comment>
-        <translation type="obsolete">我的最愛</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <comment>EtCmdBar_File_134</comment>
-        <translation type="obsolete">檔案</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <comment>EtCmdBar_File_163</comment>
-        <translation type="obsolete">檔案</translation>
-    </message>
-    <message>
-        <source>File Well</source>
-        <comment>EtCmdBar_File_Well_232</comment>
-        <translation type="obsolete">檔案</translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <comment>EtCmdBar_Fill_135</comment>
-        <translation type="obsolete">填滿</translation>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <comment>EtCmdBar_Fill_Color_182</comment>
-        <translation type="obsolete">填滿色彩</translation>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <comment>EtCmdBar_Fill_Color_84</comment>
-        <translation type="obsolete">填滿色彩</translation>
-    </message>
-    <message>
-        <source>Filter Menu</source>
-        <comment>EtCmdBar_Filter_Menu_155</comment>
-        <translation type="obsolete">篩選功能表</translation>
-    </message>
-    <message>
-        <source>Find Format</source>
-        <comment>EtCmdBar_Find_Format_63</comment>
-        <translation type="obsolete">尋找格式</translation>
-    </message>
-    <message>
-        <source>Floor and Walls</source>
-        <comment>EtCmdBar_Floor_and_Walls_45</comment>
-        <translation type="obsolete">底板及背景牆</translation>
-    </message>
-    <message>
-        <source>Flowchart</source>
-        <comment>EtCmdBar_Flowchart_204</comment>
-        <translation type="obsolete">流程圖</translation>
-    </message>
-    <message>
-        <source>Flowchart</source>
-        <comment>EtCmdBar_Flowchart_98</comment>
-        <translation type="obsolete">流程圖</translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <comment>EtCmdBar_Font_Color_183</comment>
-        <translation type="obsolete">字型色彩</translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <comment>EtCmdBar_Font_Color_83</comment>
-        <translation type="obsolete">字型色彩</translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <comment>EtCmdBar_Format_147</comment>
-        <translation type="obsolete">格式</translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <comment>EtCmdBar_Format_170</comment>
-        <translation type="obsolete">格式</translation>
-    </message>
-    <message>
-        <source>Format Axis</source>
-        <comment>EtCmdBar_Format_Axis_49</comment>
-        <translation type="obsolete">格式化座標軸</translation>
-    </message>
-    <message>
-        <source>Format Data Series</source>
-        <comment>EtCmdBar_Format_Data_Series_48</comment>
-        <translation type="obsolete">格式化資料數列</translation>
-    </message>
-    <message>
-        <source>Format Legend Entry</source>
-        <comment>EtCmdBar_Format_Legend_Entry_50</comment>
-        <translation type="obsolete">格式化圖例項目</translation>
-    </message>
-    <message>
-        <source>Format Well</source>
-        <comment>EtCmdBar_Format_Well_236</comment>
-        <translation type="obsolete">格式</translation>
-    </message>
-    <message>
-        <source>Formatting</source>
-        <comment>EtCmdBar_Formatting_4</comment>
-        <translation type="obsolete">格式</translation>
-    </message>
-    <message>
-        <source>Forms</source>
-        <comment>EtCmdBar_Forms_8</comment>
-        <translation type="obsolete">表單</translation>
-    </message>
-    <message>
-        <source>Forms Well</source>
-        <comment>EtCmdBar_Forms_Well_246</comment>
-        <translation type="obsolete">表單</translation>
-    </message>
-    <message>
-        <source>Formula</source>
-        <comment>EtCmdBar_Formula_178</comment>
-        <translation type="obsolete">公式</translation>
-    </message>
-    <message>
-        <source>Formula Auditing</source>
-        <comment>EtCmdBar_Formula_Auditing_11</comment>
-        <translation type="obsolete">公式稽核</translation>
-    </message>
-    <message>
-        <source>Formula Auditing</source>
-        <comment>EtCmdBar_Formula_Auditing_152</comment>
-        <translation type="obsolete">公式稽核</translation>
-    </message>
-    <message>
-        <source>Formula Bar</source>
-        <comment>EtCmdBar_Formula_Bar_51</comment>
-        <translation type="obsolete">資料編輯列</translation>
-    </message>
-    <message>
-        <source>Full Screen</source>
-        <comment>EtCmdBar_Full_Screen_12</comment>
-        <translation type="obsolete">全螢幕</translation>
-    </message>
-    <message>
-        <source>Get External Data</source>
-        <comment>EtCmdBar_Get_External_Data_157</comment>
-        <translation type="obsolete">取得外部資料</translation>
-    </message>
-    <message>
-        <source>Group and Outline</source>
-        <comment>EtCmdBar_Group_and_Outline_126</comment>
-        <translation type="obsolete">群組及大綱</translation>
-    </message>
-    <message>
-        <source>Group and Outline</source>
-        <comment>EtCmdBar_Group_and_Outline_156</comment>
-        <translation type="obsolete">群組及大綱</translation>
-    </message>
-    <message>
-        <source>Group and Outline</source>
-        <comment>EtCmdBar_Group_and_Outline_179</comment>
-        <translation type="obsolete">群組及大綱</translation>
-    </message>
-    <message>
-        <source>Grouping</source>
-        <comment>EtCmdBar_Grouping_180</comment>
-        <translation type="obsolete">群組</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <comment>EtCmdBar_Help_162</comment>
-        <translation type="obsolete">說明</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <comment>EtCmdBar_Help_177</comment>
-        <translation type="obsolete">說明</translation>
-    </message>
-    <message>
-        <source>Image Control</source>
-        <comment>EtCmdBar_Image_Control_223</comment>
-        <translation type="obsolete">圖像控制</translation>
-    </message>
-    <message>
-        <source>Inactive Chart</source>
-        <comment>EtCmdBar_Inactive_Chart_104</comment>
-        <translation type="obsolete">非使用中圖表</translation>
-    </message>
-    <message>
-        <source>Ink Annotations</source>
-        <comment>EtCmdBar_Ink_Annotations_77</comment>
-        <translation type="obsolete">筆跡標註</translation>
-    </message>
-    <message>
-        <source>Ink Drawing and Writing</source>
-        <comment>EtCmdBar_Ink_Drawing_and_Writing_76</comment>
-        <translation type="obsolete">手繪圖案及筆跡</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <comment>EtCmdBar_Insert_123</comment>
-        <translation type="obsolete">插入</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <comment>EtCmdBar_Insert_142</comment>
-        <translation type="obsolete">插入</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <comment>EtCmdBar_Insert_168</comment>
-        <translation type="obsolete">插入</translation>
-    </message>
-    <message>
-        <source>Insert Shape</source>
-        <comment>EtCmdBar_Insert_Shape_102</comment>
-        <translation type="obsolete">插入圖案</translation>
-    </message>
-    <message>
-        <source>Insert Shape</source>
-        <comment>EtCmdBar_Insert_Shape_226</comment>
-        <translation type="obsolete">插入圖案</translation>
-    </message>
-    <message>
-        <source>Insert Well</source>
-        <comment>EtCmdBar_Insert_Well_235</comment>
-        <translation type="obsolete">插入</translation>
-    </message>
-    <message>
-        <source>L&amp;ist</source>
-        <comment>EtCmdBar_L_ist_158</comment>
-        <translation type="obsolete">清單(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Layout</source>
-        <comment>EtCmdBar_Layout_120</comment>
-        <translation type="obsolete">版面配置</translation>
-    </message>
-    <message>
-        <source>Layout</source>
-        <comment>EtCmdBar_Layout_224</comment>
-        <translation type="obsolete">版面配置</translation>
-    </message>
-    <message>
-        <source>Layout</source>
-        <comment>EtCmdBar_Layout_58</comment>
-        <translation type="obsolete">版面配置</translation>
-    </message>
-    <message>
-        <source>Line Color</source>
-        <comment>EtCmdBar_Line_Color_207</comment>
-        <translation type="obsolete">線條色彩</translation>
-    </message>
-    <message>
-        <source>Line Color</source>
-        <comment>EtCmdBar_Line_Color_85</comment>
-        <translation type="obsolete">線條色彩</translation>
-    </message>
-    <message>
-        <source>Line Dash</source>
-        <comment>EtCmdBar_Line_Dash_209</comment>
-        <translation type="obsolete">虛線</translation>
-    </message>
-    <message>
-        <source>Line Width</source>
-        <comment>EtCmdBar_Line_Width_208</comment>
-        <translation type="obsolete">線條寬度</translation>
-    </message>
-    <message>
-        <source>Lines</source>
-        <comment>EtCmdBar_Lines_200</comment>
-        <translation type="obsolete">線條</translation>
-    </message>
-    <message>
-        <source>Lines</source>
-        <comment>EtCmdBar_Lines_94</comment>
-        <translation type="obsolete">線條</translation>
-    </message>
-    <message>
-        <source>List</source>
-        <comment>EtCmdBar_List_24</comment>
-        <translation type="obsolete">清單</translation>
-    </message>
-    <message>
-        <source>List Range Layout Popup</source>
-        <comment>EtCmdBar_List_Range_Layout_Popup_66</comment>
-        <translation type="obsolete">列出範圍版面配置快顯功能表</translation>
-    </message>
-    <message>
-        <source>List Range Layout Popup</source>
-        <comment>EtCmdBar_List_Range_Layout_Popup_68</comment>
-        <translation type="obsolete">列出範圍版面配置快顯功能表</translation>
-    </message>
-    <message>
-        <source>List Range Popup</source>
-        <comment>EtCmdBar_List_Range_Popup_65</comment>
-        <translation type="obsolete">清單範圍快顯功能表</translation>
-    </message>
-    <message>
-        <source>Macro</source>
-        <comment>EtCmdBar_Macro_153</comment>
-        <translation type="obsolete">巨集</translation>
-    </message>
-    <message>
-        <source>Macro</source>
-        <comment>EtCmdBar_Macro_173</comment>
-        <translation type="obsolete">巨集</translation>
-    </message>
-    <message>
-        <source>Macro Well</source>
-        <comment>EtCmdBar_Macro_Well_239</comment>
-        <translation type="obsolete">Macro Well</translation>
-    </message>
-    <message>
-        <source>Names</source>
-        <comment>EtCmdBar_Names_140</comment>
-        <translation type="obsolete">名稱</translation>
-    </message>
-    <message>
-        <source>Nondefault Drag and Drop</source>
-        <comment>EtCmdBar_Nondefault_Drag_and_Drop_39</comment>
-        <translation type="obsolete">非預設拖放功能</translation>
-    </message>
-    <message>
-        <source>NotesFlow</source>
-        <comment>EtCmdBar_NotesFlow_231</comment>
-        <translation type="obsolete">NotesFlow</translation>
-    </message>
-    <message>
-        <source>Nudge</source>
-        <comment>EtCmdBar_Nudge_190</comment>
-        <translation type="obsolete">微調</translation>
-    </message>
-    <message>
-        <source>Nudge</source>
-        <comment>EtCmdBar_Nudge_91</comment>
-        <translation type="obsolete">微調</translation>
-    </message>
-    <message>
-        <source>OLE Object</source>
-        <comment>EtCmdBar_OLE_Object_110</comment>
-        <translation type="obsolete">OLE 物件</translation>
-    </message>
-    <message>
-        <source>Object</source>
-        <comment>EtCmdBar_Object_137</comment>
-        <translation type="obsolete">物件</translation>
-    </message>
-    <message>
-        <source>Object/Plot</source>
-        <comment>EtCmdBar_Object_Plot_56</comment>
-        <translation type="obsolete">物件/繪圖區</translation>
-    </message>
-    <message>
-        <source>Online Collaboration</source>
-        <comment>EtCmdBar_Online_Collaboration_151</comment>
-        <translation type="obsolete">線上共同作業</translation>
-    </message>
-    <message>
-        <source>Online Meeting</source>
-        <comment>EtCmdBar_Online_Meeting_251</comment>
-        <translation type="obsolete">線上會議</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <comment>EtCmdBar_Options_242</comment>
-        <translation type="obsolete">選項</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <comment>EtCmdBar_Order_127</comment>
-        <translation type="obsolete">順序</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <comment>EtCmdBar_Order_188</comment>
-        <translation type="obsolete">順序</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <comment>EtCmdBar_Order_90</comment>
-        <translation type="obsolete">順序</translation>
-    </message>
-    <message>
-        <source>Organization Chart</source>
-        <comment>EtCmdBar_Organization_Chart_74</comment>
-        <translation type="obsolete">組織圖</translation>
-    </message>
-    <message>
-        <source>Organization Chart Popup</source>
-        <comment>EtCmdBar_Organization_Chart_Popup_117</comment>
-        <translation type="obsolete">Organization Chart Popup</translation>
-    </message>
-    <message>
-        <source>Page Format</source>
-        <comment>EtCmdBar_Page_Format_169</comment>
-        <translation type="obsolete">版面格式</translation>
-    </message>
-    <message>
-        <source>Paste Special Dropdown</source>
-        <comment>EtCmdBar_Paste_Special_Dropdown_62</comment>
-        <translation type="obsolete">選擇性貼上下拉式功能表</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <comment>EtCmdBar_Pattern_213</comment>
-        <translation type="obsolete">圖樣</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <comment>EtCmdBar_Pattern_82</comment>
-        <translation type="obsolete">圖樣</translation>
-    </message>
-    <message>
-        <source>Phonetic Guide</source>
-        <comment>EtCmdBar_Phonetic_Guide_146</comment>
-        <translation type="obsolete">注音標示</translation>
-    </message>
-    <message>
-        <source>Phonetic Information</source>
-        <comment>EtCmdBar_Phonetic_Information_60</comment>
-        <translation type="obsolete">注音標示資訊</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <comment>EtCmdBar_Picture_70</comment>
-        <translation type="obsolete">圖片</translation>
-    </message>
-    <message>
-        <source>Picture Menu</source>
-        <comment>EtCmdBar_Picture_Menu_141</comment>
-        <translation type="obsolete">圖片功能表</translation>
-    </message>
-    <message>
-        <source>Picture Menu (Chart)</source>
-        <comment>EtCmdBar_Picture_Menu__Chart__167</comment>
-        <translation type="obsolete">圖片功能表 (圖表)</translation>
-    </message>
-    <message>
-        <source>Pictures Context Menu</source>
-        <comment>EtCmdBar_Pictures_Context_Menu_109</comment>
-        <translation type="obsolete">圖片快顯功能表</translation>
-    </message>
-    <message>
-        <source>Pivot Chart Popup</source>
-        <comment>EtCmdBar_Pivot_Chart_Popup_59</comment>
-        <translation type="obsolete">樞紐圖表快顯功能表</translation>
-    </message>
-    <message>
-        <source>PivotChart Menu</source>
-        <comment>EtCmdBar_PivotChart_Menu_27</comment>
-        <translation type="obsolete">樞紐分析圖表功能表</translation>
-    </message>
-    <message>
-        <source>PivotTable</source>
-        <comment>EtCmdBar_PivotTable_5</comment>
-        <translation type="obsolete">樞紐分析表</translation>
-    </message>
-    <message>
-        <source>PivotTable Context Menu</source>
-        <comment>EtCmdBar_PivotTable_Context_Menu_52</comment>
-        <translation type="obsolete">樞紐分析表快顯功能表</translation>
-    </message>
-    <message>
-        <source>PivotTable Field List</source>
-        <comment>EtCmdBar_PivotTable_Field_List_20</comment>
-        <translation type="obsolete">樞紐分析表欄位清單</translation>
-    </message>
-    <message>
-        <source>Plot Area</source>
-        <comment>EtCmdBar_Plot_Area_44</comment>
-        <translation type="obsolete">繪圖區</translation>
-    </message>
-    <message>
-        <source>Ply</source>
-        <comment>EtCmdBar_Ply_35</comment>
-        <translation type="obsolete">工作表</translation>
-    </message>
-    <message>
-        <source>Print Area</source>
-        <comment>EtCmdBar_Print_Area_132</comment>
-        <translation type="obsolete">列印範圍</translation>
-    </message>
-    <message>
-        <source>Print/Web Preview</source>
-        <comment>EtCmdBar_Print_Web_Preview_124</comment>
-        <translation type="obsolete">列印/Web 預覽</translation>
-    </message>
-    <message>
-        <source>Protection</source>
-        <comment>EtCmdBar_Protection_150</comment>
-        <translation type="obsolete">保護</translation>
-    </message>
-    <message>
-        <source>Protection</source>
-        <comment>EtCmdBar_Protection_172</comment>
-        <translation type="obsolete">保護</translation>
-    </message>
-    <message>
-        <source>Protection</source>
-        <comment>EtCmdBar_Protection_22</comment>
-        <translation type="obsolete">保護</translation>
-    </message>
-    <message>
-        <source>Query</source>
-        <comment>EtCmdBar_Query_53</comment>
-        <translation type="obsolete">查詢</translation>
-    </message>
-    <message>
-        <source>Query Layout</source>
-        <comment>EtCmdBar_Query_Layout_54</comment>
-        <translation type="obsolete">查詢版面配置</translation>
-    </message>
-    <message>
-        <source>Query and Pivot</source>
-        <comment>EtCmdBar_Query_and_Pivot_121</comment>
-        <translation type="obsolete">查詢及樞紐分析表</translation>
-    </message>
-    <message>
-        <source>Reading Order</source>
-        <comment>EtCmdBar_Reading_Order_125</comment>
-        <translation type="obsolete">讀取順序</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <comment>EtCmdBar_Refresh_18</comment>
-        <translation type="obsolete">重新整理</translation>
-    </message>
-    <message>
-        <source>Replace Format</source>
-        <comment>EtCmdBar_Replace_Format_64</comment>
-        <translation type="obsolete">取代格式</translation>
-    </message>
-    <message>
-        <source>Reviewing</source>
-        <comment>EtCmdBar_Reviewing_7</comment>
-        <translation type="obsolete">檢閱</translation>
-    </message>
-    <message>
-        <source>Rotate Mode</source>
-        <comment>EtCmdBar_Rotate_Mode_113</comment>
-        <translation type="obsolete">旋轉模式</translation>
-    </message>
-    <message>
-        <source>Rotate or Flip</source>
-        <comment>EtCmdBar_Rotate_or_Flip_192</comment>
-        <translation type="obsolete">旋轉或翻轉</translation>
-    </message>
-    <message>
-        <source>Rotate or Flip</source>
-        <comment>EtCmdBar_Rotate_or_Flip_93</comment>
-        <translation type="obsolete">旋轉或翻轉</translation>
-    </message>
-    <message>
-        <source>Row</source>
-        <comment>EtCmdBar_Row_143</comment>
-        <translation type="obsolete">列</translation>
-    </message>
-    <message>
-        <source>Row</source>
-        <comment>EtCmdBar_Row_31</comment>
-        <translation type="obsolete">列</translation>
-    </message>
-    <message>
-        <source>Row</source>
-        <comment>EtCmdBar_Row_34</comment>
-        <translation type="obsolete">列</translation>
-    </message>
-    <message>
-        <source>Script Anchor Popup</source>
-        <comment>EtCmdBar_Script_Anchor_Popup_115</comment>
-        <translation type="obsolete">Script 定位點快顯功能表</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <comment>EtCmdBar_Select_119</comment>
-        <translation type="obsolete">選取</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <comment>EtCmdBar_Select_122</comment>
-        <translation type="obsolete">選取</translation>
-    </message>
-    <message>
-        <source>Send To</source>
-        <comment>EtCmdBar_Send_To_133</comment>
-        <translation type="obsolete">傳送到</translation>
-    </message>
-    <message>
-        <source>Series</source>
-        <comment>EtCmdBar_Series_43</comment>
-        <translation type="obsolete">數列</translation>
-    </message>
-    <message>
-        <source>Shadow</source>
-        <comment>EtCmdBar_Shadow_211</comment>
-        <translation type="obsolete">陰影</translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <comment>EtCmdBar_Shadow_Color_214</comment>
-        <translation type="obsolete">陰影色彩</translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <comment>EtCmdBar_Shadow_Settings_71</comment>
-        <translation type="obsolete">陰影設定</translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <comment>EtCmdBar_Shapes_103</comment>
-        <translation type="obsolete">圖案</translation>
-    </message>
-    <message>
-        <source>Sheet</source>
-        <comment>EtCmdBar_Sheet_145</comment>
-        <translation type="obsolete">工作表</translation>
-    </message>
-    <message>
-        <source>Snap To</source>
-        <comment>EtCmdBar_Snap_To_189</comment>
-        <translation type="obsolete">貼齊</translation>
-    </message>
-    <message>
-        <source>Speech Menu</source>
-        <comment>EtCmdBar_Speech_Menu_148</comment>
-        <translation type="obsolete">語音功能表</translation>
-    </message>
-    <message>
-        <source>Standard</source>
-        <comment>EtCmdBar_Standard_3</comment>
-        <translation type="obsolete">一般</translation>
-    </message>
-    <message>
-        <source>Stars &amp; Banners</source>
-        <comment>EtCmdBar_Stars___Banners_100</comment>
-        <translation type="obsolete">星星及綵帶</translation>
-    </message>
-    <message>
-        <source>Stars &amp; Banners</source>
-        <comment>EtCmdBar_Stars___Banners_205</comment>
-        <translation type="obsolete">星星及綵帶</translation>
-    </message>
-    <message>
-        <source>Stop Recording</source>
-        <comment>EtCmdBar_Stop_Recording_9</comment>
-        <translation type="obsolete">停止錄製</translation>
-    </message>
-    <message>
-        <source>System</source>
-        <comment>EtCmdBar_System_255</comment>
-        <translation type="obsolete">System</translation>
-    </message>
-    <message>
-        <source>Task Pane</source>
-        <comment>EtCmdBar_Task_Pane_253</comment>
-        <translation type="obsolete">工作窗格</translation>
-    </message>
-    <message>
-        <source>Text To Speech</source>
-        <comment>EtCmdBar_Text_To_Speech_23</comment>
-        <translation type="obsolete">文字轉換語音</translation>
-    </message>
-    <message>
-        <source>Title Bar (Charting)</source>
-        <comment>EtCmdBar_Title_Bar__Charting__57</comment>
-        <translation type="obsolete">標題列 (圖表)</translation>
-    </message>
-    <message>
-        <source>Toolbar List</source>
-        <comment>EtCmdBar_Toolbar_List_229</comment>
-        <translation type="obsolete">工具列清單</translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <comment>EtCmdBar_Tools_154</comment>
-        <translation type="obsolete">工具</translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <comment>EtCmdBar_Tools_174</comment>
-        <translation type="obsolete">工具</translation>
-    </message>
-    <message>
-        <source>Tools Well</source>
-        <comment>EtCmdBar_Tools_Well_237</comment>
-        <translation type="obsolete">工具</translation>
-    </message>
-    <message>
-        <source>Track Changes Menu</source>
-        <comment>EtCmdBar_Track_Changes_Menu_149</comment>
-        <translation type="obsolete">追蹤修訂功能表</translation>
-    </message>
-    <message>
-        <source>Track Changes Menu (chart)</source>
-        <comment>EtCmdBar_Track_Changes_Menu__chart__171</comment>
-        <translation type="obsolete">追蹤修訂功能表 (圖表)</translation>
-    </message>
-    <message>
-        <source>Trendline</source>
-        <comment>EtCmdBar_Trendline_46</comment>
-        <translation type="obsolete">趨勢線</translation>
-    </message>
-    <message>
-        <source>Unprotected</source>
-        <comment>EtCmdBar_Unprotected_131</comment>
-        <translation type="obsolete">未保護</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <comment>EtCmdBar_View_139</comment>
-        <translation type="obsolete">檢視</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <comment>EtCmdBar_View_166</comment>
-        <translation type="obsolete">檢視</translation>
-    </message>
-    <message>
-        <source>View Well</source>
-        <comment>EtCmdBar_View_Well_234</comment>
-        <translation type="obsolete">檢視</translation>
-    </message>
-    <message>
-        <source>Visual Basic</source>
-        <comment>EtCmdBar_Visual_Basic_14</comment>
-        <translation type="obsolete">Visual Basic</translation>
-    </message>
-    <message>
-        <source>Watch Window</source>
-        <comment>EtCmdBar_Watch_Window_19</comment>
-        <translation type="obsolete">監看式視窗</translation>
-    </message>
-    <message>
-        <source>Web</source>
-        <comment>EtCmdBar_Web_15</comment>
-        <translation type="obsolete">Web</translation>
-    </message>
-    <message>
-        <source>Web Well</source>
-        <comment>EtCmdBar_Web_Well_249</comment>
-        <translation type="obsolete">網路</translation>
-    </message>
-    <message>
-        <source>Window</source>
-        <comment>EtCmdBar_Window_161</comment>
-        <translation type="obsolete">視窗</translation>
-    </message>
-    <message>
-        <source>Window</source>
-        <comment>EtCmdBar_Window_176</comment>
-        <translation type="obsolete">視窗</translation>
-    </message>
-    <message>
-        <source>Window and Help Well</source>
-        <comment>EtCmdBar_Window_and_Help_Well_244</comment>
-        <translation type="obsolete">視窗及說明</translation>
-    </message>
-    <message>
-        <source>WordArt</source>
-        <comment>EtCmdBar_WordArt_69</comment>
-        <translation type="obsolete">文字藝術師</translation>
-    </message>
-    <message>
-        <source>WordArt Alignment</source>
-        <comment>EtCmdBar_WordArt_Alignment_221</comment>
-        <translation type="obsolete">對齊</translation>
-    </message>
-    <message>
-        <source>WordArt Context Menu</source>
-        <comment>EtCmdBar_WordArt_Context_Menu_112</comment>
-        <translation type="obsolete">文字藝術師快顯功能表</translation>
-    </message>
-    <message>
-        <source>WordArt Shape</source>
-        <comment>EtCmdBar_WordArt_Shape_220</comment>
-        <translation type="obsolete">文字藝術師圖案</translation>
-    </message>
-    <message>
-        <source>WordArt Tracking</source>
-        <comment>EtCmdBar_WordArt_Tracking_222</comment>
-        <translation type="obsolete">文字藝術師追蹤</translation>
-    </message>
-    <message>
-        <source>Workbook tabs</source>
-        <comment>EtCmdBar_Workbook_tabs_28</comment>
-        <translation type="obsolete">工作簿索引標籤</translation>
-    </message>
-    <message>
-        <source>Worksheet Menu Bar</source>
-        <comment>EtCmdBar_Worksheet_Menu_Bar_1</comment>
-        <translation type="obsolete">工作表功能表列</translation>
-    </message>
-    <message>
-        <source>XLM Cell</source>
-        <comment>EtCmdBar_XLM_Cell_36</comment>
-        <translation type="obsolete">XLM 儲存格</translation>
-    </message>
-    <message>
-        <source>XML Range Popup</source>
-        <comment>EtCmdBar_XML_Range_Popup_67</comment>
-        <translation type="obsolete">XML 範圍快顯功能表</translation>
-    </message>
-</context>
-<context>
     <name>et_et_core</name>
+    <message>
+        <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of Kingsoft Spreadsheets if they:
+
+·Reference cells outside of the row and column limit of an earlier of Kingsoft Spreadsheets
+·Include functions that are not supported in an earlier version of Kingsoft Spreadsheets
+·Use formula limits that are not supported in an earlier version of Kingsoft Spreadsheets (such an greater than 7 levels of nesting)
+
+Do you want Kingsoft Spreadsheets to recalculate all formulas when this workbook is opened?</source>
+        <comment>TX_RECALC_ALL_QUESTION</comment>
+        <translation type="obsolete">此活頁簿中的已定義之名稱或公式在舊版 Kingsoft Spreadsheets 重新計算時，如果它們發生下列情況，則可能顯示不同的值:
+
+·參照儲存格位於舊版 Kingsoft Spreadsheets 列和欄限制之外
+·包括舊版 Kingsoft Spreadsheets 不支援的函數
+·使用舊版 Kingsoft Spreadsheets 不支援的公式限制 (例如大於 7 個巢狀層級)
+
+您要 Kingsoft Spreadsheets 在開啟此活頁簿時重新計算所有公式嗎?</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <comment>TX_DESC_NORMAL_STYLE_NAME</comment>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
+        <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro Error</source>
+        <comment>TX_MSF_RUN_ERR_TITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro error at cell: </source>
+        <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
+
+·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
+·Include functions that are not supported in an earlier version of WPS Spreadsheets
+·Use formula limits that are not supported in an earlier version of WPS Spreadsheets (such as greater than 7 levels of nesting)
+
+Do you want WPS Spreadsheets to recalculate all formulas when this workbook is opened?</source>
+        <comment>TX_RECALC_ALL_QUESTION</comment>
+        <translation>此活頁簿中的已定義之名稱或公式在舊版 WPS Spreadsheets 重新計算時，如果它們發生下列情況，則可能顯示不同的值:
+
+·參照儲存格位於舊版 WPS Spreadsheets 列和欄限制之外
+·包括舊版 WPS Spreadsheets 不支援的函數
+·使用舊版 WPS Spreadsheets 不支援的公式限制 (例如大於 7 個巢狀層級)
+
+您要 WPS Spreadsheets 在開啟此活頁簿時重新計算所有公式嗎?</translation>
+    </message>
+    <message>
+        <source>Macro interrupted at cell:</source>
+        <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of WPS Spreadsheets if they:
 
@@ -3741,8754 +3027,34 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
 您要 WPS Spreadsheets 在開啟此活頁簿時重新計算所有公式嗎?</translation>
     </message>
     <message>
-        <source>Normal</source>
-        <comment>TX_DESC_NORMAL_STYLE_NAME</comment>
-        <translation>標準</translation>
+        <source>Missing loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
-
-·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
-·Include functions that are not supported in an earlier version of WPS Spreadsheets
-·Use formula limits that are not supported in an earlier version of WPS Spreadsheets (such as greater than 7 levels of nesting)
-
-Do you want WPS Spreadsheets to recalculate all formulas when this workbook is opened?</source>
-        <comment>TX_RECALC_ALL_QUESTION</comment>
-        <translation type="unfinished">此活頁簿中的已定義之名稱或公式在舊版 WPS Spreadsheets 重新計算時，如果它們發生下列情況，則可能顯示不同的值:
-
-·參照儲存格位於舊版 WPS Spreadsheets 列和欄限制之外
-·包括舊版 WPS Spreadsheets 不支援的函數
-·使用舊版 WPS Spreadsheets 不支援的公式限制 (例如大於 7 個巢狀層級)
-
-您要 WPS Spreadsheets 在開啟此活頁簿時重新計算所有公式嗎?</translation>
+        <source>Missing NEXT function for loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>et_et_ctrl</name>
     <message>
-        <source>&amp;&quot;No&quot; Symbol</source>
-        <comment>EtCtrl___No__Symbol_428</comment>
-        <translation type="obsolete">禁止標誌(&amp;&quot;)</translation>
+        <source>Missing IF.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;(XY) Scatter Chart</source>
-        <comment>EtCtrl___XY__Scatter_Chart_168</comment>
-        <translation type="obsolete">XY 散佈圖(&amp;I)</translation>
+        <source>Missing an END.IF function.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;0 pt.</source>
-        <comment>EtCtrl__0_pt__547</comment>
-        <translation type="obsolete">0 點(&amp;0)</translation>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;144 pt.</source>
-        <comment>EtCtrl__144_pt__550</comment>
-        <translation type="obsolete">144 點(&amp;1)</translation>
-    </message>
-    <message>
-        <source>&amp;16-Point Star</source>
-        <comment>EtCtrl__16_Point_Star_478</comment>
-        <translation type="obsolete">16 角星形(&amp;1)</translation>
-    </message>
-    <message>
-        <source>&amp;24-Point Star</source>
-        <comment>EtCtrl__24_Point_Star_479</comment>
-        <translation type="obsolete">24 角星形(&amp;2)</translation>
-    </message>
-    <message>
-        <source>&amp;288 pt.</source>
-        <comment>EtCtrl__288_pt__551</comment>
-        <translation type="obsolete">288 點(&amp;2)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Area Chart</source>
-        <comment>EtCtrl__3_D_Area_Chart_162</comment>
-        <translation type="obsolete">立體區域圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Bar Chart</source>
-        <comment>EtCtrl__3_D_Bar_Chart_163</comment>
-        <translation type="obsolete">立體橫條圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Clustered Column Chart</source>
-        <comment>EtCtrl__3_D_Clustered_Column_Chart_164</comment>
-        <translation type="obsolete">立體群組直條圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Color</source>
-        <comment>EtCtrl__3_D_Color_629</comment>
-        <translation type="obsolete">立體色彩(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Column Chart</source>
-        <comment>EtCtrl__3_D_Column_Chart_165</comment>
-        <translation type="obsolete">立體直條圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Cone Chart</source>
-        <comment>EtCtrl__3_D_Cone_Chart_624</comment>
-        <translation type="obsolete">立體圓錐圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Cylinder Chart</source>
-        <comment>EtCtrl__3_D_Cylinder_Chart_622</comment>
-        <translation type="obsolete">立體圓柱圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Line Chart</source>
-        <comment>EtCtrl__3_D_Line_Chart_166</comment>
-        <translation type="obsolete">立體折線圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D On/Off</source>
-        <comment>EtCtrl__3_D_On_Off_538</comment>
-        <translation type="obsolete">立體開/關(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Pie Chart</source>
-        <comment>EtCtrl__3_D_Pie_Chart_167</comment>
-        <translation type="obsolete">立體圓形圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Pyramid Chart</source>
-        <comment>EtCtrl__3_D_Pyramid_Chart_623</comment>
-        <translation type="obsolete">立體金字塔圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Settings...</source>
-        <comment>EtCtrl__3_D_Settings____387</comment>
-        <translation type="obsolete">立體設定(&amp;3)...</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Style</source>
-        <comment>EtCtrl__3_D_Style_113</comment>
-        <translation type="obsolete">立體樣式(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;3-D Surface Chart</source>
-        <comment>EtCtrl__3_D_Surface_Chart_169</comment>
-        <translation type="obsolete">立體曲面圖(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;32-Point Star</source>
-        <comment>EtCtrl__32_Point_Star_480</comment>
-        <translation type="obsolete">32 角星形(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;36 pt.</source>
-        <comment>EtCtrl__36_pt__548</comment>
-        <translation type="obsolete">36 點(&amp;3)</translation>
-    </message>
-    <message>
-        <source>&amp;4-Point Star</source>
-        <comment>EtCtrl__4_Point_Star_743</comment>
-        <translation type="obsolete">4 角星形(&amp;4)</translation>
-    </message>
-    <message>
-        <source>&amp;5-Point Star</source>
-        <comment>EtCtrl__5_Point_Star_476</comment>
-        <translation type="obsolete">5 角星形(&amp;5)</translation>
-    </message>
-    <message>
-        <source>&amp;72 pt.</source>
-        <comment>EtCtrl__72_pt__549</comment>
-        <translation type="obsolete">72 點(&amp;7)</translation>
-    </message>
-    <message>
-        <source>&amp;8-Point Star</source>
-        <comment>EtCtrl__8_Point_Star_477</comment>
-        <translation type="obsolete">8 角星形(&amp;8)</translation>
-    </message>
-    <message>
-        <source>&amp;&lt;verb&gt;</source>
-        <comment>EtCtrl___verb__678</comment>
-        <translation type="obsolete">&amp;&lt;動詞&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;About Microsoft Office Excel</source>
-        <comment>EtCtrl__About_Microsoft_Office_Excel_326</comment>
-        <translation type="obsolete">關於 Microsoft Office Excel(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Accept or Reject Changes...</source>
-        <comment>EtCtrl__Accept_or_Reject_Changes____108</comment>
-        <translation type="obsolete">接受或拒絕修訂(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Across Worksheets...</source>
-        <comment>EtCtrl__Across_Worksheets____289</comment>
-        <translation type="obsolete">填滿工作表(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Actions</source>
-        <comment>EtCtrl__Actions_2149</comment>
-        <translation type="obsolete">動作(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;ActiveX Control</source>
-        <comment>EtCtrl__ActiveX_Control_1480</comment>
-        <translation type="obsolete">ActiveX 控制項(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <comment>EtCtrl__Add_2157</comment>
-        <translation type="obsolete">新增(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Add Data...</source>
-        <comment>EtCtrl__Add_Data____676</comment>
-        <translation type="obsolete">新增資料(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Add Point</source>
-        <comment>EtCtrl__Add_Point_573</comment>
-        <translation type="obsolete">新增端點(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Add or Remove Buttons</source>
-        <comment>EtCtrl__Add_or_Remove_Buttons_1450</comment>
-        <translation type="obsolete">新增或移除按鈕(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Add or Remove Buttons</source>
-        <comment>EtCtrl__Add_or_Remove_Buttons_2298</comment>
-        <translation type="obsolete">新增或移除按鈕(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Add to Favorites...</source>
-        <comment>EtCtrl__Add_to_Favorites____364</comment>
-        <translation type="obsolete">加到我的最愛(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Add to Group</source>
-        <comment>EtCtrl__Add_to_Group_1476</comment>
-        <translation type="obsolete">加入群組(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Add to Print Area</source>
-        <comment>EtCtrl__Add_to_Print_Area_596</comment>
-        <translation type="obsolete">新增至列印範圍(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Address:</source>
-        <comment>EtCtrl__Address__638</comment>
-        <translation type="obsolete">地址(&amp;A):</translation>
-    </message>
-    <message>
-        <source>&amp;Advanced</source>
-        <comment>EtCtrl__Advanced_1699</comment>
-        <translation type="obsolete">進階(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Advanced Filter...</source>
-        <comment>EtCtrl__Advanced_Filter____315</comment>
-        <translation type="obsolete">進階篩選(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Align</source>
-        <comment>EtCtrl__Align_1035</comment>
-        <translation type="obsolete">對齊(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Align Bottom</source>
-        <comment>EtCtrl__Align_Bottom_733</comment>
-        <translation type="obsolete">靠下對齊(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Align Top</source>
-        <comment>EtCtrl__Align_Top_732</comment>
-        <translation type="obsolete">靠上對齊(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Align or Distribute</source>
-        <comment>EtCtrl__Align_or_Distribute_1174</comment>
-        <translation type="obsolete">對齊或等距分佈(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Alignment</source>
-        <comment>EtCtrl__Alignment_1034</comment>
-        <translation type="obsolete">對齊(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Alignment</source>
-        <comment>EtCtrl__Alignment_1411</comment>
-        <translation type="obsolete">對齊(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;All</source>
-        <comment>EtCtrl__All_677</comment>
-        <translation type="obsolete">全部(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;All Borders</source>
-        <comment>EtCtrl__All_Borders_632</comment>
-        <translation type="obsolete">所有框線(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Allow Users to Edit Ranges...</source>
-        <comment>EtCtrl__Allow_Users_to_Edit_Ranges____920</comment>
-        <translation type="obsolete">允許使用者編輯範圍(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Always Display Items</source>
-        <comment>EtCtrl__Always_Display_Items_856</comment>
-        <translation type="obsolete">永遠顯示項目(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Angle Clockwise</source>
-        <comment>EtCtrl__Angle_Clockwise_356</comment>
-        <translation type="obsolete">順時針角度(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Angle Counterclockwise</source>
-        <comment>EtCtrl__Angle_Counterclockwise_355</comment>
-        <translation type="obsolete">逆時針角度(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Annotation Pen</source>
-        <comment>EtCtrl__Annotation_Pen_991</comment>
-        <translation type="obsolete">註釋畫筆(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Answer Wizard...</source>
-        <comment>EtCtrl__Answer_Wizard____330</comment>
-        <translation type="obsolete">解答精靈(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Apply...</source>
-        <comment>EtCtrl__Apply____298</comment>
-        <translation type="obsolete">套用(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Arc</source>
-        <comment>EtCtrl__Arc_434</comment>
-        <translation type="obsolete">弧線(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Area Chart</source>
-        <comment>EtCtrl__Area_Chart_156</comment>
-        <translation type="obsolete">區域圖(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Arrange</source>
-        <comment>EtCtrl__Arrange_2287</comment>
-        <translation type="obsolete">排列(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Arrange By</source>
-        <comment>EtCtrl__Arrange_By_2289</comment>
-        <translation type="obsolete">排列(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Arrange Icons</source>
-        <comment>EtCtrl__Arrange_Icons_1110</comment>
-        <translation type="obsolete">排列圖示(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Arrange...</source>
-        <comment>EtCtrl__Arrange____105</comment>
-        <translation type="obsolete">重排視窗(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Arrow</source>
-        <comment>EtCtrl__Arrow_74</comment>
-        <translation type="obsolete">箭頭(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Arrow Style</source>
-        <comment>EtCtrl__Arrow_Style_242</comment>
-        <translation type="obsolete">箭頭樣式(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Assistant</source>
-        <comment>EtCtrl__Assistant_846</comment>
-        <translation type="obsolete">助理(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Attach Note</source>
-        <comment>EtCtrl__Attach_Note_191</comment>
-        <translation type="obsolete">附加備忘錄(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Attach Toolbars...</source>
-        <comment>EtCtrl__Attach_Toolbars____762</comment>
-        <translation type="obsolete">附加工具列(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;Auto Outline</source>
-        <comment>EtCtrl__Auto_Outline_316</comment>
-        <translation type="obsolete">自動建立大綱(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoCorrect Options...</source>
-        <comment>EtCtrl__AutoCorrect_Options____255</comment>
-        <translation type="obsolete">自動校正選項(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;AutoFit</source>
-        <comment>EtCtrl__AutoFit_1459</comment>
-        <translation type="obsolete">自動調整(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoFit</source>
-        <comment>EtCtrl__AutoFit_1460</comment>
-        <translation type="obsolete">自動調整(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoFit</source>
-        <comment>EtCtrl__AutoFit_299</comment>
-        <translation type="obsolete">自動調整(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoFit Selection</source>
-        <comment>EtCtrl__AutoFit_Selection_302</comment>
-        <translation type="obsolete">自動調整(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoFormat</source>
-        <comment>EtCtrl__AutoFormat_882</comment>
-        <translation type="obsolete">自動格式設定(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoFormat...</source>
-        <comment>EtCtrl__AutoFormat____254</comment>
-        <translation type="obsolete">自動格式設定(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>&amp;AutoLayout</source>
-        <comment>EtCtrl__AutoLayout_883</comment>
-        <translation type="obsolete">自動版面配置(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoLayout</source>
-        <comment>EtCtrl__AutoLayout_890</comment>
-        <translation type="obsolete">自動版面配置(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoShapes</source>
-        <comment>EtCtrl__AutoShapes_735</comment>
-        <translation type="obsolete">快取圖案(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoSum</source>
-        <comment>EtCtrl__AutoSum_73</comment>
-        <translation type="obsolete">自動加總(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoText</source>
-        <comment>EtCtrl__AutoText_1181</comment>
-        <translation type="obsolete">自動圖文集(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;AutoText</source>
-        <comment>EtCtrl__AutoText_1423</comment>
-        <translation type="obsolete">自動圖文集(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Autoformat</source>
-        <comment>EtCtrl__Autoformat_919</comment>
-        <translation type="obsolete">自動格式設定(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Automatic</source>
-        <comment>EtCtrl__Automatic_534</comment>
-        <translation type="obsolete">自動(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Automatic Color</source>
-        <comment>EtCtrl__Automatic_Color_586</comment>
-        <translation type="obsolete">自動套色(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Automatic Color</source>
-        <comment>EtCtrl__Automatic_Color_664</comment>
-        <translation type="obsolete">自動套色(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Automatic Color</source>
-        <comment>EtCtrl__Automatic_Color_766</comment>
-        <translation type="obsolete">自動套色(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Automatic Color</source>
-        <comment>EtCtrl__Automatic_Color_877</comment>
-        <translation type="obsolete">自動套色(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Average</source>
-        <comment>EtCtrl__Average_684</comment>
-        <translation type="obsolete">平均(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Average</source>
-        <comment>EtCtrl__Average_828</comment>
-        <translation type="obsolete">平均(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Back</source>
-        <comment>EtCtrl__Back_359</comment>
-        <translation type="obsolete">上一頁(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Background...</source>
-        <comment>EtCtrl__Background____336</comment>
-        <translation type="obsolete">背景(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>&amp;Balloons</source>
-        <comment>EtCtrl__Balloons_2330</comment>
-        <translation type="obsolete">註解方塊(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bar Chart</source>
-        <comment>EtCtrl__Bar_Chart_157</comment>
-        <translation type="obsolete">橫條圖(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Basic Shapes</source>
-        <comment>EtCtrl__Basic_Shapes_565</comment>
-        <translation type="obsolete">基本圖案(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Basic Shapes</source>
-        <comment>EtCtrl__Basic_Shapes_737</comment>
-        <translation type="obsolete">基本圖案(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bent Arrow</source>
-        <comment>EtCtrl__Bent_Arrow_447</comment>
-        <translation type="obsolete">右彎箭號(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bent-Up Arrow</source>
-        <comment>EtCtrl__Bent_Up_Arrow_446</comment>
-        <translation type="obsolete">上彎箭號(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bevel</source>
-        <comment>EtCtrl__Bevel_425</comment>
-        <translation type="obsolete">按鈕形(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Binder Help</source>
-        <comment>EtCtrl__Binder_Help_1070</comment>
-        <translation type="obsolete">文件夾說明(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Black &amp;&amp; White</source>
-        <comment>EtCtrl__Black____White_536</comment>
-        <translation type="obsolete">黑白(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Block Arc</source>
-        <comment>EtCtrl__Block_Arc_429</comment>
-        <translation type="obsolete">拱形(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bold</source>
-        <comment>EtCtrl__Bold_23</comment>
-        <translation type="obsolete">粗體(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bookmarks</source>
-        <comment>EtCtrl__Bookmarks_1234</comment>
-        <translation type="obsolete">書籤(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Border</source>
-        <comment>EtCtrl__Border_618</comment>
-        <translation type="obsolete">框線(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Borders</source>
-        <comment>EtCtrl__Borders_63</comment>
-        <translation type="obsolete">框線(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Borders</source>
-        <comment>EtCtrl__Borders_879</comment>
-        <translation type="obsolete">框線(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Both Hanging</source>
-        <comment>EtCtrl__Both_Hanging_895</comment>
-        <translation type="obsolete">首行由左右開始(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bottom Border</source>
-        <comment>EtCtrl__Bottom_Border_40</comment>
-        <translation type="obsolete">下框線(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bottom Double Border</source>
-        <comment>EtCtrl__Bottom_Double_Border_631</comment>
-        <translation type="obsolete">底端雙框線(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Branch</source>
-        <comment>EtCtrl__Branch_885</comment>
-        <translation type="obsolete">分支(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bright</source>
-        <comment>EtCtrl__Bright_555</comment>
-        <translation type="obsolete">亮(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Browse</source>
-        <comment>EtCtrl__Browse_1231</comment>
-        <translation type="obsolete">瀏覽(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Bubble Chart</source>
-        <comment>EtCtrl__Bubble_Chart_621</comment>
-        <translation type="obsolete">泡泡圖(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Button</source>
-        <comment>EtCtrl__Button_95</comment>
-        <translation type="obsolete">按鈕(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;COM Add-Ins...</source>
-        <comment>EtCtrl__COM_Add_Ins____788</comment>
-        <translation type="obsolete">COM 增益集(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Calculate Now</source>
-        <comment>EtCtrl__Calculate_Now_341</comment>
-        <translation type="obsolete">立即重算(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Calendar</source>
-        <comment>EtCtrl__Calendar_1142</comment>
-        <translation type="obsolete">行事曆(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Callouts</source>
-        <comment>EtCtrl__Callouts_377</comment>
-        <translation type="obsolete">圖說文字(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Callouts</source>
-        <comment>EtCtrl__Callouts_566</comment>
-        <translation type="obsolete">圖說文字(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Camera</source>
-        <comment>EtCtrl__Camera_93</comment>
-        <translation type="obsolete">攝影(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Can</source>
-        <comment>EtCtrl__Can_421</comment>
-        <translation type="obsolete">圓柱(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel Refresh</source>
-        <comment>EtCtrl__Cancel_Refresh_672</comment>
-        <translation type="obsolete">取消重新整理(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Category Axis Gridlines</source>
-        <comment>EtCtrl__Category_Axis_Gridlines_175</comment>
-        <translation type="obsolete">類別軸格線(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Center</source>
-        <comment>EtCtrl__Center_30</comment>
-        <translation type="obsolete">置中(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Center</source>
-        <comment>EtCtrl__Center_404</comment>
-        <translation type="obsolete">置中(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Center Vertically</source>
-        <comment>EtCtrl__Center_Vertically_906</comment>
-        <translation type="obsolete">垂直置中(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Center in Form</source>
-        <comment>EtCtrl__Center_in_Form_1092</comment>
-        <translation type="obsolete">置於表單中央(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Change AutoShape</source>
-        <comment>EtCtrl__Change_AutoShape_1080</comment>
-        <translation type="obsolete">變更快取圖案(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Change to</source>
-        <comment>EtCtrl__Change_to_2180</comment>
-        <translation type="obsolete">變更為(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Chart</source>
-        <comment>EtCtrl__Chart_1022</comment>
-        <translation type="obsolete">圖表(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Chart Objects:</source>
-        <comment>EtCtrl__Chart_Objects__619</comment>
-        <translation type="obsolete">圖表物件(&amp;C):</translation>
-    </message>
-    <message>
-        <source>&amp;Chart Type</source>
-        <comment>EtCtrl__Chart_Type_616</comment>
-        <translation type="obsolete">圖表類型(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Chart Wizard</source>
-        <comment>EtCtrl__Chart_Wizard_173</comment>
-        <translation type="obsolete">圖表精靈(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Chart Wizard</source>
-        <comment>EtCtrl__Chart_Wizard_956</comment>
-        <translation type="obsolete">圖表精靈(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Check Names</source>
-        <comment>EtCtrl__Check_Names_783</comment>
-        <translation type="obsolete">檢查名稱(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Chevron</source>
-        <comment>EtCtrl__Chevron_452</comment>
-        <translation type="obsolete">＞形箭號(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Choose Format From Cell...</source>
-        <comment>EtCtrl__Choose_Format_From_Cell____858</comment>
-        <translation type="obsolete">從儲存格選擇格式(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Choose Format From Cell...</source>
-        <comment>EtCtrl__Choose_Format_From_Cell____859</comment>
-        <translation type="obsolete">從儲存格選擇格式(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Circular Arrow</source>
-        <comment>EtCtrl__Circular_Arrow_453</comment>
-        <translation type="obsolete">圓形箭號(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Formatting</source>
-        <comment>EtCtrl__Clear_Formatting_117</comment>
-        <translation type="obsolete">清除格式設定(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Outline</source>
-        <comment>EtCtrl__Clear_Outline_317</comment>
-        <translation type="obsolete">清除大綱(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Print Area</source>
-        <comment>EtCtrl__Clear_Print_Area_597</comment>
-        <translation type="obsolete">清除列印範圍(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Validation Circles</source>
-        <comment>EtCtrl__Clear_Validation_Circles_717</comment>
-        <translation type="obsolete">清除錯誤圈選(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Clip Art...</source>
-        <comment>EtCtrl__Clip_Art____238</comment>
-        <translation type="obsolete">美工圖案(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <comment>EtCtrl__Close_18</comment>
-        <translation type="obsolete">關閉檔案(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <comment>EtCtrl__Close_267</comment>
-        <translation type="obsolete">關閉(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Cloud Callout</source>
-        <comment>EtCtrl__Cloud_Callout_468</comment>
-        <translation type="obsolete">雲朵形圖說文字(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Code</source>
-        <comment>EtCtrl__Code_220</comment>
-        <translation type="obsolete">程式碼(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Collapse</source>
-        <comment>EtCtrl__Collapse_2280</comment>
-        <translation type="obsolete">摺疊(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Colon</source>
-        <comment>EtCtrl__Colon_130</comment>
-        <translation type="obsolete">冒號(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color</source>
-        <comment>EtCtrl__Color_2138</comment>
-        <translation type="obsolete">色彩(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color</source>
-        <comment>EtCtrl__Color_564</comment>
-        <translation type="obsolete">色彩(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color</source>
-        <comment>EtCtrl__Color_666</comment>
-        <translation type="obsolete">色彩(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color</source>
-        <comment>EtCtrl__Color_668</comment>
-        <translation type="obsolete">色彩(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color Scheme</source>
-        <comment>EtCtrl__Color_Scheme_584</comment>
-        <translation type="obsolete">色彩配置(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color Scheme</source>
-        <comment>EtCtrl__Color_Scheme_587</comment>
-        <translation type="obsolete">色彩配置(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color Scheme</source>
-        <comment>EtCtrl__Color_Scheme_589</comment>
-        <translation type="obsolete">色彩配置(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color Scheme</source>
-        <comment>EtCtrl__Color_Scheme_591</comment>
-        <translation type="obsolete">色彩配置(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color Scheme</source>
-        <comment>EtCtrl__Color_Scheme_665</comment>
-        <translation type="obsolete">色彩配置(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color Scheme</source>
-        <comment>EtCtrl__Color_Scheme_667</comment>
-        <translation type="obsolete">色彩配置(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Color Scheme</source>
-        <comment>EtCtrl__Color_Scheme_876</comment>
-        <translation type="obsolete">色彩配置(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Column</source>
-        <comment>EtCtrl__Column_1025</comment>
-        <translation type="obsolete">欄(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Column Chart</source>
-        <comment>EtCtrl__Column_Chart_158</comment>
-        <translation type="obsolete">直條圖(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Columns</source>
-        <comment>EtCtrl__Columns_104</comment>
-        <translation type="obsolete">欄(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Combination Drop-Down Edit</source>
-        <comment>EtCtrl__Combination_Drop_Down_Edit_208</comment>
-        <translation type="obsolete">組合式下拉編輯方塊(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Combination List-Edit</source>
-        <comment>EtCtrl__Combination_List_Edit_207</comment>
-        <translation type="obsolete">組合式編輯清單(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Combo Box</source>
-        <comment>EtCtrl__Combo_Box_70</comment>
-        <translation type="obsolete">下拉式方塊(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Comma</source>
-        <comment>EtCtrl__Comma_131</comment>
-        <translation type="obsolete">逗號(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Comma Style</source>
-        <comment>EtCtrl__Comma_Style_143</comment>
-        <translation type="obsolete">千分位樣式(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Comments</source>
-        <comment>EtCtrl__Comments_606</comment>
-        <translation type="obsolete">註解(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Common Tasks</source>
-        <comment>EtCtrl__Common_Tasks_1441</comment>
-        <translation type="obsolete">一般工作(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Compress Pictures...</source>
-        <comment>EtCtrl__Compress_Pictures____904</comment>
-        <translation type="obsolete">壓縮圖片(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Constrain Numeric</source>
-        <comment>EtCtrl__Constrain_Numeric_135</comment>
-        <translation type="obsolete">光筆辨識(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Contact Us</source>
-        <comment>EtCtrl__Contact_Us_966</comment>
-        <translation type="obsolete">請與我們連絡(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Contents</source>
-        <comment>EtCtrl__Contents_293</comment>
-        <translation type="obsolete">內容(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Context</source>
-        <comment>EtCtrl__Context_806</comment>
-        <translation type="obsolete">內容(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Convert Ink to Text</source>
-        <comment>EtCtrl__Convert_Ink_to_Text_2290</comment>
-        <translation type="obsolete">轉換筆跡成文字(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Copy</source>
-        <comment>EtCtrl__Copy_6</comment>
-        <translation type="obsolete">複製(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Copy Cells</source>
-        <comment>EtCtrl__Copy_Cells_690</comment>
-        <translation type="obsolete">複製儲存格(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Copy Here</source>
-        <comment>EtCtrl__Copy_Here_708</comment>
-        <translation type="obsolete">複製到這裡(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Corner Point</source>
-        <comment>EtCtrl__Corner_Point_581</comment>
-        <translation type="obsolete">端點(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Count</source>
-        <comment>EtCtrl__Count_685</comment>
-        <translation type="obsolete">項目個數(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Count</source>
-        <comment>EtCtrl__Count_829</comment>
-        <translation type="obsolete">計數(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Coworker</source>
-        <comment>EtCtrl__Coworker_847</comment>
-        <translation type="obsolete">同事(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Create List...</source>
-        <comment>EtCtrl__Create_List____931</comment>
-        <translation type="obsolete">建立清單(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Create Microsoft Office Outlook Task</source>
-        <comment>EtCtrl__Create_Microsoft_Office_Outlook_Task_264</comment>
-        <translation type="obsolete">建立 Microsoft Office Outlook 工作(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Create...</source>
-        <comment>EtCtrl__Create____297</comment>
-        <translation type="obsolete">建立(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Crop</source>
-        <comment>EtCtrl__Crop_246</comment>
-        <translation type="obsolete">裁剪(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Cross</source>
-        <comment>EtCtrl__Cross_416</comment>
-        <translation type="obsolete">十字形(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Cube</source>
-        <comment>EtCtrl__Cube_417</comment>
-        <translation type="obsolete">立方體(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Currency</source>
-        <comment>EtCtrl__Currency_141</comment>
-        <translation type="obsolete">貨幣(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curve</source>
-        <comment>EtCtrl__Curve_373</comment>
-        <translation type="obsolete">曲線(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Arrow Connector</source>
-        <comment>EtCtrl__Curved_Arrow_Connector_749</comment>
-        <translation type="obsolete">弧形單箭頭接點(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Double-Arrow Connector</source>
-        <comment>EtCtrl__Curved_Double_Arrow_Connector_750</comment>
-        <translation type="obsolete">弧形雙箭頭接點(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Down Arrow</source>
-        <comment>EtCtrl__Curved_Down_Arrow_457</comment>
-        <translation type="obsolete">弧形箭號 (下彎)(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Down Ribbon</source>
-        <comment>EtCtrl__Curved_Down_Ribbon_474</comment>
-        <translation type="obsolete">綵帶 (弧形向下)(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Left Arrow</source>
-        <comment>EtCtrl__Curved_Left_Arrow_455</comment>
-        <translation type="obsolete">弧形箭號 (左彎)(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Right Arrow</source>
-        <comment>EtCtrl__Curved_Right_Arrow_454</comment>
-        <translation type="obsolete">弧形向右箭號(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Segment</source>
-        <comment>EtCtrl__Curved_Segment_576</comment>
-        <translation type="obsolete">弧形片段(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Up Arrow</source>
-        <comment>EtCtrl__Curved_Up_Arrow_456</comment>
-        <translation type="obsolete">弧形箭號 (上彎)(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Curved Up Ribbon</source>
-        <comment>EtCtrl__Curved_Up_Ribbon_475</comment>
-        <translation type="obsolete">綵帶 (弧形向上)(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Custom</source>
-        <comment>EtCtrl__Custom_26</comment>
-        <translation type="obsolete">自訂(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Custom Button</source>
-        <comment>EtCtrl__Custom_Button_761</comment>
-        <translation type="obsolete">自訂按鈕(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Custom Menu Item</source>
-        <comment>EtCtrl__Custom_Menu_Item_760</comment>
-        <translation type="obsolete">自訂功能表項目(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Custom show</source>
-        <comment>EtCtrl__Custom_show_1393</comment>
-        <translation type="obsolete">自訂放映(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Customize...</source>
-        <comment>EtCtrl__Customize____256</comment>
-        <translation type="obsolete">自訂(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Cycle</source>
-        <comment>EtCtrl__Cycle_840</comment>
-        <translation type="obsolete">循環圖(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Cycle Diagram</source>
-        <comment>EtCtrl__Cycle_Diagram_835</comment>
-        <translation type="obsolete">循環圖表(&amp;C)</translation>
-    </message>
-    <message>
-        <source>&amp;Dark Shading</source>
-        <comment>EtCtrl__Dark_Shading_27</comment>
-        <translation type="obsolete">濃網底(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Dash Style</source>
-        <comment>EtCtrl__Dash_Style_241</comment>
-        <translation type="obsolete">虛線樣式(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Data</source>
-        <comment>EtCtrl__Data_1011</comment>
-        <translation type="obsolete">資料(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Data</source>
-        <comment>EtCtrl__Data_2254</comment>
-        <translation type="obsolete">資料(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Data</source>
-        <comment>EtCtrl__Data_350</comment>
-        <translation type="obsolete">資料(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Data Table</source>
-        <comment>EtCtrl__Data_Table_345</comment>
-        <translation type="obsolete">資料表格(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Database</source>
-        <comment>EtCtrl__Database_1696</comment>
-        <translation type="obsolete">資料庫(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Database Utilities</source>
-        <comment>EtCtrl__Database_Utilities_1233</comment>
-        <translation type="obsolete">資料庫公用程式(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Debug</source>
-        <comment>EtCtrl__Debug_1165</comment>
-        <translation type="obsolete">偵錯(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Decrease Decimal</source>
-        <comment>EtCtrl__Decrease_Decimal_145</comment>
-        <translation type="obsolete">滅少小數位數(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Decrease Font Size</source>
-        <comment>EtCtrl__Decrease_Font_Size_149</comment>
-        <translation type="obsolete">縮小字型(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Decrease Indent</source>
-        <comment>EtCtrl__Decrease_Indent_770</comment>
-        <translation type="obsolete">減少縮排(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Default Chart</source>
-        <comment>EtCtrl__Default_Chart_172</comment>
-        <translation type="obsolete">預設圖表(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Define...</source>
-        <comment>EtCtrl__Define____295</comment>
-        <translation type="obsolete">定義(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <comment>EtCtrlRevise_Delete</comment>
-        <translation type="obsolete">刪除(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <comment>EtCtrl__Delete_1445</comment>
-        <translation type="obsolete">刪除(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <comment>EtCtrl__Delete_2275</comment>
-        <translation type="obsolete">刪除(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <comment>EtCtrl__Delete_849</comment>
-        <translation type="obsolete">刪除(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete All Ink Annotations</source>
-        <comment>EtCtrl__Delete_All_Ink_Annotations_945</comment>
-        <translation type="obsolete">刪除所有筆跡標註(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete Column</source>
-        <comment>EtCtrl__Delete_Column_944</comment>
-        <translation type="obsolete">刪除欄(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete Shape</source>
-        <comment>EtCtrl__Delete_Shape_914</comment>
-        <translation type="obsolete">刪除圖案(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete...</source>
-        <comment>EtCtrl__Delete____865</comment>
-        <translation type="obsolete">刪除(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>&amp;Deprecated Commands</source>
-        <comment>EtCtrl__Deprecated_Commands_2310</comment>
-        <translation type="obsolete">&amp;Deprecated Commands</translation>
-    </message>
-    <message>
-        <source>&amp;Depth</source>
-        <comment>EtCtrl__Depth_543</comment>
-        <translation type="obsolete">深度(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Design</source>
-        <comment>EtCtrl__Design_2265</comment>
-        <translation type="obsolete">設計(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Design Mode</source>
-        <comment>EtCtrl__Design_Mode_611</comment>
-        <translation type="obsolete">設計模式(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Diagram</source>
-        <comment>EtCtrl__Diagram_1454</comment>
-        <translation type="obsolete">資料庫圖表(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Diagram</source>
-        <comment>EtCtrl__Diagram_1483</comment>
-        <translation type="obsolete">資料庫圖表(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Dial</source>
-        <comment>EtCtrl__Dial_1173</comment>
-        <translation type="obsolete">撥號(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Dialog</source>
-        <comment>EtCtrl__Dialog_221</comment>
-        <translation type="obsolete">對話方塊(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Diamond</source>
-        <comment>EtCtrl__Diamond_409</comment>
-        <translation type="obsolete">菱形(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Dim</source>
-        <comment>EtCtrl__Dim_557</comment>
-        <translation type="obsolete">暗(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Direction</source>
-        <comment>EtCtrl__Direction_544</comment>
-        <translation type="obsolete">方向(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Discard Changes and Refresh</source>
-        <comment>EtCtrl__Discard_Changes_and_Refresh_954</comment>
-        <translation type="obsolete">放棄變更並重新整理(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Distribute</source>
-        <comment>EtCtrl__Distribute_1079</comment>
-        <translation type="obsolete">均分(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Division Sign</source>
-        <comment>EtCtrl__Division_Sign_126</comment>
-        <translation type="obsolete">除號(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Dollar Sign</source>
-        <comment>EtCtrl__Dollar_Sign_133</comment>
-        <translation type="obsolete">貨幣符號(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Donut</source>
-        <comment>EtCtrl__Donut_427</comment>
-        <translation type="obsolete">甜甜圈(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Double Arrow</source>
-        <comment>EtCtrl__Double_Arrow_625</comment>
-        <translation type="obsolete">雙箭頭(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Double Brace</source>
-        <comment>EtCtrl__Double_Brace_742</comment>
-        <translation type="obsolete">左右大括弧(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Double Bracket</source>
-        <comment>EtCtrl__Double_Bracket_741</comment>
-        <translation type="obsolete">左右括弧(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Double Underline</source>
-        <comment>EtCtrl__Double_Underline_15</comment>
-        <translation type="obsolete">雙底線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Double Wave</source>
-        <comment>EtCtrl__Double_Wave_744</comment>
-        <translation type="obsolete">雙波浪線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Doughnut Chart</source>
-        <comment>EtCtrl__Doughnut_Chart_186</comment>
-        <translation type="obsolete">環圈圖(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Down</source>
-        <comment>EtCtrl__Down_121</comment>
-        <translation type="obsolete">向下填滿(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Down</source>
-        <comment>EtCtrl__Down_370</comment>
-        <translation type="obsolete">下(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Down Arrow</source>
-        <comment>EtCtrl__Down_Arrow_440</comment>
-        <translation type="obsolete">向下箭號(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Down Arrow Callout</source>
-        <comment>EtCtrl__Down_Arrow_Callout_461</comment>
-        <translation type="obsolete">向下箭號圖說文字(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Down Ribbon</source>
-        <comment>EtCtrl__Down_Ribbon_472</comment>
-        <translation type="obsolete">綵帶 (向下)(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Draw</source>
-        <comment>EtCtrl__Draw_2333</comment>
-        <translation type="obsolete">繪圖(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Draw Border</source>
-        <comment>EtCtrl__Draw_Border_872</comment>
-        <translation type="obsolete">繪製框線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Draw Border</source>
-        <comment>EtCtrl__Draw_Border_901</comment>
-        <translation type="obsolete">繪製框線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Draw Border Grid</source>
-        <comment>EtCtrl__Draw_Border_Grid_902</comment>
-        <translation type="obsolete">繪製框線格線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Draw Border Grid</source>
-        <comment>EtCtrl__Draw_Border_Grid_905</comment>
-        <translation type="obsolete">繪製框線格線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Draw Borders...</source>
-        <comment>EtCtrl__Draw_Borders____880</comment>
-        <translation type="obsolete">繪製框線(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>&amp;Drawing</source>
-        <comment>EtCtrl__Drawing_64</comment>
-        <translation type="obsolete">繪圖(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Drawing and Writing Pen</source>
-        <comment>EtCtrl__Drawing_and_Writing_Pen_964</comment>
-        <translation type="obsolete">畫筆及手寫筆(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Dummy</source>
-        <comment>EtCtrl__Dummy_1466</comment>
-        <translation type="obsolete">Dummy(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <comment>EtCtrl__Edit_1003</comment>
-        <translation type="obsolete">編輯(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <comment>EtCtrl__Edit_1230</comment>
-        <translation type="obsolete">編輯(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <comment>EtCtrl__Edit_1416</comment>
-        <translation type="obsolete">編輯(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <comment>EtCtrl__Edit_2349</comment>
-        <translation type="obsolete">&amp;Edit</translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <comment>EtCtrl__Edit_613</comment>
-        <translation type="obsolete">編輯(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Box</source>
-        <comment>EtCtrl__Edit_Box_68</comment>
-        <translation type="obsolete">編輯方塊(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Points</source>
-        <comment>EtCtrl__Edit_Points_65</comment>
-        <translation type="obsolete">編輯端點(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Query...</source>
-        <comment>EtCtrl__Edit_Query____669</comment>
-        <translation type="obsolete">編輯查詢(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>&amp;Elbow Arrow Connector</source>
-        <comment>EtCtrl__Elbow_Arrow_Connector_747</comment>
-        <translation type="obsolete">肘形箭頭接點(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Elbow Connector</source>
-        <comment>EtCtrl__Elbow_Connector_375</comment>
-        <translation type="obsolete">肘形接點(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Elbow Connector</source>
-        <comment>EtCtrl__Elbow_Connector_720</comment>
-        <translation type="obsolete">肘形接點(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Elbow Double-Arrow Connector</source>
-        <comment>EtCtrl__Elbow_Double_Arrow_Connector_748</comment>
-        <translation type="obsolete">肘形雙箭頭接點(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Enable Selection</source>
-        <comment>EtCtrl__Enable_Selection_348</comment>
-        <translation type="obsolete">樞紐分析表選取模式(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Encoding</source>
-        <comment>EtCtrl__Encoding_2140</comment>
-        <translation type="obsolete">編碼(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Encoding</source>
-        <comment>EtCtrl__Encoding_2141</comment>
-        <translation type="obsolete">編碼(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Equal Sign</source>
-        <comment>EtCtrl__Equal_Sign_122</comment>
-        <translation type="obsolete">等號(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Erase Border</source>
-        <comment>EtCtrl__Erase_Border_873</comment>
-        <translation type="obsolete">清除框線(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Eraser</source>
-        <comment>EtCtrl__Eraser_942</comment>
-        <translation type="obsolete">清除(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Eraser</source>
-        <comment>EtCtrl__Eraser_998</comment>
-        <translation type="obsolete">清除(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Errors</source>
-        <comment>EtCtrl__Errors_2317</comment>
-        <translation type="obsolete">錯誤(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Exchange Folder...</source>
-        <comment>EtCtrl__Exchange_Folder____331</comment>
-        <translation type="obsolete">Exchange 資料夾(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>&amp;Exclude From Print Area</source>
-        <comment>EtCtrl__Exclude_From_Print_Area_599</comment>
-        <translation type="obsolete">從列印範圍中排除(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Exit Rotate Mode</source>
-        <comment>EtCtrl__Exit_Rotate_Mode_571</comment>
-        <translation type="obsolete">結束旋轉模式(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Expand Diagram</source>
-        <comment>EtCtrl__Expand_Diagram_913</comment>
-        <translation type="obsolete">展開資料圖表(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Explosion 1</source>
-        <comment>EtCtrl__Explosion_1_481</comment>
-        <translation type="obsolete">爆炸 1(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Explosion 2</source>
-        <comment>EtCtrl__Explosion_2_482</comment>
-        <translation type="obsolete">爆炸 2(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Exponentiation Sign</source>
-        <comment>EtCtrl__Exponentiation_Sign_127</comment>
-        <translation type="obsolete">乘冪符號(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Export</source>
-        <comment>EtCtrl__Export_2351</comment>
-        <translation type="obsolete">&amp;Export</translation>
-    </message>
-    <message>
-        <source>&amp;Export To</source>
-        <comment>EtCtrl__Export_To_2277</comment>
-        <translation type="obsolete">匯出至(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Export...</source>
-        <comment>EtCtrl__Export____939</comment>
-        <translation type="obsolete">匯出(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>&amp;External Services</source>
-        <comment>EtCtrl__External_Services_2328</comment>
-        <translation type="obsolete">&amp;External Services</translation>
-    </message>
-    <message>
-        <source>&amp;Field List Pane</source>
-        <comment>EtCtrl__Field_List_Pane_825</comment>
-        <translation type="obsolete">欄位清單窗格(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;File</source>
-        <comment>EtCtrl__File_1002</comment>
-        <translation type="obsolete">檔案(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;File</source>
-        <comment>EtCtrl__File_1052</comment>
-        <translation type="obsolete">檔案(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;File</source>
-        <comment>EtCtrl__File_1229</comment>
-        <translation type="obsolete">檔案(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;File</source>
-        <comment>EtCtrl__File_1415</comment>
-        <translation type="obsolete">檔案(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;File</source>
-        <comment>EtCtrl__File_2324</comment>
-        <translation type="obsolete">&amp;File</translation>
-    </message>
-    <message>
-        <source>&amp;Files</source>
-        <comment>EtCtrl__Files_2161</comment>
-        <translation type="obsolete">檔案(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Fill Color</source>
-        <comment>EtCtrl__Fill_Color_626</comment>
-        <translation type="obsolete">填滿色彩(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Fill Effects...</source>
-        <comment>EtCtrl__Fill_Effects____354</comment>
-        <translation type="obsolete">填滿效果(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Fill Effects...</source>
-        <comment>EtCtrl__Fill_Effects____751</comment>
-        <translation type="obsolete">填滿效果(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Filled Grid</source>
-        <comment>EtCtrl__Filled_Grid_878</comment>
-        <translation type="obsolete">實心格線(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Filter</source>
-        <comment>EtCtrl__Filter_1031</comment>
-        <translation type="obsolete">篩選(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Find File...</source>
-        <comment>EtCtrl__Find_File____38</comment>
-        <translation type="obsolete">尋找檔案(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Find...</source>
-        <comment>EtCtrl__Find____650</comment>
-        <translation type="obsolete">尋找(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Fit Diagram to Contents</source>
-        <comment>EtCtrl__Fit_Diagram_to_Contents_911</comment>
-        <translation type="obsolete">依內容調整資料圖表大小(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart</source>
-        <comment>EtCtrl__Flowchart_378</comment>
-        <translation type="obsolete">流程圖(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart</source>
-        <comment>EtCtrl__Flowchart_567</comment>
-        <translation type="obsolete">流程圖(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Alternate Process</source>
-        <comment>EtCtrl__Flowchart__Alternate_Process_484</comment>
-        <translation type="obsolete">流程圖: 替代處理程序(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Card</source>
-        <comment>EtCtrl__Flowchart__Card_497</comment>
-        <translation type="obsolete">流程圖: 卡片(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Collate</source>
-        <comment>EtCtrl__Flowchart__Collate_501</comment>
-        <translation type="obsolete">流程圖: 自動分頁(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Connector</source>
-        <comment>EtCtrl__Flowchart__Connector_495</comment>
-        <translation type="obsolete">流程圖: 接點(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Data</source>
-        <comment>EtCtrl__Flowchart__Data_486</comment>
-        <translation type="obsolete">流程圖: 資料(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Decision</source>
-        <comment>EtCtrl__Flowchart__Decision_485</comment>
-        <translation type="obsolete">流程圖: 決策(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Delay</source>
-        <comment>EtCtrl__Flowchart__Delay_510</comment>
-        <translation type="obsolete">流程圖: 延遲(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Direct Access Storage</source>
-        <comment>EtCtrl__Flowchart__Direct_Access_Storage_508</comment>
-        <translation type="obsolete">流程圖: 直接存取儲存裝置(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Display</source>
-        <comment>EtCtrl__Flowchart__Display_509</comment>
-        <translation type="obsolete">流程圖: 顯示(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Document</source>
-        <comment>EtCtrl__Flowchart__Document_489</comment>
-        <translation type="obsolete">流程圖: 文件(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Extract</source>
-        <comment>EtCtrl__Flowchart__Extract_503</comment>
-        <translation type="obsolete">流程圖: 抽選(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Internal Storage</source>
-        <comment>EtCtrl__Flowchart__Internal_Storage_488</comment>
-        <translation type="obsolete">流程圖: 內部儲存裝置(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Magnetic Disk</source>
-        <comment>EtCtrl__Flowchart__Magnetic_Disk_507</comment>
-        <translation type="obsolete">流程圖: 磁碟(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Manual Input</source>
-        <comment>EtCtrl__Flowchart__Manual_Input_493</comment>
-        <translation type="obsolete">流程圖: 人工輸入(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Manual Operation</source>
-        <comment>EtCtrl__Flowchart__Manual_Operation_494</comment>
-        <translation type="obsolete">流程圖: 人工作業(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Merge</source>
-        <comment>EtCtrl__Flowchart__Merge_504</comment>
-        <translation type="obsolete">流程圖: 合併(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Multidocument</source>
-        <comment>EtCtrl__Flowchart__Multidocument_490</comment>
-        <translation type="obsolete">流程圖: 多重文件(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Off-page Connector</source>
-        <comment>EtCtrl__Flowchart__Off_page_Connector_496</comment>
-        <translation type="obsolete">流程圖: 換頁接點(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Or</source>
-        <comment>EtCtrl__Flowchart__Or_500</comment>
-        <translation type="obsolete">流程圖: 或(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Predefined Process</source>
-        <comment>EtCtrl__Flowchart__Predefined_Process_487</comment>
-        <translation type="obsolete">流程圖: 預設處理作業(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Preparation</source>
-        <comment>EtCtrl__Flowchart__Preparation_492</comment>
-        <translation type="obsolete">流程圖: 準備作業(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Process</source>
-        <comment>EtCtrl__Flowchart__Process_483</comment>
-        <translation type="obsolete">流程圖: 程序(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Punched Tape</source>
-        <comment>EtCtrl__Flowchart__Punched_Tape_498</comment>
-        <translation type="obsolete">流程圖: 打孔紙帶(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Sequential Access Storage</source>
-        <comment>EtCtrl__Flowchart__Sequential_Access_Storage_506</comment>
-        <translation type="obsolete">流程圖: 循序存取儲存裝置(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Sort</source>
-        <comment>EtCtrl__Flowchart__Sort_502</comment>
-        <translation type="obsolete">流程圖: 排序(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Stored Data</source>
-        <comment>EtCtrl__Flowchart__Stored_Data_505</comment>
-        <translation type="obsolete">流程圖: 儲存資料(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Summing Junction</source>
-        <comment>EtCtrl__Flowchart__Summing_Junction_499</comment>
-        <translation type="obsolete">流程圖: 匯合連接點(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Flowchart: Terminator</source>
-        <comment>EtCtrl__Flowchart__Terminator_491</comment>
-        <translation type="obsolete">流程圖: 結束點(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Folded Corner</source>
-        <comment>EtCtrl__Folded_Corner_424</comment>
-        <translation type="obsolete">摺角紙張(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Folder</source>
-        <comment>EtCtrl__Folder_1114</comment>
-        <translation type="obsolete">資料夾(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Font Color</source>
-        <comment>EtCtrl__Font_Color_146</comment>
-        <translation type="obsolete">字型色彩(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Font Size:</source>
-        <comment>EtCtrl__Font_Size__634</comment>
-        <translation type="obsolete">字型大小(&amp;F):</translation>
-    </message>
-    <message>
-        <source>&amp;Font:</source>
-        <comment>EtCtrl__Font__633</comment>
-        <translation type="obsolete">字型(&amp;F):</translation>
-    </message>
-    <message>
-        <source>&amp;Fonts</source>
-        <comment>EtCtrl__Fonts_2139</comment>
-        <translation type="obsolete">字型(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Format Painter</source>
-        <comment>EtCtrl__Format_Painter_20</comment>
-        <translation type="obsolete">複製格式(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Format...</source>
-        <comment>EtCtrl__Format____862</comment>
-        <translation type="obsolete">格式(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Format...</source>
-        <comment>EtCtrl__Format____863</comment>
-        <translation type="obsolete">格式(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Formats</source>
-        <comment>EtCtrl__Formats_292</comment>
-        <translation type="obsolete">格式(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Forms</source>
-        <comment>EtCtrl__Forms_2132</comment>
-        <translation type="obsolete">表單(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Formula Bar</source>
-        <comment>EtCtrl__Formula_Bar_274</comment>
-        <translation type="obsolete">資料編輯列(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Formulas</source>
-        <comment>EtCtrl__Formulas_843</comment>
-        <translation type="obsolete">公式(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Forward</source>
-        <comment>EtCtrl__Forward_360</comment>
-        <translation type="obsolete">下一頁(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Frame</source>
-        <comment>EtCtrl__Frame_1164</comment>
-        <translation type="obsolete">圖文框(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Freeform</source>
-        <comment>EtCtrl__Freeform_62</comment>
-        <translation type="obsolete">手繪多邊形(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;Freeze Panes</source>
-        <comment>EtCtrl__Freeze_Panes_180</comment>
-        <translation type="obsolete">凍結窗格(&amp;F)</translation>
-    </message>
-    <message>
-        <source>&amp;From File...</source>
-        <comment>EtCtrl__From_File____734</comment>
-        <translation type="obsolete">從檔案(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Generate GetPivotData</source>
-        <comment>EtCtrl__Generate_GetPivotData_898</comment>
-        <translation type="obsolete">產生 GetPivotData(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Go</source>
-        <comment>EtCtrl__Go_1328</comment>
-        <translation type="obsolete">到(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Go To</source>
-        <comment>EtCtrl__Go_To_1039</comment>
-        <translation type="obsolete">到(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Go To...</source>
-        <comment>EtCtrl__Go_To____251</comment>
-        <translation type="obsolete">到(&amp;G)...</translation>
-    </message>
-    <message>
-        <source>&amp;Goal Seek...</source>
-        <comment>EtCtrl__Goal_Seek____278</comment>
-        <translation type="obsolete">目標搜尋(&amp;G)...</translation>
-    </message>
-    <message>
-        <source>&amp;Grayscale</source>
-        <comment>EtCtrl__Grayscale_535</comment>
-        <translation type="obsolete">灰階(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Group</source>
-        <comment>EtCtrl__Group_46</comment>
-        <translation type="obsolete">組成群組(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Group Box</source>
-        <comment>EtCtrl__Group_Box_203</comment>
-        <translation type="obsolete">群組方塊(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Group and Outline</source>
-        <comment>EtCtrl__Group_and_Outline_1032</comment>
-        <translation type="obsolete">群組及大綱(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Group and Show Detail</source>
-        <comment>EtCtrl__Group_and_Show_Detail_1251</comment>
-        <translation type="obsolete">群組及顯示詳細資料(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Group...</source>
-        <comment>EtCtrl__Group____767</comment>
-        <translation type="obsolete">群組(&amp;G)...</translation>
-    </message>
-    <message>
-        <source>&amp;Grouping</source>
-        <comment>EtCtrl__Grouping_1175</comment>
-        <translation type="obsolete">群組物件(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Groups</source>
-        <comment>EtCtrl__Groups_2168</comment>
-        <translation type="obsolete">群組(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Growth Trend</source>
-        <comment>EtCtrl__Growth_Trend_699</comment>
-        <translation type="obsolete">等比趨勢(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Hangul Hanja Conversion...</source>
-        <comment>EtCtrl__Hangul_Hanja_Conversion____772</comment>
-        <translation type="obsolete">韓文/漢字轉換(&amp;H)...</translation>
-    </message>
-    <message>
-        <source>&amp;Header and Footer...</source>
-        <comment>EtCtrl__Header_and_Footer____253</comment>
-        <translation type="obsolete">頁首及頁尾(&amp;H)...</translation>
-    </message>
-    <message>
-        <source>&amp;Heart</source>
-        <comment>EtCtrl__Heart_436</comment>
-        <translation type="obsolete">心形(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <comment>EtCtrl__Help_1010</comment>
-        <translation type="obsolete">說明(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <comment>EtCtrl__Help_1053</comment>
-        <translation type="obsolete">說明(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <comment>EtCtrl__Help_2327</comment>
-        <translation type="obsolete">&amp;Help</translation>
-    </message>
-    <message>
-        <source>&amp;Hexagon</source>
-        <comment>EtCtrl__Hexagon_415</comment>
-        <translation type="obsolete">六邊形(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <comment>EtCtrl__Hide_285</comment>
-        <translation type="obsolete">隱藏視窗(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <comment>EtCtrl__Hide_300</comment>
-        <translation type="obsolete">隱藏(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <comment>EtCtrl__Hide_303</comment>
-        <translation type="obsolete">隱藏(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <comment>EtCtrl__Hide_307</comment>
-        <translation type="obsolete">隱藏(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hide Detail</source>
-        <comment>EtCtrl__Hide_Detail_201</comment>
-        <translation type="obsolete">隱藏詳細資料(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hide Levels Below</source>
-        <comment>EtCtrl__Hide_Levels_Below_2344</comment>
-        <translation type="obsolete">隱藏階層低於(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hide PivotChart Field Buttons</source>
-        <comment>EtCtrl__Hide_PivotChart_Field_Buttons_802</comment>
-        <translation type="obsolete">隱藏樞紐分析圖欄位按鈕(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Highlight Changes...</source>
-        <comment>EtCtrl__Highlight_Changes____706</comment>
-        <translation type="obsolete">標示修訂處(&amp;H)...</translation>
-    </message>
-    <message>
-        <source>&amp;Horizontal Scroll</source>
-        <comment>EtCtrl__Horizontal_Scroll_423</comment>
-        <translation type="obsolete">書卷 (水平)(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Horizontal Spacing</source>
-        <comment>EtCtrl__Horizontal_Spacing_1043</comment>
-        <translation type="obsolete">水平間距(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Hyperlink</source>
-        <comment>EtCtrl__Hyperlink_1094</comment>
-        <translation type="obsolete">超連結(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Image</source>
-        <comment>EtCtrl__Image_718</comment>
-        <translation type="obsolete">圖像(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Import</source>
-        <comment>EtCtrl__Import_2350</comment>
-        <translation type="obsolete">&amp;Import</translation>
-    </message>
-    <message>
-        <source>&amp;Import...</source>
-        <comment>EtCtrl__Import____940</comment>
-        <translation type="obsolete">匯入(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>&amp;Increase Decimal</source>
-        <comment>EtCtrl__Increase_Decimal_144</comment>
-        <translation type="obsolete">增加小數位數(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Increase Font Size</source>
-        <comment>EtCtrl__Increase_Font_Size_148</comment>
-        <translation type="obsolete">放大字型(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Increase Indent</source>
-        <comment>EtCtrl__Increase_Indent_769</comment>
-        <translation type="obsolete">增加縮排(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Infinity</source>
-        <comment>EtCtrl__Infinity_552</comment>
-        <translation type="obsolete">無限(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Ink</source>
-        <comment>EtCtrl__Ink_2339</comment>
-        <translation type="obsolete">筆跡(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Ink Comment</source>
-        <comment>EtCtrl__Ink_Comment_2340</comment>
-        <translation type="obsolete">筆跡註解(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert</source>
-        <comment>EtCtrl__Insert_1005</comment>
-        <translation type="obsolete">插入(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert</source>
-        <comment>EtCtrl__Insert_1418</comment>
-        <translation type="obsolete">插入(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert</source>
-        <comment>EtCtrl__Insert_1444</comment>
-        <translation type="obsolete">插入(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert</source>
-        <comment>EtCtrl__Insert_2274</comment>
-        <translation type="obsolete">插入(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert</source>
-        <comment>EtCtrl__Insert_2348</comment>
-        <translation type="obsolete">插入(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert MS Excel 4.0 Macro</source>
-        <comment>EtCtrl__Insert_MS_Excel_4_0_Macro_116</comment>
-        <translation type="obsolete">插入 MS Excel 4.0 巨集(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert Row</source>
-        <comment>EtCtrl__Insert_Row_934</comment>
-        <translation type="obsolete">插入列(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert Script</source>
-        <comment>EtCtrl__Insert_Script_776</comment>
-        <translation type="obsolete">插入 Script(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert Table</source>
-        <comment>EtCtrl__Insert_Table_1462</comment>
-        <translation type="obsolete">插入表格(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Insert...</source>
-        <comment>EtCtrl__Insert____333</comment>
-        <translation type="obsolete">插入(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>&amp;Isosceles Triangle</source>
-        <comment>EtCtrl__Isosceles_Triangle_412</comment>
-        <translation type="obsolete">等腰三角形(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Italic</source>
-        <comment>EtCtrl__Italic_24</comment>
-        <translation type="obsolete">斜體(&amp;I)</translation>
-    </message>
-    <message>
-        <source>&amp;Journal</source>
-        <comment>EtCtrl__Journal_1081</comment>
-        <translation type="obsolete">日誌(&amp;J)</translation>
-    </message>
-    <message>
-        <source>&amp;Jump</source>
-        <comment>EtCtrl__Jump_2319</comment>
-        <translation type="obsolete">&amp;Jump</translation>
-    </message>
-    <message>
-        <source>&amp;Junk E-mail</source>
-        <comment>EtCtrl__Junk_E_mail_2126</comment>
-        <translation type="obsolete">垃圾郵件(&amp;J)</translation>
-    </message>
-    <message>
-        <source>&amp;Junk E-mail</source>
-        <comment>EtCtrl__Junk_E_mail_2353</comment>
-        <translation type="obsolete">垃圾郵件(&amp;J)</translation>
-    </message>
-    <message>
-        <source>&amp;Justify</source>
-        <comment>EtCtrl__Justify_291</comment>
-        <translation type="obsolete">段落重排(&amp;J)</translation>
-    </message>
-    <message>
-        <source>&amp;Justify</source>
-        <comment>EtCtrl__Justify_31</comment>
-        <translation type="obsolete">左右對齊(&amp;J)</translation>
-    </message>
-    <message>
-        <source>&amp;Kern Character Pairs</source>
-        <comment>EtCtrl__Kern_Character_Pairs_532</comment>
-        <translation type="obsolete">微調字距(&amp;K)</translation>
-    </message>
-    <message>
-        <source>&amp;Label</source>
-        <comment>EtCtrl__Label_209</comment>
-        <translation type="obsolete">標籤(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Label</source>
-        <comment>EtCtrl__Label_352</comment>
-        <translation type="obsolete">標籤(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Label...</source>
-        <comment>EtCtrl__Label____328</comment>
-        <translation type="obsolete">標籤(&amp;L)...</translation>
-    </message>
-    <message>
-        <source>&amp;Language</source>
-        <comment>EtCtrl__Language_1182</comment>
-        <translation type="obsolete">語言(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Language</source>
-        <comment>EtCtrl__Language_1443</comment>
-        <translation type="obsolete">語言(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <comment>EtCtrl__Layout_1146</comment>
-        <translation type="obsolete">版面配置(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <comment>EtCtrl__Layout_2158</comment>
-        <translation type="obsolete">版面配置(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <comment>EtCtrl__Layout_2179</comment>
-        <translation type="obsolete">版面配置(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left</source>
-        <comment>EtCtrl__Left_288</comment>
-        <translation type="obsolete">向左填滿(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left</source>
-        <comment>EtCtrl__Left_371</comment>
-        <translation type="obsolete">左(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Align</source>
-        <comment>EtCtrl__Left_Align_403</comment>
-        <translation type="obsolete">靠左對齊(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Arrow</source>
-        <comment>EtCtrl__Left_Arrow_438</comment>
-        <translation type="obsolete">向左箭號(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Arrow Callout</source>
-        <comment>EtCtrl__Left_Arrow_Callout_459</comment>
-        <translation type="obsolete">向左箭號圖說文字(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Border</source>
-        <comment>EtCtrl__Left_Border_41</comment>
-        <translation type="obsolete">左框線(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Brace</source>
-        <comment>EtCtrl__Left_Brace_432</comment>
-        <translation type="obsolete">左大括弧(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Bracket</source>
-        <comment>EtCtrl__Left_Bracket_430</comment>
-        <translation type="obsolete">左中括弧(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Hanging</source>
-        <comment>EtCtrl__Left_Hanging_896</comment>
-        <translation type="obsolete">首行由左開始(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left Parenthesis</source>
-        <comment>EtCtrl__Left_Parenthesis_128</comment>
-        <translation type="obsolete">左括弧(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left-Right Arrow</source>
-        <comment>EtCtrl__Left_Right_Arrow_441</comment>
-        <translation type="obsolete">左-右雙向箭號(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left-Right Arrow Callout</source>
-        <comment>EtCtrl__Left_Right_Arrow_Callout_462</comment>
-        <translation type="obsolete">左-右雙向箭號圖說文字(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left-Right-Up Arrow</source>
-        <comment>EtCtrl__Left_Right_Up_Arrow_444</comment>
-        <translation type="obsolete">左-右-上三向箭號(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left-Up Arrow</source>
-        <comment>EtCtrl__Left_Up_Arrow_445</comment>
-        <translation type="obsolete">左-上雙向箭號(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Left-to-Right</source>
-        <comment>EtCtrl__Left_to_Right_647</comment>
-        <translation type="obsolete">從左至右(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Legend</source>
-        <comment>EtCtrl__Legend_176</comment>
-        <translation type="obsolete">圖例(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Less Brightness</source>
-        <comment>EtCtrl__Less_Brightness_396</comment>
-        <translation type="obsolete">降低亮度(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Less Contrast</source>
-        <comment>EtCtrl__Less_Contrast_394</comment>
-        <translation type="obsolete">降低對比(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Level</source>
-        <comment>EtCtrl__Level_884</comment>
-        <translation type="obsolete">層次(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Light Shading</source>
-        <comment>EtCtrl__Light_Shading_139</comment>
-        <translation type="obsolete">淡網底(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Lighting</source>
-        <comment>EtCtrl__Lighting_545</comment>
-        <translation type="obsolete">光源(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Lightning Bolt</source>
-        <comment>EtCtrl__Lightning_Bolt_435</comment>
-        <translation type="obsolete">閃電(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line</source>
-        <comment>EtCtrl__Line_36</comment>
-        <translation type="obsolete">線條(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 1</source>
-        <comment>EtCtrl__Line_Callout_1_511</comment>
-        <translation type="obsolete">直線圖說文字 1(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 1 (Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_1__Accent_Bar__512</comment>
-        <translation type="obsolete">直線圖說文字 1 (加上強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 1 (Border and Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_1__Border_and_Accent_Bar__520</comment>
-        <translation type="obsolete">直線圖說文字 1 (加上框線和強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 1 (No Border)</source>
-        <comment>EtCtrl__Line_Callout_1__No_Border__516</comment>
-        <translation type="obsolete">直線圖說文字 1 (無框線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 2</source>
-        <comment>EtCtrl__Line_Callout_2_469</comment>
-        <translation type="obsolete">直線圖說文字 2(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 2 (Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_2__Accent_Bar__513</comment>
-        <translation type="obsolete">直線圖說文字 2 (加上強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 2 (Border and Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_2__Border_and_Accent_Bar__521</comment>
-        <translation type="obsolete">直線圖說文字 2 (加上框線和強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 2 (No Border)</source>
-        <comment>EtCtrl__Line_Callout_2__No_Border__517</comment>
-        <translation type="obsolete">直線圖說文字 2 (無框線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 3</source>
-        <comment>EtCtrl__Line_Callout_3_470</comment>
-        <translation type="obsolete">直線圖說文字 3(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 3 (Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_3__Accent_Bar__514</comment>
-        <translation type="obsolete">直線圖說文字 3 (加上強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 3 (Border and Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_3__Border_and_Accent_Bar__522</comment>
-        <translation type="obsolete">直線圖說文字 3 (加上框線和強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 3 (No Border)</source>
-        <comment>EtCtrl__Line_Callout_3__No_Border__518</comment>
-        <translation type="obsolete">直線圖說文字 3 (無框線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 4</source>
-        <comment>EtCtrl__Line_Callout_4_471</comment>
-        <translation type="obsolete">直線圖說文字 4(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 4 (Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_4__Accent_Bar__515</comment>
-        <translation type="obsolete">直線圖說文字 4 (加上強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 4 (Border and Accent Bar)</source>
-        <comment>EtCtrl__Line_Callout_4__Border_and_Accent_Bar__405</comment>
-        <translation type="obsolete">直線圖說文字 4 (加上框線和強調線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Callout 4 (No Border)</source>
-        <comment>EtCtrl__Line_Callout_4__No_Border__519</comment>
-        <translation type="obsolete">直線圖說文字 4 (無框線)(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Chart</source>
-        <comment>EtCtrl__Line_Chart_160</comment>
-        <translation type="obsolete">折線圖(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Color</source>
-        <comment>EtCtrl__Line_Color_627</comment>
-        <translation type="obsolete">線條色彩(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Color</source>
-        <comment>EtCtrl__Line_Color_875</comment>
-        <translation type="obsolete">線條色彩(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Style</source>
-        <comment>EtCtrl__Line_Style_240</comment>
-        <translation type="obsolete">線條樣式(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Line Style</source>
-        <comment>EtCtrl__Line_Style_874</comment>
-        <translation type="obsolete">線條樣式(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Linear Trend</source>
-        <comment>EtCtrl__Linear_Trend_698</comment>
-        <translation type="obsolete">等差趨勢(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Lines</source>
-        <comment>EtCtrl__Lines_736</comment>
-        <translation type="obsolete">線條(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Link</source>
-        <comment>EtCtrl__Link_2152</comment>
-        <translation type="obsolete">連結(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Link Here</source>
-        <comment>EtCtrl__Link_Here_723</comment>
-        <translation type="obsolete">連結到這裡(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;List</source>
-        <comment>EtCtrl__List_2262</comment>
-        <translation type="obsolete">清單(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;List Box</source>
-        <comment>EtCtrl__List_Box_654</comment>
-        <translation type="obsolete">清單方塊(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;List Formulas</source>
-        <comment>EtCtrl__List_Formulas_349</comment>
-        <translation type="obsolete">顯示公式(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Location...</source>
-        <comment>EtCtrl__Location____338</comment>
-        <translation type="obsolete">圖表位置(&amp;L)...</translation>
-    </message>
-    <message>
-        <source>&amp;Look Up...</source>
-        <comment>EtCtrl__Look_Up____948</comment>
-        <translation type="obsolete">查詢(&amp;L)...</translation>
-    </message>
-    <message>
-        <source>&amp;Loose</source>
-        <comment>EtCtrl__Loose_530</comment>
-        <translation type="obsolete">鬆(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Lotus 1-2-3 Help...</source>
-        <comment>EtCtrl__Lotus_1_2_3_Help____329</comment>
-        <translation type="obsolete">Lotus 1-2-3 說明(&amp;L)...</translation>
-    </message>
-    <message>
-        <source>&amp;Macro</source>
-        <comment>EtCtrl__Macro_1017</comment>
-        <translation type="obsolete">巨集(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Macro</source>
-        <comment>EtCtrl__Macro_1379</comment>
-        <translation type="obsolete">巨集(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Macros...</source>
-        <comment>EtCtrl__Macros____55</comment>
-        <translation type="obsolete">巨集(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;Mail</source>
-        <comment>EtCtrl__Mail_1133</comment>
-        <translation type="obsolete">郵件(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Mail</source>
-        <comment>EtCtrl__Mail_1183</comment>
-        <translation type="obsolete">郵件(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Mail Merge</source>
-        <comment>EtCtrl__Mail_Merge_2167</comment>
-        <translation type="obsolete">合併列印(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Mail Recipient</source>
-        <comment>EtCtrl__Mail_Recipient_787</comment>
-        <translation type="obsolete">郵件收件者(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Make Same Size</source>
-        <comment>EtCtrl__Make_Same_Size_1091</comment>
-        <translation type="obsolete">設定成相同大小(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Master</source>
-        <comment>EtCtrl__Master_1033</comment>
-        <translation type="obsolete">母片(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Matte</source>
-        <comment>EtCtrl__Matte_558</comment>
-        <translation type="obsolete">草蓆質感(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Max</source>
-        <comment>EtCtrl__Max_687</comment>
-        <translation type="obsolete">最大值(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Max</source>
-        <comment>EtCtrl__Max_830</comment>
-        <translation type="obsolete">最大值(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Meet Now</source>
-        <comment>EtCtrl__Meet_Now_785</comment>
-        <translation type="obsolete">立即開會(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Merge Across</source>
-        <comment>EtCtrl__Merge_Across_640</comment>
-        <translation type="obsolete">合併同列儲存格(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Merge Cells</source>
-        <comment>EtCtrl__Merge_Cells_257</comment>
-        <translation type="obsolete">合併儲存格(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Merge and Center</source>
-        <comment>EtCtrl__Merge_and_Center_147</comment>
-        <translation type="obsolete">跨欄置中(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <comment>EtCtrl__Message_1115</comment>
-        <translation type="obsolete">訊息(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Microsoft Office Online</source>
-        <comment>EtCtrl__Microsoft_Office_Online_790</comment>
-        <translation type="obsolete">Microsoft Office Online(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Microsoft Word</source>
-        <comment>EtCtrl__Microsoft_Word_11</comment>
-        <translation type="obsolete">Microsoft Word(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Minus Sign</source>
-        <comment>EtCtrl__Minus_Sign_124</comment>
-        <translation type="obsolete">減號(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Modify Selection</source>
-        <comment>EtCtrl__Modify_Selection_1047</comment>
-        <translation type="obsolete">修改選取範圍(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Moon</source>
-        <comment>EtCtrl__Moon_740</comment>
-        <translation type="obsolete">月亮(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;More</source>
-        <comment>EtCtrl__More_2147</comment>
-        <translation type="obsolete">其他(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;More</source>
-        <comment>EtCtrl__More_2148</comment>
-        <translation type="obsolete">其他(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;More 3-D Colors...</source>
-        <comment>EtCtrl__More_3_D_Colors____402</comment>
-        <translation type="obsolete">其他立體色彩(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;More Arrows...</source>
-        <comment>EtCtrl__More_Arrows____385</comment>
-        <translation type="obsolete">其他箭號(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;More AutoShapes...</source>
-        <comment>EtCtrl__More_AutoShapes____799</comment>
-        <translation type="obsolete">其他的快取圖案(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;More Brightness</source>
-        <comment>EtCtrl__More_Brightness_395</comment>
-        <translation type="obsolete">提高亮度(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;More Contrast</source>
-        <comment>EtCtrl__More_Contrast_393</comment>
-        <translation type="obsolete">提高對比(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;More Controls...</source>
-        <comment>EtCtrl__More_Controls____231</comment>
-        <translation type="obsolete">其他控制項(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;More Fill Colors...</source>
-        <comment>EtCtrl__More_Fill_Colors____381</comment>
-        <translation type="obsolete">其他填滿色彩(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;More Line Colors...</source>
-        <comment>EtCtrl__More_Line_Colors____382</comment>
-        <translation type="obsolete">其他線條色彩(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;More Lines...</source>
-        <comment>EtCtrl__More_Lines____384</comment>
-        <translation type="obsolete">其他線條(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;More Shadow Colors...</source>
-        <comment>EtCtrl__More_Shadow_Colors____401</comment>
-        <translation type="obsolete">其他陰影色彩(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;Move</source>
-        <comment>EtCtrl__Move_268</comment>
-        <translation type="obsolete">移動(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Move Here</source>
-        <comment>EtCtrl__Move_Here_709</comment>
-        <translation type="obsolete">移到這裡(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Move Page To</source>
-        <comment>EtCtrl__Move_Page_To_2306</comment>
-        <translation type="obsolete">移動頁面至(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Move or Copy Sheet...</source>
-        <comment>EtCtrl__Move_or_Copy_Sheet____273</comment>
-        <translation type="obsolete">移動或複製工作表(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;Movies and Sounds</source>
-        <comment>EtCtrl__Movies_and_Sounds_1223</comment>
-        <translation type="obsolete">影片及聲音(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Multiplication Sign</source>
-        <comment>EtCtrl__Multiplication_Sign_125</comment>
-        <translation type="obsolete">乘號(&amp;M)</translation>
-    </message>
-    <message>
-        <source>&amp;Name</source>
-        <comment>EtCtrl__Name_1023</comment>
-        <translation type="obsolete">名稱(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Navigate Circular Reference:</source>
-        <comment>EtCtrl__Navigate_Circular_Reference__620</comment>
-        <translation type="obsolete">巡覽循環參照(&amp;N):</translation>
-    </message>
-    <message>
-        <source>&amp;Navigation Buttons</source>
-        <comment>EtCtrl__Navigation_Buttons_2191</comment>
-        <translation type="obsolete">導覽按鈕(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <comment>EtCtrl__New_1116</comment>
-        <translation type="obsolete">新增(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <comment>EtCtrl__New_2169</comment>
-        <translation type="obsolete">新增(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <comment>EtCtrl__New_2227</comment>
-        <translation type="obsolete">新增(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <comment>EtCtrl__New_2228</comment>
-        <translation type="obsolete">新增(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <comment>EtCtrl__New_729</comment>
-        <translation type="obsolete">開新檔案(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New Database Query...</source>
-        <comment>EtCtrl__New_Database_Query____716</comment>
-        <translation type="obsolete">新增資料庫查詢(&amp;N)...</translation>
-    </message>
-    <message>
-        <source>&amp;New Drawing</source>
-        <comment>EtCtrl__New_Drawing_833</comment>
-        <translation type="obsolete">新增繪圖物件(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New Window</source>
-        <comment>EtCtrl__New_Window_107</comment>
-        <translation type="obsolete">開新視窗(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;New...</source>
-        <comment>EtCtrl__New____5</comment>
-        <translation type="obsolete">開新檔案(&amp;N)...</translation>
-    </message>
-    <message>
-        <source>&amp;Next Comment</source>
-        <comment>EtCtrl__Next_Comment_603</comment>
-        <translation type="obsolete">下一個註解(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;No Color</source>
-        <comment>EtCtrl__No_Color_583</comment>
-        <translation type="obsolete">無色彩(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;None</source>
-        <comment>EtCtrl__None_683</comment>
-        <translation type="obsolete">無(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Normal</source>
-        <comment>EtCtrl__Normal_244</comment>
-        <translation type="obsolete">標準模式(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Normal</source>
-        <comment>EtCtrl__Normal_529</comment>
-        <translation type="obsolete">標準(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Normal</source>
-        <comment>EtCtrl__Normal_556</comment>
-        <translation type="obsolete">標準(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Notched Right Arrow</source>
-        <comment>EtCtrl__Notched_Right_Arrow_450</comment>
-        <translation type="obsolete">燕尾形向右箭號(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Note</source>
-        <comment>EtCtrl__Note_1119</comment>
-        <translation type="obsolete">記事(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Notes</source>
-        <comment>EtCtrl__Notes_2307</comment>
-        <translation type="obsolete">附註(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Nudge</source>
-        <comment>EtCtrl__Nudge_1082</comment>
-        <translation type="obsolete">微調(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Nudge Shadow Down</source>
-        <comment>EtCtrl__Nudge_Shadow_Down_398</comment>
-        <translation type="obsolete">陰影向下微調(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Nudge Shadow Left</source>
-        <comment>EtCtrl__Nudge_Shadow_Left_399</comment>
-        <translation type="obsolete">陰影向左微調(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Nudge Shadow Right</source>
-        <comment>EtCtrl__Nudge_Shadow_Right_400</comment>
-        <translation type="obsolete">陰影向右微調(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Nudge Shadow Up</source>
-        <comment>EtCtrl__Nudge_Shadow_Up_397</comment>
-        <translation type="obsolete">陰影向上微調(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Number of Days</source>
-        <comment>EtCtrl__Number_of_Days_1120</comment>
-        <translation type="obsolete">天數(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Object</source>
-        <comment>EtCtrl__Object_1019</comment>
-        <translation type="obsolete">物件(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Object</source>
-        <comment>EtCtrl__Object_1112</comment>
-        <translation type="obsolete">物件(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Object</source>
-        <comment>EtCtrl__Object_342</comment>
-        <translation type="obsolete">物件(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Object...</source>
-        <comment>EtCtrl__Object____227</comment>
-        <translation type="obsolete">物件(&amp;O)...</translation>
-    </message>
-    <message>
-        <source>&amp;Octagon</source>
-        <comment>EtCtrl__Octagon_411</comment>
-        <translation type="obsolete">八邊形(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Office Assistant</source>
-        <comment>EtCtrl__Office_Assistant_1437</comment>
-        <translation type="obsolete">Office 小幫手(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Online Broadcast</source>
-        <comment>EtCtrl__Online_Broadcast_1448</comment>
-        <translation type="obsolete">線上廣播(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Online Meeting Participant</source>
-        <comment>EtCtrl__Online_Meeting_Participant_786</comment>
-        <translation type="obsolete">線上會議參與者(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <comment>EtCtrl__Open_1704</comment>
-        <translation type="obsolete">開啟舊檔(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <comment>EtCtrl__Open_2170</comment>
-        <translation type="obsolete">開啟舊檔(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Open Hyperlink</source>
-        <comment>EtCtrl__Open_Hyperlink_357</comment>
-        <translation type="obsolete">開啟超連結(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Open-High-Low-Close Chart</source>
-        <comment>EtCtrl__Open_High_Low_Close_Chart_646</comment>
-        <translation type="obsolete">開盤-高-低-收盤股價圖(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Option Button</source>
-        <comment>EtCtrl__Option_Button_653</comment>
-        <translation type="obsolete">選項按鈕(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Options</source>
-        <comment>EtCtrl__Options_2160</comment>
-        <translation type="obsolete">選項(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Options</source>
-        <comment>EtCtrl__Options_2183</comment>
-        <translation type="obsolete">選項(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Options</source>
-        <comment>EtCtrl__Options_2313</comment>
-        <translation type="obsolete">選項(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Options...</source>
-        <comment>EtCtrl__Options____223</comment>
-        <translation type="obsolete">選項(&amp;O)...</translation>
-    </message>
-    <message>
-        <source>&amp;Organization Chart</source>
-        <comment>EtCtrl__Organization_Chart_243</comment>
-        <translation type="obsolete">組織圖(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Outlook Help</source>
-        <comment>EtCtrl__Outlook_Help_1397</comment>
-        <translation type="obsolete">Outlook 說明(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Outside Borders</source>
-        <comment>EtCtrl__Outside_Borders_44</comment>
-        <translation type="obsolete">外框線(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Oval</source>
-        <comment>EtCtrl__Oval_414</comment>
-        <translation type="obsolete">橢圓(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Oval Callout</source>
-        <comment>EtCtrl__Oval_Callout_467</comment>
-        <translation type="obsolete">橢圓形圖說文字(&amp;O)</translation>
-    </message>
-    <message>
-        <source>&amp;Packages</source>
-        <comment>EtCtrl__Packages_2251</comment>
-        <translation type="obsolete">套件(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Page</source>
-        <comment>EtCtrl__Page_2321</comment>
-        <translation type="obsolete">&amp;Page</translation>
-    </message>
-    <message>
-        <source>&amp;Page Break Preview</source>
-        <comment>EtCtrl__Page_Break_Preview_245</comment>
-        <translation type="obsolete">分頁預覽(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Parallelogram</source>
-        <comment>EtCtrl__Parallelogram_407</comment>
-        <translation type="obsolete">平行四邊形(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Paste</source>
-        <comment>EtCtrl__Paste_8</comment>
-        <translation type="obsolete">貼上(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Paste</source>
-        <comment>EtCtrl__Paste_868</comment>
-        <translation type="obsolete">貼上(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Paste Formatting</source>
-        <comment>EtCtrl__Paste_Formatting_118</comment>
-        <translation type="obsolete">貼上格式設定(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Paste Values</source>
-        <comment>EtCtrl__Paste_Values_119</comment>
-        <translation type="obsolete">貼上值(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Paste...</source>
-        <comment>EtCtrl__Paste____296</comment>
-        <translation type="obsolete">貼上(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>&amp;Pattern</source>
-        <comment>EtCtrl__Pattern_617</comment>
-        <translation type="obsolete">圖樣(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Pattern</source>
-        <comment>EtCtrl__Pattern_682</comment>
-        <translation type="obsolete">圖樣(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Patterned Lines...</source>
-        <comment>EtCtrl__Patterned_Lines____383</comment>
-        <translation type="obsolete">圖樣線條(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>&amp;Pens</source>
-        <comment>EtCtrl__Pens_2345</comment>
-        <translation type="obsolete">畫筆(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Pentagon</source>
-        <comment>EtCtrl__Pentagon_451</comment>
-        <translation type="obsolete">五邊形(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Percent Sign</source>
-        <comment>EtCtrl__Percent_Sign_132</comment>
-        <translation type="obsolete">百分比符號(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Percent Style</source>
-        <comment>EtCtrl__Percent_Style_142</comment>
-        <translation type="obsolete">百分比樣式(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Perspective</source>
-        <comment>EtCtrl__Perspective_553</comment>
-        <translation type="obsolete">遠近景深(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Picture</source>
-        <comment>EtCtrl__Picture_1180</comment>
-        <translation type="obsolete">圖片(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Pie Chart</source>
-        <comment>EtCtrl__Pie_Chart_161</comment>
-        <translation type="obsolete">圓形圖(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;PivotChart</source>
-        <comment>EtCtrl__PivotChart_1469</comment>
-        <translation type="obsolete">樞紐分析圖(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;PivotTable</source>
-        <comment>EtCtrl__PivotTable_1253</comment>
-        <translation type="obsolete">樞紐分析表(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;PivotTable and PivotChart Report...</source>
-        <comment>EtCtrl__PivotTable_and_PivotChart_Report____758</comment>
-        <translation type="obsolete">樞紐分析表及圖報表(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>&amp;Placement</source>
-        <comment>EtCtrl__Placement_1027</comment>
-        <translation type="obsolete">位置(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Plaque</source>
-        <comment>EtCtrl__Plaque_418</comment>
-        <translation type="obsolete">匾額(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Plastic</source>
-        <comment>EtCtrl__Plastic_559</comment>
-        <translation type="obsolete">塑膠質感(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Plus Sign</source>
-        <comment>EtCtrl__Plus_Sign_123</comment>
-        <translation type="obsolete">加號(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Preset Animation</source>
-        <comment>EtCtrl__Preset_Animation_1408</comment>
-        <translation type="obsolete">預設動畫(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Previous Comment</source>
-        <comment>EtCtrl__Previous_Comment_602</comment>
-        <translation type="obsolete">前一註解(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Print...</source>
-        <comment>EtCtrl__Print____4</comment>
-        <translation type="obsolete">列印(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>&amp;Problems</source>
-        <comment>EtCtrl__Problems_2162</comment>
-        <translation type="obsolete">問題(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Protect Sheet...</source>
-        <comment>EtCtrl__Protect_Sheet____310</comment>
-        <translation type="obsolete">保護工作表(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>&amp;Protection</source>
-        <comment>EtCtrl__Protection_1029</comment>
-        <translation type="obsolete">保護(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Publish List...</source>
-        <comment>EtCtrl__Publish_List____947</comment>
-        <translation type="obsolete">發佈清單(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>&amp;Pyramid</source>
-        <comment>EtCtrl__Pyramid_869</comment>
-        <translation type="obsolete">金字塔(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Pyramid Diagram</source>
-        <comment>EtCtrl__Pyramid_Diagram_836</comment>
-        <translation type="obsolete">堆疊圖表(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Quad Arrow</source>
-        <comment>EtCtrl__Quad_Arrow_443</comment>
-        <translation type="obsolete">全向箭號(&amp;Q)</translation>
-    </message>
-    <message>
-        <source>&amp;Quad Arrow Callout</source>
-        <comment>EtCtrl__Quad_Arrow_Callout_464</comment>
-        <translation type="obsolete">全向箭號圖說文字(&amp;Q)</translation>
-    </message>
-    <message>
-        <source>&amp;Query</source>
-        <comment>EtCtrl__Query_1016</comment>
-        <translation type="obsolete">查詢(&amp;Q)</translation>
-    </message>
-    <message>
-        <source>&amp;Quick Sort</source>
-        <comment>EtCtrl__Quick_Sort_1040</comment>
-        <translation type="obsolete">快速排序(&amp;Q)</translation>
-    </message>
-    <message>
-        <source>&amp;Radar Chart</source>
-        <comment>EtCtrl__Radar_Chart_170</comment>
-        <translation type="obsolete">雷達圖(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Radial</source>
-        <comment>EtCtrl__Radial_839</comment>
-        <translation type="obsolete">星形圖(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Radial Diagram</source>
-        <comment>EtCtrl__Radial_Diagram_834</comment>
-        <translation type="obsolete">星形圖表(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Recent File Name Goes Here</source>
-        <comment>EtCtrl__Recent_File_Name_Goes_Here_263</comment>
-        <translation type="obsolete">最近使用的檔案名稱(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Record Macro</source>
-        <comment>EtCtrl__Record_Macro_1030</comment>
-        <translation type="obsolete">錄製巨集(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Record New Macro...</source>
-        <comment>EtCtrl__Record_New_Macro____54</comment>
-        <translation type="obsolete">錄製新巨集(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>&amp;Records</source>
-        <comment>EtCtrl__Records_1014</comment>
-        <translation type="obsolete">記錄(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rectangle</source>
-        <comment>EtCtrl__Rectangle_406</comment>
-        <translation type="obsolete">矩形(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rectangular Callout</source>
-        <comment>EtCtrl__Rectangular_Callout_465</comment>
-        <translation type="obsolete">矩形圖說文字(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Redial</source>
-        <comment>EtCtrl__Redial_1147</comment>
-        <translation type="obsolete">重撥(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Redo</source>
-        <comment>EtCtrl__Redo_35</comment>
-        <translation type="obsolete">取消復原(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Refresh</source>
-        <comment>EtCtrl__Refresh_362</comment>
-        <translation type="obsolete">重新整理(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Refresh Data</source>
-        <comment>EtCtrl__Refresh_Data_196</comment>
-        <translation type="obsolete">更新資料(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Refresh Status</source>
-        <comment>EtCtrl__Refresh_Status_673</comment>
-        <translation type="obsolete">更新狀態(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Refresh XML Data</source>
-        <comment>EtCtrl__Refresh_XML_Data_960</comment>
-        <translation type="obsolete">重新整理 XML 資料(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Regular Pentagon</source>
-        <comment>EtCtrl__Regular_Pentagon_419</comment>
-        <translation type="obsolete">一般五邊形(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Relationships</source>
-        <comment>EtCtrl__Relationships_1018</comment>
-        <translation type="obsolete">資料庫關聯圖(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Remote Mail</source>
-        <comment>EtCtrl__Remote_Mail_1170</comment>
-        <translation type="obsolete">遠端郵件(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Remove Dependent Arrows</source>
-        <comment>EtCtrl__Remove_Dependent_Arrows_187</comment>
-        <translation type="obsolete">移除從屬參照箭號(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Remove Hyperlink</source>
-        <comment>EtCtrl__Remove_Hyperlink_774</comment>
-        <translation type="obsolete">移除超連結(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Remove Precedent Arrows</source>
-        <comment>EtCtrl__Remove_Precedent_Arrows_189</comment>
-        <translation type="obsolete">移除前導參照箭號(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <comment>EtCtrl__Rename_306</comment>
-        <translation type="obsolete">重新命名(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Research...</source>
-        <comment>EtCtrl__Research____932</comment>
-        <translation type="obsolete">參考資料(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>&amp;Reset Picture</source>
-        <comment>EtCtrl__Reset_Picture_533</comment>
-        <translation type="obsolete">重設圖片(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Reset Print Area</source>
-        <comment>EtCtrl__Reset_Print_Area_704</comment>
-        <translation type="obsolete">重設列印範圍(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Reset Window Position</source>
-        <comment>EtCtrl__Reset_Window_Position_963</comment>
-        <translation type="obsolete">重新設定視窗位置(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Resize List...</source>
-        <comment>EtCtrl__Resize_List____957</comment>
-        <translation type="obsolete">調整清單大小(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>&amp;Resolve</source>
-        <comment>EtCtrl__Resolve_2235</comment>
-        <translation type="obsolete">解決(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Restore</source>
-        <comment>EtCtrl__Restore_266</comment>
-        <translation type="obsolete">還原(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Reverse Diagram</source>
-        <comment>EtCtrl__Reverse_Diagram_889</comment>
-        <translation type="obsolete">反轉圖表(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Reviewers</source>
-        <comment>EtCtrl__Reviewers_2184</comment>
-        <translation type="obsolete">檢閱者(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right</source>
-        <comment>EtCtrl__Right_120</comment>
-        <translation type="obsolete">向右填滿(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right</source>
-        <comment>EtCtrl__Right_372</comment>
-        <translation type="obsolete">右(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Align</source>
-        <comment>EtCtrl__Right_Align_523</comment>
-        <translation type="obsolete">靠右對齊(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Arrow</source>
-        <comment>EtCtrl__Right_Arrow_437</comment>
-        <translation type="obsolete">向右箭號(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Arrow Callout</source>
-        <comment>EtCtrl__Right_Arrow_Callout_458</comment>
-        <translation type="obsolete">向右箭號圖說文字(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Border</source>
-        <comment>EtCtrl__Right_Border_42</comment>
-        <translation type="obsolete">右框線(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Brace</source>
-        <comment>EtCtrl__Right_Brace_433</comment>
-        <translation type="obsolete">右大括弧(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Bracket</source>
-        <comment>EtCtrl__Right_Bracket_431</comment>
-        <translation type="obsolete">右中括弧(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Hanging</source>
-        <comment>EtCtrl__Right_Hanging_897</comment>
-        <translation type="obsolete">首行由右開始(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Parenthesis</source>
-        <comment>EtCtrl__Right_Parenthesis_129</comment>
-        <translation type="obsolete">右括弧(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right Triangle</source>
-        <comment>EtCtrl__Right_Triangle_413</comment>
-        <translation type="obsolete">直角三角形(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Right-to-Left</source>
-        <comment>EtCtrl__Right_to_Left_648</comment>
-        <translation type="obsolete">從右至左(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rotate Text Down</source>
-        <comment>EtCtrl__Rotate_Text_Down_152</comment>
-        <translation type="obsolete">文字由上至下排列(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rotate Text Up</source>
-        <comment>EtCtrl__Rotate_Text_Up_151</comment>
-        <translation type="obsolete">文字由下至上排列(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rounded Rectangle</source>
-        <comment>EtCtrl__Rounded_Rectangle_410</comment>
-        <translation type="obsolete">圓角矩形(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rounded Rectangular Callout</source>
-        <comment>EtCtrl__Rounded_Rectangular_Callout_466</comment>
-        <translation type="obsolete">圓角矩形圖說文字(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Row</source>
-        <comment>EtCtrl__Row_1024</comment>
-        <translation type="obsolete">列(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rows</source>
-        <comment>EtCtrl__Rows_103</comment>
-        <translation type="obsolete">列(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Rule Lines</source>
-        <comment>EtCtrl__Rule_Lines_2343</comment>
-        <translation type="obsolete">對齊線(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Run</source>
-        <comment>EtCtrl__Run_1012</comment>
-        <translation type="obsolete">執行(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Run Dialog</source>
-        <comment>EtCtrl__Run_Dialog_206</comment>
-        <translation type="obsolete">執行對話方塊(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <comment>EtCtrl__Save_3</comment>
-        <translation type="obsolete">儲存檔案(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Scenario:</source>
-        <comment>EtCtrl__Scenario__637</comment>
-        <translation type="obsolete">分析藍本(&amp;S):</translation>
-    </message>
-    <message>
-        <source>&amp;Schedule Meeting...</source>
-        <comment>EtCtrl__Schedule_Meeting____813</comment>
-        <translation type="obsolete">排定會議(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Scribble</source>
-        <comment>EtCtrl__Scribble_154</comment>
-        <translation type="obsolete">手繪多邊形(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Scroll Bar</source>
-        <comment>EtCtrl__Scroll_Bar_184</comment>
-        <translation type="obsolete">捲軸(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Scroll Bar</source>
-        <comment>EtCtrl__Scroll_Bar_658</comment>
-        <translation type="obsolete">捲軸(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Search</source>
-        <comment>EtCtrl__Search_2322</comment>
-        <translation type="obsolete">&amp;Search</translation>
-    </message>
-    <message>
-        <source>&amp;Section</source>
-        <comment>EtCtrl__Section_2278</comment>
-        <translation type="obsolete">區段(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select</source>
-        <comment>EtCtrl__Select_1252</comment>
-        <translation type="obsolete">選取(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select</source>
-        <comment>EtCtrl__Select_2273</comment>
-        <translation type="obsolete">選取(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select</source>
-        <comment>EtCtrl__Select_2346</comment>
-        <translation type="obsolete">選取(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select All Sheets</source>
-        <comment>EtCtrl__Select_All_Sheets_334</comment>
-        <translation type="obsolete">選取所有工作表(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select Current Region</source>
-        <comment>EtCtrl__Select_Current_Region_179</comment>
-        <translation type="obsolete">選定目前範圍(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select Multiple Objects</source>
-        <comment>EtCtrl__Select_Multiple_Objects_804</comment>
-        <translation type="obsolete">選取多個物件(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select Names</source>
-        <comment>EtCtrl__Select_Names_782</comment>
-        <translation type="obsolete">選取名稱(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select Objects</source>
-        <comment>EtCtrl__Select_Objects_53</comment>
-        <translation type="obsolete">選取物件(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Select Visible Cells</source>
-        <comment>EtCtrl__Select_Visible_Cells_178</comment>
-        <translation type="obsolete">選取可見儲存格(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Selected Object</source>
-        <comment>EtCtrl__Selected_Object_322</comment>
-        <translation type="obsolete">選取物件(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Semitransparent Shadow</source>
-        <comment>EtCtrl__Semitransparent_Shadow_660</comment>
-        <translation type="obsolete">半透明陰影(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Send Now</source>
-        <comment>EtCtrl__Send_Now_781</comment>
-        <translation type="obsolete">立即傳送(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Series</source>
-        <comment>EtCtrl__Series_319</comment>
-        <translation type="obsolete">數列(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Series...</source>
-        <comment>EtCtrl__Series____290</comment>
-        <translation type="obsolete">數列(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Set Default Flag</source>
-        <comment>EtCtrl__Set_Default_Flag_2296</comment>
-        <translation type="obsolete">設定預設標幟(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Set Print Area</source>
-        <comment>EtCtrl__Set_Print_Area_115</comment>
-        <translation type="obsolete">設定列印範圍(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Set Transparent Color</source>
-        <comment>EtCtrl__Set_Transparent_Color_756</comment>
-        <translation type="obsolete">設定透明色彩(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Shadow Color</source>
-        <comment>EtCtrl__Shadow_Color_628</comment>
-        <translation type="obsolete">陰影色彩(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Shadow On/Off</source>
-        <comment>EtCtrl__Shadow_On_Off_725</comment>
-        <translation type="obsolete">陰影開/關(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Shadow Settings...</source>
-        <comment>EtCtrl__Shadow_Settings____386</comment>
-        <translation type="obsolete">陰影設定(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Shadow Style</source>
-        <comment>EtCtrl__Shadow_Style_140</comment>
-        <translation type="obsolete">陰影樣式(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Sheet List</source>
-        <comment>EtCtrl__Sheet_List_340</comment>
-        <translation type="obsolete">工作表清單(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Shift Down and Copy</source>
-        <comment>EtCtrl__Shift_Down_and_Copy_712</comment>
-        <translation type="obsolete">複製選取區，原有範圍下移(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show</source>
-        <comment>EtCtrl__Show_2234</comment>
-        <translation type="obsolete">顯示(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show All</source>
-        <comment>EtCtrl__Show_All_314</comment>
-        <translation type="obsolete">全部顯示(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show Detail</source>
-        <comment>EtCtrl__Show_Detail_199</comment>
-        <translation type="obsolete">顯示詳細資料(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show Field List</source>
-        <comment>EtCtrl__Show_Field_List_792</comment>
-        <translation type="obsolete">顯示欄位清單(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show Formula Auditing Toolbar</source>
-        <comment>EtCtrl__Show_Formula_Auditing_Toolbar_309</comment>
-        <translation type="obsolete">顯示公式稽核工具列(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show Only Web Toolbar</source>
-        <comment>EtCtrl__Show_Only_Web_Toolbar_365</comment>
-        <translation type="obsolete">僅顯示 Web 工具列(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show Outline Symbols</source>
-        <comment>EtCtrl__Show_Outline_Symbols_177</comment>
-        <translation type="obsolete">顯示大綱符號(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Show or Hide</source>
-        <comment>EtCtrl__Show_or_Hide_615</comment>
-        <translation type="obsolete">顯示/隱藏(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Signature</source>
-        <comment>EtCtrl__Signature_2145</comment>
-        <translation type="obsolete">簽名(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Size</source>
-        <comment>EtCtrl__Size_1042</comment>
-        <translation type="obsolete">大小(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Size</source>
-        <comment>EtCtrl__Size_269</comment>
-        <translation type="obsolete">大小(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Smart Tag Menu</source>
-        <comment>EtCtrl__Smart_Tag_Menu_2175</comment>
-        <translation type="obsolete">智慧標籤功能表(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Smiley Face</source>
-        <comment>EtCtrl__Smiley_Face_426</comment>
-        <translation type="obsolete">笑臉(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Smooth Point</source>
-        <comment>EtCtrl__Smooth_Point_579</comment>
-        <translation type="obsolete">平滑線段(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Snap</source>
-        <comment>EtCtrl__Snap_1084</comment>
-        <translation type="obsolete">貼齊(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Solve Order...</source>
-        <comment>EtCtrl__Solve_Order____757</comment>
-        <translation type="obsolete">求解順序(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Sort</source>
-        <comment>EtCtrl__Sort_1103</comment>
-        <translation type="obsolete">排序(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Sort...</source>
-        <comment>EtCtrl__Sort____327</comment>
-        <translation type="obsolete">排序(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Source Data...</source>
-        <comment>EtCtrl__Source_Data____337</comment>
-        <translation type="obsolete">來源資料(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Spelling</source>
-        <comment>EtCtrl__Spelling_2206</comment>
-        <translation type="obsolete">拼字檢查(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Spelling...</source>
-        <comment>EtCtrl__Spelling____2</comment>
-        <translation type="obsolete">拼字檢查(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Spinner</source>
-        <comment>EtCtrl__Spinner_204</comment>
-        <translation type="obsolete">微調按鈕(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Split</source>
-        <comment>EtCtrl__Split_106</comment>
-        <translation type="obsolete">分割(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Stacked Column Chart</source>
-        <comment>EtCtrl__Stacked_Column_Chart_159</comment>
-        <translation type="obsolete">堆疊直條圖(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Standard</source>
-        <comment>EtCtrl__Standard_894</comment>
-        <translation type="obsolete">標準(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Standard Colors</source>
-        <comment>EtCtrl__Standard_Colors_585</comment>
-        <translation type="obsolete">標準色彩(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Standard Colors</source>
-        <comment>EtCtrl__Standard_Colors_588</comment>
-        <translation type="obsolete">標準色彩(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Standard Colors</source>
-        <comment>EtCtrl__Standard_Colors_590</comment>
-        <translation type="obsolete">標準色彩(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Standard Colors</source>
-        <comment>EtCtrl__Standard_Colors_592</comment>
-        <translation type="obsolete">標準色彩(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Standard Colors</source>
-        <comment>EtCtrl__Standard_Colors_771</comment>
-        <translation type="obsolete">標準色彩(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Standard Width...</source>
-        <comment>EtCtrl__Standard_Width____305</comment>
-        <translation type="obsolete">標準欄寬(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Stars and Banners</source>
-        <comment>EtCtrl__Stars_and_Banners_380</comment>
-        <translation type="obsolete">星星及綵帶(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Stars and Banners</source>
-        <comment>EtCtrl__Stars_and_Banners_569</comment>
-        <translation type="obsolete">星星及綵帶(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Start Page</source>
-        <comment>EtCtrl__Start_Page_358</comment>
-        <translation type="obsolete">起始頁面(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Status</source>
-        <comment>EtCtrl__Status_2231</comment>
-        <translation type="obsolete">狀態(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Status Bar</source>
-        <comment>EtCtrl__Status_Bar_275</comment>
-        <translation type="obsolete">狀態列(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Stop</source>
-        <comment>EtCtrl__Stop_361</comment>
-        <translation type="obsolete">停止(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Stop Erasing</source>
-        <comment>EtCtrl__Stop_Erasing_997</comment>
-        <translation type="obsolete">停止清除(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Stop Erasing</source>
-        <comment>EtCtrl__Stop_Erasing_999</comment>
-        <translation type="obsolete">停止清除(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Stop Speaking</source>
-        <comment>EtCtrl__Stop_Speaking_923</comment>
-        <translation type="obsolete">停止讀出(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Straight Arrow Connector</source>
-        <comment>EtCtrl__Straight_Arrow_Connector_745</comment>
-        <translation type="obsolete">直線單箭頭接點(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Straight Connector</source>
-        <comment>EtCtrl__Straight_Connector_719</comment>
-        <translation type="obsolete">直線接點(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Straight Double-Arrow Connector</source>
-        <comment>EtCtrl__Straight_Double_Arrow_Connector_746</comment>
-        <translation type="obsolete">直線雙箭頭接點(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Straight Segment</source>
-        <comment>EtCtrl__Straight_Segment_575</comment>
-        <translation type="obsolete">拉直線段(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Stretch Justify</source>
-        <comment>EtCtrl__Stretch_Justify_526</comment>
-        <translation type="obsolete">延伸左右對齊(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Strikethrough</source>
-        <comment>EtCtrl__Strikethrough_98</comment>
-        <translation type="obsolete">刪除線(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Striped Right Arrow</source>
-        <comment>EtCtrl__Striped_Right_Arrow_449</comment>
-        <translation type="obsolete">向右箭號(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Style</source>
-        <comment>EtCtrl__Style_2143</comment>
-        <translation type="obsolete">樣式(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Style...</source>
-        <comment>EtCtrl__Style____76</comment>
-        <translation type="obsolete">樣式(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Style:</source>
-        <comment>EtCtrl__Style__635</comment>
-        <translation type="obsolete">樣式(&amp;S):</translation>
-    </message>
-    <message>
-        <source>&amp;Subdatasheet</source>
-        <comment>EtCtrl__Subdatasheet_1453</comment>
-        <translation type="obsolete">子資料工作表(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Subordinate</source>
-        <comment>EtCtrl__Subordinate_848</comment>
-        <translation type="obsolete">部屬(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Sum</source>
-        <comment>EtCtrl__Sum_689</comment>
-        <translation type="obsolete">加總(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Sun</source>
-        <comment>EtCtrl__Sun_739</comment>
-        <translation type="obsolete">太陽(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Surface</source>
-        <comment>EtCtrl__Surface_546</comment>
-        <translation type="obsolete">材質(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Symbol...</source>
-        <comment>EtCtrl__Symbol____109</comment>
-        <translation type="obsolete">符號(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>&amp;Synchronize</source>
-        <comment>EtCtrl__Synchronize_2129</comment>
-        <translation type="obsolete">同步處理(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Synchronous Scrolling</source>
-        <comment>EtCtrl__Synchronous_Scrolling_962</comment>
-        <translation type="obsolete">同步捲動(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Tab Color...</source>
-        <comment>EtCtrl__Tab_Color____824</comment>
-        <translation type="obsolete">索引標籤色彩(&amp;T)...</translation>
-    </message>
-    <message>
-        <source>&amp;Table...</source>
-        <comment>EtCtrl__Table____283</comment>
-        <translation type="obsolete">運算列表(&amp;T)...</translation>
-    </message>
-    <message>
-        <source>&amp;Target</source>
-        <comment>EtCtrl__Target_841</comment>
-        <translation type="obsolete">靶心圖(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Target Diagram</source>
-        <comment>EtCtrl__Target_Diagram_837</comment>
-        <translation type="obsolete">靶心圖表(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Text Box</source>
-        <comment>EtCtrl__Text_Box_651</comment>
-        <translation type="obsolete">文字方塊(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Text Direction</source>
-        <comment>EtCtrl__Text_Direction_807</comment>
-        <translation type="obsolete">文字方向(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Thesaurus</source>
-        <comment>EtCtrl__Thesaurus_1413</comment>
-        <translation type="obsolete">同義字(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tight</source>
-        <comment>EtCtrl__Tight_528</comment>
-        <translation type="obsolete">緊(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tilt Down</source>
-        <comment>EtCtrl__Tilt_Down_539</comment>
-        <translation type="obsolete">向下傾斜(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tilt Left</source>
-        <comment>EtCtrl__Tilt_Left_541</comment>
-        <translation type="obsolete">向左傾斜(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tilt Right</source>
-        <comment>EtCtrl__Tilt_Right_542</comment>
-        <translation type="obsolete">向右傾斜(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tilt Up</source>
-        <comment>EtCtrl__Tilt_Up_540</comment>
-        <translation type="obsolete">向上傾斜(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Toggle</source>
-        <comment>EtCtrl__Toggle_1398</comment>
-        <translation type="obsolete">切換(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Toggle Read Only</source>
-        <comment>EtCtrl__Toggle_Read_Only_193</comment>
-        <translation type="obsolete">切換檔案唯讀(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Toolbars</source>
-        <comment>EtCtrl__Toolbars_1045</comment>
-        <translation type="obsolete">工具列(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Toolbars</source>
-        <comment>EtCtrl__Toolbars_2320</comment>
-        <translation type="obsolete">&amp;Toolbars</translation>
-    </message>
-    <message>
-        <source>&amp;Toolbox</source>
-        <comment>EtCtrl__Toolbox_1481</comment>
-        <translation type="obsolete">工具箱(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tools</source>
-        <comment>EtCtrl__Tools_1007</comment>
-        <translation type="obsolete">工具(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tools</source>
-        <comment>EtCtrl__Tools_1420</comment>
-        <translation type="obsolete">工具(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Tools</source>
-        <comment>EtCtrl__Tools_2326</comment>
-        <translation type="obsolete">&amp;Tools</translation>
-    </message>
-    <message>
-        <source>&amp;Top Border</source>
-        <comment>EtCtrl__Top_Border_39</comment>
-        <translation type="obsolete">上框線(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Trace Precedents</source>
-        <comment>EtCtrl__Trace_Precedents_219</comment>
-        <translation type="obsolete">追蹤前導參照(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Track Changes</source>
-        <comment>EtCtrl__Track_Changes_1138</comment>
-        <translation type="obsolete">追蹤修訂(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Transpose</source>
-        <comment>EtCtrl__Transpose_845</comment>
-        <translation type="obsolete">轉置(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Trapezoid</source>
-        <comment>EtCtrl__Trapezoid_408</comment>
-        <translation type="obsolete">梯形(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;Trapping</source>
-        <comment>EtCtrl__Trapping_2208</comment>
-        <translation type="obsolete">補漏白(&amp;T)</translation>
-    </message>
-    <message>
-        <source>&amp;U-Turn Arrow</source>
-        <comment>EtCtrl__U_Turn_Arrow_448</comment>
-        <translation type="obsolete">迴轉箭號(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Underline</source>
-        <comment>EtCtrl__Underline_25</comment>
-        <translation type="obsolete">底線(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Undo</source>
-        <comment>EtCtrl__Undo_34</comment>
-        <translation type="obsolete">復原(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Ungroup</source>
-        <comment>EtCtrl__Ungroup_47</comment>
-        <translation type="obsolete">取消群組(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Ungroup Sheets</source>
-        <comment>EtCtrl__Ungroup_Sheets_681</comment>
-        <translation type="obsolete">取消工作表群組設定(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Ungroup...</source>
-        <comment>EtCtrl__Ungroup____768</comment>
-        <translation type="obsolete">取消群組(&amp;U)...</translation>
-    </message>
-    <message>
-        <source>&amp;Unhide</source>
-        <comment>EtCtrl__Unhide_301</comment>
-        <translation type="obsolete">取消隱藏(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Unhide</source>
-        <comment>EtCtrl__Unhide_304</comment>
-        <translation type="obsolete">取消隱藏(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Unhide...</source>
-        <comment>EtCtrl__Unhide____286</comment>
-        <translation type="obsolete">取消隱藏視窗(&amp;U)...</translation>
-    </message>
-    <message>
-        <source>&amp;Unhide...</source>
-        <comment>EtCtrl__Unhide____308</comment>
-        <translation type="obsolete">取消隱藏(&amp;U)...</translation>
-    </message>
-    <message>
-        <source>&amp;Unlink List</source>
-        <comment>EtCtrl__Unlink_List_946</comment>
-        <translation type="obsolete">取消連結清單(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Up</source>
-        <comment>EtCtrl__Up_287</comment>
-        <translation type="obsolete">向上填滿(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Up</source>
-        <comment>EtCtrl__Up_369</comment>
-        <translation type="obsolete">上(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Up Arrow</source>
-        <comment>EtCtrl__Up_Arrow_439</comment>
-        <translation type="obsolete">向上箭號(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Up Arrow Callout</source>
-        <comment>EtCtrl__Up_Arrow_Callout_460</comment>
-        <translation type="obsolete">向上箭號圖說文字(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Up Ribbon</source>
-        <comment>EtCtrl__Up_Ribbon_473</comment>
-        <translation type="obsolete">綵帶 (向上)(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Up-Down Arrow</source>
-        <comment>EtCtrl__Up_Down_Arrow_442</comment>
-        <translation type="obsolete">上-下雙向箭號(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Up-Down Arrow Callout</source>
-        <comment>EtCtrl__Up_Down_Arrow_Callout_463</comment>
-        <translation type="obsolete">上-下雙向箭號圖說文字(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Update File</source>
-        <comment>EtCtrl__Update_File_192</comment>
-        <translation type="obsolete">更新檔案(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Usage</source>
-        <comment>EtCtrl__Usage_2163</comment>
-        <translation type="obsolete">用法(&amp;U)</translation>
-    </message>
-    <message>
-        <source>&amp;Validation</source>
-        <comment>EtCtrl__Validation_1139</comment>
-        <translation type="obsolete">驗證(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Value Axis Gridlines</source>
-        <comment>EtCtrl__Value_Axis_Gridlines_174</comment>
-        <translation type="obsolete">數值軸格線(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Venn</source>
-        <comment>EtCtrl__Venn_842</comment>
-        <translation type="obsolete">卞氏圖表(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Venn Diagram</source>
-        <comment>EtCtrl__Venn_Diagram_838</comment>
-        <translation type="obsolete">卞氏圖表(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Vertical Scroll</source>
-        <comment>EtCtrl__Vertical_Scroll_422</comment>
-        <translation type="obsolete">書卷 (垂直)(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Vertical Spacing</source>
-        <comment>EtCtrl__Vertical_Spacing_1044</comment>
-        <translation type="obsolete">垂直間距(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Vertical Text</source>
-        <comment>EtCtrl__Vertical_Text_150</comment>
-        <translation type="obsolete">直排文字(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Vertical Text Box</source>
-        <comment>EtCtrl__Vertical_Text_Box_111</comment>
-        <translation type="obsolete">直排文字方塊(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Vertically Distributed</source>
-        <comment>EtCtrl__Vertically_Distributed_907</comment>
-        <translation type="obsolete">垂直分散(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Very Loose</source>
-        <comment>EtCtrl__Very_Loose_531</comment>
-        <translation type="obsolete">非常鬆(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;View</source>
-        <comment>EtCtrl__View_1004</comment>
-        <translation type="obsolete">檢視(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;View</source>
-        <comment>EtCtrl__View_1378</comment>
-        <translation type="obsolete">檢視(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;View</source>
-        <comment>EtCtrl__View_1417</comment>
-        <translation type="obsolete">檢視(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;View</source>
-        <comment>EtCtrl__View_1478</comment>
-        <translation type="obsolete">檢視(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;View</source>
-        <comment>EtCtrl__View_2325</comment>
-        <translation type="obsolete">&amp;View</translation>
-    </message>
-    <message>
-        <source>&amp;View Code</source>
-        <comment>EtCtrl__View_Code_593</comment>
-        <translation type="obsolete">檢視程式碼(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;View Design</source>
-        <comment>EtCtrl__View_Design_1482</comment>
-        <translation type="obsolete">視圖設計(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Visual Basic Editor</source>
-        <comment>EtCtrl__Visual_Basic_Editor_630</comment>
-        <translation type="obsolete">Visual Basic 編輯器(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Volume/High-Low-Close Chart</source>
-        <comment>EtCtrl__Volume_High_Low_Close_Chart_171</comment>
-        <translation type="obsolete">成交量/高-低-收盤價圖(&amp;V)</translation>
-    </message>
-    <message>
-        <source>&amp;Washout</source>
-        <comment>EtCtrl__Washout_537</comment>
-        <translation type="obsolete">刷淡(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Watch Window</source>
-        <comment>EtCtrl__Watch_Window_817</comment>
-        <translation type="obsolete">監看式視窗(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Wave</source>
-        <comment>EtCtrl__Wave_420</comment>
-        <translation type="obsolete">波浪(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Web Discussions</source>
-        <comment>EtCtrl__Web_Discussions_812</comment>
-        <translation type="obsolete">Web 討論區(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Web Options...</source>
-        <comment>EtCtrl__Web_Options____797</comment>
-        <translation type="obsolete">Web 選項(&amp;W)...</translation>
-    </message>
-    <message>
-        <source>&amp;Web Toolbar</source>
-        <comment>EtCtrl__Web_Toolbar_759</comment>
-        <translation type="obsolete">Web 工具列(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Width...</source>
-        <comment>EtCtrl__Width____226</comment>
-        <translation type="obsolete">欄寬(&amp;W)...</translation>
-    </message>
-    <message>
-        <source>&amp;Window</source>
-        <comment>EtCtrl__Window_1009</comment>
-        <translation type="obsolete">視窗(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Window</source>
-        <comment>EtCtrl__Window_1232</comment>
-        <translation type="obsolete">視窗(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Window Name Goes Here</source>
-        <comment>EtCtrl__Window_Name_Goes_Here_262</comment>
-        <translation type="obsolete">視窗名稱(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Wire Frame</source>
-        <comment>EtCtrl__Wire_Frame_561</comment>
-        <translation type="obsolete">框線圖(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Word Justify</source>
-        <comment>EtCtrl__Word_Justify_525</comment>
-        <translation type="obsolete">單字左右對齊(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;WordArt Alignment</source>
-        <comment>EtCtrl__WordArt_Alignment_389</comment>
-        <translation type="obsolete">對齊(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;WordArt Character Spacing</source>
-        <comment>EtCtrl__WordArt_Character_Spacing_390</comment>
-        <translation type="obsolete">字元間距(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;WordArt Gallery</source>
-        <comment>EtCtrl__WordArt_Gallery_612</comment>
-        <translation type="obsolete">文字藝術師圖庫(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;WordArt Same Letter Heights</source>
-        <comment>EtCtrl__WordArt_Same_Letter_Heights_392</comment>
-        <translation type="obsolete">相同字高(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;WordArt Shape</source>
-        <comment>EtCtrl__WordArt_Shape_388</comment>
-        <translation type="obsolete">文字藝術師圖案(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;WordArt Vertical Text</source>
-        <comment>EtCtrl__WordArt_Vertical_Text_391</comment>
-        <translation type="obsolete">直排文字(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;WordArt...</source>
-        <comment>EtCtrl__WordArt____366</comment>
-        <translation type="obsolete">文字藝術師(&amp;W)...</translation>
-    </message>
-    <message>
-        <source>&amp;Workflow</source>
-        <comment>EtCtrl__Workflow_2164</comment>
-        <translation type="obsolete">工作流程(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;Worksheet</source>
-        <comment>EtCtrl__Worksheet_276</comment>
-        <translation type="obsolete">工作表(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;XL Left Border</source>
-        <comment>EtCtrl__XL_Left_Border_136</comment>
-        <translation type="obsolete">XL 左框線(&amp;X)</translation>
-    </message>
-    <message>
-        <source>&amp;XL Right Border</source>
-        <comment>EtCtrl__XL_Right_Border_137</comment>
-        <translation type="obsolete">XL 右框線(&amp;X)</translation>
-    </message>
-    <message>
-        <source>&amp;XL Top Border</source>
-        <comment>EtCtrl__XL_Top_Border_138</comment>
-        <translation type="obsolete">XL 上框線(&amp;X)</translation>
-    </message>
-    <message>
-        <source>&amp;XML</source>
-        <comment>EtCtrl__XML_2268</comment>
-        <translation type="obsolete">XML(&amp;X)</translation>
-    </message>
-    <message>
-        <source>&amp;XML Source...</source>
-        <comment>EtCtrl__XML_Source____949</comment>
-        <translation type="obsolete">XML 來源(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>&amp;Zoom</source>
-        <comment>EtCtrl__Zoom_1108</comment>
-        <translation type="obsolete">顯示比例(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>&amp;Zoom In</source>
-        <comment>EtCtrl__Zoom_In_181</comment>
-        <translation type="obsolete">拉近顯示(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>&amp;Zoom Out</source>
-        <comment>EtCtrl__Zoom_Out_182</comment>
-        <translation type="obsolete">拉遠顯示(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>&amp;Zoom...</source>
-        <comment>EtCtrl__Zoom____325</comment>
-        <translation type="obsolete">顯示比例(&amp;Z)...</translation>
-    </message>
-    <message>
-        <source>&amp;Zoom:</source>
-        <comment>EtCtrl__Zoom__636</comment>
-        <translation type="obsolete">顯示比例(&amp;Z):</translation>
-    </message>
-    <message>
-        <source>.</source>
-        <comment>EtCtrl___1072</comment>
-        <translation type="obsolete">.</translation>
-    </message>
-    <message>
-        <source>3-D &amp;View...</source>
-        <comment>EtCtrl_3_D__View____324</comment>
-        <translation type="obsolete">檢視立體圖表(&amp;V)...</translation>
-    </message>
-    <message>
-        <source>&lt;OCX Name&gt; Control</source>
-        <comment>EtCtrl__OCX_Name__Control_1425</comment>
-        <translation type="obsolete">&lt;OCX Name&gt; 控制項</translation>
-    </message>
-    <message>
-        <source>A&amp;ction</source>
-        <comment>EtCtrl_A_ction_1083</comment>
-        <translation type="obsolete">動作(&amp;C)</translation>
-    </message>
-    <message>
-        <source>A&amp;dditional Actions</source>
-        <comment>EtCtrl_A_dditional_Actions_2312</comment>
-        <translation type="obsolete">其他動作(&amp;D)</translation>
-    </message>
-    <message>
-        <source>A&amp;rrange Buttons</source>
-        <comment>EtCtrl_A_rrange_Buttons_1093</comment>
-        <translation type="obsolete">排列按鈕(&amp;R)</translation>
-    </message>
-    <message>
-        <source>A&amp;utoCorrect</source>
-        <comment>EtCtrl_A_utoCorrect_1096</comment>
-        <translation type="obsolete">自動校正(&amp;U)</translation>
-    </message>
-    <message>
-        <source>A&amp;utoShapes</source>
-        <comment>EtCtrl_A_utoShapes_1177</comment>
-        <translation type="obsolete">快取圖案(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Acco&amp;unts</source>
-        <comment>EtCtrl_Acco_unts_2224</comment>
-        <translation type="obsolete">帳號(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Act&amp;ion Buttons</source>
-        <comment>EtCtrl_Act_ion_Buttons_2236</comment>
-        <translation type="obsolete">動作按鈕(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Acti&amp;vate Product...</source>
-        <comment>EtCtrl_Acti_vate_Product____857</comment>
-        <translation type="obsolete">啟動產品(&amp;V)...</translation>
-    </message>
-    <message>
-        <source>ActiveX Control</source>
-        <comment>EtCtrl_ActiveX_Control_1337</comment>
-        <translation type="obsolete">ActiveX 控制項</translation>
-    </message>
-    <message>
-        <source>ActiveX Controls</source>
-        <comment>EtCtrl_ActiveX_Controls_1161</comment>
-        <translation type="obsolete">ActiveX 控制項</translation>
-    </message>
-    <message>
-        <source>ActiveX Controls</source>
-        <comment>EtCtrl_ActiveX_Controls_1237</comment>
-        <translation type="obsolete">ActiveX 控制項</translation>
-    </message>
-    <message>
-        <source>Add &amp;Watch</source>
-        <comment>EtCtrl_Add__Watch_818</comment>
-        <translation type="obsolete">新增監看式(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Add T&amp;rendline...</source>
-        <comment>EtCtrl_Add_T_rendline____321</comment>
-        <translation type="obsolete">加上趨勢線(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>Add Watch...</source>
-        <comment>EtCtrl_Add_Watch____821</comment>
-        <translation type="obsolete">新增監看式...</translation>
-    </message>
-    <message>
-        <source>Add-&amp;Ins</source>
-        <comment>EtCtrl_Add__Ins_1038</comment>
-        <translation type="obsolete">增益集(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Add-&amp;Ins...</source>
-        <comment>EtCtrl_Add__Ins____332</comment>
-        <translation type="obsolete">增益集(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>Address Block</source>
-        <comment>EtCtrl_Address_Block_2197</comment>
-        <translation type="obsolete">地址區塊</translation>
-    </message>
-    <message>
-        <source>Align &amp;Bottom</source>
-        <comment>EtCtrl_Align__Bottom_235</comment>
-        <translation type="obsolete">靠下對齊(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Align &amp;Center</source>
-        <comment>EtCtrl_Align__Center_236</comment>
-        <translation type="obsolete">置中對齊(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Align &amp;Left</source>
-        <comment>EtCtrl_Align__Left_232</comment>
-        <translation type="obsolete">靠左對齊(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Align &amp;Left</source>
-        <comment>EtCtrl_Align__Left_28</comment>
-        <translation type="obsolete">靠左對齊(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Align &amp;Middle</source>
-        <comment>EtCtrl_Align__Middle_237</comment>
-        <translation type="obsolete">置中對齊(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Align &amp;Right</source>
-        <comment>EtCtrl_Align__Right_233</comment>
-        <translation type="obsolete">靠右對齊(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Align &amp;Right</source>
-        <comment>EtCtrl_Align__Right_29</comment>
-        <translation type="obsolete">靠右對齊(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Align &amp;Top</source>
-        <comment>EtCtrl_Align__Top_234</comment>
-        <translation type="obsolete">靠上對齊(&amp;T)</translation>
-    </message>
-    <message>
-        <source>All &amp;Assistants</source>
-        <comment>EtCtrl_All__Assistants_886</comment>
-        <translation type="obsolete">所有助理(&amp;A)</translation>
-    </message>
-    <message>
-        <source>All &amp;Connecting Lines</source>
-        <comment>EtCtrl_All__Connecting_Lines_887</comment>
-        <translation type="obsolete">所有連接線(&amp;C)</translation>
-    </message>
-    <message>
-        <source>All Commands</source>
-        <comment>EtCtrl_All_Commands_1235</comment>
-        <translation type="obsolete">所有指令</translation>
-    </message>
-    <message>
-        <source>All Commands</source>
-        <comment>EtCtrl_All_Commands_2135</comment>
-        <translation type="obsolete">所有指令</translation>
-    </message>
-    <message>
-        <source>All Database Diagrams</source>
-        <comment>EtCtrl_All_Database_Diagrams_1471</comment>
-        <translation type="obsolete">所有的資料庫圖表</translation>
-    </message>
-    <message>
-        <source>All Forms</source>
-        <comment>EtCtrl_All_Forms_1157</comment>
-        <translation type="obsolete">所有表單</translation>
-    </message>
-    <message>
-        <source>All Functions</source>
-        <comment>EtCtrl_All_Functions_2219</comment>
-        <translation type="obsolete">所有功能</translation>
-    </message>
-    <message>
-        <source>All Macros</source>
-        <comment>EtCtrl_All_Macros_1159</comment>
-        <translation type="obsolete">所有巨集</translation>
-    </message>
-    <message>
-        <source>All Modules</source>
-        <comment>EtCtrl_All_Modules_1160</comment>
-        <translation type="obsolete">所有模組</translation>
-    </message>
-    <message>
-        <source>All Queries</source>
-        <comment>EtCtrl_All_Queries_1156</comment>
-        <translation type="obsolete">所有查詢</translation>
-    </message>
-    <message>
-        <source>All Reports</source>
-        <comment>EtCtrl_All_Reports_1158</comment>
-        <translation type="obsolete">所有報表</translation>
-    </message>
-    <message>
-        <source>All Stored Procedures</source>
-        <comment>EtCtrl_All_Stored_Procedures_1472</comment>
-        <translation type="obsolete">所有預存程序</translation>
-    </message>
-    <message>
-        <source>All Tables</source>
-        <comment>EtCtrl_All_Tables_1155</comment>
-        <translation type="obsolete">所有資料表</translation>
-    </message>
-    <message>
-        <source>All Views</source>
-        <comment>EtCtrl_All_Views_1470</comment>
-        <translation type="obsolete">所有視圖</translation>
-    </message>
-    <message>
-        <source>All Web Pages</source>
-        <comment>EtCtrl_All_Web_Pages_1473</comment>
-        <translation type="obsolete">所有的網頁</translation>
-    </message>
-    <message>
-        <source>Anal&amp;yze</source>
-        <comment>EtCtrl_Anal_yze_1104</comment>
-        <translation type="obsolete">分析(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Appl&amp;y Font To</source>
-        <comment>EtCtrl_Appl_y_Font_To_2332</comment>
-        <translation type="obsolete">套用字型至(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Appl&amp;y XML Element</source>
-        <comment>EtCtrl_Appl_y_XML_Element_2261</comment>
-        <translation type="obsolete">套用 XML 項目(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Apply Inside Borders</source>
-        <comment>EtCtrl_Apply_Inside_Borders_43</comment>
-        <translation type="obsolete">套用內框</translation>
-    </message>
-    <message>
-        <source>Appointme&amp;nt</source>
-        <comment>EtCtrl_Appointme_nt_1122</comment>
-        <translation type="obsolete">約會(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Argument</source>
-        <comment>EtCtrl_Argument_1314</comment>
-        <translation type="obsolete">引數</translation>
-    </message>
-    <message>
-        <source>Arrang&amp;e</source>
-        <comment>EtCtrl_Arrang_e_1143</comment>
-        <translation type="obsolete">排列(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <comment>EtCtrl_Arrange_2215</comment>
-        <translation type="obsolete">排列</translation>
-    </message>
-    <message>
-        <source>Arrange &amp;Icons</source>
-        <comment>EtCtrl_Arrange__Icons_1479</comment>
-        <translation type="obsolete">排列圖示(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Arrange Icons</source>
-        <comment>EtCtrl_Arrange_Icons_1340</comment>
-        <translation type="obsolete">排列圖示</translation>
-    </message>
-    <message>
-        <source>Arrow &amp;Options</source>
-        <comment>EtCtrl_Arrow__Options_2300</comment>
-        <translation type="obsolete">箭號選項(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Asian &amp;Layout</source>
-        <comment>EtCtrl_Asian__Layout_1463</comment>
-        <translation type="obsolete">亞洲方式配置(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Assig&amp;n Macro...</source>
-        <comment>EtCtrl_Assig_n_Macro____280</comment>
-        <translation type="obsolete">指定巨集(&amp;N)...</translation>
-    </message>
-    <message>
-        <source>Assign &amp;Hyperlink</source>
-        <comment>EtCtrl_Assign__Hyperlink_1442</comment>
-        <translation type="obsolete">指定超連結(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Assign &amp;Macro...</source>
-        <comment>EtCtrl_Assign__Macro____261</comment>
-        <translation type="obsolete">指定巨集(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>Au&amp;to Point</source>
-        <comment>EtCtrl_Au_to_Point_578</comment>
-        <translation type="obsolete">自動加點(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Audio R&amp;ecording</source>
-        <comment>EtCtrl_Audio_R_ecording_2253</comment>
-        <translation type="obsolete">錄音(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Auto&amp;Calc</source>
-        <comment>EtCtrl_Auto_Calc_2221</comment>
-        <translation type="obsolete">自動計算(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Auto&amp;Filter</source>
-        <comment>EtCtrl_Auto_Filter_195</comment>
-        <translation type="obsolete">自動篩選(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Auto&amp;Filter</source>
-        <comment>EtCtrl_Auto_Filter_313</comment>
-        <translation type="obsolete">自動篩選(&amp;F)</translation>
-    </message>
-    <message>
-        <source>AutoCalculate</source>
-        <comment>EtCtrl_AutoCalculate_1365</comment>
-        <translation type="obsolete">自動計算</translation>
-    </message>
-    <message>
-        <source>AutoFill</source>
-        <comment>EtCtrl_AutoFill_1353</comment>
-        <translation type="obsolete">自動填滿</translation>
-    </message>
-    <message>
-        <source>AutoFit Te&amp;xt</source>
-        <comment>EtCtrl_AutoFit_Te_xt_2204</comment>
-        <translation type="obsolete">自動調整文字大小(&amp;X)</translation>
-    </message>
-    <message>
-        <source>AutoFormat</source>
-        <comment>EtCtrl_AutoFormat_19</comment>
-        <translation type="obsolete">自動格式設定</translation>
-    </message>
-    <message>
-        <source>AutoManager</source>
-        <comment>EtCtrl_AutoManager_1097</comment>
-        <translation type="obsolete">自動管理</translation>
-    </message>
-    <message>
-        <source>AutoShapes</source>
-        <comment>EtCtrl_AutoShapes_1246</comment>
-        <translation type="obsolete">快取圖案</translation>
-    </message>
-    <message>
-        <source>AutoSignature</source>
-        <comment>EtCtrl_AutoSignature_1451</comment>
-        <translation type="obsolete">自動簽名</translation>
-    </message>
-    <message>
-        <source>AutoText</source>
-        <comment>EtCtrl_AutoText_1064</comment>
-        <translation type="obsolete">自動圖文集</translation>
-    </message>
-    <message>
-        <source>AutoText List Field</source>
-        <comment>EtCtrl_AutoText_List_Field_1188</comment>
-        <translation type="obsolete">自動圖文集清單欄位</translation>
-    </message>
-    <message>
-        <source>Bac&amp;kground</source>
-        <comment>EtCtrl_Bac_kground_1403</comment>
-        <translation type="obsolete">背景(&amp;K)</translation>
-    </message>
-    <message>
-        <source>Back&amp;ground</source>
-        <comment>EtCtrl_Back_ground_1465</comment>
-        <translation type="obsolete">背景(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Background</source>
-        <comment>EtCtrl_Background_1326</comment>
-        <translation type="obsolete">背景</translation>
-    </message>
-    <message>
-        <source>Background Proofing Status Bar</source>
-        <comment>EtCtrl_Background_Proofing_Status_Bar_1405</comment>
-        <translation type="obsolete">幕後校對狀態列</translation>
-    </message>
-    <message>
-        <source>Baseline &amp;Guides</source>
-        <comment>EtCtrl_Baseline__Guides_2297</comment>
-        <translation type="obsolete">基準輔助線(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <comment>EtCtrl_Black_972</comment>
-        <translation type="obsolete">黑色</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <comment>EtCtrl_Black_975</comment>
-        <translation type="obsolete">黑色</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <comment>EtCtrl_Black_982</comment>
-        <translation type="obsolete">黑色</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <comment>EtCtrl_Black_985</comment>
-        <translation type="obsolete">黑色</translation>
-    </message>
-    <message>
-        <source>Black and White</source>
-        <comment>EtCtrl_Black_and_White_1376</comment>
-        <translation type="obsolete">黑白</translation>
-    </message>
-    <message>
-        <source>Block &amp;Arrows</source>
-        <comment>EtCtrl_Block__Arrows_379</comment>
-        <translation type="obsolete">箭號圖案(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Block &amp;Arrows</source>
-        <comment>EtCtrl_Block__Arrows_568</comment>
-        <translation type="obsolete">箭號圖案(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Blue</source>
-        <comment>EtCtrl_Blue_973</comment>
-        <translation type="obsolete">藍色</translation>
-    </message>
-    <message>
-        <source>Blue</source>
-        <comment>EtCtrl_Blue_976</comment>
-        <translation type="obsolete">藍色</translation>
-    </message>
-    <message>
-        <source>Blue</source>
-        <comment>EtCtrl_Blue_983</comment>
-        <translation type="obsolete">藍色</translation>
-    </message>
-    <message>
-        <source>Blue</source>
-        <comment>EtCtrl_Blue_986</comment>
-        <translation type="obsolete">藍色</translation>
-    </message>
-    <message>
-        <source>Border Color</source>
-        <comment>EtCtrl_Border_Color_1088</comment>
-        <translation type="obsolete">框線色彩</translation>
-    </message>
-    <message>
-        <source>Borders</source>
-        <comment>EtCtrl_Borders_1075</comment>
-        <translation type="obsolete">框線</translation>
-    </message>
-    <message>
-        <source>Bring &amp;Forward</source>
-        <comment>EtCtrl_Bring__Forward_50</comment>
-        <translation type="obsolete">上推一層(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Bring to Fron&amp;t</source>
-        <comment>EtCtrl_Bring_to_Fron_t_48</comment>
-        <translation type="obsolete">提到最上層(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Built-in Menus</source>
-        <comment>EtCtrl_Built_in_Menus_1068</comment>
-        <translation type="obsolete">內建功能表</translation>
-    </message>
-    <message>
-        <source>Built-in Menus</source>
-        <comment>EtCtrl_Built_in_Menus_1089</comment>
-        <translation type="obsolete">內建功能表</translation>
-    </message>
-    <message>
-        <source>Built-in Menus</source>
-        <comment>EtCtrl_Built_in_Menus_2137</comment>
-        <translation type="obsolete">內建功能表</translation>
-    </message>
-    <message>
-        <source>Button</source>
-        <comment>EtCtrl_Button_1354</comment>
-        <translation type="obsolete">按鈕</translation>
-    </message>
-    <message>
-        <source>By &amp;Columns</source>
-        <comment>EtCtrl_By__Columns_925</comment>
-        <translation type="obsolete">循欄(&amp;C)</translation>
-    </message>
-    <message>
-        <source>By &amp;Rows</source>
-        <comment>EtCtrl_By__Rows_924</comment>
-        <translation type="obsolete">循列(&amp;R)</translation>
-    </message>
-    <message>
-        <source>By &amp;Title</source>
-        <comment>EtCtrl_By__Title_1392</comment>
-        <translation type="obsolete">依標題(&amp;T)</translation>
-    </message>
-    <message>
-        <source>C&amp;ancel</source>
-        <comment>EtCtrl_C_ancel_230</comment>
-        <translation type="obsolete">取消(&amp;A)</translation>
-    </message>
-    <message>
-        <source>C&amp;ells...</source>
-        <comment>EtCtrl_C_ells____102</comment>
-        <translation type="obsolete">儲存格(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>C&amp;ells...</source>
-        <comment>EtCtrl_C_ells____277</comment>
-        <translation type="obsolete">儲存格(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>C&amp;ells...</source>
-        <comment>EtCtrl_C_ells____343</comment>
-        <translation type="obsolete">儲存格(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>C&amp;hange</source>
-        <comment>EtCtrl_C_hange_2323</comment>
-        <translation type="obsolete">C&amp;hange</translation>
-    </message>
-    <message>
-        <source>C&amp;hange To</source>
-        <comment>EtCtrl_C_hange_To_1102</comment>
-        <translation type="obsolete">變更為(&amp;H)</translation>
-    </message>
-    <message>
-        <source>C&amp;hange To</source>
-        <comment>EtCtrl_C_hange_To_2260</comment>
-        <translation type="obsolete">變更為(&amp;H)</translation>
-    </message>
-    <message>
-        <source>C&amp;hart...</source>
-        <comment>EtCtrl_C_hart____675</comment>
-        <translation type="obsolete">圖表(&amp;H)...</translation>
-    </message>
-    <message>
-        <source>C&amp;heck Box</source>
-        <comment>EtCtrl_C_heck_Box_649</comment>
-        <translation type="obsolete">核取方塊(&amp;H)</translation>
-    </message>
-    <message>
-        <source>C&amp;heck Box</source>
-        <comment>EtCtrl_C_heck_Box_69</comment>
-        <translation type="obsolete">核取方塊(&amp;H)</translation>
-    </message>
-    <message>
-        <source>C&amp;lose Path</source>
-        <comment>EtCtrl_C_lose_Path_577</comment>
-        <translation type="obsolete">關閉路徑(&amp;L)</translation>
-    </message>
-    <message>
-        <source>C&amp;olor</source>
-        <comment>EtCtrl_C_olor_1123</comment>
-        <translation type="obsolete">色彩(&amp;O)</translation>
-    </message>
-    <message>
-        <source>C&amp;olor</source>
-        <comment>EtCtrl_C_olor_1166</comment>
-        <translation type="obsolete">色彩(&amp;O)</translation>
-    </message>
-    <message>
-        <source>C&amp;ontacts</source>
-        <comment>EtCtrl_C_ontacts_1141</comment>
-        <translation type="obsolete">連絡人(&amp;O)</translation>
-    </message>
-    <message>
-        <source>C&amp;ount Nums</source>
-        <comment>EtCtrl_C_ount_Nums_686</comment>
-        <translation type="obsolete">數字項目個數(&amp;O)</translation>
-    </message>
-    <message>
-        <source>C&amp;urved Connector</source>
-        <comment>EtCtrl_C_urved_Connector_376</comment>
-        <translation type="obsolete">弧形接點(&amp;U)</translation>
-    </message>
-    <message>
-        <source>C&amp;urved Connector</source>
-        <comment>EtCtrl_C_urved_Connector_721</comment>
-        <translation type="obsolete">弧形接點(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Ca&amp;ll</source>
-        <comment>EtCtrl_Ca_ll_2357</comment>
-        <translation type="obsolete">Ca&amp;ll</translation>
-    </message>
-    <message>
-        <source>Cac&amp;hed Exchange Mode</source>
-        <comment>EtCtrl_Cac_hed_Exchange_Mode_2338</comment>
-        <translation type="obsolete">快取 Exchange 模式(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Calc&amp;ulated Totals</source>
-        <comment>EtCtrl_Calc_ulated_Totals_2196</comment>
-        <translation type="obsolete">計算總數(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Calculate Full</source>
-        <comment>EtCtrl_Calculate_Full_815</comment>
-        <translation type="obsolete">計算滿溢</translation>
-    </message>
-    <message>
-        <source>Calculated &amp;Field...</source>
-        <comment>EtCtrl_Calculated__Field____607</comment>
-        <translation type="obsolete">計算欄位(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>Calculated &amp;Item...</source>
-        <comment>EtCtrl_Calculated__Item____608</comment>
-        <translation type="obsolete">計算項目(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>Can&apos;t &amp;Repeat</source>
-        <comment>EtCtrl_Can_t__Repeat_10</comment>
-        <translation type="obsolete">無法重複(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Canvas Popup</source>
-        <comment>EtCtrl_Canvas_Popup_2156</comment>
-        <translation type="obsolete">畫布快顯功能表</translation>
-    </message>
-    <message>
-        <source>Cell</source>
-        <comment>EtCtrl_Cell_1344</comment>
-        <translation type="obsolete">儲存格</translation>
-    </message>
-    <message>
-        <source>Cell</source>
-        <comment>EtCtrl_Cell_1347</comment>
-        <translation type="obsolete">儲存格</translation>
-    </message>
-    <message>
-        <source>Cell Ali&amp;gnment</source>
-        <comment>EtCtrl_Cell_Ali_gnment_1461</comment>
-        <translation type="obsolete">對齊儲存格(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Ch&amp;eck In...</source>
-        <comment>EtCtrl_Ch_eck_In____893</comment>
-        <translation type="obsolete">存回(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>Ch&amp;eck Out</source>
-        <comment>EtCtrl_Ch_eck_Out_892</comment>
-        <translation type="obsolete">取出(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Cha&amp;nge Picture</source>
-        <comment>EtCtrl_Cha_nge_Picture_2211</comment>
-        <translation type="obsolete">變更圖片(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Cha&amp;nge Text</source>
-        <comment>EtCtrl_Cha_nge_Text_2209</comment>
-        <translation type="obsolete">變更文字(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Cha&amp;nge Text</source>
-        <comment>EtCtrl_Cha_nge_Text_2212</comment>
-        <translation type="obsolete">變更文字(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Change &amp;Button Image</source>
-        <comment>EtCtrl_Change__Button_Image_1050</comment>
-        <translation type="obsolete">變更按鈕圖像(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Change Ta&amp;ble</source>
-        <comment>EtCtrl_Change_Ta_ble_2213</comment>
-        <translation type="obsolete">變更表格(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Chart</source>
-        <comment>EtCtrl_Chart_1361</comment>
-        <translation type="obsolete">圖表</translation>
-    </message>
-    <message>
-        <source>Chart</source>
-        <comment>EtCtrl_Chart_1404</comment>
-        <translation type="obsolete">圖表</translation>
-    </message>
-    <message>
-        <source>Chart &amp;Window</source>
-        <comment>EtCtrl_Chart__Window_731</comment>
-        <translation type="obsolete">圖表視窗(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Chart Opt&amp;ions...</source>
-        <comment>EtCtrl_Chart_Opt_ions____339</comment>
-        <translation type="obsolete">圖表選項(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>Chart T&amp;ype...</source>
-        <comment>EtCtrl_Chart_T_ype____323</comment>
-        <translation type="obsolete">圖表類型(&amp;Y)...</translation>
-    </message>
-    <message>
-        <source>Charting</source>
-        <comment>EtCtrl_Charting_1243</comment>
-        <translation type="obsolete">圖表</translation>
-    </message>
-    <message>
-        <source>Chec&amp;k for Updates</source>
-        <comment>EtCtrl_Chec_k_for_Updates_994</comment>
-        <translation type="obsolete">檢查更新(&amp;K)</translation>
-    </message>
-    <message>
-        <source>Chinese Translation</source>
-        <comment>EtCtrl_Chinese_Translation_1487</comment>
-        <translation type="obsolete">中文繁簡轉換</translation>
-    </message>
-    <message>
-        <source>Circle Invalid Data</source>
-        <comment>EtCtrl_Circle_Invalid_Data_703</comment>
-        <translation type="obsolete">圈選錯誤資料</translation>
-    </message>
-    <message>
-        <source>Cle&amp;ar</source>
-        <comment>EtCtrl_Cle_ar_1021</comment>
-        <translation type="obsolete">清除(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Clea&amp;r Find Format</source>
-        <comment>EtCtrl_Clea_r_Find_Format_860</comment>
-        <translation type="obsolete">清除尋找格式(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Clea&amp;r Replace Format</source>
-        <comment>EtCtrl_Clea_r_Replace_Format_861</comment>
-        <translation type="obsolete">清除取代格式(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Clear Border</source>
-        <comment>EtCtrl_Clear_Border_45</comment>
-        <translation type="obsolete">清除框線</translation>
-    </message>
-    <message>
-        <source>Clear Co&amp;ntents</source>
-        <comment>EtCtrl_Clear_Co_ntents_765</comment>
-        <translation type="obsolete">清除內容(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Clear Contents</source>
-        <comment>EtCtrl_Clear_Contents_12</comment>
-        <translation type="obsolete">清除內容</translation>
-    </message>
-    <message>
-        <source>Co&amp;mment</source>
-        <comment>EtCtrl_Co_mment_601</comment>
-        <translation type="obsolete">註解(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Co&amp;mments</source>
-        <comment>EtCtrl_Co_mments_294</comment>
-        <translation type="obsolete">註解(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Co&amp;mpare Documents</source>
-        <comment>EtCtrl_Co_mpare_Documents_2202</comment>
-        <translation type="obsolete">文件版本比較(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Co&amp;mpose</source>
-        <comment>EtCtrl_Co_mpose_1131</comment>
-        <translation type="obsolete">撰寫(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Co&amp;nnectors</source>
-        <comment>EtCtrl_Co_nnectors_738</comment>
-        <translation type="obsolete">連接線(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Co&amp;nsolidate...</source>
-        <comment>EtCtrl_Co_nsolidate____284</comment>
-        <translation type="obsolete">合併彙算(&amp;N)...</translation>
-    </message>
-    <message>
-        <source>Code &amp;View</source>
-        <comment>EtCtrl_Code__View_2286</comment>
-        <translation type="obsolete">程式碼檢視(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Column</source>
-        <comment>EtCtrl_Column_1346</comment>
-        <translation type="obsolete">欄</translation>
-    </message>
-    <message>
-        <source>Column</source>
-        <comment>EtCtrl_Column_1349</comment>
-        <translation type="obsolete">欄</translation>
-    </message>
-    <message>
-        <source>Combined Preview</source>
-        <comment>EtCtrl_Combined_Preview_1458</comment>
-        <translation type="obsolete">合併預覽列印</translation>
-    </message>
-    <message>
-        <source>Combo Bo&amp;x</source>
-        <comment>EtCtrl_Combo_Bo_x_655</comment>
-        <translation type="obsolete">下拉式方塊(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Command &amp;Button</source>
-        <comment>EtCtrl_Command__Button_652</comment>
-        <translation type="obsolete">指令按鈕(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Commen&amp;ts</source>
-        <comment>EtCtrl_Commen_ts_1135</comment>
-        <translation type="obsolete">註解(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Comment</source>
-        <comment>EtCtrl_Comment_1197</comment>
-        <translation type="obsolete">註解</translation>
-    </message>
-    <message>
-        <source>Commercial &amp;Printing Tools</source>
-        <comment>EtCtrl_Commercial__Printing_Tools_2207</comment>
-        <translation type="obsolete">商業印刷工具(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Compare Side &amp;by Side with...</source>
-        <comment>EtCtrl_Compare_Side__by_Side_with____950</comment>
-        <translation type="obsolete">並排比較於(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>Compare and Merge &amp;Workbooks...</source>
-        <comment>EtCtrl_Compare_and_Merge__Workbooks____707</comment>
-        <translation type="obsolete">比較並合併活頁簿(&amp;W)...</translation>
-    </message>
-    <message>
-        <source>Con&amp;ditional Formatting...</source>
-        <comment>EtCtrl_Con_ditional_Formatting____763</comment>
-        <translation type="obsolete">設定格式化的條件(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>Con&amp;ditions</source>
-        <comment>EtCtrl_Con_ditions_1137</comment>
-        <translation type="obsolete">條件(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Con&amp;vert</source>
-        <comment>EtCtrl_Con_vert_1447</comment>
-        <translation type="obsolete">轉換(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Con&amp;vert to Range</source>
-        <comment>EtCtrl_Con_vert_to_Range_936</comment>
-        <translation type="obsolete">轉換成範圍(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Con&amp;vert...</source>
-        <comment>EtCtrl_Con_vert____680</comment>
-        <translation type="obsolete">轉換(&amp;V)...</translation>
-    </message>
-    <message>
-        <source>Condition</source>
-        <comment>EtCtrl_Condition_1313</comment>
-        <translation type="obsolete">條件</translation>
-    </message>
-    <message>
-        <source>Connect Text Boxes</source>
-        <comment>EtCtrl_Connect_Text_Boxes_2216</comment>
-        <translation type="obsolete">連接文字方塊</translation>
-    </message>
-    <message>
-        <source>Connector</source>
-        <comment>EtCtrl_Connector_1194</comment>
-        <translation type="obsolete">連接線</translation>
-    </message>
-    <message>
-        <source>Cont&amp;act</source>
-        <comment>EtCtrl_Cont_act_1130</comment>
-        <translation type="obsolete">連絡人(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Context Menus</source>
-        <comment>EtCtrl_Context_Menus_1090</comment>
-        <translation type="obsolete">快顯功能表</translation>
-    </message>
-    <message>
-        <source>Control Properties</source>
-        <comment>EtCtrl_Control_Properties_71</comment>
-        <translation type="obsolete">控制項屬性</translation>
-    </message>
-    <message>
-        <source>Control T&amp;oolbox</source>
-        <comment>EtCtrl_Control_T_oolbox_228</comment>
-        <translation type="obsolete">控制工具箱(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Control Toolbox</source>
-        <comment>EtCtrl_Control_Toolbox_1247</comment>
-        <translation type="obsolete">控制工具箱</translation>
-    </message>
-    <message>
-        <source>Conver&amp;t Database</source>
-        <comment>EtCtrl_Conver_t_Database_1464</comment>
-        <translation type="obsolete">轉換資料庫(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Copy Here as &amp;Formats Only</source>
-        <comment>EtCtrl_Copy_Here_as__Formats_Only_710</comment>
-        <translation type="obsolete">僅複製格式到這裡(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Copy Here as &amp;Values Only</source>
-        <comment>EtCtrl_Copy_Here_as__Values_Only_711</comment>
-        <translation type="obsolete">僅複製值到這裡(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Copy Ink As &amp;Text</source>
-        <comment>EtCtrl_Copy_Ink_As__Text_995</comment>
-        <translation type="obsolete">複製筆跡成為文字(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Create &amp;Hyperlink Here</source>
-        <comment>EtCtrl_Create__Hyperlink_Here_724</comment>
-        <translation type="obsolete">在這裡建立超連結(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Cu&amp;rrent Section</source>
-        <comment>EtCtrl_Cu_rrent_Section_2341</comment>
-        <translation type="obsolete">目前節(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Cu&amp;t</source>
-        <comment>EtCtrl_Cu_t_7</comment>
-        <translation type="obsolete">剪下(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Current &amp;Folder</source>
-        <comment>EtCtrl_Current__Folder_2342</comment>
-        <translation type="obsolete">目前資料夾(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Current &amp;View</source>
-        <comment>EtCtrl_Current__View_1124</comment>
-        <translation type="obsolete">目前檢視(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Current Vie&amp;w</source>
-        <comment>EtCtrl_Current_Vie_w_2124</comment>
-        <translation type="obsolete">目前檢視方式(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Curve</source>
-        <comment>EtCtrl_Curve_1189</comment>
-        <translation type="obsolete">曲線</translation>
-    </message>
-    <message>
-        <source>Curve Point</source>
-        <comment>EtCtrl_Curve_Point_1190</comment>
-        <translation type="obsolete">曲線端點</translation>
-    </message>
-    <message>
-        <source>Curve Segment</source>
-        <comment>EtCtrl_Curve_Segment_1191</comment>
-        <translation type="obsolete">曲線片段</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_1245</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_13</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_1373</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_1390</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_14</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_155</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_16</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_17</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_210</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_211</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_212</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_213</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_214</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_215</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_216</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_217</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_22</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_33</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_639</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_84</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_85</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_86</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_87</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_88</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_89</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_90</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_91</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_92</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_94</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_96</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>EtCtrl_Custom_97</comment>
-        <translation type="obsolete">自訂</translation>
-    </message>
-    <message>
-        <source>Custom &amp;Views...</source>
-        <comment>EtCtrl_Custom__Views____335</comment>
-        <translation type="obsolete">自訂檢視模式(&amp;V)...</translation>
-    </message>
-    <message>
-        <source>Customer &amp;Feedback Options...</source>
-        <comment>EtCtrl_Customer__Feedback_Options____952</comment>
-        <translation type="obsolete">客戶回函選項(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>D&amp;ata Range Properties...</source>
-        <comment>EtCtrl_D_ata_Range_Properties____670</comment>
-        <translation type="obsolete">資料範圍屬性(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>D&amp;raw</source>
-        <comment>EtCtrl_D_raw_1013</comment>
-        <translation type="obsolete">繪圖(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Data</source>
-        <comment>EtCtrl_Data_1241</comment>
-        <translation type="obsolete">資料</translation>
-    </message>
-    <message>
-        <source>Data</source>
-        <comment>EtCtrl_Data_2288</comment>
-        <translation type="obsolete">資料</translation>
-    </message>
-    <message>
-        <source>Data Events</source>
-        <comment>EtCtrl_Data_Events_2259</comment>
-        <translation type="obsolete">資料事件</translation>
-    </message>
-    <message>
-        <source>Data Page</source>
-        <comment>EtCtrl_Data_Page_2120</comment>
-        <translation type="obsolete">資料頁</translation>
-    </message>
-    <message>
-        <source>Database</source>
-        <comment>EtCtrl_Database_1380</comment>
-        <translation type="obsolete">資料庫</translation>
-    </message>
-    <message>
-        <source>Database Ob&amp;jects</source>
-        <comment>EtCtrl_Database_Ob_jects_1107</comment>
-        <translation type="obsolete">資料庫物件(&amp;J)</translation>
-    </message>
-    <message>
-        <source>Datasheet</source>
-        <comment>EtCtrl_Datasheet_1150</comment>
-        <translation type="obsolete">資料工作表</translation>
-    </message>
-    <message>
-        <source>Datasheet View Cell</source>
-        <comment>EtCtrl_Datasheet_View_Cell_1273</comment>
-        <translation type="obsolete">資料工作表檢視儲存格</translation>
-    </message>
-    <message>
-        <source>Datasheet View Cell</source>
-        <comment>EtCtrl_Datasheet_View_Cell_1284</comment>
-        <translation type="obsolete">資料工作表檢視儲存格</translation>
-    </message>
-    <message>
-        <source>Datasheet View Cell</source>
-        <comment>EtCtrl_Datasheet_View_Cell_1309</comment>
-        <translation type="obsolete">資料工作表檢視儲存格</translation>
-    </message>
-    <message>
-        <source>Datasheet View Column</source>
-        <comment>EtCtrl_Datasheet_View_Column_1271</comment>
-        <translation type="obsolete">資料工作表檢視欄</translation>
-    </message>
-    <message>
-        <source>Datasheet View Column</source>
-        <comment>EtCtrl_Datasheet_View_Column_1282</comment>
-        <translation type="obsolete">資料工作表檢視欄</translation>
-    </message>
-    <message>
-        <source>Datasheet View Column</source>
-        <comment>EtCtrl_Datasheet_View_Column_1306</comment>
-        <translation type="obsolete">資料工作表檢視欄</translation>
-    </message>
-    <message>
-        <source>Datasheet View Row</source>
-        <comment>EtCtrl_Datasheet_View_Row_1272</comment>
-        <translation type="obsolete">資料工作表檢視列</translation>
-    </message>
-    <message>
-        <source>Datasheet View Row</source>
-        <comment>EtCtrl_Datasheet_View_Row_1283</comment>
-        <translation type="obsolete">資料工作表檢視列</translation>
-    </message>
-    <message>
-        <source>Datasheet View Row</source>
-        <comment>EtCtrl_Datasheet_View_Row_1308</comment>
-        <translation type="obsolete">資料工作表檢視列</translation>
-    </message>
-    <message>
-        <source>Datasheet View Subform Column</source>
-        <comment>EtCtrl_Datasheet_View_Subform_Column_1307</comment>
-        <translation type="obsolete">資料工作表檢視子表單欄</translation>
-    </message>
-    <message>
-        <source>Datasheet View Title Bar</source>
-        <comment>EtCtrl_Datasheet_View_Title_Bar_1270</comment>
-        <translation type="obsolete">資料工作表檢視標題列</translation>
-    </message>
-    <message>
-        <source>Datasheet View Title Bar</source>
-        <comment>EtCtrl_Datasheet_View_Title_Bar_1281</comment>
-        <translation type="obsolete">資料工作表檢視標題列</translation>
-    </message>
-    <message>
-        <source>Datasheet View Title Bar</source>
-        <comment>EtCtrl_Datasheet_View_Title_Bar_1305</comment>
-        <translation type="obsolete">資料工作表檢視標題列</translation>
-    </message>
-    <message>
-        <source>De&amp;lete Point</source>
-        <comment>EtCtrl_De_lete_Point_574</comment>
-        <translation type="obsolete">刪除端點(&amp;L)</translation>
-    </message>
-    <message>
-        <source>De&amp;lete Segment</source>
-        <comment>EtCtrl_De_lete_Segment_752</comment>
-        <translation type="obsolete">刪除片段(&amp;L)</translation>
-    </message>
-    <message>
-        <source>De&amp;lete Sheet</source>
-        <comment>EtCtrl_De_lete_Sheet_272</comment>
-        <translation type="obsolete">刪除工作表(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <comment>EtCtrl_Delete_99</comment>
-        <translation type="obsolete">刪除</translation>
-    </message>
-    <message>
-        <source>Delete &amp;Columns</source>
-        <comment>EtCtrl_Delete__Columns_101</comment>
-        <translation type="obsolete">刪除欄(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Delete &amp;Page</source>
-        <comment>EtCtrl_Delete__Page_2285</comment>
-        <translation type="obsolete">刪除頁面(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Delete &amp;Rows</source>
-        <comment>EtCtrl_Delete__Rows_100</comment>
-        <translation type="obsolete">刪除列(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Delete Co&amp;mment</source>
-        <comment>EtCtrl_Delete_Co_mment_604</comment>
-        <translation type="obsolete">刪除註解(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Delete Ro&amp;w</source>
-        <comment>EtCtrl_Delete_Ro_w_935</comment>
-        <translation type="obsolete">刪除列(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Delete Watch</source>
-        <comment>EtCtrl_Delete_Watch_822</comment>
-        <translation type="obsolete">刪除監看式</translation>
-    </message>
-    <message>
-        <source>Desi&amp;gn a Form</source>
-        <comment>EtCtrl_Desi_gn_a_Form_2331</comment>
-        <translation type="obsolete">設計表單(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Design View ActiveX Control</source>
-        <comment>EtCtrl_Design_View_ActiveX_Control_1294</comment>
-        <translation type="obsolete">設計檢視 ActiveX 控制項</translation>
-    </message>
-    <message>
-        <source>Design View Control</source>
-        <comment>EtCtrl_Design_View_Control_1291</comment>
-        <translation type="obsolete">設計檢視控制項</translation>
-    </message>
-    <message>
-        <source>Design View Control</source>
-        <comment>EtCtrl_Design_View_Control_1298</comment>
-        <translation type="obsolete">設計檢視控制項</translation>
-    </message>
-    <message>
-        <source>Design View Field List</source>
-        <comment>EtCtrl_Design_View_Field_List_1275</comment>
-        <translation type="obsolete">設計檢視欄位清單</translation>
-    </message>
-    <message>
-        <source>Design View Form</source>
-        <comment>EtCtrl_Design_View_Form_1289</comment>
-        <translation type="obsolete">設計檢視表單</translation>
-    </message>
-    <message>
-        <source>Design View General</source>
-        <comment>EtCtrl_Design_View_General_1274</comment>
-        <translation type="obsolete">設計檢視一般</translation>
-    </message>
-    <message>
-        <source>Design View Grid</source>
-        <comment>EtCtrl_Design_View_Grid_1277</comment>
-        <translation type="obsolete">設計檢視格線</translation>
-    </message>
-    <message>
-        <source>Design View Label</source>
-        <comment>EtCtrl_Design_View_Label_1292</comment>
-        <translation type="obsolete">設計檢視標籤</translation>
-    </message>
-    <message>
-        <source>Design View Lower Pane</source>
-        <comment>EtCtrl_Design_View_Lower_Pane_1260</comment>
-        <translation type="obsolete">設計檢視下方窗格</translation>
-    </message>
-    <message>
-        <source>Design View Report</source>
-        <comment>EtCtrl_Design_View_Report_1296</comment>
-        <translation type="obsolete">設計檢視報表</translation>
-    </message>
-    <message>
-        <source>Design View Section</source>
-        <comment>EtCtrl_Design_View_Section_1290</comment>
-        <translation type="obsolete">設計檢視區段</translation>
-    </message>
-    <message>
-        <source>Design View Section</source>
-        <comment>EtCtrl_Design_View_Section_1297</comment>
-        <translation type="obsolete">設計檢視區段</translation>
-    </message>
-    <message>
-        <source>Design View Title Bar</source>
-        <comment>EtCtrl_Design_View_Title_Bar_1258</comment>
-        <translation type="obsolete">設計檢視標題列</translation>
-    </message>
-    <message>
-        <source>Design View Title Bar</source>
-        <comment>EtCtrl_Design_View_Title_Bar_1288</comment>
-        <translation type="obsolete">設計檢視標題列</translation>
-    </message>
-    <message>
-        <source>Design View Title Bar</source>
-        <comment>EtCtrl_Design_View_Title_Bar_1295</comment>
-        <translation type="obsolete">設計檢視標題列</translation>
-    </message>
-    <message>
-        <source>Design View Upper Pane</source>
-        <comment>EtCtrl_Design_View_Upper_Pane_1259</comment>
-        <translation type="obsolete">設計檢視上方窗格</translation>
-    </message>
-    <message>
-        <source>Desktop</source>
-        <comment>EtCtrl_Desktop_1352</comment>
-        <translation type="obsolete">桌面</translation>
-    </message>
-    <message>
-        <source>Detect and &amp;Repair...</source>
-        <comment>EtCtrl_Detect_and__Repair____789</comment>
-        <translation type="obsolete">偵測與修復功能(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>Dia&amp;gram...</source>
-        <comment>EtCtrl_Dia_gram____367</comment>
-        <translation type="obsolete">資料庫圖表(&amp;G)...</translation>
-    </message>
-    <message>
-        <source>Diagonal &amp;Down Border</source>
-        <comment>EtCtrl_Diagonal__Down_Border_644</comment>
-        <translation type="obsolete">左斜框線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Diagonal &amp;Up Border</source>
-        <comment>EtCtrl_Diagonal__Up_Border_645</comment>
-        <translation type="obsolete">右斜框線(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Diagram</source>
-        <comment>EtCtrl_Diagram_2106</comment>
-        <translation type="obsolete">資料圖表</translation>
-    </message>
-    <message>
-        <source>Diagram Designer Background</source>
-        <comment>EtCtrl_Diagram_Designer_Background_2115</comment>
-        <translation type="obsolete">資料庫視圖設計背景</translation>
-    </message>
-    <message>
-        <source>Diagram Designer Join Line</source>
-        <comment>EtCtrl_Diagram_Designer_Join_Line_2117</comment>
-        <translation type="obsolete">資料庫視圖設計連接線</translation>
-    </message>
-    <message>
-        <source>Diagram Designer Table</source>
-        <comment>EtCtrl_Diagram_Designer_Table_2116</comment>
-        <translation type="obsolete">資料庫視圖設計表格</translation>
-    </message>
-    <message>
-        <source>Diagram Popup</source>
-        <comment>EtCtrl_Diagram_Popup_2241</comment>
-        <translation type="obsolete">資料庫圖表快顯功能表</translation>
-    </message>
-    <message>
-        <source>Dial-Up &amp;Connection</source>
-        <comment>EtCtrl_Dial_Up__Connection_2150</comment>
-        <translation type="obsolete">撥接連線(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <comment>EtCtrl_Dialog_1356</comment>
-        <translation type="obsolete">對話方塊</translation>
-    </message>
-    <message>
-        <source>Discussio&amp;ns</source>
-        <comment>EtCtrl_Discussio_ns_2101</comment>
-        <translation type="obsolete">討論區(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Display Fields</source>
-        <comment>EtCtrl_Display_Fields_1203</comment>
-        <translation type="obsolete">顯示功能變數</translation>
-    </message>
-    <message>
-        <source>Distribute &amp;Horizontally</source>
-        <comment>EtCtrl_Distribute__Horizontally_153</comment>
-        <translation type="obsolete">水平均分(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Distribute &amp;Vertically</source>
-        <comment>EtCtrl_Distribute__Vertically_202</comment>
-        <translation type="obsolete">垂直均分(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Distributed Align</source>
-        <comment>EtCtrl_Distributed_Align_755</comment>
-        <translation type="obsolete">分散對齊</translation>
-    </message>
-    <message>
-        <source>Do &amp;Not Refresh</source>
-        <comment>EtCtrl_Do__Not_Refresh_794</comment>
-        <translation type="obsolete">不要重新整理(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Do Not Distribute...</source>
-        <comment>EtCtrl_Do_Not_Distribute____968</comment>
-        <translation type="obsolete">請勿傳送...</translation>
-    </message>
-    <message>
-        <source>Do&amp;wnload</source>
-        <comment>EtCtrl_Do_wnload_2142</comment>
-        <translation type="obsolete">下載(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Document</source>
-        <comment>EtCtrl_Document_1048</comment>
-        <translation type="obsolete">文件</translation>
-    </message>
-    <message>
-        <source>Document</source>
-        <comment>EtCtrl_Document_1335</comment>
-        <translation type="obsolete">文件</translation>
-    </message>
-    <message>
-        <source>Document map</source>
-        <comment>EtCtrl_Document_map_1422</comment>
-        <translation type="obsolete">文件引導模式</translation>
-    </message>
-    <message>
-        <source>Download &amp;Headers From</source>
-        <comment>EtCtrl_Download__Headers_From_2245</comment>
-        <translation type="obsolete">從標題下載(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Draw</source>
-        <comment>EtCtrl_Draw_1399</comment>
-        <translation type="obsolete">繪圖</translation>
-    </message>
-    <message>
-        <source>Drawing</source>
-        <comment>EtCtrl_Drawing_1073</comment>
-        <translation type="obsolete">繪圖</translation>
-    </message>
-    <message>
-        <source>Drawing and &amp;Writing Tools</source>
-        <comment>EtCtrl_Drawing_and__Writing_Tools_2352</comment>
-        <translation type="obsolete">繪圖及手寫工具(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Drop Caps</source>
-        <comment>EtCtrl_Drop_Caps_1200</comment>
-        <translation type="obsolete">首字放大</translation>
-    </message>
-    <message>
-        <source>Dynamic &amp;Web Template</source>
-        <comment>EtCtrl_Dynamic__Web_Template_2252</comment>
-        <translation type="obsolete">動態網站範本(&amp;W)</translation>
-    </message>
-    <message>
-        <source>E&amp;nd Review...</source>
-        <comment>EtCtrl_E_nd_Review____900</comment>
-        <translation type="obsolete">結束檢閱(&amp;N)...</translation>
-    </message>
-    <message>
-        <source>E&amp;xit</source>
-        <comment>EtCtrl_E_xit_249</comment>
-        <translation type="obsolete">結束(&amp;X)</translation>
-    </message>
-    <message>
-        <source>E&amp;xpand/Collapse Groups</source>
-        <comment>EtCtrl_E_xpand_Collapse_Groups_1121</comment>
-        <translation type="obsolete">展開或摺疊群組(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <comment>EtCtrl_Edit_1055</comment>
-        <translation type="obsolete">編輯</translation>
-    </message>
-    <message>
-        <source>Edit &amp;Hyperlink...</source>
-        <comment>EtCtrl_Edit__Hyperlink____595</comment>
-        <translation type="obsolete">編輯超連結(&amp;H)...</translation>
-    </message>
-    <message>
-        <source>Edit &amp;Query...</source>
-        <comment>EtCtrl_Edit__Query____965</comment>
-        <translation type="obsolete">編輯查詢(&amp;Q)...</translation>
-    </message>
-    <message>
-        <source>Edit Te&amp;xt</source>
-        <comment>EtCtrl_Edit_Te_xt_562</comment>
-        <translation type="obsolete">編輯文字(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Edit Te&amp;xt...</source>
-        <comment>EtCtrl_Edit_Te_xt____722</comment>
-        <translation type="obsolete">編輯文字(&amp;X)...</translation>
-    </message>
-    <message>
-        <source>Endnotes</source>
-        <comment>EtCtrl_Endnotes_1201</comment>
-        <translation type="obsolete">章節附註</translation>
-    </message>
-    <message>
-        <source>Entire &amp;Table</source>
-        <comment>EtCtrl_Entire__Table_609</comment>
-        <translation type="obsolete">整張表格(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Error Chec&amp;king...</source>
-        <comment>EtCtrl_Error_Chec_king____891</comment>
-        <translation type="obsolete">錯誤檢查(&amp;K)...</translation>
-    </message>
-    <message>
-        <source>Evaluate &amp;Formula</source>
-        <comment>EtCtrl_Evaluate__Formula_820</comment>
-        <translation type="obsolete">評估值公式(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Ex&amp;pand</source>
-        <comment>EtCtrl_Ex_pand_2279</comment>
-        <translation type="obsolete">展開(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Ex&amp;pand</source>
-        <comment>EtCtrl_Ex_pand_854</comment>
-        <translation type="obsolete">展開(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Excel Control</source>
-        <comment>EtCtrl_Excel_Control_1372</comment>
-        <translation type="obsolete">Excel 控制項</translation>
-    </message>
-    <message>
-        <source>Exit &amp;Edit Point</source>
-        <comment>EtCtrl_Exit__Edit_Point_582</comment>
-        <translation type="obsolete">結束編輯端點(&amp;E)</translation>
-    </message>
-    <message>
-        <source>F&amp;ill</source>
-        <comment>EtCtrl_F_ill_1020</comment>
-        <translation type="obsolete">填滿(&amp;I)</translation>
-    </message>
-    <message>
-        <source>F&amp;orm...</source>
-        <comment>EtCtrl_F_orm____281</comment>
-        <translation type="obsolete">表單(&amp;O)...</translation>
-    </message>
-    <message>
-        <source>F&amp;ormat</source>
-        <comment>EtCtrl_F_ormat_1006</comment>
-        <translation type="obsolete">格式(&amp;O)</translation>
-    </message>
-    <message>
-        <source>F&amp;ormat</source>
-        <comment>EtCtrl_F_ormat_1419</comment>
-        <translation type="obsolete">格式(&amp;O)</translation>
-    </message>
-    <message>
-        <source>F&amp;ragments</source>
-        <comment>EtCtrl_F_ragments_1467</comment>
-        <translation type="obsolete">片段(&amp;R)</translation>
-    </message>
-    <message>
-        <source>F&amp;rames</source>
-        <comment>EtCtrl_F_rames_1452</comment>
-        <translation type="obsolete">框架(&amp;R)</translation>
-    </message>
-    <message>
-        <source>F&amp;ull Screen</source>
-        <comment>EtCtrl_F_ull_Screen_52</comment>
-        <translation type="obsolete">全螢幕(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Favorite&amp;s</source>
-        <comment>EtCtrl_Favorite_s_1176</comment>
-        <translation type="obsolete">我的最愛(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Favorites</source>
-        <comment>EtCtrl_Favorites_1167</comment>
-        <translation type="obsolete">我的最愛</translation>
-    </message>
-    <message>
-        <source>Fi&amp;ll</source>
-        <comment>EtCtrl_Fi_ll_2239</comment>
-        <translation type="obsolete">填滿(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Field</source>
-        <comment>EtCtrl_Field_1286</comment>
-        <translation type="obsolete">欄位</translation>
-    </message>
-    <message>
-        <source>Field Display List Numbers</source>
-        <comment>EtCtrl_Field_Display_List_Numbers_1406</comment>
-        <translation type="obsolete">欄位顯示清單編號</translation>
-    </message>
-    <message>
-        <source>Field Setti&amp;ngs...</source>
-        <comment>EtCtrl_Field_Setti_ngs____197</comment>
-        <translation type="obsolete">欄位設定(&amp;N)...</translation>
-    </message>
-    <message>
-        <source>Fields</source>
-        <comment>EtCtrl_Fields_1202</comment>
-        <translation type="obsolete">欄位</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <comment>EtCtrl_File_1054</comment>
-        <translation type="obsolete">檔案</translation>
-    </message>
-    <message>
-        <source>File Searc&amp;h...</source>
-        <comment>EtCtrl_File_Searc_h____853</comment>
-        <translation type="obsolete">檔案搜尋(&amp;H)...</translation>
-    </message>
-    <message>
-        <source>Fill &amp;Days</source>
-        <comment>EtCtrl_Fill__Days_694</comment>
-        <translation type="obsolete">以天數填滿(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Fill &amp;Formatting Only</source>
-        <comment>EtCtrl_Fill__Formatting_Only_692</comment>
-        <translation type="obsolete">僅以格式填滿(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Fill &amp;Months</source>
-        <comment>EtCtrl_Fill__Months_696</comment>
-        <translation type="obsolete">以月填滿(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Fill &amp;Series</source>
-        <comment>EtCtrl_Fill__Series_691</comment>
-        <translation type="obsolete">以數列方式填滿(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Fill &amp;Weekdays</source>
-        <comment>EtCtrl_Fill__Weekdays_695</comment>
-        <translation type="obsolete">以工作日填滿(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Fill &amp;Years</source>
-        <comment>EtCtrl_Fill__Years_697</comment>
-        <translation type="obsolete">以年填滿(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Fill With&amp;out Formatting</source>
-        <comment>EtCtrl_Fill_With_out_Formatting_693</comment>
-        <translation type="obsolete">填滿但不填入格式(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Filter</source>
-        <comment>EtCtrl_Filter_1341</comment>
-        <translation type="obsolete">篩選</translation>
-    </message>
-    <message>
-        <source>Filter</source>
-        <comment>EtCtrl_Filter_1381</comment>
-        <translation type="obsolete">篩選</translation>
-    </message>
-    <message>
-        <source>Filter By Form</source>
-        <comment>EtCtrl_Filter_By_Form_1287</comment>
-        <translation type="obsolete">依表單篩選</translation>
-    </message>
-    <message>
-        <source>Find &amp;All</source>
-        <comment>EtCtrl_Find__All_1169</comment>
-        <translation type="obsolete">全部尋找(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Find Notes I Wro&amp;te Recently</source>
-        <comment>EtCtrl_Find_Notes_I_Wro_te_Recently_2329</comment>
-        <translation type="obsolete">尋找我最近撰寫的筆記(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Fit</source>
-        <comment>EtCtrl_Fit_850</comment>
-        <translation type="obsolete">最適大小</translation>
-    </message>
-    <message>
-        <source>Flip &amp;Horizontal</source>
-        <comment>EtCtrl_Flip__Horizontal_58</comment>
-        <translation type="obsolete">水平翻轉(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Flip &amp;Vertical</source>
-        <comment>EtCtrl_Flip__Vertical_59</comment>
-        <translation type="obsolete">垂直翻轉(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Floating Picture</source>
-        <comment>EtCtrl_Floating_Picture_1410</comment>
-        <translation type="obsolete">浮動圖片</translation>
-    </message>
-    <message>
-        <source>Floor and Walls</source>
-        <comment>EtCtrl_Floor_and_Walls_1359</comment>
-        <translation type="obsolete">底板及背景牆</translation>
-    </message>
-    <message>
-        <source>Fo&amp;nt</source>
-        <comment>EtCtrl_Fo_nt_1099</comment>
-        <translation type="obsolete">字型(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Fo&amp;nt Alignment</source>
-        <comment>EtCtrl_Fo_nt_Alignment_1424</comment>
-        <translation type="obsolete">文字對齊(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Fo&amp;rm</source>
-        <comment>EtCtrl_Fo_rm_1145</comment>
-        <translation type="obsolete">表單(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Fo&amp;rm</source>
-        <comment>EtCtrl_Fo_rm_1697</comment>
-        <translation type="obsolete">表單(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Fo&amp;rm</source>
-        <comment>EtCtrl_Fo_rm_2249</comment>
-        <translation type="obsolete">表單(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Follow &amp;Up</source>
-        <comment>EtCtrl_Follow__Up_2295</comment>
-        <translation type="obsolete">待處理(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <comment>EtCtrl_Font_Color_1086</comment>
-        <translation type="obsolete">字型色彩</translation>
-    </message>
-    <message>
-        <source>Font Size</source>
-        <comment>EtCtrl_Font_Size_1168</comment>
-        <translation type="obsolete">字型大小</translation>
-    </message>
-    <message>
-        <source>Fonts</source>
-        <comment>EtCtrl_Fonts_1063</comment>
-        <translation type="obsolete">字型</translation>
-    </message>
-    <message>
-        <source>Footnotes</source>
-        <comment>EtCtrl_Footnotes_1205</comment>
-        <translation type="obsolete">註腳</translation>
-    </message>
-    <message>
-        <source>For&amp;mat Item as</source>
-        <comment>EtCtrl_For_mat_Item_as_2334</comment>
-        <translation type="obsolete">設定項目格式為(&amp;M)</translation>
-    </message>
-    <message>
-        <source>For&amp;mulas</source>
-        <comment>EtCtrl_For_mulas_1254</comment>
-        <translation type="obsolete">公式(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <comment>EtCtrl_Form_1322</comment>
-        <translation type="obsolete">表單</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <comment>EtCtrl_Form_1382</comment>
-        <translation type="obsolete">表單</translation>
-    </message>
-    <message>
-        <source>Form Design LabelX</source>
-        <comment>EtCtrl_Form_Design_LabelX_1293</comment>
-        <translation type="obsolete">表單設計 LabelX</translation>
-    </message>
-    <message>
-        <source>Form Fields</source>
-        <comment>EtCtrl_Form_Fields_1204</comment>
-        <translation type="obsolete">表單欄位</translation>
-    </message>
-    <message>
-        <source>Form View Control</source>
-        <comment>EtCtrl_Form_View_Control_1302</comment>
-        <translation type="obsolete">表單檢視控制項</translation>
-    </message>
-    <message>
-        <source>Form View Record</source>
-        <comment>EtCtrl_Form_View_Record_1304</comment>
-        <translation type="obsolete">表單檢視記錄</translation>
-    </message>
-    <message>
-        <source>Form View Subform</source>
-        <comment>EtCtrl_Form_View_Subform_1301</comment>
-        <translation type="obsolete">表單檢視子表單</translation>
-    </message>
-    <message>
-        <source>Form View Subform Control</source>
-        <comment>EtCtrl_Form_View_Subform_Control_1303</comment>
-        <translation type="obsolete">表單檢視子表單控制項</translation>
-    </message>
-    <message>
-        <source>Form View Title Bar</source>
-        <comment>EtCtrl_Form_View_Title_Bar_1300</comment>
-        <translation type="obsolete">表單檢視標題列</translation>
-    </message>
-    <message>
-        <source>Form/Report Design</source>
-        <comment>EtCtrl_Form_Report_Design_1153</comment>
-        <translation type="obsolete">表單/報表設計</translation>
-    </message>
-    <message>
-        <source>Forma&amp;t Report...</source>
-        <comment>EtCtrl_Forma_t_Report____816</comment>
-        <translation type="obsolete">報表格式(&amp;T)...</translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <comment>EtCtrl_Format_1058</comment>
-        <translation type="obsolete">格式</translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <comment>EtCtrl_Format_1236</comment>
-        <translation type="obsolete">格式</translation>
-    </message>
-    <message>
-        <source>Format Consistency Checker</source>
-        <comment>EtCtrl_Format_Consistency_Checker_2243</comment>
-        <translation type="obsolete">格式一致性檢查(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Format Inspector Popup Menu</source>
-        <comment>EtCtrl_Format_Inspector_Popup_Menu_2177</comment>
-        <translation type="obsolete">檢查格式快顯功能表</translation>
-    </message>
-    <message>
-        <source>Format Inspector Popup Menu for Compare Mode</source>
-        <comment>EtCtrl_Format_Inspector_Popup_Menu_for_Compare_Mode_2200</comment>
-        <translation type="obsolete">比較模式的格式檢查員快顯功能表</translation>
-    </message>
-    <message>
-        <source>Format Inspector Popup Menu for Normal Mode</source>
-        <comment>EtCtrl_Format_Inspector_Popup_Menu_for_Normal_Mode_2199</comment>
-        <translation type="obsolete">標準模式的格式檢查員快顯功能表</translation>
-    </message>
-    <message>
-        <source>Forms</source>
-        <comment>EtCtrl_Forms_1244</comment>
-        <translation type="obsolete">表單</translation>
-    </message>
-    <message>
-        <source>Formula A&amp;uditing</source>
-        <comment>EtCtrl_Formula_A_uditing_1028</comment>
-        <translation type="obsolete">公式稽核(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Formula Auditing &amp;Mode</source>
-        <comment>EtCtrl_Formula_Auditing__Mode_881</comment>
-        <translation type="obsolete">公式稽核模式(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Formula Bar</source>
-        <comment>EtCtrl_Formula_Bar_1362</comment>
-        <translation type="obsolete">資料編輯列</translation>
-    </message>
-    <message>
-        <source>Frames</source>
-        <comment>EtCtrl_Frames_1206</comment>
-        <translation type="obsolete">圖文框</translation>
-    </message>
-    <message>
-        <source>Frames</source>
-        <comment>EtCtrl_Frames_1690</comment>
-        <translation type="obsolete">框架</translation>
-    </message>
-    <message>
-        <source>Frameset Border Popup</source>
-        <comment>EtCtrl_Frameset_Border_Popup_1486</comment>
-        <translation type="obsolete">框架組框線快顯功能表</translation>
-    </message>
-    <message>
-        <source>Free Ro&amp;tate</source>
-        <comment>EtCtrl_Free_Ro_tate_239</comment>
-        <translation type="obsolete">自由旋轉(&amp;T)</translation>
-    </message>
-    <message>
-        <source>From &amp;Scanner or Camera...</source>
-        <comment>EtCtrl_From__Scanner_or_Camera____641</comment>
-        <translation type="obsolete">從掃描器或照相機(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <comment>EtCtrl_General_1266</comment>
-        <translation type="obsolete">一般</translation>
-    </message>
-    <message>
-        <source>Get External Data</source>
-        <comment>EtCtrl_Get_External_Data_1342</comment>
-        <translation type="obsolete">取得外部資料</translation>
-    </message>
-    <message>
-        <source>Global</source>
-        <comment>EtCtrl_Global_1339</comment>
-        <translation type="obsolete">全域</translation>
-    </message>
-    <message>
-        <source>Glossar&amp;y</source>
-        <comment>EtCtrl_Glossar_y_1429</comment>
-        <translation type="obsolete">字彙(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Go To</source>
-        <comment>EtCtrl_Go_To_1226</comment>
-        <translation type="obsolete">到</translation>
-    </message>
-    <message>
-        <source>Grammar</source>
-        <comment>EtCtrl_Grammar_1185</comment>
-        <translation type="obsolete">文法</translation>
-    </message>
-    <message>
-        <source>Grammar (2)</source>
-        <comment>EtCtrl_Grammar__2__1456</comment>
-        <translation type="obsolete">文法 (2)</translation>
-    </message>
-    <message>
-        <source>Greeting Line</source>
-        <comment>EtCtrl_Greeting_Line_2198</comment>
-        <translation type="obsolete">祝賀行</translation>
-    </message>
-    <message>
-        <source>Grid Pane</source>
-        <comment>EtCtrl_Grid_Pane_2112</comment>
-        <translation type="obsolete">格線窗格</translation>
-    </message>
-    <message>
-        <source>Gridline Color</source>
-        <comment>EtCtrl_Gridline_Color_1085</comment>
-        <translation type="obsolete">格線色彩</translation>
-    </message>
-    <message>
-        <source>H&amp;eight...</source>
-        <comment>EtCtrl_H_eight____225</comment>
-        <translation type="obsolete">列高(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>H&amp;yperlink to</source>
-        <comment>EtCtrl_H_yperlink_to_2335</comment>
-        <translation type="obsolete">超連結至(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>HTML Form Field</source>
-        <comment>EtCtrl_HTML_Form_Field_2122</comment>
-        <translation type="obsolete">HTML 表單欄位</translation>
-    </message>
-    <message>
-        <source>HTML Sourc&amp;e</source>
-        <comment>EtCtrl_HTML_Sourc_e_800</comment>
-        <translation type="obsolete">HTML 原始檔(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Han&amp;gul/Hanja Conversion</source>
-        <comment>EtCtrl_Han_gul_Hanja_Conversion_2154</comment>
-        <translation type="obsolete">韓文漢字轉換(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Headings</source>
-        <comment>EtCtrl_Headings_1207</comment>
-        <translation type="obsolete">跨頁標題重覆</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <comment>EtCtrl_Help_1071</comment>
-        <translation type="obsolete">說明</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <comment>EtCtrl_Help_1407</comment>
-        <translation type="obsolete">說明</translation>
-    </message>
-    <message>
-        <source>Hidden Items in Tota&amp;ls</source>
-        <comment>EtCtrl_Hidden_Items_in_Tota_ls_855</comment>
-        <translation type="obsolete">隱藏總計中的項目(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Hide &amp;Border of Inactive Lists</source>
-        <comment>EtCtrl_Hide__Border_of_Inactive_Lists_1000</comment>
-        <translation type="obsolete">隱藏未使用中清單的邊框(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Hide &amp;Ink Annotations</source>
-        <comment>EtCtrl_Hide__Ink_Annotations_941</comment>
-        <translation type="obsolete">隱藏筆跡註解(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Horizontal Line Popup</source>
-        <comment>EtCtrl_Horizontal_Line_Popup_1438</comment>
-        <translation type="obsolete">水平線快顯功能表</translation>
-    </message>
-    <message>
-        <source>Hyperl&amp;ink...</source>
-        <comment>EtCtrl_Hyperl_ink____594</comment>
-        <translation type="obsolete">超連結(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <comment>EtCtrl_Hyperlink_1187</comment>
-        <translation type="obsolete">超連結</translation>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <comment>EtCtrl_Hyperlink_1394</comment>
-        <translation type="obsolete">超連結</translation>
-    </message>
-    <message>
-        <source>Hyperlink Cascade</source>
-        <comment>EtCtrl_Hyperlink_Cascade_1426</comment>
-        <translation type="obsolete">超連結基底</translation>
-    </message>
-    <message>
-        <source>I&amp;mport</source>
-        <comment>EtCtrl_I_mport_2318</comment>
-        <translation type="obsolete">匯入(&amp;M)</translation>
-    </message>
-    <message>
-        <source>I&amp;nsert Shape</source>
-        <comment>EtCtrl_I_nsert_Shape_916</comment>
-        <translation type="obsolete">插入圖案(&amp;N)</translation>
-    </message>
-    <message>
-        <source>I&amp;nsert Shape</source>
-        <comment>EtCtrl_I_nsert_Shape_918</comment>
-        <translation type="obsolete">插入圖案(&amp;N)</translation>
-    </message>
-    <message>
-        <source>I&amp;ntelliSense</source>
-        <comment>EtCtrl_I_ntelliSense_2299</comment>
-        <translation type="obsolete">IntelliSense(&amp;N)</translation>
-    </message>
-    <message>
-        <source>I&amp;nternet</source>
-        <comment>EtCtrl_I_nternet_1178</comment>
-        <translation type="obsolete">網際網路(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Immediate Pane</source>
-        <comment>EtCtrl_Immediate_Pane_1317</comment>
-        <translation type="obsolete">立即窗格</translation>
-    </message>
-    <message>
-        <source>Import &amp;Data...</source>
-        <comment>EtCtrl_Import__Data____903</comment>
-        <translation type="obsolete">匯入資料(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>Import &amp;Text File...</source>
-        <comment>EtCtrl_Import__Text_File____798</comment>
-        <translation type="obsolete">匯入文字檔(&amp;T)...</translation>
-    </message>
-    <message>
-        <source>Import External &amp;Data</source>
-        <comment>EtCtrl_Import_External__Data_1101</comment>
-        <translation type="obsolete">匯入外部資料(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Index</source>
-        <comment>EtCtrl_Index_1383</comment>
-        <translation type="obsolete">索引</translation>
-    </message>
-    <message>
-        <source>Ink &amp;Annotations</source>
-        <comment>EtCtrl_Ink__Annotations_981</comment>
-        <translation type="obsolete">筆跡標註(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Ink &amp;Drawing and Writing</source>
-        <comment>EtCtrl_Ink__Drawing_and_Writing_996</comment>
-        <translation type="obsolete">手繪圖案及筆跡(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Ink Annotation Popup</source>
-        <comment>EtCtrl_Ink_Annotation_Popup_2283</comment>
-        <translation type="obsolete">筆跡標註快顯功能表</translation>
-    </message>
-    <message>
-        <source>Inline Canvas</source>
-        <comment>EtCtrl_Inline_Canvas_2166</comment>
-        <translation type="obsolete">內置畫布</translation>
-    </message>
-    <message>
-        <source>Inline Picture</source>
-        <comment>EtCtrl_Inline_Picture_1409</comment>
-        <translation type="obsolete">文字間圖片</translation>
-    </message>
-    <message>
-        <source>Ins&amp;tant Messaging</source>
-        <comment>EtCtrl_Ins_tant_Messaging_2223</comment>
-        <translation type="obsolete">即時訊息(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <comment>EtCtrl_Insert_1057</comment>
-        <translation type="obsolete">插入</translation>
-    </message>
-    <message>
-        <source>Insert C&amp;olumn</source>
-        <comment>EtCtrl_Insert_C_olumn_943</comment>
-        <translation type="obsolete">插入欄(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Insert Co&amp;mment</source>
-        <comment>EtCtrl_Insert_Co_mment_701</comment>
-        <translation type="obsolete">插入註解(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Insert Function</source>
-        <comment>EtCtrl_Insert_Function_134</comment>
-        <translation type="obsolete">插入函數</translation>
-    </message>
-    <message>
-        <source>Insert Merge Field</source>
-        <comment>EtCtrl_Insert_Merge_Field_1076</comment>
-        <translation type="obsolete">插入合併欄位</translation>
-    </message>
-    <message>
-        <source>Insert Page &amp;Break</source>
-        <comment>EtCtrl_Insert_Page__Break_600</comment>
-        <translation type="obsolete">插入分頁(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Insert Word Field</source>
-        <comment>EtCtrl_Insert_Word_Field_1077</comment>
-        <translation type="obsolete">插入功能變數</translation>
-    </message>
-    <message>
-        <source>Insert as H&amp;yperlink to</source>
-        <comment>EtCtrl_Insert_as_H_yperlink_to_2337</comment>
-        <translation type="obsolete">以超連結插入至(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Inside &amp;Vertical Border</source>
-        <comment>EtCtrl_Inside__Vertical_Border_643</comment>
-        <translation type="obsolete">垂直內框線(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Inside Hori&amp;zontal Border</source>
-        <comment>EtCtrl_Inside_Hori_zontal_Border_642</comment>
-        <translation type="obsolete">水平內框線(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>Internet Ca&amp;ll</source>
-        <comment>EtCtrl_Internet_Ca_ll_2123</comment>
-        <translation type="obsolete">網際網路呼叫(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Ite&amp;ms</source>
-        <comment>EtCtrl_Ite_ms_2121</comment>
-        <translation type="obsolete">項目(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Japanese Greetings</source>
-        <comment>EtCtrl_Japanese_Greetings_2176</comment>
-        <translation type="obsolete">日式祝賀詞</translation>
-    </message>
-    <message>
-        <source>Join</source>
-        <comment>EtCtrl_Join_1269</comment>
-        <translation type="obsolete">連接</translation>
-    </message>
-    <message>
-        <source>Join</source>
-        <comment>EtCtrl_Join_1276</comment>
-        <translation type="obsolete">連接</translation>
-    </message>
-    <message>
-        <source>Join Line</source>
-        <comment>EtCtrl_Join_Line_2113</comment>
-        <translation type="obsolete">連接線</translation>
-    </message>
-    <message>
-        <source>L&amp;abel</source>
-        <comment>EtCtrl_L_abel_659</comment>
-        <translation type="obsolete">標籤(&amp;A)</translation>
-    </message>
-    <message>
-        <source>L&amp;etters and Mailings</source>
-        <comment>EtCtrl_L_etters_and_Mailings_2171</comment>
-        <translation type="obsolete">信件與郵件(&amp;E)</translation>
-    </message>
-    <message>
-        <source>L&amp;ink</source>
-        <comment>EtCtrl_L_ink_2151</comment>
-        <translation type="obsolete">連結(&amp;I)</translation>
-    </message>
-    <message>
-        <source>L&amp;ist</source>
-        <comment>EtCtrl_L_ist_2276</comment>
-        <translation type="obsolete">清單(&amp;I)</translation>
-    </message>
-    <message>
-        <source>L&amp;ist Box</source>
-        <comment>EtCtrl_L_ist_Box_185</comment>
-        <translation type="obsolete">清單方塊(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Label &amp;and Data</source>
-        <comment>EtCtrl_Label__and_Data_351</comment>
-        <translation type="obsolete">標籤及資料(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Le&amp;tter Justify</source>
-        <comment>EtCtrl_Le_tter_Justify_524</comment>
-        <translation type="obsolete">字母左右對齊(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Left Pane</source>
-        <comment>EtCtrl_Left_Pane_1329</comment>
-        <translation type="obsolete">左窗格</translation>
-    </message>
-    <message>
-        <source>Lin&amp;ks...</source>
-        <comment>EtCtrl_Lin_ks____252</comment>
-        <translation type="obsolete">連結(&amp;K)...</translation>
-    </message>
-    <message>
-        <source>Linked Headings</source>
-        <comment>EtCtrl_Linked_Headings_1208</comment>
-        <translation type="obsolete">連結標題</translation>
-    </message>
-    <message>
-        <source>Linked Text</source>
-        <comment>EtCtrl_Linked_Text_1219</comment>
-        <translation type="obsolete">連結文字</translation>
-    </message>
-    <message>
-        <source>Linked Whole Tables</source>
-        <comment>EtCtrl_Linked_Whole_Tables_1217</comment>
-        <translation type="obsolete">連結整張表格</translation>
-    </message>
-    <message>
-        <source>List of &amp;All Flagged Notes...</source>
-        <comment>EtCtrl_List_of__All_Flagged_Notes____2304</comment>
-        <translation type="obsolete">列出所有的筆記標幟(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>Lists</source>
-        <comment>EtCtrl_Lists_1209</comment>
-        <translation type="obsolete">清單</translation>
-    </message>
-    <message>
-        <source>Locals Pane</source>
-        <comment>EtCtrl_Locals_Pane_1318</comment>
-        <translation type="obsolete">區域窗格</translation>
-    </message>
-    <message>
-        <source>Lock Cell</source>
-        <comment>EtCtrl_Lock_Cell_72</comment>
-        <translation type="obsolete">鎖定儲存格</translation>
-    </message>
-    <message>
-        <source>Lower Pane</source>
-        <comment>EtCtrl_Lower_Pane_1264</comment>
-        <translation type="obsolete">下方窗格</translation>
-    </message>
-    <message>
-        <source>M&amp;ail Recipient (as Attachment)...</source>
-        <comment>EtCtrl_M_ail_Recipient__as_Attachment_____728</comment>
-        <translation type="obsolete">郵件收件者(當作附件)(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>M&amp;in</source>
-        <comment>EtCtrl_M_in_688</comment>
-        <translation type="obsolete">最小值(&amp;I)</translation>
-    </message>
-    <message>
-        <source>M&amp;in</source>
-        <comment>EtCtrl_M_in_831</comment>
-        <translation type="obsolete">最小值(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Ma&amp;ximize</source>
-        <comment>EtCtrl_Ma_ximize_270</comment>
-        <translation type="obsolete">最大化(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1427</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1430</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1431</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1432</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1433</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1434</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1435</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Mac Future Use</source>
-        <comment>EtCtrl_Mac_Future_Use_1436</comment>
-        <translation type="obsolete">Mac Future Use</translation>
-    </message>
-    <message>
-        <source>Macro</source>
-        <comment>EtCtrl_Macro_1324</comment>
-        <translation type="obsolete">巨集</translation>
-    </message>
-    <message>
-        <source>Macro</source>
-        <comment>EtCtrl_Macro_1384</comment>
-        <translation type="obsolete">巨集</translation>
-    </message>
-    <message>
-        <source>Macro Design</source>
-        <comment>EtCtrl_Macro_Design_1240</comment>
-        <translation type="obsolete">巨集設計</translation>
-    </message>
-    <message>
-        <source>Macro-defined Menu</source>
-        <comment>EtCtrl_Macro_defined_Menu_1327</comment>
-        <translation type="obsolete">巨集定義的功能表</translation>
-    </message>
-    <message>
-        <source>Macros</source>
-        <comment>EtCtrl_Macros_1062</comment>
-        <translation type="obsolete">巨集</translation>
-    </message>
-    <message>
-        <source>Mail Merge</source>
-        <comment>EtCtrl_Mail_Merge_1074</comment>
-        <translation type="obsolete">合併列印</translation>
-    </message>
-    <message>
-        <source>Me&amp;tal</source>
-        <comment>EtCtrl_Me_tal_560</comment>
-        <translation type="obsolete">金屬質感(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Mi&amp;crosoft Office</source>
-        <comment>EtCtrl_Mi_crosoft_Office_2153</comment>
-        <translation type="obsolete">Microsoft Office(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Mi&amp;nimize</source>
-        <comment>EtCtrl_Mi_nimize_265</comment>
-        <translation type="obsolete">最小化(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Access</source>
-        <comment>EtCtrl_Microsoft__Access_79</comment>
-        <translation type="obsolete">Microsoft Access(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Mail</source>
-        <comment>EtCtrl_Microsoft__Mail_78</comment>
-        <translation type="obsolete">Microsoft Mail(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Mail Tools</source>
-        <comment>EtCtrl_Microsoft__Mail_Tools_2131</comment>
-        <translation type="obsolete">Microsoft Mail 工具(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Schedule+</source>
-        <comment>EtCtrl_Microsoft__Schedule__80</comment>
-        <translation type="obsolete">Microsoft Schedule+(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Microsoft Excel &amp;Help</source>
-        <comment>EtCtrl_Microsoft_Excel__Help_344</comment>
-        <translation type="obsolete">Microsoft Excel 說明(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Microsoft Fa&amp;x Tools</source>
-        <comment>EtCtrl_Microsoft_Fa_x_Tools_2130</comment>
-        <translation type="obsolete">Microsoft Fax 工具(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Microsoft Office &amp;PowerPoint</source>
-        <comment>EtCtrl_Microsoft_Office__PowerPoint_82</comment>
-        <translation type="obsolete">Microsoft Office PowerPoint(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Microsoft P&amp;roject</source>
-        <comment>EtCtrl_Microsoft_P_roject_83</comment>
-        <translation type="obsolete">Microsoft Project(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Microsoft Script Editor</source>
-        <comment>EtCtrl_Microsoft_Script_Editor_778</comment>
-        <translation type="obsolete">Microsoft Script Editor</translation>
-    </message>
-    <message>
-        <source>Microsoft Visual &amp;FoxPro</source>
-        <comment>EtCtrl_Microsoft_Visual__FoxPro_81</comment>
-        <translation type="obsolete">Microsoft Visual FoxPro(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Microsoft on the &amp;Web</source>
-        <comment>EtCtrl_Microsoft_on_the__Web_1222</comment>
-        <translation type="obsolete">Microsoft on the Web(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Microsoft on the &amp;Web</source>
-        <comment>EtCtrl_Microsoft_on_the__Web_1402</comment>
-        <translation type="obsolete">Microsoft on the Web(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Module</source>
-        <comment>EtCtrl_Module_1325</comment>
-        <translation type="obsolete">模組</translation>
-    </message>
-    <message>
-        <source>Module</source>
-        <comment>EtCtrl_Module_1385</comment>
-        <translation type="obsolete">模組</translation>
-    </message>
-    <message>
-        <source>Module Compiled</source>
-        <comment>EtCtrl_Module_Compiled_1316</comment>
-        <translation type="obsolete">模組已編譯</translation>
-    </message>
-    <message>
-        <source>Module Design</source>
-        <comment>EtCtrl_Module_Design_1154</comment>
-        <translation type="obsolete">模組設計</translation>
-    </message>
-    <message>
-        <source>Module Uncompiled</source>
-        <comment>EtCtrl_Module_Uncompiled_1315</comment>
-        <translation type="obsolete">模組未編譯</translation>
-    </message>
-    <message>
-        <source>More &amp;Functions...</source>
-        <comment>EtCtrl_More__Functions____832</comment>
-        <translation type="obsolete">其他函數(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>More Mark/Unmark &amp;Actions</source>
-        <comment>EtCtrl_More_Mark_Unmark__Actions_2225</comment>
-        <translation type="obsolete">其他標示/不標示的動作(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Move &amp;Down</source>
-        <comment>EtCtrl_Move__Down_810</comment>
-        <translation type="obsolete">向下移動(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Move &amp;Up</source>
-        <comment>EtCtrl_Move__Up_809</comment>
-        <translation type="obsolete">向上移動(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Move Shape &amp;Backward</source>
-        <comment>EtCtrl_Move_Shape__Backward_870</comment>
-        <translation type="obsolete">移至前一個圖案(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Move Shape &amp;Forward</source>
-        <comment>EtCtrl_Move_Shape__Forward_871</comment>
-        <translation type="obsolete">移至下一個圖案(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Move to &amp;Column</source>
-        <comment>EtCtrl_Move_to__Column_909</comment>
-        <translation type="obsolete">移動至欄(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Move to &amp;End</source>
-        <comment>EtCtrl_Move_to__End_811</comment>
-        <translation type="obsolete">移動至結尾(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Move to Be&amp;ginning</source>
-        <comment>EtCtrl_Move_to_Be_ginning_808</comment>
-        <translation type="obsolete">移動至開頭(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Mu&amp;te</source>
-        <comment>EtCtrl_Mu_te_2281</comment>
-        <translation type="obsolete">靜音(&amp;T)</translation>
-    </message>
-    <message>
-        <source>NYI</source>
-        <comment>EtCtrl_NYI_1256</comment>
-        <translation type="obsolete">NYI</translation>
-    </message>
-    <message>
-        <source>Ne&amp;w</source>
-        <comment>EtCtrl_Ne_w_1037</comment>
-        <translation type="obsolete">新增(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Ne&amp;w Page</source>
-        <comment>EtCtrl_Ne_w_Page_2303</comment>
-        <translation type="obsolete">新增頁面(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Ne&amp;xt</source>
-        <comment>EtCtrl_Ne_xt_1117</comment>
-        <translation type="obsolete">下一(&amp;X)</translation>
-    </message>
-    <message>
-        <source>New &amp;Mail Message Using</source>
-        <comment>EtCtrl_New__Mail_Message_Using_2146</comment>
-        <translation type="obsolete">新郵件使用(&amp;M)</translation>
-    </message>
-    <message>
-        <source>New &amp;Web Query...</source>
-        <comment>EtCtrl_New__Web_Query____796</comment>
-        <translation type="obsolete">新增 Web 查詢(&amp;W)...</translation>
-    </message>
-    <message>
-        <source>New Meeting Request Wit&amp;h</source>
-        <comment>EtCtrl_New_Meeting_Request_Wit_h_2316</comment>
-        <translation type="obsolete">新增會議要求與(&amp;H)</translation>
-    </message>
-    <message>
-        <source>New Menu</source>
-        <comment>EtCtrl_New_Menu_1066</comment>
-        <translation type="obsolete">新功能表</translation>
-    </message>
-    <message>
-        <source>No &amp;Borders</source>
-        <comment>EtCtrl_No__Borders_844</comment>
-        <translation type="obsolete">無框線(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Non-default drag-and-drop</source>
-        <comment>EtCtrl_Non_default_drag_and_drop_1334</comment>
-        <translation type="obsolete">非預設拖放功能</translation>
-    </message>
-    <message>
-        <source>Nondefault Drag and Drop</source>
-        <comment>EtCtrl_Nondefault_Drag_and_Drop_1336</comment>
-        <translation type="obsolete">非預設拖放功能</translation>
-    </message>
-    <message>
-        <source>Note Fl&amp;ags</source>
-        <comment>EtCtrl_Note_Fl_ags_2272</comment>
-        <translation type="obsolete">筆記標幟(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Note Fla&amp;gs</source>
-        <comment>EtCtrl_Note_Fla_gs_2354</comment>
-        <translation type="obsolete">筆記標幟(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Notes Pane</source>
-        <comment>EtCtrl_Notes_Pane_1474</comment>
-        <translation type="obsolete">記事窗格</translation>
-    </message>
-    <message>
-        <source>Notes View Slide</source>
-        <comment>EtCtrl_Notes_View_Slide_1391</comment>
-        <translation type="obsolete">備忘稿檢視投影片</translation>
-    </message>
-    <message>
-        <source>O&amp;nline Collaboration</source>
-        <comment>EtCtrl_O_nline_Collaboration_1468</comment>
-        <translation type="obsolete">線上共同作業(&amp;N)</translation>
-    </message>
-    <message>
-        <source>O&amp;pen Other Folder</source>
-        <comment>EtCtrl_O_pen_Other_Folder_2232</comment>
-        <translation type="obsolete">開啟其他資料夾(&amp;P)</translation>
-    </message>
-    <message>
-        <source>O&amp;ption Button</source>
-        <comment>EtCtrl_O_ption_Button_183</comment>
-        <translation type="obsolete">選項按鈕(&amp;P)</translation>
-    </message>
-    <message>
-        <source>O&amp;rder</source>
-        <comment>EtCtrl_O_rder_1078</comment>
-        <translation type="obsolete">順序(&amp;R)</translation>
-    </message>
-    <message>
-        <source>OLE Object</source>
-        <comment>EtCtrl_OLE_Object_1193</comment>
-        <translation type="obsolete">OLE 物件</translation>
-    </message>
-    <message>
-        <source>OLE Shared</source>
-        <comment>EtCtrl_OLE_Shared_1338</comment>
-        <translation type="obsolete">OLE 共用</translation>
-    </message>
-    <message>
-        <source>Object / Plot</source>
-        <comment>EtCtrl_Object___Plot_1366</comment>
-        <translation type="obsolete">物件/繪圖區</translation>
-    </message>
-    <message>
-        <source>Object Browser</source>
-        <comment>EtCtrl_Object_Browser_1319</comment>
-        <translation type="obsolete">物件瀏覽</translation>
-    </message>
-    <message>
-        <source>Off&amp;line OLAP...</source>
-        <comment>EtCtrl_Off_line_OLAP____803</comment>
-        <translation type="obsolete">離線 OLAP(&amp;L)...</translation>
-    </message>
-    <message>
-        <source>Office &amp;Links</source>
-        <comment>EtCtrl_Office__Links_1106</comment>
-        <translation type="obsolete">Office 連結(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Office Clip&amp;board...</source>
-        <comment>EtCtrl_Office_Clip_board____260</comment>
-        <translation type="obsolete">Office 剪貼簿(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>Ope&amp;n Path</source>
-        <comment>EtCtrl_Ope_n_Path_753</comment>
-        <translation type="obsolete">開啟路徑(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <comment>EtCtrl_Open_9</comment>
-        <translation type="obsolete">開啟舊檔</translation>
-    </message>
-    <message>
-        <source>Open &amp;Favorites...</source>
-        <comment>EtCtrl_Open__Favorites____363</comment>
-        <translation type="obsolete">開啟我的最愛(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>Open &amp;With</source>
-        <comment>EtCtrl_Open__With_2309</comment>
-        <translation type="obsolete">開啟方式(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Open Special Fol&amp;der</source>
-        <comment>EtCtrl_Open_Special_Fol_der_1125</comment>
-        <translation type="obsolete">開啟特殊資料夾(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <comment>EtCtrl_Options_1162</comment>
-        <translation type="obsolete">選項</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <comment>EtCtrl_Options_2244</comment>
-        <translation type="obsolete">選項</translation>
-    </message>
-    <message>
-        <source>Ord&amp;er</source>
-        <comment>EtCtrl_Ord_er_1485</comment>
-        <translation type="obsolete">順序(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Organization Chart Popup</source>
-        <comment>EtCtrl_Organization_Chart_Popup_2242</comment>
-        <translation type="obsolete">組織圖快顯功能表</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <comment>EtCtrl_Other_1051</comment>
-        <translation type="obsolete">其他</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <comment>EtCtrl_Other_2103</comment>
-        <translation type="obsolete">其他</translation>
-    </message>
-    <message>
-        <source>Outliner</source>
-        <comment>EtCtrl_Outliner_1333</comment>
-        <translation type="obsolete">大綱工具</translation>
-    </message>
-    <message>
-        <source>Outlining Tools</source>
-        <comment>EtCtrl_Outlining_Tools_2355</comment>
-        <translation type="obsolete">大綱工具</translation>
-    </message>
-    <message>
-        <source>P&amp;ages</source>
-        <comment>EtCtrl_P_ages_1109</comment>
-        <translation type="obsolete">總頁數(&amp;A)</translation>
-    </message>
-    <message>
-        <source>P&amp;arallel</source>
-        <comment>EtCtrl_P_arallel_554</comment>
-        <translation type="obsolete">平行(&amp;A)</translation>
-    </message>
-    <message>
-        <source>P&amp;review Form</source>
-        <comment>EtCtrl_P_review_Form_2264</comment>
-        <translation type="obsolete">預覽表單(&amp;R)</translation>
-    </message>
-    <message>
-        <source>P&amp;rocess Marked Headers From</source>
-        <comment>EtCtrl_P_rocess_Marked_Headers_From_2246</comment>
-        <translation type="obsolete">處理已標示標題於(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Pac&amp;k and Go</source>
-        <comment>EtCtrl_Pac_k_and_Go_2214</comment>
-        <translation type="obsolete">隨身簡報(&amp;K)</translation>
-    </message>
-    <message>
-        <source>Page &amp;Break</source>
-        <comment>EtCtrl_Page__Break_222</comment>
-        <translation type="obsolete">分頁(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Page Design Section/Control</source>
-        <comment>EtCtrl_Page_Design_Section_Control_2119</comment>
-        <translation type="obsolete">頁面設計區段/控制</translation>
-    </message>
-    <message>
-        <source>Page Set&amp;up</source>
-        <comment>EtCtrl_Page_Set_up_1172</comment>
-        <translation type="obsolete">版面設定(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Page Set&amp;up...</source>
-        <comment>EtCtrl_Page_Set_up____75</comment>
-        <translation type="obsolete">版面設定(&amp;U)...</translation>
-    </message>
-    <message>
-        <source>Page Si&amp;ze</source>
-        <comment>EtCtrl_Page_Si_ze_2255</comment>
-        <translation type="obsolete">頁面大小(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>Para&amp;meters...</source>
-        <comment>EtCtrl_Para_meters____224</comment>
-        <translation type="obsolete">參數(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>Paragrap&amp;h Direction</source>
-        <comment>EtCtrl_Paragrap_h_Direction_1111</comment>
-        <translation type="obsolete">段落方向(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Paste &amp;Special...</source>
-        <comment>EtCtrl_Paste__Special____250</comment>
-        <translation type="obsolete">選擇性貼上(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>Paste Li&amp;nk</source>
-        <comment>EtCtrl_Paste_Li_nk_674</comment>
-        <translation type="obsolete">貼上連結(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Paste as &amp;Hyperlink</source>
-        <comment>EtCtrl_Paste_as__Hyperlink_754</comment>
-        <translation type="obsolete">貼上超連結(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <comment>EtCtrl_Pattern_1087</comment>
-        <translation type="obsolete">圖樣</translation>
-    </message>
-    <message>
-        <source>Pe&amp;rsonal Information</source>
-        <comment>EtCtrl_Pe_rsonal_Information_2203</comment>
-        <translation type="obsolete">個人資訊(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Pen &amp;Mode</source>
-        <comment>EtCtrl_Pen__Mode_2347</comment>
-        <translation type="obsolete">畫筆模式(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Pen &amp;Width</source>
-        <comment>EtCtrl_Pen__Width_2301</comment>
-        <translation type="obsolete">畫筆寬度(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Pen Color</source>
-        <comment>EtCtrl_Pen_Color_1228</comment>
-        <translation type="obsolete">畫筆顏色</translation>
-    </message>
-    <message>
-        <source>Per&amp;mission</source>
-        <comment>EtCtrl_Per_mission_2308</comment>
-        <translation type="obsolete">權限(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Per&amp;mission...</source>
-        <comment>EtCtrl_Per_mission____970</comment>
-        <translation type="obsolete">權限(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>Permission (Unrestricted Access)</source>
-        <comment>EtCtrl_Permission__Unrestricted_Access__971</comment>
-        <translation type="obsolete">權限 (未限制的存取)</translation>
-    </message>
-    <message>
-        <source>Phone&amp;tic Guide</source>
-        <comment>EtCtrl_Phone_tic_Guide_1136</comment>
-        <translation type="obsolete">注音標示(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Pic&amp;k From Drop-down List...</source>
-        <comment>EtCtrl_Pic_k_From_Drop_down_List____679</comment>
-        <translation type="obsolete">從下拉式清單挑選(&amp;K)...</translation>
-    </message>
-    <message>
-        <source>Pick From Phonetic List ...</source>
-        <comment>EtCtrl_Pick_From_Phonetic_List_____773</comment>
-        <translation type="obsolete">從注音標示清單挑選...</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <comment>EtCtrl_Picture_1192</comment>
-        <translation type="obsolete">圖片</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <comment>EtCtrl_Picture_2217</comment>
-        <translation type="obsolete">圖片</translation>
-    </message>
-    <message>
-        <source>Picture Frame</source>
-        <comment>EtCtrl_Picture_Frame_2315</comment>
-        <translation type="obsolete">圖片框</translation>
-    </message>
-    <message>
-        <source>Pictures</source>
-        <comment>EtCtrl_Pictures_1689</comment>
-        <translation type="obsolete">圖片</translation>
-    </message>
-    <message>
-        <source>Pink</source>
-        <comment>EtCtrl_Pink_980</comment>
-        <translation type="obsolete">粉紅色</translation>
-    </message>
-    <message>
-        <source>Pink</source>
-        <comment>EtCtrl_Pink_990</comment>
-        <translation type="obsolete">粉紅色</translation>
-    </message>
-    <message>
-        <source>Pivot&amp;Chart</source>
-        <comment>EtCtrl_Pivot_Chart_791</comment>
-        <translation type="obsolete">樞紐分析圖(&amp;C)</translation>
-    </message>
-    <message>
-        <source>PivotChart View Main</source>
-        <comment>EtCtrl_PivotChart_View_Main_2238</comment>
-        <translation type="obsolete">樞紐分析圖主檢視</translation>
-    </message>
-    <message>
-        <source>PivotTable</source>
-        <comment>EtCtrl_PivotTable_1248</comment>
-        <translation type="obsolete">樞紐分析表</translation>
-    </message>
-    <message>
-        <source>PivotTable</source>
-        <comment>EtCtrl_PivotTable_1363</comment>
-        <translation type="obsolete">樞紐分析表</translation>
-    </message>
-    <message>
-        <source>PivotTable &amp;Wizard</source>
-        <comment>EtCtrl_PivotTable__Wizard_194</comment>
-        <translation type="obsolete">樞紐分析表精靈(&amp;W)</translation>
-    </message>
-    <message>
-        <source>PivotTable Formulas</source>
-        <comment>EtCtrl_PivotTable_Formulas_1371</comment>
-        <translation type="obsolete">樞紐分析表公式</translation>
-    </message>
-    <message>
-        <source>PivotTable Grouping</source>
-        <comment>EtCtrl_PivotTable_Grouping_1370</comment>
-        <translation type="obsolete">樞紐分析表群組</translation>
-    </message>
-    <message>
-        <source>PivotTable Select</source>
-        <comment>EtCtrl_PivotTable_Select_1369</comment>
-        <translation type="obsolete">樞紐分析表選取</translation>
-    </message>
-    <message>
-        <source>PivotTable View Main</source>
-        <comment>EtCtrl_PivotTable_View_Main_2237</comment>
-        <translation type="obsolete">樞紐分析表主檢視</translation>
-    </message>
-    <message>
-        <source>PivotTable/PivotChart</source>
-        <comment>EtCtrl_PivotTable_PivotChart_2192</comment>
-        <translation type="obsolete">樞紐分析表/樞紐分析圖</translation>
-    </message>
-    <message>
-        <source>Plot Area</source>
-        <comment>EtCtrl_Plot_Area_1358</comment>
-        <translation type="obsolete">繪圖區</translation>
-    </message>
-    <message>
-        <source>Ply</source>
-        <comment>EtCtrl_Ply_1350</comment>
-        <translation type="obsolete">工作表</translation>
-    </message>
-    <message>
-        <source>Pointer Options</source>
-        <comment>EtCtrl_Pointer_Options_1227</comment>
-        <translation type="obsolete">指標選項</translation>
-    </message>
-    <message>
-        <source>Pre&amp;vious</source>
-        <comment>EtCtrl_Pre_vious_1118</comment>
-        <translation type="obsolete">前一(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Preview in &amp;Browser</source>
-        <comment>EtCtrl_Preview_in__Browser_2267</comment>
-        <translation type="obsolete">在瀏覽器中預覽(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Prin&amp;t Area</source>
-        <comment>EtCtrl_Prin_t_Area_1255</comment>
-        <translation type="obsolete">列印範圍(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Prin&amp;t Setup</source>
-        <comment>EtCtrl_Prin_t_Setup_1132</comment>
-        <translation type="obsolete">列印設定(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <comment>EtCtrl_Print__Foxit_Reader_PDF_Printer__2__730</comment>
-        <translation type="obsolete">列印</translation>
-    </message>
-    <message>
-        <source>Print List</source>
-        <comment>EtCtrl_Print_List_937</comment>
-        <translation type="obsolete">列印清單</translation>
-    </message>
-    <message>
-        <source>Print Pre&amp;view</source>
-        <comment>EtCtrl_Print_Pre_view_21</comment>
-        <translation type="obsolete">預覽列印(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Print Preview</source>
-        <comment>EtCtrl_Print_Preview_1310</comment>
-        <translation type="obsolete">預覽列印</translation>
-    </message>
-    <message>
-        <source>Printing &amp;Order</source>
-        <comment>EtCtrl_Printing__Order_2159</comment>
-        <translation type="obsolete">列印順序(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Proo&amp;fing Tools</source>
-        <comment>EtCtrl_Proo_fing_Tools_2210</comment>
-        <translation type="obsolete">校訂工具(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Propert&amp;ies</source>
-        <comment>EtCtrl_Propert_ies_248</comment>
-        <translation type="obsolete">摘要資訊(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <comment>EtCtrl_Properties_1261</comment>
-        <translation type="obsolete">屬性</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <comment>EtCtrl_Properties_1265</comment>
-        <translation type="obsolete">屬性</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <comment>EtCtrl_Properties_1280</comment>
-        <translation type="obsolete">屬性</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <comment>EtCtrl_Properties_1299</comment>
-        <translation type="obsolete">屬性</translation>
-    </message>
-    <message>
-        <source>Property F&amp;ields...</source>
-        <comment>EtCtrl_Property_F_ields____888</comment>
-        <translation type="obsolete">屬性欄位(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>Protect &amp;Workbook...</source>
-        <comment>EtCtrl_Protect__Workbook____311</comment>
-        <translation type="obsolete">保護活頁簿(&amp;W)...</translation>
-    </message>
-    <message>
-        <source>Protect and &amp;Share Workbook...</source>
-        <comment>EtCtrl_Protect_and__Share_Workbook____764</comment>
-        <translation type="obsolete">保護且共用活頁簿(&amp;S)...</translation>
-    </message>
-    <message>
-        <source>Pub&amp;lish</source>
-        <comment>EtCtrl_Pub_lish_2305</comment>
-        <translation type="obsolete">發佈(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Publis&amp;h as Web Page...</source>
-        <comment>EtCtrl_Publis_h_as_Web_Page____801</comment>
-        <translation type="obsolete">發佈成網頁(&amp;H)...</translation>
-    </message>
-    <message>
-        <source>Publis&amp;hing</source>
-        <comment>EtCtrl_Publis_hing_1134</comment>
-        <translation type="obsolete">出版(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Query</source>
-        <comment>EtCtrl_Query_1364</comment>
-        <translation type="obsolete">查詢</translation>
-    </message>
-    <message>
-        <source>Query</source>
-        <comment>EtCtrl_Query_1386</comment>
-        <translation type="obsolete">查詢</translation>
-    </message>
-    <message>
-        <source>Query Design</source>
-        <comment>EtCtrl_Query_Design_1152</comment>
-        <translation type="obsolete">查詢設計</translation>
-    </message>
-    <message>
-        <source>Query Field List</source>
-        <comment>EtCtrl_Query_Field_List_1268</comment>
-        <translation type="obsolete">查詢欄位清單</translation>
-    </message>
-    <message>
-        <source>Query Layout</source>
-        <comment>EtCtrl_Query_Layout_1046</comment>
-        <translation type="obsolete">查詢版面配置</translation>
-    </message>
-    <message>
-        <source>R T E Font</source>
-        <comment>EtCtrl_R_T_E_Font_1220</comment>
-        <translation type="obsolete">R T E 字型</translation>
-    </message>
-    <message>
-        <source>R T E Font Para</source>
-        <comment>EtCtrl_R_T_E_Font_Para_1221</comment>
-        <translation type="obsolete">R T E 字型段落</translation>
-    </message>
-    <message>
-        <source>R&amp;eplace...</source>
-        <comment>EtCtrl_R_eplace____110</comment>
-        <translation type="obsolete">取代(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>R&amp;uler</source>
-        <comment>EtCtrl_R_uler_2250</comment>
-        <translation type="obsolete">尺規(&amp;U)</translation>
-    </message>
-    <message>
-        <source>R&amp;uler and Grid</source>
-        <comment>EtCtrl_R_uler_and_Grid_2294</comment>
-        <translation type="obsolete">尺規和格線(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Re&amp;currence</source>
-        <comment>EtCtrl_Re_currence_1171</comment>
-        <translation type="obsolete">週期性(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Re&amp;plication</source>
-        <comment>EtCtrl_Re_plication_1105</comment>
-        <translation type="obsolete">複製資料庫(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Re&amp;size</source>
-        <comment>EtCtrl_Re_size_851</comment>
-        <translation type="obsolete">調整大小(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Reading Pa&amp;ne</source>
-        <comment>EtCtrl_Reading_Pa_ne_2134</comment>
-        <translation type="obsolete">讀取窗格(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Recen&amp;t Sites</source>
-        <comment>EtCtrl_Recen_t_Sites_1706</comment>
-        <translation type="obsolete">最近使用的網站(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Recent &amp;Files</source>
-        <comment>EtCtrl_Recent__Files_1705</comment>
-        <translation type="obsolete">最近使用的檔案(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Recipient using Internet Fa&amp;x Service...</source>
-        <comment>EtCtrl_Recipient_using_Internet_Fa_x_Service____938</comment>
-        <translation type="obsolete">使用網際網路傳真服務的收件者(&amp;X)...</translation>
-    </message>
-    <message>
-        <source>Recon&amp;vert</source>
-        <comment>EtCtrl_Recon_vert_784</comment>
-        <translation type="obsolete">重新組字(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Records</source>
-        <comment>EtCtrl_Records_1151</comment>
-        <translation type="obsolete">記錄</translation>
-    </message>
-    <message>
-        <source>Red</source>
-        <comment>EtCtrl_Red_974</comment>
-        <translation type="obsolete">紅色</translation>
-    </message>
-    <message>
-        <source>Red</source>
-        <comment>EtCtrl_Red_977</comment>
-        <translation type="obsolete">紅色</translation>
-    </message>
-    <message>
-        <source>Red</source>
-        <comment>EtCtrl_Red_984</comment>
-        <translation type="obsolete">紅色</translation>
-    </message>
-    <message>
-        <source>Red</source>
-        <comment>EtCtrl_Red_987</comment>
-        <translation type="obsolete">紅色</translation>
-    </message>
-    <message>
-        <source>Refere&amp;nce</source>
-        <comment>EtCtrl_Refere_nce_2174</comment>
-        <translation type="obsolete">參照(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Refre&amp;sh</source>
-        <comment>EtCtrl_Refre_sh_793</comment>
-        <translation type="obsolete">重新整理(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Refresh &amp;All</source>
-        <comment>EtCtrl_Refresh__All_671</comment>
-        <translation type="obsolete">全部更新(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Regr&amp;oup</source>
-        <comment>EtCtrl_Regr_oup_112</comment>
-        <translation type="obsolete">復原群組(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Relationship</source>
-        <comment>EtCtrl_Relationship_1387</comment>
-        <translation type="obsolete">關聯</translation>
-    </message>
-    <message>
-        <source>Relative Reference</source>
-        <comment>EtCtrl_Relative_Reference_312</comment>
-        <translation type="obsolete">相對參照</translation>
-    </message>
-    <message>
-        <source>Relative t&amp;o Canvas</source>
-        <comment>EtCtrl_Relative_t_o_Canvas_867</comment>
-        <translation type="obsolete">相對於畫布(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Relative t&amp;o Diagram</source>
-        <comment>EtCtrl_Relative_t_o_Diagram_930</comment>
-        <translation type="obsolete">相對於圖表(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Relative t&amp;o Organization Chart</source>
-        <comment>EtCtrl_Relative_t_o_Organization_Chart_929</comment>
-        <translation type="obsolete">相對於組織圖(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Remo&amp;ve Field</source>
-        <comment>EtCtrl_Remo_ve_Field_814</comment>
-        <translation type="obsolete">移除欄位(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Remove &amp;All Arrows</source>
-        <comment>EtCtrl_Remove__All_Arrows_190</comment>
-        <translation type="obsolete">移除所有箭號(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Remove All S&amp;cripts</source>
-        <comment>EtCtrl_Remove_All_S_cripts_777</comment>
-        <translation type="obsolete">移除所有的指令碼(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Reply with &amp;Changes...</source>
-        <comment>EtCtrl_Reply_with__Changes____899</comment>
-        <translation type="obsolete">回覆變更(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>Report</source>
-        <comment>EtCtrl_Report_1323</comment>
-        <translation type="obsolete">報表</translation>
-    </message>
-    <message>
-        <source>Report</source>
-        <comment>EtCtrl_Report_1388</comment>
-        <translation type="obsolete">報表</translation>
-    </message>
-    <message>
-        <source>Reports</source>
-        <comment>EtCtrl_Reports_2230</comment>
-        <translation type="obsolete">報告</translation>
-    </message>
-    <message>
-        <source>Rerou&amp;te Connectors</source>
-        <comment>EtCtrl_Rerou_te_Connectors_368</comment>
-        <translation type="obsolete">重設連接線路徑(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Reset &amp;All Page Breaks</source>
-        <comment>EtCtrl_Reset__All_Page_Breaks_598</comment>
-        <translation type="obsolete">重設所有分頁線(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Resi&amp;ze Diagram</source>
-        <comment>EtCtrl_Resi_ze_Diagram_912</comment>
-        <translation type="obsolete">調整資料圖表大小(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>Resi&amp;ze Organization Chart</source>
-        <comment>EtCtrl_Resi_ze_Organization_Chart_915</comment>
-        <translation type="obsolete">調整組織圖大小(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>Restrict Permission As...</source>
-        <comment>EtCtrl_Restrict_Permission_As____1001</comment>
-        <translation type="obsolete">限制權限為...</translation>
-    </message>
-    <message>
-        <source>Resume Macro</source>
-        <comment>EtCtrl_Resume_Macro_57</comment>
-        <translation type="obsolete">繼續執行巨集</translation>
-    </message>
-    <message>
-        <source>Rotate &amp;Left 90°</source>
-        <comment>EtCtrl_Rotate__Left_90__61</comment>
-        <translation type="obsolete">向左旋轉 90度(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Rotate &amp;Right 90°</source>
-        <comment>EtCtrl_Rotate__Right_90__60</comment>
-        <translation type="obsolete">向右旋轉 90度(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Rotate Mode</source>
-        <comment>EtCtrl_Rotate_Mode_1196</comment>
-        <translation type="obsolete">旋轉模式</translation>
-    </message>
-    <message>
-        <source>Rotate or Fli&amp;p</source>
-        <comment>EtCtrl_Rotate_or_Fli_p_1036</comment>
-        <translation type="obsolete">旋轉或翻轉(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Routing Slip</source>
-        <comment>EtCtrl_Routing_Slip_77</comment>
-        <translation type="obsolete">傳閱名單</translation>
-    </message>
-    <message>
-        <source>Row</source>
-        <comment>EtCtrl_Row_1345</comment>
-        <translation type="obsolete">列</translation>
-    </message>
-    <message>
-        <source>Row</source>
-        <comment>EtCtrl_Row_1348</comment>
-        <translation type="obsolete">列</translation>
-    </message>
-    <message>
-        <source>Ruler Gui&amp;des</source>
-        <comment>EtCtrl_Ruler_Gui_des_2205</comment>
-        <translation type="obsolete">尺規輔助線(&amp;D)</translation>
-    </message>
-    <message>
-        <source>S&amp;QL Specific</source>
-        <comment>EtCtrl_S_QL_Specific_1041</comment>
-        <translation type="obsolete">SQL 特定(&amp;Q)</translation>
-    </message>
-    <message>
-        <source>S&amp;cale Drawing</source>
-        <comment>EtCtrl_S_cale_Drawing_928</comment>
-        <translation type="obsolete">重設繪圖畫布大小(&amp;C)</translation>
-    </message>
-    <message>
-        <source>S&amp;end Using</source>
-        <comment>EtCtrl_S_end_Using_2144</comment>
-        <translation type="obsolete">傳送使用(&amp;E)</translation>
-    </message>
-    <message>
-        <source>S&amp;end/Receive</source>
-        <comment>EtCtrl_S_end_Receive_2125</comment>
-        <translation type="obsolete">傳送/接收(&amp;E)</translation>
-    </message>
-    <message>
-        <source>S&amp;eries...</source>
-        <comment>EtCtrl_S_eries____700</comment>
-        <translation type="obsolete">數列(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>S&amp;ettings...</source>
-        <comment>EtCtrl_S_ettings____318</comment>
-        <translation type="obsolete">設定(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>S&amp;hare</source>
-        <comment>EtCtrl_S_hare_2128</comment>
-        <translation type="obsolete">共享(&amp;H)</translation>
-    </message>
-    <message>
-        <source>S&amp;heet</source>
-        <comment>EtCtrl_S_heet_1026</comment>
-        <translation type="obsolete">工作表(&amp;H)</translation>
-    </message>
-    <message>
-        <source>S&amp;how Panes</source>
-        <comment>EtCtrl_S_how_Panes_1440</comment>
-        <translation type="obsolete">顯示窗格(&amp;H)</translation>
-    </message>
-    <message>
-        <source>S&amp;peak Cells</source>
-        <comment>EtCtrl_S_peak_Cells_922</comment>
-        <translation type="obsolete">讀出儲存格(&amp;P)</translation>
-    </message>
-    <message>
-        <source>S&amp;ubform</source>
-        <comment>EtCtrl_S_ubform_2220</comment>
-        <translation type="obsolete">子表單(&amp;U)</translation>
-    </message>
-    <message>
-        <source>S&amp;ubtotals</source>
-        <comment>EtCtrl_S_ubtotals_910</comment>
-        <translation type="obsolete">小計(&amp;U)</translation>
-    </message>
-    <message>
-        <source>S&amp;ynchronize List</source>
-        <comment>EtCtrl_S_ynchronize_List_953</comment>
-        <translation type="obsolete">同步清單(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>S&amp;ynonyms</source>
-        <comment>EtCtrl_S_ynonyms_1414</comment>
-        <translation type="obsolete">同義字(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>S&amp;ynonyms</source>
-        <comment>EtCtrl_S_ynonyms_1475</comment>
-        <translation type="obsolete">同義字(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>SQL Pane</source>
-        <comment>EtCtrl_SQL_Pane_2114</comment>
-        <translation type="obsolete">SQL 窗格</translation>
-    </message>
-    <message>
-        <source>SQL Text</source>
-        <comment>EtCtrl_SQL_Text_1279</comment>
-        <translation type="obsolete">SQL 文字</translation>
-    </message>
-    <message>
-        <source>SQL Title Bar</source>
-        <comment>EtCtrl_SQL_Title_Bar_1278</comment>
-        <translation type="obsolete">SQL 標題列</translation>
-    </message>
-    <message>
-        <source>Sample &amp;Databases...</source>
-        <comment>EtCtrl_Sample__Databases____2182</comment>
-        <translation type="obsolete">範例資料庫(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>Sav&amp;e Form To</source>
-        <comment>EtCtrl_Sav_e_Form_To_1377</comment>
-        <translation type="obsolete">將表單存成(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Save &amp;As...</source>
-        <comment>EtCtrl_Save__As____247</comment>
-        <translation type="obsolete">另存新檔(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>Save &amp;Web Part to</source>
-        <comment>EtCtrl_Save__Web_Part_to_2270</comment>
-        <translation type="obsolete">儲存網頁組件至(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Save &amp;Workspace...</source>
-        <comment>EtCtrl_Save__Workspace____271</comment>
-        <translation type="obsolete">儲存工作環境(&amp;W)...</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <comment>EtCtrl_Save_As_2256</comment>
-        <translation type="obsolete">另存新檔</translation>
-    </message>
-    <message>
-        <source>Save Attac&amp;hments</source>
-        <comment>EtCtrl_Save_Attac_hments_1126</comment>
-        <translation type="obsolete">儲存附件(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Save as Web Pa&amp;ge...</source>
-        <comment>EtCtrl_Save_as_Web_Pa_ge____795</comment>
-        <translation type="obsolete">另存成網頁(&amp;G)...</translation>
-    </message>
-    <message>
-        <source>Save to &amp;HTML/Web Formats</source>
-        <comment>EtCtrl_Save_to__HTML_Web_Formats_1396</comment>
-        <translation type="obsolete">存成 HTML/Web 格式(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Sc&amp;enarios...</source>
-        <comment>EtCtrl_Sc_enarios____279</comment>
-        <translation type="obsolete">分析藍本(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>Screen</source>
-        <comment>EtCtrl_Screen_1224</comment>
-        <translation type="obsolete">螢幕</translation>
-    </message>
-    <message>
-        <source>Scri&amp;pt</source>
-        <comment>EtCtrl_Scri_pt_2258</comment>
-        <translation type="obsolete">指令碼(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Se&amp;nd...</source>
-        <comment>EtCtrl_Se_nd____114</comment>
-        <translation type="obsolete">傳送(&amp;N)...</translation>
-    </message>
-    <message>
-        <source>Se&amp;ttings...</source>
-        <comment>EtCtrl_Se_ttings____614</comment>
-        <translation type="obsolete">設定(&amp;T) ...</translation>
-    </message>
-    <message>
-        <source>Search In</source>
-        <comment>EtCtrl_Search_In_2248</comment>
-        <translation type="obsolete">搜尋</translation>
-    </message>
-    <message>
-        <source>Search the &amp;Web</source>
-        <comment>EtCtrl_Search_the__Web_661</comment>
-        <translation type="obsolete">搜尋 Web(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Sectio&amp;n</source>
-        <comment>EtCtrl_Sectio_n_1069</comment>
-        <translation type="obsolete">區段(&amp;N)</translation>
-    </message>
-    <message>
-        <source>Section &amp;Color</source>
-        <comment>EtCtrl_Section__Color_2336</comment>
-        <translation type="obsolete">節色彩(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Securi&amp;ty</source>
-        <comment>EtCtrl_Securi_ty_1015</comment>
-        <translation type="obsolete">安全性(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Security...</source>
-        <comment>EtCtrl_Security____775</comment>
-        <translation type="obsolete">安全性...</translation>
-    </message>
-    <message>
-        <source>Sele&amp;ct</source>
-        <comment>EtCtrl_Sele_ct_1446</comment>
-        <translation type="obsolete">選取(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Sele&amp;ct</source>
-        <comment>EtCtrl_Sele_ct_2181</comment>
-        <translation type="obsolete">選取(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Sen&amp;d To</source>
-        <comment>EtCtrl_Sen_d_To_1095</comment>
-        <translation type="obsolete">傳送到(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Send &amp;Backward</source>
-        <comment>EtCtrl_Send__Backward_51</comment>
-        <translation type="obsolete">後推一層(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Send for &amp;Review...</source>
-        <comment>EtCtrl_Send_for__Review____866</comment>
-        <translation type="obsolete">傳送以供檢閱(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>Send to</source>
-        <comment>EtCtrl_Send_to_2266</comment>
-        <translation type="obsolete">傳送到</translation>
-    </message>
-    <message>
-        <source>Send to Bac&amp;k</source>
-        <comment>EtCtrl_Send_to_Bac_k_49</comment>
-        <translation type="obsolete">移到最下層(&amp;K)</translation>
-    </message>
-    <message>
-        <source>Send/Recei&amp;ve Settings</source>
-        <comment>EtCtrl_Send_Recei_ve_Settings_2247</comment>
-        <translation type="obsolete">傳送/接收設定(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Ser&amp;ver</source>
-        <comment>EtCtrl_Ser_ver_2201</comment>
-        <translation type="obsolete">伺服器(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Series</source>
-        <comment>EtCtrl_Series_1357</comment>
-        <translation type="obsolete">數列</translation>
-    </message>
-    <message>
-        <source>Series in &amp;Columns</source>
-        <comment>EtCtrl_Series_in__Columns_346</comment>
-        <translation type="obsolete">以欄資料為數列(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Series in &amp;Rows</source>
-        <comment>EtCtrl_Series_in__Rows_347</comment>
-        <translation type="obsolete">以列資料為數列(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Set AutoShape &amp;Defaults</source>
-        <comment>EtCtrl_Set_AutoShape__Defaults_726</comment>
-        <translation type="obsolete">設定為快取圖案預設值(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Settin&amp;g</source>
-        <comment>EtCtrl_Settin_g_2190</comment>
-        <translation type="obsolete">設定值(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Sh&amp;ow/Hide Comments</source>
-        <comment>EtCtrl_Sh_ow_Hide_Comments_605</comment>
-        <translation type="obsolete">顯示/隱藏註解(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Shape</source>
-        <comment>EtCtrl_Shape_2178</comment>
-        <translation type="obsolete">圖案</translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <comment>EtCtrl_Shapes_1199</comment>
-        <translation type="obsolete">圖案</translation>
-    </message>
-    <message>
-        <source>Share Work&amp;book...</source>
-        <comment>EtCtrl_Share_Work_book____705</comment>
-        <translation type="obsolete">共用活頁簿(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>Share&amp;d Workspace...</source>
-        <comment>EtCtrl_Share_d_Workspace____951</comment>
-        <translation type="obsolete">共用工作區(&amp;D)...</translation>
-    </message>
-    <message>
-        <source>Shared &amp;Content</source>
-        <comment>EtCtrl_Shared__Content_2284</comment>
-        <translation type="obsolete">共用內容(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Sheet Left-to-Right</source>
-        <comment>EtCtrl_Sheet_Left_to_Right_662</comment>
-        <translation type="obsolete">工作表由左至右</translation>
-    </message>
-    <message>
-        <source>Sheet Right-to-Left</source>
-        <comment>EtCtrl_Sheet_Right_to_Left_663</comment>
-        <translation type="obsolete">工作表由右至左</translation>
-    </message>
-    <message>
-        <source>Shif&amp;t Right and Copy</source>
-        <comment>EtCtrl_Shif_t_Right_and_Copy_713</comment>
-        <translation type="obsolete">複製選取區，原有範圍右移(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Shift &amp;Down and Move</source>
-        <comment>EtCtrl_Shift__Down_and_Move_714</comment>
-        <translation type="obsolete">移動選取區，原有範圍下移(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Shift &amp;Right and Move</source>
-        <comment>EtCtrl_Shift__Right_and_Move_715</comment>
-        <translation type="obsolete">移動選取區，原有範圍右移(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Sho&amp;w As</source>
-        <comment>EtCtrl_Sho_w_As_2222</comment>
-        <translation type="obsolete">顯示為(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Sho&amp;w Detail</source>
-        <comment>EtCtrl_Sho_w_Detail_805</comment>
-        <translation type="obsolete">顯示詳細資料(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Shortcut Menu</source>
-        <comment>EtCtrl_Shortcut_Menu_1067</comment>
-        <translation type="obsolete">快顯功能表</translation>
-    </message>
-    <message>
-        <source>Show &amp;All Scripts</source>
-        <comment>EtCtrl_Show__All_Scripts_780</comment>
-        <translation type="obsolete">顯示所有指令碼(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Show &amp;Pages...</source>
-        <comment>EtCtrl_Show__Pages____198</comment>
-        <translation type="obsolete">分頁顯示(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>Show &amp;Text To Speech Toolbar</source>
-        <comment>EtCtrl_Show__Text_To_Speech_Toolbar_927</comment>
-        <translation type="obsolete">顯示文字轉換語音工具列(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Show &amp;Watch Window</source>
-        <comment>EtCtrl_Show__Watch_Window_819</comment>
-        <translation type="obsolete">顯示監看式視窗(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Show Drawing Canvas Tool&amp;bar</source>
-        <comment>EtCtrl_Show_Drawing_Canvas_Tool_bar_852</comment>
-        <translation type="obsolete">顯示繪圖畫布工具列(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Show Ink Annotations Tool&amp;bar</source>
-        <comment>EtCtrl_Show_Ink_Annotations_Tool_bar_993</comment>
-        <translation type="obsolete">顯示筆跡標註工具列(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Show Ink Drawing and Writing Tool&amp;bar</source>
-        <comment>EtCtrl_Show_Ink_Drawing_and_Writing_Tool_bar_992</comment>
-        <translation type="obsolete">顯示手繪圖案及筆跡工具列(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Show Only the &amp;Bottom</source>
-        <comment>EtCtrl_Show_Only_the__Bottom_2195</comment>
-        <translation type="obsolete">僅顯示底端(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Show Only the &amp;Top</source>
-        <comment>EtCtrl_Show_Only_the__Top_2194</comment>
-        <translation type="obsolete">僅顯示頂端(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Show Picture Too&amp;lbar</source>
-        <comment>EtCtrl_Show_Picture_Too_lbar_572</comment>
-        <translation type="obsolete">顯示圖片工具列(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Show PivotTable &amp;Toolbar</source>
-        <comment>EtCtrl_Show_PivotTable__Toolbar_917</comment>
-        <translation type="obsolete">顯示樞紐分析表工具列(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Show Si&amp;gnatures...</source>
-        <comment>EtCtrl_Show_Si_gnatures____826</comment>
-        <translation type="obsolete">顯示簽章(&amp;G)...</translation>
-    </message>
-    <message>
-        <source>Show To&amp;p/Bottom Items</source>
-        <comment>EtCtrl_Show_To_p_Bottom_Items_2193</comment>
-        <translation type="obsolete">顯示頂端/底端項目(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Show WordArt Tool&amp;bar</source>
-        <comment>EtCtrl_Show_WordArt_Tool_bar_570</comment>
-        <translation type="obsolete">顯示文字藝術師工具列(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Show or Hide &amp;Toolbars</source>
-        <comment>EtCtrl_Show_or_Hide__Toolbars_1449</comment>
-        <translation type="obsolete">顯示或隱藏工具列(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Show the &amp;Office Assistant</source>
-        <comment>EtCtrl_Show_the__Office_Assistant_353</comment>
-        <translation type="obsolete">顯示 Office 小幫手(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Si&amp;ze To</source>
-        <comment>EtCtrl_Si_ze_To_1148</comment>
-        <translation type="obsolete">調整成(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>Sign ou&amp;t</source>
-        <comment>EtCtrl_Sign_ou_t_864</comment>
-        <translation type="obsolete">登出(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Sized with &amp;Window</source>
-        <comment>EtCtrl_Sized_with__Window_320</comment>
-        <translation type="obsolete">隨視窗大小而變(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Sli&amp;de Show</source>
-        <comment>EtCtrl_Sli_de_Show_1225</comment>
-        <translation type="obsolete">投影片放映(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Slide Gap</source>
-        <comment>EtCtrl_Slide_Gap_2172</comment>
-        <translation type="obsolete">投影片間距</translation>
-    </message>
-    <message>
-        <source>Slide Miniature</source>
-        <comment>EtCtrl_Slide_Miniature_1331</comment>
-        <translation type="obsolete">投影片縮圖</translation>
-    </message>
-    <message>
-        <source>Slide Show</source>
-        <comment>EtCtrl_Slide_Show_1330</comment>
-        <translation type="obsolete">投影片放映</translation>
-    </message>
-    <message>
-        <source>Slide Show Browse Mode</source>
-        <comment>EtCtrl_Slide_Show_Browse_Mode_1395</comment>
-        <translation type="obsolete">投影片放映瀏覽模式</translation>
-    </message>
-    <message>
-        <source>Slide Show Short Popup</source>
-        <comment>EtCtrl_Slide_Show_Short_Popup_2271</comment>
-        <translation type="obsolete">投影片簡短快顯功能表</translation>
-    </message>
-    <message>
-        <source>SlideShow</source>
-        <comment>EtCtrl_SlideShow_1401</comment>
-        <translation type="obsolete">投影片</translation>
-    </message>
-    <message>
-        <source>Slider Sorter</source>
-        <comment>EtCtrl_Slider_Sorter_1332</comment>
-        <translation type="obsolete">投影片瀏覽</translation>
-    </message>
-    <message>
-        <source>Solution Views</source>
-        <comment>EtCtrl_Solution_Views_2257</comment>
-        <translation type="obsolete">檢視方案</translation>
-    </message>
-    <message>
-        <source>Sort &amp;Ascending</source>
-        <comment>EtCtrl_Sort__Ascending_66</comment>
-        <translation type="obsolete">遞增排序(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Sort &amp;By</source>
-        <comment>EtCtrl_Sort__By_2269</comment>
-        <translation type="obsolete">排序方式(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Sort &amp;and Top 10...</source>
-        <comment>EtCtrl_Sort__and_Top_10____908</comment>
-        <translation type="obsolete">排序及前十項(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>Sort Des&amp;cending</source>
-        <comment>EtCtrl_Sort_Des_cending_67</comment>
-        <translation type="obsolete">遞減排序(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Sourc&amp;e Code Control</source>
-        <comment>EtCtrl_Sourc_e_Code_Control_1179</comment>
-        <translation type="obsolete">原始程式碼控制項(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Source Code Control</source>
-        <comment>EtCtrl_Source_Code_Control_1250</comment>
-        <translation type="obsolete">原始程式碼控制項</translation>
-    </message>
-    <message>
-        <source>Speak On &amp;Enter</source>
-        <comment>EtCtrl_Speak_On__Enter_926</comment>
-        <translation type="obsolete">按 [Enter] 後讀出(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Speec&amp;h</source>
-        <comment>EtCtrl_Speec_h_2155</comment>
-        <translation type="obsolete">語音(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Speec&amp;h Recognition</source>
-        <comment>EtCtrl_Speec_h_Recognition_827</comment>
-        <translation type="obsolete">語音辨識(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Speed &amp;Dial</source>
-        <comment>EtCtrl_Speed__Dial_1144</comment>
-        <translation type="obsolete">快速撥號(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Spelling</source>
-        <comment>EtCtrl_Spelling_1184</comment>
-        <translation type="obsolete">拼字檢查</translation>
-    </message>
-    <message>
-        <source>Spi&amp;n Button</source>
-        <comment>EtCtrl_Spi_n_Button_657</comment>
-        <translation type="obsolete">微調按鈕(&amp;N)</translation>
-    </message>
-    <message>
-        <source>St&amp;raight Connector</source>
-        <comment>EtCtrl_St_raight_Connector_374</comment>
-        <translation type="obsolete">直線接點(&amp;R)</translation>
-    </message>
-    <message>
-        <source>St&amp;raight Point</source>
-        <comment>EtCtrl_St_raight_Point_580</comment>
-        <translation type="obsolete">拉直線段(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Step Macro</source>
-        <comment>EtCtrl_Step_Macro_56</comment>
-        <translation type="obsolete">逐步執行</translation>
-    </message>
-    <message>
-        <source>Stop &amp;Recording</source>
-        <comment>EtCtrl_Stop__Recording_727</comment>
-        <translation type="obsolete">停止錄製(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Stored Procedure</source>
-        <comment>EtCtrl_Stored_Procedure_2105</comment>
-        <translation type="obsolete">預存程序</translation>
-    </message>
-    <message>
-        <source>Stored Procedure Design/Trigger Editor</source>
-        <comment>EtCtrl_Stored_Procedure_Design_Trigger_Editor_2118</comment>
-        <translation type="obsolete">預存程式設計/引動程序編輯器</translation>
-    </message>
-    <message>
-        <source>Styles</source>
-        <comment>EtCtrl_Styles_1065</comment>
-        <translation type="obsolete">樣式</translation>
-    </message>
-    <message>
-        <source>Su&amp;btotals...</source>
-        <comment>EtCtrl_Su_btotals____282</comment>
-        <translation type="obsolete">小計(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>Sync&amp;hronize</source>
-        <comment>EtCtrl_Sync_hronize_2127</comment>
-        <translation type="obsolete">同步處理(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Synonyms</source>
-        <comment>EtCtrl_Synonyms_1098</comment>
-        <translation type="obsolete">同義字</translation>
-    </message>
-    <message>
-        <source>T&amp;able</source>
-        <comment>EtCtrl_T_able_1008</comment>
-        <translation type="obsolete">表格(&amp;A)</translation>
-    </message>
-    <message>
-        <source>T&amp;able</source>
-        <comment>EtCtrl_T_able_1439</comment>
-        <translation type="obsolete">資料表(&amp;A)</translation>
-    </message>
-    <message>
-        <source>T&amp;able</source>
-        <comment>EtCtrl_T_able_2233</comment>
-        <translation type="obsolete">表格(&amp;A)</translation>
-    </message>
-    <message>
-        <source>T&amp;ask</source>
-        <comment>EtCtrl_T_ask_1127</comment>
-        <translation type="obsolete">工作(&amp;A)</translation>
-    </message>
-    <message>
-        <source>T&amp;ext to Columns...</source>
-        <comment>EtCtrl_T_ext_to_Columns____259</comment>
-        <translation type="obsolete">資料剖析(&amp;E)...</translation>
-    </message>
-    <message>
-        <source>Ta&amp;b Order...</source>
-        <comment>EtCtrl_Ta_b_Order____205</comment>
-        <translation type="obsolete">Tab 鍵順序(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>Tab Control</source>
-        <comment>EtCtrl_Tab_Control_1374</comment>
-        <translation type="obsolete">索引標籤控制項</translation>
-    </message>
-    <message>
-        <source>Tab Control on Report Design</source>
-        <comment>EtCtrl_Tab_Control_on_Report_Design_1457</comment>
-        <translation type="obsolete">報表設計中的索引標籤控制項</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <comment>EtCtrl_Table_1060</comment>
-        <translation type="obsolete">表格</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <comment>EtCtrl_Table_1389</comment>
-        <translation type="obsolete">資料表</translation>
-    </message>
-    <message>
-        <source>Table &amp;Direction</source>
-        <comment>EtCtrl_Table__Direction_1484</comment>
-        <translation type="obsolete">表格方向(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Table &amp;Options...</source>
-        <comment>EtCtrl_Table__Options____610</comment>
-        <translation type="obsolete">表格選項(&amp;O)...</translation>
-    </message>
-    <message>
-        <source>Table / Query</source>
-        <comment>EtCtrl_Table___Query_1321</comment>
-        <translation type="obsolete">資料表/查詢</translation>
-    </message>
-    <message>
-        <source>Table Cell</source>
-        <comment>EtCtrl_Table_Cell_1211</comment>
-        <translation type="obsolete">表格儲存格</translation>
-    </message>
-    <message>
-        <source>Table Design</source>
-        <comment>EtCtrl_Table_Design_1238</comment>
-        <translation type="obsolete">資料表設計</translation>
-    </message>
-    <message>
-        <source>Table Field List</source>
-        <comment>EtCtrl_Table_Field_List_1267</comment>
-        <translation type="obsolete">資料表欄位清單</translation>
-    </message>
-    <message>
-        <source>Table Headings</source>
-        <comment>EtCtrl_Table_Headings_1212</comment>
-        <translation type="obsolete">表格標題</translation>
-    </message>
-    <message>
-        <source>Table Lists</source>
-        <comment>EtCtrl_Table_Lists_1213</comment>
-        <translation type="obsolete">表格清單</translation>
-    </message>
-    <message>
-        <source>Table P&amp;roperties</source>
-        <comment>EtCtrl_Table_P_roperties_1703</comment>
-        <translation type="obsolete">表格內容(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Table Pictures</source>
-        <comment>EtCtrl_Table_Pictures_1214</comment>
-        <translation type="obsolete">表格圖片</translation>
-    </message>
-    <message>
-        <source>Table Text</source>
-        <comment>EtCtrl_Table_Text_1215</comment>
-        <translation type="obsolete">表格文字</translation>
-    </message>
-    <message>
-        <source>Table Thes&amp;aurus</source>
-        <comment>EtCtrl_Table_Thes_aurus_1412</comment>
-        <translation type="obsolete">表格同義字(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Tables</source>
-        <comment>EtCtrl_Tables_1210</comment>
-        <translation type="obsolete">表格</translation>
-    </message>
-    <message>
-        <source>Tas&amp;k Pane</source>
-        <comment>EtCtrl_Tas_k_Pane_823</comment>
-        <translation type="obsolete">工作窗格(&amp;K)</translation>
-    </message>
-    <message>
-        <source>Tas&amp;kPad View</source>
-        <comment>EtCtrl_Tas_kPad_View_1129</comment>
-        <translation type="obsolete">工作清單檢視(&amp;K)</translation>
-    </message>
-    <message>
-        <source>Tas&amp;ks</source>
-        <comment>EtCtrl_Tas_ks_1149</comment>
-        <translation type="obsolete">工作(&amp;K)</translation>
-    </message>
-    <message>
-        <source>Tas&amp;ks</source>
-        <comment>EtCtrl_Tas_ks_2240</comment>
-        <translation type="obsolete">工作(&amp;K)</translation>
-    </message>
-    <message>
-        <source>TaskPad Sett&amp;ings</source>
-        <comment>EtCtrl_TaskPad_Sett_ings_1128</comment>
-        <translation type="obsolete">工作清單設定(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Te&amp;xt Box</source>
-        <comment>EtCtrl_Te_xt_Box_1163</comment>
-        <translation type="obsolete">文字方塊(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Te&amp;xt Box</source>
-        <comment>EtCtrl_Te_xt_Box_37</comment>
-        <translation type="obsolete">文字方塊(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <comment>EtCtrl_Text_1218</comment>
-        <translation type="obsolete">文字</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <comment>EtCtrl_Text_1400</comment>
-        <translation type="obsolete">文字</translation>
-    </message>
-    <message>
-        <source>Textbox</source>
-        <comment>EtCtrl_Textbox_1355</comment>
-        <translation type="obsolete">文字方塊</translation>
-    </message>
-    <message>
-        <source>Thumbnails</source>
-        <comment>EtCtrl_Thumbnails_2173</comment>
-        <translation type="obsolete">圖片目錄標籤</translation>
-    </message>
-    <message>
-        <source>Tint/Shade Base Color</source>
-        <comment>EtCtrl_Tint_Shade_Base_Color_2165</comment>
-        <translation type="obsolete">濃淡/網底基準色彩</translation>
-    </message>
-    <message>
-        <source>Title Bar</source>
-        <comment>EtCtrl_Title_Bar_1257</comment>
-        <translation type="obsolete">標題列</translation>
-    </message>
-    <message>
-        <source>Title Bar</source>
-        <comment>EtCtrl_Title_Bar_1262</comment>
-        <translation type="obsolete">標題列</translation>
-    </message>
-    <message>
-        <source>Title Bar</source>
-        <comment>EtCtrl_Title_Bar_1285</comment>
-        <translation type="obsolete">標題列</translation>
-    </message>
-    <message>
-        <source>Title Bar</source>
-        <comment>EtCtrl_Title_Bar_1311</comment>
-        <translation type="obsolete">標題列</translation>
-    </message>
-    <message>
-        <source>Title Bar</source>
-        <comment>EtCtrl_Title_Bar_1368</comment>
-        <translation type="obsolete">標題列</translation>
-    </message>
-    <message>
-        <source>Title Bar (Charting)</source>
-        <comment>EtCtrl_Title_Bar__Charting__1367</comment>
-        <translation type="obsolete">標題列 (圖表)</translation>
-    </message>
-    <message>
-        <source>To &amp;Grid</source>
-        <comment>EtCtrl_To__Grid_229</comment>
-        <translation type="obsolete">貼齊格線(&amp;G)</translation>
-    </message>
-    <message>
-        <source>To &amp;Shape</source>
-        <comment>EtCtrl_To__Shape_563</comment>
-        <translation type="obsolete">圖案(&amp;S)</translation>
-    </message>
-    <message>
-        <source>To&amp;ggle Button</source>
-        <comment>EtCtrl_To_ggle_Button_656</comment>
-        <translation type="obsolete">切換按鈕(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Toggle Grid</source>
-        <comment>EtCtrl_Toggle_Grid_218</comment>
-        <translation type="obsolete">切換格線顯示</translation>
-    </message>
-    <message>
-        <source>Toggle Total Row</source>
-        <comment>EtCtrl_Toggle_Total_Row_933</comment>
-        <translation type="obsolete">切換合計列</translation>
-    </message>
-    <message>
-        <source>Too&amp;ls</source>
-        <comment>EtCtrl_Too_ls_1477</comment>
-        <translation type="obsolete">工具(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Toolbar Name Goes Here</source>
-        <comment>EtCtrl_Toolbar_Name_Goes_Here_1049</comment>
-        <translation type="obsolete">工具列名稱</translation>
-    </message>
-    <message>
-        <source>Toolbox</source>
-        <comment>EtCtrl_Toolbox_1239</comment>
-        <translation type="obsolete">工具箱</translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <comment>EtCtrl_Tools_1059</comment>
-        <translation type="obsolete">工具</translation>
-    </message>
-    <message>
-        <source>Top Pane</source>
-        <comment>EtCtrl_Top_Pane_2107</comment>
-        <translation type="obsolete">上窗格</translation>
-    </message>
-    <message>
-        <source>Top Pane All Columns</source>
-        <comment>EtCtrl_Top_Pane_All_Columns_2110</comment>
-        <translation type="obsolete">上窗格所有欄</translation>
-    </message>
-    <message>
-        <source>Top Pane Field Item</source>
-        <comment>EtCtrl_Top_Pane_Field_Item_2111</comment>
-        <translation type="obsolete">上窗格欄位項目</translation>
-    </message>
-    <message>
-        <source>Top Pane Multi-select</source>
-        <comment>EtCtrl_Top_Pane_Multi_select_2109</comment>
-        <translation type="obsolete">上窗格多重選取</translation>
-    </message>
-    <message>
-        <source>Top Pane Table Title Bar</source>
-        <comment>EtCtrl_Top_Pane_Table_Title_Bar_2108</comment>
-        <translation type="obsolete">上窗格表格標題列</translation>
-    </message>
-    <message>
-        <source>Trace &amp;Dependents</source>
-        <comment>EtCtrl_Trace__Dependents_188</comment>
-        <translation type="obsolete">追蹤從屬參照(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Trace &amp;Error</source>
-        <comment>EtCtrl_Trace__Error_200</comment>
-        <translation type="obsolete">追蹤錯誤(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Tracing I&amp;mage</source>
-        <comment>EtCtrl_Tracing_I_mage_2293</comment>
-        <translation type="obsolete">追蹤圖像(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Track Changes</source>
-        <comment>EtCtrl_Track_Changes_1186</comment>
-        <translation type="obsolete">追蹤修訂</translation>
-    </message>
-    <message>
-        <source>Track Changes Status Bar</source>
-        <comment>EtCtrl_Track_Changes_Status_Bar_1198</comment>
-        <translation type="obsolete">追蹤修訂狀態列</translation>
-    </message>
-    <message>
-        <source>Treat Selected &amp;Ink As</source>
-        <comment>EtCtrl_Treat_Selected__Ink_As_2291</comment>
-        <translation type="obsolete">將選取的筆跡視為(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Trendline</source>
-        <comment>EtCtrl_Trendline_1360</comment>
-        <translation type="obsolete">趨勢線</translation>
-    </message>
-    <message>
-        <source>Turquoise</source>
-        <comment>EtCtrl_Turquoise_979</comment>
-        <translation type="obsolete">淺粉藍</translation>
-    </message>
-    <message>
-        <source>Turquoise</source>
-        <comment>EtCtrl_Turquoise_989</comment>
-        <translation type="obsolete">淺粉藍 </translation>
-    </message>
-    <message>
-        <source>Unmerge Cells</source>
-        <comment>EtCtrl_Unmerge_Cells_258</comment>
-        <translation type="obsolete">取消合併儲存格</translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <comment>EtCtrl_Unrestricted_Access_967</comment>
-        <translation type="obsolete">存取不受限制</translation>
-    </message>
-    <message>
-        <source>Up&amp;date Free/Busy</source>
-        <comment>EtCtrl_Up_date_Free_Busy_2133</comment>
-        <translation type="obsolete">更新空閒/忙碌(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Upper Pane</source>
-        <comment>EtCtrl_Upper_Pane_1263</comment>
-        <translation type="obsolete">上方窗格</translation>
-    </message>
-    <message>
-        <source>Upper Pane</source>
-        <comment>EtCtrl_Upper_Pane_1312</comment>
-        <translation type="obsolete">上方窗格</translation>
-    </message>
-    <message>
-        <source>Use A&amp;utoFormat</source>
-        <comment>EtCtrl_Use_A_utoFormat_921</comment>
-        <translation type="obsolete">使用自動格式設定(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Va&amp;lidation...</source>
-        <comment>EtCtrl_Va_lidation____702</comment>
-        <translation type="obsolete">驗證(&amp;L)...</translation>
-    </message>
-    <message>
-        <source>Ve&amp;rsion History</source>
-        <comment>EtCtrl_Ve_rsion_History_2314</comment>
-        <translation type="obsolete">版本歷程紀錄(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Ve&amp;rsion History...</source>
-        <comment>EtCtrl_Ve_rsion_History____959</comment>
-        <translation type="obsolete">版本歷程紀錄(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>Very T&amp;ight</source>
-        <comment>EtCtrl_Very_T_ight_527</comment>
-        <translation type="obsolete">非常緊(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Vi&amp;ew Direction</source>
-        <comment>EtCtrl_Vi_ew_Direction_1455</comment>
-        <translation type="obsolete">檢視方向(&amp;E)</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <comment>EtCtrl_View_1056</comment>
-        <translation type="obsolete">檢視</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <comment>EtCtrl_View_2104</comment>
-        <translation type="obsolete">視圖</translation>
-    </message>
-    <message>
-        <source>View &amp;Attachments</source>
-        <comment>EtCtrl_View__Attachments_1113</comment>
-        <translation type="obsolete">檢視附件(&amp;A)</translation>
-    </message>
-    <message>
-        <source>View &amp;List on Server</source>
-        <comment>EtCtrl_View__List_on_Server_955</comment>
-        <translation type="obsolete">檢視伺服器上的清單(&amp;L)</translation>
-    </message>
-    <message>
-        <source>View Design</source>
-        <comment>EtCtrl_View_Design_2102</comment>
-        <translation type="obsolete">視圖設定</translation>
-    </message>
-    <message>
-        <source>Watch Pane</source>
-        <comment>EtCtrl_Watch_Pane_1320</comment>
-        <translation type="obsolete">監看窗格</translation>
-    </message>
-    <message>
-        <source>We&amp;b Page Preview</source>
-        <comment>EtCtrl_We_b_Page_Preview_779</comment>
-        <translation type="obsolete">網頁預覽(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Web</source>
-        <comment>EtCtrl_Web_1249</comment>
-        <translation type="obsolete">網頁</translation>
-    </message>
-    <message>
-        <source>Web</source>
-        <comment>EtCtrl_Web_2136</comment>
-        <translation type="obsolete">網頁</translation>
-    </message>
-    <message>
-        <source>Web Services</source>
-        <comment>EtCtrl_Web_Services_2218</comment>
-        <translation type="obsolete">Web 服務</translation>
-    </message>
-    <message>
-        <source>What&apos;s &amp;This?</source>
-        <comment>EtCtrl_What_s__This__32</comment>
-        <translation type="obsolete">這是什麼?(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Whole Document (Chart)</source>
-        <comment>EtCtrl_Whole_Document__Chart__1375</comment>
-        <translation type="obsolete">整份文件 (圖表)</translation>
-    </message>
-    <message>
-        <source>Whole Tables</source>
-        <comment>EtCtrl_Whole_Tables_1216</comment>
-        <translation type="obsolete">整張表格</translation>
-    </message>
-    <message>
-        <source>Wi&amp;zard</source>
-        <comment>EtCtrl_Wi_zard_1428</comment>
-        <translation type="obsolete">精靈(&amp;Z)</translation>
-    </message>
-    <message>
-        <source>Window and Help</source>
-        <comment>EtCtrl_Window_and_Help_1061</comment>
-        <translation type="obsolete">視窗及說明</translation>
-    </message>
-    <message>
-        <source>Window and Help</source>
-        <comment>EtCtrl_Window_and_Help_1242</comment>
-        <translation type="obsolete">視窗及說明</translation>
-    </message>
-    <message>
-        <source>Wor&amp;k</source>
-        <comment>EtCtrl_Wor_k_1100</comment>
-        <translation type="obsolete">工作(&amp;K)</translation>
-    </message>
-    <message>
-        <source>WordArt</source>
-        <comment>EtCtrl_WordArt_1195</comment>
-        <translation type="obsolete">文字藝術師</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <comment>EtCtrl_Work_1421</comment>
-        <translation type="obsolete">工作</translation>
-    </message>
-    <message>
-        <source>Work with &amp;Headers</source>
-        <comment>EtCtrl_Work_with__Headers_2226</comment>
-        <translation type="obsolete">使用標題(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Workbook tabs</source>
-        <comment>EtCtrl_Workbook_tabs_1343</comment>
-        <translation type="obsolete">工作簿索引標籤</translation>
-    </message>
-    <message>
-        <source>Writing and Drawing Tools</source>
-        <comment>EtCtrl_Writing_and_Drawing_Tools_2356</comment>
-        <translation type="obsolete">手寫及繪圖工具</translation>
-    </message>
-    <message>
-        <source>XLM Cell</source>
-        <comment>EtCtrl_XLM_Cell_1351</comment>
-        <translation type="obsolete">XLM 儲存格</translation>
-    </message>
-    <message>
-        <source>XML Error Options</source>
-        <comment>EtCtrl_XML_Error_Options_2292</comment>
-        <translation type="obsolete">XML 錯誤選項</translation>
-    </message>
-    <message>
-        <source>XML Expansion P&amp;acks...</source>
-        <comment>EtCtrl_XML_Expansion_P_acks____958</comment>
-        <translation type="obsolete">XML 擴充套件(&amp;A)...</translation>
-    </message>
-    <message>
-        <source>XML Map &amp;Properties...</source>
-        <comment>EtCtrl_XML_Map__Properties____961</comment>
-        <translation type="obsolete">XML 對應內容(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>XML Structure Node Popup</source>
-        <comment>EtCtrl_XML_Structure_Node_Popup_2263</comment>
-        <translation type="obsolete">XML 結構節點快顯功能表</translation>
-    </message>
-    <message>
-        <source>Yellow</source>
-        <comment>EtCtrl_Yellow_978</comment>
-        <translation type="obsolete">黃色</translation>
-    </message>
-    <message>
-        <source>Yellow</source>
-        <comment>EtCtrl_Yellow_988</comment>
-        <translation type="obsolete">黃色</translation>
-    </message>
-    <message>
-        <source>[Removed by AaronWe]</source>
-        <comment>EtCtrl__Removed_by_AaronWe__2189</comment>
-        <translation type="obsolete">[Removed by AaronWe]</translation>
-    </message>
-    <message>
-        <source>[Removed by AaronWe]</source>
-        <comment>EtCtrl__Removed_by_AaronWe__2229</comment>
-        <translation type="obsolete">[Removed by AaronWe]</translation>
-    </message>
-    <message>
-        <source>dummy</source>
-        <comment>EtCtrl_dummy_1140</comment>
-        <translation type="obsolete">Dummy</translation>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12802,14 +3368,9 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Access資料程式庫(*.mdb)|*.mdb|DBase檔案(*.dbf)|*.dbf|文字檔案(*.txt)|*.txt|所有檔案(*.*)|*.*||</translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|Kingsoft Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="obsolete">所有檔案(*.*)|*.*|所有支援的資料程式庫檔案(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access資料程式庫(*.mdb)|*.mdb|DBase檔案(*.dbf)|*.dbf|Excel檔案(*.xls)|*.xls|WPS Spreadsheets 檔案(*.et)|*.et|CSV文字檔案(*.csv)|*.csv|文字檔案(*.txt)|</translation>
-    </message>
-    <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
-        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">所有檔案(*.*)|*.*|所有支援的資料程式庫檔案(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access資料程式庫(*.mdb)|*.mdb|DBase檔案(*.dbf)|*.dbf|Excel檔案(*.xls)|*.xls|Kingsoft Spreadsheets 檔案(*.et)|*.et|CSV文字檔案(*.csv)|*.csv|文字檔案(*.txt)|</translation>
     </message>
     <message>
         <source>And</source>
@@ -12839,12 +3400,14 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Continue to refresh all?</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要續繼更新嗎?</translation>
     </message>
     <message>
         <source>Could not obtain parameter from reference(Bad name or workbook not open). Proceed to prompt for value?</source>
         <comment>TX_ETDBE_STR_RANGENOTVALID</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">無法獲得所需參數（名稱有誤，或工作簿未開啟）。
+1.如果需要重新獲取參數值，請按 [確定]。
+2.如果要取消操作，請按 [取消]。</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -13000,12 +3563,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The following data range failed to refresh:</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>下列資料範圍更新失敗:</translation>
     </message>
     <message>
         <source>The process cannot access the file because it is being used by another process.</source>
         <comment>TX_ETDBE_STR_XMLFILEINUSE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">由於已有另一個處理序正在使用該檔案，所以無法存取該檔案。</translation>
     </message>
     <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
@@ -13015,12 +3578,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>This Web query returned no data.</source>
         <comment>TX_ETDBE_STR_WEBQUERY_EMPTY</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
-        <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
-        <translation type="unfinished"></translation>
+        <translation>此 Web 查詢沒有傳回資料。</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons:
@@ -13114,6 +3672,61 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>not like</source>
         <comment>TX_ETDBE_OPR_NOTLIKE</comment>
         <translation>不想要</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|Kingsoft Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">所有文件(*.*)|*.*|所有支持的數據庫文件(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access 數據庫(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro 數據庫(*.dbc)|*.dbc|DBase 文件(*.dbf)|*.dbf|Excel 文件(*.xls)|*.xls|WPS表格 文件(*.et)|*.et|CSV 文本文件(*.csv)|*.csv|文本文件(*.txt)|*.txt|Office 數據庫連接(*.odc)|*.odc|Microsoft 數據鏈接(*.udl)|*.udl|ODBC 文件數據源名稱(*.dsn)|*.dsn|查詢文件(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>Connection</source>
+        <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
+        <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
+        <translation type="unfinished">WPS Spreadsheets 無法開啟或讀取這個查詢檔。檔案已經毀損或檔案格式不正確。</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">所有檔案(*.*)|*.*|所有支援的資料程式庫檔案(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access資料程式庫(*.mdb)|*.mdb|DBase檔案(*.dbf)|*.dbf|Excel檔案(*.xls)|*.xls|WPS Spreadsheets 檔案(*.et)|*.et|CSV文字檔案(*.csv)|*.csv|文字檔案(*.txt)|</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">所有檔案(*.*)|*.*|所有支援的資料程式庫檔案(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access資料程式庫(*.mdb)|*.mdb|DBase檔案(*.dbf)|*.dbf|Excel檔案(*.xls)|*.xls|WPS Spreadsheets 檔案(*.et)|*.et|CSV文字檔案(*.csv)|*.csv|文字檔案(*.txt)|</translation>
+    </message>
+    <message>
+        <source>Parameter</source>
+        <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open %s. Cannot download the information you requested.</source>
+        <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
+        <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13589,9 +4202,9 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>將二進位數字轉換成八進位。</translation>
     </message>
     <message>
-        <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
+        <source>Converts a date in the form of text to a number that represents the date in Kingsoft Spreadsheets date-time code.</source>
         <comment>DATEVALUE_REMARK</comment>
-        <translation>傳回以字元串所表示的日期值所對應的序號。</translation>
+        <translation type="obsolete">傳回以字元串所表示的日期值所對應的序號。</translation>
     </message>
     <message>
         <source>Converts a decimal number to binary.</source>
@@ -13634,9 +4247,9 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>依照貨幣格式，將數值轉成文字。</translation>
     </message>
     <message>
-        <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
+        <source>Converts a text time to an Kingsoft Spreadsheets serial number for a time.</source>
         <comment>TIMEVALUE_REMARK</comment>
-        <translation>傳回由純文字字串所代表的時間的序列值。</translation>
+        <translation type="obsolete">傳回由純文字字串所代表的時間的序列值。</translation>
     </message>
     <message>
         <source>Converts an Arabic numeral to Roman, as text.</source>
@@ -13669,9 +4282,9 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>對於雙位元組字元集 (DBCS) 語言，將全形（雙位元組）英文字元變更為半形（單位元組）字元。</translation>
     </message>
     <message>
-        <source>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</source>
+        <source>Converts hours, minutes, and seconds given as numbers to a Kingsoft Spreadsheets serial number, formatted with a time format.</source>
         <comment>TIME_REMARK</comment>
-        <translation>傳回某一特定時間的序列值。</translation>
+        <translation type="obsolete">傳回某一特定時間的序列值。</translation>
     </message>
     <message>
         <source>Converts radians to degrees.</source>
@@ -15754,9 +6367,9 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>傳回指定日期（start_date）之前或之後相隔指定工作日的某一日期的日期值。（工作日不包括週末和專門指定的假期）</translation>
     </message>
     <message>
-        <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
+        <source>Returns the number that represents the date in Kingsoft Spreadsheets date-time code.</source>
         <comment>DATE_REMARK</comment>
-        <translation>傳回代表特定日期的序號。</translation>
+        <translation type="obsolete">傳回代表特定日期的序號。</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -16484,6 +7097,370 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>將單位元組字元串轉換成雙位元組字元串。與雙位元組字元集(DBCS)一起使用</translation>
     </message>
     <message>
+        <source>RTD(progID, server, topic1, [topic2], ...)</source>
+        <comment>RTD_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retrieves real-time data from a program that supports COM automation.</source>
+        <comment>RTD_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See Help for help on this function and its arguments.</source>
+        <comment>SEE_HELP_FORMORE_DESC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ARGUMENT(name_text, data_type_num, reference)</source>
+        <comment>ARGUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BREAK()</source>
+        <comment>BREAK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ELSE()</source>
+        <comment>ELSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ELSE.IF(logical_test)</source>
+        <comment>ELSEIF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>END.IF()</source>
+        <comment>ENDIF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOR(counter_text, start_num, end_num, step_num)</source>
+        <comment>FOR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOR.CELL(ref_name, area_ref, skip_blanks)</source>
+        <comment>FORCELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GOTO(reference)</source>
+        <comment>GOTO_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HALT(cancel_close)</source>
+        <comment>HALT_STNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEXT()</source>
+        <comment>NEXT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PAUSE(no_tool)</source>
+        <comment>PAUSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RESTART(level_num)</source>
+        <comment>RESTART_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RESULT(type_num)</source>
+        <comment>RESULT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RETURN(value)</source>
+        <comment>RETURN_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SET.NAME(name_text, value)</source>
+        <comment>SETNAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SET.VALUE(reference, values)</source>
+        <comment>SETVALUE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>STEP()</source>
+        <comment>STEP_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VOLATILE(logical)</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WHILE(logical_test)</source>
+        <comment>WHILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.NAME(name_text, info_type)</source>
+        <comment>GETNAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REGISTER.ID(module_text, procedure, type_text)</source>
+        <comment>REGISTERID_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UNREGISTER(register_id)</source>
+        <comment>UNREGISTER_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.DOCUMENT(type_num, name_text)</source>
+        <comment>GETDOCUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WORKBOOK(type_num, name_text)</source>
+        <comment>GETWORKBOOK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WORKSPACE(type_num)</source>
+        <comment>GETWORKSPACE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>APP.TITLE(text)</source>
+        <comment>APPTITLE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WINDOW.TITLE(text)</source>
+        <comment>WINDOWTITLE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ACTIVE.CELL()</source>
+        <comment>ACTIVECELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DOCUMENTS(type_num, match_text)</source>
+        <comment>DOCUMENTS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.FORMULA(reference)</source>
+        <comment>GETFORMULA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
+        <comment>GETNOTE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WINDOW(type_num, window_text)</source>
+        <comment>GETWINDOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WINDOWS(type_num, match_text)</source>
+        <comment>WINDOWS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
+        <comment>FORMULACONVERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXTREF(text, a1)</source>
+        <comment>TEXTREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFTEXT(reference, a1)</source>
+        <comment>REFTEXT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.BAR(bar_num, menu, command, subcommand)</source>
+        <comment>GETBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADD.BAR(bar_num)</source>
+        <comment>ADDBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADD.MENU(bar_num, menu_ref, position1, position2)</source>
+        <comment>ADDMENU_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DELETE.MENU(bar_num, menu, submenu)</source>
+        <comment>DELETEMENU_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.TOOLBAR(type_num, bar_id)</source>
+        <comment>GETTOOLBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ALERT(message_text, type_num, help_ref)</source>
+        <comment>ALERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALLER()</source>
+        <comment>CALLER_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ECHO(logical)</source>
+        <comment>ECHO_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEW(type_num, xy_series, add_logical)</source>
+        <comment>NEW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALCULATE.NOW()</source>
+        <comment>CALCULATENOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALCULATE.DOCUMENT()</source>
+        <comment>CALCULATEDOCUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.DATA(document_text, macro_text)</source>
+        <comment>ONDATA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
+        <comment>ONDOUBLECLICK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.ENTRY(sheet_text, macro_text)</source>
+        <comment>ONENTRY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.KEY(key_text, macro_text)</source>
+        <comment>ONKEY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.RECALC(sheet_text, macro_text)</source>
+        <comment>ONRECALC_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
+        <comment>ONSHEET_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
+        <comment>ONTIME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.WINDOW(window_text, macro_text)</source>
+        <comment>ONWINDOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QUIT()</source>
+        <comment>QUIT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECT(selection, active_cell)</source>
+        <comment>SELECT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECT.LAST.CELL()</source>
+        <comment>SELECTLASTCELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COPY(from_reference, to_reference)</source>
+        <comment>COPY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULA(formula_text, reference)</source>
+        <comment>FORMULA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</source>
+        <comment>DEFINENAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
+        <comment>ROWHEIGHT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
+        <comment>COLUMNWIDTH_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
+        <comment>DATE_REMARK</comment>
+        <translation>傳回代表特定日期的序號。</translation>
+    </message>
+    <message>
+        <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
+        <comment>DATEVALUE_REMARK</comment>
+        <translation>傳回以字元串所表示的日期值所對應的序號。</translation>
+    </message>
+    <message>
+        <source>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</source>
+        <comment>TIME_REMARK</comment>
+        <translation>傳回某一特定時間的序列值。</translation>
+    </message>
+    <message>
+        <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
+        <comment>TIMEVALUE_REMARK</comment>
+        <translation>傳回由純文字字串所代表的時間的序列值。</translation>
+    </message>
+    <message>
+        <source>IMSUB(inumber1,inumber2)</source>
+        <comment>IMSUB_GRAMMER</comment>
+        <translation>IMSUB(inumber1,inumber2)</translation>
+    </message>
+    <message>
+        <source>FIXED(number,decimals,no_commas)</source>
+        <comment>FIXED_GRAMMER</comment>
+        <translation>FIXED(number,decimals,no_commas)</translation>
+    </message>
+    <message>
         <source>SMALL_NUMBERSTR</source>
         <comment>SMALL_NUMBERSTR</comment>
         <translation>○一二三四五六七八九</translation>
@@ -16504,14 +7481,39 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>拾佰仟万拾佰仟亿拾佰仟兆拾佰仟</translation>
     </message>
     <message>
-        <source>IMSUB(inumber1,inumber2)</source>
-        <comment>IMSUB_GRAMMER</comment>
-        <translation type="unfinished">IMSUB(inumber1,inumber2)</translation>
+        <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
+        <comment>PASTESPECIAL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FIXED(number,decimals,no_commas)</source>
-        <comment>FIXED_GRAMMER</comment>
-        <translation type="unfinished">FIXED(number,decimals,no_commas)</translation>
+        <source>ERROR(enable_logical, macro_ref)</source>
+        <comment>ERROR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RUN(reference, step)</source>
+        <comment>RUN_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILE.CLOSE(save_logical, route_logical)</source>
+        <comment>FILECLOSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PRINT(range_num, from, to, copies,...)</source>
+        <comment>PRINT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALL(module_text, procedure, type_text, argument1, ...)</source>
+        <comment>CALL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calls a procedure in a dynamic link library or code resource.</source>
+        <comment>CALL_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16608,12 +7610,6 @@ Notice: if the second operand queries the number as text, single quotes should b
 </translation>
     </message>
     <message>
-        <source>.Range-based user permissions</source>
-        <comment>TX_Save_Html_Warning_UserRange</comment>
-        <translation> · 以範圍為基礎的使用者權
-</translation>
-    </message>
-    <message>
         <source>.User authority based on range 
 </source>
         <comment>TX_Save_Html_Warning_UserRange</comment>
@@ -16639,12 +7635,12 @@ Notice: if the second operand queries the number as text, single quotes should b
 ·若要為工作表建立新的名稱，請按一下 [否] 並於 [名稱衝突] 對話方塊中輸入新名稱。</translation>
     </message>
     <message>
-        <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by WPS Spreadsheets,and must be modified.
+        <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by Kingsoft Spreadsheets,and must be modified.
 
 ·To use the name %s,click Yes.
 ·To choose a different name,click No and enter a new name in the Name Conflict dialog box.</source>
         <comment>TX_Name_Conflict_Range</comment>
-        <translation>您要移動或複製的公式，包含名稱 %s。該名稱與有效的範圍參照或 WPS Spreadsheets 內部使用的名稱發生衝突，必須修改該名稱。
+        <translation type="obsolete">您要移動或複製的公式，包含名稱 %s。該名稱與有效的範圍參照或 Kingsoft Spreadsheets 內部使用的名稱發生衝突，必須修改該名稱。
 
 ·若要使用名稱 %s，請按一下 [是]。
 ·若要選擇其他名稱，請按一下 [否] 並於 [名稱衝突] 對話方塊中輸入新名稱。</translation>
@@ -16652,7 +7648,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
         <comment>TX_ssDesc_ACCESS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Access 資料庫(*.mdb;*.accdb)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -16687,9 +7683,49 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>常用檔案(*.et; *.ett; *.xls; *.xlt; *.xlsx)</translation>
     </message>
     <message>
+        <source>DIF (Data Interchange File)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="obsolete">DIF (數據交換文件)(*.dif)</translation>
+    </message>
+    <message>
+        <source>DIF Data Interchange File(*.dif)</source>
+        <comment>TX_ssDesc_Dif_</comment>
+        <translation type="obsolete">DIF 數據交換文件(*.dif)</translation>
+    </message>
+    <message>
         <source>Field</source>
         <comment>TX_Range_Value_Field</comment>
         <translation>欄位</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files(*.et)</source>
+        <comment>TX_ssDesc_ET_</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 檔案(*.et)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files(*.et)</source>
+        <comment>TX_ssDesc_ET_Save</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 檔案(*.et)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files(*.et; *.ett)</source>
+        <comment>TX_ssDesc_AllET_</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 檔案(*.et; *.ett)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files(*.et; *.ett)</source>
+        <comment>TX_ssDesc_ET2003_</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 檔案(*.et; *.ett)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files(*.etx)</source>
+        <comment>TX_ssDesc_Etx</comment>
+        <translation type="obsolete">WPS表格 文件(*.etx)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Template(*.ett)</source>
+        <comment>TX_ssDesc_ETTemp_</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 範本(*.ett)</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
@@ -16732,11 +7768,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>PRN (固定寬度)(*.prn)</translation>
     </message>
     <message>
-        <source>Query Files(*.iqy)</source>
-        <comment>TX_ssDesc_Iqy_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
         <comment>TX_ssdesc_AllMht</comment>
         <translation>單一檔案網頁(*.mht; *.mhtml)</translation>
@@ -16744,7 +7775,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Some data may be lost when a file of older version is opened.</source>
         <comment>TX_Open_Data_Losing_On_Old_Ver_File</comment>
-        <translation>打開老版本的文件，部份資料可能遺失。</translation>
+        <translation type="obsolete">打開老版本的文件，部份資料可能遺失。</translation>
     </message>
     <message>
         <source>Text Files(*.prn; *.txt; *.csv)</source>
@@ -16757,32 +7788,20 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>文字檔（Tab字元分隔）(*.txt)</translation>
     </message>
     <message>
-        <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format， any of the permission will be removed. Do you want to continue?</source>
+        <source>The current file is restricted by permission, which can only be protected when the format is Kingsoft Spreadsheets. If the file is saved as the current format， any of the permission will be removed. Do you want to continue?</source>
         <comment>TX_Save_KRM_UnSuport_Format</comment>
-        <translation type="obsolete">目前檔案有權限限制，僅使用 WPS Spreadsheets 格式才能保證設定的權限被保護。若使用目前格式保存，文檔的任何權限將被刪除，是否繼續?</translation>
+        <translation type="obsolete">目前檔案有權限限制，僅使用 Kingsoft Spreadsheets 格式才能保證設定的權限被保護。若使用目前格式保存，文檔的任何權限將被刪除，是否繼續?</translation>
     </message>
     <message>
         <source>The file you are trying to save may contain features that are not compatible with current file format. Do you want to keep the workbook in this format?
 
 ·To keep this format, which leaves out any incompatible features, click Yes. 
-·To preserve the features, click No. Then save a copy in the lastest WPS Spreadsheets format.</source>
+·To preserve the features, click No. Then save a copy in the lastest Kingsoft Spreadsheets format.</source>
         <comment>TX_Save_Txt_Backup</comment>
         <translation type="obsolete">可能含有不相容的功能。您要以此格式儲存活頁簿?
 
 ·若要以此格式儲存，並刪除不相容的功能，按一下 [是]。
-·若要保留其功能，按 [否]，再以最新的 WPS Spreadsheets 格式加以儲存。</translation>
-    </message>
-    <message>
-        <source>The following features cannot be saved in macro-disabled workbooks:
- VB project 
-.To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
-.To continue saving as a macro-disabled workbook, click Yes.</source>
-        <comment>TX_Save_Xlsx_Warning_Macro</comment>
-        <translation>下列功能無法儲存在無巨集的活頁簿：
- · VB 項目
-若要儲存具有這些功能的檔案，請按一下 [否]，再於 [檔案類型] 清單選擇啟用巨集的檔案類型。
-若要繼續儲存為無巨集活頁簿，請按一下 [是]。
-</translation>
+·若要保留其功能，按 [否]，再以最新的 Kingsoft Spreadsheets 格式加以儲存。</translation>
     </message>
     <message>
         <source>The following features of your workbook are not going to be saved in HTML Spreadsheets:
@@ -16839,36 +7858,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>Unicode 文字(*.txt)</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets Files(*.et)</source>
-        <comment>TX_ssDesc_ET_</comment>
-        <translation>WPS Spreadsheets 檔案(*.et)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et)</source>
-        <comment>TX_ssDesc_ET_Save</comment>
-        <translation>WPS Spreadsheets 檔案(*.et)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
-        <comment>TX_ssDesc_AllET_</comment>
-        <translation>WPS Spreadsheets 檔案(*.et; *.ett)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
-        <comment>TX_ssDesc_ET2003_</comment>
-        <translation>WPS Spreadsheets 檔案(*.et; *.ett)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.etx)</source>
-        <comment>TX_ssDesc_Etx</comment>
-        <translation>WPS表格 文件(*.etx)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Template(*.ett)</source>
-        <comment>TX_ssDesc_ETTemp_</comment>
-        <translation>WPS Spreadsheets 範本(*.ett)</translation>
-    </message>
-    <message>
         <source>Web Pages(*.htm; *.html)</source>
         <comment>TX_ssDesc_Allhtml_</comment>
         <translation>網頁(*.htm; *.html)</translation>
@@ -16905,6 +7894,115 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
 Do you still want to open this file?
 
+• Click Yes, Kingsoft Spreadsheets will continue to open this file.
+• Click No, Kingsoft Spreadsheets will stop opening this file.
+
+Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
+(%s)</source>
+        <comment>TX_AV_Scan_Failed</comment>
+        <translation type="obsolete">您的病毒掃描程式對此檔案進行病毒掃描時發生錯誤(錯誤碼：0x%08X)，請和您的病毒軟體提供廠商聯繫。
+您是否希望繼續開啟此檔案?
+
+· 選擇 [是] ，Kingsoft Office將繼續開啟此檔案。
+· 選擇 [否]，Kingsoft Spreadsheets將终止開啟此檔案。
+
+注意：某些檔案可能包含巨集病毒而執行有害動作。如果您不信任此檔案，請不要繼續開啟。
+(%s)</translation>
+    </message>
+    <message>
+        <source>dBase File(*.dbf)</source>
+        <comment>TX_ssDesc_Dbf_</comment>
+        <translation>dBase 檔案(*.dbf)</translation>
+    </message>
+    <message>
+        <source>Query Files(*.iqy; *.dqy)</source>
+        <comment>TX_ssDesc_Qy_</comment>
+        <translation type="unfinished">查詢文件(*.iqy; *.dqy)</translation>
+    </message>
+    <message>
+        <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="obsolete">所有數據源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+    </message>
+    <message>
+        <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
+        <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
+        <comment>TX_ssDesc_AllET_</comment>
+        <translation>WPS Spreadsheets 檔案(*.et; *.ett)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
+        <comment>TX_ssDesc_ET2003_</comment>
+        <translation>WPS Spreadsheets 檔案(*.et; *.ett)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et)</source>
+        <comment>TX_ssDesc_ET_</comment>
+        <translation>WPS Spreadsheets 檔案(*.et)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Template(*.ett)</source>
+        <comment>TX_ssDesc_ETTemp_</comment>
+        <translation>WPS Spreadsheets 範本(*.ett)</translation>
+    </message>
+    <message>
+        <source>The file you are trying to save may contain features that are not compatible with current file format. Do you want to keep the workbook in this format?
+
+·To keep this format, which leaves out any incompatible features, click Yes. 
+·To preserve the features, click No. Then save a copy in the latest WPS Spreadsheets format.</source>
+        <comment>TX_Save_Txt_Backup</comment>
+        <translation>可能含有不相容的功能。您要以此格式儲存活頁簿?
+
+·若要以此格式儲存，並刪除不相容的功能，按一下 [是]。
+·若要保留其功能，按 [否]，再以最新的 WPS Spreadsheets 格式加以儲存。</translation>
+    </message>
+    <message>
+        <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format, any of the permission will be removed. Do you want to continue?</source>
+        <comment>TX_Save_KRM_UnSuport_Format</comment>
+        <translation>目前檔案有權限限制，僅使用 WPS Spreadsheets 格式才能保證設定的權限被保護。若使用目前格式保存，文檔的任何權限將被刪除，是否繼續?</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et)</source>
+        <comment>TX_ssDesc_ET_Save</comment>
+        <translation>WPS Spreadsheets 檔案(*.et)</translation>
+    </message>
+    <message>
+        <source>.Range-based user permissions</source>
+        <comment>TX_Save_Html_Warning_UserRange</comment>
+        <translation> · 以範圍為基礎的使用者權
+</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+ VB project 
+.To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+.To continue saving as a macro-disabled workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_Macro</comment>
+        <translation>下列功能無法儲存在無巨集的活頁簿：
+ · VB 項目
+若要儲存具有這些功能的檔案，請按一下 [否]，再於 [檔案類型] 清單選擇啟用巨集的檔案類型。
+若要繼續儲存為無巨集活頁簿，請按一下 [是]。
+</translation>
+    </message>
+    <message>
+        <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by WPS Spreadsheets,and must be modified.
+
+·To use the name %s,click Yes.
+·To choose a different name,click No and enter a new name in the Name Conflict dialog box.</source>
+        <comment>TX_Name_Conflict_Range</comment>
+        <translation>您要移動或複製的公式，包含名稱 %s。該名稱與有效的範圍參照或 WPS Spreadsheets 內部使用的名稱發生衝突，必須修改該名稱。
+
+·若要使用名稱 %s，請按一下 [是]。
+·若要選擇其他名稱，請按一下 [否] 並於 [名稱衝突] 對話方塊中輸入新名稱。</translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
+Do you still want to open this file?
+
 • Click Yes, WPS Spreadsheets will continue to open this file.
 • Click No, WPS Spreadsheets will stop opening this file.
 
@@ -16921,25 +8019,50 @@ Note: some files may contain macro viruses and execution of them may cause damag
 (%s)</translation>
     </message>
     <message>
-        <source>dBase File(*.dbf)</source>
-        <comment>TX_ssDesc_Dbf_</comment>
-        <translation>dBase 檔案(*.dbf)</translation>
+        <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
+        <comment>TX_ssDesc_Etx</comment>
+        <translation>WPS表格 文件(*.etx)</translation>
+    </message>
+    <message>
+        <source>Query Files(*.iqy)</source>
+        <comment>TX_ssDesc_Iqy_</comment>
+        <translation type="obsolete">查詢檔(*.iqy)</translation>
+    </message>
+    <message>
+        <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format， any of the permission will be removed. Do you want to continue?</source>
+        <comment>TX_Save_KRM_UnSuport_Format</comment>
+        <translation type="obsolete">目前檔案有權限限制，僅使用 WPS Spreadsheets 格式才能保證設定的權限被保護。若使用目前格式保存，文檔的任何權限將被刪除，是否繼續?</translation>
     </message>
     <message>
         <source>The file you are trying to save may contain features that are not compatible with current file format. Do you want to keep the workbook in this format?
 
 ·To keep this format, which leaves out any incompatible features, click Yes. 
-·To preserve the features, click No. Then save a copy in the latest WPS Spreadsheets format.</source>
+·To preserve the features, click No. Then save a copy in the lastest WPS Spreadsheets format.</source>
         <comment>TX_Save_Txt_Backup</comment>
-        <translation type="unfinished">目前檔案有權限限制，僅使用 WPS Spreadsheets 格式才能保證設定的權限被保護。若使用目前格式保存，文檔的任何權限將被刪除，是否繼續?</translation>
-    </message>
-    <message>
-        <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format, any of the permission will be removed. Do you want to continue?</source>
-        <comment>TX_Save_KRM_UnSuport_Format</comment>
-        <translation type="unfinished">可能含有不相容的功能。您要以此格式儲存活頁簿?
+        <translation type="obsolete">可能含有不相容的功能。您要以此格式儲存活頁簿?
 
 ·若要以此格式儲存，並刪除不相容的功能，按一下 [是]。
 ·若要保留其功能，按 [否]，再以最新的 WPS Spreadsheets 格式加以儲存。</translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="unfinished">所有數據源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+    </message>
+    <message>
+        <source>DIF (Data Interchange Format)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="unfinished">DIF (數據交換文件)(*.dif)</translation>
+    </message>
+    <message>
+        <source>Data Interchange Format (*.dif)</source>
+        <comment>TX_ssDesc_Dif_</comment>
+        <translation type="unfinished">DIF 數據交換文件(*.dif)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16983,7 +8106,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>No Format Set</source>
         <comment>TX_UNDEF_FINDFMT</comment>
-        <translation type="unfinished">未設定格式</translation>
+        <translation>未設定格式</translation>
     </message>
     <message>
         <source>No Format Set</source>
@@ -17176,11 +8299,6 @@ Continue ?</source>
         <translation>為 x 區間下限 (選擇性引數)。若省略則 A = 0</translation>
     </message>
     <message>
-        <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
-        <comment>TX_ReopenIsForgoModify</comment>
-        <translation>&quot;%s&quot;已經開啟。重新開啟它將會導致您所做的修改通通遺失。您要重新開啟&quot;%s&quot; ?</translation>
-    </message>
-    <message>
         <source>&quot;Selection&quot;, -1</source>
         <comment>TX_ZoomBox_Selection_Map</comment>
         <translation>&quot;選取範圍&quot;, -1</translation>
@@ -17280,11 +8398,6 @@ Continue ?</source>
         <source>=today()</source>
         <comment>TX_TodayFormula</comment>
         <translation>=today()</translation>
-    </message>
-    <message>
-        <source>A document with the name &quot;%s&quot; is already open. You cannot open two documents with the same name, even if the documents are in different folders. To open the second document, either close the document that&apos;s currently open, or rename one of the documents.</source>
-        <comment>TX_SameNameFileIsOpenCanAgainNotOpen</comment>
-        <translation>文件 &quot;%s&quot; 已開啟。您不可以同時開啟兩個同樣檔名的文件，即使這兩個文件是在不同的資料夾也不可以。 若要開啟第二個文件的話，請先將目前同樣檔名的文件關閉，或是將同樣檔名的文件重新命名為另一個名稱，再開啟第二個文件。</translation>
     </message>
     <message>
         <source>Abs_num</source>
@@ -17893,11 +9006,6 @@ Spelling</source>
         <translation>儲存格格式</translation>
     </message>
     <message>
-        <source>Format Text box</source>
-        <comment>TX_SETEDITTEXTBOXCAPTION</comment>
-        <translation>文字方塊格式</translation>
-    </message>
-    <message>
         <source>Format Text box...</source>
         <comment>TX_SETEDITTEXTBOXCAPTION</comment>
         <translation type="obsolete">文字方塊格式</translation>
@@ -18027,6 +9135,59 @@ Data</source>
         <source>K</source>
         <comment>TX_ParaInfo_029</comment>
         <translation>K</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
+
+•If you do not want to  create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 不能計算該公式。公式中的儲存格參照指向的是公式的結果，從而造成循環參照。請嘗試:
+
+· 如屬意外，請傳回上一步動作的儲存格改正公式。
+· 如果您期望通過循環參照傳回正確的計算結果，請選擇 [選項]中的 [反覆運算]。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot create a chart on the selected regions. 
+Please make sure the selected regions are continuous cells.</source>
+        <comment>TX_Chart_Cannot_Create</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法在選取的範圍建立圖表。
+請確認所選擇的儲存格區域是連續的儲存格。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
+        <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 找不到預設的自訂字典，請在選項中選擇一個自訂字典，然後再次執行該命令。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
+
+•Click a single cell, and then paste.
+•Select a rectangle area with the same size and shape, and then paste.</source>
+        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
+. 選擇單一儲存格，然後貼上。
+. 選擇相同大小即形狀的儲存格範圍，然後貼上。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
+        <comment>TX_Data_Cannot_Ungroup</comment>
+        <translation type="obsolete">無法取消群組。選取詳細資料列或欄後，設定群組屬性以建立大綱。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
+        <comment>TX_InCompatible_ShareBook</comment>
+        <translation type="obsolete">不支援普通模式的共用活頁簿，請先將目前活頁簿另儲存為&quot;*.xls&quot;或&quot;*.et&quot;的格式，然後重新打開，再設定共用活頁簿。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
+        <comment>TX_CHECKSPELLING_SHEETYESNO</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 已經完成本輪拼字檢查，需要再對整張表進行檢查吗?</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
+        <comment>TX_DS_MULCOLS</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 一次只能轉換一欄。所選取的範圍可以很多列，但是只能有一欄。請重新選取一欄中的儲存格，然後再試一次。</translation>
     </message>
     <message>
         <source>Known_x&apos;s</source>
@@ -18212,11 +9373,6 @@ Data</source>
         <source>No_switch</source>
         <comment>TX_ParaInfo_110</comment>
         <translation>不換用直線法</translation>
-    </message>
-    <message>
-        <source>Not force the coefficient to be 0</source>
-        <comment>TX_ParaInfo_196</comment>
-        <translation>不强製繫數為0</translation>
     </message>
     <message>
         <source>Not force the coefficient to be 1</source>
@@ -18541,11 +9697,6 @@ Workbook</source>
         <translation>RecentFunction</translation>
     </message>
     <message>
-        <source>Record Macro</source>
-        <comment>TX_RecordMacro_Start</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Record New Macro</source>
         <comment>TX_RecordMacro_Start</comment>
         <translation type="obsolete">Record New Macro</translation>
@@ -18721,12 +9872,6 @@ Workbook</source>
         <translation>有的圖表類型無法與其他圖表類型合併。請選擇其他的圖表類型。</translation>
     </message>
     <message>
-        <source>Spell 
-Check</source>
-        <comment>TX_SpellCheck_Caption</comment>
-        <translation>拼字檢查</translation>
-    </message>
-    <message>
         <source>Spinner</source>
         <comment>TX_FCItemName_Spinner</comment>
         <translation>微調按鈕</translation>
@@ -18770,11 +9915,6 @@ Check</source>
         <source>Stop Macro</source>
         <comment>TX_RecordMacro_Stop</comment>
         <translation type="obsolete">Stop Macro</translation>
-    </message>
-    <message>
-        <source>Stop Recording</source>
-        <comment>TX_RecordMacro_Stop</comment>
-        <translation type="unfinished">停止錄製</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -18932,13 +10072,6 @@ Check</source>
         <translation>數值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
     </message>
     <message>
-        <source>The cell or chart that you are trying to change is protected and therefore read-only. 
-To modify a protected cell or chart, first remove protection using the Unprotect Sheet command. You may be prompted for a password.</source>
-        <comment>TX_Warning_Try_To_Modify_Protection_Cells_Or_Chart</comment>
-        <translation>您要變更的儲存格或圖表已被保護，無法更改。
-若要修改被保護的儲存格或圖表，請先使用 [取消保護工作表] 命令來移除保護。可能會提示您輸入密碼。</translation>
-    </message>
-    <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
         <comment>TX_DESC_Sort_singleCell_ET</comment>
         <translation>WPS Spreadsheets 無法使用指定的範圍無法完成這個命令。請在範圍內選取單一儲存格，然後再執行命令一次。</translation>
@@ -18949,13 +10082,13 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation>的註解</translation>
     </message>
     <message>
-        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+        <source>The constant character string in the formula is too long. Kingsoft Spreadsheets will automatically correct it as:
 &apos;%s
 • To accept the correction, click Yes.
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
         <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation>您輸入的公式中，常數字元串太長，WPS Spreadsheets 將自動更正為:
+        <translation type="obsolete">您輸入的公式中，常數字元串太長，Kingsoft Spreadsheets 將自動更正為:
 &apos;%s
 · 若要接受修正，請按一下 [确定]。
 · 若要關閉此訊息並自行修正公式，請按一下 [取消]。
@@ -19017,7 +10150,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>The error check is complete for the entire sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>整張工作表的錯誤檢查已完成。</translation>
     </message>
     <message>
         <source>The first number</source>
@@ -19037,13 +10170,13 @@ If you do not wish to use a formula, insert a single quotation mark before your 
 如果您輸入的内容不是公式，請在第一個字元之前輸入單引號(&apos;)。</translation>
     </message>
     <message>
-        <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
+        <source>The formula you typed contains errors. Kingsoft Spreadsheets will automatically correct it as: 
 &apos;%s
 •If you want to accept the correction, click OK.
 •If you want to close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
         <comment>TX_InputFormula_Error</comment>
-        <translation>您輸入的公式存在錯誤，WPS Spreadsheets 將自動更正為:
+        <translation type="obsolete">您輸入的公式存在錯誤，Kingsoft Spreadsheets 將自動更正為:
 &apos;%s
 · 若要接受修正，請按一下 [确定]。
 · 若要關閉此訊息並自行修正公式，請按一下 [取消]。
@@ -19053,16 +10186,6 @@ If you do not wish to use a formula, insert a single quotation mark before your 
         <source>The imaginary coefficient of plural</source>
         <comment>TX_ParaDesc_501</comment>
         <translation>複數的虛係數</translation>
-    </message>
-    <message>
-        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
-
-.Click a single cell, and then paste. 
-.Select a rectangle that&apos;s the same size and shape, and then paste.</source>
-        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation>WPS Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
-. 選擇單一儲存格，然後貼上。
-. 選擇相同大小即形狀的儲存格範圍，然後貼上。</translation>
     </message>
     <message>
         <source>The lower bound of the integrated ERF</source>
@@ -19218,9 +10341,9 @@ There are several possible reasons:
 請一次只選取一個範圍，然後執行這個命令。</translation>
     </message>
     <message>
-        <source>This function is provided in WPS Office 2009 Professional Edition.</source>
+        <source>This function is provided in Kingsoft Office 2009 Professional Edition.</source>
         <comment>TX_FUNCTION_PROHIBIT</comment>
-        <translation>此功能在 WPS Office 2013 專業版 中提供!</translation>
+        <translation type="obsolete">此功能在 Kingsoft Office 2013 專業版 中提供!</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized</source>
@@ -19424,59 +10547,6 @@ Workbook</source>
         <source>Values</source>
         <comment>TX_ParaInfo_104</comment>
         <translation>現金流</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
-
-•If you do not want to  create the circular reference, click OK, and correct the formula.
-•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
-        <comment>TX_FORMULA_RECURSION</comment>
-        <translation>WPS Spreadsheets 不能計算該公式。公式中的儲存格參照指向的是公式的結果，從而造成循環參照。請嘗試:
-
-· 如屬意外，請傳回上一步動作的儲存格改正公式。
-· 如果您期望通過循環參照傳回正確的計算結果，請選擇 [選項]中的 [反覆運算]。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot create a chart on the selected regions. 
-Please make sure the selected regions are continuous cells.</source>
-        <comment>TX_Chart_Cannot_Create</comment>
-        <translation>WPS Spreadsheets 無法在選取的範圍建立圖表。
-請確認所選擇的儲存格區域是連續的儲存格。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
-        <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
-        <translation>WPS Spreadsheets 找不到預設的自訂字典，請在選項中選擇一個自訂字典，然後再次執行該命令。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
-
-•Click a single cell, and then paste.
-•Select a rectangle area with the same size and shape, and then paste.</source>
-        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation type="obsolete">WPS Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
-. 選擇單一儲存格，然後貼上。
-. 選擇相同大小即形狀的儲存格範圍，然後貼上。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
-        <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation>無法取消群組。選取詳細資料列或欄後，設定群組屬性以建立大綱。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
-        <comment>TX_InCompatible_ShareBook</comment>
-        <translation>不支援普通模式的共用活頁簿，請先將目前活頁簿另儲存為&quot;*.xls&quot;或&quot;*.et&quot;的格式，然後重新打開，再設定共用活頁簿。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
-        <comment>TX_CHECKSPELLING_SHEETYESNO</comment>
-        <translation>WPS Spreadsheets 已經完成本輪拼字檢查，需要再對整張表進行檢查吗?</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
-        <comment>TX_DS_MULCOLS</comment>
-        <translation>WPS Spreadsheets 一次只能轉換一欄。所選取的範圍可以很多列，但是只能有一欄。請重新選取一欄中的儲存格，然後再試一次。</translation>
     </message>
     <message>
         <source>Width</source>
@@ -19889,24 +10959,24 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>係指一個數字，從 1904 到 9999</translation>
     </message>
     <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
+        <source>is a number in the date-time code used by Kingsoft Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_246</comment>
-        <translation>為 WPS Spreadsheets 所使用的日期和時間碼數字，或是時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
+        <translation type="obsolete">為 Kingsoft Spreadsheets 所使用的日期和時間碼數字，或是時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
     </message>
     <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
+        <source>is a number in the date-time code used by Kingsoft Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
         <comment>TX_ParaDesc_358</comment>
-        <translation>WPS Spreadsheets 所使用的日期和時間碼的數字，或日期時間值或時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets 所使用的日期和時間碼的數字，或日期時間值或時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
     </message>
     <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
+        <source>is a number in the date-time code used by Kingsoft Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_165</comment>
-        <translation>為 WPS Spreadsheets 所使用的日期和時間碼數字，或是時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
+        <translation type="obsolete">為 Kingsoft Spreadsheets 所使用的日期和時間碼數字，或是時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
     </message>
     <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets.</source>
+        <source>is a number in the date-time code used by Kingsoft Spreadsheets.</source>
         <comment>TX_ParaDesc_076</comment>
-        <translation>係指 WPS Spreadsheets 所使用的日期和時間碼的數字</translation>
+        <translation type="obsolete">係指 Kingsoft Spreadsheets 所使用的日期和時間碼的數字</translation>
     </message>
     <message>
         <source>is a number specifies the precision of the truncation, 0(zero) if omitted.</source>
@@ -20119,9 +11189,9 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>是要在其中搜尋資料的文字、數字或邏輯值的表格，可為儲存格範圍的參照位址或範圍名稱</translation>
     </message>
     <message>
-        <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
+        <source>is a text string that gives a time in any one of the Kingsoft Spreadsheets time formats (date information in the string is ignored).</source>
         <comment>TX_ParaDesc_404</comment>
-        <translation>為依 WPS Spreadsheets 時間格式表達的文字串 (字串中的日期資訊將被忽略)</translation>
+        <translation type="obsolete">為依 Kingsoft Spreadsheets 時間格式表達的文字串 (字串中的日期資訊將被忽略)</translation>
     </message>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
@@ -20329,14 +11399,14 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>為欄位的名稱 (前後須加上雙引號)，或是欄位所在之號碼</translation>
     </message>
     <message>
-        <source>is number in the date-time code used by WPS Spreadsheets.</source>
+        <source>is number in the date-time code used by Kingsoft Spreadsheets.</source>
         <comment>TX_ParaDesc_255</comment>
-        <translation>係指 WPS Spreadsheets 所使用的日期和時間碼的數字</translation>
+        <translation type="obsolete">係指 Kingsoft Spreadsheets 所使用的日期和時間碼的數字</translation>
     </message>
     <message>
-        <source>is number in the date-time code used by WPS Spreadsheets.</source>
+        <source>is number in the date-time code used by Kingsoft Spreadsheets.</source>
         <comment>TX_ParaDesc_445</comment>
-        <translation>為 WPS Spreadsheets 用來表示日期和時間計算的日期和時間碼</translation>
+        <translation type="obsolete">為 Kingsoft Spreadsheets 用來表示日期和時間計算的日期和時間碼</translation>
     </message>
     <message>
         <source>is probability associated with the F cumulative distribution, a number between 0 and 1 inclusive.</source>
@@ -20374,9 +11444,9 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>指定所要获得的信息类型。</translation>
     </message>
     <message>
-        <source>is text that represents a date in a WPS Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
+        <source>is text that represents a date in a Kingsoft Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
         <comment>TX_ParaDesc_072</comment>
-        <translation>為 WPS Spreadsheets 日期格式的文字串，介於 1900/1/1 到 9999/12/31 之間</translation>
+        <translation type="obsolete">為 Kingsoft Spreadsheets 日期格式的文字串，介於 1900/1/1 到 9999/12/31 之間</translation>
     </message>
     <message>
         <source>is the Arabic numeral you want to convert.</source>
@@ -20724,16 +11794,6 @@ Please make sure the selected regions are continuous cells.</source>
         <translation type="obsolete">指定要從 text 中抽選的字元數</translation>
     </message>
     <message>
-        <source>is the length of the text string that contains the characters you want to extract.</source>
-        <comment>TX_ParaDesc_209</comment>
-        <translation>指定要從 text 中抽選的字元數</translation>
-    </message>
-    <message>
-        <source>is the length of the text string that contains the characters you want to extract.</source>
-        <comment>TX_ParaDesc_243</comment>
-        <translation>指定要從 text 中抽選的字元數</translation>
-    </message>
-    <message>
         <source>is the logical value responding the timing of payment: at the end of the period =0 or omitted, at the beginning of the period =1.</source>
         <comment>TX_ParaDesc_443</comment>
         <translation>為邏輯值，用以界定各期金額的給付時點: 0 或省略表示各付款期期末給付，1 表示各付款期期初給付</translation>
@@ -20832,11 +11892,6 @@ Please make sure the selected regions are continuous cells.</source>
         <source>is the number of columns, to the left or right, that you want the upper-left cell of the result to refer to.</source>
         <comment>TX_ParaDesc_278</comment>
         <translation>是用以指示左上角儲存格要水平 (往左或往右) 移動的欄數</translation>
-    </message>
-    <message>
-        <source>is the number of coupon payments per year. If pay by year, frequency = 1; by six months, frequency = 2; by quarter, frequency = 4</source>
-        <comment>TX_ParaDesc_493</comment>
-        <translation>年付息次數。如果按年支付，frequency = 1；按半年期支付，frequency = 2；按季支付，frequency = 4</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
@@ -21339,16 +12394,6 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>是債券的年票息率</translation>
     </message>
     <message>
-        <source>is the security&apos;s annual coupon rate.</source>
-        <comment>TX_ParaDesc_490</comment>
-        <translation>證券的年息票利率</translation>
-    </message>
-    <message>
-        <source>is the security&apos;s annual yield.</source>
-        <comment>TX_ParaDesc_491</comment>
-        <translation>證券的年收益率</translation>
-    </message>
-    <message>
         <source>is the security&apos;s due date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_466</comment>
         <translation>是債券的到期日，以一串日期表示</translation>
@@ -21364,24 +12409,9 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>是債券的發行日，以一串日期表示</translation>
     </message>
     <message>
-        <source>is the security&apos;s maturity date, expressed as a serial date number.</source>
-        <comment>TX_ParaDesc_489</comment>
-        <translation>證券的到期日。到期日是證券有效期截止時的日期。</translation>
-    </message>
-    <message>
         <source>is the security&apos;s par value.</source>
         <comment>TX_ParaDesc_454</comment>
         <translation>是債券的票面值</translation>
-    </message>
-    <message>
-        <source>is the security&apos;s redemption value per $100 face value.</source>
-        <comment>TX_ParaDesc_492</comment>
-        <translation>面值 ￥100 的證券的清償價值</translation>
-    </message>
-    <message>
-        <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
-        <comment>TX_ParaDesc_488</comment>
-        <translation>證券的結算日。證券結算日是在發行日期之後，證券賣給購物者的日期。</translation>
     </message>
     <message>
         <source>is the set of probabilities associated with values in X_range, values between 0 and 1 and excluding 0.</source>
@@ -21464,11 +12494,6 @@ Please make sure the selected regions are continuous cells.</source>
         <translation type="obsolete">為欲從中抽取字元的文字串</translation>
     </message>
     <message>
-        <source>is the text containing part characters you want to extract.</source>
-        <comment>TX_ParaDesc_334</comment>
-        <translation>為欲從中抽取字元的文字串</translation>
-    </message>
-    <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_117</comment>
         <translation>是一個含有欲尋找文字串的搜尋目標文字串</translation>
@@ -21542,16 +12567,6 @@ Please make sure the selected regions are continuous cells.</source>
         <source>is the text string containing the characters you want to exact.</source>
         <comment>TX_ParaDesc_332</comment>
         <translation type="obsolete">為包含您所要抽選之字元的文字串</translation>
-    </message>
-    <message>
-        <source>is the text string containing the characters you want to extract.</source>
-        <comment>TX_ParaDesc_206</comment>
-        <translation>為包含您所要抽選之字元的文字串</translation>
-    </message>
-    <message>
-        <source>is the text string containing the characters you want to extract.</source>
-        <comment>TX_ParaDesc_332</comment>
-        <translation>為包含您所要抽選之字元的文字串</translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
@@ -22189,6 +13204,11 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>是個數從 1 到 28 的參數，用來指定一段資料</translation>
     </message>
     <message>
+        <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaInfo_548</comment>
+        <translation type="unfinished">是個數從 1 到 28 的參數，用來指定一段資料 {1,?} {2,?} {1 ?} {38 ?}</translation>
+    </message>
+    <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
         <translation>數值1,數值2,... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
@@ -22249,98 +13269,1015 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>假設總體平均值</translation>
     </message>
     <message>
-        <source>The Maximum must be a whole number, numeric expression, or reference to a cell containing numeric values.</source>
-        <comment>TX_DV_WholeNumber2</comment>
-        <translation type="unfinished">最大值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
-    </message>
-    <message>
-        <source>is a range or array of x-values you already know in the relationship y=mx + b.</source>
-        <comment>TX_ParaDesc_134</comment>
-        <translation type="unfinished">自變數所在的陣列或儲存格範圍。 Known_x&apos;s 的變異數不得為 0</translation>
-    </message>
-    <message>
-        <source>is a logical value: payment at the beginning of the period = 1: payment at the end of the period = 0 or omitted.</source>
-        <comment>TX_ParaDesc_143</comment>
-        <translation type="unfinished">為代表付款何時到期的數值: 1 表示期初給付; 0 或省略時表示期末給付</translation>
-    </message>
-    <message>
-        <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_219</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the character number in Within_text, counting from the left, at which you want to start searching. If omitted, 1 is used.</source>
-        <comment>TX_ParaDesc_354</comment>
-        <translation type="unfinished">指定欲從 被搜尋的字串 的第若干個字元開始尋找。如果省略不填，預設值為 1</translation>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_220</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
-        <comment>TX_ParaDesc_460</comment>
-        <translation type="unfinished">是一或多個數列日期數字的選用集，會從工作行事曆中排除，例如，州假日和聯邦假日以及彈性假日</translation>
+        <source>Logical_test</source>
+        <comment>TX_ParaInfo_217</comment>
+        <translation type="unfinished">測試條件</translation>
     </message>
     <message>
-        <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
-        <comment>TX_ParaDesc_467</comment>
-        <translation type="unfinished">是一或多個數列日期數字的選用集，會從工作行事曆中排除，例如，州假日和聯邦假日以及彈性假日</translation>
+        <source>Counter_text</source>
+        <comment>TX_ParaInfo_218</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start_num</source>
+        <comment>TX_ParaInfo_219</comment>
+        <translation type="unfinished">開始位置</translation>
+    </message>
+    <message>
+        <source>End_num</source>
+        <comment>TX_ParaInfo_220</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step_num</source>
+        <comment>TX_ParaInfo_221</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ref_name</source>
+        <comment>TX_ParaInfo_222</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Area_ref</source>
+        <comment>TX_ParaInfo_223</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip_blanks</source>
+        <comment>TX_ParaInfo_224</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical_test</source>
+        <comment>TX_ParaInfo_225</comment>
+        <translation type="unfinished">測試條件</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_226</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_227</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data_type_num</source>
+        <comment>TX_ParaInfo_228</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_229</comment>
+        <translation type="unfinished">參照範圍</translation>
+    </message>
+    <message>
+        <source>Cancel_close</source>
+        <comment>TX_ParaInfo_230</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_231</comment>
+        <translation type="unfinished">參照範圍</translation>
+    </message>
+    <message>
+        <source>No_tool</source>
+        <comment>TX_ParaInfo_232</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Level_num</source>
+        <comment>TX_ParaInfo_233</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_234</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_235</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_236</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_237</comment>
+        <translation type="unfinished">參照範圍</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_ParaInfo_238</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_239</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info_type</source>
+        <comment>TX_ParaInfo_240</comment>
+        <translation type="unfinished">資訊類型</translation>
+    </message>
+    <message>
+        <source>Module_text</source>
+        <comment>TX_ParaInfo_241</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Procedure</source>
+        <comment>TX_ParaInfo_242</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_text</source>
+        <comment>TX_ParaInfo_243</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function_text</source>
+        <comment>TX_ParaInfo_244</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument_text</source>
+        <comment>TX_ParaInfo_245</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_type</source>
+        <comment>TX_ParaInfo_246</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>TX_ParaInfo_247</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut_text</source>
+        <comment>TX_ParaInfo_248</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help_topic</source>
+        <comment>TX_ParaInfo_249</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function_help</source>
+        <comment>TX_ParaInfo_250</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument_help</source>
+        <comment>TX_ParaInfo_251</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register_id</source>
+        <comment>TX_ParaInfo_252</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_253</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_254</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TX_ParaInfo_255</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match_text</source>
+        <comment>TX_ParaInfo_256</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell_ref</source>
+        <comment>TX_ParaInfo_257</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start_char</source>
+        <comment>TX_ParaInfo_258</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Num_chars</source>
+        <comment>TX_ParaInfo_259</comment>
+        <translation type="unfinished">字元個數</translation>
+    </message>
+    <message>
+        <source>Window_text</source>
+        <comment>TX_ParaInfo_260</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula_text</source>
+        <comment>TX_ParaInfo_261</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From_a1</source>
+        <comment>TX_ParaInfo_262</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To_a1</source>
+        <comment>TX_ParaInfo_263</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To_ref_type</source>
+        <comment>TX_ParaInfo_264</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rel_to_ref</source>
+        <comment>TX_ParaInfo_265</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A1</source>
+        <comment>TX_ParaInfo_266</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar_num</source>
+        <comment>TX_ParaInfo_267</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <comment>TX_ParaInfo_268</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <comment>TX_ParaInfo_269</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subcommand</source>
+        <comment>TX_ParaInfo_270</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu_ref</source>
+        <comment>TX_ParaInfo_271</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position1</source>
+        <comment>TX_ParaInfo_272</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position2</source>
+        <comment>TX_ParaInfo_273</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Submenu</source>
+        <comment>TX_ParaInfo_274</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar_id</source>
+        <comment>TX_ParaInfo_275</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ProgID</source>
+        <comment>TX_ParaInfo_217</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server</source>
+        <comment>TX_ParaInfo_218</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message_text</source>
+        <comment>TX_ParaInfo_280</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_281</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help_ref</source>
+        <comment>TX_ParaInfo_282</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical</source>
+        <comment>TX_ParaInfo_283</comment>
+        <translation type="unfinished">邏輯</translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_284</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xy_series</source>
+        <comment>TX_ParaInfo_285</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add_logical</source>
+        <comment>TX_ParaInfo_286</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document_text</source>
+        <comment>TX_ParaInfo_287</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_text</source>
+        <comment>TX_ParaInfo_288</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet_text</source>
+        <comment>TX_ParaInfo_289</comment>
+        <translation type="unfinished">工作表名稱</translation>
+    </message>
+    <message>
+        <source>Key_text</source>
+        <comment>TX_ParaInfo_290</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate_logical</source>
+        <comment>TX_ParaInfo_291</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>TX_ParaInfo_292</comment>
+        <translation type="unfinished">時間</translation>
+    </message>
+    <message>
+        <source>Tolerance</source>
+        <comment>TX_ParaInfo_293</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert_logical</source>
+        <comment>TX_ParaInfo_294</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window_text</source>
+        <comment>TX_ParaInfo_295</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <comment>TX_ParaInfo_296</comment>
+        <translation type="unfinished">選取範圍</translation>
+    </message>
+    <message>
+        <source>Active_cell</source>
+        <comment>TX_ParaInfo_297</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From_reference</source>
+        <comment>TX_ParaInfo_298</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format_text</source>
+        <comment>TX_ParaInfo_299</comment>
+        <translation type="obsolete">數值格式</translation>
+    </message>
+    <message>
+        <source>Icon_number</source>
+        <comment>TX_ParaInfo_303</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon_label</source>
+        <comment>TX_ParaInfo_304</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_305</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refers_to</source>
+        <comment>TX_ParaInfo_306</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_type</source>
+        <comment>TX_ParaInfo_307</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut_text</source>
+        <comment>TX_ParaInfo_308</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <comment>TX_ParaInfo_309</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>TX_ParaInfo_310</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <comment>TX_ParaInfo_311</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height_num</source>
+        <comment>TX_ParaInfo_312</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_313</comment>
+        <translation type="unfinished">參照範圍</translation>
+    </message>
+    <message>
+        <source>Standard_height</source>
+        <comment>TX_ParaInfo_314</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_315</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width_num</source>
+        <comment>TX_ParaInfo_316</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_317</comment>
+        <translation type="unfinished">參照範圍</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <comment>TX_ParaInfo_318</comment>
+        <translation type="unfinished">一般</translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_319</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard_num</source>
+        <comment>TX_ParaInfo_320</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula_text</source>
+        <comment>TX_ParaInfo_321</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_322</comment>
+        <translation type="unfinished">參照範圍</translation>
+    </message>
+    <message>
+        <source>To_reference</source>
+        <comment>TX_ParaInfo_323</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
+
+.Click a single cell, and then paste. 
+.Select a rectangle that&apos;s the same size and shape, and then paste.</source>
+        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+        <translation>WPS Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
+. 選擇單一儲存格，然後貼上。
+. 選擇相同大小即形狀的儲存格範圍，然後貼上。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
+        <comment>TX_Data_Cannot_Ungroup</comment>
+        <translation>無法取消群組。選取詳細資料列或欄後，設定群組屬性以建立大綱。</translation>
+    </message>
+    <message>
+        <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
+&apos;%s
+•If you want to accept the correction, click OK.
+•If you want to close this message and correct the formula by yourself, click Cancel.
+• If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
+        <comment>TX_InputFormula_Error</comment>
+        <translation>您輸入的公式存在錯誤，WPS Spreadsheets 將自動更正為:
+&apos;%s
+· 若要接受修正，請按一下 [确定]。
+· 若要關閉此訊息並自行修正公式，請按一下 [取消]。
+· 如果不是輸入公式，請避免在開頭輸入等號(=)、加號(+)或減號(-)。</translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click Yes.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not typing a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation>您輸入的公式中，常數字元串太長，WPS Spreadsheets 將自動更正為:
+&apos;%s
+· 若要接受修正，請按一下 [确定]。
+· 若要關閉此訊息並自行修正公式，請按一下 [取消]。
+· 如果不是輸入公式，請避免在開頭輸入等號(=)、加號(+)或減號(-)。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot create a chart on the selected regions. 
+Please make sure the selected regions are continuous cells.</source>
+        <comment>TX_Chart_Cannot_Create</comment>
+        <translation>WPS Spreadsheets 無法在選取的範圍建立圖表。
+請確認所選擇的儲存格區域是連續的儲存格。</translation>
+    </message>
+    <message>
+        <source>The Maximum must be a whole number, numeric expression, or reference to a cell containing numeric values.</source>
+        <comment>TX_DV_WholeNumber2</comment>
+        <translation>最大值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+    </message>
+    <message>
+        <source>Format Text box</source>
+        <comment>TX_SETEDITTEXTBOXCAPTION</comment>
+        <translation>文字方塊格式</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
+
+•If you do not want to  create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation>WPS Spreadsheets 不能計算該公式。公式中的儲存格參照指向的是公式的結果，從而造成循環參照。請嘗試:
+
+· 如屬意外，請傳回上一步動作的儲存格改正公式。
+· 如果您期望通過循環參照傳回正確的計算結果，請選擇 [選項]中的 [反覆運算]。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
+        <comment>TX_DS_MULCOLS</comment>
+        <translation>WPS Spreadsheets 一次只能轉換一欄。所選取的範圍可以很多列，但是只能有一欄。請重新選取一欄中的儲存格，然後再試一次。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
+        <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
+        <translation>WPS Spreadsheets 找不到預設的自訂字典，請在選項中選擇一個自訂字典，然後再次執行該命令。</translation>
+    </message>
+    <message>
+        <source>This function is provided in WPS Office 2009 Professional Edition.</source>
+        <comment>TX_FUNCTION_PROHIBIT</comment>
+        <translation>此功能在 WPS Office 2013 專業版 中提供!</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
+        <comment>TX_CHECKSPELLING_SHEETYESNO</comment>
+        <translation>WPS Spreadsheets 已經完成本輪拼字檢查，需要再對整張表進行檢查吗?</translation>
+    </message>
+    <message>
+        <source>Spell 
+Check</source>
+        <comment>TX_SpellCheck_Caption</comment>
+        <translation>拼字檢查</translation>
+    </message>
+    <message>
+        <source>Not force the coefficient to be 0</source>
+        <comment>TX_ParaInfo_196</comment>
+        <translation>不强製繫數為0</translation>
     </message>
     <message>
         <source>specifies the reference type: absolute = 1; absolute row/relative column = 2; relative row/absolute column = 4.</source>
         <comment>TX_ParaDesc_006</comment>
-        <translation type="unfinished">傳回參照位址的方式。1: 傳回絕對位址; 2: 列位址為絕對，欄為相對; 3: 列位址為相對，欄為絕對; 4: 傳回相對位址</translation>
+        <translation>傳回參照位址的方式。1: 傳回絕對位址; 2: 列位址為絕對，欄為相對; 3: 列位址為相對，欄為絕對; 4: 傳回相對位址</translation>
     </message>
     <message>
         <source>is a probability associated with the chi-squared distribution, a value between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_040</comment>
-        <translation type="unfinished">為 chi-squared 分配所使用的機率，此值須在 0 和 1 之間</translation>
+        <translation>為 chi-squared 分配所使用的機率，此值須在 0 和 1 之間</translation>
     </message>
     <message>
         <source>specifies which value argument is selected. Index_num must be between 1 and 29, or a formula or a reference to a number between 1 to 29.</source>
         <comment>TX_ParaDesc_043</comment>
-        <translation type="unfinished">用於指明待選參數序號的參數值。 必須為 1 到 29 之間的數字、或者是包含數字的公式或儲存格參照</translation>
+        <translation>用於指明待選參數序號的參數值。 必須為 1 到 29 之間的數字、或者是包含數字的公式或儲存格參照</translation>
+    </message>
+    <message>
+        <source>is text that represents a date in a WPS Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
+        <comment>TX_ParaDesc_072</comment>
+        <translation>為 WPS Spreadsheets 日期格式的文字串，介於 1900/1/1 到 9999/12/31 之間</translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets.</source>
+        <comment>TX_ParaDesc_076</comment>
+        <translation>係指 WPS Spreadsheets 所使用的日期和時間碼的數字</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
         <comment>TX_ParaDesc_113</comment>
-        <translation type="unfinished">用來評估函數的值，需為非負數值</translation>
+        <translation>用來評估函數的值，需為非負數值</translation>
+    </message>
+    <message>
+        <source>is a range or array of x-values you already know in the relationship y=mx + b.</source>
+        <comment>TX_ParaDesc_134</comment>
+        <translation>自變數所在的陣列或儲存格範圍。 Known_x&apos;s 的變異數不得為 0</translation>
+    </message>
+    <message>
+        <source>is a logical value: payment at the beginning of the period = 1: payment at the end of the period = 0 or omitted.</source>
+        <comment>TX_ParaDesc_143</comment>
+        <translation>為代表付款何時到期的數值: 1 表示期初給付; 0 或省略時表示期末給付</translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
+        <comment>TX_ParaDesc_165</comment>
+        <translation>為 WPS Spreadsheets 所使用的日期和時間碼數字，或是時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
+    </message>
+    <message>
+        <source>is the text string containing the characters you want to extract.</source>
+        <comment>TX_ParaDesc_206</comment>
+        <translation>為包含您所要抽選之字元的文字串</translation>
+    </message>
+    <message>
+        <source>is the length of the text string that contains the characters you want to extract.</source>
+        <comment>TX_ParaDesc_209</comment>
+        <translation>指定要從 text 中抽選的字元數</translation>
     </message>
     <message>
         <source>is a probability associated with the lognormal distribution, a number between 0 and 1, inclusive.</source>
         <comment>TX_ParaDesc_221</comment>
-        <translation type="unfinished">為一個與對數常態分配相關的機率值，機率值須在 0 和 1 之間，且可包含 0 和 1</translation>
+        <translation>為一個與對數常態分配相關的機率值，機率值須在 0 和 1 之間，且可包含 0 和 1</translation>
     </message>
     <message>
         <source>is the mean of ln(x).</source>
         <comment>TX_ParaDesc_222</comment>
-        <translation type="unfinished">是 ln(x) 的平均數</translation>
+        <translation>是 ln(x) 的平均數</translation>
+    </message>
+    <message>
+        <source>is the length of the text string that contains the characters you want to extract.</source>
+        <comment>TX_ParaDesc_243</comment>
+        <translation>指定要從 text 中抽選的字元數</translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
+        <comment>TX_ParaDesc_246</comment>
+        <translation>為 WPS Spreadsheets 所使用的日期和時間碼數字，或是時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
     </message>
     <message>
         <source>is the number for which you want to find the remainder after the division is performed.</source>
         <comment>TX_ParaDesc_252</comment>
-        <translation type="unfinished">被除數</translation>
+        <translation>被除數</translation>
+    </message>
+    <message>
+        <source>is number in the date-time code used by WPS Spreadsheets.</source>
+        <comment>TX_ParaDesc_255</comment>
+        <translation>係指 WPS Spreadsheets 所使用的日期和時間碼的數字</translation>
     </message>
     <message>
         <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_263</comment>
-        <translation type="unfinished">是相對於常態分配的機率值，此值須在 0 到 1 之間，且可包含 0 及 1</translation>
+        <translation>是相對於常態分配的機率值，此值須在 0 到 1 之間，且可包含 0 及 1</translation>
     </message>
     <message>
         <source>is the optional upper bound on the value. If omitted, PROB returns the probability that X_range values are equal to Lower_limit.</source>
         <comment>TX_ParaDesc_306</comment>
-        <translation type="unfinished">是所求的機率的選擇性上限值。如果省略，PROB 將傳回 X_range 值等於 Lower_limit 的機率值</translation>
+        <translation>是所求的機率的選擇性上限值。如果省略，PROB 將傳回 X_range 值等於 Lower_limit 的機率值</translation>
+    </message>
+    <message>
+        <source>is the text string containing the characters you want to extract.</source>
+        <comment>TX_ParaDesc_332</comment>
+        <translation>為包含您所要抽選之字元的文字串</translation>
+    </message>
+    <message>
+        <source>is the text containing part characters you want to extract.</source>
+        <comment>TX_ParaDesc_334</comment>
+        <translation>為欲從中抽取字元的文字串</translation>
+    </message>
+    <message>
+        <source>is the character number in Within_text, counting from the left, at which you want to start searching. If omitted, 1 is used.</source>
+        <comment>TX_ParaDesc_354</comment>
+        <translation>指定欲從 被搜尋的字串 的第若干個字元開始尋找。如果省略不填，預設值為 1</translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
+        <comment>TX_ParaDesc_358</comment>
+        <translation>WPS Spreadsheets 所使用的日期和時間碼的數字，或日期時間值或時間格式的文字，例如 16:48:00 或 4:48:00 PM</translation>
     </message>
     <message>
         <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
         <comment>TX_ParaDesc_376</comment>
-        <translation type="unfinished">包含要取代字元的字串或文字儲存格的參照</translation>
+        <translation>包含要取代字元的字串或文字儲存格的參照</translation>
     </message>
     <message>
         <source>specifies which occurrence of Old_text you want to replace. If omitted, every instance of Old_text is replaced.</source>
         <comment>TX_ParaDesc_379</comment>
-        <translation type="unfinished">為一數值，若指定的字串在父字串中出現多次，可以用該參數指定第幾個，如果忽略，則全部取代</translation>
+        <translation>為一數值，若指定的字串在父字串中出現多次，可以用該參數指定第幾個，如果忽略，則全部取代</translation>
+    </message>
+    <message>
+        <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
+        <comment>TX_ParaDesc_404</comment>
+        <translation>為依 WPS Spreadsheets 時間格式表達的文字串 (字串中的日期資訊將被忽略)</translation>
     </message>
     <message>
         <source>is the probability associated with the two-tailed Student&apos;s t-distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_405</comment>
-        <translation type="unfinished">為雙尾 T 分配之相關機率值，介於 0 和 1 之間且包含 0 和 1</translation>
+        <translation>為雙尾 T 分配之相關機率值，介於 0 和 1 之間且包含 0 和 1</translation>
+    </message>
+    <message>
+        <source>is number in the date-time code used by WPS Spreadsheets.</source>
+        <comment>TX_ParaDesc_445</comment>
+        <translation>為 WPS Spreadsheets 用來表示日期和時間計算的日期和時間碼</translation>
+    </message>
+    <message>
+        <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
+        <comment>TX_ParaDesc_460</comment>
+        <translation>是一或多個數列日期數字的選用集，會從工作行事曆中排除，例如，州假日和聯邦假日以及彈性假日</translation>
+    </message>
+    <message>
+        <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
+        <comment>TX_ParaDesc_467</comment>
+        <translation>是一或多個數列日期數字的選用集，會從工作行事曆中排除，例如，州假日和聯邦假日以及彈性假日</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
+        <comment>TX_ParaDesc_488</comment>
+        <translation>證券的結算日。證券結算日是在發行日期之後，證券賣給購物者的日期。</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s maturity date, expressed as a serial date number.</source>
+        <comment>TX_ParaDesc_489</comment>
+        <translation>證券的到期日。到期日是證券有效期截止時的日期。</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s annual coupon rate.</source>
+        <comment>TX_ParaDesc_490</comment>
+        <translation>證券的年息票利率</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s annual yield.</source>
+        <comment>TX_ParaDesc_491</comment>
+        <translation>證券的年收益率</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s redemption value per $100 face value.</source>
+        <comment>TX_ParaDesc_492</comment>
+        <translation>面值 ￥100 的證券的清償價值</translation>
+    </message>
+    <message>
+        <source>is the number of coupon payments per year. If pay by year, frequency = 1; by six months, frequency = 2; by quarter, frequency = 4</source>
+        <comment>TX_ParaDesc_493</comment>
+        <translation>年付息次數。如果按年支付，frequency = 1；按半年期支付，frequency = 2；按季支付，frequency = 4</translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only. 
+To modify a protected cell or chart, first remove protection using the Unprotect Sheet command. You may be prompted for a password.</source>
+        <comment>TX_Warning_Try_To_Modify_Protection_Cells_Or_Chart</comment>
+        <translation>您要變更的儲存格或圖表已被保護，無法更改。
+若要修改被保護的儲存格或圖表，請先使用 [取消保護工作表] 命令來移除保護。可能會提示您輸入密碼。</translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
+        <comment>TX_ReopenIsForgoModify</comment>
+        <translation>&quot;%s&quot;已經開啟。重新開啟它將會導致您所做的修改通通遺失。您要重新開啟&quot;%s&quot; ?</translation>
+    </message>
+    <message>
+        <source>A document with the name &quot;%s&quot; is already open. You cannot open two documents with the same name, even if the documents are in different folders. To open the second document, either close the document that&apos;s currently open, or rename one of the documents.</source>
+        <comment>TX_SameNameFileIsOpenCanAgainNotOpen</comment>
+        <translation>文件 &quot;%s&quot; 已開啟。您不可以同時開啟兩個同樣檔名的文件，即使這兩個文件是在不同的資料夾也不可以。 若要開啟第二個文件的話，請先將目前同樣檔名的文件關閉，或是將同樣檔名的文件重新命名為另一個名稱，再開啟第二個文件。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
+        <comment>TX_InCompatible_ShareBook</comment>
+        <translation>不支援普通模式的共用活頁簿，請先將目前活頁簿另儲存為&quot;*.xls&quot;或&quot;*.et&quot;的格式，然後重新打開，再設定共用活頁簿。</translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <comment>TX_RecordMacro_Stop</comment>
+        <translation>停止錄製</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <comment>TX_RecordMacro_Start</comment>
+        <translation>錄製巨集</translation>
+    </message>
+    <message>
+        <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
+        <translation>如果您已經在同步處理變更或在檢查錯誤的程序中，就不能開始同步處理變更或顯示 [錯誤檢查] 對話方塊。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
+
+•Click a single cell, and then paste.
+•Select a rectangle area with the same size and shape, and then paste.</source>
+        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+        <translation type="obsolete">WPS Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
+. 選擇單一儲存格，然後貼上。
+. 選擇相同大小即形狀的儲存格範圍，然後貼上。</translation>
+    </message>
+    <message>
+        <source>Paste_num</source>
+        <comment>TX_ParaInfo_299</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation_num</source>
+        <comment>TX_ParaInfo_300</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip_blanks</source>
+        <comment>TX_ParaInfo_301</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transpose</source>
+        <comment>TX_ParaInfo_302</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable_logical</source>
+        <comment>TX_ParaInfo_324</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_ref</source>
+        <comment>TX_ParaInfo_325</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_326</comment>
+        <translation type="unfinished">參照範圍</translation>
+    </message>
+    <message>
+        <source>Step</source>
+        <comment>TX_ParaInfo_327</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save_logical</source>
+        <comment>TX_ParaInfo_328</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Route_logical</source>
+        <comment>TX_ParaInfo_329</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range_num</source>
+        <comment>TX_ParaInfo_330</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From</source>
+        <comment>TX_ParaInfo_331</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To</source>
+        <comment>TX_ParaInfo_332</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copies</source>
+        <comment>TX_ParaInfo_333</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <comment>TX_ParaInfo_334</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <comment>TX_ParaInfo_335</comment>
+        <translation type="unfinished">Preview</translation>
+    </message>
+    <message>
+        <source>Print_what</source>
+        <comment>TX_ParaInfo_336</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <comment>TX_ParaInfo_337</comment>
+        <translation type="unfinished">色彩</translation>
+    </message>
+    <message>
+        <source>Feed</source>
+        <comment>TX_ParaInfo_338</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quality</source>
+        <comment>TX_ParaInfo_339</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Y_resolution</source>
+        <comment>TX_ParaInfo_340</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <comment>TX_ParaInfo_341</comment>
+        <translation type="unfinished">選取範圍</translation>
+    </message>
+    <message>
+        <source>Printer_text</source>
+        <comment>TX_ParaInfo_342</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print_to_file</source>
+        <comment>TX_ParaInfo_343</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collate</source>
+        <comment>TX_ParaInfo_344</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <comment>TX_ParaInfo_345</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore_print_area</source>
+        <comment>TX_ParaInfo_346</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Module_text</source>
+        <comment>TX_ParaInfo_347</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Procedure</source>
+        <comment>TX_ParaInfo_348</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_text</source>
+        <comment>TX_ParaInfo_349</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument</source>
+        <comment>TX_ParaInfo_350</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
     </message>
 </context>
 <context>
@@ -22419,11 +14356,6 @@ Please make sure the selected regions are continuous cells.</source>
         <source>AutoFit</source>
         <comment>TX_Undo_AutoFit</comment>
         <translation>最適列高</translation>
-    </message>
-    <message>
-        <source>AutoFit Selection</source>
-        <comment>TX_Undo_AutoFitSelection</comment>
-        <translation>最適欄寬</translation>
     </message>
     <message>
         <source>AutoFitSelection</source>
@@ -22738,7 +14670,8 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Insert Cut Cells</source>
         <comment>TX_Undo_InsertCutCells</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Unknown</translatorcomment>
+        <translation>插入儲存格</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -23070,6 +15003,11 @@ Please make sure the selected regions are continuous cells.</source>
         <comment>TX_Undo_ZoomCombo</comment>
         <translation>顯示比例</translation>
     </message>
+    <message>
+        <source>AutoFit Selection</source>
+        <comment>TX_Undo_AutoFitSelection</comment>
+        <translation>最適欄寬</translation>
+    </message>
 </context>
 <context>
     <name>et_etshell</name>
@@ -23122,11 +15060,6 @@ Please make sure the selected regions are continuous cells.</source>
         <source>&amp;Find / Replace...</source>
         <comment>et_sFindMenuCaption</comment>
         <translation type="obsolete">尋找 / 取代(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Find/Replace...</source>
-        <comment>et_sFindMenuCaption</comment>
-        <translation>尋找 / 取代(&amp;F)...</translation>
     </message>
     <message>
         <source>&amp;Format...</source>
@@ -23490,9 +15423,9 @@ Please make sure the selected regions are continuous cells.</source>
         <translation>確認密碼不相同。</translation>
     </message>
     <message>
-        <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
+        <source>Connection string or SQL is error. Kingsoft Spreadsheets cannot import the data.</source>
         <comment>et_sConnectionStrError</comment>
-        <translation>連線字元串或是SQL有誤，WPS Spreadsheets 無法匯入資料。</translation>
+        <translation type="obsolete">連線字元串或是SQL有誤，Kingsoft Spreadsheets 無法匯入資料。</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -23670,11 +15603,6 @@ Please make sure the selected regions are continuous cells.</source>
         <translation type="obsolete">刪除時發生錯誤。</translation>
     </message>
     <message>
-        <source>Error occurred when deleting the items.</source>
-        <comment>et_sDeleteNameError</comment>
-        <translation>刪除時發生錯誤。</translation>
-    </message>
-    <message>
         <source>Everyone</source>
         <comment>et_sEveryone</comment>
         <translation>所有使用者</translation>
@@ -23847,11 +15775,6 @@ the cells will be set in orange background.
 （注:請選擇 [單列] 或 [單欄] 範圍）</translation>
     </message>
     <message>
-        <source>Incorrect input.The value must be a Number.</source>
-        <comment>et_sNumberRequest</comment>
-        <translation>輸入不正確，要求輸入值為整數或小數。</translation>
-    </message>
-    <message>
         <source>Indents</source>
         <comment>et_sIndents</comment>
         <translation>縮排</translation>
@@ -23901,6 +15824,54 @@ tically, only keep one row.
         <source>Justify</source>
         <comment>et_sJustify</comment>
         <translation>左右對齊</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>et_LocalString</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot find a match.</source>
+        <comment>et_sReplace_NotFind</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 找不到匹配項。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. Kingsoft Spreadsheets cannot replace data on a protected worksheet.</source>
+        <comment>et_sFindReplace_CannotReplace</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 找不到任何要取代的資料。請檢查您的搜索選項是否正確。若在此工作簿中確實存在匹配的資料，則可能是由於所在的工作表是被保護的。Kingsoft Spreadsheets 不能取代受保護的工作表中的資料。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
+        <comment>et_sFindReplace_NotFind</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 找不到正在搜索的資料。請檢查您的搜索選項、位置。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
+        <comment>et_sCannotGoto</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 不能定位資料。可能是所在的工作表處於保護狀態。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot use the number format you entered.
+Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
+the category you want, and then choose the other options.</source>
+        <comment>et_sInvalidNumberFormat</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法使用目前輸入的數字格式。
+試用一種內置的數字格式。在 [格式] 選單上，按一下 [儲存格] 命令，然後按一下數位選項卡。選擇所需分類，再進一步選擇對應的格式選項。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets encountered an error while trying exporting to PDF.</source>
+        <comment>et_sExportPDFError</comment>
+        <translation type="obsolete">匯出 PDF 檔案的程式集中發生錯誤!</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
+        <comment>et_sHint</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 偵測到您選定的範圍旁邊還有資料，這些資料將不會接受排序。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets has completed its search and has made %d replacements.</source>
+        <comment>et_sFound</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 已經完成了搜尋並進行了 %d 處取代。</translation>
     </message>
     <message>
         <source>Left</source>
@@ -24011,11 +15982,6 @@ tically, only keep one row.
         <source>Number is not valid.</source>
         <comment>et_sNotValidNumber</comment>
         <translation>不正確的數字。</translation>
-    </message>
-    <message>
-        <source>Number is used for general display of numbers. Currency and Accounting offer specialized formatting for monetary value.</source>
-        <comment>et_sNH_Number</comment>
-        <translation>數值格式適用於一般的數值顯示。貨幣和會計格式則提供特殊的金額顯示方式。</translation>
     </message>
     <message>
         <source>Number is used for general display of numbers.Currency and Accounting offer specialized formatting for monetary value.</source>
@@ -24194,9 +16160,9 @@ tically, only keep one row.
         <translation>刪除重複項</translation>
     </message>
     <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other Kingsoft Office programs. Do you want to continue?</source>
         <comment>et_sRemoveDefaultDict</comment>
-        <translation>刪除該自訂字典可能會影響其它 WPS Office 程式集所用的自訂字典。是否繼續?</translation>
+        <translation type="obsolete">刪除該自訂字典可能會影響其它 Kingsoft Office 程式集所用的自訂字典。是否繼續?</translation>
     </message>
     <message>
         <source>Right</source>
@@ -24277,11 +16243,6 @@ tically, only keep one row.
         <source>Shrink To fit</source>
         <comment>et_sShrinkToFit</comment>
         <translation type="obsolete">縮小字型以適合欄寬</translation>
-    </message>
-    <message>
-        <source>Shrink to Fit</source>
-        <comment>et_sShrinkToFit</comment>
-        <translation>縮小字型以適合欄寬</translation>
     </message>
     <message>
         <source>Single</source>
@@ -24466,9 +16427,9 @@ Select a single range and click the command again.</source>
         <translation>密碼不符。密碼是有大小寫之分的 (注意 CAPS LOCK 燈是開啟或是關閉的狀態)。</translation>
     </message>
     <message>
-        <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
+        <source>The range is not in active sheet. Kingsoft Spreadsheets cannot import data.</source>
         <comment>et_sRangeNotInActiveSheet</comment>
-        <translation>範圍不在作用中工作表上，WPS Spreadsheets 不能匯入資料。</translation>
+        <translation type="obsolete">範圍不在作用中工作表上，Kingsoft Spreadsheets 不能匯入資料。</translation>
     </message>
     <message>
         <source>The reference you entered is not valid, or you did not provide a reference where one was required.
@@ -24573,11 +16534,6 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation>上 對齊</translation>
     </message>
     <message>
-        <source>Type the number format code, using one of the existing codes as a starting point.</source>
-        <comment>et_sNH_Custom</comment>
-        <translation>請鍵入數值格式代碼，您可以選取已有的代碼加以修改。</translation>
-    </message>
-    <message>
         <source>Type the number format code,using one of the existing codes as a starting point.</source>
         <comment>et_sNH_Custom</comment>
         <translation type="obsolete">請鍵入數值格式代碼，您可以選取已有的代碼加以修改。</translation>
@@ -24631,59 +16587,6 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <source>Vertical Justify Aligned</source>
         <comment>et_sJustifyAligned</comment>
         <translation>上下對齊</translation>
-    </message>
-    <message>
-        <source>Vertically Distributed</source>
-        <comment>et_sDistributedAligned</comment>
-        <translation>垂直分散對齊</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>et_LocalString</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find a match.</source>
-        <comment>et_sReplace_NotFind</comment>
-        <translation>WPS Spreadsheets 找不到匹配項。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
-        <comment>et_sFindReplace_CannotReplace</comment>
-        <translation>WPS Spreadsheets 找不到任何要取代的資料。請檢查您的搜索選項是否正確。若在此工作簿中確實存在匹配的資料，則可能是由於所在的工作表是被保護的。WPS Spreadsheets 不能取代受保護的工作表中的資料。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <comment>et_sFindReplace_NotFind</comment>
-        <translation>WPS Spreadsheets 找不到正在搜索的資料。請檢查您的搜索選項、位置。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
-        <comment>et_sCannotGoto</comment>
-        <translation>WPS Spreadsheets 不能定位資料。可能是所在的工作表處於保護狀態。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot use the number format you entered.
-Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
-the category you want, and then choose the other options.</source>
-        <comment>et_sInvalidNumberFormat</comment>
-        <translation>WPS Spreadsheets 無法使用目前輸入的數字格式。
-試用一種內置的數字格式。在 [格式] 選單上，按一下 [儲存格] 命令，然後按一下數位選項卡。選擇所需分類，再進一步選擇對應的格式選項。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
-        <comment>et_sExportPDFError</comment>
-        <translation>匯出 PDF 檔案的程式集中發生錯誤!</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <comment>et_sHint</comment>
-        <translation>WPS Spreadsheets 偵測到您選定的範圍旁邊還有資料，這些資料將不會接受排序。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
-        <comment>et_sFound</comment>
-        <translation>WPS Spreadsheets 已經完成了搜尋並進行了 %d 處取代。</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -24909,6 +16812,104 @@ the category you want, and then choose the other options.</source>
         <source>not equal to</source>
         <comment>et_sNotEqual</comment>
         <translation>不等於</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>et_LocalString</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Error occurred when deleting the items.</source>
+        <comment>et_sDeleteNameError</comment>
+        <translation>刪除時發生錯誤。</translation>
+    </message>
+    <message>
+        <source>Vertically Distributed</source>
+        <comment>et_sDistributedAligned</comment>
+        <translation>垂直分散對齊</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
+        <comment>et_sExportPDFError</comment>
+        <translation>匯出 PDF 檔案的程式集中發生錯誤!</translation>
+    </message>
+    <message>
+        <source>&amp;Find/Replace...</source>
+        <comment>et_sFindMenuCaption</comment>
+        <translation>尋找 / 取代(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
+        <comment>et_sFindReplace_CannotReplace</comment>
+        <translation>WPS Spreadsheets 找不到任何要取代的資料。請檢查您的搜索選項是否正確。若在此工作簿中確實存在匹配的資料，則可能是由於所在的工作表是被保護的。WPS Spreadsheets 不能取代受保護的工作表中的資料。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
+        <comment>et_sFindReplace_NotFind</comment>
+        <translation>WPS Spreadsheets 找不到正在搜索的資料。請檢查您的搜索選項、位置。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
+        <comment>et_sFound</comment>
+        <translation>WPS Spreadsheets 已經完成了搜尋並進行了 %d 處取代。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
+        <comment>et_sHint</comment>
+        <translation>WPS Spreadsheets 偵測到您選定的範圍旁邊還有資料，這些資料將不會接受排序。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot use the number format you entered.
+Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
+the category you want, and then choose the other options.</source>
+        <comment>et_sInvalidNumberFormat</comment>
+        <translation>WPS Spreadsheets 無法使用目前輸入的數字格式。
+試用一種內置的數字格式。在 [格式] 選單上，按一下 [儲存格] 命令，然後按一下數位選項卡。選擇所需分類，再進一步選擇對應的格式選項。</translation>
+    </message>
+    <message>
+        <source>Type the number format code, using one of the existing codes as a starting point.</source>
+        <comment>et_sNH_Custom</comment>
+        <translation>請鍵入數值格式代碼，您可以選取已有的代碼加以修改。</translation>
+    </message>
+    <message>
+        <source>Number is used for general display of numbers. Currency and Accounting offer specialized formatting for monetary value.</source>
+        <comment>et_sNH_Number</comment>
+        <translation>數值格式適用於一般的數值顯示。貨幣和會計格式則提供特殊的金額顯示方式。</translation>
+    </message>
+    <message>
+        <source>Incorrect input.The value must be a Number.</source>
+        <comment>et_sNumberRequest</comment>
+        <translation>輸入不正確，要求輸入值為整數或小數。</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>et_sRemoveDefaultDict</comment>
+        <translation>刪除該自訂字典可能會影響其它 WPS Office 程式集所用的自訂字典。是否繼續?</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find a match.</source>
+        <comment>et_sReplace_NotFind</comment>
+        <translation>WPS Spreadsheets 找不到匹配項。</translation>
+    </message>
+    <message>
+        <source>Shrink to Fit</source>
+        <comment>et_sShrinkToFit</comment>
+        <translation>縮小字型以適合欄寬</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
+        <comment>et_sCannotGoto</comment>
+        <translation>WPS Spreadsheets 不能定位資料。可能是所在的工作表處於保護狀態。</translation>
+    </message>
+    <message>
+        <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
+        <comment>et_sConnectionStrError</comment>
+        <translation>連線字元串或是SQL有誤，WPS Spreadsheets 無法匯入資料。</translation>
+    </message>
+    <message>
+        <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
+        <comment>et_sRangeNotInActiveSheet</comment>
+        <translation>範圍不在作用中工作表上，WPS Spreadsheets 不能匯入資料。</translation>
     </message>
 </context>
 </TS>

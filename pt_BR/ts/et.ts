@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="pt_BR">
 <context>
     <name>AdvQueryDlgUi</name>
     <message>
@@ -840,11 +842,43 @@ a condição é verdadeira:</translation>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation>O arquivo já existe na lista .</translation>
+        <translation type="obsolete">O arquivo já existe na lista .</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation>Não é um complemento válido.</translation>
+        <translation type="obsolete">Não é um complemento válido.</translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1122,7 +1156,7 @@ a condição é verdadeira:</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation>O tipo de conexão selecionado não pode ser usado para criar uma tabela dinâmica.</translation>
+        <translation type="unfinished">O tipo de conexão selecionado não pode ser usado para criar uma tabela dinâmica.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -1837,6 +1871,26 @@ cursor na caixa de edição e pressione o botão Formatar imagem.</translation>
     <message>
         <source>&amp;Refer to:</source>
         <translation>Referência para:</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2776,7 +2830,7 @@ cursor na caixa de edição e pressione o botão Formatar imagem.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'宋体'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;宋体&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;comment&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -3132,7 +3186,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Criar arquivo de backup ao salvar pela primeira vez</translation>
+        <translation type="obsolete">Criar arquivo de backup ao salvar pela primeira vez</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -3570,6 +3624,10 @@ e Minúscula</translation>
     <message>
         <source>&amp;Warn me when closing all tabs</source>
         <translation>Avisar quando fechar todas as guias</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4289,6 +4347,61 @@ antes de compartilhar a pasta de trabalho.</translation>
     <message>
         <source>C&amp;lose</source>
         <translation>Fechar</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicates</name>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished">Remover Duplicados</translation>
+    </message>
+    <message>
+        <source>Please select one or more columns that contain duplicates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;My data has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d duplicates are found;
+Only %d unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicatesWarning</name>
+    <message>
+        <source>Remove Duplicates Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What do you want to do?</source>
+        <translation type="unfinished">O que você quer fazer ?</translation>
+    </message>
+    <message>
+        <source>&amp;Expand the selection</source>
+        <translation type="unfinished">Expandir a seleção</translation>
+    </message>
+    <message>
+        <source>&amp;Continue with the current selection</source>
+        <translation type="unfinished">Continuar com a seleção atual</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5580,6 +5693,33 @@ Se isto estiver correto , selecione Avançar , ou escolher o tipo de dados que m
     </message>
 </context>
 <context>
+    <name>KxEtDialogSheetDlg</name>
+    <message>
+        <source>Integer is not valid.</source>
+        <translation type="unfinished">Integer Não É Válido.</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required
+To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.
+To get assistance in entering a function, click Function Wizard
+If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only.
+To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
@@ -5914,7 +6054,7 @@ Se isto estiver correto , selecione Avançar , ou escolher o tipo de dados que m
     <name>KxExportPDFDlg</name>
     <message>
         <source>Save Adobe PDF File</source>
-        <translation>Salvar Adobe PDF File</translation>
+        <translation type="obsolete">Salvar Adobe PDF File</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf</source>
@@ -5939,6 +6079,10 @@ Se isto estiver correto , selecione Avançar , ou escolher o tipo de dados que m
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
         <translation>Arquivo de senha aberta e senha de permissão deve ser diferente , por favor volte a introduzir.</translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6409,7 +6553,7 @@ Se isto estiver correto , selecione Avançar , ou escolher o tipo de dados que m
         <translation>O texto de entrada não é uma referência válida ou nome definido.</translation>
     </message>
     <message>
-        <source>The cell you're trying to change is on a protected sheet.
+        <source>The cell you&apos;re trying to change is on a protected sheet.
 To make changes, click Unprotect Sheet in the Review tab (You might need a password).</source>
         <translation>A célula que você está tentando alterar está em uma planilha protegida .
 Para fazer alterações, clique em Desproteger planilha na guia Revisão (Você pode precisar de uma senha).</translation>
@@ -6812,6 +6956,14 @@ na iteração # %2 .</translation>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
         <translation>As alterações à fonte padrão e tamanho da fonte não terá efeito até que você crie uma nova pasta de trabalho .</translation>
+    </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished">Listas personalizadas</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Opções</translation>
     </message>
 </context>
 <context>
@@ -7261,6 +7413,30 @@ Se você estiver alterando o nome de um campo de tabela dinâmica , você deve d
     </message>
 </context>
 <context>
+    <name>KxRemoveDuplicatesDlg</name>
+    <message>
+        <source>( Select All )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column </source>
+        <translation type="unfinished">coluna</translation>
+    </message>
+    <message>
+        <source>(%1) %2</source>
+        <translation type="unfinished">( %1 ) %2</translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>If there are repeated contents in cells in the following range,
@@ -7329,6 +7505,29 @@ automaticamente , e apenas uma linha pode ser mantido .
     <message>
         <source>*No Assign*</source>
         <translation>* No Assign *</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectTableFromDbDlg</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Tipo</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7838,7 +8037,7 @@ Se você não quer mostrar o campo de todo, cancelar a operação atual , e , em
     </message>
     <message>
         <source>Parameter</source>
-        <translation>parâmetro</translation>
+        <translation type="obsolete">parâmetro</translation>
     </message>
     <message>
         <source>Empty value for parameter.</source>
@@ -9287,6 +9486,13 @@ t</translation>
     </message>
 </context>
 <context>
+    <name>SelectTableFromDbUI</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SolverOptions</name>
     <message>
         <source>Options</source>
@@ -9715,7 +9921,7 @@ t</translation>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Exportação Para Adobe Pdf File</translation>
+        <translation type="obsolete">Exportação Para Adobe Pdf File</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9825,12 +10031,16 @@ t</translation>
         <source>Close w&amp;hen export completes</source>
         <translation>Feche quando a exportação for concluída</translation>
     </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Exportação Para Adobe Pdf File</translation>
+        <translation type="obsolete">Exportação Para Adobe Pdf File</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
@@ -9843,6 +10053,10 @@ t</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

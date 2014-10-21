@@ -9,6 +9,10 @@
         <translation>In Ordnung</translation>
     </message>
     <message>
+        <source>Kingsoft Office recommendation</source>
+        <translation type="obsolete">Kingsoft Office Empfehlungen</translation>
+    </message>
+    <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
         <translation>Viele Leute nutzen dieses großartige Werkzeug. Möchten Sie es auch probieren?</translation>
     </message>

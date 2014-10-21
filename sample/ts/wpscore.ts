@@ -2,6 +2,53 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="sample">
 <context>
+    <name>field_parser_index</name>
+    <message>
+        <source>Error!Can not find xe.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter is not specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error!Bookmark the page of an invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alphabet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter unrecognizable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error!Is not a valid character range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>wps can not update index!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>wps_comment</name>
     <message>
         <source>Comment</source>
@@ -129,6 +176,26 @@ Try one or more of the following:
     <message>
         <source>_Top</source>
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only main text.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! lack of test conditions.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! cannot recognize the condition operation code.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! lack of the second part test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -667,11 +734,6 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>AaBbCc</source>
-        <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>Tx_PrintError</comment>
         <translation type="unfinished"></translation>
@@ -820,11 +882,6 @@ Do you want to replace it?</source>
     <message>
         <source>Spell Check: Off</source>
         <comment>_TxSpellingCheck_Off</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!?, ?#?, ?%20?, ?%23? or ?%25?, etc. Do you want to continue?</source>
-        <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2161,6 +2218,38 @@ Do you want to replace it?</source>
         <source>Writer</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Make the office more relaxed</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document is under protected, can not be merged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are one or all documents contain revsions, continue compare or not?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no proofing</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -2483,14 +2572,6 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
-Please try one of the following.
-?Switch to another user account.
-?Ask its creator to change the permissions control level of this file.</source>
-        <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Opening this document will execute the SQL command below:
  %s 
 Data from your database will be placed in the document. Do you want to continue?
@@ -2575,13 +2656,21 @@ To continue saving as a macro-free workbook, click Yes.
         <comment>_TxDocument_SaveMacroWarning</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permissions control level of this file.</source>
+        <comment>_TxDocument_KRM_RightsInsufficient</comment>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
-        <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</source>
+        <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4203,11 +4292,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Has finished searching ?%s?. The search item was not found.</source>
-        <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType_NumberedItem</comment>
         <translation type="unfinished"></translation>
@@ -4421,6 +4505,11 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>You are not allowed to edit this selection because it is protected.</source>
         <comment>wps_sSelectionProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5019,11 +5108,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Symbol</source>
         <comment>TxVersion_InsSymbol</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data/Time</source>
-        <comment>TxVersion_InsDateTime</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5969,6 +6053,241 @@ Check</source>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <comment>TxDesc_DataSource_wpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <comment>TxVersion_InsDateTime</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Normal</source>
+        <comment>TxTableStyle_TableNormal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 1</source>
+        <comment>TxTableStyle_TableSimple1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 2</source>
+        <comment>TxTableStyle_TableSimple2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 3</source>
+        <comment>TxTableStyle_TableSimple3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 1</source>
+        <comment>TxTableStyle_TableClassic1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 2</source>
+        <comment>TxTableStyle_TableClassic2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 3</source>
+        <comment>TxTableStyle_TableClassic3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 4</source>
+        <comment>TxTableStyle_TableClassic4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 1</source>
+        <comment>TxTableStyle_TableColorful1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 2</source>
+        <comment>TxTableStyle_TableColorful2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 3</source>
+        <comment>TxTableStyle_TableColorful3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 1</source>
+        <comment>TxTableStyle_TableColumns1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 2</source>
+        <comment>TxTableStyle_TableColumns2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 3</source>
+        <comment>TxTableStyle_TableColumns3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 4</source>
+        <comment>TxTableStyle_TableColumns4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 5</source>
+        <comment>TxTableStyle_TableColumns5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 1</source>
+        <comment>TxTableStyle_TableGrid1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 2</source>
+        <comment>TxTableStyle_TableGrid2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 3</source>
+        <comment>TxTableStyle_TableGrid3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 4</source>
+        <comment>TxTableStyle_TableGrid4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 5</source>
+        <comment>TxTableStyle_TableGrid5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 6</source>
+        <comment>TxTableStyle_TableGrid6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 7</source>
+        <comment>TxTableStyle_TableGrid7</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 8</source>
+        <comment>TxTableStyle_TableGrid8</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 1</source>
+        <comment>TxTableStyle_TableList1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 2</source>
+        <comment>TxTableStyle_TableList2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 3</source>
+        <comment>TxTableStyle_TableList3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 4</source>
+        <comment>TxTableStyle_TableList4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 5</source>
+        <comment>TxTableStyle_TableList5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 6</source>
+        <comment>TxTableStyle_TableList6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 7</source>
+        <comment>TxTableStyle_TableList7</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 8</source>
+        <comment>TxTableStyle_TableList8</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 1</source>
+        <comment>TxTableStyle_Table3dfx1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 2</source>
+        <comment>TxTableStyle_Table3dfx2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 3</source>
+        <comment>TxTableStyle_Table3dfx3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Contemporary</source>
+        <comment>TxTableStyle_TableContemporary</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Elegant</source>
+        <comment>TxTableStyle_TableElegant</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Professional</source>
+        <comment>TxTableStyle_TableProfessional</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Subtle1</source>
+        <comment>TxTableStyle_TableSubtle1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Subtle2</source>
+        <comment>TxTableStyle_TableSubtle2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 1</source>
+        <comment>TxTableStyle_TableWeb1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 2</source>
+        <comment>TxTableStyle_TableWeb2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 3</source>
+        <comment>TxTableStyle_TableWeb3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid</source>
+        <comment>TxTableStyle_TableGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Theme</source>
+        <comment>TxTableStyle_TabelTheme</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

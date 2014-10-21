@@ -39,10 +39,6 @@
         <translation type="obsolete">其他颜色(&amp;M)...</translation>
     </message>
     <message>
-        <source>&amp;More Colors...</source>
-        <translation>其他颜色(&amp;M)...</translation>
-    </message>
-    <message>
         <source>&amp;Patterned Lines...</source>
         <translation>带图案线条(&amp;P)...</translation>
     </message>
@@ -218,6 +214,10 @@
         <source>Yellow</source>
         <translation type="unfinished">黄色</translation>
     </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <translation>其他颜色(&amp;M)...</translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -240,10 +240,6 @@
 <context>
     <name>KDocTabbarEx</name>
     <message>
-        <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>隐藏快速访问工具栏自定义入口(&amp;H)</translation>
-    </message>
-    <message>
         <source>&amp;Hide quick access</source>
         <translation type="obsolete">隐藏快速访问工具栏自定义入口(&amp;H)</translation>
     </message>
@@ -259,12 +255,49 @@
         <source>Customize Quick Access</source>
         <translation>自定义快速访问工具栏</translation>
     </message>
+    <message>
+        <source>&amp;Hide Quick Access Toolbar</source>
+        <translation>隐藏快速访问工具栏自定义入口(&amp;H)</translation>
+    </message>
+</context>
+<context>
+    <name>KDocTabbarStickerCommand</name>
+    <message>
+        <source>Lock tabbar</source>
+        <translation>锁定文件标签栏</translation>
+    </message>
+    <message>
+        <source>UnLock tabbar</source>
+        <translation>解锁文件标签栏</translation>
+    </message>
 </context>
 <context>
     <name>KDragMenuBar</name>
     <message>
         <source>Menu Bar</source>
         <translation type="obsolete">菜单栏</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageCloseButton</name>
+    <message>
+        <source>Clear record from list</source>
+        <translation type="obsolete">从列表中移除</translation>
+    </message>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished">从列表中移除</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageFixedButton</name>
+    <message>
+        <source>unfixed from list</source>
+        <translation>在列表中取消对此项目的固定</translation>
+    </message>
+    <message>
+        <source>fixed to list</source>
+        <translation>将此项目固定到列表</translation>
     </message>
 </context>
 <context>
@@ -309,10 +342,6 @@
         <translation>退出(&amp;E)</translation>
     </message>
     <message>
-        <source>&amp;Restore</source>
-        <translation>还原(&amp;R)</translation>
-    </message>
-    <message>
         <source>Ma&amp;ximize</source>
         <translation>最大化(&amp;X)</translation>
     </message>
@@ -327,6 +356,58 @@
     <message>
         <source>Use System &amp;Title Bar</source>
         <translation>使用系统标题栏(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Restore</source>
+        <translation>还原(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KMemberUser</name>
+    <message>
+        <source>UserType_15_Name</source>
+        <translation type="obsolete">镀银</translation>
+    </message>
+    <message>
+        <source>UserType_20_Name</source>
+        <translation type="obsolete">白银</translation>
+    </message>
+    <message>
+        <source>UserType_30_Name</source>
+        <translation type="obsolete">黄金</translation>
+    </message>
+    <message>
+        <source>UserType_40_Name</source>
+        <translation type="obsolete">白金</translation>
+    </message>
+    <message>
+        <source>UserType_10_Name</source>
+        <translation type="obsolete">青铜</translation>
+    </message>
+    <message>
+        <source>Bronze</source>
+        <comment>Member user type</comment>
+        <translation>青铜</translation>
+    </message>
+    <message>
+        <source>Plate with silver</source>
+        <comment>Member user type</comment>
+        <translation>镀银</translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>Member user type</comment>
+        <translation>白银</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>Member user type</comment>
+        <translation>黄金</translation>
+    </message>
+    <message>
+        <source>Platina</source>
+        <comment>Member user type</comment>
+        <translation>白金</translation>
     </message>
 </context>
 <context>
@@ -361,14 +442,6 @@
         <translation type="obsolete">大写锁定打开</translation>
     </message>
     <message>
-        <source>Caps Lock on.</source>
-        <translation>大写锁定打开</translation>
-    </message>
-    <message>
-        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation>保持大写锁定打开可能会使您错误输入密码。</translation>
-    </message>
-    <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
         <translation type="obsolete">保持大写锁定打开可能会使您错误输入密码。</translation>
     </message>
@@ -381,12 +454,20 @@
         <translation type="obsolete">您不能从密码字段中复制。</translation>
     </message>
     <message>
-        <source>You cannot copy text from a password field.</source>
-        <translation>您不能从密码字段中复制。</translation>
+        <source>Caps Lock on.</source>
+        <translation>大写锁定打开</translation>
+    </message>
+    <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
+        <translation>保持大写锁定打开可能会使您错误输入密码。</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
         <translation>在输入密码前，您应该按 &quot;Caps Lock&quot; 键来将其关闭。</translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
+        <translation>您不能从密码字段中复制。</translation>
     </message>
 </context>
 <context>
@@ -394,10 +475,6 @@
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
         <translation>从快速访问工具栏删除(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Show Quick Access Toolbar</source>
-        <translation>显示快速访问工具栏自定义入口(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
@@ -411,6 +488,10 @@
         <source>Quick A&amp;ccess Toolbar</source>
         <translation type="obsolete">自定义快速访问工具栏(&amp;C)...</translation>
     </message>
+    <message>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation>显示快速访问工具栏自定义入口(&amp;S)</translation>
+    </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
@@ -423,8 +504,70 @@
         <translation type="obsolete">清除未固定至列表的记录</translation>
     </message>
     <message>
+        <source>Fixed to the Listing</source>
+        <translation type="obsolete">固定至列表</translation>
+    </message>
+    <message>
+        <source>Unfixed from the Listing</source>
+        <translation type="obsolete">从列表中取消固定</translation>
+    </message>
+    <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation>无法打开 “%1”。
+此文件可能被重命名、删除或移动了位置。</translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation>
+
+修改时间：</translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation>
+
+此记录失效，文档可能被移动、重命名或删除</translation>
+    </message>
+    <message>
+        <source>Recent Documents: </source>
+        <translation>最近使用的文档: </translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>打开</translation>
+    </message>
+    <message>
+        <source>Delete from the Listing</source>
+        <translation type="obsolete">从列表中移除</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>清除全部记录</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>打开文件所在文件夹</translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation>清除所有失效的文档记录</translation>
+    </message>
+    <message>
+        <source>Unpinned from List</source>
+        <translation>从列表中取消固定</translation>
+    </message>
+    <message>
         <source>Clear Pinned Files</source>
         <translation>清除已固定至列表的记录</translation>
+    </message>
+    <message>
+        <source>Pin to List</source>
+        <translation>固定至列表</translation>
     </message>
     <message>
         <source>Clear Unpinned Files</source>
@@ -439,24 +582,8 @@
         <translation type="obsolete">清除未固定至列表的记录</translation>
     </message>
     <message>
-        <source>Fixed to the Listing</source>
-        <translation type="obsolete">固定至列表</translation>
-    </message>
-    <message>
-        <source>Pin to List</source>
-        <translation>固定至列表</translation>
-    </message>
-    <message>
         <source>Pin to list</source>
         <translation type="obsolete">固定至列表</translation>
-    </message>
-    <message>
-        <source>Unfixed from the Listing</source>
-        <translation type="obsolete">从列表中取消固定</translation>
-    </message>
-    <message>
-        <source>Unpinned from List</source>
-        <translation>从列表中取消固定</translation>
     </message>
     <message>
         <source>Unpinned from list</source>
@@ -477,11 +604,11 @@
 <context>
     <name>KToolTipWidget</name>
     <message>
-        <source>Infotip</source>
+        <source>KToolTipWidget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KToolTipWidget</source>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -489,11 +616,11 @@
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(无)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>字下加线</translation>
     </message>
 </context>
 <context>
@@ -547,6 +674,18 @@ auto=自动
 [Multiple]
 multiple=倍
 </translation>
+    </message>
+</context>
+<context>
+    <name>KWPSCloudSetup</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -667,41 +806,12 @@ multiple=倍
         <translation>大写: 开</translation>
     </message>
     <message>
-        <source>Clear All</source>
-        <translation>清除全部</translation>
-    </message>
-    <message>
-        <source>Clear Record from List</source>
-        <translation>从列表中删除</translation>
-    </message>
-    <message>
-        <source>Clear record from list</source>
-        <translation type="obsolete">从列表中删除</translation>
-    </message>
-    <message>
-        <source>Delete from List</source>
-        <translation>从列表中移除</translation>
-    </message>
-    <message>
-        <source>Delete from the Listing</source>
-        <translation type="obsolete">从列表中移除</translation>
-    </message>
-    <message>
         <source>Do not show this message again</source>
-        <translation type="obsolete">以后不再提醒</translation>
-    </message>
-    <message>
-        <source>Do not show this message again.</source>
         <translation type="obsolete">以后不再提醒</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again, 
 Always take this action</source>
-        <translation type="obsolete">以后不再提醒，总是执行此操作</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show this message again. 
-Always take this action.</source>
         <translation type="obsolete">以后不再提醒，总是执行此操作</translation>
     </message>
     <message>
@@ -721,14 +831,6 @@ Always take this action.</source>
         <translation>数字: 开</translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation>打开</translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation>打开文件所在文件夹</translation>
-    </message>
-    <message>
         <source>OverWrite</source>
         <translation type="obsolete">改写</translation>
     </message>
@@ -737,8 +839,45 @@ Always take this action.</source>
         <translation>改写</translation>
     </message>
     <message>
+        <source>Delete from List</source>
+        <translation>从列表中移除</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="obsolete">清除全部</translation>
+    </message>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="obsolete">从列表中删除</translation>
+    </message>
+    <message>
+        <source>Clear record from list</source>
+        <translation type="obsolete">从列表中删除</translation>
+    </message>
+    <message>
+        <source>Delete from the Listing</source>
+        <translation type="obsolete">从列表中移除</translation>
+    </message>
+    <message>
+        <source>Do not show this message again.</source>
+        <translation type="obsolete">以后不再提醒</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again. 
+Always take this action.</source>
+        <translation type="obsolete">以后不再提醒，总是执行此操作</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="obsolete">打开</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="obsolete">打开文件所在文件夹</translation>
+    </message>
+    <message>
         <source>Recent Documents: </source>
-        <translation>最近使用的文档: </translation>
+        <translation type="obsolete">最近使用的文档: </translation>
     </message>
 </context>
 </TS>

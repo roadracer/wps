@@ -241,6 +241,35 @@
     </message>
 </context>
 <context>
+    <name>KDocTabbarStickerCommand</name>
+    <message>
+        <source>Lock tabbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnLock tabbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageCloseButton</name>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageFixedButton</name>
+    <message>
+        <source>unfixed from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fixed to list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
@@ -295,6 +324,34 @@
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMemberUser</name>
+    <message>
+        <source>Bronze</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plate with silver</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Platina</source>
+        <comment>Member user type</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -368,6 +425,43 @@
         <source>Clear Unpinned Files</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Recent Documents: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSystemMenuCommand</name>
@@ -425,6 +519,18 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWPSCloudSetup</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -514,10 +620,6 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>NumLock</source>
         <translation type="unfinished"></translation>
     </message>
@@ -530,23 +632,7 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Overtype</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Record from List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

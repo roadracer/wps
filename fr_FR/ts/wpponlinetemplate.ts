@@ -6,7 +6,7 @@
     <name>KLiveService</name>
     <message>
         <source>Please install Klive manually.</source>
-        <translation>Installez Klive manuellement.</translation>
+        <translation>Installer Klive manuellement.</translation>
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
@@ -17,14 +17,14 @@
     <name>KWppOnlineTemplate</name>
     <message>
         <source>Blank Design</source>
-        <translation>Design vierge</translation>
+        <translation>Modèle vierge</translation>
     </message>
 </context>
 <context>
     <name>KxTpOnlineTemplateWidget</name>
     <message>
         <source>Using Template</source>
-        <translation>Utilisation d&apos;un modèle</translation>
+        <translation>Modèle en usage</translation>
     </message>
     <message>
         <source>Online Templates</source>

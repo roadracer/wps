@@ -942,11 +942,43 @@ condition is true:</source>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation>Plik już istnieje w liście.</translation>
+        <translation type="obsolete">Plik już istnieje w liście.</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation>nie jest prawidłowym Dodatkiem.</translation>
+        <translation type="obsolete">nie jest prawidłowym Dodatkiem.</translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1249,10 +1281,6 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1262,6 +1290,10 @@ condition is true:</source>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1345,15 +1377,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numer strony</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Liczba stron</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa arkusza</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
@@ -1973,6 +2005,26 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Refer to:</source>
         <translation>&amp;Odnieś do:</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2652,7 +2704,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Góra:</translation>
     </message>
     <message>
         <source>ucCropTop</source>
@@ -2812,11 +2864,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cały &amp;wiersz</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cała &amp;kolumna</translation>
     </message>
     <message>
         <source>Rows:</source>
@@ -3484,7 +3536,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error Checking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdzanie błędów</translation>
     </message>
     <message>
         <source>Enable &amp;background error checking</source>
@@ -3619,10 +3671,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enable &amp;timing backup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3732,6 +3780,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4089,7 +4141,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zaawansowane...</translation>
     </message>
     <message>
         <source>buttonGroup</source>
@@ -4136,7 +4188,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nazwa:</translation>
     </message>
     <message>
         <source>&amp;Grand totals for columns</source>
@@ -4394,7 +4446,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortuj</translation>
     </message>
     <message>
         <source>Use AutoFilter</source>
@@ -4450,6 +4502,61 @@ prior to sharing the workbook.</source>
     <message>
         <source>Form</source>
         <translation type="unfinished">Forma</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicates</name>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select one or more columns that contain duplicates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;My data has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d duplicates are found;
+Only %d unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicatesWarning</name>
+    <message>
+        <source>Remove Duplicates Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What do you want to do?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Expand the selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue with the current selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4704,7 +4811,7 @@ This also allows workbook merging.</source>
     <name>KxDlgSort</name>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortuj</translation>
     </message>
     <message>
         <source>Sort by</source>
@@ -4775,7 +4882,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientacja</translation>
     </message>
     <message>
         <source>Sort &amp;top to bottom</source>
@@ -4909,7 +5016,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Modyfikuj...</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -4967,11 +5074,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maks.</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Min.</translation>
     </message>
     <message>
         <source>Product</source>
@@ -4999,7 +5106,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortuj</translation>
     </message>
     <message>
         <source>Replace &amp;current subtotals</source>
@@ -5066,7 +5173,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zaawansowane...</translation>
     </message>
     <message>
         <source>Preview of selected data:</source>
@@ -5306,7 +5413,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Hasło:</translation>
     </message>
 </context>
 <context>
@@ -5739,6 +5846,33 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
 </context>
 <context>
+    <name>KxEtDialogSheetDlg</name>
+    <message>
+        <source>Integer is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required
+To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.
+To get assistance in entering a function, click Function Wizard
+If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only.
+To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
@@ -5765,7 +5899,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podpowiedź</translation>
     </message>
 </context>
 <context>
@@ -6096,10 +6230,6 @@ If this is correct, choose Next, or choose the data type that best describes you
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The specified path does not exist, enter a valid one please.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6109,6 +6239,10 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6128,7 +6262,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -6332,7 +6466,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxFontDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
@@ -6387,7 +6521,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
@@ -6461,7 +6595,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
@@ -6565,7 +6699,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Set Cell</source>
@@ -6698,7 +6832,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Enter the name or the description of the function you want to look up.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wpisz nazwę lub opis funkcji, której szukasz.</translation>
     </message>
     <message>
         <source>Undefined.</source>
@@ -6915,7 +7049,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. This file already exists.</source>
@@ -6967,7 +7101,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Cannot find directory %1.</source>
@@ -6980,6 +7114,14 @@ on iteration #%2.</source>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Opcje</translation>
     </message>
 </context>
 <context>
@@ -7050,11 +7192,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Numer strony</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Liczba stron</translation>
     </message>
     <message>
         <source>The measurement must be between 7.2 pt and 1584 pt.</source>
@@ -7268,11 +7410,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maks.</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Min.</translation>
     </message>
     <message>
         <source>Product</source>
@@ -7426,6 +7568,30 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxRemoveDuplicatesDlg</name>
+    <message>
+        <source>( Select All )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(%1) %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>Highlight Duplicate</source>
@@ -7488,10 +7654,33 @@ system will remind checking the correctness of the contents.
     </message>
 </context>
 <context>
+    <name>KxSelectTableFromDbDlg</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nazwa</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxSeriesDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
 </context>
 <context>
@@ -7518,7 +7707,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Column width must be between 0 %1 and %2 %1.</source>
@@ -7553,7 +7742,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Row height must be between 0 %1 and %2 %1.</source>
@@ -7647,7 +7836,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>Variable Cells must be on the active sheet.</source>
@@ -7988,10 +8177,6 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Parameter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Empty value for parameter.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8034,7 +8219,7 @@ You may still need to manually update any references to this name used in VBA co
     <name>KxWidgetAlign</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientacja</translation>
     </message>
     <message>
         <source>T
@@ -8506,7 +8691,7 @@ t</source>
     <name>KxZoomViewDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
@@ -8630,7 +8815,7 @@ t</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientacja</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -9441,10 +9626,17 @@ t</source>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyjaśnienie</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SelectTableFromDbUI</name>
+    <message>
+        <source>Select Table</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9804,7 +9996,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Odniesienie:</translation>
     </message>
     <message>
         <source>E&amp;valuation:</source>
@@ -9874,14 +10066,14 @@ t</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podpowiedź</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Wyeksportuj do Adobe PDF</translation>
+        <translation type="obsolete">Wyeksportuj do Adobe PDF</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9991,12 +10183,16 @@ t</source>
         <source>Low-quality printing</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation type="unfinished">Wyeksportuj do Adobe PDF</translation>
+        <translation type="obsolete">Wyeksportuj do Adobe PDF</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
@@ -10008,6 +10204,10 @@ t</source>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10198,7 +10398,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Góra:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>

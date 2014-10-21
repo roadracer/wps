@@ -6,11 +6,11 @@
     <name>KLiveService</name>
     <message>
         <source>Please install Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>手動でKDriveをインストールしてください。</translation>
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>手動でKDriveにログインしてください。</translation>
     </message>
 </context>
 <context>
@@ -31,10 +31,6 @@
         <translation type="obsolete">お気に入り</translation>
     </message>
     <message>
-        <source>My Favorite</source>
-        <translation>お気に入り</translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation>オンラインテンプレート</translation>
     </message>
@@ -42,20 +38,24 @@
         <source>Using Template</source>
         <translation>テンプレートの使用</translation>
     </message>
+    <message>
+        <source>My Favorite</source>
+        <translation>お気に入り</translation>
+    </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\Kingsoft Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\Kingsoft Office\Office Space\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</translation>
     </message>
 </context>
 </TS>

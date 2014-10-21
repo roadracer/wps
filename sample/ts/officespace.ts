@@ -61,6 +61,10 @@
         <source>This file does not belong to the current user. Please change the account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Check failed because the account was logged off. Please login again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
@@ -742,6 +746,41 @@ Are you sure to change?</source>
     </message>
 </context>
 <context>
+    <name>KLoginButtonTipWidget</name>
+    <message>
+        <source>UC_Feature1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login gifts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UC_Feature_More</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KOpenCloudLinkOKTip</name>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -842,6 +881,37 @@ path:%3</source>
         <source>Remove all non-starred records</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from the Listing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingFilePageFixedButton</name>
+    <message>
+        <source>Remove star</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add star</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFloatingWidget</name>
@@ -882,6 +952,26 @@ path:%3</source>
     </message>
     <message>
         <source>Disable File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from the Listing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1018,6 +1108,41 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KUpgradeHintDlg</name>
+    <message>
+        <source>Upgrade Hint</source>
+        <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; contains macros.</source>
+        <extracomment>open a document contains macros</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want to use marcos, please upgrade to professional or commercial version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Learn Professional</source>
+        <extracomment>click upgrade to professional version</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Learn Commercial</source>
+        <extracomment>click to upgrade to commercial version</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 contains macro.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you would like to open contains macros.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KUserCenterCommand</name>
     <message>
         <source>You have logged in WPS Office</source>
@@ -1051,6 +1176,13 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KxDaysRemainWidget</name>
+    <message>
+        <source>Days Remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgCheckUpload</name>
     <message>
         <source>Submit for review</source>
@@ -1066,6 +1198,21 @@ path:%3</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgExpirationReminder</name>
+    <message>
+        <source>WPS Office Expiration Reminder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free version limit feature list</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1104,6 +1251,68 @@ path:%3</source>
     </message>
     <message>
         <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgVbaInstallation</name>
+    <message>
+        <source>Pro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need to support VBA macros run environment. If you need to run these macros, please download and install VBA.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExpirationReminderDlg</name>
+    <message>
+        <source>30-day trial period has ended. WPS Office will be converted into free versions. At this point, some features not normally available, if you need to use these features, please purchase the WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Writer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check the spelling of English words in the current document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mail Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domain Protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Region/Format Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spreadsheets:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1340,9 +1549,124 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KxQingBuyTooltip</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have trail %1 days, can trail %2 days more. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want to buy WPS Office, click here get more informations.
+You have to login before buy WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have trail %1 days, you can trail %2 days more.
+After trail period, Part of features will be disabled.
+In order not to affect your work, buy WPS Office please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy it now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to open store page for more informations.
+You have to login before buy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingRestrictDlg</name>
+    <message>
+        <source>WPS Office Disable Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The free version can not use this feature, to provoke you are paying customers can use any of the following ways:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login or register our service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activion Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active product.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingWelcomeDlg</name>
+    <message>
+        <source>Welcome to WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can trail our product %1 days.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login or register our service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activion Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active product.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpCloudLinkWidget</name>
     <message>
         <source>Transmitting share link failed. Please check the network or operation authorization.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaBuyDlg</name>
+    <message>
+        <source>Pro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need to support VBA macros run environment.You are currently not included in the package purchase VBA, document macros will not work properly. If you need to run these macros, please purchase separately.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaInstallationDlg</name>
+    <message>
+        <source>Macro</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1378,26 +1702,6 @@ path:%3</source>
     </message>
     <message>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete From The Listing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete from List</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -5,32 +5,8 @@
 <context>
     <name>AdvQueryDlgUi</name>
     <message>
-        <source>&amp;Add to the list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Delete from the list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advanced Query</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>篩選</translation>
-    </message>
-    <message>
-        <source>Infotip</source>
-        <translation type="unfinished">文字標籤</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -41,8 +17,32 @@
         <translation type="obsolete">文字標籤</translation>
     </message>
     <message>
+        <source>Advanced Query</source>
+        <translation>進階查詢</translation>
+    </message>
+    <message>
+        <source>&amp;Add to the list</source>
+        <translation>加到清單(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete from the list</source>
+        <translation>從清單刪除(&amp;D)</translation>
+    </message>
+    <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>類型：</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>Add to the list(&amp;R)</source>
+        <translation>加到清單(&amp;R)</translation>
+    </message>
+    <message>
+        <source>D&amp;elete from the list</source>
+        <translation>從清單刪除(&amp;E)</translation>
     </message>
     <message>
         <source>Add to the list (&amp;A)</source>
@@ -80,10 +80,6 @@
         <translation>另存新檔(&amp;S)</translation>
     </message>
     <message>
-        <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -92,12 +88,16 @@
         <translation>按 [放棄] 按鈕，放棄您所做的變更，並且編輯最新的版本。</translation>
     </message>
     <message>
-        <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have made changes to &quot;%s&quot;.</source>
         <translation>您已經變更了&quot;%s&quot;。</translation>
+    </message>
+    <message>
+        <source>Another user has also made changes. What would you like to do?</source>
+        <translation>其他的使用者也有做過變更，您要這樣做嗎 ?</translation>
+    </message>
+    <message>
+        <source>Click Save as to save your changes to a different file and open the latest version.</source>
+        <translation>按 [另存新檔] 按鈕，將您所做的變更儲存到不同的檔案，然後開啟最新的版本。</translation>
     </message>
     <message>
         <source>Another user has also made changes.What would you like to do?</source>
@@ -112,7 +112,7 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -137,20 +137,8 @@
 <context>
     <name>ConnectPageUi</name>
     <message>
-        <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Explanation</source>
         <translation>解釋</translation>
-    </message>
-    <message>
-        <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select data source</source>
@@ -167,6 +155,18 @@
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
         <translation>可以選擇三種連線資料來源中的一種來進行和資料來源的連線。</translation>
+    </message>
+    <message>
+        <source>&amp;Open data file directly</source>
+        <translation>直接開啟資料檔案(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Select Data Source...</source>
+        <translation>選擇資料來源(&amp;S)...</translation>
+    </message>
+    <message>
+        <source>Input &amp;connection string manually</source>
+        <translation>手工輸入連線語句(&amp;C)</translation>
     </message>
     <message>
         <source>Input connection string manually(&amp;C)</source>
@@ -239,19 +239,19 @@
         <translation>停止(&amp;S)</translation>
     </message>
     <message>
-        <source>Infotip</source>
-        <translation type="unfinished">文字標籤</translation>
-    </message>
-    <message>
         <source>Show Trial Solution</source>
         <translation>顯示試驗值結果</translation>
     </message>
     <message>
-        <source>Text Label</source>
+        <source>TextLabel</source>
         <translation type="obsolete">文字標籤</translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Infotip</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>Text Label</source>
         <translation type="obsolete">文字標籤</translation>
     </message>
 </context>
@@ -270,20 +270,20 @@
         <translation>您是否仍要開啟檔案?</translation>
     </message>
     <message>
-        <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation>開啟新檔會取消當前檔案編輯儲存格的內容:</translation>
-    </message>
-    <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
         <translation type="obsolete">開啟新檔會取消當前檔案編輯儲存格的內容:</translation>
     </message>
     <message>
-        <source>Infotip</source>
-        <translation>文字標籤</translation>
-    </message>
-    <message>
         <source>Text Label</source>
         <translation type="obsolete">文字標籤</translation>
+    </message>
+    <message>
+        <source>If you open a new file, your edits in current file will be eliminated:</source>
+        <translation>開啟新檔會取消當前檔案編輯儲存格的內容:</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>文字標籤</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -301,12 +301,12 @@
         <translation>取消</translation>
     </message>
     <message>
-        <source>Click Read-Write to open it for editing.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Read-&amp;Write</source>
         <translation>讀寫(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Click Read-Write to open it for editing.</source>
+        <translation>選擇 [讀寫] 開啟它，以便編輯。</translation>
     </message>
     <message>
         <source>Choose Read-Write to open it for editing.</source>
@@ -316,20 +316,12 @@
 <context>
     <name>FilterPageUi</name>
     <message>
-        <source>&amp;Advanced Query...</source>
-        <translation>進階查詢(&amp;A)...</translation>
-    </message>
-    <message>
         <source>By</source>
         <translation>按</translation>
     </message>
     <message>
         <source>Explanation</source>
         <translation>解釋</translation>
-    </message>
-    <message>
-        <source>Field type:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter</source>
@@ -340,16 +332,24 @@
         <translation>以</translation>
     </message>
     <message>
-        <source>Input query &amp;statement directly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sort</source>
         <translation>排序</translation>
     </message>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>第三步：資料篩選與排序</translation>
+    </message>
+    <message>
+        <source>Field type:</source>
+        <translation>欄位類型：</translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Query...</source>
+        <translation>進階查詢(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>Input query &amp;statement directly</source>
+        <translation>直接輸入查詢語句(&amp;S)</translation>
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
@@ -380,28 +380,19 @@
     <name>GrpboxCondition</name>
     <message>
         <source>Cell value is</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存格值</translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation type="unfinished"></translation>
+        <translation>公式</translation>
     </message>
     <message>
         <source>Grpbox Condition</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <source>Infotip</source>
-        <translation type="unfinished">文字標籤</translation>
-    </message>
-    <message>
-        <source>Preview of format to use when
-condition is true:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Conditional formatting contains number format, and the settings would be lost opened by the earlier version of Excel or WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <source>TextLabel</source>
+        <translation type="obsolete">資訊提示</translation>
     </message>
     <message>
         <source>and</source>
@@ -440,6 +431,19 @@ condition is true:</source>
         <translation>不等於</translation>
     </message>
     <message>
+        <source>Preview of format to use when
+condition is true:</source>
+        <translation>當以上條件為真時，設定儲存格格式為:</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>The Conditional formatting contains number format, and the settings would be lost opened by the earlier version of Excel or WPS Spreadsheets.</source>
+        <translation>設定格式化的條件中包含了數字格式，用舊版的 WPS Spreadsheets或 Excel開啟可能會丟失這些設定。</translation>
+    </message>
+    <message>
         <source>Cell Value IS</source>
         <translation type="obsolete">儲存格值</translation>
     </message>
@@ -451,10 +455,6 @@ condition is true:</source>
         <source>Preview of format to use when
 condition is true: </source>
         <translation type="obsolete">當以上條件為真時，設定儲存格格式為:</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="obsolete">資訊提示</translation>
     </message>
     <message>
         <source>The Conditional formatting contains number format, and the settings would be lost opened by the earlier version of Excel or Kingsoft Spreadsheets.</source>
@@ -472,7 +472,7 @@ condition is true: </source>
     <name>InsertFunctionLineEdit</name>
     <message id="0">
         <source>Enter the name or the description of the function you want to look up.</source>
-        <translation type="unfinished"></translation>
+        <translation>請輸入您要查找的函數名稱或函數功能的簡短描述。</translation>
     </message>
     <message>
         <source>Enter a name or description of the function you want to look for.</source>
@@ -509,7 +509,7 @@ condition is true: </source>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>起點樣式(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
@@ -519,7 +519,7 @@ condition is true: </source>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>終點樣式(&amp;E):</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -529,17 +529,17 @@ condition is true: </source>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>起點大小(&amp;I):</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>設定為新圖案的預設值(&amp;F)</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>終點大小(&amp;Z):</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -549,7 +549,7 @@ condition is true: </source>
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>大小</translation>
     </message>
     <message>
         <source>&amp;Begin Style:</source>
@@ -609,7 +609,7 @@ condition is true: </source>
     <name>KSelectSheetPage</name>
     <message>
         <source>&amp;Activate:</source>
-        <translation type="unfinished">使用中文件(&amp;A):</translation>
+        <translation>使用中文件(&amp;A):</translation>
     </message>
 </context>
 <context>
@@ -620,7 +620,7 @@ condition is true: </source>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(全選)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
@@ -671,7 +671,7 @@ condition is true: </source>
     </message>
     <message>
         <source>(Showing all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(全部顯示)</translation>
     </message>
     <message>
         <source>Above Average</source>
@@ -690,16 +690,8 @@ condition is true: </source>
         <translation>遞增</translation>
     </message>
     <message>
-        <source>Ascending(S)</source>
-        <translation type="unfinished">遞增排序</translation>
-    </message>
-    <message>
         <source>Before</source>
         <translation>之前</translation>
-    </message>
-    <message>
-        <source>Begin With</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
@@ -750,28 +742,8 @@ condition is true: </source>
         <translation>包含「%1」</translation>
     </message>
     <message>
-        <source>Custom Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date Filter(F)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Descending</source>
         <translation>遞減</translation>
-    </message>
-    <message>
-        <source>Descending(O)</source>
-        <translation type="unfinished">遞減排序</translation>
-    </message>
-    <message>
-        <source>Does Not Contain</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Does not begin with &quot;%1&quot;</source>
@@ -786,10 +758,6 @@ condition is true: </source>
         <translation>結尾不是「%1」</translation>
     </message>
     <message>
-        <source>End With</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ends with &quot;%1&quot;</source>
         <translation>結尾以「%1」</translation>
     </message>
@@ -800,22 +768,6 @@ condition is true: </source>
     <message>
         <source>Equals &quot;%1&quot;</source>
         <translation>等於「%1」</translation>
-    </message>
-    <message>
-        <source>Fill by Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Filter by Value</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Greater Than</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Greater Than Or Equal To</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Greater than &quot;%1&quot;</source>
@@ -850,14 +802,6 @@ condition is true: </source>
         <translation>去年</translation>
     </message>
     <message>
-        <source>Less Than</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Less Than Or Equal To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Less than &quot;%1&quot;</source>
         <translation>小於「%1」</translation>
     </message>
@@ -890,22 +834,6 @@ condition is true: </source>
         <translation>沒有符合搜尋的項目</translation>
     </message>
     <message>
-        <source>Not Equal To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number Filter(F)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation>確定</translation>
     </message>
@@ -924,14 +852,6 @@ condition is true: </source>
     <message>
         <source>Sort Descending</source>
         <translation type="obsolete">從Z到A排序</translation>
-    </message>
-    <message>
-        <source>Text Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Filter(F)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This Month</source>
@@ -972,6 +892,86 @@ condition is true: </source>
     <message>
         <source>Yesterday</source>
         <translation>昨天</translation>
+    </message>
+    <message>
+        <source>Number Filter</source>
+        <translation>數字篩選</translation>
+    </message>
+    <message>
+        <source>Number Filter(F)</source>
+        <translation>數字篩選(F)</translation>
+    </message>
+    <message>
+        <source>Date Filter</source>
+        <translation>日期篩選</translation>
+    </message>
+    <message>
+        <source>Date Filter(F)</source>
+        <translation>日期篩選(F)</translation>
+    </message>
+    <message>
+        <source>Text Filter</source>
+        <translation>文字篩選</translation>
+    </message>
+    <message>
+        <source>Text Filter(F)</source>
+        <translation>文字篩選(F)</translation>
+    </message>
+    <message>
+        <source>Not Equal To</source>
+        <translation>不等於</translation>
+    </message>
+    <message>
+        <source>Greater Than</source>
+        <translation>大於</translation>
+    </message>
+    <message>
+        <source>Greater Than Or Equal To</source>
+        <translation>大於或等於</translation>
+    </message>
+    <message>
+        <source>Less Than</source>
+        <translation>小於</translation>
+    </message>
+    <message>
+        <source>Less Than Or Equal To</source>
+        <translation>小於或等於</translation>
+    </message>
+    <message>
+        <source>Begin With</source>
+        <translation>開始是</translation>
+    </message>
+    <message>
+        <source>End With</source>
+        <translation>結尾是</translation>
+    </message>
+    <message>
+        <source>Does Not Contain</source>
+        <translation>不包含</translation>
+    </message>
+    <message>
+        <source>Custom Filter</source>
+        <translation>自訂篩選</translation>
+    </message>
+    <message>
+        <source>Ascending(S)</source>
+        <translation>遞增排序</translation>
+    </message>
+    <message>
+        <source>Descending(O)</source>
+        <translation>遞減排序</translation>
+    </message>
+    <message>
+        <source>Filter by Value</source>
+        <translation>依內容篩選</translation>
+    </message>
+    <message>
+        <source>Fill by Color</source>
+        <translation>依色彩篩選</translation>
+    </message>
+    <message>
+        <source>Not equal to &quot;%1&quot;</source>
+        <translation>不等於「%1」</translation>
     </message>
     <message>
         <source>(Showing All)</source>
@@ -1057,18 +1057,6 @@ condition is true: </source>
 <context>
     <name>KxAdcancedFilterDialog</name>
     <message>
-        <source>Criteria range is not valid.</source>
-        <translation>準則範圍無效</translation>
-    </message>
-    <message>
-        <source>Data range is not valid.</source>
-        <translation>資料範圍無效</translation>
-    </message>
-    <message>
-        <source>Extract range is not valid.</source>
-        <translation>提取範圍無效</translation>
-    </message>
-    <message>
         <source>Invalid criteria range.</source>
         <translation type="obsolete">準則範圍無效。</translation>
     </message>
@@ -1085,6 +1073,14 @@ condition is true: </source>
         <translation type="obsolete">無效參照。</translation>
     </message>
     <message>
+        <source>This command cannot be used on a protected sheet.</source>
+        <translation>不能在保護的工作表上使用該命令。</translation>
+    </message>
+    <message>
+        <source>What you entered is an invalid reference or name.</source>
+        <translation type="obsolete">您輸入的文字不是一個有效的參照或是已定義的名稱。</translation>
+    </message>
+    <message>
         <source>Reference is not valid.</source>
         <translation>參考無效</translation>
     </message>
@@ -1093,24 +1089,20 @@ condition is true: </source>
         <translation>輸入的內容為無效引用或名稱</translation>
     </message>
     <message>
-        <source>This command cannot be used on a protected sheet.</source>
-        <translation>不能在保護的工作表上使用該命令。</translation>
+        <source>Data range is not valid.</source>
+        <translation>資料範圍無效</translation>
     </message>
     <message>
-        <source>What you entered is an invalid reference or name.</source>
-        <translation type="obsolete">您輸入的文字不是一個有效的參照或是已定義的名稱。</translation>
+        <source>Criteria range is not valid.</source>
+        <translation>準則範圍無效</translation>
+    </message>
+    <message>
+        <source>Extract range is not valid.</source>
+        <translation>提取範圍無效</translation>
     </message>
 </context>
 <context>
     <name>KxAddInsDlg</name>
-    <message>
-        <source>&quot;, do you want to delete it from the list?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add-Ins</source>
-        <translation type="unfinished">增益集</translation>
-    </message>
     <message>
         <source>All Files</source>
         <translation>所有檔案</translation>
@@ -1120,16 +1112,28 @@ condition is true: </source>
         <translation>瀏覽</translation>
     </message>
     <message>
+        <source>is a invalid addins macro file.</source>
+        <translation type="obsolete">不是一個正確的增益集程式。</translation>
+    </message>
+    <message>
         <source>Cannot find the Add-Ins.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到增益集</translation>
+    </message>
+    <message>
+        <source>&quot;, do you want to delete it from the list?</source>
+        <translation>， 您要將它從清單中移除嗎?</translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation>增益集</translation>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">選取的檔案已存在檔案移動清單。</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">不是一個正確的增益集程式。</translation>
     </message>
     <message>
         <source>&quot;, delete it from the list?</source>
@@ -1148,19 +1152,47 @@ condition is true: </source>
         <translation type="obsolete">選取的檔案已存在檔案移動清單。</translation>
     </message>
     <message>
-        <source>is a invalid addins macro file.</source>
-        <translation type="obsolete">不是一個正確的增益集程式。</translation>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished">不是一個正確的增益集程式。</translation>
     </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
     <message>
-        <source>Clear Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Filter this item only</source>
         <translation>僅篩選此項</translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <translation>清除篩選</translation>
     </message>
     <message>
         <source>Clear filter</source>
@@ -1193,19 +1225,19 @@ condition is true: </source>
     <name>KxAlignmentWidget</name>
     <message>
         <source>:/dialog/et_DlgFormatShape_ilOtHori_0.png</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>:/dialog/et_DlgFormatShape_ilOtVert_0.png</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>:/dialog/et_DlgFormatShape_ilOtVert_1.png</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>:/dialog/et_DlgFormatShape_ilOtVert_2.png</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1218,20 +1250,20 @@ condition is true: </source>
 <context>
     <name>KxAuthInfoDlgUi</name>
     <message>
-        <source>&amp;Password:</source>
-        <translation type="unfinished">密碼(&amp;P):</translation>
-    </message>
-    <message>
-        <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter username and password:</source>
-        <translation type="unfinished"></translation>
+        <translation>請輸入使用者和密碼：</translation>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation type="unfinished"></translation>
+        <translation>您所訪問的資料庫需要有正確的用戶和密碼才能訪問：</translation>
+    </message>
+    <message>
+        <source>&amp;Username:</source>
+        <translation>使用者(&amp;U):</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation>密碼(&amp;P):</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -1272,7 +1304,7 @@ condition is true: </source>
     <name>KxChangeFileAccessDlg</name>
     <message>
         <source>File Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案變更</translation>
     </message>
     <message>
         <source>file have benn changed.</source>
@@ -1335,10 +1367,6 @@ condition is true: </source>
         <translation> - 參照位址:</translation>
     </message>
     <message>
-        <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Average</source>
         <translation>平均值</translation>
     </message>
@@ -1353,10 +1381,6 @@ condition is true: </source>
     <message>
         <source>Count</source>
         <translation>項目個數</translation>
-    </message>
-    <message>
-        <source>Count Numbers</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Max</source>
@@ -1391,6 +1415,14 @@ condition is true: </source>
         <translation>母體變異值</translation>
     </message>
     <message>
+        <source>Count Numbers</source>
+        <translation>數字項個數</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation>所有檔案(*.*)</translation>
+    </message>
+    <message>
         <source>All files(*.*)</source>
         <translation type="obsolete">所有檔案(*.*)</translation>
     </message>
@@ -1406,28 +1438,28 @@ condition is true: </source>
         <translation>二進制</translation>
     </message>
     <message>
-        <source>Binary Constraint Cell Reference must include only Variable Cells.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cell Reference box is empty or contents are not valid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Constraint must be a number, simple reference, or formula with a numeric value.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Integer</source>
         <translation>整數</translation>
     </message>
     <message>
         <source>Integer Constraint Cell Reference must include only Variable Cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>整數限制式儲存格參照必須只包含變數儲存格。</translation>
+    </message>
+    <message>
+        <source>Binary Constraint Cell Reference must include only Variable Cells.</source>
+        <translation>二進制限制式儲存格參照必須只包含變數儲存格。</translation>
+    </message>
+    <message>
+        <source>Constraint must be a number, simple reference, or formula with a numeric value.</source>
+        <translation>限制式必須是一個數字、單一參照位址或具數值的公式。</translation>
     </message>
     <message>
         <source>Unequal number of cells in Cell Reference and Constraint.</source>
-        <translation type="unfinished"></translation>
+        <translation>[儲存格參照位址] 和 [限制式] 中儲存格數字不相等。</translation>
+    </message>
+    <message>
+        <source>Cell Reference box is empty or contents are not valid.</source>
+        <translation>儲存格參照的對照方塊是空的或是内容不合法。</translation>
     </message>
     <message>
         <source>&apos;The cell reference position&apos; and &apos;restraint&apos; in different cell numbers.</source>
@@ -1453,10 +1485,6 @@ condition is true: </source>
 <context>
     <name>KxControlWidget</name>
     <message>
-        <source>The number must be between  %1 and %2. Try again by entering a number in this range.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The scroll value maximum cannot be less than the scroll value minimum.</source>
         <translation>捲軸最大值不能小於最小值。</translation>
     </message>
@@ -1466,7 +1494,11 @@ condition is true: </source>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished">您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
+        <translation>您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
+    </message>
+    <message>
+        <source>The number must be between  %1 and %2. Try again by entering a number in this range.</source>
+        <translation>數字必須在 %1 与 %2 之間。請再次輸入上述範圍的數字。</translation>
     </message>
     <message>
         <source>Input error, the value must be a Number.</source>
@@ -1492,24 +1524,8 @@ condition is true: </source>
         <translation>找不到符合準則的資料。</translation>
     </message>
     <message>
-        <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reference is not valid.</source>
         <translation>參照無效。</translation>
-    </message>
-    <message>
-        <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation>選取的連線類型無法用來建立樞紐分析表。</translation>
-    </message>
-    <message>
-        <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -1522,8 +1538,28 @@ condition is true: </source>
 3.確認參照範圍的第一行，不存在空白儲存格、不包含錯誤值，而且每個儲存格內的字元數不超過 255 個。</translation>
     </message>
     <message>
+        <source>The selected connection type can not be used to create a PivotTable.</source>
+        <translation type="obsolete">所選的連接類型不能用於創建數據透視表.</translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
+        <translation>不能在新工作表上建立樞紐分析表，因為當前活頁簿已被保護。請您選擇一個已經存在的工作表或取消活頁簿保護。</translation>
+    </message>
+    <message>
+        <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
+        <translation>您要放置樞紐分析表的位置不正確。請確認該位置是一個合法的參照範圍，並且不是隱藏工作表上的範圍。</translation>
+    </message>
+    <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>您不能使用當前資料來修改已有的樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
+        <translation>您不能使用當前資料來建立樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
+    </message>
+    <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
+        <translation type="unfinished">選取的連線類型無法用來建立樞紐分析表。</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
@@ -1577,23 +1613,8 @@ condition is true: </source>
         <translation>檔案交換格式</translation>
     </message>
     <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Only one picture can be inserted in each section of the %1.
-
-To replace existing picture, press OK.
-To keep existing picture, press Cancel.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open</source>
         <translation>開啟</translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture</source>
@@ -1604,16 +1625,12 @@ To keep existing picture, press Cancel.</source>
         <translation>可攜式網路圖形</translation>
     </message>
     <message>
-        <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Tag Image File Format</source>
         <translation>圖像檔案格式</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished"></translation>
+        <translation>頁首或頁尾的長度（左、中、右的總和）不能大於 255 個字元。請減少使用的字元數目。</translation>
     </message>
     <message>
         <source>Time</source>
@@ -1630,6 +1647,28 @@ To keep existing picture, press Cancel.</source>
     <message>
         <source>Windows Metafile</source>
         <translation>中繼檔</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>頁碼</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation>總頁數</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation>標簽名</translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, press OK.
+To keep existing picture, press Cancel.</source>
+        <translation>在 %1 的每一個區段只能插入一張圖。
+
+若要取代現有的圖片，請按 [確定]。
+若要保留現有圖片，請按 [取消]。</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
@@ -1661,12 +1700,12 @@ To keep existing picture, click Cancel button.</source>
 <context>
     <name>KxDatabasePwdDlgUI</name>
     <message>
-        <source>&amp;Password:</source>
-        <translation type="unfinished">密碼(&amp;P):</translation>
+        <source>Database Password</source>
+        <translation>資料庫密碼</translation>
     </message>
     <message>
-        <source>Database Password</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Password:</source>
+        <translation>密碼(&amp;P):</translation>
     </message>
 </context>
 <context>
@@ -1676,20 +1715,20 @@ To keep existing picture, click Cancel button.</source>
         <translation> - 參照到:</translation>
     </message>
     <message>
-        <source>An error occurred when deleted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The name is empty.</source>
         <translation>名稱為空白。</translation>
     </message>
     <message>
-        <source>The name is invalid or the formula contains an error.</source>
-        <translation type="unfinished"></translation>
+        <source>Workbook</source>
+        <translation>活頁簿</translation>
     </message>
     <message>
-        <source>Workbook</source>
-        <translation type="unfinished">活頁簿</translation>
+        <source>The name is invalid or the formula contains an error.</source>
+        <translation>名稱包含無效字元或輸入的公式有誤。</translation>
+    </message>
+    <message>
+        <source>An error occurred when deleted.</source>
+        <translation>刪除時發生錯誤。</translation>
     </message>
     <message>
         <source>Error occurred when deleting the items!</source>
@@ -1711,10 +1750,6 @@ To keep existing picture, click Cancel button.</source>
         <translation>規劃求解暫停，工作表上顯示目前求解的值。</translation>
     </message>
     <message>
-        <source>Stop generating report will cause unexpected value on reports.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The maximum iteration limit was reached; continue anyway?</source>
         <translation>已達最高反覆計算次數，是否繼續?</translation>
     </message>
@@ -1727,12 +1762,16 @@ To keep existing picture, click Cancel button.</source>
         <translation>已達整數子問題數目上限，是否繼續?</translation>
     </message>
     <message>
-        <source>The maximum time limit was reached. Stop generating report by pressing Esc key; continue anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The maximum time limit was reached; continue anyway?</source>
         <translation>已達最長運算時間限制，是否繼續?</translation>
+    </message>
+    <message>
+        <source>Stop generating report will cause unexpected value on reports.</source>
+        <translation>停止產生報告將引起報告存在無效值。</translation>
+    </message>
+    <message>
+        <source>The maximum time limit was reached. Stop generating report by pressing Esc key; continue anyway?</source>
+        <translation>已達最大極限報告時間限制。在報告產生期間可以按 Esc 鍵停止。繼續使用這個操作？</translation>
     </message>
     <message>
         <source>Stop creating report will cause unexpected value on reports.</source>
@@ -1778,14 +1817,6 @@ To keep existing picture, click Cancel button.</source>
         <translation>複製到(&amp;T):</translation>
     </message>
     <message>
-        <source>Extending range may co&amp;ver the original data</source>
-        <translation>擴展結果範圍，可能覆蓋原有資料(&amp;V)</translation>
-    </message>
-    <message>
-        <source>Extending range may cover the original data</source>
-        <translation type="obsolete">擴展結果範圍，可能覆蓋原有資料(&amp;V)</translation>
-    </message>
-    <message>
         <source>Extends range, may co&amp;vers the original data</source>
         <translation type="obsolete">擴大結果範圍，可能覆蓋原有資料(&amp;V)</translation>
     </message>
@@ -1796,6 +1827,14 @@ To keep existing picture, click Cancel button.</source>
     <message>
         <source>Unique &amp;records only</source>
         <translation>不選重複的記錄(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Extending range may co&amp;ver the original data</source>
+        <translation>擴展結果範圍，可能覆蓋原有資料(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Extending range may cover the original data</source>
+        <translation type="obsolete">擴展結果範圍，可能覆蓋原有資料(&amp;V)</translation>
     </message>
 </context>
 <context>
@@ -1848,16 +1887,16 @@ To keep existing picture, click Cancel button.</source>
         <translation>保護工作表(&amp;O)...</translation>
     </message>
     <message>
-        <source>Refer to cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Specify who may edit the range without a password:</source>
         <translation>指定不需密碼而可在範圍內編輯儲存格的使用者</translation>
     </message>
     <message>
         <source>Title</source>
         <translation>標題</translation>
+    </message>
+    <message>
+        <source>Refer to cells</source>
+        <translation>參照儲存格</translation>
     </message>
     <message>
         <source>Refers to cells</source>
@@ -1888,10 +1927,6 @@ To keep existing picture, click Cancel button.</source>
     <message>
         <source>&amp;All</source>
         <translation>全部(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Comment</source>
-        <translation type="unfinished">註解(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Formulas</source>
@@ -1962,8 +1997,12 @@ To keep existing picture, click Cancel button.</source>
         <translation>值與數字格式(&amp;U)</translation>
     </message>
     <message>
+        <source>&amp;Comment</source>
+        <translation>註解(&amp;C)</translation>
+    </message>
+    <message>
         <source>Validatio&amp;n</source>
-        <translation type="unfinished"></translation>
+        <translation>驗證(&amp;N)</translation>
     </message>
     <message>
         <source>Comm&amp;ent</source>
@@ -2015,16 +2054,16 @@ To keep existing picture, click Cancel button.</source>
 <context>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
-        <source>&amp;Reenter password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place. (Remember that passwords are case-sensitive.)</source>
         <translation>請注意:如果您遺失或忘記密碼，這個檔案將無法復原。建議您將活頁簿及工作表的名稱及其對應的密碼清單保存在一個安全的地方。（請記得密碼有區分大小寫。）</translation>
     </message>
     <message>
         <source>Repeat Password</source>
-        <translation type="unfinished"></translation>
+        <translation>確認密碼</translation>
+    </message>
+    <message>
+        <source>&amp;Reenter password:</source>
+        <translation>請再輸入一次密碼(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
@@ -2038,16 +2077,18 @@ To keep existing picture, click Cancel button.</source>
 <context>
     <name>KxDlgConfirmProtectSheet</name>
     <message>
+        <source>Confirm Password</source>
+        <translation>確認密碼</translation>
+    </message>
+    <message>
         <source>&amp;Reenter password:</source>
-        <translation type="unfinished"></translation>
+        <translation>請再輸入一次密碼(&amp;R):</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place.(Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirm Password</source>
-        <translation>確認密碼</translation>
+        <translation>請注意:如果您遺失或忘記密碼，這個檔案將無法復原。建議
+您將活頁簿及工作表的名稱及其對應的密碼清單保存在一個安全
+的地方。（請記得密碼有區分大小寫）。</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
@@ -2103,7 +2144,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>Use labels in</source>
-        <translation type="unfinished"></translation>
+        <translation>標籤名稱來自</translation>
     </message>
     <message>
         <source>asd</source>
@@ -2127,7 +2168,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>lbx All References</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Use Labels in</source>
@@ -2179,14 +2220,6 @@ place.(Remember that passwords are case-sensitive.)</source>
 <context>
     <name>KxDlgCreatePivotTable</name>
     <message>
-        <source>&amp;Existing worksheet:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;New worksheet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Select a range:</source>
         <translation>選取儲存格範圍(&amp;S):</translation>
     </message>
@@ -2199,20 +2232,28 @@ place.(Remember that passwords are case-sensitive.)</source>
         <translation>取得資料(&amp;C)...</translation>
     </message>
     <message>
-        <source>Choose the data that you want to analyze</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose where you want the pivotTable to be placed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>建立樞紐分析表</translation>
+    </message>
+    <message>
+        <source>Choose the data that you want to analyze</source>
+        <translation>選擇您要分析的資料</translation>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用另一个数据透视表(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Choose where you want the pivotTable to be placed</source>
+        <translation>請選取放置樞紐分析表的位置</translation>
+    </message>
+    <message>
+        <source>&amp;New worksheet</source>
+        <translation>新工作表(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Existing worksheet:</source>
+        <translation>現有工作表(&amp;E):</translation>
     </message>
     <message>
         <source>&amp;Existing Worksheet:</source>
@@ -2274,28 +2315,12 @@ place.(Remember that passwords are case-sensitive.)</source>
         <translation>插入圖片</translation>
     </message>
     <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reset Picture</source>
         <translation>設定圖片格式</translation>
     </message>
     <message>
-        <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Time</source>
         <translation>時間</translation>
-    </message>
-    <message>
-        <source>To format text: select the text, then click the font button.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
@@ -2306,11 +2331,28 @@ box, then choose the appropriate button.</source>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation type="unfinished"></translation>
+        <translation>    若要插入圖片:請按 [插入圖片] 按鈕。若要設定圖片格式:請放置
+游標於編輯方塊內並按 [設定圖片格式] 按鈕。</translation>
     </message>
     <message>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To format text: select the text, then click the font button.</source>
+        <translation>    若要設定文本格式，請先選取文字，再選擇 [字體] 按鈕。</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>頁碼</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation>總頁數</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation>工作表名</translation>
     </message>
     <message>
         <source>Page</source>
@@ -2346,10 +2388,6 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>刪除(&amp;D)</translation>
     </message>
     <message>
-        <source>&amp;Refer to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>取消</translation>
     </message>
@@ -2366,8 +2404,32 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>確定</translation>
     </message>
     <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Refer to:</source>
+        <translation>參照到(&amp;R):</translation>
+    </message>
+    <message>
         <source>&amp;Refers to:</source>
         <translation type="obsolete">參照到(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2409,11 +2471,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Delete Conditional Format</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除條件格式</translation>
     </message>
     <message>
         <source>Select the conditions to delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>選取您要刪除的條件:</translation>
     </message>
     <message>
         <source>Delete Conditional  Format</source>
@@ -2427,16 +2489,8 @@ cursor in the edit box and press the Format Picture button.</source>
 <context>
     <name>KxDlgEDRProperties</name>
     <message>
-        <source>&amp;Adjust column width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation>名稱(&amp;N):</translation>
-    </message>
-    <message>
-        <source>&amp;Overwrite existing cells with new data, clear unused cells</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data formatting and layout</source>
@@ -2447,20 +2501,28 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>外部資料範圍屬性</translation>
     </message>
     <message>
-        <source>If the number of rows in the data range changes upon refresh:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert &amp;cells for new data, delete unused cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert entire ro&amp;ws for new data, clear unused cells</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Adjust column width</source>
+        <translation>調整欄寬(&amp;A)</translation>
     </message>
     <message>
         <source>Pre&amp;serve formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>自動套用格式(&amp;S)</translation>
+    </message>
+    <message>
+        <source>If the number of rows in the data range changes upon refresh:</source>
+        <translation>如果資料範圍中的列數在重新整理時改變: </translation>
+    </message>
+    <message>
+        <source>Insert &amp;cells for new data, delete unused cells</source>
+        <translation>插入新資料並刪除未使用的儲存格(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Insert entire ro&amp;ws for new data, clear unused cells</source>
+        <translation>插入新資料，但不刪除未使用的列(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Overwrite existing cells with new data, clear unused cells</source>
+        <translation>依需要覆寫現有儲存格內容(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Adjust Column Width</source>
@@ -2494,14 +2556,6 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>連線(&amp;C):</translation>
     </message>
     <message>
-        <source>Command &amp;type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Command t&amp;ext:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Default</source>
         <translation>預設</translation>
     </message>
@@ -2518,6 +2572,14 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>表格</translation>
     </message>
     <message>
+        <source>Command &amp;type:</source>
+        <translation>命令類型(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Command t&amp;ext:</source>
+        <translation>命令文字(&amp;E):</translation>
+    </message>
+    <message>
         <source>Command &amp;Type:</source>
         <translation type="obsolete">命令類型(&amp;T):</translation>
     </message>
@@ -2530,51 +2592,51 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgErrorCheck</name>
     <message>
         <source>&amp;Ignore Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略錯誤(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下一個(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Option...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">選項(&amp;O)...</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上一個(&amp;P)</translation>
     </message>
     <message>
         <source>Cell ? Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit in &amp;Formula Bar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error Checking</source>
-        <translation type="unfinished">錯誤檢查</translation>
+        <translation type="unfinished">儲存格 ? 錯誤</translation>
     </message>
     <message>
         <source>ErrorType</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>FixItem1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>FixItem2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Infotip</source>
-        <translation type="unfinished">文字標籤</translation>
+        <translation></translation>
     </message>
     <message>
         <source>TextLabel</source>
         <translation type="obsolete">文字標籤</translation>
+    </message>
+    <message>
+        <source>Error Checking</source>
+        <translation>錯誤檢查</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>Edit in &amp;Formula Bar</source>
+        <translation type="unfinished">在資料編輯列中編輯(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -2595,18 +2657,6 @@ cursor in the edit box and press the Format Picture button.</source>
 <context>
     <name>KxDlgEtRecordMacro</name>
     <message>
-        <source>&amp;Description:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Macro name:</source>
-        <translation type="unfinished">巨集名稱(&amp;M):</translation>
-    </message>
-    <message>
-        <source>&amp;Store macro in:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ctrl+</source>
         <translation></translation>
     </message>
@@ -2615,8 +2665,20 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>錄製巨集</translation>
     </message>
     <message>
+        <source>&amp;Macro name:</source>
+        <translation>巨集名稱(&amp;M):</translation>
+    </message>
+    <message>
         <source>Shortcut &amp;key:</source>
-        <translation type="unfinished"></translation>
+        <translation>快速鍵(&amp;K):</translation>
+    </message>
+    <message>
+        <source>&amp;Store macro in:</source>
+        <translation>儲存在(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Description:</source>
+        <translation>描述(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Directions:</source>
@@ -2673,10 +2735,6 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>找下一個(&amp;F)</translation>
     </message>
     <message>
-        <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Logicals</source>
         <translation>邏輯值(&amp;L)</translation>
     </message>
@@ -2689,12 +2747,8 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>取代(&amp;R)</translation>
     </message>
     <message>
-        <source>&amp;Search for a function:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alt+M</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Blan&amp;ks</source>
@@ -2706,11 +2760,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>By columns</source>
-        <translation type="unfinished"></translation>
+        <translation>循欄</translation>
     </message>
     <message>
         <source>By rows</source>
-        <translation type="unfinished"></translation>
+        <translation>循列</translation>
     </message>
     <message>
         <source>C&amp;onstants</source>
@@ -2730,7 +2784,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Curre&amp;nt data area</source>
-        <translation type="unfinished"></translation>
+        <translation>目前範圍(&amp;N)</translation>
     </message>
     <message>
         <source>D&amp;ata</source>
@@ -2738,7 +2792,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Data type:</source>
-        <translation type="unfinished"></translation>
+        <translation>數據類型:</translation>
     </message>
     <message>
         <source>F&amp;ind All</source>
@@ -2757,16 +2811,12 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>尋找</translation>
     </message>
     <message>
-        <source>Find Pre&amp;vious</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fo&amp;rmulas</source>
         <translation>公式(&amp;R)</translation>
     </message>
     <message>
         <source>For&amp;mat...</source>
-        <translation type="unfinished"></translation>
+        <translation>格式(&amp;M)...</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -2778,7 +2828,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>La&amp;st cell</source>
-        <translation type="unfinished"></translation>
+        <translation>最右下角(&amp;S)</translation>
     </message>
     <message>
         <source>Match &amp;byte</source>
@@ -2799,10 +2849,6 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Name</source>
         <translation>名稱</translation>
-    </message>
-    <message>
-        <source>O&amp;bjects</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
@@ -2842,7 +2888,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Visible cells onl&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>可見儲存格(&amp;Y)</translation>
     </message>
     <message>
         <source>Wit&amp;hin:</source>
@@ -2851,6 +2897,22 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Workbook</source>
         <translation>活頁簿</translation>
+    </message>
+    <message>
+        <source>Find Pre&amp;vious</source>
+        <translation>找上一個(&amp;V)</translation>
+    </message>
+    <message>
+        <source>&amp;Search for a function:</source>
+        <translation>搜尋(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation>到(&amp;G)</translation>
+    </message>
+    <message>
+        <source>O&amp;bjects</source>
+        <translation>物件(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Go to</source>
@@ -3032,13 +3094,13 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>上標(&amp;E)</translation>
     </message>
     <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <translation>這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
+    </message>
+    <message>
         <source>This is a TrueType font. The same font will be used on both your 
 printer and your screen.</source>
         <translation type="obsolete">這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation type="unfinished">這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
     </message>
 </context>
 <context>
@@ -3071,10 +3133,6 @@ printer and your screen.</source>
         <translation>高度(&amp;H):</translation>
     </message>
     <message>
-        <source>&amp;Left:</source>
-        <translation type="unfinished">左(&amp;L):</translation>
-    </message>
-    <message>
         <source>&amp;Right:</source>
         <translation>右(&amp;R):</translation>
     </message>
@@ -3096,7 +3154,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>黑白</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
@@ -3132,7 +3190,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Image Control</source>
-        <translation type="unfinished"></translation>
+        <translation>圖像控制</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
@@ -3140,7 +3198,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Original Size</source>
-        <translation type="unfinished"></translation>
+        <translation>原始大小</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -3149,10 +3207,6 @@ printer and your screen.</source>
     <message>
         <source>Re&amp;set</source>
         <translation>重設(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Relative to original picture size</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset</source>
@@ -3168,7 +3222,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>大小與旋轉</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -3243,6 +3297,14 @@ printer and your screen.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Relative to original picture size</source>
+        <translation>相對於原始圖片大小(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Left:</source>
+        <translation>左(&amp;L):</translation>
+    </message>
+    <message>
         <source>&amp;Left</source>
         <translation type="obsolete">左(&amp;L):</translation>
     </message>
@@ -3290,31 +3352,23 @@ printer and your screen.</source>
     <name>KxDlgImportCustomList</name>
     <message>
         <source>&amp;Column</source>
-        <translation type="unfinished"></translation>
+        <translation>欄(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Row</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom lists from</source>
-        <translation type="unfinished"></translation>
+        <translation>列(&amp;R)</translation>
     </message>
     <message>
         <source>Import Custom Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入自訂清單</translation>
+    </message>
+    <message>
+        <source>Custom lists from</source>
+        <translation type="unfinished">匯入自訂清單來自</translation>
     </message>
 </context>
 <context>
     <name>KxDlgImportData</name>
-    <message>
-        <source>&amp;Destination area:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit &amp;Query...</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Import Data</source>
         <translation>匯入資料</translation>
@@ -3322,6 +3376,14 @@ printer and your screen.</source>
     <message>
         <source>P&amp;roperties...</source>
         <translation>內容(&amp;R)...</translation>
+    </message>
+    <message>
+        <source>&amp;Destination area:</source>
+        <translation>將資料放在(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Edit &amp;Query...</source>
+        <translation>編輯查詢(&amp;Q)...</translation>
     </message>
     <message>
         <source>&amp;Destination Area:</source>
@@ -3335,10 +3397,6 @@ printer and your screen.</source>
 <context>
     <name>KxDlgInsertCells</name>
     <message>
-        <source>Columns:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Entire &amp;column</source>
         <translation>整欄(&amp;C)</translation>
     </message>
@@ -3348,7 +3406,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished">插入</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>Rows:</source>
@@ -3361,6 +3419,10 @@ printer and your screen.</source>
     <message>
         <source>Shift cells r&amp;ight</source>
         <translation>現有儲存格右移(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Columns:</source>
+        <translation>欄数:</translation>
     </message>
     <message>
         <source>Cols(Y):</source>
@@ -3401,10 +3463,6 @@ printer and your screen.</source>
         <translation>到(&amp;G)</translation>
     </message>
     <message>
-        <source>&amp;Search for a function:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -3426,23 +3484,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Function Description Label</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Function Prototype Label</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Insert Function</source>
         <translation>插入函數</translation>
     </message>
     <message>
-        <source>Or select a &amp;category:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Parameter Input</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入參數</translation>
     </message>
     <message>
         <source>Select a functio&amp;n:</source>
@@ -3473,6 +3527,14 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
+        <source>&amp;Search for a function:</source>
+        <translation>搜尋函數(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Or select a &amp;category:</source>
+        <translation>或選取類別(&amp;C):</translation>
+    </message>
+    <message>
         <source>&amp;Search:</source>
         <translation type="obsolete">搜尋函數(&amp;S):</translation>
     </message>
@@ -3501,11 +3563,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert &amp;count:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>插入數目(&amp;C):</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -3514,6 +3572,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Templates</source>
         <translation>範本</translation>
+    </message>
+    <message>
+        <source>Insert Sheet</source>
+        <translation>插入工作表</translation>
     </message>
     <message>
         <source>Insert &amp;Count:</source>
@@ -3532,19 +3594,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Create a copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;To workbook:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move or Copy Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>建立複本(&amp;C)</translation>
     </message>
     <message>
         <source>Move selected sheets</source>
         <translation>將選取工作表移到</translation>
+    </message>
+    <message>
+        <source>Move or Copy Sheet</source>
+        <translation>移動或複製工作表</translation>
+    </message>
+    <message>
+        <source>&amp;To workbook:</source>
+        <translation>活頁簿(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Create a Copy</source>
@@ -3562,14 +3624,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgNameOptions</name>
     <message>
-        <source>Default book name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default sheet name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>選項</translation>
     </message>
@@ -3579,8 +3633,17 @@ p, li { white-space: pre-wrap; }
 是「工作表1」，「工作表2」...</translation>
     </message>
     <message>
+        <source>Default book name</source>
+        <translation>預設活頁簿名稱</translation>
+    </message>
+    <message>
         <source>eg:&quot;Workbook&quot;: Workbook1, Workbook2...</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入「活頁簿」，生成活頁簿的名稱是
+「活頁簿1」，「活頁簿2」...</translation>
+    </message>
+    <message>
+        <source>Default sheet name</source>
+        <translation>預設工作表名稱</translation>
     </message>
     <message>
         <source>Default Book Name</source>
@@ -3601,10 +3664,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Password...</source>
         <translation>密碼(&amp;P)...</translation>
-    </message>
-    <message>
-        <source>&amp;Refer to cells:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Title:</source>
@@ -3631,6 +3690,10 @@ p, li { white-space: pre-wrap; }
         <translation>範圍密碼(&amp;P):</translation>
     </message>
     <message>
+        <source>&amp;Refer to cells:</source>
+        <translation>參照儲存格(&amp;R):</translation>
+    </message>
+    <message>
         <source>&amp;Refers to cells:</source>
         <translation type="obsolete">參照儲存格(&amp;R):</translation>
     </message>
@@ -3638,24 +3701,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgOpenSharedWorkbook</name>
     <message>
-        <source>&amp;Read-only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Switch to WPS Spreadsheets Shared Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Datetime</source>
         <translation>時間日期</translation>
     </message>
     <message>
-        <source>Open Excel Shared Workbook</source>
-        <translation type="unfinished"></translation>
+        <source>User Name</source>
+        <translation>使用者名稱</translation>
     </message>
     <message>
-        <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <source>Open Excel Shared Workbook</source>
+        <translation>打開 Excel 共用活頁簿</translation>
+    </message>
+    <message>
+        <source>&amp;Read-only</source>
+        <translation>唯讀(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Switch to WPS Spreadsheets Shared Workbook</source>
+        <translation>轉換(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;ReadOnly</source>
@@ -3721,10 +3784,6 @@ p, li { white-space: pre-wrap; }
         <translation>格線(&amp;G)</translation>
     </message>
     <message>
-        <source>&amp;Import list from cells:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Iteration</source>
         <translation>反覆運算(&amp;I)</translation>
     </message>
@@ -3779,14 +3838,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Reset</source>
         <translation>重設(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Row and column h&amp;eadings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Set as Default</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Sheets in new workbook:</source>
@@ -3905,10 +3956,6 @@ p, li { white-space: pre-wrap; }
         <translation>進階(&amp;V)...</translation>
     </message>
     <message>
-        <source>After pressing Enter, &amp;move selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Allow cell &amp;drag and drop</source>
         <translation>儲存格拖放功能(&amp;D)</translation>
     </message>
@@ -3917,12 +3964,8 @@ p, li { white-space: pre-wrap; }
         <translation>重新計算</translation>
     </message>
     <message>
-        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cells containing &amp;years represented as 2 digits</source>
-        <translation type="unfinished"></translation>
+        <translation>包含兩位數西元年份的儲存格(&amp;Y)</translation>
     </message>
     <message>
         <source>Chart fills:</source>
@@ -3941,16 +3984,8 @@ p, li { white-space: pre-wrap; }
         <translation>色彩</translation>
     </message>
     <message>
-        <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Custom &amp;lists:</source>
         <translation>自訂清單(&amp;L):</translation>
-    </message>
-    <message>
-        <source>Custom Dictionary</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom Lists</source>
@@ -3982,19 +4017,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Display the tab bar at the bottom of doc&amp;ument</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document passw&amp;ord:</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件下方顯示標籤列(&amp;U)</translation>
     </message>
     <message>
         <source>Document switch mode</source>
         <translation>文件切換模式</translation>
-    </message>
-    <message>
-        <source>Double-click in the space to create a &amp;new document</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Down</source>
@@ -4013,16 +4040,8 @@ p, li { white-space: pre-wrap; }
         <translation>啟用背景錯誤檢查(&amp;B)</translation>
     </message>
     <message>
-        <source>Enable &amp;timing backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enable Auto&amp;Complete for cell values</source>
         <translation>輸入時提供建議列表(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Error &amp;indicator color:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error Checking</source>
@@ -4049,20 +4068,8 @@ p, li { white-space: pre-wrap; }
         <translation>固定標籤寬度(&amp;B)</translation>
     </message>
     <message>
-        <source>Form&amp;ulas referring to empty cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Formulas inco&amp;nsistent with other formulas in the region</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Formulas which &amp;omit cells in a region</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>General and Save</source>
-        <translation type="unfinished"></translation>
+        <translation>一般與儲存</translation>
     </message>
     <message>
         <source>Gridlines &amp;color:</source>
@@ -4073,20 +4080,12 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished"></translation>
+        <translation>首頁(&amp;G)</translation>
     </message>
     <message>
         <source>I&amp;mport</source>
         <translation>匯入(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
@@ -4113,10 +4112,6 @@ p, li { white-space: pre-wrap; }
         <translation>Microsoft Excel 2007/2010 活頁簿（*.xlsx）</translation>
     </message>
     <message>
-        <source>Microsoft Excel 97/2000/XP/2003 Workbook (*.xls)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
@@ -4126,11 +4121,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number stored as text(&amp;H)</source>
-        <translation type="unfinished"></translation>
+        <translation>新增檔案(&amp;U)</translation>
     </message>
     <message>
         <source>Options</source>
@@ -4138,7 +4129,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>其他選項</translation>
     </message>
     <message>
         <source>Page brea&amp;ks</source>
@@ -4149,28 +4140,12 @@ p, li { white-space: pre-wrap; }
         <translation>防寫密碼(&amp;M):</translation>
     </message>
     <message>
-        <source>Path(Double-click to open the folder)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press Ctrl+Tab to &amp;switch tabs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Privacy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>R1&amp;C1 reference style</source>
         <translation>[R1C1]欄名列號表示法(&amp;C)</translation>
     </message>
     <message>
         <source>Re&amp;turn</source>
         <translation>返回(&amp;T)</translation>
-    </message>
-    <message>
-        <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recover options</source>
@@ -4197,16 +4172,8 @@ p, li { white-space: pre-wrap; }
         <translation>儲存</translation>
     </message>
     <message>
-        <source>Save backup f&amp;ile every:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Security</source>
         <translation>安全性</translation>
-    </message>
-    <message>
-        <source>Security threats</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set decimal symbol to ,</source>
@@ -4225,18 +4192,6 @@ p, li { white-space: pre-wrap; }
         <translation>顯示</translation>
     </message>
     <message>
-        <source>Siz&amp;e:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Smart Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell Check</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>St&amp;andard font:</source>
         <translation>標準字型(&amp;A):</translation>
     </message>
@@ -4246,15 +4201,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start&amp;up task window</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動:</translation>
     </message>
     <message>
         <source>Tab display position</source>
@@ -4269,12 +4220,8 @@ p, li { white-space: pre-wrap; }
         <translation>工作列(&amp;A)</translation>
     </message>
     <message>
-        <source>The password will protect your workbook.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unloc&amp;ked cells containing formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>解除鎖定內含公式的儲存格(&amp;K)</translation>
     </message>
     <message>
         <source>Up</source>
@@ -4287,10 +4234,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>View</source>
         <translation>檢視</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Workbook (*.et)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Window options</source>
@@ -4323,6 +4266,126 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>en&amp;tries</source>
         <translation>個(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Import list from cells:</source>
+        <translation>從儲存格匯入清單(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Formulas inco&amp;nsistent with other formulas in the region</source>
+        <translation>與範圍中其他公式不一致的公式(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Formulas which &amp;omit cells in a region</source>
+        <translation>省略範圍中部分儲存格的公式(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Form&amp;ulas referring to empty cells</source>
+        <translation>參照到空白儲存格的公式(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Start&amp;up task window</source>
+        <translation>啟動工作窗格(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Row and column h&amp;eadings</source>
+        <translation>列與欄標題(&amp;E)</translation>
+    </message>
+    <message>
+        <source>After pressing Enter, &amp;move selection</source>
+        <translation>按 Enter 键後，移動選取範圍(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation>最近的文件</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup file at the first save</source>
+        <translation type="obsolete">第一次儲存時建立備份檔案(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Enable &amp;timing backup</source>
+        <translation>啟用定時備份(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Save backup f&amp;ile every:</source>
+        <translation>儲存檔案備份的時間間隔(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Smart Backup</source>
+        <translation>智能備份</translation>
+    </message>
+    <message>
+        <source>Siz&amp;e:</source>
+        <translation>大小(&amp;E):</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Workbook (*.et)</source>
+        <translation>WPS Spreadsheets 檔案(*.et)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97/2000/XP/2003 Workbook (*.xls)</source>
+        <translation>Microsoft Excel 97/2000/XP/2003 活頁簿(*.xls)</translation>
+    </message>
+    <message>
+        <source>The password will protect your workbook.</source>
+        <translation>在下面的密碼方塊中輸入的密碼會保護您的文件。</translation>
+    </message>
+    <message>
+        <source>Document passw&amp;ord:</source>
+        <translation>保護密碼(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
+        <translation>（請留意:密碼是有大小寫區分的。）</translation>
+    </message>
+    <message>
+        <source>Security threats</source>
+        <translation>安全隱患</translation>
+    </message>
+    <message>
+        <source>Error &amp;indicator color:</source>
+        <translation>使用此色彩標示錯誤(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Number stored as text(&amp;H)</source>
+        <translation>數值儲存成文字(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation>拼字</translation>
+    </message>
+    <message>
+        <source>Ignore words in &amp;uppercase</source>
+        <translation>忽略全部大寫字(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Custom Dictionary</source>
+        <translation>自訂字典</translation>
+    </message>
+    <message>
+        <source>Path(Double-click to open the folder)</source>
+        <translation>路徑（按兩下以開啟目錄）</translation>
+    </message>
+    <message>
+        <source>&amp;Set as Default</source>
+        <translation>預設字典(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation>隱私</translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation>幫助我們改進產品。</translation>
+    </message>
+    <message>
+        <source>Double-click in the space to create a &amp;new document</source>
+        <translation>按兩下標籤空白處新建文件(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation>按 Ctrl+Tab 切換標籤(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Move selection after Enter</source>
@@ -4424,6 +4487,10 @@ p, li { white-space: pre-wrap; }
         <source>siz&amp;e:</source>
         <translation type="obsolete">大小(&amp;E):</translation>
     </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation>第一次儲存時建立備份檔案(&amp;B)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -4441,7 +4508,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>單色列印(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -4545,7 +4612,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;Blank&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;空白&gt;</translation>
     </message>
     <message>
         <source>C&amp;ustom Footer...</source>
@@ -4561,7 +4628,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Displayed</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示的</translation>
     </message>
     <message>
         <source>Fi&amp;rst page number:</source>
@@ -4582,10 +4649,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>He&amp;ader:</source>
         <translation>頁首(&amp;A):</translation>
-    </message>
-    <message>
-        <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hori&amp;zontally</source>
@@ -4676,12 +4739,16 @@ p, li { white-space: pre-wrap; }
         <translation>單位:公分</translation>
     </message>
     <message>
-        <source>page(s) wide by </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>tall</source>
         <translation>頁高</translation>
+    </message>
+    <message>
+        <source>page(s) wide by </source>
+        <translation>頁寬 </translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation>頁首及頁尾</translation>
     </message>
     <message>
         <source>&amp;BlackAndWhite</source>
@@ -4774,16 +4841,8 @@ p, li { white-space: pre-wrap; }
         <translation>自訂(&amp;U)</translation>
     </message>
     <message>
-        <source>Choose the type of calculation that you want to use to summarize data from the selected field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Display</source>
         <translation>顯示</translation>
-    </message>
-    <message>
-        <source>Display options</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
@@ -4798,24 +4857,12 @@ p, li { white-space: pre-wrap; }
         <translation>名稱(&amp;M):</translation>
     </message>
     <message>
-        <source>Num&amp;ber Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PivotTable Field</source>
         <translation>樞紐分析表欄位</translation>
     </message>
     <message>
-        <source>Print option</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>S&amp;how items with no data</source>
         <translation>顯示未包含資料的項目(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Show Values As</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show items in &amp;outline form</source>
@@ -4826,10 +4873,6 @@ p, li { white-space: pre-wrap; }
         <translation>以列表方式顯示(&amp;T)</translation>
     </message>
     <message>
-        <source>Show v&amp;alues as</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Source field:</source>
         <translation>來源欄位:</translation>
     </message>
@@ -4838,16 +4881,40 @@ p, li { white-space: pre-wrap; }
         <translation>小計</translation>
     </message>
     <message>
-        <source>Summarize Values By</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>buttonGroup</source>
         <translation></translation>
     </message>
     <message>
         <source>buttonGroup_2</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Summarize Values By</source>
+        <translation>小計</translation>
+    </message>
+    <message>
+        <source>Choose the type of calculation that you want to use to summarize data from the selected field</source>
+        <translation>選取要小計的資料欄位的計算類型</translation>
+    </message>
+    <message>
+        <source>Show Values As</source>
+        <translation>顯示</translation>
+    </message>
+    <message>
+        <source>Show v&amp;alues as</source>
+        <translation>顯示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Display options</source>
+        <translation>顯示選項</translation>
+    </message>
+    <message>
+        <source>Print option</source>
+        <translation>列印選項</translation>
+    </message>
+    <message>
+        <source>Num&amp;ber Format</source>
+        <translation>數字格式(&amp;B)</translation>
     </message>
     <message>
         <source>Choose the type of calculation that you want to use to summarize</source>
@@ -4897,10 +4964,6 @@ p, li { white-space: pre-wrap; }
         <translation>開啟時更新(&amp;R)</translation>
     </message>
     <message>
-        <source>Down, then over</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>For empty c&amp;ells, show:</source>
         <translation>若為空值，顯示(&amp;C):</translation>
     </message>
@@ -4913,10 +4976,6 @@ p, li { white-space: pre-wrap; }
         <translation>列總計(&amp;T)</translation>
     </message>
     <message>
-        <source>Over, then down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page &amp;layout:</source>
         <translation>版面配置(&amp;L):</translation>
     </message>
@@ -4927,6 +4986,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Subtotal &amp;hidden page items</source>
         <translation>隱藏頁項目小計(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Down, then over</source>
+        <translation>由左至右</translation>
+    </message>
+    <message>
+        <source>Over, then down</source>
+        <translation>由上到下</translation>
     </message>
     <message>
         <source>Down, Then Over</source>
@@ -4949,7 +5016,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>整本活頁簿(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;From:</source>
@@ -4965,39 +5032,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>1 Page</source>
-        <translation type="unfinished"></translation>
+        <translation>1 版</translation>
     </message>
     <message>
         <source>16 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>16 版</translation>
     </message>
     <message>
         <source>2 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>2 版</translation>
     </message>
     <message>
         <source>32 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>32 版</translation>
     </message>
     <message>
         <source>4 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>4 版</translation>
     </message>
     <message>
         <source>6 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>6 版</translation>
     </message>
     <message>
         <source>8 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>8 版</translation>
     </message>
     <message>
         <source>9 Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Acti&amp;ve sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>9 版</translation>
     </message>
     <message>
         <source>C&amp;ollate</source>
@@ -5017,15 +5080,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Multipage output and zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>并打與縮放</translation>
     </message>
     <message>
         <source>Number of &amp;copies:</source>
         <translation>份數(&amp;C):</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pa&amp;ges</source>
@@ -5058,6 +5117,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Selectio&amp;n</source>
         <translation>選定範圍(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Acti&amp;ve sheet</source>
+        <translation>選定工作表(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation>并打順序</translation>
     </message>
     <message>
         <source>1 page</source>
@@ -5120,10 +5187,6 @@ prior to sharing the workbook.</source>
         <translation>如果您要的話，現在可以指定一個密碼以保護活頁簿。</translation>
     </message>
     <message>
-        <source>Protect and Share Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Protect workbook for</source>
         <translation>保護活頁簿</translation>
     </message>
@@ -5137,6 +5200,10 @@ change tracking from being removed.</source>
         <translation>如此可讓別人共用您的活頁簿，而且修訂記錄也不會被刪除掉。</translation>
     </message>
     <message>
+        <source>Protect and Share Workbook</source>
+        <translation>保護共用活頁簿</translation>
+    </message>
+    <message>
         <source>Protect Shared Workbook</source>
         <translation type="obsolete">保護共用活頁簿</translation>
     </message>
@@ -5144,12 +5211,12 @@ change tracking from being removed.</source>
 <context>
     <name>KxDlgProtectBook</name>
     <message>
-        <source>&amp;Password(optional):</source>
-        <translation type="unfinished">密碼(可省略)(&amp;P):</translation>
-    </message>
-    <message>
         <source>Protect Workbook</source>
         <translation>保護活頁簿</translation>
+    </message>
+    <message>
+        <source>&amp;Password(optional):</source>
+        <translation>密碼(可省略)(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Password(Optional):</source>
@@ -5161,10 +5228,6 @@ change tracking from being removed.</source>
     <message>
         <source>&amp;Allow all users of this worksheet to:</source>
         <translation>允許此工作表的所有使用者能(&amp;A):</translation>
-    </message>
-    <message>
-        <source>&amp;Password(optional):</source>
-        <translation type="unfinished">密碼(可省略)(&amp;P):</translation>
     </message>
     <message>
         <source>Delete columns</source>
@@ -5227,8 +5290,12 @@ change tracking from being removed.</source>
         <translation>使用自動篩選</translation>
     </message>
     <message>
+        <source>&amp;Password(optional):</source>
+        <translation>密碼(可省略)(&amp;P):</translation>
+    </message>
+    <message>
         <source>Use PivotTable reports</source>
-        <translation type="unfinished"></translation>
+        <translation>使用樞紐分析表</translation>
     </message>
     <message>
         <source>&amp;Password(Optional):</source>
@@ -5266,50 +5333,85 @@ change tracking from being removed.</source>
         <translation>找上一筆(&amp;P)</translation>
     </message>
     <message>
+        <source>Ne&amp;w</source>
+        <translation>新增(&amp;W)</translation>
+    </message>
+    <message>
         <source>Form</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicates</name>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished">移除重複</translation>
+    </message>
+    <message>
+        <source>Please select one or more columns that contain duplicates.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ne&amp;w</source>
-        <translation>新增(&amp;W)</translation>
+        <source>&amp;My data has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d duplicates are found;
+Only %d unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicatesWarning</name>
+    <message>
+        <source>Remove Duplicates Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What do you want to do?</source>
+        <translation type="unfinished">請問您要如何排序?</translation>
+    </message>
+    <message>
+        <source>&amp;Expand the selection</source>
+        <translation type="unfinished">擴展選定範圍(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Continue with the current selection</source>
+        <translation type="unfinished">以當前選定範圍排序(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgRepeatWord</name>
     <message>
-        <source>It compares the contents by rows after clicking OK.</source>
-        <translation type="unfinished"></translation>
+        <source>input</source>
+        <translation></translation>
     </message>
     <message>
-        <source>input</source>
-        <translation type="unfinished"></translation>
+        <source>It compares the contents by rows after clicking OK.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxDlgResolveConflicts</name>
     <message>
-        <source>Accept All Other Users</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accept All for Current User</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accept Other Users</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accept the User</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>取消</translation>
-    </message>
-    <message>
-        <source>Other Changes</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Resolve Conflicts</source>
@@ -5318,6 +5420,26 @@ change tracking from being removed.</source>
     <message>
         <source>YourChange</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Accept the User</source>
+        <translation>使用我做的修訂(&amp;M) </translation>
+    </message>
+    <message>
+        <source>Other Changes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Accept Other Users</source>
+        <translation>使用別人做的修訂(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Accept All for Current User</source>
+        <translation>所有地方皆使用我做的修訂(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Accept All Other Users</source>
+        <translation>所有地方皆使用別人做的修訂(&amp;S)</translation>
     </message>
     <message>
         <source>AcceptAllMine</source>
@@ -5339,16 +5461,8 @@ change tracking from being removed.</source>
 <context>
     <name>KxDlgRevisionAlert</name>
     <message>
-        <source>&amp;Continue</source>
-        <translation type="unfinished">繼續(&amp;C)</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>取消</translation>
-    </message>
-    <message>
-        <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save As</source>
@@ -5356,7 +5470,15 @@ change tracking from being removed.</source>
     </message>
     <message>
         <source>Unsupported action</source>
-        <translation type="unfinished"></translation>
+        <translation>不支援的動作</translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>繼續(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
+        <translation>其他使用者可能提交了 WPS Office 無法辨別的動作，按一下“繼續”將儲存文件，捨棄該動作。按一下“另存新檔”則將目前文件另存一個複本。</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -5375,7 +5497,7 @@ change tracking from being removed.</source>
     <name>KxDlgRevisionHighlightChanges</name>
     <message>
         <source>&amp;Show track changes description.</source>
-        <translation type="unfinished"></translation>
+        <translation>將所做的修訂在螢幕上標示出來(&amp;D)</translation>
     </message>
     <message>
         <source>All</source>
@@ -5535,15 +5657,11 @@ change tracking from being removed.</source>
     <message>
         <source>&amp;Allow changes by more than one user at the same time.
 This also allows workbook merging.</source>
-        <translation type="unfinished"></translation>
+        <translation>允許多人同時修改活頁簿，且允許合併活頁簿(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Remove User</source>
         <translation>移除使用者(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Who has this workbook open now:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -5552,6 +5670,10 @@ This also allows workbook merging.</source>
     <message>
         <source>Share Workbook</source>
         <translation>共用活頁簿</translation>
+    </message>
+    <message>
+        <source>&amp;Who has this workbook open now:</source>
+        <translation>下列使用者正在共用這個檔案(&amp;W):</translation>
     </message>
     <message>
         <source>&amp;Allows multiple users to simultaneously edit, 
@@ -5688,14 +5810,6 @@ the same time allows workbook merging</source>
         <translation>選項(&amp;O)</translation>
     </message>
     <message>
-        <source>&amp;Set Spell Check Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -5716,16 +5830,24 @@ the same time allows workbook merging</source>
         <translation>範圍</translation>
     </message>
     <message>
-        <source>Spell Check</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Suggestio&amp;ns:</source>
         <translation>建議(&amp;N):</translation>
     </message>
     <message>
+        <source>Spell Check</source>
+        <translation>拼字檢查</translation>
+    </message>
+    <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>字典中找不到</translation>
+    </message>
+    <message>
+        <source>&amp;Set Spell Check Language</source>
+        <translation type="unfinished">設置拼字檢查語言(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation>復原(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Undo Last</source>
@@ -5776,7 +5898,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>M&amp;erge...</source>
-        <translation type="unfinished"></translation>
+        <translation>合併(&amp;E)...</translation>
     </message>
     <message>
         <source>Number:</source>
@@ -5807,19 +5929,19 @@ the same time allows workbook merging</source>
     <name>KxDlgStylesMerge</name>
     <message>
         <source>&amp;Merge styles from:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">合併樣式來自(&amp;M):</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Merge Styles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">合併樣式</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
 </context>
 <context>
@@ -5845,10 +5967,6 @@ the same time allows workbook merging</source>
         <translation>摘要置於小計資料下方(&amp;S)</translation>
     </message>
     <message>
-        <source>&amp;Use function:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A&amp;dd subtotal to:</source>
         <translation>新增小計位置(&amp;D):</translation>
     </message>
@@ -5863,10 +5981,6 @@ the same time allows workbook merging</source>
     <message>
         <source>Count</source>
         <translation>項目個數</translation>
-    </message>
-    <message>
-        <source>Count Numbers</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Max</source>
@@ -5911,6 +6025,14 @@ the same time allows workbook merging</source>
     <message>
         <source>Varp</source>
         <translation>母體變異值</translation>
+    </message>
+    <message>
+        <source>&amp;Use function:</source>
+        <translation>使用函數(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <translation>數值計數</translation>
     </message>
     <message>
         <source>&amp;Use function</source>
@@ -6064,11 +6186,6 @@ the same time allows workbook merging</source>
         <translation>文本辯別符號(&amp;Q):</translation>
     </message>
     <message>
-        <source>The Text Wizard has determined that your data is Delimited. 
-If this is correct, choose Next, or choose the data type that best describes your data.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This screen lets you select each column and set the Data Format.</source>
         <translation>請在此畫面選擇欲使用的欄位，並設定其資料格式。</translation>
     </message>
@@ -6101,8 +6218,14 @@ If this is correct, choose Next, or choose the data type that best describes you
         <translation>YMD</translation>
     </message>
     <message>
+        <source>The Text Wizard has determined that your data is Delimited. 
+If this is correct, choose Next, or choose the data type that best describes your data.</source>
+        <translation>資料剖析精靈判定資料類型為分隔符號。
+若一切設定無誤，請選取 [下一步]，或選取適當的資料類別。</translation>
+    </message>
+    <message>
         <source>{None}</source>
-        <translation type="unfinished"></translation>
+        <translation>{無}</translation>
     </message>
     <message>
         <source>The Text Wizard has determined that your data is Delimited. If this is correct, choose Next, or choose the data type that best describes your data.</source>
@@ -6166,7 +6289,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>取消群組</translation>
     </message>
     <message>
         <source>UnGroup</source>
@@ -6191,12 +6314,12 @@ If this is correct, choose Next, or choose the data type that best describes you
         <translation>請輸入密碼以更改此儲存格(&amp;E)</translation>
     </message>
     <message>
-        <source>A cell you are trying to change is password protected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unlock Range</source>
         <translation>解除鎖定的範圍</translation>
+    </message>
+    <message>
+        <source>A cell you are trying to change is password protected.</source>
+        <translation>您要變更的儲存格已受密碼保護。</translation>
     </message>
     <message>
         <source>A cell you are trying to change is password 
@@ -6238,10 +6361,6 @@ protected.</source>
         <translation>儲存格內的下拉式清單(&amp;I)</translation>
     </message>
     <message>
-        <source>&amp;Input:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Minimum:</source>
         <translation>最小值(&amp;M):</translation>
     </message>
@@ -6264,10 +6383,6 @@ protected.</source>
     <message>
         <source>Ap&amp;ply these changes to all other cells with the same settings</source>
         <translation>將所做的改變套用至所有具有相同設定的儲存格(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished">自訂</translation>
     </message>
     <message>
         <source>Data Validation</source>
@@ -6386,6 +6501,14 @@ protected.</source>
         <translation>不等於</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation>自訂</translation>
+    </message>
+    <message>
+        <source>&amp;Input:</source>
+        <translation>提示訊息(&amp;I):</translation>
+    </message>
+    <message>
         <source>&amp;Input message:</source>
         <translation type="obsolete">提示訊息(&amp;I):</translation>
     </message>
@@ -6499,7 +6622,7 @@ protected.</source>
     <name>KxEditOLEDBQueryDlg</name>
     <message>
         <source>Connection string or SQL has errors. WPS Spreadsheets can not import the data.</source>
-        <translation type="unfinished"></translation>
+        <translation>連接字元串或者 SQL 有誤，WPS Spreadsheets 無法匯入資料。</translation>
     </message>
     <message>
         <source>Connection string or SQL is error, ET can not import the data.</source>
@@ -6516,19 +6639,19 @@ protected.</source>
 <context>
     <name>KxEt3DFillColorModel</name>
     <message>
-        <source>No Color</source>
-        <translation>無填滿</translation>
-    </message>
-    <message>
         <source>No Fill</source>
         <translation type="obsolete">無填滿</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>無填滿</translation>
     </message>
 </context>
 <context>
     <name>KxEtAfCellFormatButton</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">無</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>NONE</source>
@@ -6538,10 +6661,6 @@ protected.</source>
 <context>
     <name>KxEtAutoFilterColorMenu</name>
     <message>
-        <source>Auto Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Filter by cell color:</source>
         <translation>依儲存格色彩篩選:</translation>
     </message>
@@ -6550,12 +6669,16 @@ protected.</source>
         <translation>依文字色彩篩選:</translation>
     </message>
     <message>
-        <source>No Fill</source>
-        <translation type="unfinished">無填滿</translation>
-    </message>
-    <message>
         <source>Only one color</source>
         <translation>只有一個色彩</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation>無填滿</translation>
+    </message>
+    <message>
+        <source>Auto Color</source>
+        <translation>自動色</translation>
     </message>
     <message>
         <source>Auto color</source>
@@ -6614,12 +6737,12 @@ protected.</source>
 <context>
     <name>KxEtCellFillColorModel</name>
     <message>
-        <source>No Color</source>
-        <translation>無填滿</translation>
-    </message>
-    <message>
         <source>No Fill</source>
         <translation type="obsolete">無填滿</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>無填滿</translation>
     </message>
 </context>
 <context>
@@ -6646,10 +6769,6 @@ protected.</source>
 </context>
 <context>
     <name>KxEtCustomFilter</name>
-    <message>
-        <source>Error in filter conditions.</source>
-        <translation>剖析格式行產生錯誤。</translation>
-    </message>
     <message>
         <source>Error in parse line.</source>
         <translation type="obsolete">剖析格式行產生錯誤。</translation>
@@ -6719,8 +6838,39 @@ protected.</source>
         <translation>不等於</translation>
     </message>
     <message>
+        <source>Error in filter conditions.</source>
+        <translation>剖析格式行產生錯誤。</translation>
+    </message>
+    <message>
         <source>does not equal</source>
         <translation type="obsolete">不等於</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDialogSheetDlg</name>
+    <message>
+        <source>Integer is not valid.</source>
+        <translation type="unfinished">非有效整數。</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished">您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required
+To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.
+To get assistance in entering a function, click Function Wizard
+If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only.
+To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6737,50 +6887,50 @@ protected.</source>
         <translation type="obsolete">取消</translation>
     </message>
     <message>
-        <source>Infotip</source>
-        <translation type="unfinished">文字標籤</translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="obsolete">確定</translation>
     </message>
     <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">文字標籤</translation>
+    </message>
+    <message>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>文字標籤</translation>
     </message>
     <message>
         <source>Dialog</source>
         <translation type="obsolete">輸入</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="obsolete">文字標籤</translation>
     </message>
 </context>
 <context>
     <name>KxEtDlgRefEdit</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxEtErrorCheckDlg</name>
     <message>
-        <source>Edit in &amp;Formula Bar</source>
-        <translation type="unfinished"></translation>
+        <source>R&amp;esume</source>
+        <translation type="unfinished">繼續(&amp;E)</translation>
     </message>
     <message>
         <source>Error in cell %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;esume</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤位於儲存格 %1</translation>
     </message>
     <message>
         <source>The error check is complete for the entire sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>整張工作表的錯誤檢查已完成。</translation>
+    </message>
+    <message>
+        <source>Edit in &amp;Formula Bar</source>
+        <translation>在資料編輯列中編輯(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -6828,12 +6978,12 @@ protected.</source>
 <context>
     <name>KxEtFormulaBar</name>
     <message>
-        <source>Formula Bar</source>
-        <translation>編輯欄</translation>
-    </message>
-    <message>
         <source>Formula Box</source>
         <translation type="obsolete">資料編輯列</translation>
+    </message>
+    <message>
+        <source>Formula Bar</source>
+        <translation>編輯欄</translation>
     </message>
 </context>
 <context>
@@ -6843,20 +6993,20 @@ protected.</source>
         <translation>無效的陣列值</translation>
     </message>
     <message>
-        <source>Error value is not valid</source>
-        <translation type="unfinished"></translation>
+        <source>Text is not valid</source>
+        <translation>無效的文字</translation>
     </message>
     <message>
         <source>Invalid number</source>
-        <translation type="unfinished"></translation>
+        <translation>數字不正確</translation>
     </message>
     <message>
         <source>Logical value is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的邏輯值</translation>
     </message>
     <message>
-        <source>Text is not valid</source>
-        <translation>無效的文字</translation>
+        <source>Error value is not valid</source>
+        <translation>無效的錯誤值</translation>
     </message>
     <message>
         <source>Error Value is not valid</source>
@@ -6874,12 +7024,12 @@ protected.</source>
 <context>
     <name>KxEtLineColorModel</name>
     <message>
-        <source>No Line</source>
-        <translation>無線條顏色</translation>
-    </message>
-    <message>
         <source>No Line Color</source>
         <translation type="obsolete">無外框</translation>
+    </message>
+    <message>
+        <source>No Line</source>
+        <translation>無線條顏色</translation>
     </message>
 </context>
 <context>
@@ -6928,32 +7078,32 @@ protected.</source>
 <context>
     <name>KxEtRecordMacroDlg</name>
     <message>
-        <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macro recorded %2 by %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcut key must be a letter.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The name you entered is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>新的活頁簿</translation>
     </message>
     <message>
         <source>This Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>現用活頁簿</translation>
+    </message>
+    <message>
+        <source>Macro recorded %2 by %1</source>
+        <translation>巨集由 %1 錄製，時間: %2</translation>
+    </message>
+    <message>
+        <source>Shortcut key must be a letter.</source>
+        <translation>快速鍵必須為英文字母</translation>
+    </message>
+    <message>
+        <source>The name you entered is not valid.</source>
+        <translation>您輸入的名稱無效</translation>
     </message>
     <message>
         <source>This command cannot be applied in shared workbook and you cannot record.</source>
-        <translation type="unfinished"></translation>
+        <translation>此命令不适用于共用活頁簿，無法錄製。</translation>
+    </message>
+    <message>
+        <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
+        <translation>已有相同名稱“%1”的巨集，您是否要取代原有巨集</translation>
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists, whether to replace the existing macro</source>
@@ -7010,40 +7160,40 @@ protected.</source>
 <context>
     <name>KxEtSmartLabelAutoFill</name>
     <message>
+        <source>Auto Fill Options</source>
+        <translation>自動填滿選項</translation>
+    </message>
+    <message>
         <source>&amp;Copy Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>複製儲存格(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Fill Formatting Only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Fill Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill &amp;Days</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill &amp;Months</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill &amp;Series</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill &amp;Weekdays</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill &amp;Years</source>
-        <translation type="unfinished"></translation>
+        <translation>僅以格式填滿(&amp;F)</translation>
     </message>
     <message>
         <source>Fill Without F&amp;ormatting</source>
-        <translation type="unfinished"></translation>
+        <translation>填滿但不填入格式(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Fill &amp;Series</source>
+        <translation>以數列方式填滿(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Fill &amp;Days</source>
+        <translation>以天數填滿(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Fill &amp;Weekdays</source>
+        <translation>以工作日填滿(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Fill &amp;Months</source>
+        <translation>以月填滿(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Fill &amp;Years</source>
+        <translation>以年填滿(&amp;Y)</translation>
     </message>
     <message>
         <source>auto fill options</source>
@@ -7112,16 +7262,16 @@ protected.</source>
         <translation>百分比</translation>
     </message>
     <message>
-        <source>The number must be between 1 and 500.</source>
-        <translation>輸入的值應該介於1和500之間</translation>
-    </message>
-    <message>
         <source>Top</source>
         <translation>最前</translation>
     </message>
     <message>
         <source>Value should be between 1 and 500.</source>
         <translation type="obsolete">輸入的值應該介於 1 和 500 之間。</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 500.</source>
+        <translation>輸入的值應該介於1和500之間</translation>
     </message>
 </context>
 <context>
@@ -7131,12 +7281,12 @@ protected.</source>
         <translation>自動</translation>
     </message>
     <message>
-        <source>Columns:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Rows:</source>
         <translation>列數：</translation>
+    </message>
+    <message>
+        <source>Columns:</source>
+        <translation>欄数:</translation>
     </message>
     <message>
         <source>(Auto)</source>
@@ -7212,28 +7362,24 @@ protected.</source>
         <translation>PDF 檔案(*.pdf)|*.pdf</translation>
     </message>
     <message>
-        <source>Please input the password of permission settings!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"></translation>
+        <source>Save PDF File</source>
+        <translation>另存 PDF 檔案為</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished"></translation>
+        <translation>你指定的路徑不存在，請輸入一個有效的路徑。</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation>您指定的檔案已經存在，確定要覆蓋該檔案嗎?</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation>請輸入權限設定密碼!</translation>
     </message>
     <message>
         <source>Please input the password of permission setting!</source>
         <translation type="obsolete">請輸入權限設定密碼!</translation>
-    </message>
-    <message>
-        <source>Save Adobe PDF File As</source>
-        <translation type="obsolete">另存 Adobe PDF 檔案為</translation>
     </message>
     <message>
         <source>The directory you specified dose not exist, enter a valid directory please.</source>
@@ -7279,16 +7425,16 @@ protected.</source>
         <translation>正在匯出摘要資訊...</translation>
     </message>
     <message>
-        <source>PDF Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>正在準備匯出 PDF 檔案...</translation>
     </message>
     <message>
+        <source>PDF Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation>PDF 轉換器可能有記憶體配置問題，請縮小文件大小或者圖片大小。</translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出 PDF 檔案的過程中發生錯誤!</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
@@ -7309,40 +7455,24 @@ protected.</source>
 <context>
     <name>KxFindReplaceDlg</name>
     <message>
-        <source>%1 cell(s) found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Find Next</source>
         <translation>找下一個(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0 cell found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Formats(&amp;C)</source>
-        <translation type="unfinished"></translation>
+        <translation>格式(&amp;F)</translation>
     </message>
     <message>
         <source>Check if your search formatting and criteria are defined correctly.</source>
         <translation>請檢查您的搜尋格式及準則是否定義正確。</translation>
     </message>
     <message>
-        <source>Choose Format From Cell:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clea&amp;r Find Format</source>
-        <translation type="unfinished"></translation>
+        <translation>清除尋找格式(&amp;R)</translation>
     </message>
     <message>
         <source>Clear &amp;Replace Format</source>
-        <translation type="unfinished"></translation>
+        <translation>清除取代格式(&amp;R)</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -7350,63 +7480,35 @@ protected.</source>
     </message>
     <message>
         <source>F&amp;ill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>背景色彩(&amp;I)</translation>
     </message>
     <message>
         <source>Find</source>
         <translation>尋找</translation>
     </message>
     <message>
-        <source>Find Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find Pre&amp;vious</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
         <translation>找到匹配項，但取代失敗。進行取代后的內容可能是非法的公式。</translation>
     </message>
     <message>
-        <source>Finding cells... Press Esc to interrupt...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fon&amp;t Color</source>
-        <translation type="unfinished"></translation>
+        <translation>字型色彩(&amp;T)</translation>
     </message>
     <message>
         <source>Font &amp;And Fill Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For&amp;mat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">字型與填充色彩(&amp;A)</translation>
     </message>
     <message>
         <source>Formulas</source>
         <translation>公式</translation>
     </message>
     <message>
-        <source>Go &amp;To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If you are sure that matching data exists in this workbook, it may be in a protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>若在此活頁簿中確實存在匹配的資料，則可能所在的工作表是被保護的。</translation>
     </message>
     <message>
         <source>No cells were found.</source>
         <translation>未找到儲存格。</translation>
-    </message>
-    <message>
-        <source>No objects found.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
@@ -7421,10 +7523,6 @@ protected.</source>
         <translation>取代</translation>
     </message>
     <message>
-        <source>Replace Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Smart</source>
         <translation>智能</translation>
     </message>
@@ -7433,32 +7531,80 @@ protected.</source>
         <translation>值</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <source>You have interrupted the Find All command. Do you want to continue searching?</source>
+        <translation>您已中斷 [全部尋找] 命令。要繼續搜尋嗎?</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets cannot find any data to replace.</source>
-        <translation type="unfinished"></translation>
+        <source>Finding cells... Press Esc to interrupt...</source>
+        <translation>正在尋找儲存格... 請按 Esc 中斷...</translation>
+    </message>
+    <message>
+        <source>Find Pre&amp;vious</source>
+        <translation>找上一個(&amp;V)</translation>
+    </message>
+    <message>
+        <source>0 cell found</source>
+        <translation>0 個儲存格符合條件</translation>
+    </message>
+    <message>
+        <source>%1 cell(s) found</source>
+        <translation>%1 个儲存格符合條件</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets 找不到正在搜尋的資料。請檢查您的搜尋選項、位置。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find any data to replace.</source>
+        <translation>WPS Spreadsheets 找不到任何要取代的資料。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot replace data on protected sheet.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets 不能取代受保護的工作表中的資料。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has completed its search and has made %1 replacements.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets 已經完成搜尋并進行了 %1 处取代。</translation>
     </message>
     <message>
-        <source>You have interrupted the Find All command. Do you want to continue searching?</source>
-        <translation type="unfinished"></translation>
+        <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
+        <translation>WPS Spreadsheets 不能定位資料。可能是所在的工作表處於保護狀態。</translation>
+    </message>
+    <message>
+        <source>No objects found.</source>
+        <translation>找不到物件。</translation>
+    </message>
+    <message>
+        <source>Go &amp;To</source>
+        <translation>到(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Go To</source>
+        <translation>到</translation>
+    </message>
+    <message>
+        <source>Choose Format From Cell:</source>
+        <translation>從儲存格選擇格式：</translation>
+    </message>
+    <message>
+        <source>All Formats(&amp;C)</source>
+        <translation>全部格式(&amp;C)</translation>
+    </message>
+    <message>
+        <source>For&amp;mat</source>
+        <translation>格式(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Find Format</source>
+        <translation>尋找格式</translation>
+    </message>
+    <message>
+        <source>Replace Format</source>
+        <translation>取代格式</translation>
     </message>
     <message>
         <source>%1 cell (s) found</source>
@@ -7523,37 +7669,37 @@ protected.</source>
         <translation>字型大小必須介於 %1 到 %2 點之間。</translation>
     </message>
     <message>
-        <source>The font is designed for plotter.</source>
-        <translation>筆式繪圖機專用字型。</translation>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>您輸入的不是有效數字，無法在此使用。您必須輸入一個整數或是小數。</translation>
     </message>
     <message>
-        <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
-        <translation type="obsolete">系統中未安裝此字體，列印時將採用最相近的有效字體。</translation>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
         <translation>系統中未安裝此字體，列印時將採用最相近的有效字體。</translation>
     </message>
     <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <translation>這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
+    </message>
+    <message>
+        <source>The font is designed for plotter.</source>
+        <translation>筆式繪圖機專用字型。</translation>
+    </message>
+    <message>
         <source>This font style is not available.</source>
         <translation>字型樣式名稱不存在。</translation>
+    </message>
+    <message>
+        <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
+        <translation type="obsolete">系統中未安裝此字體，列印時將採用最相近的有效字體。</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your 
 printer and your screen.</source>
         <translation type="obsolete">這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation>這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>您輸入的不是有效數字，無法在此使用。您必須輸入一個整數或是小數。</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -7600,32 +7746,32 @@ font will be used for printing.</source>
         <translation>標準</translation>
     </message>
     <message>
-        <source>The font is designed for plotter.</source>
-        <translation>筆式繪圖機專用字型。</translation>
+        <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
+        <translation>這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
     </message>
     <message>
-        <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
-        <translation type="obsolete">系統未安裝此字型，將選用相似印表機字型列印。</translation>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>您輸入的不是有效數字，無法在此使用。您必須輸入一個整數或是小數。</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
         <translation>系統未安裝此字型，將選用相似印表機字型列印。</translation>
     </message>
     <message>
+        <source>The font is designed for plotter.</source>
+        <translation>筆式繪圖機專用字型。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
         <source>This font style is not available.</source>
         <translation>字型樣式名稱不存在。</translation>
     </message>
     <message>
-        <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation>這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>您輸入的不是有效數字，無法在此使用。您必須輸入一個整數或是小數。</translation>
+        <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
+        <translation type="obsolete">系統未安裝此字型，將選用相似印表機字型列印。</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -7698,36 +7844,36 @@ font will be used for printing.</source>
         <translation>標準</translation>
     </message>
     <message>
-        <source>The font is designed for plotter.</source>
-        <translation>筆式繪圖機專用字型。</translation>
-    </message>
-    <message>
-        <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
-        <translation type="obsolete">系統未安裝此字型，將選用相似印表機字型列印。</translation>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
         <translation>系統未安裝此字型，將選用相似印表機字型列印。</translation>
     </message>
     <message>
-        <source>This font style is not available.</source>
-        <translation>字型樣式名稱不存在。</translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
-        <translation type="obsolete">這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
-    </message>
-    <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
         <translation>這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <source>The font is designed for plotter.</source>
+        <translation>筆式繪圖機專用字型。</translation>
     </message>
     <message>
-        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation>字型樣式名稱不存在。</translation>
+    </message>
+    <message>
+        <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
+        <translation type="obsolete">系統未安裝此字型，將選用相似印表機字型列印。</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
+        <translation type="obsolete">這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -7757,16 +7903,16 @@ font will be used for printing.</source>
         <translation>公分</translation>
     </message>
     <message>
-        <source>inch</source>
-        <translation>英吋</translation>
-    </message>
-    <message>
         <source>mm</source>
         <translation>公釐</translation>
     </message>
     <message>
         <source>pt</source>
         <translation>點</translation>
+    </message>
+    <message>
+        <source>inch</source>
+        <translation>英吋</translation>
     </message>
     <message>
         <source>in</source>
@@ -7795,10 +7941,6 @@ font will be used for printing.</source>
         <translation>函數引數</translation>
     </message>
     <message>
-        <source>Help about this Function</source>
-        <translation>函數說明</translation>
-    </message>
-    <message>
         <source>Help on this Function</source>
         <translation type="obsolete">函數說明(H)</translation>
     </message>
@@ -7813,6 +7955,10 @@ font will be used for printing.</source>
     <message>
         <source>Undefined</source>
         <translation>未定義</translation>
+    </message>
+    <message>
+        <source>Help about this Function</source>
+        <translation>函數說明</translation>
     </message>
 </context>
 <context>
@@ -7846,17 +7992,18 @@ font will be used for printing.</source>
         <translation>目標儲存格</translation>
     </message>
     <message>
-        <source>The cell you&apos;re trying to change is on a protected sheet.
-To make changes, click Unprotect Sheet in the Review tab (You might need a password).</source>
-        <translation type="unfinished"></translation>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
     </message>
     <message>
         <source>The input text is not a valid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>您輸入的文字不是一個有效的參照或是已定義的名稱。</translation>
     </message>
     <message>
-        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
+        <source>The cell you&apos;re trying to change is on a protected sheet.
+To make changes, click Unprotect Sheet in the Review tab (You might need a password).</source>
+        <translation>您要變更的儲存格已被保護，無法更改。
+若要修改被保護的儲存格，請先使用 [取消保護工作表] 命令（[校閱] 索引標籤）來移除保護。可能會提示您輸入密碼。</translation>
     </message>
     <message>
         <source>The cell you&apos;re trying to change is on a protected sheet.
@@ -7888,12 +8035,13 @@ on iteration #%2.</source>
 第 #%2 次反覆運算。</translation>
     </message>
     <message>
-        <source>Goal Seeking with Cell %1 still can not find a solution.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>TRUE</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Goal Seeking with Cell %1 still can not find a solution.</source>
+        <translation>對儲存格 %1 進行目標搜尋
+依然無法求得解答。</translation>
     </message>
     <message>
         <source>Goal Seeking with Cell %1 
@@ -7937,7 +8085,7 @@ may not have found a solution.</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯超連結</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -7963,20 +8111,20 @@ may not have found a solution.</source>
         <translation type="obsolete">參照無效。</translation>
     </message>
     <message>
+        <source>What you entered is an invalid reference or name.</source>
+        <translation type="obsolete">您輸入的文字不是一個有效的參照或是已定義的名稱。</translation>
+    </message>
+    <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished">參考無效</translation>
+        <translation>參考無效。</translation>
     </message>
     <message>
         <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
-        <translation type="unfinished"></translation>
+        <translation>範圍不在作用中的工作表上，WPS Spreadsheets 不能匯入資料。</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation type="unfinished">輸入的內容為無效引用或名稱</translation>
-    </message>
-    <message>
-        <source>What you entered is an invalid reference or name.</source>
-        <translation type="obsolete">您輸入的文字不是一個有效的參照或是已定義的名稱。</translation>
+        <translation>輸入的內容為無效引用或名稱</translation>
     </message>
     <message>
         <source>The range is not in active sheet, ET can not import the data.</source>
@@ -8001,10 +8149,6 @@ may not have found a solution.</source>
         <translation>我要點評</translation>
     </message>
     <message>
-        <source>No help available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recommend</source>
         <translation>建議</translation>
     </message>
@@ -8013,16 +8157,20 @@ may not have found a solution.</source>
         <translation>沒有找到您所描述的函數，請重新輸入要搜尋的函數訊息。</translation>
     </message>
     <message>
-        <source>The search information is required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Undefined.</source>
         <translation>未定義</translation>
     </message>
     <message>
         <source>Enter the name or the description of the function you want to look up.</source>
-        <translation type="unfinished"></translation>
+        <translation>請輸入您要查找的函數名稱或函數功能的簡短描述。</translation>
+    </message>
+    <message>
+        <source>No help available.</source>
+        <translation>沒有適當的說明。</translation>
+    </message>
+    <message>
+        <source>The search information is required.</source>
+        <translation>搜尋訊息不能為空。</translation>
     </message>
     <message>
         <source>Enter a name or description of the function you want to look for.</source>
@@ -8045,7 +8193,7 @@ may not have found a solution.</source>
     </message>
     <message>
         <source>(New workbook)</source>
-        <translation type="unfinished"></translation>
+        <translation>(新活頁簿)</translation>
     </message>
     <message>
         <source>(New book)</source>
@@ -8063,12 +8211,12 @@ may not have found a solution.</source>
         <translation>名稱不可與參照類似。</translation>
     </message>
     <message>
-        <source>The name already exists.</source>
-        <translation type="unfinished"></translation>
+        <source>The name that you entered is not valid.</source>
+        <translation>您輸入的名稱無效。</translation>
     </message>
     <message>
-        <source>The name that you entered is not valid.</source>
-        <translation type="unfinished"></translation>
+        <source>The name already exists.</source>
+        <translation>名稱已存在。</translation>
     </message>
     <message>
         <source>That name already exists.</source>
@@ -8083,7 +8231,7 @@ may not have found a solution.</source>
     <name>KxNameOptionsDlg</name>
     <message>
         <source>The default Workbook name %1 is not valid, can&apos;t include %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>預設的活頁簿名稱「%1」無效，不可包含「%2」字元。</translation>
     </message>
     <message>
         <source>Default book name %1 is not valid, can&apos;t include %2.</source>
@@ -8093,24 +8241,24 @@ may not have found a solution.</source>
 <context>
     <name>KxNewOrModifyAllowUserEditRangeDlg</name>
     <message>
-        <source>A range with the title  &quot;%1&quot; already exists. Please enter a new title for the range.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Confirmation password is not identical.</source>
         <translation>確認密碼不相同。</translation>
     </message>
     <message>
-        <source>The reference you typed is not valid, or you did not provide a reference where one was required.</source>
-        <translation type="unfinished">您所鍵入的參照不正確，或是您未在需要參照的地方輸入參照。</translation>
+        <source>The title &quot;%1&quot; contains illegal characters. Range titles may only contain letters, characters, numbers, and spaces, and must begin with a letter or a character.</source>
+        <translation>標題「%1」包含不合法的字元。範圍的標題只能包含字母、數字及空格，且第一個字元必須為字母或文字。</translation>
     </message>
     <message>
-        <source>The title &quot;%1&quot; contains illegal characters. Range titles may only contain letters, characters, numbers, and spaces, and must begin with a letter or a character.</source>
-        <translation type="unfinished"></translation>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required.</source>
+        <translation>您所鍵入的參照不正確，或是您未在需要參照的地方輸入參照。</translation>
     </message>
     <message>
         <source>To enter a reference using the mouse,click in the edit box, and then click the cell in the sheet you want to refer to,or drag through the range you want to select.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您要用滑鼠來輸入一個參照，先在編輯方塊點一下，然后在要參照的儲存格上點一下，或是拖曳要參照的範圍。</translation>
+    </message>
+    <message>
+        <source>A range with the title  &quot;%1&quot; already exists. Please enter a new title for the range.</source>
+        <translation>以「%1」為標題的範圍已經存在。請輸入一個新的範圍標題。</translation>
     </message>
     <message>
         <source>A range with the title &quot;%1&quot; already exists. Please enter a new title for the range.</source>
@@ -8132,24 +8280,8 @@ may not have found a solution.</source>
 <context>
     <name>KxNumberWidget</name>
     <message>
-        <source>&amp;Use 1000 separator ( %1)</source>
-        <translation type="unfinished">使用千分位( %1 )符號(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Accounting formats line up the currency symbols and decimal points in a column.</source>
-        <translation>會計格式會將同欄數值的貨幣符號和小數點對齊。</translation>
-    </message>
-    <message>
-        <source>Currency formats are used for general monetary values. Use Accounting formats to align decimal points in a column.</source>
-        <translation>貨幣格式適用於一般的金額顯示。若是同欄的數值必須對齊小數點，請選會計格式。</translation>
-    </message>
-    <message>
         <source>Date formats display date and time serial numbers as date values.</source>
         <translation>日期格式將日期和時間序號以日期值顯示。</translation>
-    </message>
-    <message>
-        <source>Number is used for general display of numbers.Currency and Accounting offer specialized formatting for monetary value.</source>
-        <translation>數值格式適用於一般的數值顯示。貨幣和會計格式則提供特殊的金額顯示方式。</translation>
     </message>
     <message>
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
@@ -8164,8 +8296,24 @@ may not have found a solution.</source>
         <translation>時間格式會將日期和時間序號以日期值顯示。</translation>
     </message>
     <message>
+        <source>Number is used for general display of numbers.Currency and Accounting offer specialized formatting for monetary value.</source>
+        <translation>數值格式適用於一般的數值顯示。貨幣和會計格式則提供特殊的金額顯示方式。</translation>
+    </message>
+    <message>
+        <source>Currency formats are used for general monetary values. Use Accounting formats to align decimal points in a column.</source>
+        <translation>貨幣格式適用於一般的金額顯示。若是同欄的數值必須對齊小數點，請選會計格式。</translation>
+    </message>
+    <message>
+        <source>Accounting formats line up the currency symbols and decimal points in a column.</source>
+        <translation>會計格式會將同欄數值的貨幣符號和小數點對齊。</translation>
+    </message>
+    <message>
         <source>Type the number format code,using one of the existing codes as a starting point.</source>
         <translation>請鍵入數值格式代碼，您可以選取已有的代碼加以修改。</translation>
+    </message>
+    <message>
+        <source>&amp;Use 1000 separator ( %1)</source>
+        <translation>使用千分位( %1 )符號(&amp;U)</translation>
     </message>
     <message>
         <source>Accounting formats provide currency formatting with decimal place alignment.</source>
@@ -8187,28 +8335,29 @@ may not have found a solution.</source>
 <context>
     <name>KxOpenSharedWorkbookDlg</name>
     <message>
+        <source>You are opening an Excel shared workbook &quot;%1&quot;.</source>
+        <translation>你正在開啟一個Excel共用活頁簿檔案「%1」。</translation>
+    </message>
+    <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 如果您需要使用Kingsoft Spreadsheets 編輯此檔案，請務必確保其他人已經退出編
+輯，然后將該檔案%2轉換%3為Kingsoft Spreadsheets共用活頁簿。</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 如果您只需要查看文件內容，请選擇%2唯讀%3。</translation>
     </message>
     <message>
         <source>%1 Select%2Cancel%3No file will open.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 選取%2取消%3不開啟檔案。</translation>
     </message>
     <message>
         <source>This file is currently being edited by %1 user:</source>
-        <translation type="unfinished"></translation>
+        <translation>目前有以下%1個使用者正在編輯此檔案:</translation>
     </message>
     <message>
         <source>This file is currently being edited by %1 users:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are opening an Excel shared workbook &quot;%1&quot;.</source>
-        <translation>你正在開啟一個Excel共用活頁簿檔案「%1」。</translation>
+        <translation>目前有以下%1個使用者正在編輯此檔案:</translation>
     </message>
     <message>
         <source>%1 Please select %2ReadOnoly%3when you just browse cotent of file only.</source>
@@ -8236,64 +8385,16 @@ file,then %2switch%3the file to ET shared workbook.</source>
 <context>
     <name>KxOptionsDlg</name>
     <message>
-        <source>&amp;Open</source>
-        <translation type="obsolete">開啟(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Add Dictionary File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred when adding &quot;%1&quot;. This file already exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure to send the dictionary %1 to the Recycle Bin?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot find directory %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有檔案(*.*)</translation>
     </message>
     <message>
         <source>Data will permanently lose accuracy.</source>
         <translation>資料將永遠失去其精準度。</translation>
     </message>
     <message>
-        <source>Delete from &amp;Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete from &amp;List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dictionary File (*.dic)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dictionary File(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Document tab</source>
         <translation>文件索引標籤</translation>
-    </message>
-    <message>
-        <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to modify the dictionary file you selected, make sure the file exists and is not read-only.</source>
@@ -8308,20 +8409,12 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>字型大小必須介於 1 到 409 點之間。</translation>
     </message>
     <message>
-        <source>Ignore cells that contain numbers, blanks, and other mismatch conditions.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>List will be permanently deleted.</source>
         <translation>清單將永遠刪除。</translation>
     </message>
     <message>
         <source>New Custom Dictionary</source>
         <translation>建立自訂字典</translation>
-    </message>
-    <message>
-        <source>New list</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number must be above 0.</source>
@@ -8340,44 +8433,108 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>請選取一個資料夾(&amp;F):</translation>
     </message>
     <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Size of the selected dictionary must be less than 10MB.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自訂詞典已經到達上限。</translation>
     </message>
     <message>
-        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished">您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
+        <source>Custom Lists</source>
+        <translation type="unfinished">自訂清單</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">選項</translation>
+    </message>
+    <message>
+        <source>Ignore cells that contain numbers, blanks, and other mismatch conditions.</source>
+        <translation type="unfinished">將忽略數字、空格等不符合條件的儲存格</translation>
+    </message>
+    <message>
+        <source>New list</source>
+        <translation>新清單</translation>
     </message>
     <message>
         <source>The word contains unallowable characters. Cannot process it.</source>
-        <translation type="unfinished"></translation>
+        <translation>文字中有非法字元，無法處理。</translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)|*.dic</source>
+        <translation>字典文件(*.dic)|*.dic</translation>
+    </message>
+    <message>
+        <source>Dictionary File (*.dic)</source>
+        <translation>字典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Add Dictionary File</source>
+        <translation>新增自訂字典</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. This file already exists.</source>
+        <translation type="unfinished">新增詞典 %1 時發生錯誤，該檔案已經存在。</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+        <translation type="unfinished">新增詞典 %1 時發生錯誤，請檢查檔案格式。</translation>
+    </message>
+    <message>
+        <source>Size of the selected dictionary must be less than 10MB.</source>
+        <translation>您選擇的字典大小要求不超過10MB。</translation>
+    </message>
+    <message>
+        <source>Delete from &amp;List</source>
+        <translation>從清單上移除(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Delete from &amp;Disk</source>
+        <translation>從磁碟刪除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="unfinished">不能刪除最後一個詞典！</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation>移除自訂字典可能會影響到其他 WPS Office 程式使用的自訂字典。您要繼續嗎?</translation>
+    </message>
+    <message>
+        <source>Are you sure to send the dictionary %1 to the Recycle Bin?</source>
+        <translation>你確定將選中的字典「%1」刪除至資源回收筒?</translation>
+    </message>
+    <message>
+        <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
+        <translation>從磁盤上刪除字典文件失敗，請手工刪除該文件。</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>密碼確認不符。</translation>
+    </message>
+    <message>
+        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
+        <translation>您選取的加密算法要求密碼長度不超過15個字元。</translation>
+    </message>
+    <message>
+        <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <translation>這個數字必須在 1 與 32767 之間，請重新輸入屬於上述範圍的數字。</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>您所輸入的不是有效數字,無法在此使用。您必須輸入一個整數或是小數。</translation>
+    </message>
+    <message>
+        <source>Cannot find directory %1.</source>
+        <translation>找不到目錄「%1」。</translation>
+    </message>
+    <message>
+        <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
+        <translation type="unfinished">小數點符號的改動需要重啟 WPS Spreadsheets 后才會生效。</translation>
+    </message>
+    <message>
+        <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
+        <translation>對標准字型的改動在新增活頁簿時才會生效。</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation type="obsolete">開啟(&amp;O)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
@@ -8467,10 +8624,6 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>自動</translation>
     </message>
     <message>
-        <source>Cannot show the properties dialog box because the printer encountered an error.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>日期</translation>
     </message>
@@ -8487,10 +8640,6 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>邊界設定不適用於指定的紙張大小。</translation>
     </message>
     <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page &amp;P</source>
         <translation>第 &amp;P 頁</translation>
     </message>
@@ -8503,10 +8652,6 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>第 &amp;P 頁，共 &amp;N 頁</translation>
     </message>
     <message>
-        <source>Page Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Picture</source>
         <translation>圖片</translation>
     </message>
@@ -8515,44 +8660,56 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>預覽</translation>
     </message>
     <message>
-        <source>The input is not a valid number.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>輸入的值必須在 %1 與 %2 之間。</translation>
-    </message>
-    <message>
-        <source>The measurement must be between 0.1 inch and 22 inch.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The measurement must be between 0.3 cm and 55.8 cm.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The measurement must be between 2.6 mm and 558.8 mm.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The measurement must be between 7.2 pt and 1584 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation type="unfinished">這個數字必須在 %1 與 %2 之間，請重新輸入。</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
         <translation>這個數字必須在 10 與 400 之間，請重新輸入屬於上述範圍的數字。</translation>
     </message>
     <message>
-        <source>There is no Active Printer available at the moment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Time</source>
         <translation>時間</translation>
+    </message>
+    <message>
+        <source>The input is not a valid number.</source>
+        <translation>您輸入的數字無效。</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>頁碼</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation>總頁數</translation>
+    </message>
+    <message>
+        <source>The measurement must be between 7.2 pt and 1584 pt.</source>
+        <translation>度量值必須介於 7.2 點 與 1584 點 之間。</translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.1 inch and 22 inch.</source>
+        <translation>度量值必須介於 0.1 英吋 與 22 英吋 之間。</translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.3 cm and 55.8 cm.</source>
+        <translation>度量值必須介於 0.3 公分 與 55.8 公分 之間。</translation>
+    </message>
+    <message>
+        <source>The measurement must be between 2.6 mm and 558.8 mm.</source>
+        <translation>度量值必須介於 2.6 公釐 與 558.8 公釐 之間。</translation>
+    </message>
+    <message>
+        <source>There is no Active Printer available at the moment.</source>
+        <translation>當前印表機為空。</translation>
+    </message>
+    <message>
+        <source>Cannot show the properties dialog box because the printer encountered an error.</source>
+        <translation>嘗試打開印表機屬性對話方塊時發生錯誤。</translation>
+    </message>
+    <message>
+        <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
+        <translation>這個數字必須在 %1 與 %2 之間，請重新輸入。</translation>
     </message>
     <message>
         <source>Active Printer is empty</source>
@@ -8693,21 +8850,8 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>遞減(&amp;D)</translation>
     </message>
     <message>
-        <source>&amp;Query external data source as you select each
- page field item (requires less memory)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve external data for all page field items(faster performance)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Using field:</source>
         <translation>使用欄位(&amp;U):</translation>
-    </message>
-    <message>
-        <source>AutoSort</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AutoSort options</source>
@@ -8716,10 +8860,6 @@ file,then %2switch%3the file to ET shared workbook.</source>
     <message>
         <source>Bottom</source>
         <translation>最小</translation>
-    </message>
-    <message>
-        <source>D&amp;efault(Change item order manually)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
@@ -8762,6 +8902,23 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <translation>使用欄位(&amp;G):</translation>
     </message>
     <message>
+        <source>AutoSort</source>
+        <translation>自動排序</translation>
+    </message>
+    <message>
+        <source>D&amp;efault(Change item order manually)</source>
+        <translation>預設(可以手動變更欄位項目的順序)(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve external data for all page field items(faster performance)</source>
+        <translation>先取得所有分頁欄位項目的外部資料 (執行效能較快)(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Query external data source as you select each
+ page field item (requires less memory)</source>
+        <translation>只查詢選取分頁欄位項目的外部資料來源 (需要的記憶體較少)(&amp;Q)</translation>
+    </message>
+    <message>
         <source>&amp;Query external data source as you select each
  page field item (&apos;+&apos;requires less memory)</source>
         <translation type="obsolete">只查詢選取分頁欄位項目的外部資料來源 (需要的記憶體較少)(&amp;Q)</translation>
@@ -8787,20 +8944,12 @@ file,then %2switch%3the file to ET shared workbook.</source>
 <context>
     <name>KxPivotTableFieldFmtDlg</name>
     <message>
-        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Average</source>
         <translation>平均值</translation>
     </message>
     <message>
         <source>Count</source>
         <translation>項目個數</translation>
-    </message>
-    <message>
-        <source>Count Numbers</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Max</source>
@@ -8851,6 +9000,14 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation>母體變異值</translation>
     </message>
     <message>
+        <source>Count Numbers</source>
+        <translation>數字項個數</translation>
+    </message>
+    <message>
+        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
+        <translation>最少要顯示一個項目。如果您不想要顯示這個欄位，請取消目前的操作，然後將欄位拖曳出表外。</translation>
+    </message>
+    <message>
         <source>At least one item must be shown. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <translation type="obsolete">最少要顯示一個項目。如果您不想要顯示這個欄位，請取消目前的操作，然後將欄位拖曳出表外。</translation>
     </message>
@@ -8894,7 +9051,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>No scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>無縮放</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -8902,7 +9059,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
-        <translation type="unfinished"></translation>
+        <translation>印表機「%1」發生錯誤!</translation>
     </message>
     <message>
         <source>No Scaling</source>
@@ -8937,12 +9094,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
 <context>
     <name>KxProtectionWidget</name>
     <message>
-        <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab,Proctect Sheet button.)</source>
-        <translation type="obsolete">只有當工作表受到保護時，鎖定儲存格或隱藏公式才會生效。（[校閱] 索引標籤，[保護工作表] 按鈕）</translation>
+        <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab, Protect Sheet button.)</source>
+        <translation>只有當工作表受到保護時，鎖定儲存格或隱藏公式才會生效。（[校閱] 索引標籤，[保護工作表] 按鈕）</translation>
     </message>
     <message>
-        <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab, Protect Sheet button.)</source>
-        <translation type="unfinished">只有當工作表受到保護時，鎖定儲存格或隱藏公式才會生效。（[校閱] 索引標籤，[保護工作表] 按鈕）</translation>
+        <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab,Proctect Sheet button.)</source>
+        <translation type="obsolete">只有當工作表受到保護時，鎖定儲存格或隱藏公式才會生效。（[校閱] 索引標籤，[保護工作表] 按鈕）</translation>
     </message>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab,Proctect Sheet Button.)</source>
@@ -8953,7 +9110,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxReadOnlyFileDlg</name>
     <message>
         <source>File in use</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案正在使用</translation>
     </message>
     <message>
         <source>file is editing</source>
@@ -8968,19 +9125,19 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished">清除(&amp;C)</translation>
+        <translation>清除(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Criteria</source>
-        <translation type="unfinished">準則(&amp;C)</translation>
+        <translation>準則(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">刪除(&amp;D)</translation>
+        <translation>刪除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表單(&amp;F)</translation>
     </message>
     <message>
         <source>Criteria</source>
@@ -9008,13 +9165,39 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxRemoveDuplicatesDlg</name>
+    <message>
+        <source>( Select All )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column </source>
+        <translation type="unfinished">欄 </translation>
+    </message>
+    <message>
+        <source>(%1) %2</source>
+        <translation type="unfinished">(%1) %2</translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>After clicking OK, the duplicated rows will be deleted 
 automatically, and only one row can be kept.
 
 (Note: The function only supports single range)</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下 [確定] 后，將按列進行內容比較；內容完全相同的重複列，將被自動刪除，只保留一列。
+
+（注:請選取一個範圍）</translation>
     </message>
     <message>
         <source>Highlight Duplicate</source>
@@ -9031,7 +9214,7 @@ the cells will be set in orange background.
     </message>
     <message>
         <source>Reject Duplicates Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>拒絕重複輸入</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -9042,7 +9225,9 @@ the cells will be set in orange background.
 system will remind checking the correctness of the contents.
 
 (Note: The function only supports single range)</source>
-        <translation type="unfinished"></translation>
+        <translation>在以下範圍輸入內容時，如果出現重複值，則提示查看輸入內容的正確性。
+
+（注:請選取一個範圍）</translation>
     </message>
     <message>
         <source>If there are duplicate values when entering contents in the following range,
@@ -9070,12 +9255,12 @@ the exact same contents will be deleted automatically, only keep one row.
 <context>
     <name>KxRevisionHighlightChangesDlg</name>
     <message>
-        <source>Invalid data value. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Today:</source>
+        <translation>今天: </translation>
     </message>
     <message>
-        <source>Today:</source>
-        <translation type="unfinished"></translation>
+        <source>Invalid data value. Please try again.</source>
+        <translation>輸入日期不正確，請重新輸入。</translation>
     </message>
     <message>
         <source>Invalid data value . Please try again.</source>
@@ -9099,6 +9284,33 @@ the exact same contents will be deleted automatically, only keep one row.
     <message>
         <source>Old Source</source>
         <translation>舊源</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectTableFromDbDlg</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名稱</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished">所有者</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">類型</translation>
+    </message>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished">選擇表格</translation>
+    </message>
+    <message>
+        <source>The data source contains no visible form</source>
+        <translation type="obsolete">數據源中沒有包含可見的表格.</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation type="unfinished">數據源中沒有包含可見的表格.</translation>
     </message>
 </context>
 <context>
@@ -9221,18 +9433,6 @@ the exact same contents will be deleted automatically, only keep one row.
         <translation>反覆運算次數必須為正數。</translation>
     </message>
     <message>
-        <source>Max Feasible Solutions must be a positive integer number.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Max Subproblems must be a positive integer number.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Max Time must be a positive integer number.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Precision must be a small positive number.</source>
         <translation>精確度必須介於 0 和 1 之間。</translation>
     </message>
@@ -9243,6 +9443,18 @@ the exact same contents will be deleted automatically, only keep one row.
     <message>
         <source>Sample Size must be a positive integer number.</source>
         <translation>樣本大小必須為正整數。</translation>
+    </message>
+    <message>
+        <source>Max Time must be a positive integer number.</source>
+        <translation>最大时间必须为正数。</translation>
+    </message>
+    <message>
+        <source>Max Subproblems must be a positive integer number.</source>
+        <translation>最大子問題數目上限必須是正整數。</translation>
+    </message>
+    <message>
+        <source>Max Feasible Solutions must be a positive integer number.</source>
+        <translation>最大合適解答數目上限必須是正整數。</translation>
     </message>
     <message>
         <source>Maximum time must be a positive integer.</source>
@@ -9264,10 +9476,6 @@ the exact same contents will be deleted automatically, only keep one row.
 <context>
     <name>KxSolverParaDlg</name>
     <message>
-        <source>IPOPT Nonlinear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No Constraints to change.</source>
         <translation>無限制式可改變。</translation>
     </message>
@@ -9286,10 +9494,6 @@ the exact same contents will be deleted automatically, only keep one row.
     <message>
         <source>Reset all Solver options and cell selections?</source>
         <translation>重設所有規劃求解選項和儲存格選定範圍?</translation>
-    </message>
-    <message>
-        <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the LP Simplex engine for linear Solver Problems.</source>
@@ -9322,6 +9526,14 @@ the exact same contents will be deleted automatically, only keep one row.
     <message>
         <source>integer</source>
         <translation>整數</translation>
+    </message>
+    <message>
+        <source>IPOPT Nonlinear</source>
+        <translation>非線性 IPOPT</translation>
+    </message>
+    <message>
+        <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
+        <translation>針對平滑非線性的規劃求解問題，請選取非線性 IPOPT 引擎。</translation>
     </message>
     <message>
         <source>GRG Nonlinear</source>
@@ -9363,14 +9575,6 @@ the exact same contents will be deleted automatically, only keep one row.
         <translation>規劃求解收斂於全域解答的機率。</translation>
     </message>
     <message>
-        <source>Solver found an integer solution within tolerance. All Constraints are satisfied.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Solver has converged to the current solution. All constraints are satisfied.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solver has performed 5 iterations for which the objective did not move significantly. Try a smaller convergence setting, or a different starting point.</source>
         <translation>規劃求解已執行 5 次反覆運算，目標並未明顯移動。請嘗試較小的收斂值設定，或改用另一個起點。</translation>
     </message>
@@ -9379,16 +9583,24 @@ the exact same contents will be deleted automatically, only keep one row.
         <translation>變數儲存格中的某個上限小於該變數儲存格的下限。</translation>
     </message>
     <message>
-        <source>The IPOPT engine has probably found a globally optimal solution.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The Multistart option require that you specify both upper and lower bounds on all the Variable Cells.</source>
         <translation>多點開始法選項要求您為所有的變數儲存格指定上下限。</translation>
     </message>
     <message>
         <source>Variable bounds conflict in Binary Constraint.</source>
         <translation>二進制的變數範圍限制有所衝突。</translation>
+    </message>
+    <message>
+        <source>Solver has converged to the current solution. All constraints are satisfied.</source>
+        <translation>規劃求解收斂目前的解答。已滿足所有的限制式。</translation>
+    </message>
+    <message>
+        <source>The IPOPT engine has probably found a globally optimal solution.</source>
+        <translation>IPOPT 引擎可能已找到全域最佳解答。</translation>
+    </message>
+    <message>
+        <source>Solver found an integer solution within tolerance. All Constraints are satisfied.</source>
+        <translation>規劃求解在誤差範圍內找到一整數解，可滿足所有的限制式。</translation>
     </message>
     <message>
         <source>Solver found an integer solution within tolerance.  All Constraints are satisfied.</source>
@@ -9411,7 +9623,7 @@ the exact same contents will be deleted automatically, only keep one row.
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(無)</translation>
     </message>
     <message>
         <source>Column %1</source>
@@ -9427,7 +9639,11 @@ the exact same contents will be deleted automatically, only keep one row.
 %1 The first Sort By box is blank. 
 %2 There are two same sort references. 
 %3 The sort reference you entered is not within the current selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>排序鍵值無效。造成無效的可能原因是:
+
+%1 第一個排序鍵是空白。
+%1 两个排序鍵相同。
+%1 輸入的排序鍵值在所要排序的資料之外。</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -9464,12 +9680,12 @@ the exact same contents will be deleted automatically, only keep one row.
         <translation>提出修正建議(&amp;L)</translation>
     </message>
     <message>
-        <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ignore words with num&amp;bers</source>
         <translation>忽略帶有數字的文字(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Ignore words in &amp;uppercase</source>
+        <translation>忽略全部大寫字(&amp;U)</translation>
     </message>
     <message>
         <source>Ignore words in &amp;UPPERCASE</source>
@@ -9491,7 +9707,7 @@ the exact same contents will be deleted automatically, only keep one row.
     <name>KxStylesMergeDlg</name>
     <message>
         <source>Too many different cell formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>太多不同的儲存格格式。</translation>
     </message>
 </context>
 <context>
@@ -9537,7 +9753,7 @@ the exact same contents will be deleted automatically, only keep one row.
     </message>
     <message>
         <source>Text Import Wizard - Step %1 of 3</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入字串精靈 - 3 步骤之 %1</translation>
     </message>
     <message>
         <source>YDM</source>
@@ -9599,15 +9815,6 @@ the exact same contents will be deleted automatically, only keep one row.
         <translation>新增至列範圍(&amp;R)</translation>
     </message>
     <message>
-        <source>At least one item must be showing. 
-If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation>最少要顯示一個項目。如果您不想要顯示這個欄位,請取消目前的操作,然後將欄位拖曳出表外。</translation>
-    </message>
-    <message>
-        <source>At least one item must be shown. If you do not want to show the field at all, cancel the current operation and drag the field out of the report.</source>
-        <translation type="obsolete">最少要顯示一個項目。如果您不想要顯示這個欄位,請取消目前的操作,然後將欄位拖曳出表外。</translation>
-    </message>
-    <message>
         <source>At least one item must be shown. If you don&apos;t want to show the field at all cancel the current operation,and then drag the field out of the report.</source>
         <translation type="obsolete">至少要顯示一個項目。
 如果您不想要顯示這個欄位,請取消目前的操作,然後將欄位拖曳出表外。</translation>
@@ -9665,12 +9872,21 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
         <translation>樞紐分析表選項(&amp;O)</translation>
     </message>
     <message>
+        <source>Sor&amp;t and top 10...</source>
+        <translation type="obsolete">排序並列出前 10 項(&amp;T)...</translation>
+    </message>
+    <message>
         <source>Sor&amp;t and Top 10...</source>
         <translation>排序並列出前10項(&amp;T)</translation>
     </message>
     <message>
-        <source>Sor&amp;t and top 10...</source>
-        <translation type="obsolete">排序並列出前 10 項(&amp;T)...</translation>
+        <source>At least one item must be showing. 
+If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
+        <translation>最少要顯示一個項目。如果您不想要顯示這個欄位,請取消目前的操作,然後將欄位拖曳出表外。</translation>
+    </message>
+    <message>
+        <source>At least one item must be shown. If you do not want to show the field at all, cancel the current operation and drag the field out of the report.</source>
+        <translation type="obsolete">最少要顯示一個項目。如果您不想要顯示這個欄位,請取消目前的操作,然後將欄位拖曳出表外。</translation>
     </message>
     <message>
         <source>(Show All)</source>
@@ -9696,44 +9912,45 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     <name>KxUrlParameterPrompt</name>
     <message>
         <source>&amp;Refresh automatically when cell value changes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bad parameter type. WPS Spreadsheets is expecting a different kind of value than what was provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>當儲存格值變更時自動更新(&amp;R)</translation>
     </message>
     <message>
         <source>Empty value for parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>參數值為空值。</translation>
     </message>
     <message>
         <source>Enter Parameter Value</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入參數值</translation>
     </message>
     <message>
         <source>Invalid data value for parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>參數值不正確。</translation>
     </message>
     <message>
         <source>Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">參數</translation>
     </message>
     <message>
         <source>Selection can be a single row or single column only.</source>
-        <translation type="unfinished"></translation>
+        <translation>只能選擇一欄或一列。</translation>
     </message>
     <message>
         <source>To Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提示</translation>
+    </message>
+    <message>
+        <source>Use this value/reference for &amp;future refreshes</source>
+        <translation>將來更新時使用這個數值或參照(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Bad parameter type. WPS Spreadsheets is expecting a different kind of value than what was provided.</source>
+        <translation>參數類型錯誤。WPS Spreadsheets 期待的是另一類型的值，而不是提供的值。</translation>
     </message>
     <message>
         <source>To refresh an external data range automatically when the parameter value changes, you must select a single cell to supply the parameter.
 Click OK, and then select a single cell in the Get The Value From The Following Cell box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use this value/reference for &amp;future refreshes</source>
-        <translation type="unfinished"></translation>
+        <translation>要在參數值變更時自動地更新外部資料來源，您必須選取一個單一儲存格來提供參數。
+按 [確定]，然後在 [以下列儲存格做為參數值的來源] 方塊中選取一個單一儲存格。</translation>
     </message>
 </context>
 <context>
@@ -9750,7 +9967,9 @@ Click OK, and then select a single cell in the Get The Value From The Following 
         <source>The name &quot;%1&quot; either conflicts with a valid range reference or is invalid for WPS Spreadsheets. The name has been replaced with &quot;%2&quot;.
 
 You may still need to manually update any references to this name used in VBA code or as text arguments in functions. You must close and reopen the workbook before these changes take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>名称 「%1」與有效範圍參照發生衝突或無效，或者不適用於 Kingsoft Spreadsheets。已將該名稱取代為「%2」。
+
+您可能仍然需要手動更新在 VBA 程式碼中使用此名稱的任何參照，或更新為函數中的文字引數。您必須關閉並重新開啟活頁簿，這些變更才會生效。</translation>
     </message>
     <message>
         <source>The name &quot;%1&quot; either conflicts with a valid range reference or is invalid for ET. The name has been replaced with &quot;%2&quot;.
@@ -9794,10 +10013,6 @@ You may still need to manually update any references to this name used in VBA co
     <message>
         <source>Center</source>
         <translation>置中對齊</translation>
-    </message>
-    <message>
-        <source>Center across selection</source>
-        <translation>跨欄置中</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
@@ -9864,6 +10079,10 @@ t</source>
         <translation>文字豎排(&amp;L)</translation>
     </message>
     <message>
+        <source>Center across selection</source>
+        <translation>跨欄置中</translation>
+    </message>
+    <message>
         <source>Center Across Selection</source>
         <translation type="obsolete">跨欄置中</translation>
     </message>
@@ -9919,20 +10138,12 @@ t</source>
         <translation>向左</translation>
     </message>
     <message>
-        <source>Left-to-Right</source>
-        <translation>從左至右</translation>
-    </message>
-    <message>
         <source>Orie&amp;ntation</source>
         <translation>方向(&amp;N)</translation>
     </message>
     <message>
         <source>Right</source>
         <translation>向右</translation>
-    </message>
-    <message>
-        <source>Right-to-Left</source>
-        <translation>從右至左</translation>
     </message>
     <message>
         <source>Right-to-left </source>
@@ -9945,6 +10156,14 @@ t</source>
     <message>
         <source>Top</source>
         <translation>靠上</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation>從左至右</translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation>從右至左</translation>
     </message>
     <message>
         <source>Increase I&amp;dent</source>
@@ -10120,10 +10339,6 @@ t</source>
         <translation>類型(&amp;T):</translation>
     </message>
     <message>
-        <source>&amp;Use 1000 separator ( ,)</source>
-        <translation type="obsolete">使用千分位( , )符號(&amp;U)</translation>
-    </message>
-    <message>
         <source>1</source>
         <translation>1</translation>
     </message>
@@ -10206,6 +10421,10 @@ t</source>
     <message>
         <source>Time</source>
         <translation>時間</translation>
+    </message>
+    <message>
+        <source>&amp;Use 1000 separator ( ,)</source>
+        <translation type="obsolete">使用千分位( , )符號(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Use 1000 Separator ( , )</source>
@@ -10330,20 +10549,20 @@ t</source>
 <context>
     <name>PreviewPageUi</name>
     <message>
-        <source>Display only top 50(&amp;H)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import data &amp;preview:</source>
-        <translation type="unfinished"></translation>
+        <source>The fourth step: Preview</source>
+        <translation>第四步：預覽</translation>
     </message>
     <message>
         <source>Import operation &amp;result:</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入動作結果：(&amp;R)</translation>
     </message>
     <message>
-        <source>The fourth step: Preview</source>
-        <translation type="unfinished"></translation>
+        <source>Import data &amp;preview:</source>
+        <translation>匯入資料預覽：(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Display only top 50(&amp;H)</source>
+        <translation>僅顯示開始50條資料(&amp;H)</translation>
     </message>
     <message>
         <source>Display only 50 pieces of data(&amp;H)</source>
@@ -10407,10 +10626,6 @@ t</source>
     <message>
         <source>@ET_Style?</source>
         <translation>@ET_Style?</translation>
-    </message>
-    <message>
-        <source>A macro is currently recording. Click to stop recording.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Constraint</source>
@@ -10477,10 +10692,6 @@ t</source>
         <translation>變更限制式</translation>
     </message>
     <message>
-        <source>Click to accept the solution and place the resulting values in the adjustable cells.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click to restore the original values in the adjustable cells.</source>
         <translation>按一下以還原可調整儲存格中的初值。</translation>
     </message>
@@ -10499,10 +10710,6 @@ t</source>
     <message>
         <source>Create a linearity report to see where the problem is.</source>
         <translation>建立線性報表以查看問題所在。</translation>
-    </message>
-    <message>
-        <source>Create the type of report that you specify, and place each report on a separate sheet in the workbook.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -10537,14 +10744,6 @@ t</source>
         <translation>度</translation>
     </message>
     <message>
-        <source>Diagonal Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Diagonal Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Double</source>
         <translation>雙線</translation>
     </message>
@@ -10559,10 +10758,6 @@ t</source>
     <message>
         <source>E&amp;nd time:</source>
         <translation>結束時間(&amp;N):</translation>
-    </message>
-    <message>
-        <source>Error in model. Please verify that all cells and Constraints are valid.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -10689,10 +10884,6 @@ t</source>
         <translation>水平分散對齊</translation>
     </message>
     <message>
-        <source>Ice Blue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Indents</source>
         <translation>縮進</translation>
     </message>
@@ -10706,7 +10897,7 @@ t</source>
     </message>
     <message>
         <source>Ivory</source>
-        <translation type="unfinished"></translation>
+        <translation>象牙色</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -10723,10 +10914,6 @@ t</source>
     <message>
         <source>Left</source>
         <translation>左</translation>
-    </message>
-    <message>
-        <source>Left-to-Right</source>
-        <translation type="unfinished">從左至右</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -10793,10 +10980,6 @@ t</source>
         <translation>無底紋</translation>
     </message>
     <message>
-        <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>None</source>
         <translation>無</translation>
     </message>
@@ -10841,10 +11024,6 @@ t</source>
         <translation>梅紅</translation>
     </message>
     <message>
-        <source>Reading Order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Red</source>
         <translation>紅色</translation>
     </message>
@@ -10861,10 +11040,6 @@ t</source>
         <translation>右</translation>
     </message>
     <message>
-        <source>Right-to-Left</source>
-        <translation type="unfinished">從右至左</translation>
-    </message>
-    <message>
         <source>Rose</source>
         <translation>玫瑰紅</translation>
     </message>
@@ -10875,10 +11050,6 @@ t</source>
     <message>
         <source>Rotated up %1 Degrees</source>
         <translation>旋轉 向上 %1 度</translation>
-    </message>
-    <message>
-        <source>Sea</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sea Green</source>
@@ -10929,10 +11100,6 @@ t</source>
         <translation>規劃求解在目標儲存格或限制式儲存格中遇到錯誤值。</translation>
     </message>
     <message>
-        <source>Solver found a solution. All constraints and optimality conditions are satisfied.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solver has stopped before finding a globally optimal solution. The best found solution, if any, will be given.</source>
         <translation>規劃求解未找到全域最佳解答之前已先停止。將提供找到的最佳解答 (如果有)。</translation>
     </message>
@@ -10943,10 +11110,6 @@ t</source>
     <message>
         <source>Solver requires more memory to solve this problem than is available on the machine.</source>
         <translation>規劃求解需要比機器上可用更多的記憶體才能解出此問題。</translation>
-    </message>
-    <message>
-        <source>Solver stopped at user&apos;s request.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop</source>
@@ -10971,10 +11134,6 @@ t</source>
     <message>
         <source>Strikethrough</source>
         <translation>刪除線</translation>
-    </message>
-    <message>
-        <source>Style name is not valid.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -11011,14 +11170,6 @@ t</source>
     <message>
         <source>The problem is too large for Solver to handle.</source>
         <translation>規劃求解的問題太大無法處理。</translation>
-    </message>
-    <message>
-        <source>The specified file %1 is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The workbook is protected, and cannot generate reports.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There is not enough memory available to solve the problem.</source>
@@ -11065,10 +11216,6 @@ t</source>
         <translation>紫蘿蘭色</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
         <translation>使用 Simplex LP 時，這表示規劃求解找到了全域最佳解答。</translation>
     </message>
@@ -11087,10 +11234,6 @@ t</source>
     <message>
         <source>You are not allowed to add the default style name.</source>
         <translation>不允許添加內建樣式名。</translation>
-    </message>
-    <message>
-        <source>You cannot save this workbook %1 with the same name as another open workbook. Choose a different name, or close the other workbook before saving.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
@@ -11155,6 +11298,82 @@ t</source>
     <message>
         <source>integer</source>
         <translation>整數</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
+        <translation>WPS Spreadsheets 無法以可用的資源完成工作。請選擇較小的資料或關閉其他應用程式。</translation>
+    </message>
+    <message>
+        <source>Style name is not valid.</source>
+        <translation>樣式名無效</translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation>從右至左</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation>從左至右</translation>
+    </message>
+    <message>
+        <source>Reading Order</source>
+        <translation>讀取順序</translation>
+    </message>
+    <message>
+        <source>Diagonal Up</source>
+        <translation>上斜線</translation>
+    </message>
+    <message>
+        <source>Diagonal Down</source>
+        <translation>下斜線</translation>
+    </message>
+    <message>
+        <source>Sea</source>
+        <translation>海藍</translation>
+    </message>
+    <message>
+        <source>Ice Blue</source>
+        <translation>冰藍</translation>
+    </message>
+    <message>
+        <source>Click to accept the solution and place the resulting values in the adjustable cells.</source>
+        <translation>按一下以接受解答，並將產生的值放在可調整的儲存格中。</translation>
+    </message>
+    <message>
+        <source>Create the type of report that you specify, and place each report on a separate sheet in the workbook.</source>
+        <translation>建立您指定的報表類型，並將每個報表放在活頁簿中的個別工作表中</translation>
+    </message>
+    <message>
+        <source>Solver found a solution. All constraints and optimality conditions are satisfied.</source>
+        <translation>規劃求解找到解答。可滿足所有限制式和最適率條件。</translation>
+    </message>
+    <message>
+        <source>Solver stopped at user&apos;s request.</source>
+        <translation>使用者中斷規劃求解。</translation>
+    </message>
+    <message>
+        <source>Error in model. Please verify that all cells and Constraints are valid.</source>
+        <translation>模式錯誤，請檢查所有的儲存格和限制式是否有效。</translation>
+    </message>
+    <message>
+        <source>The workbook is protected, and cannot generate reports.</source>
+        <translation>活頁簿被保護，無法產生報告。</translation>
+    </message>
+    <message>
+        <source>The specified file %1 is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <translation>指定的檔案「%1」屬于不支持的檔案類型，請按一下 [確定] 按鈕，在 [另存新檔] 對話方塊中重新指定儲存的檔案類型。</translation>
+    </message>
+    <message>
+        <source>You cannot save this workbook %1 with the same name as another open workbook. Choose a different name, or close the other workbook before saving.</source>
+        <translation>您不能使用這個檔名「%1」存檔，因為已經有同樣檔名的檔案被開啟了。請選用其他的檔名，或將那個同名的檔案關閉。</translation>
+    </message>
+    <message>
+        <source>A macro is currently recording. Click to stop recording.</source>
+        <translation>目前正在錄製巨集。按一下以停止錄製。</translation>
+    </message>
+    <message>
+        <source>No macros is currently recording. Click to begin recording a new macro.</source>
+        <translation>目前沒有錄製任何巨集。請按一下以開始錄製新的巨集。</translation>
     </message>
     <message>
         <source>Click to accept the solution and place the resulting values in the adjustable cells..</source>
@@ -11273,10 +11492,6 @@ and cannot generate reports.</source>
 <context>
     <name>ReadOnlyFile</name>
     <message>
-        <source>&quot;Another user&quot; is editing.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%s is locked for editing.</source>
         <translation>%s 正處於鎖定狀態,</translation>
     </message>
@@ -11285,16 +11500,20 @@ and cannot generate reports.</source>
         <translation>通知(&amp;N)</translation>
     </message>
     <message>
-        <source>&amp;Read-Only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
+        <source>&quot;Another user&quot; is editing.</source>
+        <translation>&quot;另一使用者&quot;正在編輯。</translation>
+    </message>
+    <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>按 [通知] 以唯讀方式開啟文件，並在他人不再使用文件時接收通知。</translation>
+    </message>
+    <message>
+        <source>&amp;Read-Only</source>
+        <translation>唯讀(&amp;R)</translation>
     </message>
     <message>
         <source>&quot;another user&quot; is editing.</source>
@@ -11312,14 +11531,6 @@ and cannot generate reports.</source>
 <context>
     <name>SelectPageUi</name>
     <message>
-        <source>&amp;Selected fields:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Table name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;</source>
         <translation></translation>
     </message>
@@ -11336,20 +11547,28 @@ and cannot generate reports.</source>
         <translation></translation>
     </message>
     <message>
-        <source>Available &amp;fields:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Explanation</source>
         <translation>解釋</translation>
     </message>
     <message>
-        <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
-        <translation type="unfinished"></translation>
+        <source>The second step: Select table and fields</source>
+        <translation>第二步：選擇表格及欄位</translation>
     </message>
     <message>
-        <source>The second step: Select table and fields</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Table name:</source>
+        <translation>表格名稱(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Available &amp;fields:</source>
+        <translation>可用的欄位：(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Selected fields:</source>
+        <translation>已選取的欄位(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
+        <translation>先從下拉式清單方塊中選擇需要匯入的目的工作表名稱，選擇后左邊的列表框會列出表中所有的欄位名稱，選擇需要匯入的欄位后，選取的欄位會在右邊列表框中顯示。</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combobox, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
@@ -11373,11 +11592,14 @@ and cannot generate reports.</source>
     </message>
 </context>
 <context>
-    <name>SolverOptions</name>
+    <name>SelectTableFromDbUI</name>
     <message>
-        <source>All Methods</source>
-        <translation type="unfinished"></translation>
+        <source>Select Table</source>
+        <translation type="unfinished">選擇表格</translation>
     </message>
+</context>
+<context>
+    <name>SolverOptions</name>
     <message>
         <source>Central</source>
         <translation>中心</translation>
@@ -11399,24 +11621,8 @@ and cannot generate reports.</source>
         <translation>前向</translation>
     </message>
     <message>
-        <source>IPOPT Nonlinear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ignore Integer Constraints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Integer Constraints:</source>
         <translation>整數限制式:</translation>
-    </message>
-    <message>
-        <source>Integer Optimality(%):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Iterations:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Max Feasible Solutions:</source>
@@ -11425,10 +11631,6 @@ and cannot generate reports.</source>
     <message>
         <source>Max Subproblems:</source>
         <translation>子問題數目上限:</translation>
-    </message>
-    <message>
-        <source>Max Time (Seconds):</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Multistart</source>
@@ -11451,10 +11653,6 @@ and cannot generate reports.</source>
         <translation>變數需要範圍限制</translation>
     </message>
     <message>
-        <source>Show Iteration Results</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solving Limits</source>
         <translation>求解極限</translation>
     </message>
@@ -11469,6 +11667,34 @@ and cannot generate reports.</source>
     <message>
         <source>Use Multistart</source>
         <translation>使用多點開始法</translation>
+    </message>
+    <message>
+        <source>All Methods</source>
+        <translation>所有方法</translation>
+    </message>
+    <message>
+        <source>Show Iteration Results</source>
+        <translation>顯示反覆運算結果</translation>
+    </message>
+    <message>
+        <source>Ignore Integer Constraints</source>
+        <translation>忽略整數限制式</translation>
+    </message>
+    <message>
+        <source>Integer Optimality(%):</source>
+        <translation>整數最適率(%):</translation>
+    </message>
+    <message>
+        <source>Max Time (Seconds):</source>
+        <translation>最大時限(秒):</translation>
+    </message>
+    <message>
+        <source>Iterations:</source>
+        <translation>反覆運算次數:</translation>
+    </message>
+    <message>
+        <source>IPOPT Nonlinear</source>
+        <translation>非線性 IPOPT</translation>
     </message>
     <message>
         <source>AllMethods</source>
@@ -11530,10 +11756,6 @@ and cannot generate reports.</source>
         <translation>最大值(&amp;M)</translation>
     </message>
     <message>
-        <source>&amp;Reset All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Solve</source>
         <translation>求解(&amp;S)</translation>
     </message>
@@ -11570,16 +11792,20 @@ and cannot generate reports.</source>
         <translation>選取求解方法:(&amp;E)</translation>
     </message>
     <message>
-        <source>Solver Parameters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solving Method</source>
         <translation>求解方法</translation>
     </message>
     <message>
         <source>To:</source>
         <translation>至:</translation>
+    </message>
+    <message>
+        <source>Solver Parameters</source>
+        <translation>規劃求解參數</translation>
+    </message>
+    <message>
+        <source>&amp;Reset All</source>
+        <translation>全部重設(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;ResetAll</source>
@@ -11621,12 +11847,12 @@ and cannot generate reports.</source>
         <translation>結果</translation>
     </message>
     <message>
-        <source>Save Project</source>
-        <translation type="unfinished"></translation>
+        <source>Solver Results</source>
+        <translation>規劃求解結果</translation>
     </message>
     <message>
-        <source>Solver Results</source>
-        <translation type="unfinished"></translation>
+        <source>Save Project</source>
+        <translation>保存工程</translation>
     </message>
     <message>
         <source>SaveProject</source>
@@ -11692,7 +11918,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheet</source>
@@ -11768,7 +11994,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&amp;Do not display the alert and do not update automatic links</source>
-        <translation type="unfinished"></translation>
+        <translation>不要顯示提醒訊息並且不要更新連結(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Open Source</source>
@@ -11792,7 +12018,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Do not display the alert and update lin&amp;ks</source>
-        <translation type="unfinished"></translation>
+        <translation>不要顯示提醒並更新連結(&amp;K)</translation>
     </message>
     <message>
         <source>Edit Links</source>
@@ -11820,7 +12046,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>When this workbook is opened, WPS Spreadsheets will ask whether or not to update links to other workbooks.</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟本活頁簿時，WPS Spreadsheets 可询问是否要為其他的活頁簿更新連結。</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t display the alert and don&apos;t update automatic links</source>
@@ -11878,7 +12104,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Goal Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>目標搜尋</translation>
     </message>
     <message>
         <source>OK</source>
@@ -11917,11 +12143,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Goal Seek Status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Infotip</source>
-        <translation type="unfinished">文字標籤</translation>
+        <translation>目標搜尋狀態</translation>
     </message>
     <message>
         <source>OK</source>
@@ -11940,6 +12162,10 @@ and cannot generate reports.</source>
         <translation type="obsolete">文字標籤</translation>
     </message>
     <message>
+        <source>Infotip</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
         <source>goalseekstatus</source>
         <translation type="obsolete">目標搜尋狀態</translation>
     </message>
@@ -11952,15 +12178,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Printing permission:</source>
-        <translation type="unfinished"></translation>
+        <translation>整個活頁簿(&amp;E)</translation>
     </message>
     <message>
         <source>Active &amp;Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>選定工作表(&amp;S)</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
@@ -11983,36 +12205,20 @@ and cannot generate reports.</source>
         <translation>輸出範圍</translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <source>Export to PDF File</source>
+        <translation>匯出 PDF 檔案</translation>
     </message>
     <message>
         <source>File password:</source>
         <translation>開啟密碼:</translation>
     </message>
     <message>
-        <source>Free printing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hyper&amp;link</source>
         <translation>超連結(&amp;L)</translation>
     </message>
     <message>
-        <source>Low-quality printing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New &amp;Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Normal</source>
         <translation>一般</translation>
-    </message>
-    <message>
-        <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
@@ -12021,14 +12227,6 @@ and cannot generate reports.</source>
     <message>
         <source>Passwor&amp;d:</source>
         <translation>密碼(&amp;D):</translation>
-    </message>
-    <message>
-        <source>Password to protect permission settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
@@ -12043,10 +12241,6 @@ and cannot generate reports.</source>
         <translation>允許變更(&amp;F)</translation>
     </message>
     <message>
-        <source>Printing Permission</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Printing not allowed</source>
         <translation>不允許列印</translation>
     </message>
@@ -12059,6 +12253,38 @@ and cannot generate reports.</source>
         <translation>檔案資訊(&amp;I)</translation>
     </message>
     <message>
+        <source>New &amp;Comment</source>
+        <translation>註解(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation>權限設定</translation>
+    </message>
+    <message>
+        <source>Password to protect permission settings</source>
+        <translation>權限設定密碼(&amp;R)(使以下權限設定生效)</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
+        <translation>注意:只有設定以上密碼，以下的權限內容設定才會生效，并能防止這些設定被他人更改。</translation>
+    </message>
+    <message>
+        <source>&amp;Printing permission:</source>
+        <translation>列印權限(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation>列印權限</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation>不受限列印</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation>低品質列印</translation>
+    </message>
+    <message>
         <source>&amp;Comment</source>
         <translation type="obsolete">註解(&amp;C)</translation>
     </message>
@@ -12069,10 +12295,6 @@ and cannot generate reports.</source>
     <message>
         <source>Active &amp;sheet</source>
         <translation type="obsolete">選定工作表(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Export Adobe PDF File</source>
-        <translation type="obsolete">匯出 Adobe PDF 檔案</translation>
     </message>
     <message>
         <source>Free Print</source>
@@ -12110,20 +12332,12 @@ and cannot generate reports.</source>
         <translation>取消</translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
+        <source>Export to PDF File</source>
+        <translation>匯出 PDF 檔案</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished">正在準備匯出 PDF 檔案...</translation>
-    </message>
-    <message>
-        <source>Export Adobe PDF File</source>
-        <translation type="obsolete">匯出 Adobe PDF 檔案</translation>
-    </message>
-    <message>
-        <source>Preparing to export PDF file...</source>
-        <translation type="obsolete">正在準備匯出 PDF 檔案...</translation>
+        <translation>正在準備匯出 PDF 檔案...</translation>
     </message>
 </context>
 <context>
@@ -12145,21 +12359,12 @@ and cannot generate reports.</source>
         <translation>網址（&amp;E）:</translation>
     </message>
     <message>
-        <source>Browse for File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;xisting File
-or Web Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>E-&amp;mail Address</source>
         <translation>電子郵件地址（&amp;M）</translation>
     </message>
     <message>
         <source>Email Buttion</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -12179,10 +12384,6 @@ Document</source>
         <translation>這份文件中的位置（&amp;A）</translation>
     </message>
     <message>
-        <source>Re&amp;cently used E-mail addresses:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>S&amp;ubject:</source>
         <translation>主題（&amp;U）:</translation>
     </message>
@@ -12193,6 +12394,19 @@ Document</source>
     <message>
         <source>Up One Folder</source>
         <translation>向上一個資料夾</translation>
+    </message>
+    <message>
+        <source>E&amp;xisting File
+or Web Page</source>
+        <translation>現存的檔案或網頁（&amp;X）</translation>
+    </message>
+    <message>
+        <source>Browse for File</source>
+        <translation>瀏覽檔案</translation>
+    </message>
+    <message>
+        <source>Re&amp;cently used E-mail addresses:</source>
+        <translation>最近使用的電子郵件地址（&amp;C）:</translation>
     </message>
     <message>
         <source>Browse File</source>
@@ -12214,12 +12428,12 @@ Document</source>
         <translation></translation>
     </message>
     <message>
-        <source>Select the lo&amp;cation in this document:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Type the c&amp;ell reference:</source>
         <translation>輸入儲存格位址(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Select the lo&amp;cation in this document:</source>
+        <translation>請選取文件中的一個位置(&amp;C)</translation>
     </message>
     <message>
         <source>Select a pla&amp;ce in this document:</source>
@@ -12229,12 +12443,8 @@ Document</source>
 <context>
     <name>kxWidgetControl</name>
     <message>
-        <source>&amp;3-D shading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cell link:</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存格連結(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Checked</source>
@@ -12245,20 +12455,8 @@ Document</source>
         <translation>目前值(&amp;C):</translation>
     </message>
     <message>
-        <source>&amp;Drop down lines:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Extend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Input range:</source>
         <translation>輸入範圍(&amp;I):</translation>
-    </message>
-    <message>
-        <source>&amp;Minimum value:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Mixed</source>
@@ -12266,15 +12464,11 @@ Document</source>
     </message>
     <message>
         <source>&amp;Multi select</source>
-        <translation type="unfinished"></translation>
+        <translation>多重(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Page step size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Single</source>
-        <translation type="unfinished"></translation>
+        <translation>頁面變更(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;UnChecked</source>
@@ -12286,19 +12480,15 @@ Document</source>
     </message>
     <message>
         <source>Cell &amp;link:</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存格連結(&amp;L):</translation>
     </message>
     <message>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
-        <source>Ma&amp;ximum value:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select type</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇方式</translation>
     </message>
     <message>
         <source>Step s&amp;ize:</source>
@@ -12306,7 +12496,31 @@ Document</source>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>&amp;3-D shading</source>
+        <translation>立體陰影(&amp;3)</translation>
+    </message>
+    <message>
+        <source>&amp;Single</source>
+        <translation>單一(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Extend</source>
+        <translation>延伸(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Drop down lines:</source>
+        <translation>顯示行數(&amp;D):</translation>
+    </message>
+    <message>
+        <source>&amp;Minimum value:</source>
+        <translation>最小值(&amp;M):</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximum value:</source>
+        <translation>最大值(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;3D Shadow</source>
@@ -12400,11 +12614,11 @@ Document</source>
     <name>kxWidgetProperties</name>
     <message>
         <source>&amp;Do not move or resize cells</source>
-        <translation type="unfinished"></translation>
+        <translation>大小位置不隨儲存格改變(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Move but do not re&amp;size cells</source>
-        <translation type="unfinished"></translation>
+        <translation>大小固定，位置隨儲存格而變(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Print object</source>
@@ -12416,11 +12630,11 @@ Document</source>
     </message>
     <message>
         <source>Move and re&amp;size cells</source>
-        <translation type="unfinished"></translation>
+        <translation>大小位置隨儲存格而變(&amp;S)</translation>
     </message>
     <message>
         <source>Object positioning</source>
-        <translation type="unfinished"></translation>
+        <translation>物件位置</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t move or size with cells</source>
@@ -12469,20 +12683,20 @@ Document</source>
         <translation>編輯連結(&amp;L)...</translation>
     </message>
     <message>
-        <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This workbook contains one or more links that cannot be updated.</source>
         <translation>此活頁簿包含一或多個無法更新的連結。</translation>
     </message>
     <message>
         <source>To change the source of links, or attempt to update values again, click Edit Links.</source>
-        <translation type="unfinished"></translation>
+        <translation>·若要變更連結來源，或再次嘗試更新值，請按 [編輯連結]。</translation>
     </message>
     <message>
         <source>To leave the links as they are, click Continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>·若要保留連結目前的狀態，請按 [繼續]。</translation>
+    </message>
+    <message>
+        <source>Spreadsheets</source>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheet</source>
@@ -12520,7 +12734,7 @@ Document</source>
     </message>
     <message>
         <source>The worksheet specified was not found in the linked source file. Please re-specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>在連結的源文件找不到以下工作表，請重新指定。</translation>
     </message>
     <message>
         <source>Worksheets specified is not found in the linked source file, please reassign the worksheet.</source>
@@ -12546,40 +12760,42 @@ Document</source>
         <translation>取消</translation>
     </message>
     <message>
-        <source>Sort Warning</source>
-        <translation>排序警告</translation>
+        <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
+        <translation type="obsolete">Kingsoft Spreadsheets 偵測到您選定的範圍旁邊還有資料，這些資料將不會接受排序。</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation>WPS Spreadsheets發現在選定範圍旁邊還有資料，這些資料將不參與排序</translation>
+        <source>Sort Warning</source>
+        <translation>排序警告</translation>
     </message>
     <message>
         <source>What do you want to do?</source>
         <translation>請問您要如何排序?</translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation type="obsolete">Kingsoft Spreadsheets 偵測到您選定的範圍旁邊還有資料，這些資料將不會接受排序。</translation>
+        <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
+        <translation>WPS Spreadsheets發現在選定範圍旁邊還有資料，這些資料將不參與排序</translation>
     </message>
 </context>
 <context>
     <name>switchCalcMode</name>
     <message>
-        <source>Automatic(Recommend)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="unfinished"></translation>
+        <translation>您打開的檔案，正在將程式從 [自動重算] 改成 [手動重算]，這將會導致該檔案及其他檔案在編輯過程中無法及時得到正確的計算結果。
+
+請您確認:是否要改成 [手動重算] ?</translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation>手動</translation>
+    </message>
+    <message>
+        <source>Automatic(Recommend)</source>
+        <translation>自動（建議選項）</translation>
     </message>
     <message>
         <source>Automatic Recalculation (Recommend)</source>

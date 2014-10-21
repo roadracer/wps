@@ -989,97 +989,97 @@ Would you like to open this file?
     <message>
         <source>Applause</source>
         <comment>WP_SOUNDEFFECT_Applause</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oklaski</translation>
     </message>
     <message>
         <source>Arrow</source>
         <comment>WP_SOUNDEFFECT_Arrow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strzałka</translation>
     </message>
     <message>
         <source>Bomb</source>
         <comment>WP_SOUNDEFFECT_Bomb</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bomba</translation>
     </message>
     <message>
         <source>Breeze</source>
         <comment>WP_SOUNDEFFECT_Breeze</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wietrzyk</translation>
     </message>
     <message>
         <source>Camera</source>
         <comment>WP_SOUNDEFFECT_Camera</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aparat</translation>
     </message>
     <message>
         <source>Cash Register</source>
         <comment>WP_SOUNDEFFECT_CashRegister</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kasa fiskalna</translation>
     </message>
     <message>
         <source>Chime</source>
         <comment>WP_SOUNDEFFECT_Chime</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kurant</translation>
     </message>
     <message>
         <source>Click</source>
         <comment>WP_SOUNDEFFECT_Click</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klik</translation>
     </message>
     <message>
         <source>Coin</source>
         <comment>WP_SOUNDEFFECT_Coin</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pieniążek</translation>
     </message>
     <message>
         <source>Drum Roll</source>
         <comment>WP_SOUNDEFFECT_DrumRool</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Werbel</translation>
     </message>
     <message>
         <source>Explosion</source>
         <comment>WP_SOUNDEFFECT_Explosion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eksplozja</translation>
     </message>
     <message>
         <source>Hammer</source>
         <comment>WP_SOUNDEFFECT_Hammer</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Młot</translation>
     </message>
     <message>
         <source>Laser</source>
         <comment>WP_SOUNDEFFECT_Laser</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laser</translation>
     </message>
     <message>
         <source>Push</source>
         <comment>WP_SOUNDEFFECT_Push</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prznięcie</translation>
     </message>
     <message>
         <source>Suction</source>
         <comment>WP_SOUNDEFFECT_Suction</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ssanie</translation>
     </message>
     <message>
         <source>Typewriter</source>
         <comment>WP_SOUNDEFFECT_Typewriter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maszyna do pisania</translation>
     </message>
     <message>
         <source>Voltage</source>
         <comment>WP_SOUNDEFFECT_Voltage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Napięcie</translation>
     </message>
     <message>
         <source>Whoosh</source>
         <comment>WP_SOUNDEFFECT_Whoosh</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Świst</translation>
     </message>
     <message>
         <source>Wind</source>
         <comment>WP_SOUNDEFFECT_Wind</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wiatr</translation>
     </message>
     <message>
         <source>Other Sound...</source>
@@ -2408,6 +2408,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Presentation Caption</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppdata</name>
@@ -2497,7 +2501,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Title</source>
         <comment>WP_SLIDE_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tytuł</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -2540,12 +2544,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Custom Animation</source>
         <comment>wpp_CustomAnimation_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Własna animacja</translation>
     </message>
     <message>
         <source>Custom Animation</source>
         <comment>wpp_CustomAnimation_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Własna animacja</translation>
     </message>
     <message>
         <source>1 cm</source>
@@ -5958,11 +5962,6 @@ Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
-        <comment>WP_TEMPLATEFILE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Apply Design Template</source>
         <comment>WP_APPLYTEMPLATE</comment>
         <translation type="unfinished"></translation>
@@ -6470,6 +6469,11 @@ Check</source>
     <message>
         <source>Play Background Music</source>
         <comment>WpBkSoundButton</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
+        <comment>WP_TEMPLATEFILE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

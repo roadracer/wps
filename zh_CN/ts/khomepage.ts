@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Docer-在线模板</translation>
     </message>
 </context>
 <context>

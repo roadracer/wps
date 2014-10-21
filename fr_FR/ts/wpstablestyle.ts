@@ -145,7 +145,7 @@
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation>Première ligne et dernière colonne</translation>
+        <translation>Première ligne et dernière ligne</translation>
     </message>
     <message>
         <source>Last Column</source>

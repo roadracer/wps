@@ -2332,10 +2332,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Co&amp;mmas</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4478,6 +4474,93 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxDlgMergeCompare</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field&amp;s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Original document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Revised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comparison settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertions and Deletions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;ables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comme&amp;nts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnotes and en&amp;dnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xtboxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Case chan&amp;ges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>&amp;All</source>
@@ -4885,10 +4968,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Create backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Default paste format:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5082,10 +5161,6 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>AutoCorrect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AutoFormat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5639,10 +5714,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="obsolete">&amp;Smart Backup</translation>
     </message>
     <message>
-        <source>Recent documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recover options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5930,6 +6001,46 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set default target out&amp;put to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>220 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>150 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>96 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reminder for embedding &amp;cloud fonts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7826,10 +7937,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7851,6 +7958,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save PDF File As</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8559,7 +8670,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Sounds like(English)</source>
-        <translation>Sounds like(English)</translation>
+        <translation type="obsolete">Sounds like(English)</translation>
     </message>
     <message>
         <source>Sounds like(Japanese)</source>
@@ -9236,6 +9347,65 @@ This change will affect all new documents based on the %1 template.</translation
     </message>
 </context>
 <context>
+    <name>KxMergeCompareDlg</name>
+    <message>
+        <source>browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compare Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxMergeToDiffNewDocDlg</name>
     <message>
         <source>Browse Folder</source>
@@ -9289,7 +9459,7 @@ This change will affect all new documents based on the %1 template.</translation
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation type="unfinished">The number must not be nil.</translation>
+        <translation type="obsolete">The number must not be nil.</translation>
     </message>
     <message>
         <source>The number must not be nil.</source>
@@ -9297,6 +9467,10 @@ This change will affect all new documents based on the %1 template.</translation
     </message>
     <message>
         <source>This is not a valid number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9744,6 +9918,21 @@ Cancel:	Return to the dialog.</source>
     </message>
 </context>
 <context>
+    <name>KxOnlineFontTipDlg</name>
+    <message>
+        <source>Renew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Automatic</source>
@@ -10045,6 +10234,10 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11628,6 +11821,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsGalleryFontComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
@@ -11652,7 +11852,7 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
-        <source>Show header line</source>
+        <source>Show Header Line</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11750,13 +11950,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
-    <name>KxWpsLocateCloseBtn</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWpsLocateWidget</name>
     <message>
         <source>%1 hours ago</source>
@@ -11792,6 +11985,21 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>yyyy years MM months dd days</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsMainWindow</name>
+    <message>
+        <source>Command name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12634,6 +12842,10 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>The number input must be between 1 and 63.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
@@ -12739,10 +12951,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export Adobe PDF File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12861,6 +13069,10 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -12873,7 +13085,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
+        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

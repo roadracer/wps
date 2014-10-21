@@ -103,6 +103,85 @@
     </message>
 </context>
 <context>
+    <name>field_parser_index</name>
+    <message>
+        <source>Error!Can not find xe.</source>
+        <translation type="obsolete">Fehler! Keine Indexeinträge gefunden.</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter is not specified.</source>
+        <translation type="obsolete">Fehler! Schalterargument nicht angegeben.</translation>
+    </message>
+    <message>
+        <source>Error!Bookmark the page of an invalid.</source>
+        <translation type="obsolete">Fehler! Ungültige Textmarke in einem Eintrag auf der Seite.</translation>
+    </message>
+    <message>
+        <source>Alphabet</source>
+        <translation type="obsolete">Alphabet</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>Symbol</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter unrecognizable.</source>
+        <translation type="obsolete">Fehler! Unknown switch argument.</translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation>Pinselstrich</translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation>Chinesisch</translation>
+    </message>
+    <message>
+        <source>Error!Is not a valid character range.</source>
+        <translation type="obsolete">Fehler! Kein gültiger Zeichenbereich.</translation>
+    </message>
+    <message>
+        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <translation type="obsolete">Fehler! In Fußnoten, Endnoten, Kopfzeilen, Fußzeilen,Anmerkungen oder Textfeldern können keine Indexe erstellt werden.</translation>
+    </message>
+    <message>
+        <source>wps can not update index!</source>
+        <translation type="obsolete">Index kann von WPS nicht aktualisiert werden!</translation>
+    </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation>Alphabet</translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation>Fehler! In Fußnoten, Endnoten, Kopfzeilen, Fußzeilen,Anmerkungen oder Textfeldern können keine Indexe erstellt werden.</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation>Fehler! Ungültige Textmarke in einem Eintrag auf der Seite.</translation>
+    </message>
+    <message>
+        <source>Error. No index entries found.</source>
+        <translation>Fehler! Keine Indexeinträge gefunden.</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation>Fehler! Kein gültiger Zeichenbereich.</translation>
+    </message>
+    <message>
+        <source>Error. Switch argument not specified.</source>
+        <translation>Fehler! Schalterargument nicht angegeben.</translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation>Fehler! Unknown switch argument.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
+        <translation>Index kann von WPS nicht aktualisiert werden!</translation>
+    </message>
+</context>
+<context>
     <name>field_parser_links_and_reference</name>
     <message>
         <source>Error! Bookmark not specified.</source>
@@ -564,7 +643,7 @@
     <message>
         <source>Comment</source>
         <comment>TX_COMMENT_TITLE</comment>
-        <translation type="unfinished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
 </context>
 <context>
@@ -572,22 +651,22 @@
     <message>
         <source>Clear</source>
         <comment>TxVersion_Clear</comment>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsertPicture</comment>
-        <translation type="unfinished">Bild einfügen</translation>
+        <translation>Bild einfügen</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <comment>TxVersion_InsertTextEffect</comment>
-        <translation type="unfinished">WordArt einfügen</translation>
+        <translation>WordArt einfügen</translation>
     </message>
     <message>
         <source>Text Box</source>
         <comment>TxTextBox</comment>
-        <translation type="unfinished">Textfeld</translation>
+        <translation>Textfeld</translation>
     </message>
 </context>
 <context>
@@ -595,7 +674,7 @@
     <message>
         <source>Error!</source>
         <comment>TX_FIELD_ERR_EQ_PARSE</comment>
-        <translation type="unfinished">Fehler!</translation>
+        <translation>Fehler!</translation>
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotation mark.</source>
@@ -603,19 +682,9 @@
         <translation type="obsolete">Fehler! Bild-String enthält unpaarige Anführungszeichen.</translation>
     </message>
     <message>
-        <source>Error! Picture string contains unmatched quotes.</source>
-        <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
-        <translation type="unfinished">Fehler! Bild-String enthält unpaarige Anführungszeichen.</translation>
-    </message>
-    <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
         <comment>TX_FIELD_ERR_PICTURE_FORMAT_NOT_FIRST</comment>
-        <translation type="unfinished">Fehler! Bildwechsel muss der erste Formatwechsel sein.</translation>
-    </message>
-    <message>
-        <source>Error! Switch argument not specified.</source>
-        <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
-        <translation type="unfinished">Fehler! Wechselparameter nicht angegeben.</translation>
+        <translation>Fehler! Bildschalter muss der erste Formatierungsschalter sein.</translation>
     </message>
     <message>
         <source>Error! Switch parameter not specified.</source>
@@ -625,27 +694,37 @@
     <message>
         <source>Error! The style is not specified.</source>
         <comment>TX_FIELD_ERR_STYLE_NOT_DEFINED</comment>
-        <translation type="unfinished">Fehler! Stil nicht angegeben.</translation>
+        <translation>Fehler! Stil nicht angegeben.</translation>
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
         <comment>TX_FIELD_ERR_STYLEREF_NO_STYLENAME_GIVEN</comment>
-        <translation type="unfinished">Fehler! Stilname nicht angegeben.</translation>
+        <translation>Fehler! Formatvorlagenname nicht angegeben.</translation>
     </message>
     <message>
         <source>Error! Too many picture switches defined.</source>
         <comment>TX_FIELD_ERR_TOO_MANY_PICTURE</comment>
-        <translation type="unfinished">Fehler! Zu viele Bildwechsel angegeben.</translation>
-    </message>
-    <message>
-        <source>Error! Unknown switch argument.</source>
-        <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
-        <translation type="unfinished">Fehler! Unbekannter Wechselparameter.</translation>
+        <translation>Fehler! Es wurden zu viele Bildschalter angegeben.</translation>
     </message>
     <message>
         <source>Error! Unknown switch parameter.</source>
         <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
         <translation type="obsolete">Fehler! Unbekannter Wechselparameter.</translation>
+    </message>
+    <message>
+        <source>Error! Unknown switch argument.</source>
+        <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
+        <translation>Fehler! Unbekanntes Schalterargument.</translation>
+    </message>
+    <message>
+        <source>Error! Switch argument not specified.</source>
+        <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
+        <translation>Fehler! Schalterargument nicht angegeben.</translation>
+    </message>
+    <message>
+        <source>Error! Picture string contains unmatched quotes.</source>
+        <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
+        <translation>Fehler! Bild-Zeichenfolge enthält ungleiche Anführungszeichen.</translation>
     </message>
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
@@ -654,7 +733,11 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Es wurde ein Fehler gefunden, wenn WPS-Writer versuchen, Quelldatei zu aktualisieren.
+Versuchen Sie Folgendes:
+1. Überprüfen Sie, ob die Quelldatei geöffnet oder von anderen Programmen belegt wird.
+2. Überprüfen Sie, ob die Quelldatei geschützt wird.
+3. Stellen Sie sicher, dass die Quelldatei im entsprechenden Verzeichnis vorhanden ist. </translation>
     </message>
 </context>
 <context>
@@ -662,47 +745,87 @@ Try one or more of the following:
     <message>
         <source> </source>
         <comment>TX_SPACE</comment>
-        <translation type="unfinished"> </translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Current date</source>
         <comment>TX_FILED_CURDATE</comment>
-        <translation type="unfinished">Aktuelles Datum</translation>
+        <translation>Aktuelles Datum</translation>
     </message>
     <message>
         <source>Current time</source>
         <comment>TX_FILED_CURTIME</comment>
-        <translation type="unfinished">Aktuelles Datum</translation>
+        <translation>Aktuelles Datum</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>TX_FIELD_DATE</comment>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
         <comment>TX_FIELD_ERR_BOOKMARK_NOT_DEFINED</comment>
-        <translation type="unfinished">Fehler! Lesezeichen nicht definiert.</translation>
+        <translation>Fehler! Textmarke nicht definiert.</translation>
     </message>
     <message>
         <source>Normal text</source>
         <comment>TX_FIELD_REGULARTEXT</comment>
-        <translation type="unfinished">Normaler Text</translation>
+        <translation>Normaler Text</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_FIELD_NUMBER</comment>
-        <translation type="unfinished">Zahl</translation>
+        <translation>Zahl</translation>
     </message>
     <message>
         <source>Title</source>
         <comment>TX_STYLE_NAME_TITLE</comment>
-        <translation type="unfinished">Titel</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>_Top</source>
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
-        <translation type="unfinished">Oben</translation>
+        <translation>_Oben</translation>
+    </message>
+    <message>
+        <source>Only main text.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="obsolete">Nur Haupttext.</translation>
+    </message>
+    <message>
+        <source>Error! lack of test conditions.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation type="obsolete">Fehler! Fehlende Testbedingung.</translation>
+    </message>
+    <message>
+        <source>Error! cannot recognize the condition operation code.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation type="obsolete">Fhler! Unbekannter Op-Code für verknüpfte Bedingung.</translation>
+    </message>
+    <message>
+        <source>Error! lack of the second part test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation type="obsolete">Fehler! Zweiter Teil der Testbedingung fehlt.</translation>
+    </message>
+    <message>
+        <source>Error. Unknown op code for conditional.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation>Fhler! Unbekannter Op-Code für verknüpfte Bedingung.</translation>
+    </message>
+    <message>
+        <source>Error. Missing test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation>Fehler! Fehlende Testbedingung.</translation>
+    </message>
+    <message>
+        <source>Error. Missing second part of test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation>Fehler! Zweiter Teil der Testbedingung fehlt.</translation>
+    </message>
+    <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation>Nur Haupttext.</translation>
     </message>
 </context>
 <context>
@@ -710,12 +833,12 @@ Try one or more of the following:
     <message>
         <source>Error! No property name supplied</source>
         <comment>TX_FIELD_ERR_DOCPROPERTY_UNSPECIFIED_PROPERTY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Kein Name für eine Eigenschaft übergeben</translation>
     </message>
     <message>
         <source>Error! Unknown document property name</source>
         <comment>TX_FIELD_ERR_DOCPROPERTY_UNKNOWN_PROPERTY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Unbekannter Name für Dokument-Eigenschaft</translation>
     </message>
 </context>
 <context>
@@ -723,82 +846,82 @@ Try one or more of the following:
     <message>
         <source>Error! File name not specified.</source>
         <comment>TX_FIELD_ERR_FILENAME_NOT_SPECIFIED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Der Dateiname wurde nicht angegeben.</translation>
     </message>
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
         <comment>TX_FIELD_ERR_HYPERLINK_REFERENCE_NOT_VALID</comment>
-        <translation type="unfinished">Fehler! Hyperlink-Verweis ist ungültig.</translation>
-    </message>
-    <message>
-        <source>Error! Include may not refer to itself.</source>
-        <comment>TX_FIELD_ERR_CANNOT_INCLUDE_ITSELF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Invalid file name.</source>
-        <comment>TX_FIELD_ERR_FILENAME_NOT_EXISTED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Der Hyperlinkverweis ist ungültig.</translation>
     </message>
     <message>
         <source>Error! No bookmark name given.</source>
         <comment>TX_FIELD_ERR_NO_BOOKMARK_SPECIFIED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Es wurde kein Textmarkenname vergeben.</translation>
     </message>
     <message>
         <source>Error! No table of contents entries found.</source>
         <comment>TX_FIELD_ERR_NOT_TABLE_OF_CONTENTS_ENTRIES_FOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Es wurden keine Einträge für das Inhaltsverzeichnis gefunden.</translation>
     </message>
     <message>
         <source>Error! Not a valid bookmark self-reference.</source>
         <comment>TX_FIELD_ERR_SELF_REFERENCE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Ungültiger Eigenverweis auf Textmarke.</translation>
     </message>
     <message>
         <source>Error! Reference source not found.</source>
         <comment>TX_REFERENCE_SOURCE_NOT_VALID</comment>
-        <translation type="unfinished">Fehler! Verweisquelle nicht gefunden.</translation>
+        <translation>Fehler! Verweisquelle konnte nicht gefunden werden.</translation>
     </message>
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
         <comment>TX_FIELD_ERR_NO_TOC_ALLOWED</comment>
-        <translation type="unfinished">Fehler! Inhaltsverzeichnis in der Fußnote, Endnote, Kopfzeile, Fußzeile, Kommentar oder Textfeld nicht erlaubt.</translation>
+        <translation>Fehler! In Fußnoten, Endnoten, Kopfzeilen, Fußzeilen,Anmerkungen oder Textfeldern können keine Tabellen erstellt werden.</translation>
     </message>
     <message>
         <source>Error! The file you specified cannot be opened.</source>
         <comment>TX_FIELD_ERR_CANNOT_OPEN_FILE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Die angegebene Datei kann nicht geöffnet werden.</translation>
     </message>
     <message>
         <source>Error! Title list level is invalid.</source>
         <comment>TX_FIELD_ERR_TOC_LISTLEVEL_OUTRANGE</comment>
-        <translation type="unfinished">Fehler! Ebene der Titelliste ist ungültig.</translation>
-    </message>
-    <message>
-        <source>Fields are nested too deeply.</source>
-        <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Ungültiger Bereich für Überschriftenebenen.</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_STYLE_NAME_HYPERLINK</comment>
-        <translation type="unfinished">Hyperlink</translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>above</source>
         <comment>TX_POSITION_ABOVE</comment>
-        <translation type="unfinished">oberhalb</translation>
+        <translation>oberhalb</translation>
     </message>
     <message>
         <source>below</source>
         <comment>TX_POSITION_BELOW</comment>
-        <translation type="unfinished">unterhalb</translation>
+        <translation>unterhalb</translation>
     </message>
     <message>
         <source>on page</source>
         <comment>TX_ON_PAGE</comment>
-        <translation type="unfinished">auf Seite</translation>
+        <translation>auf der Seite</translation>
+    </message>
+    <message>
+        <source>Error! Invalid file name.</source>
+        <comment>TX_FIELD_ERR_FILENAME_NOT_EXISTED</comment>
+        <translation>Fehler! Ungültiger Dateiname.</translation>
+    </message>
+    <message>
+        <source>Error! Include may not refer to itself.</source>
+        <comment>TX_FIELD_ERR_CANNOT_INCLUDE_ITSELF</comment>
+        <translation>Fehler! Das Feld EINFÜGEN darf sich nicht auf sich selbst beziehen.</translation>
+    </message>
+    <message>
+        <source>Fields are nested too deeply.</source>
+        <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
+        <translation>Die Felder sind zu sehr geschachtelt.</translation>
     </message>
 </context>
 <context>
@@ -811,7 +934,7 @@ Try one or more of the following:
     <message>
         <source>Error! MergeField was not found in header record of data source.</source>
         <comment>TX_FIELD_ERR_CANNOT_FIND_DATAFIELD</comment>
-        <translation type="unfinished">Fehler!  Platzhalter kann im Feldnamenverzeichnis der Datenquelle nicht gefunden werden.</translation>
+        <translation>Fehler! Seriendruckfeld konnte im Steuersatz der Datenquelle nicht gefunden werden.</translation>
     </message>
 </context>
 <context>
@@ -819,27 +942,22 @@ Try one or more of the following:
     <message>
         <source>! Formula is not in the table.</source>
         <comment>TX_FIELD_ERR_EXPRESSION_NOTIN_TABLE</comment>
-        <translation type="unfinished">Fehler! Formel befindet sich nicht in Tabelle.</translation>
+        <translation>! Dieser Ausdruck steht nicht in einer Tabelle </translation>
     </message>
     <message>
         <source>!Abnormal formula end</source>
         <comment>TX_FIELD_ERR_COMPILE_UNEXPECTED_END</comment>
-        <translation type="unfinished">Fehler! Fehlerhaftes Formelende</translation>
+        <translation>!Unerwartetes Ende des Ausdrucks</translation>
     </message>
     <message>
         <source>!Divisor is zero</source>
         <comment>TX_FIELD_ERR_COMPILE_DIVIDEND_IS_ZERO</comment>
-        <translation type="unfinished">Fehler! Divisor ist 0</translation>
+        <translation>! Divisor ist 0</translation>
     </message>
     <message>
         <source>!Number is too big to set a format</source>
         <comment>TX_FIELD_ERR_FMT_NUM_TOO_LARGE</comment>
-        <translation type="unfinished">Fehler! Zahl ist zu groß für eine Formatangabe.</translation>
-    </message>
-    <message>
-        <source>!Syntax errors</source>
-        <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
-        <translation type="unfinished">Fehler! Syntaxfehler</translation>
+        <translation>!Anzahl zu groß  für eine Formatangabe</translation>
     </message>
     <message>
         <source>!Syntaxl errors</source>
@@ -849,22 +967,27 @@ Try one or more of the following:
     <message>
         <source>!Undefined bookmark,</source>
         <comment>TX_FIELD_ERR_BOOKMARK_NOTDEFINED</comment>
-        <translation type="unfinished">Fehler! Unbekanntes Lesezeichen</translation>
+        <translation>!Textmarke nicht definiert,</translation>
     </message>
     <message>
         <source>Error! No sequence specified.</source>
         <comment>TX_FIELD_ERR_NO_SEQUENCE_SPECIFIED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler! Es wurde keine Folge festgelegt.</translation>
     </message>
     <message>
         <source>Error! Only for Main Document.</source>
         <comment>TX_FIELD_ERR_MAIN_DOCUMENT_ONLY</comment>
-        <translation type="unfinished">Fehler! Nur für das Hauptdokument.</translation>
+        <translation>Fehler! Nur für das Hauptdokument.</translation>
     </message>
     <message>
         <source>Not in the table</source>
         <comment>TX_FIELD_ERR_CELL_NOINTABLE</comment>
-        <translation type="unfinished">Nicht in der Tabelle</translation>
+        <translation>Nicht in Tabelle vorhanden</translation>
+    </message>
+    <message>
+        <source>!Syntax errors</source>
+        <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
+        <translation>! Syntaxfehler</translation>
     </message>
 </context>
 <context>
@@ -872,37 +995,37 @@ Try one or more of the following:
     <message>
         <source> - Section %d - </source>
         <comment>TxPropmpt_Section_Index</comment>
-        <translation type="unfinished"> - Abschnitt %d - </translation>
+        <translation> - Abschnitt %d - </translation>
     </message>
     <message>
         <source> Footer </source>
         <comment>TxPropmpt_Footer</comment>
-        <translation type="unfinished"> Fußzeile </translation>
+        <translation> Fußzeile </translation>
     </message>
     <message>
         <source> Header </source>
         <comment>TxPropmpt_Header</comment>
-        <translation type="unfinished"> Kopfzeile </translation>
+        <translation> Kopfzeile </translation>
     </message>
     <message>
         <source>Even Page</source>
         <comment>TxPropmpt_Even_Page</comment>
-        <translation type="unfinished">Gerade Seite</translation>
+        <translation>Gerade Seite</translation>
     </message>
     <message>
         <source>First Page</source>
         <comment>TxPropmpt_First_Page</comment>
-        <translation type="unfinished">Erste Seite</translation>
+        <translation>Erste Seite</translation>
     </message>
     <message>
         <source>Odd Page</source>
         <comment>TxPropmpt_Odd_Page</comment>
-        <translation type="unfinished">Ungerade Seite</translation>
+        <translation>Ungerade Seite</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
-        <translation type="unfinished">Wie im vorherigen Abschnitt</translation>
+        <translation>Wie im vorherigen Abschnitt</translation>
     </message>
 </context>
 <context>
@@ -910,12 +1033,12 @@ Try one or more of the following:
     <message>
         <source>Comment</source>
         <comment>TX_PDF_COMMENT</comment>
-        <translation type="unfinished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Revision</source>
         <comment>TX_PDF_REVISION</comment>
-        <translation type="unfinished">Überarbeitung</translation>
+        <translation>Revision</translation>
     </message>
 </context>
 <context>
@@ -923,47 +1046,47 @@ Try one or more of the following:
     <message>
         <source>Column Break</source>
         <comment>_TxColumnBreak</comment>
-        <translation type="unfinished">Spaltenumbruch</translation>
+        <translation>Spaltenumbruch</translation>
     </message>
     <message>
         <source>End of Section</source>
         <comment>_TxSectionBreakNewColumn</comment>
-        <translation type="unfinished">Ende des Abschnitts</translation>
+        <translation>Ende des Abschnitts</translation>
     </message>
     <message>
         <source>Page Break</source>
         <comment>_TxPageBreak</comment>
-        <translation type="unfinished">Seitenumbruch</translation>
+        <translation>Seitenumbruch</translation>
     </message>
     <message>
         <source>Section Break</source>
         <comment>_TxSectionBreakDefault</comment>
-        <translation type="unfinished">Abschnittswechsel</translation>
+        <translation>Abschnittsumbruch</translation>
     </message>
     <message>
         <source>Section Break (Continuous)</source>
         <comment>_TxSectionBreakContinous</comment>
-        <translation type="unfinished">Abschnittswechsel (Fortlaufend)</translation>
+        <translation>Abschnittsumbruch (Kontinuierlich)</translation>
     </message>
     <message>
         <source>Section Break (Even Page)</source>
         <comment>_TxSectionBreakEvenPage</comment>
-        <translation type="unfinished">Abschnittswechsel (Gerade Seite)</translation>
+        <translation>Abschnittsumbruch (Gerade Seite)</translation>
     </message>
     <message>
         <source>Section Break (Next Page)</source>
         <comment>_TxSectionBreakNextPage</comment>
-        <translation type="unfinished">Abschnittswechsel (Nächste Seite)</translation>
+        <translation>Abschnittsumbruch (Nächste Seite)</translation>
     </message>
     <message>
         <source>Section Break (Odd Page)</source>
         <comment>_TxSectionBreakOddPage</comment>
-        <translation type="unfinished">Abschnittswechsel (Ungerade Seite)</translation>
+        <translation>Abschnittswechsel (Ungerade Seite)</translation>
     </message>
     <message>
         <source>The end of the protected section</source>
         <comment>_TxSectionBreakProtected</comment>
-        <translation type="unfinished">Ende des geschützten Abschnitts</translation>
+        <translation>Ende des geschützten Abschnitts</translation>
     </message>
 </context>
 <context>
@@ -971,137 +1094,137 @@ Try one or more of the following:
     <message>
         <source>Adjust Bottom</source>
         <comment>TxToolTip_Adjust_Bottom</comment>
-        <translation type="unfinished">Nach unten ausrichten</translation>
+        <translation>Unten ausrichten</translation>
     </message>
     <message>
         <source>Adjust Left</source>
         <comment>TxToolTip_Adjust_Left</comment>
-        <translation type="unfinished">Nach links ausrichten</translation>
+        <translation>Links ausrichten</translation>
     </message>
     <message>
         <source>Adjust Right</source>
         <comment>TxToolTip_Adjust_Right</comment>
-        <translation type="unfinished">Nach rechts ausrichten</translation>
+        <translation>Rechts ausrichten</translation>
     </message>
     <message>
         <source>Adjust Table Row</source>
         <comment>TxToolTip_Adjust_Table_Row</comment>
-        <translation type="unfinished">Tabellenzeile ausrichten</translation>
+        <translation>Tabellenzeile ausrichten</translation>
     </message>
     <message>
         <source>Adjust Top</source>
         <comment>TxToolTip_Adjust_Top</comment>
-        <translation type="unfinished">Nach oben ausrichten</translation>
+        <translation>Oben ausrichten</translation>
     </message>
     <message>
         <source>Bar Tab</source>
         <comment>TxToolTip_Bar_Tab</comment>
-        <translation type="unfinished">Leiste-Tab</translation>
+        <translation>Leiste-Tabstopp</translation>
     </message>
     <message>
         <source>Bottom Margin</source>
         <comment>TxToolTip_Bottom_Margin</comment>
-        <translation type="unfinished">Unterer Seitenrand</translation>
+        <translation>Seitenrand unten</translation>
     </message>
     <message>
         <source>Center Tab</source>
         <comment>TxToolTip_Center_Tab</comment>
-        <translation type="unfinished">Tabstopp zentriert</translation>
+        <translation>Tabstopp zentriert</translation>
     </message>
     <message>
         <source>Columns Formatting Setup</source>
         <comment>TxVersion_Culmns</comment>
-        <translation type="unfinished">Spaltenformatierung erstellen</translation>
+        <translation>Spaltenformat einstellen</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
         <comment>TxToolTip_Decimal_Tab</comment>
-        <translation type="unfinished">Tabstopp dezimal</translation>
+        <translation>Tabstopp dezimal</translation>
     </message>
     <message>
         <source>First Line Indent</source>
         <comment>TxToolTip_First_Line_Indent</comment>
-        <translation type="unfinished">Einzug erste Zeile</translation>
+        <translation>Erstzeileneinzug</translation>
     </message>
     <message>
         <source>Formatting</source>
         <comment>TxVersion_Formatting</comment>
-        <translation type="unfinished">Formatierung</translation>
+        <translation>Formatierung </translation>
     </message>
     <message>
         <source>Hanging Indent</source>
         <comment>TxToolTip_Hanging_Indent</comment>
-        <translation type="unfinished">Hängender Einzug</translation>
+        <translation>Hängender Einzug</translation>
     </message>
     <message>
         <source>Left Indent</source>
         <comment>TxToolTip_Left_Indent</comment>
-        <translation type="unfinished">Einzug links</translation>
+        <translation>Einzug links</translation>
     </message>
     <message>
         <source>Left Margin</source>
         <comment>TxToolTip_Left_Margin</comment>
-        <translation type="unfinished">Linker Seitenrand</translation>
+        <translation>Linker Rand</translation>
     </message>
     <message>
         <source>Left Tab</source>
         <comment>TxToolTip_Left_Tab</comment>
-        <translation type="unfinished">Tabstopp links</translation>
+        <translation>Tabstopp links</translation>
     </message>
     <message>
         <source>Move Column</source>
         <comment>TxToolTip_Move_Column</comment>
-        <translation type="unfinished">Spalte verschieben</translation>
+        <translation>Spalte verschieben</translation>
     </message>
     <message>
         <source>Move Table Column</source>
         <comment>TxToolTip_Move_Table_Column</comment>
-        <translation type="unfinished">Tabellenspalte verschieben</translation>
+        <translation>Tabellenspalte verschieben</translation>
     </message>
     <message>
         <source>Page Setup</source>
         <comment>TxVersion_Page_Setup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seiteneinrichtung</translation>
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
         <comment>TxVersion_Paragraph_Formatting</comment>
-        <translation type="unfinished">Absatzformatierung erstellen</translation>
+        <translation>Absatzformatierung einstellen</translation>
     </message>
     <message>
         <source>Right Indent</source>
         <comment>TxToolTip_Right_Indent</comment>
-        <translation type="unfinished">Einzug rechts</translation>
+        <translation>Einzug rechts</translation>
     </message>
     <message>
         <source>Right Margin</source>
         <comment>TxToolTip_Right_Margin</comment>
-        <translation type="unfinished">Rechter Seitenrand</translation>
+        <translation>Rechter Rand</translation>
     </message>
     <message>
         <source>Right Tab</source>
         <comment>TxToolTip_Right_Tab</comment>
-        <translation type="unfinished">Tabstopp rechts</translation>
+        <translation>Tabstopp rechts</translation>
     </message>
     <message>
         <source>Table Properties</source>
         <comment>TxVersion_Table_Properties</comment>
-        <translation type="unfinished">Tabelleneigenschaften</translation>
+        <translation>Tabelleneigenschaften</translation>
     </message>
     <message>
         <source>Table Width</source>
         <comment>TxVersion_Culmn_Width</comment>
-        <translation type="unfinished">Tabellenbreite</translation>
+        <translation>Tabellenbreite</translation>
     </message>
     <message>
         <source>Text Box</source>
         <comment>TxVersion_Text_Frame</comment>
-        <translation type="unfinished">Textfeld</translation>
+        <translation>Textfeld</translation>
     </message>
     <message>
         <source>Top Margin</source>
         <comment>TxToolTip_Top_Margin</comment>
-        <translation type="unfinished">Oberer Seitenrand</translation>
+        <translation>Oberer Rand</translation>
     </message>
 </context>
 <context>
@@ -1109,228 +1232,52 @@ Try one or more of the following:
     <message>
         <source>Cannot distribute the selected columns evenly.</source>
         <comment>_TxDistributeWidth_NormalErr</comment>
-        <translation type="unfinished">Die ausgewählten Spalten können nicht gleichmäßig verteilt werden.</translation>
+        <translation>Die markierten Spalten können nicht gleichmäßig verteilt werden!</translation>
     </message>
     <message>
         <source>Cannot merge</source>
         <comment>_TxSplitCells_CantMergeError</comment>
-        <translation type="unfinished">Zusammenführen nicht möglich</translation>
+        <translation>Zusammenführung nicht möglich</translation>
     </message>
     <message>
         <source>Cannot split cells vertically in multiple rows.</source>
         <comment>_TxSplitCells_CantSplitVertCellsInMultRows</comment>
-        <translation type="unfinished">Die Zellen können nicht vertikal in mehrere Zeilen geteilt werden.</translation>
+        <translation>Die Zellen können nicht auf einmal vertikal in mehrere Zeilen geteilt werden.</translation>
     </message>
     <message>
         <source>Cannot split the selection because it contains joined cells.</source>
         <comment>_TxSplitCells_CantSplitMergeCellError</comment>
-        <translation type="unfinished">Auswahl kann nicht geteilt werden, da sie zusammengeführte Zellen enthält.</translation>
+        <translation>Auswahl kann nicht geteilt werden, weil sie zusammengeführte Zellen enthält.</translation>
     </message>
     <message>
         <source>The number of columns is out of range.</source>
         <comment>_TxSplitCells_OverMaxColumnCntError</comment>
-        <translation type="unfinished">Spaltenanzahl liegt außerhalb des zulässigen Bereichs.</translation>
+        <translation>Die maximale Anzahl von Spalten wurde überschritten.</translation>
     </message>
     <message>
         <source>The number of columns to be split must be between %d and %d.</source>
         <comment>_TxSplitCells_ColumnCntLimitError</comment>
-        <translation type="unfinished">Anzahl der zu teilenden Spalten muss zwischen %d und %d liegen.</translation>
+        <translation>Anzahl der zu teilenden Spalten muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be a divisor of %d.</source>
         <comment>_TxSplitCells_RowNumLimitError</comment>
-        <translation type="unfinished">Anzahl der zu teilenden Zeilen muss durch %d teilbar sein.</translation>
+        <translation>Anzahl der zu teilenden Zeilen muss durch %d teilbar sein.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be between %d and %d.</source>
         <comment>_TxSplitCells_RowCntLimitError</comment>
-        <translation type="unfinished">Anzahl der zu teilenden Zeilen muss zwischen %d und %d liegen.</translation>
+        <translation>Anzahl der zu teilenden Zeilen muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>You must select more than one columns.</source>
         <comment>_TxDistributeWidth_MultColumsErr</comment>
-        <translation type="unfinished">Sie müssen mehr als eine Spalte auswählen.</translation>
+        <translation>Sie müssen mehrere Spalten markieren!</translation>
     </message>
     <message>
         <source>You must select more than one rows.</source>
         <comment>_TxDistributeWidth_MultRowsErr</comment>
-        <translation type="unfinished">Sie müssen mehr als eine Zeile auswählen.</translation>
-    </message>
-</context>
-<context>
-    <name>wps_wps_commandbar</name>
-    <message>
-        <source> </source>
-        <comment>WpsCmdBar__150</comment>
-        <translation type="obsolete"> </translation>
-    </message>
-    <message>
-        <source>Cell Alignment</source>
-        <comment>WpsCmdBar_CellAlignment_17</comment>
-        <translation type="obsolete">Zellenausrichtung</translation>
-    </message>
-    <message>
-        <source>Cell Alignment</source>
-        <comment>WpsCmdBar_CellAlignment_237</comment>
-        <translation type="obsolete">Zellenausrichtung</translation>
-    </message>
-    <message>
-        <source>Character Scaling</source>
-        <comment>WpsCmdBar_CharacterScaling_8</comment>
-        <translation type="obsolete">Zeichenskalierung</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <comment>WpsCmdBar_Clear_112</comment>
-        <translation type="obsolete">Löschen</translation>
-    </message>
-    <message>
-        <source>Comment</source>
-        <comment>WpsCmdBar_Comment_204</comment>
-        <translation type="obsolete">Kommentar</translation>
-    </message>
-    <message>
-        <source>Compare Side by Side</source>
-        <comment>WpsCmdBar_CompareSidebySide_144</comment>
-        <translation type="obsolete">Vergleich Seite an Seite</translation>
-    </message>
-    <message>
-        <source>Diagram</source>
-        <comment>WpsCmdBar_Diagram_206</comment>
-        <translation type="obsolete">Diagramm</translation>
-    </message>
-    <message>
-        <source>Diagram</source>
-        <comment>WpsCmdBar_Diagram_87</comment>
-        <translation type="obsolete">Diagramm</translation>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <comment>WpsCmdBar_FillColor_223</comment>
-        <translation type="obsolete">Füllfarbe</translation>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <comment>WpsCmdBar_FillColor_40</comment>
-        <translation type="obsolete">Füllfarbe</translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <comment>WpsCmdBar_FontColor_11</comment>
-        <translation type="obsolete">Schriftfarbe</translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <comment>WpsCmdBar_FontColor_235</comment>
-        <translation type="obsolete">Schriftfarbe</translation>
-    </message>
-    <message>
-        <source>Formatting</source>
-        <comment>WpsCmdBar_Formatting_4</comment>
-        <translation type="obsolete">Formatierung</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <comment>WpsCmdBar_Help_137</comment>
-        <translation type="obsolete">Hilfe</translation>
-    </message>
-    <message>
-        <source>Highlight</source>
-        <comment>WpsCmdBar_Highlight_10</comment>
-        <translation type="obsolete">Hervorheben</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <comment>WpsCmdBar_Insert_115</comment>
-        <translation type="obsolete">Einfügen</translation>
-    </message>
-    <message>
-        <source>Line Color</source>
-        <comment>WpsCmdBar_LineColor_225</comment>
-        <translation type="obsolete">Linienfarbe</translation>
-    </message>
-    <message>
-        <source>Line Color</source>
-        <comment>WpsCmdBar_LineColor_41</comment>
-        <translation type="obsolete">Linienfarbe</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <comment>WpsCmdBar_Order_21</comment>
-        <translation type="obsolete">Befehl</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <comment>WpsCmdBar_Order_232</comment>
-        <translation type="obsolete">Befehl</translation>
-    </message>
-    <message>
-        <source>Shading Color</source>
-        <comment>WpsCmdBar_ShadingColor_15</comment>
-        <translation type="obsolete">Schattenfarbe</translation>
-    </message>
-    <message>
-        <source>Shading Color</source>
-        <comment>WpsCmdBar_ShadingColor_236</comment>
-        <translation type="obsolete">Schattenfarbe</translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <comment>WpsCmdBar_ShadowColor_79</comment>
-        <translation type="obsolete">Schattenfarbe</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <comment>WpsCmdBar_Table_129</comment>
-        <translation type="obsolete">Tabelle</translation>
-    </message>
-    <message>
-        <source>Text Box</source>
-        <comment>WpsCmdBar_TextBox_99</comment>
-        <translation type="obsolete">Textfeld</translation>
-    </message>
-    <message>
-        <source>Text Wrapping</source>
-        <comment>WpsCmdBar_TextWrapping_238</comment>
-        <translation type="obsolete">Textumbruch</translation>
-    </message>
-    <message>
-        <source>Text Wrapping</source>
-        <comment>WpsCmdBar_TextWrapping_25</comment>
-        <translation type="obsolete">Textumbruch</translation>
-    </message>
-    <message>
-        <source>Track Changes</source>
-        <comment>WpsCmdBar_TrackChanges_187</comment>
-        <translation type="obsolete">Änderungen nachverfolgen</translation>
-    </message>
-    <message>
-        <source>Underline Color</source>
-        <comment>WpsCmdBar_UnderlineColor_7</comment>
-        <translation type="obsolete">Farbe Unterstreichung</translation>
-    </message>
-</context>
-<context>
-    <name>wps_wps_commandbarcontrol</name>
-    <message>
-        <source>&amp;More Colors...</source>
-        <comment>WpsCtrl__More_Colors____1768</comment>
-        <translation type="obsolete">&amp;Mehr Farben ...</translation>
-    </message>
-    <message>
-        <source>&amp;More Colors...</source>
-        <comment>WpsCtrl__More_Colors____340</comment>
-        <translation type="obsolete">&amp;Mehr Farben ...</translation>
-    </message>
-    <message>
-        <source>&amp;More Colors...</source>
-        <comment>WpsCtrl__More_Colors____751</comment>
-        <translation type="obsolete">&amp;Mehr Farben ...</translation>
-    </message>
-    <message>
-        <source>&amp;Tools</source>
-        <comment>WpsCtrl__Tools_1309</comment>
-        <translation type="obsolete">Werkzeuge</translation>
+        <translation>Sie müssen mehrere Zeilen markieren!.</translation>
     </message>
 </context>
 <context>
@@ -1338,93 +1285,88 @@ Try one or more of the following:
     <message>
         <source> Background</source>
         <comment>TxRevision_Shp_Background</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source> Do you want to continue searching from the beginning?</source>
         <comment>_TxFind_ContiuneAtBeginning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suche vom Dokumentanfang aus weiter fortsetzen?</translation>
     </message>
     <message>
         <source> Do you want to continue searching from the end?</source>
         <comment>_TxFind_ContiuneAtEnd</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suche vom Ende aus weiter fortsetzen?</translation>
     </message>
     <message>
         <source> Do you want to search the other part of the document?</source>
         <comment>_TxFind_ContiuneRemainder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suche von anderen Teilen fortsetzen?</translation>
     </message>
     <message>
         <source> Foreground</source>
         <comment>TxRevision_Shp_Foreground</comment>
-        <translation type="unfinished"> Foreground</translation>
+        <translation> Vordergrund</translation>
     </message>
     <message>
         <source> Ln:   Col:</source>
         <comment>_TxStatusBar_PositionInfo2</comment>
-        <translation type="unfinished"> Ln:   Spalte:</translation>
+        <translation> Linie:   Spalte:</translation>
     </message>
     <message>
         <source> Ln: %d   Col: %d</source>
         <comment>_TxStatusBar_PositionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zelle %d   Spalte %d     </translation>
     </message>
     <message>
         <source> Page Number:   Page:   Sec:     </source>
         <comment>_TxStatusBar_SectionPageInfo2</comment>
-        <translation type="unfinished"> Seitenzahl:   Seite:   Abschnitt:     </translation>
+        <translation> Seitenzahl:   Seite:   Abschnitt:     </translation>
     </message>
     <message>
         <source> Page Number: %s   Page: %d/%d   Sec: %d/%d</source>
         <comment>_TxStatusBar_SectionPageInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seitenzahl: %s   Seite: %d/%d   Abschnitt: %d/%d           </translation>
     </message>
     <message>
         <source> of </source>
         <comment>_TxGenko_PageSeperator</comment>
-        <translation type="unfinished"></translation>
+        <translation> von </translation>
     </message>
     <message>
         <source>&quot;</source>
         <comment>TxRevision_Unit_Inches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inch</translation>
     </message>
     <message>
         <source>%s already exists.
 Do you want to replace it?</source>
         <comment>_TxMailMerge_FileExist</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s ist bereits vorhanden.Ersetzen? </translation>
     </message>
     <message>
         <source>%s can&apos;t load!</source>
         <comment>_TxTemplate_cannot_laod_template</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s is not a valid special character for the Replace With box.</source>
-        <comment>_TxFind_NoValidReplacementStr</comment>
-        <translation type="unfinished">Sonderzeichen %s ist für Eingabe in &apos;Ersetzen durch&apos; ungültig.</translation>
+        <translation>Konnte %s nicht laden!</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
         <comment>_TxMenuBarOption_Tool</comment>
-        <translation type="unfinished">Werkzeuge</translation>
+        <translation>&amp;Symbolleisten</translation>
     </message>
     <message>
         <source>(Complex)</source>
         <comment>TxRevision_Chp_Complex</comment>
-        <translation type="unfinished">(Komplex)</translation>
+        <translation>(Komplex)</translation>
     </message>
     <message>
         <source>(Print Preview)</source>
         <comment>TxDesc_PrintPreview</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Seitenansicht)</translation>
     </message>
     <message>
         <source>1.5 lines</source>
         <comment>TxRevision_Pap_15lines</comment>
-        <translation type="unfinished"></translation>
+        <translation>1,5 Zeilen</translation>
     </message>
     <message>
         <source>15%:9</source>
@@ -1434,62 +1376,57 @@ Do you want to replace it?</source>
     <message>
         <source>42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5</source>
         <comment>TxRevision_Chp_FontSizeReplacedList</comment>
-        <translation type="unfinished">5% {42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5?}</translation>
-    </message>
-    <message>
-        <source>AaBbCc</source>
-        <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
+        <translation>42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5</translation>
     </message>
     <message>
         <source>Adjust space between Asian text and numbers</source>
         <comment>TxRevision_Pap_AdjustSpaceBetweenAsianTextAndNumbers</comment>
-        <translation type="unfinished">Adjust space between Asian text and numbers</translation>
+        <translation>Abstand zwischen asiatischem Text und Zahlen anpassen</translation>
     </message>
     <message>
         <source>Adjust space between Latin and Asian text</source>
         <comment>TxRevision_Pap_AdjustSpaceBetweenLatinAndAsianText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abstand zwischen asiatischem und westlichem Text anpassen</translation>
     </message>
     <message>
         <source>Administrators</source>
         <comment>TxDocProtect_User_Administrators</comment>
-        <translation type="unfinished"></translation>
+        <translation>Administrators</translation>
     </message>
     <message>
         <source>Afrikaans;Albanian;Amharic;Armenian;Assamese;Azerbaijan(Cyrillic);Azeri(Latin);Basque;Catalan;Cherokee Language;Croatian(Croatia);Estonian;Faroese;Guarani Language;Gujarati;Hausa;Frisian;Igbo;Ibibio(Nigeria);Inuit Language(Syllables);Kannada;Kanuri;Kashmiri;Kazakh;Khmer;Kirghiz;Konkani;Latvian;Macedonian(FYROM);Malay(Malaysia);Malay(Brunei Darussalam);Himalayan Ram Language;Maltese;Manipuri Language;Marathi;Sinhala;Sindhi(Sanskrit);Sindhi(Arabic);Syrian;Tajik;Tamil;Tatar;Telugu;Tigrinya(Ethiopia);Tigrinya(Eritrea Province);Yiddish;The Kwacha Language(Egypt people say the Kwa language);Foulbe Language;Pashto;Berber Language(Arabic Morocco);Dzongkha;Sami(Lapp);Sotho;Tsonga;Tswana;Xhosa;Sorbian:1078;1052;1118;1067;1101;2092;1068;1069;1027;1116;1050;1061;1080;1140;1095;1128;1122;1136;1129;1117;1099;1137;1120;1087;1107;1088;1111;1062;1071;1086;2110;1100;1082;1112;1102;1115;1113;2137;1114;1064;1097;1092;1098;1139;2163;1085;1126;1127;1123;1119;2129;1083;1072;1073;1074;1076;1070</source>
         <comment>TxRevision_Chp_LangIDReplacedList4</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afrikaans;Albanisch;Amrarisch;Assamesisch;Aserbaidschanisch(kyrillisch);Aserbaidschanisch(Lateinisch);Baskisch;Katalanisch;Cherokee;Kroatisch(Kroatien)</translation>
     </message>
     <message>
         <source>After</source>
         <comment>TxRevision_Pap_After</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nach</translation>
     </message>
     <message>
         <source>Aligned at</source>
         <comment>TxRevision_Pap_AlignedAt</comment>
-        <translation type="unfinished">Aligned at</translation>
+        <translation type="unfinished">Ausgerichtet auf </translation>
     </message>
     <message>
         <source>Alignment</source>
         <comment>TxRevision_Pap_Alignment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichtung</translation>
     </message>
     <message>
         <source>All caps</source>
         <comment>TxRevision_Chp_AllCaps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alles groß geschrieben</translation>
     </message>
     <message>
         <source>Allow hanging punctuation</source>
         <comment>TxRevision_Pap_AllowHangingPunctuation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hängende Interpunktion zulassen</translation>
     </message>
     <message>
         <source>Allow text to wrap in the middle of a word</source>
         <comment>TxRevision_Pap_AllowTextToWrapInTheMiddleOfAWord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textumbruch in der Mitte eines Worts für westlichen Text zulassen</translation>
     </message>
     <message>
         <source>Arabic(Algeria);Arabic(Bahrain);Arabic(Egypt);Arabic(Iraq);Arabic(Jordan);Arabic(Kuwait);Arabic(Lebanon);Arabic(Libya);Arabic(Morocco);Arabic(Oman);Arabic(Qatar);Arabic(Saudi Arabia);Arabic(Syria);Arabic(Tunisia);Arabic(United Arab Emirates);Arabic(Yemen);Spanish(Argentina);Spanish(Bolivia);Spanish(Chile);Spanish(Colombia);Spanish(Costa Rica);Spanish(Dominican Republic);Spanish(Ecuador);Spanish(El Salvador);Spain Language(Guatemala);Spanish(Honduras);Spanish(Mexico);Spanish(Nicaragua);Spanish(Panama);Spanish(Paraguay);Spanish(Peru);Spanish(Puerto Rico);Spanish(International Style);Spanish(Traditional Language);Spanish(Uruguay);Spanish(Venezuela);Bulgarian;The Burmese;Danish;Dutch(Belgium);Dutch(Netherlands);Irish Bengali(Bangladesh):5121;15361;3073;2049;11265;13313;12289;4097;6145;8193;16385;1025;10241;7169;14337;9217;11274;16394;13322;9226;5130;7178;12298;17418;4106;18442;2058;19466;6154;15370;10250;20490;3082;1034;14346;8202;1093;1026;1109;1030;2067;1043;2108</source>
@@ -1499,142 +1436,137 @@ Do you want to replace it?</source>
     <message>
         <source>At least </source>
         <comment>TxRevision_Pap_AtLeast</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min.</translation>
     </message>
     <message>
         <source>Attachment</source>
         <comment>_TxMailMerge_DefaultAttachName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anhang</translation>
     </message>
     <message>
         <source>Auto</source>
         <comment>TxRevision_Color_Auto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch einstellen</translation>
     </message>
     <message>
         <source>Auto</source>
         <comment>TxRevision_Pap_Auto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch ausrichten</translation>
     </message>
     <message>
         <source>Auto</source>
         <comment>TxRevision_Pap_SpaceAuto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <source>Automatically adjust right indent when grid is defined</source>
         <comment>TxRevision_Pap_AdjustRightIndent</comment>
-        <translation type="unfinished">Automatically adjust right indent when grid is defined</translation>
+        <translation>Rechten Einzug bei der Festlegung eines Rasters automatisch anpassen</translation>
     </message>
     <message>
         <source>Bar</source>
         <comment>TxRevision_Pap_TabStopsBar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Balken</translation>
     </message>
     <message>
         <source>Based On:</source>
         <comment>TxRevision_BaseStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Basierend auf:</translation>
     </message>
     <message>
         <source>Baseline</source>
         <comment>TxRevision_Pap_Baseline</comment>
-        <translation type="unfinished">Baseline</translation>
+        <translation>Basislinie</translation>
     </message>
     <message>
         <source>Before</source>
         <comment>TxRevision_Pap_Before</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vor</translation>
     </message>
     <message>
         <source>Between</source>
         <comment>TxRevision_Bop_Between</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zwischen</translation>
     </message>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schwarz;Dunkel;Dunkelblaugrün;Dunkelblau;Indigo;Blau;Hellblau;Blaugrau;Lavendel;Grau-80%;Blaugrün;Aquamarin;Himmelblau;Blassblau;Helltürkis;Rosa;Hellrosa;Grau-50%;Seegrün;Türkis;Hellgrün;Weiß;Hellgelb;Gelbbraun;Violett;Grau-40%;Dunkelgrün;Leuchtendgrün;Gelb;Gold;Hellorange;Rot;Pflaume;Grau-25%;Grün;Gelbgrün;Dunkelgelb;Olivgrün;Orange;Braun;Dunkelrot:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TxRevision_Chp_Bold</comment>
-        <translation type="unfinished">Fett</translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>Border</source>
         <comment>TxRevision_Bop_Border</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Border spacing</source>
         <comment>TxRevision_Bop_BorderSpacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenabstand</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Bop_Bottom</comment>
-        <translation type="unfinished">Bottom</translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Pap_Bottom</comment>
-        <translation type="unfinished">Bottom</translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Sep_Bottom</comment>
-        <translation type="unfinished">Bottom</translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <source>Box</source>
         <comment>TxRevision_Bop_Box</comment>
-        <translation type="unfinished"></translation>
+        <translation>Feld</translation>
     </message>
     <message>
         <source>Bulleted</source>
         <comment>TxRevision_Pap_Bulleted</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot Load this Add-In.</source>
-        <comment>_TxAddin_CannotLoadAddIn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aufzählung</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>Tx_PrintError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seite kann nicht gedruckt werden,stellen Sie sicher, dass der Drucker richtig installiert wird!</translation>
     </message>
     <message>
         <source>Center</source>
         <comment>TxRevision_Pap_AlignmentCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>Center</source>
         <comment>TxRevision_Pap_Center</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>Centered</source>
         <comment>TxRevision_Pap_Centered</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>Centered</source>
         <comment>TxRevision_Pap_TabStopsCentered</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>Centimeter</source>
         <comment>_TxUnit_Centimeter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zentimeter</translation>
     </message>
     <message>
         <source>Character scale</source>
         <comment>TxRevision_Chp_CharacterScale</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenskalierung</translation>
     </message>
     <message>
         <source>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</source>
@@ -1649,287 +1581,287 @@ Do you want to replace it?</source>
     <message>
         <source>Col #%d spacing</source>
         <comment>TxRevision_Sep_ColSpacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sp. #1 Zeilenabstand</translation>
     </message>
     <message>
         <source>Col #%d width</source>
         <comment>TxRevision_Sep_ColWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sp. #1 Breite</translation>
     </message>
     <message>
         <source>Complex Script Font</source>
         <comment>TxRevision_Chp_ComplexScriptFont</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart für komplexe Schriftzeichen</translation>
     </message>
     <message>
         <source>Compress initial punctuation</source>
         <comment>TxRevision_Pap_CompressInitialPunctuation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ursprüngliche Interpunktion verdichten</translation>
     </message>
     <message>
         <source>Condensed by </source>
         <comment>TxRevision_Chp_CondensedBy</comment>
-        <translation type="unfinished">Condensed by </translation>
+        <translation>Schmal um </translation>
     </message>
     <message>
         <source>Continuous</source>
         <comment>TxRevision_Sep_Continuous</comment>
-        <translation type="unfinished">Continuous</translation>
+        <translation>Fortlaufend</translation>
     </message>
     <message>
         <source>Contributors</source>
         <comment>TxDocProtect_User_Contributors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mitarbeiter</translation>
     </message>
     <message>
         <source>Current</source>
         <comment>TxDocProtect_User_Current</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Benutzer</translation>
     </message>
     <message>
         <source>Custom Color (RGB(%d,%d,%d))</source>
         <comment>TxRevision_Color_CustomColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Farbe</translation>
     </message>
     <message>
         <source>Dash dot</source>
         <comment>TxRevision_Bop_DashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Strichpunkt</translation>
     </message>
     <message>
         <source>Dash dot (stroked)</source>
         <comment>TxRevision_Bop_DashDotStroked</comment>
-        <translation type="unfinished"></translation>
+        <translation>Strichpunkt (gestrichelt)</translation>
     </message>
     <message>
         <source>Dash dot dot</source>
         <comment>TxRevision_Bop_DashDotDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Strichpunkt-Punkt</translation>
     </message>
     <message>
         <source>Dashed (large gap)</source>
         <comment>TxRevision_Bop_DashedLargeGap</comment>
-        <translation type="unfinished">Dashed (large gap)</translation>
+        <translation>Gestrichelt (große Zwischenräume)</translation>
     </message>
     <message>
         <source>Dashed (small gap)</source>
         <comment>TxRevision_Bop_DashedSmallGap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gestrichelt (kleiner Abstand)</translation>
     </message>
     <message>
         <source>Dashed heavy underline</source>
         <comment>TxRevision_Chp_DashedHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gestrichelte Unterstreichung, fett</translation>
     </message>
     <message>
         <source>Dashed long heavy underline</source>
         <comment>TxRevision_Chp_DashedLongHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gestrichelte lange Unterstreichung, fett</translation>
     </message>
     <message>
         <source>Dashed long underline</source>
         <comment>TxRevision_Chp_DashedLongUnderline</comment>
-        <translation type="unfinished">Dashed long underline</translation>
+        <translation>Gestrichelte lange Unterstreichung</translation>
     </message>
     <message>
         <source>Dashed underline</source>
         <comment>TxRevision_Chp_DashedUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gestrichelt unterstreichen</translation>
     </message>
     <message>
         <source>Decimal aligned</source>
         <comment>TxRevision_Pap_TabStopsDecimalAligned</comment>
-        <translation type="unfinished">Dezimal ausgerichtet</translation>
+        <translation>Dezimal ausgerichtet</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
         <comment>TxRevision_Chp_DefaultParagraphFont</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatz-Standardschriftart</translation>
     </message>
     <message>
         <source>Different first page header and footer</source>
         <comment>TxRevision_Sep_DifferentFirstPageHeaderAndFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviert für die erste Seite eine unterschiedliche Kopf- und Fußzeile</translation>
     </message>
     <message>
         <source>Distributed</source>
         <comment>TxRevision_Pap_Distributed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verteilt</translation>
     </message>
     <message>
         <source>Don&apos;t Keep lines together</source>
         <comment>TxRevision_Pap_DontKeepLinesTogether</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diesen Absatz nicht zusammenhalten</translation>
     </message>
     <message>
         <source>Don&apos;t adjust right indent when grid is defined</source>
         <comment>TxRevision_Pap_DontAdjustRightIndent</comment>
-        <translation type="unfinished">Don&apos;t adjust right indent when grid is defined</translation>
+        <translation>Rechten Einzug bei der Festlegung eines Rasters nicht anpassen </translation>
     </message>
     <message>
         <source>Don&apos;t adjust space between Asian text and numbers</source>
         <comment>TxRevision_Pap_DontAdjustSpaceBetweenAsianTextAndNumbers</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abstand nicht zwischen asiatischem Text und Zahlen anpassen</translation>
     </message>
     <message>
         <source>Don&apos;t adjust space between Latin and Asian text</source>
         <comment>TxRevision_Pap_DontAdjustSpaceBetweenLatinAndAsianText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abstand nicht zwischen asiatischem und westlichem Text anpassen</translation>
     </message>
     <message>
         <source>Don&apos;t allow hanging punctuation</source>
         <comment>TxRevision_Pap_DontAllowHangingPunctuation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hängende Interpunktion nicht zulassen</translation>
     </message>
     <message>
         <source>Don&apos;t allow text to wrap in the middle of a word</source>
         <comment>TxRevision_Pap_DontAllowTextToWrapInTheMiddleOfAWord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textumbruch in der Mitte eines Wortes für westlichen Text nicht zulassen</translation>
     </message>
     <message>
         <source>Don&apos;t compress initial punctuation</source>
         <comment>TxRevision_Pap_DontCompressInitialPunctuation</comment>
-        <translation type="unfinished">Erstes Satzzeichen nicht kommprimieren</translation>
+        <translation>Ursprüngliche Interpunktion nicht verdichten</translation>
     </message>
     <message>
         <source>Don&apos;t hyphenate</source>
         <comment>TxRevision_Pap_DontHyphenate</comment>
-        <translation type="unfinished">Keine Silbentrennung</translation>
+        <translation>Nicht trennen</translation>
     </message>
     <message>
         <source>Don&apos;t keep with next</source>
         <comment>TxRevision_Pap_DontKeepWithNext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vom nächsten Absatz trennen</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
         <comment>TxRevision_Chp_DontSnapToGrid</comment>
-        <translation type="unfinished">Nicht an Raster ausrichten</translation>
+        <translation>Nicht am Raster ausrichten</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
         <comment>TxRevision_Pap_DontSnapToGrid</comment>
-        <translation type="unfinished">Nicht an Raster ausrichten</translation>
+        <translation>Nicht am Raster ausrichten</translation>
     </message>
     <message>
         <source>Don&apos;t suppress line numbers</source>
         <comment>TxRevision_Pap_DontSuppressLineNumbers</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilennummer nicht unterdrücken</translation>
     </message>
     <message>
         <source>Don&apos;t use Asian rules to control first and last character</source>
         <comment>TxRevision_Pap_DontUseAsianRulesToControlFirstAndLastCharacter</comment>
-        <translation type="unfinished">Don&apos;t use Asian rules to control first and last character</translation>
+        <translation>Asiatische Regeln zur Steuerung des ersten und letzten Zeichens nicht verwenden</translation>
     </message>
     <message>
         <source>Dot</source>
         <comment>TxRevision_Chp_Dot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt</translation>
     </message>
     <message>
         <source>Dot-dash heavy underline</source>
         <comment>TxRevision_Chp_DotDashHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punktiert gestrichelte Unterstreichung, fett</translation>
     </message>
     <message>
         <source>Dot-dash underline</source>
         <comment>TxRevision_Chp_DotDashUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt-Strich unterstrichen</translation>
     </message>
     <message>
         <source>Dot-dot-dash heavy underline</source>
         <comment>TxRevision_Chp_DotDotDashHeavyUnderline</comment>
-        <translation type="unfinished">Dot-dot-dash heavy underline</translation>
+        <translation>Punkt Punkt Strich-Unterstreichung, fett</translation>
     </message>
     <message>
         <source>Dot-dot-dash underline</source>
         <comment>TxRevision_Chp_DotDotDashUnderline</comment>
-        <translation type="unfinished">Dot-dot-dash underline</translation>
+        <translation>Punkt-Punkt-Strich unterstrichen</translation>
     </message>
     <message>
         <source>Dotted</source>
         <comment>TxRevision_Bop_Dotted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punktiert</translation>
     </message>
     <message>
         <source>Dotted heavy underline</source>
         <comment>TxRevision_Chp_DottedHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punktierte Unterstreichung, fett</translation>
     </message>
     <message>
         <source>Dotted underline</source>
         <comment>TxRevision_Chp_DottedUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punktiert unterstrichen</translation>
     </message>
     <message>
         <source>Double</source>
         <comment>TxRevision_Pap_Double</comment>
-        <translation type="unfinished">Doppelt</translation>
+        <translation>Doppelt</translation>
     </message>
     <message>
         <source>Double solid lines</source>
         <comment>TxRevision_Bop_DoubleSolidLines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doppelte einfarbige Linien</translation>
     </message>
     <message>
         <source>Double strikethrough</source>
         <comment>TxRevision_Chp_DoubleStrikethrough</comment>
-        <translation type="unfinished">Double strikethrough</translation>
+        <translation>Doppelt durchgestrichen</translation>
     </message>
     <message>
         <source>Double underline</source>
         <comment>TxRevision_Chp_DoubleUnderline</comment>
-        <translation type="unfinished">Doppelt unterstrichen</translation>
+        <translation>Doppelt unterstrichen</translation>
     </message>
     <message>
         <source>Double wavy</source>
         <comment>TxRevision_Bop_DoubleWavy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doppelte Welle</translation>
     </message>
     <message>
         <source>Emboss</source>
         <comment>TxRevision_Chp_Emboss</comment>
-        <translation type="unfinished">Emboss</translation>
+        <translation>Relief</translation>
     </message>
     <message>
         <source>Emboss 3D</source>
         <comment>TxRevision_Bop_Emboss3D</comment>
-        <translation type="unfinished"></translation>
+        <translation>Relief 3D</translation>
     </message>
     <message>
         <source>Engrave</source>
         <comment>TxRevision_Chp_Engrave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gravur</translation>
     </message>
     <message>
         <source>Engrave 3D</source>
         <comment>TxRevision_Bop_Engrave3D</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gravur 3D</translation>
     </message>
     <message>
         <source>Equation</source>
         <comment>_TxBuiltInCaptionLabelEquation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formel</translation>
     </message>
     <message>
         <source>Even page</source>
         <comment>TxRevision_Sep_EvenPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gerade Seite</translation>
     </message>
     <message>
         <source>Everyone</source>
         <comment>TxDocProtect_User_Everyone</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jeder</translation>
     </message>
     <message>
         <source>Exactly </source>
         <comment>TxRevision_Pap_Exactly</comment>
-        <translation type="unfinished"></translation>
+        <translation>Genau</translation>
     </message>
     <message>
         <source>Expanded by </source>
         <comment>TxRevision_Chp_ExpandedBy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert: </translation>
     </message>
     <message>
         <source>Expanded by / Condensed by</source>
@@ -1937,64 +1869,54 @@ Do you want to replace it?</source>
         <translation type="obsolete">Expanded by / Condensed by</translation>
     </message>
     <message>
-        <source>Expanded by/Condensed by</source>
-        <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
-        <translation type="unfinished">Expanded by / Condensed by</translation>
-    </message>
-    <message>
-        <source>Failure sending mail.</source>
-        <comment>_TxMailMerge_SendMailFailed</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Figure</source>
         <comment>_TxBuiltInCaptionLabelFigure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abbildung</translation>
     </message>
     <message>
         <source>First line</source>
         <comment>TxRevision_Pap_FirstLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile</translation>
     </message>
     <message>
         <source>Following style:</source>
         <comment>TxRevision_NextStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Formatvorlage:  </translation>
     </message>
     <message>
         <source>Font</source>
         <comment>TxRevision_Chp_Font</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart</translation>
     </message>
     <message>
         <source>Font Alignment</source>
         <comment>TxRevision_Pap_FontAlignment</comment>
-        <translation type="unfinished">Font Alignment</translation>
+        <translation>Alignment Schriftartausrichtung</translation>
     </message>
     <message>
         <source>Font color</source>
         <comment>TxRevision_Chp_FontColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>Footer</source>
         <comment>TxRevision_Chp_Footer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile</translation>
     </message>
     <message>
         <source>Footer distance from edge</source>
         <comment>TxRevision_Sep_FooterDistanceFromEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeilenabstand vom Rand</translation>
     </message>
     <message>
         <source>Force equal column width</source>
         <comment>TxRevision_Sep_ForceEqualColumnWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gleiche Spaltenbreite erzwingen</translation>
     </message>
     <message>
         <source>From text</source>
         <comment>TxRevision_Bop_FromText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vom Text</translation>
     </message>
     <message>
         <source>Georgian;Hawaiian Language;Hebrew;Hindi;Hungarian;Icelandic;Indonesian;Laotian;Latin;Lithuanian;Mongolian(Traditional Mongolian China);Nepali;Norwegian(Bokmal Language);Norwegian(Nynorsk);Oriya;Oromo;Polish;Punjabi;Romansh;Romanian(Moldova);Romanian;Sanskrit;Serbian(Cyrillic Serbia);Serbian(Latin Serbia);Slovak;Slovenian;Somali;Swahili;Swedish(Finland);Swedish;Tibetan(China);Turkish;Turkmen;Ukrainian;Urdu Language;Uzbek(Cyrillic);Uzbek(Latin);Venda;Welsh;Yi(China);The Yoruba;Zulu;Maldives Language;Berber Language(Latin Algeria);Galician;Scottish Gaelic(United Kingdom);Czech;Persian;Filipino;Finnish:1079;1141;1037;1081;1038;1039;1057;1108;1142;1063;1104;1121;1044;2068;1096;1138;1045;1094;1047;2072;1048;1103;3098;2074;1051;1060;1143;1089;2077;1053;1105;1055;1090;1058;1056;2115;1091;1075;1106;1144;1130;1077;1125;2143;1110;1084;1029;1065;1124;1035</source>
@@ -2004,292 +1926,287 @@ Do you want to replace it?</source>
     <message>
         <source>Gutter</source>
         <comment>TxRevision_Sep_Gutter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bundsteg</translation>
     </message>
     <message>
         <source>Hanging</source>
         <comment>TxRevision_Pap_Hanging</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hängend</translation>
     </message>
     <message>
         <source>Header</source>
         <comment>TxRevision_Chp_Header</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile</translation>
     </message>
     <message>
         <source>Header distance from edge</source>
         <comment>TxRevision_Sep_HeaderDistanceFromEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeilenabstand vom Rand</translation>
     </message>
     <message>
         <source>Heading 1</source>
         <comment>TxRevision_Chp_Heading1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überschrift 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
         <comment>TxRevision_Chp_Heading2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überschrift 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
         <comment>TxRevision_Chp_Heading3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überschrift 3</translation>
     </message>
     <message>
         <source>Height</source>
         <comment>TxRevision_Sep_Height</comment>
-        <translation type="unfinished"></translation>
+        <translation>Höhe</translation>
     </message>
     <message>
         <source>Hidden</source>
         <comment>TxRevision_Chp_Hidden</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ausgeblendet</translation>
     </message>
     <message>
         <source>Highlight</source>
         <comment>TxRevision_Chp_Highlight</comment>
-        <translation type="unfinished">Hervorheben</translation>
+        <translation>Hervorheben</translation>
     </message>
     <message>
         <source>Hyphenate</source>
         <comment>TxRevision_Pap_Hyphenate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image</source>
-        <comment>_TxBuiltInCaptionLabelImage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trennen</translation>
     </message>
     <message>
         <source>Inch</source>
         <comment>_TxUnit_Inch</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inch</translation>
     </message>
     <message>
         <source>Indent</source>
         <comment>TxRevision_Pap_Indent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einzug</translation>
     </message>
     <message>
         <source>Indent at</source>
         <comment>TxRevision_Pap_IndentAt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einzug bei</translation>
     </message>
     <message>
         <source>Inset</source>
         <comment>TxRevision_Bop_Inset</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Add-In Template.</source>
-        <comment>_TxAddin_InvalidAddinTemplate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid e-mail address, sending failed.</source>
-        <comment>_TxMailMerge_ErrAddress</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abgesenkt</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TxRevision_Chp_Italic</comment>
-        <translation type="unfinished">Kursiv</translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>Justified</source>
         <comment>TxRevision_Pap_Justified</comment>
-        <translation type="unfinished">Justified</translation>
+        <translation>Blocksatz</translation>
     </message>
     <message>
         <source>Keep lines together</source>
         <comment>TxRevision_Pap_KeepLinesTogether</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diesen Absatz zusammenhalten</translation>
     </message>
     <message>
         <source>Keep with next</source>
         <comment>TxRevision_Pap_KeepWithNext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nicht vom nächsten Absatz trennen</translation>
     </message>
     <message>
         <source>Kern at </source>
         <comment>TxRevision_Chp_KernAt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unterschneidung ab </translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc</comment>
+        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc2</comment>
+        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Bop_Left</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_AlignmentLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_IndentLeft2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_Left</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_TabStopsLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Sep_Left</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left </source>
         <comment>TxRevision_Pap_IndentLeft</comment>
-        <translation type="unfinished">Left </translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Left-to-right</source>
         <comment>TxRevision_Pap_LeftToRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Von links nach rechts</translation>
     </message>
     <message>
         <source>Level</source>
         <comment>TxRevision_Pap_BulletedLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ebene</translation>
     </message>
     <message>
         <source>Level</source>
         <comment>TxRevision_Pap_NumberedLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ebene</translation>
     </message>
     <message>
         <source>Level %d</source>
         <comment>TxRevision_Pap_Level</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ebene %d</translation>
     </message>
     <message>
         <source>Line between</source>
         <comment>TxRevision_Sep_LineBetween</comment>
-        <translation type="unfinished">Line between</translation>
+        <translation>Trennlinie</translation>
     </message>
     <message>
         <source>Line spacing</source>
         <comment>TxRevision_Pap_LineSpacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenabstand</translation>
     </message>
     <message>
         <source>Line width</source>
         <comment>TxRevision_Bop_LineWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenbreite</translation>
     </message>
     <message>
         <source>Link Update</source>
         <comment>TxVersion_IncludePictureLink_Update</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung aktualisieren</translation>
     </message>
     <message>
         <source>Lowered by </source>
         <comment>TxRevision_Chp_LoweredBy</comment>
-        <translation type="unfinished">Lowered by </translation>
+        <translation>Schmal um:  </translation>
     </message>
     <message>
         <source>Made %d replacements.</source>
         <comment>_TxFind_ReplaceItemCount</comment>
-        <translation type="unfinished"></translation>
+        <translation> Es wurden %d Ersetzungen vorgenommen.</translation>
     </message>
     <message>
         <source>Margin</source>
         <comment>TxRevision_Bop_Margin</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seitenrand</translation>
     </message>
     <message>
         <source>Millimeter</source>
         <comment>_TxUnit_Milimeter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Millimeter</translation>
     </message>
     <message>
         <source>Multiple </source>
         <comment>TxRevision_Pap_Multiple</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mehrfach</translation>
     </message>
     <message>
         <source>New column</source>
         <comment>TxRevision_Sep_NewColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neue Spalte</translation>
     </message>
     <message>
         <source>New page</source>
         <comment>TxRevision_Sep_NewPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neue Seite</translation>
     </message>
     <message>
         <source>Next Paragraph</source>
         <comment>_TxDlg_AfterPreviewString</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nächster Absatz</translation>
     </message>
     <message>
         <source>No Page break before</source>
         <comment>TxRevision_Pap_NoPageBreakBefore</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keiner Seitenumbruch oberhalb</translation>
     </message>
     <message>
         <source>No border</source>
         <comment>TxRevision_Bop_NoBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kein Rahmen</translation>
     </message>
     <message>
         <source>No bullets or numbering</source>
         <comment>TxRevision_Pap_NoBulletsOrNumbering</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Nummerierung und Aufzählungszeichen</translation>
     </message>
     <message>
         <source>No emphasis mark</source>
         <comment>TxRevision_Chp_NoEmphasisMark</comment>
-        <translation type="unfinished">No emphasis mark</translation>
+        <translation>Kein Betonungszeichen</translation>
     </message>
     <message>
         <source>No grid</source>
         <comment>TxRevision_Sep_NoGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kein Raster</translation>
     </message>
     <message>
         <source>No line between</source>
         <comment>TxRevision_Sep_NoLineBetween</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Trennlinie</translation>
     </message>
     <message>
         <source>No search item was found.</source>
         <comment>_TxFind_NoItemFound</comment>
-        <translation type="unfinished">Kein Suchbegriff gefunden.</translation>
+        <translation>Das gesuchte Element konnte nicht gefunden werden.</translation>
     </message>
     <message>
         <source>No underline</source>
         <comment>TxRevision_Chp_NoUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Unterstreichung</translation>
     </message>
     <message>
         <source>No widow/orphan control</source>
         <comment>TxRevision_Pap_NoWidowOrphanControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Absatzkontrolle</translation>
     </message>
     <message>
         <source>None</source>
         <comment>TxRevision_Pap_None</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <source>None</source>
         <comment>_TxNothing</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>TxRevision_Chp_Normal</comment>
-        <translation type="unfinished">Normal</translation>
+        <translation>Textkörper</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -2299,42 +2216,42 @@ Do you want to replace it?</source>
     <message>
         <source>Not </source>
         <comment>TxRevision_Chp_Not</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nicht</translation>
     </message>
     <message>
         <source>Not </source>
         <comment>TxRevision_Sep_Not</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nicht</translation>
     </message>
     <message>
         <source>Not at</source>
         <comment>TxRevision_Pap_TabStopsNotAt</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nicht auf</translation>
     </message>
     <message>
         <source>Number of columns</source>
         <comment>TxRevision_Sep_NumberOfColumns</comment>
-        <translation type="unfinished">Number of columns</translation>
+        <translation>Anzahl der Spalten</translation>
     </message>
     <message>
         <source>Numbered</source>
         <comment>TxRevision_Pap_Numbered</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nummerieriert</translation>
     </message>
     <message>
         <source>Numbering Style</source>
         <comment>TxRevision_Pap_NumberingStyle</comment>
-        <translation type="unfinished">Nummerierungsstil</translation>
+        <translation>Nummerierungsformatvorlage</translation>
     </message>
     <message>
         <source>OVR</source>
         <comment>_TxStatusBar_OvertypeInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>ÜB</translation>
     </message>
     <message>
         <source>Odd page</source>
         <comment>TxRevision_Sep_OddPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungerade Seite</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -2344,237 +2261,222 @@ Do you want to replace it?</source>
     <message>
         <source>Outset</source>
         <comment>TxRevision_Bop_Outset</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfang</translation>
     </message>
     <message>
         <source>Page</source>
         <comment>_TxGenko_PageNumbers</comment>
-        <translation type="unfinished">Seite</translation>
+        <translation>Seite</translation>
     </message>
     <message>
         <source>Page </source>
         <comment>_TxGenko_PageNo</comment>
-        <translation type="unfinished">Seite </translation>
+        <translation>Seite </translation>
     </message>
     <message>
         <source>Page break before</source>
         <comment>TxRevision_Pap_PageBreakBefore</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seitenumbruch oberhalb</translation>
     </message>
     <message>
         <source>Pattern</source>
         <comment>TxRevision_Chp_Pattern</comment>
-        <translation type="unfinished">Pattern</translation>
+        <translation>Muster</translation>
     </message>
     <message>
         <source>Pattern</source>
         <comment>TxRevision_Shp_Pattern</comment>
-        <translation type="unfinished">Pattern</translation>
+        <translation>Muster</translation>
     </message>
     <message>
         <source>Pause mark</source>
         <comment>TxRevision_Chp_PauseMark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ideographisches Komma</translation>
     </message>
     <message>
         <source>Pica</source>
         <comment>_TxUnit_Picas</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pica</translation>
     </message>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
         <comment>_TxPhoneticGuideTip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitte wählen Sie den Grundtext für das phonetische Leitzeichen.</translation>
     </message>
     <message>
         <source>Pound</source>
         <comment>_TxUnit_Pound</comment>
-        <translation type="unfinished">Pfund</translation>
+        <translation>Pfund</translation>
     </message>
     <message>
         <source>Previous Paragraph</source>
         <comment>_TxDlg_BeforePreviewString</comment>
-        <translation type="unfinished">Voriger Absatz</translation>
+        <translation>Vorhergehender Absatz</translation>
     </message>
     <message>
         <source>REV</source>
         <comment>_TxStatusBar_TrackChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>REV</translation>
     </message>
     <message>
         <source>Raised by </source>
         <comment>TxRevision_Chp_RaisedBy</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Raised by/Lowered by</source>
-        <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Höhergestellt um </translation>
     </message>
     <message>
         <source>Reached the beginning of the comments.</source>
         <comment>_TxFind_ReachBeginningOfComments</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfang des Kommentars erreicht.</translation>
     </message>
     <message>
         <source>Reached the beginning of the endnote.</source>
         <comment>_TxFind_ReachBeginningOfEndnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfang der Endnote erreicht.</translation>
     </message>
     <message>
         <source>Reached the beginning of the footnote.</source>
         <comment>_TxFind_ReachBeginningOfFootnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfang der Fußnote erreicht.</translation>
     </message>
     <message>
         <source>Reached the beginning of the headers and footers.</source>
         <comment>_TxFind_ReachBeginningOfHeaderFooters</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfang der Kopf- und Fußzeile erreicht.</translation>
     </message>
     <message>
         <source>Reached the beginning of the text box.</source>
         <comment>_TxFind_ReachBeginningOfHeaderFooterTextFrames</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfang des Textfeldes erreicht.</translation>
     </message>
     <message>
         <source>Reached the beginning of the text box.</source>
         <comment>_TxFind_ReachBeginningOfTextFrames</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anfang des Textfeldes erreicht.</translation>
     </message>
     <message>
         <source>Reached the end of the comments.</source>
         <comment>_TxFind_ReachEndOfComments</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ende des Kommentars erreicht.</translation>
     </message>
     <message>
         <source>Reached the end of the endnote.</source>
         <comment>_TxFind_ReachEndOfEndnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ende der Endnote erreicht.</translation>
     </message>
     <message>
         <source>Reached the end of the footnote.</source>
         <comment>_TxFind_ReachEndOfFootnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ende der Endnote erreicht.</translation>
     </message>
     <message>
         <source>Reached the end of the headers and footers.</source>
         <comment>_TxFind_ReachEndOfHeaderFooters</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ende der Kopf- und Fußzeile erreicht.</translation>
     </message>
     <message>
         <source>Reached the end of the text box.</source>
         <comment>_TxFind_ReachEndOfHeaderFooterTextFrames</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ende des Textfeldes erreicht.</translation>
     </message>
     <message>
         <source>Reached the end of the text box.</source>
         <comment>_TxFind_ReachEndOfTextFrames</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ende des Textfeldes erreicht.</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Bop_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_AlignmentRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_IndentRight2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_TabStopsRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Sep_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right </source>
         <comment>TxRevision_Pap_IndentRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Right-to-left</source>
         <comment>TxRevision_Pap_RightToLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Von rechts nach links</translation>
     </message>
     <message>
         <source>Sample Text</source>
         <comment>_TxDlg_BodyPreviewString</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beispieltext</translation>
     </message>
     <message>
         <source>Section start</source>
         <comment>TxRevision_Sep_SectionStart</comment>
-        <translation type="unfinished">Abschnittsstart</translation>
+        <translation>Abschnittsbeginn</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>TxRevision_Chp_Shadow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schatten</translation>
     </message>
     <message>
         <source>Single solid line</source>
         <comment>TxRevision_Bop_SingleSolidLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einfache einfarbige Linie</translation>
     </message>
     <message>
         <source>Single wavy</source>
         <comment>TxRevision_Bop_SingleWavy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einzelne Welle</translation>
     </message>
     <message>
         <source>Small caps</source>
         <comment>TxRevision_Chp_SmallCaps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kapitälchen</translation>
     </message>
     <message>
         <source>Snap to grid</source>
         <comment>TxRevision_Chp_SnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Am Raster ausrichten</translation>
     </message>
     <message>
         <source>Snap to grid</source>
         <comment>TxRevision_Pap_SnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Am Raster ausrichten</translation>
     </message>
     <message>
         <source>Space </source>
         <comment>TxRevision_Pap_Space</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatzabstand</translation>
     </message>
     <message>
         <source>Specify line and character grid</source>
         <comment>TxRevision_Sep_SpecifyLineAndCharacterGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen- und Zeichenraster festlegen </translation>
     </message>
     <message>
         <source>Specify line grid</source>
         <comment>TxRevision_Sep_SpecifyLineGrid</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell Check: Off</source>
-        <comment>_TxSpellingCheck_Off</comment>
-        <translation type="unfinished">Rechtschreibprüfung: Aus</translation>
-    </message>
-    <message>
-        <source>Spell Check: On</source>
-        <comment>_TxSpellingCheck_On</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenraster festlegen </translation>
     </message>
     <message>
         <source>SpellingCheck: Off</source>
@@ -2584,77 +2486,67 @@ Do you want to replace it?</source>
     <message>
         <source>Start Protection</source>
         <comment>TxDocProtect_DocumentProtect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentschutz starten</translation>
     </message>
     <message>
         <source>Start at</source>
         <comment>TxRevision_Pap_StartAt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Starten von</translation>
     </message>
     <message>
         <source>Stop Protection</source>
         <comment>TxDocProtect_DocumentUnprotect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentschutz disaktivieren</translation>
     </message>
     <message>
         <source>Strikethrough</source>
         <comment>TxRevision_Chp_Strikethrough</comment>
-        <translation type="unfinished">Durchgestrichen</translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>TxRevision_Chp_Subscript</comment>
-        <translation type="unfinished">Tiefgestellt</translation>
+        <translation>Tiefgestellt</translation>
     </message>
     <message>
         <source>Superscript</source>
         <comment>TxRevision_Chp_Superscript</comment>
-        <translation type="unfinished">Hochgestellt</translation>
+        <translation>Hochgestellt</translation>
     </message>
     <message>
         <source>Superscript/Subscript</source>
         <comment>TxRevision_Chp_SuperscriptSubscript</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hochgestellt/ Tiefgestellt</translation>
     </message>
     <message>
         <source>Suppress line numbers</source>
         <comment>TxRevision_Pap_SuppressLineNumbers</comment>
-        <translation type="unfinished">Suppress line numbers</translation>
+        <translation>Zeilennummern unterdrücken</translation>
     </message>
     <message>
         <source>Tab stops</source>
         <comment>TxRevision_Pap_TabStops</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabstopps</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>_TxBuiltInCaptionLabelTable</comment>
-        <translation type="unfinished">Tabelle</translation>
+        <translation>Tabelle</translation>
     </message>
     <message>
         <source>Text snaps to character grid</source>
         <comment>TxRevision_Sep_TextSnapsToCharacterGrid</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text tools(&amp;F)</source>
-        <comment>_TxMenuBarOption_TextTool</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Replace With text contains a group number which is out of range.</source>
-        <comment>_TxFind_MoreReplacementGroups</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text am Zeichenraster ausrichten </translation>
     </message>
     <message>
         <source>The data source does not contain any visible table.</source>
         <comment>_TxMailMerge_NoTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Datenquelle enthält keine sichtbaren Tabellen.</translation>
     </message>
     <message>
         <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
         <comment>_TxFind_TooMuchResult</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Volltextsuche ist fertig,es wurden %d Ergebnisse gefunden. Aufgrund zu vieler gefundenen Ergebnisse wurden nur die ersten %d ausgewählt.</translation>
     </message>
     <message>
         <source>The special character %s is not valid for the Replace With box.</source>
@@ -2664,281 +2556,396 @@ Do you want to replace it?</source>
     <message>
         <source>Thick underline</source>
         <comment>TxRevision_Chp_ThickUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Extra fette Linie</translation>
     </message>
     <message>
         <source>Thick-thin large gap</source>
         <comment>TxRevision_Bop_ThickThinLargeGap</comment>
-        <translation type="unfinished">Thick-thin large gap</translation>
+        <translation>Großer Abstand dick-dünn</translation>
     </message>
     <message>
         <source>Thick-thin medium gap</source>
         <comment>TxRevision_Bop_ThickThinMediumGap</comment>
-        <translation type="unfinished">Thick-thin medium Lücke</translation>
+        <translation>Mittlerer Abstand dick-dünn</translation>
     </message>
     <message>
         <source>Thick-thin small gap</source>
         <comment>TxRevision_Bop_ThickThinSmallGap</comment>
-        <translation type="unfinished">Thick-thin small gap</translation>
+        <translation>Kleiner Abstand dick-dünn</translation>
     </message>
     <message>
         <source>Thin-thick large gap</source>
         <comment>TxRevision_Bop_ThinThickLargeGap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Großer Abstand dünn-dick</translation>
     </message>
     <message>
         <source>Thin-thick medium gap</source>
         <comment>TxRevision_Bop_ThinThickMediumGap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mittlerer Abstand dünn-dick</translation>
     </message>
     <message>
         <source>Thin-thick small gap</source>
         <comment>TxRevision_Bop_ThinThickSmallGap</comment>
-        <translation type="unfinished">Thin-thick small gap</translation>
+        <translation>Kleiner Abstand dünn-dick</translation>
     </message>
     <message>
         <source>Thin-thick-thin large gap</source>
         <comment>TxRevision_Bop_ThinThickThinLargeGap</comment>
-        <translation type="unfinished">Thin-thick-thin large gap</translation>
+        <translation>Großer Abstand dünn-dick-dünn</translation>
     </message>
     <message>
         <source>Thin-thick-thin medium gap</source>
         <comment>TxRevision_Bop_ThinThickThinMediumGap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mittlerer Abstand dünn-dick-dünn</translation>
     </message>
     <message>
         <source>Thin-thick-thin small gap</source>
         <comment>TxRevision_Bop_ThinThickThinSmallGap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kleiner Abstand dünn-dick-dünn</translation>
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
         <comment>_TxRevision_CantRevision</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Aktion wird nicht als Rev makiert, fortsetzen? </translation>
     </message>
     <message>
         <source>This operation is invalid for the end of a row.</source>
         <comment>_TxTbl_CanntBackspaceAtEndOfRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Operation ist für das Zeilenende ungültig.</translation>
     </message>
     <message>
         <source>This operation will delete all the elements in the table. Do you want to continue?</source>
         <comment>_TxDel_AllTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bei dieser Operation werden alle Elemente in der Tabelle gelöscht, fortsetzen?</translation>
     </message>
     <message>
         <source>Toggle Revision Marks</source>
         <comment>_TxRevision_ChangeMark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überarbeitungsmarkierungen umschalten </translation>
     </message>
     <message>
         <source>Top</source>
         <comment>TxRevision_Bop_Top</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <source>Top</source>
         <comment>TxRevision_Pap_Top</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <source>Top</source>
         <comment>TxRevision_Sep_Top</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <source>Triple solid lines</source>
         <comment>TxRevision_Bop_TripleSolidLines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dreifache einfarbige Linien</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
         <comment>TxRevision_Chp_TwoLinesInOne</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zwei Zeilen pro Zeile</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>TxRevision_Chp_Underline</comment>
-        <translation type="unfinished">Unterstreichen</translation>
+        <translation>Unterstreichen</translation>
     </message>
     <message>
         <source>Underline color</source>
         <comment>TxRevision_Chp_UnderlineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichungsfarbe</translation>
     </message>
     <message>
         <source>Unit: cm</source>
         <comment>_TxStatusBar_Centimeters</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: cm</translation>
     </message>
     <message>
         <source>Unit: inch</source>
         <comment>_TxStatusBar_Inches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: Inch</translation>
     </message>
     <message>
         <source>Unit: mm</source>
         <comment>_TxStatusBar_Millimeters</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: mm</translation>
     </message>
     <message>
         <source>Unit: pt </source>
         <comment>_TxStatusBar_Points</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: pt </translation>
     </message>
     <message>
         <source>Use Asian rules to control first and last character</source>
         <comment>TxRevision_Pap_UseAsianRulesToControlFirstAndLastCharacter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asiatische Regeln zur Steuerung des ersten und letzten Zeichens benutzen</translation>
     </message>
     <message>
         <source>Users with full control</source>
         <comment>TxDocProtect_User_Owners</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer mit allen Rechten</translation>
     </message>
     <message>
         <source>Users with permission to change</source>
         <comment>TxDocProtect_User_Editors</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_TxApp_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot open the Data Source.</source>
-        <comment>_TxMailMerge_OpenDataSourceErr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
-        <comment>_TxMailMerge_NoRecordExecute</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer document data</source>
-        <comment>_TxClipboardDesc_Xml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <comment>_TxFind_FinishSearchingDoc</comment>
-        <translation type="unfinished">Durchsuchen des Dokuments abgeschlossen.</translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <comment>_TxFind_FinishSearchingDoc2</comment>
-        <translation type="unfinished">Durchsuchen des Dokuments abgeschlossen.</translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the selection.</source>
-        <comment>_TxFind_FinishSearchingSelection</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has reached the beginning of the document.</source>
-        <comment>_TxFind_ReachBeginningOfDoc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has reached the end of the document.</source>
-        <comment>_TxFind_ReachEndOfDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzer mit Änderungsberechtigung</translation>
     </message>
     <message>
         <source>Wave double underline</source>
         <comment>TxRevision_Chp_WaveDoubleUnderline</comment>
-        <translation type="unfinished">Welle doppelt unterstrichen</translation>
+        <translation>Doppelte Welle</translation>
     </message>
     <message>
         <source>Wave underline</source>
         <comment>TxRevision_Chp_WaveUnderline</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wavy Heavy Line</source>
-        <comment>TxRevision_Chp_WaveHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wellenförmig unterstreichen</translation>
     </message>
     <message>
         <source>Widow/Orphan control</source>
         <comment>TxRevision_Pap_WidowOrphanControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatzkontrolle</translation>
     </message>
     <message>
         <source>Width</source>
         <comment>TxRevision_Sep_Width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Breite</translation>
     </message>
     <message>
         <source>Word underline</source>
         <comment>TxRevision_Chp_WordUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wort unterstrichen</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished">Writer</translation>
+        <translation>WPS-Writer</translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
         <comment>_TxFind_NReplacementMade</comment>
-        <translation type="unfinished"></translation>
+        <translation>und %d Ersetzungen wurden vorgenommen.</translation>
     </message>
     <message>
         <source>ch</source>
         <comment>TxRevision_Unit_CH</comment>
-        <translation type="unfinished">ch</translation>
+        <translation>Zeich.</translation>
     </message>
     <message>
         <source>cm</source>
         <comment>TxRevision_Unit_CM</comment>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>leader</source>
         <comment>TxRevision_Pap_Leader</comment>
-        <translation type="unfinished"></translation>
+        <translation>Füllzeichen</translation>
     </message>
     <message>
         <source>li</source>
         <comment>TxRevision_Unit_Li</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ze</translation>
     </message>
     <message>
         <source>line</source>
         <comment>TxRevision_Unit_Line</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeile</translation>
     </message>
     <message>
         <source>mm</source>
         <comment>TxRevision_Unit_MM</comment>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>TxRevision_Unit_PT</comment>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>single</source>
         <comment>TxRevision_Pap_single</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einfach</translation>
     </message>
     <message>
         <source>（Asian）</source>
         <comment>TxRevision_Chp_Asian</comment>
-        <translation type="unfinished">（Asian）</translation>
+        <translation>（Asiatisch）</translation>
     </message>
     <message>
         <source>（Default）</source>
         <comment>TxRevision_Chp_Default</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Standard)</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <comment>_TxBuiltInCaptionLabelImage</comment>
+        <translation>Bild</translation>
+    </message>
+    <message>
+        <source>WPS Make the office more relaxed</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="obsolete">WPS entspannt die Arbeit </translation>
+    </message>
+    <message>
+        <source>WPS Writer has reached the beginning of the document.</source>
+        <comment>_TxFind_ReachBeginningOfDoc</comment>
+        <translation>Anfang des Dokumentes erreicht,</translation>
+    </message>
+    <message>
+        <source>WPS Writer has reached the end of the document.</source>
+        <comment>_TxFind_ReachEndOfDoc</comment>
+        <translation>Ende des Dokumentes erreicht,</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc</comment>
+        <translation>Durchsuchen des Dokuments abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc2</comment>
+        <translation>Durchsuchen des Dokuments abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the selection.</source>
+        <comment>_TxFind_FinishSearchingSelection</comment>
+        <translation>Das Durchsuchen der Auswahl ist abgeschlossen,</translation>
+    </message>
+    <message>
+        <source>%s is not a valid special character for the Replace With box.</source>
+        <comment>_TxFind_NoValidReplacementStr</comment>
+        <translation>%s ist kein gültiges Sonderzeichen für die Option &quot;Ersetzen durch&quot;.</translation>
+    </message>
+    <message>
+        <source>WPS Writer document data</source>
+        <comment>_TxClipboardDesc_Xml</comment>
+        <translation>Dokumentdaten von WPS-Writer</translation>
+    </message>
+    <message>
+        <source>Invalid e-mail address, sending failed.</source>
+        <comment>_TxMailMerge_ErrAddress</comment>
+        <translation>Ungültige Emailadresse, Fehler beim Senden.</translation>
+    </message>
+    <message>
+        <source>Failure sending mail.</source>
+        <comment>_TxMailMerge_SendMailFailed</comment>
+        <translation>Fehler beim Senden des Emails</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_NoRecordExecute</comment>
+        <translation>WPS konnte das Hauptdokument nicht mit der Datenquelle verbinden, da entweder die Datensätze leer waren oder kein Datensatz den Abfrageoptionen entsprach.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open the Data Source.</source>
+        <comment>_TxMailMerge_OpenDataSourceErr</comment>
+        <translation>WPS kann die Datenquelle nicht öffnen.</translation>
+    </message>
+    <message>
+        <source>Spell Check: On</source>
+        <comment>_TxSpellingCheck_On</comment>
+        <translation>Rechtschreibprüfung: An</translation>
+    </message>
+    <message>
+        <source>Spell Check: Off</source>
+        <comment>_TxSpellingCheck_Off</comment>
+        <translation>Rechtschreibprüfung: Aus</translation>
     </message>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!”, “#”, “%20”, “%23” or “%25”, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
+        <translation type="obsolete">Webseiten in einer Datei, die mit den Zeichen &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot;, oder &quot;%25&quot; im Pfad gespeichert wurden, werden möglicherweise von einigen Browsern nicht korrekt dargestellt. Möchten Sie den Vorgang fortsetzen?</translation>
+    </message>
+    <message>
+        <source>Text tools(&amp;F)</source>
+        <comment>_TxMenuBarOption_TextTool</comment>
+        <translation type="unfinished">Texteingabe</translation>
+    </message>
+    <message>
+        <source>Wavy Heavy Line</source>
+        <comment>TxRevision_Chp_WaveHeavyUnderline</comment>
+        <translation>Welle fett</translation>
+    </message>
+    <message>
+        <source>Expanded by/Condensed by</source>
+        <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
+        <translation>Erweitert um/ Schmal um </translation>
+    </message>
+    <message>
+        <source>Raised by/Lowered by</source>
+        <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
+        <translation>Höhergestellt um/Tiefergestellt um</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_TxApp_Name</comment>
+        <translation>WPS-Writer</translation>
+    </message>
+    <message>
+        <source>The Replace With text contains a group number which is out of range.</source>
+        <comment>_TxFind_MoreReplacementGroups</comment>
+        <translation>Der Text im Feld &quot;Ersetzen durch&quot; enthält eine Gruppennummer, die außerhalb des gültigen Bereichs liegt.</translation>
+    </message>
+    <message>
+        <source>Invalid Add-In Template.</source>
+        <comment>_TxAddin_InvalidAddinTemplate</comment>
+        <translation>Ungültige Add-In-Vorlage.</translation>
+    </message>
+    <message>
+        <source>Cannot Load this Add-In.</source>
+        <comment>_TxAddin_CannotLoadAddIn</comment>
+        <translation>WPS konnte dieses Add-In-Programm nicht laden.</translation>
+    </message>
+    <message>
+        <source>Document is under protected, can not be merged</source>
+        <translation type="obsolete">Das Dokument ist geschützt,es kann nicht kombiniert</translation>
+    </message>
+    <message>
+        <source>There are one or all documents contain revsions, continue compare or not?</source>
+        <translation type="obsolete">Eines oder beide der miteinander verglichenen Dokumente enthalten Überarbeitungen. Zu Vergleichszwecken wird von &lt;a&gt; davon ausgegangen, dass die Änderungen angenommen wurden. Möchten Sie den Vergleich fortsetzen?</translation>
+    </message>
+    <message>
+        <source>no proofing</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation type="obsolete">Keine Dokumentprüfung</translation>
+    </message>
+    <message>
+        <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation type="obsolete">Möchten Sie die Änderungen an &quot;%s&quot; ignorieren und die neueste Version laden?  </translation>
+    </message>
+    <message>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
+        <translation type="unfinished">Webseiten in einer Datei, die mit den Zeichen &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot;, oder &quot;%25&quot; im Pfad gespeichert wurden, werden möglicherweise von einigen Browsern nicht korrekt dargestellt. Möchten Sie den Vorgang fortsetzen?</translation>
+    </message>
+    <message>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation>Möchten Sie die Änderungen an &quot;%s&quot; ignorieren und die neueste Version laden?  </translation>
+    </message>
+    <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation>Das Dokument ist geschützt,es kann nicht kombiniert</translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation>Eines oder beide der miteinander verglichenen Dokumente enthalten Überarbeitungen. Zu Vergleichszwecken wird von &lt;a&gt; davon ausgegangen, dass die Änderungen angenommen wurden. Möchten Sie den Vergleich fortsetzen?</translation>
+    </message>
+    <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation>WPS entspannt die Arbeit </translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation>Keine Dokumentprüfung</translation>
     </message>
 </context>
 <context>
@@ -2946,48 +2953,49 @@ Do you want to replace it?</source>
     <message>
         <source>Cannot insert any object to the text box which can be resized or rotated.</source>
         <comment>_TxErr_ResizeOrRotateTextboxAddShapeWarning</comment>
-        <translation type="unfinished">dessen Größe verändert werden oder das gedreht werden kann.</translation>
+        <translation type="unfinished">Objekte dürfen ins Textfeld nicht eingefügt werden, dessen Größe verändert werden oder das gedreht werden kann.</translation>
     </message>
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
         <comment>_TxErr_FailSetColumSpace</comment>
-        <translation type="unfinished">Spaltenabstand am Textende kann nicht eingestellt werden.</translation>
+        <translation>Spaltenabstand am Textende kann nicht eingestellt oder bekommen werden.</translation>
     </message>
     <message>
         <source>Failed to open.</source>
         <comment>_TxErr_DocumentOpenFatalError</comment>
-        <translation type="unfinished">Öffnen fehlgeschlagen.</translation>
+        <translation>Fehler beim Öffnen.</translation>
     </message>
     <message>
         <source>Failed to save.</source>
         <comment>_TxErr_DocumentSaveFatalError</comment>
-        <translation type="unfinished">Speichern fehlgeschlagen.</translation>
+        <translation>Fehler beim Speichern.</translation>
     </message>
     <message>
         <source>Preview Mode is in use.</source>
         <comment>_TxErr_PrintPreviewDeny</comment>
-        <translation type="unfinished">Vorschau-Modus wird verwendet.</translation>
+        <translation>Vorschaumodus wird verwendet.</translation>
     </message>
     <message>
         <source>Preview Mode is unactivated.</source>
         <comment>_TxErr_PrintPreviewNotActivated</comment>
-        <translation type="unfinished">Vorschau-Modus ist deaktiviert.</translation>
+        <translation>Vorschaumodus ist nicht aktiviert.</translation>
     </message>
     <message>
         <source>Protect method or property is invalid due to the protected document.</source>
         <comment>_TxErr_DocumentHasProtected</comment>
-        <translation type="unfinished">Schutzmethode oder Eigenschaft ungültig. Dokument ist geschützt.</translation>
+        <translation>Protect-Methode oder Eigenschaft ist aufgrund des geschützten Dokuments ungültig</translation>
     </message>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
         <comment>_TxErr_MeasureOutOfPageLimit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Einstellungen von beiden Seitenrändern, dem Spaltenabstand oder dem Absatzeinzug in einigen Abschnitten überschreiten die Seitenbreite.</translation>
     </message>
     <message>
         <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
 Use the &apos;Find Next Region I Can Edit&apos; button to show each region individually.</source>
         <comment>_TxErr_SelectAllExceptions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einige der Bereiche, die Sie bearbeiten können, überlappen, und können nicht alle zugleich angezeigt werden. 
+Verwenden Sie die Schaltfläche &quot;Nächster bearbeitbarer Bereich&quot;, um die Bereiche einzeln anzuzeigen.</translation>
     </message>
     <message>
         <source>The Base Style Name does not exist or its type is not correct.</source>
@@ -2995,69 +3003,69 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="obsolete">Name des Basisstils ist nicht vorhanden oder falsch geschrieben.</translation>
     </message>
     <message>
-        <source>The Based On style name does not exist or is of an incorrect type.</source>
-        <comment>_TxErr_SetBaseStyleError</comment>
-        <translation type="unfinished">Name des Basisstils ist nicht vorhanden oder falsch geschrieben.</translation>
-    </message>
-    <message>
         <source>The measurement must be between 0 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_0_1584</comment>
-        <translation type="unfinished">Die Maßangabe muss zwischen 0 pt und 1584 pt liegen.</translation>
+        <translation>Das Maß muss zwischen 0 pt und 1584 pt liegen.</translation>
     </message>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished">Die Maßangabe muss zwischen -1584 pt und 1584 pt liegen.</translation>
+        <translation>Das Maß muss zwischen -1584 pt und 1584 pt liegen.</translation>
     </message>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished">5 und 600 liegen.</translation>
+        <translation>Das Maß muss zwischen 5 und 600 liegen.</translation>
     </message>
     <message>
         <source>The password is not correct.</source>
         <comment>_TxErr_PasswordError</comment>
-        <translation type="unfinished">Passwort ist nicht korrekt.</translation>
+        <translation>Das Kennwort ist nicht korrekt.</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToResizeOrRotateWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Textfeld enthält Objekte oder Tabellen. Aber keine Objekte oder Tabellen darf das Textfeld enthalten, dessen Größe veränderbar ist oder das drehbar ist. Wenn Sie die Eigenschaften einstellen, werden die Objekte ooder Tabellen gelöscht werden. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>The text box contains one or more tables which will be deleted if you convert them, because the vertical text box cannot contain any table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToVerticalWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Textfeld enthält eine oder mehrere Tabellen. Ein Textfeld mit vertikaler Textausrichtung kann keine Tabellen enthalten. Die Tabelle wird gelöscht, wenn Sie die Tabelle(n) zu Text konvertieren. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
         <comment>_TxErr_CreateTextboxWaring1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Markierung enthält Verweise für Fußnoten, Endnoten oder Kommentar. Beim Konvertieren zu einem Textfeld geht der Verweistext verloren. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
         <comment>_TxErr_CycBaseStyle</comment>
-        <translation type="unfinished">Dieser Stil hat einen Umlauf basierend auf der Stile-Liste.</translation>
+        <translation>Dieser Stil hat einen Umlauf basierend auf der Stile-Liste.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
         <comment>_TxErr_CantCreateNewStyle</comment>
-        <translation type="unfinished">Stilname wird bereits verwendet oder ist für programmeigenen Stil reserviert.</translation>
+        <translation>Dieser Formatvorlagenname besteht bereits oder ist reserviert für im Programm enthaltene Formatvorlagen.</translation>
     </message>
     <message>
         <source>Unprotect method or property is invalid due to the unprotected document.</source>
         <comment>_TxErr_DocumentHasUnprotected</comment>
-        <translation type="unfinished">Aufheben des Schutzes oder Eigenschaft ungültig. Dokument ist ungeschützt.</translation>
-    </message>
-    <message>
-        <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
-        <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unprotect-Methode oder Eigenschaft ist aufgrund des nicht geschützten Dokuments ungültig</translation>
     </message>
     <message>
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
         <comment>_TxErr_InvalidAnchorPosition</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zeichnungsobjekte dürfen nicht ins Textfeld, in die Beschriftung, ins Kommentar, in die Fuß- oder Endnote eingefügt werden.</translation>
+    </message>
+    <message>
+        <source>The Based On style name does not exist or is of an incorrect type.</source>
+        <comment>_TxErr_SetBaseStyleError</comment>
+        <translation>Die Formatvorlage im Feld &quot;Basiert auf&quot; ist nicht vorhanden oder entspricht einem anderen Typ.</translation>
+    </message>
+    <message>
+        <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
+        <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
+        <translation>Sie versuchen, eine oder mehrere Tabellen in ein vertikales Textfeld zu kopieren. Ein Textfeld oder Rahmen mit vertikaler Textausrichtung kann keine Tabellen enthalten. Die Tabelle wird gelöscht. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
 </context>
 <context>
@@ -3066,47 +3074,39 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <source>
 • Extended orientation</source>
         <comment>_TxDocument_FormatNotCompatible_TextOrientationEx</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>
 • Extended text box properties</source>
         <comment>_TxDocument_FormatNotCompatible_TextBoxEx</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>
 • Genko</source>
         <comment>_TxDocument_FormatNotCompatible_Genko</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%s (Read-Only)</source>
         <comment>_TxDocument_TitleReadOnly</comment>
-        <translation type="unfinished">%s (Nur-Lesen)</translation>
-    </message>
-    <message>
-        <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
-
-•If you want to keep this format, click Yes.
-•If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
-        <comment>_TxDocument_FormatNotCompatible</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s (Schreibgeschützt)</translation>
     </message>
     <message>
         <source>*.*</source>
         <comment>TxExts_All</comment>
-        <translation type="unfinished">*.*</translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>*.ic1</source>
         <comment>TxExts_IC1</comment>
-        <translation type="unfinished">*.ic1</translation>
+        <translation>*.ic1</translation>
     </message>
     <message>
         <source>*.ic2</source>
         <comment>TxExts_IC2</comment>
-        <translation type="unfinished">*.ic2</translation>
+        <translation>*.ic2</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot; *.docx</source>
@@ -3116,82 +3116,63 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>All Files(*.*)</source>
         <comment>TxDesc_All</comment>
-        <translation type="unfinished">Alle Dateien(*.*)</translation>
-    </message>
-    <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
-If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
-        <comment>_TxDocument_Open_File_Isnot_Exist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alle Dateien(*.*)</translation>
     </message>
     <message>
         <source>Cannot paste table to a vertical text box.</source>
         <comment>_TxDocument_TableInVertTextBox</comment>
-        <translation type="unfinished">Tabelle kann nicht in vertikales Textfeld eingefügt werden.</translation>
+        <translation>Tabelle kann nicht in vertikales Textfeld eingefügt werden.</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation type="unfinished">Gemeinsame Dateien(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
-    </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
-        <comment>TxDesc_AllWPSEx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gemeinsame Dateien(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation type="unfinished">Möchten Sie die Änderungen an %s speichern?</translation>
+        <translation>Möchten Sie die Änderungen in %s speichern?</translation>
     </message>
     <message>
         <source>Document</source>
         <comment>_TxDocument_DefaultName</comment>
-        <translation type="unfinished">Dokument</translation>
+        <translation>Dokument</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Errors occur when WPS Writer is opening this file.
-Please try one of the following.
-•Make sure you are permitted to access this file or drive.
-•Make sure there is enough memory and disk space.</source>
-        <comment>_TxDocument_OpenFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
         <comment>_TxDocument_PlaceDrawingWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Es können keine Zeichnungsobjekte in ein Textfeld, eine Legende, einen Kommentar oder eine Fuß- bzw. Endnote eingefügt werden.</translation>
     </message>
     <message>
         <source>ICBC Official Documents(*.ic2)</source>
         <comment>TxDesc_IC2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offizielle Dokumente von ICBC(*.ic2)</translation>
     </message>
     <message>
         <source>ICBC Preparatory Documents(*.ic1)</source>
         <comment>TxDesc_IC1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorbereitungsdokumente von ICBC(*.ic1)</translation>
     </message>
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation type="unfinished">Normal.wpt</translation>
+        <translation>Normal.wpt</translation>
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
         <comment>_TxDocument_DrawingWillLost</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn sie in ein Textfeld, eine Sprechblase oder eine Fuß- bzw. Endnote eingefügt werden, werden die eingefügten Objekte verloren gehen.</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
         <comment>_TxDocument_BusyTip_Prompt_Open</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datei wird geöffnet. Bitte warten...</translation>
     </message>
     <message>
         <source>Opening this document will execute the SQL command below:
@@ -3199,44 +3180,40 @@ Please try one of the following.
 Data from your database will be placed in the document. Do you want to continue?
 </source>
         <comment>_TxMailMerge_OpenDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <comment>_TxDocument_CannotInsertKRMFile</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
-        <comment>_TxDocument_KRM_RightsWillLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Zugriff auf &quot;%s&quot; ist momentan eingeschränkt. Dateien mit Zugriffseinschränkungen können nicht in dieses Dokument eingefügt werden.</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>_TxDocument_BusyTip_Prompt_Save</comment>
-        <translation type="unfinished"></translation>
+        <translation>Speichert Textdatei, bitte warten...</translation>
     </message>
     <message>
         <source>Template</source>
         <comment>_TxDocument_DefaultTemplateName</comment>
-        <translation type="unfinished">Vorlage</translation>
+        <translation>Vorlage</translation>
     </message>
     <message>
         <source>The default template has been damaged. Do you want to try resetting it? Note that resetting may cause loss of part of user defined data.</source>
         <comment>_TxDocument_RenewNormalTemplate</comment>
-        <translation type="unfinished">dass die Wiederherstellung zu Verlusten benutzerdefinierter Einstellungen führen kann.</translation>
+        <translation>Die Standardvorlage ist beschädigt.Versuchen Sie zurückzusetzen? Das kann dazu führen, dass ein Teil der benutzerdefinierten Daten verloren geht!</translation>
     </message>
     <message>
         <source>The document will be save as &quot;%s&quot; format. Do you want to continue?
 (%s)</source>
         <comment>_TxDocument_SaveConvertToDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
 (%s)</source>
         <comment>_TxDocument_OpenReadonly</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die geöffnete Datei ist Schreibgeschützt oder von einer anderen Anwendung gesperrt.
+(%s)</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:
@@ -3245,17 +3222,21 @@ To save a file with these features, click No, and then choose a macro-enabled fi
 To continue saving as a macro-free workbook, click Yes.
 </source>
         <comment>_TxDocument_SaveMacroWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Features können in Arbeitsmappen ohne Makros nicht gespeichert werden:
+ · VB-Projekt
+Zum Speichern einer Datei mit diesen Features klicken Sie auf &apos;Nein&apos;. Wählen Sie dann einen Dateityp mit aktivierten Makros in der Liste &apos;Dateityp&apos; aus.
+Klicken Sie auf &apos;Ja&apos;, um die Datei als Arbeitsmappe ohne Makros zu speichern.
+</translation>
     </message>
     <message>
         <source>The specified file “%s” is not the supported file type, please click OK and then specify a type in the Save As dialogue box.</source>
         <comment>_TxDocument_FormatNotCompatible_OOXML</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die angeforderte Datei &quot;%s&quot; besitzt keinen unterstützten Dateityp. Klicken Sie auf &quot;OK&quot; und geben Sie im Dialogfeld &quot;Speichern unter&quot; einen Typ an.</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <comment>_TxDocument_SaveGlobalTempChange</comment>
-        <translation type="unfinished">Die vorgenommenen Änderungen werden sich auf die Standardvorlage %s auswirken. Möchten Sie sie speichern?</translation>
+        <translation type="unfinished">Die vorgenommenen Änderungen werden sich auf die Vorlage %s auswirken, die für die Organisation zur Verfügung steht. Möchten Sie die Änderungen speichern?</translation>
     </message>
     <message>
         <source>This file contains Enhanced Textbox property. Saving it as other formats, may cause loss of the specific property. 
@@ -3266,73 +3247,96 @@ Do you want to continue?</source>
     <message>
         <source>This file contains some special properties below. Saving it as other formats may cause the loss of:</source>
         <comment>_TxDocument_FormatNotCompatible_Word97</comment>
-        <translation type="unfinished">Datei enthält Sondereinstellungen. Beim Speichern in anderen Formaten kann folgendes verloren gehen:</translation>
+        <translation>Die Datei enthält folgende Spezialeigenschaften. Beim Speichern in anderen Formaten kann folgendes verloren gehen:</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
         <comment>_TxDocument_SaveReadOnlyAgain</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Try to save again? 
 (%s)</source>
         <comment>_TxDocument_SaveRetry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versuchen Sie erneut zu speichern?
+(%s)</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>_TxDocument_OpenProvALGVerFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nicht unterstützte verschlüsselte Datei. Wenden Sie sich bitte an den Ersteller der Datei.
+(%s)</translation>
     </message>
     <message>
-        <source>WPS Writer cannot give a document the same name as an open document.
-Type a different name for the document you want to save.
-(%s)</source>
-        <comment>_TxDocument_SaveFailureShared</comment>
-        <translation type="unfinished"></translation>
+        <source>WPS document in %s</source>
+        <comment>_TxDocument_OnSetHostNames</comment>
+        <translation>WPS-Dokument in %s</translation>
     </message>
     <message>
-        <source>WPS Writer cannot open this file, because the password is not correct.
-</source>
-        <comment>_TxDocument_OpenPasswordFailure2</comment>
-        <translation type="unfinished"></translation>
+        <source>WPSV6-TEXT</source>
+        <comment>_TxFilter_ConfigKey</comment>
+        <translation>WPSV6-TEXT</translation>
+    </message>
+    <message>
+        <source>builtin.wpt</source>
+        <comment>_TxDocument_BuiltInTemplate</comment>
+        <translation>builtin.wpt</translation>
+    </message>
+    <message>
+        <source>templates</source>
+        <comment>_TxDocument_TemplatesDirectory</comment>
+        <translation>Vorlagen</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Writer is opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.</source>
+        <comment>_TxDocument_OpenFailure</comment>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Writer cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>_TxDocument_OpenPasswordFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
+If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
+        <comment>_TxDocument_Open_File_Isnot_Exist</comment>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Writer cannot save or create this file.
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Writer cannot save this file due to a file permission error.
 (%s)</source>
         <comment>_TxDocument_SaveFailurePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Speicherungsvorgang der Datei kann von WPS-Writer aufgrund eines Dateiberechtigungsfehlers nicht abgeschlossen werden.
+(%s)</translation>
     </message>
     <message>
-        <source>
-• Multi-Diagonal cell</source>
-        <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS document in %s</source>
-        <comment>_TxDocument_OnSetHostNames</comment>
-        <translation type="unfinished">WPS-Dokument in %s</translation>
-    </message>
-    <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished">WPSV6-TEXT</translation>
+        <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
+
+•If you want to keep this format, click Yes.
+•If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
+        <comment>_TxDocument_FormatNotCompatible</comment>
+        <translation>%s enthält möglicherweise Features, die mit dem Format %s nicht kompatibel sind. Möchten Sie das Dokument in diesem Format speichern?
+• Klicken Sie auf &quot;Ja&quot;, um zu speichern.
+• Klicken Sie auf &quot;Nein&quot;, um die Formatierung zu erhalten. Speichern Sie dann ein Exemplar im aktuellen Word-Format.</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -3344,17 +3348,14 @@ Do you still want to open this file?
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</source>
         <comment>_TxDocument_AVFailed</comment>
+        <translatorcomment>Fehler bei der Überprüfung von der Datei auf Viren in Ihrem Virenscanner (Fehlercode:0x%08X). Wenden Sie sich bitte an den Hersteller des Virenscanners.
+</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>builtin.wpt</source>
-        <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation type="unfinished">builtin.wpt</translation>
-    </message>
-    <message>
-        <source>templates</source>
-        <comment>_TxDocument_TemplatesDirectory</comment>
-        <translation type="unfinished">Vorlagen</translation>
+        <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <comment>_TxDocument_KRM_RightsWillLost</comment>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
@@ -3362,40 +3363,55 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS-Writer kann die Datei nicht öffnen, weil der aktuelle Benutzer über keine ausreichenden Berechtigungen verfügt.Versuchen Sie Folgendes:
+(1).Wechseln Sie zu einem anderen Benutzerkonto.
+(2).Wenden Sie sich bitte an den Ersteller der Datei,Berechtigungskontrolle-Stufe des Dokuments zu ändern.
+</translation>
     </message>
     <message>
-        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
-        <comment>TxExts_AllWPS</comment>
-        <translation type="unfinished"></translation>
+        <source>
+• Multi-Diagonal cell</source>
+        <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
+        <translation></translation>
     </message>
     <message>
-        <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</source>
+        <source>WPS Writer cannot give a document the same name as an open document.
+Type a different name for the document you want to save.
+(%s)</source>
+        <comment>_TxDocument_SaveFailureShared</comment>
+        <translation>Ein Dokument kann in WPS-Writer nicht unter dem gleichen Namen wie ein bereits geöffnetes Dokument gespeichert werden.
+Geben Sie einen anderen Namen für das Dokument ein.
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open this file, because the password is not correct.
+</source>
+        <comment>_TxDocument_OpenPasswordFailure2</comment>
+        <translation>Falsches Kennwort. WPS-Writer kann die Datei nicht öffnen.
+</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
+        <comment>TxDesc_AllWPSEx</comment>
+        <translation>Gemeinsame Dateien(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
-        <translation type="unfinished"></translation>
+        <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
     </message>
 </context>
 <context>
     <name>wps_wpsshell</name>
     <message>
-        <source> </source>
-        <comment>wps_sValidEMail</comment>
-        <translation type="obsolete">können nicht ohne gültige E-Mail-Adresse zusammengeführt werden. </translation>
-    </message>
-    <message>
         <source>%s +%s%s%s%s%s%s%s%s</source>
         <comment>wps_sNormal</comment>
-        <translation type="unfinished">%s +%s%s%s%s%s%s%s%s</translation>
+        <translation>%s +%s%s%s%s%s%s%s%s</translation>
     </message>
     <message>
         <source>%s is not a valid special character for the Find What box.</source>
         <comment>wps_sErrorSpecialChar</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Enter bookmark name:</source>
-        <comment>wps_sEnterbookmarkNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s ist kein gültiges Sonderzeichen für die Option &quot;Suchen nach&quot;.</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
@@ -3415,11 +3431,6 @@ Please try one of the following.
     <message>
         <source>&amp;Find Next</source>
         <comment>wps_sFindNext</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Find/Replace...</source>
-        <comment>wps_sFindMenuCaption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3470,378 +3481,369 @@ Please try one of the following.
     <message>
         <source>(1-%s)</source>
         <comment>wps_sPerStr</comment>
-        <translation type="unfinished"></translation>
+        <translation>(1-%s)</translation>
     </message>
     <message>
         <source>(Default)</source>
         <comment>wps_sDefalut</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Standard)</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
         <comment>wps_sUseAsianfont</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Schriftart für asiatischen Text benutzen)</translation>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
         <comment>wps_sNoSpellingSuggestion</comment>
-        <translation type="unfinished">(keine Rechtschreibvorschläge)</translation>
+        <translation>(Keine Rechtschreibvorschläge)</translation>
     </message>
     <message>
         <source>(no style)</source>
         <comment>wps_sNoStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Keine Formatvorlage)</translation>
     </message>
     <message>
         <source>(none)</source>
         <comment>wps_sBracketNone</comment>
-        <translation type="unfinished">(keine)</translation>
+        <translation>(keine)</translation>
     </message>
     <message>
         <source>(none)</source>
         <comment>wps_sUnderlineNone</comment>
-        <translation type="unfinished">(keine)</translation>
+        <translation>(keine)</translation>
     </message>
     <message>
         <source>(none)
 .</source>
         <comment>wps_sEmphasismark</comment>
-        <translation type="unfinished"></translation>
+        <translation>(keine)
+.</translation>
     </message>
     <message>
         <source>(not matched)</source>
         <comment>wps_sNotMatched</comment>
-        <translation type="unfinished"></translation>
+        <translation>(nicht übereinstimmend)</translation>
     </message>
     <message>
         <source>(underlying properties)</source>
         <comment>wps_sUnderlying</comment>
-        <translation type="unfinished"></translation>
+        <translation>(zugrundeliegende Eigenschaften)</translation>
     </message>
     <message>
         <source>1</source>
         <comment>wps_sPreviewSeq</comment>
-        <translation type="unfinished">5% {1?}</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>10</source>
         <comment>wps_sPreviewSectionPages</comment>
-        <translation type="unfinished">5% {10?}</translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>10%</source>
         <comment>wps_sPercent10</comment>
-        <translation type="unfinished">5% {10%?}</translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>100</source>
         <comment>wps_sPreviewDocVariable</comment>
-        <translation type="unfinished">5% {100?}</translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>12.5%</source>
         <comment>wps_sPercent125</comment>
-        <translation type="unfinished">5% {12.5%?}</translation>
+        <translation>12.5%</translation>
     </message>
     <message>
         <source>15%</source>
         <comment>wps_sPercent15</comment>
-        <translation type="unfinished">5% {15%?}</translation>
+        <translation>15%</translation>
     </message>
     <message>
         <source>20</source>
         <comment>wps_sPreviewNumPages</comment>
-        <translation type="unfinished">5% {20?}</translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>20%</source>
         <comment>wps_sPercent20</comment>
-        <translation type="unfinished">20%</translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>2008-8-8</source>
         <comment>wps_sPreviewTime</comment>
-        <translation type="unfinished">5% {2008-8-8?}</translation>
+        <translation>2008-8-8</translation>
     </message>
     <message>
         <source>25%</source>
         <comment>wps_sPercent25</comment>
-        <translation type="unfinished">25%</translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
         <comment>wps_sPercent30</comment>
-        <translation type="unfinished">5% {30%?}</translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>35%</source>
         <comment>wps_sPercent35</comment>
-        <translation type="unfinished">5% {35%?}</translation>
+        <translation>35%</translation>
     </message>
     <message>
         <source>37.5%</source>
         <comment>wps_sPercent375</comment>
-        <translation type="unfinished">5% {37.5%?}</translation>
+        <translation>37.5%</translation>
     </message>
     <message>
         <source>40%</source>
         <comment>wps_sPercent40</comment>
-        <translation type="unfinished">5% {40%?}</translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>45%</source>
         <comment>wps_sPercent45</comment>
-        <translation type="unfinished">5% {45%?}</translation>
+        <translation>45%</translation>
     </message>
     <message>
         <source>5</source>
         <comment>wps_sPreviewPageRef</comment>
-        <translation type="unfinished">5% {5?}</translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>5%</source>
         <comment>wps_sPercent05</comment>
-        <translation type="unfinished">5%</translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>50%</source>
         <comment>wps_sPercent50</comment>
-        <translation type="unfinished">5% {50%?}</translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>55%</source>
         <comment>wps_sPercent55</comment>
-        <translation type="unfinished">5% {55%?}</translation>
+        <translation>55%</translation>
     </message>
     <message>
         <source>60%</source>
         <comment>wps_sPercent60</comment>
-        <translation type="unfinished">5% {60%?}</translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>62.5%</source>
         <comment>wps_sPercent625</comment>
-        <translation type="unfinished">5% {62.5%?}</translation>
+        <translation>62.5%</translation>
     </message>
     <message>
         <source>65%</source>
         <comment>wps_sPercent65</comment>
-        <translation type="unfinished">5% {65%?}</translation>
+        <translation>65%</translation>
     </message>
     <message>
         <source>70%</source>
         <comment>wps_sPercent70</comment>
-        <translation type="unfinished">5% {70%?}</translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
         <comment>wps_sPercent75</comment>
-        <translation type="unfinished">5% {75%?}</translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
         <comment>wps_sPercent80</comment>
-        <translation type="unfinished">5% {80%?}</translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>85%</source>
         <comment>wps_sPercent85</comment>
-        <translation type="unfinished">5% {85%?}</translation>
+        <translation>85%</translation>
     </message>
     <message>
         <source>87.5%</source>
         <comment>wps_sPercent875</comment>
-        <translation type="unfinished">5% {87.5%?}</translation>
+        <translation>87.5%</translation>
     </message>
     <message>
         <source>90%</source>
         <comment>wps_sPercent90</comment>
-        <translation type="unfinished">5% {90%?}</translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>95%</source>
         <comment>wps_sPercent95</comment>
-        <translation type="unfinished">5% {95%?}</translation>
-    </message>
-    <message>
-        <source>Phonetic Guide for Last Name</source>
-        <comment>wps_sPhoneticGuideforlastName</comment>
-        <translation type="unfinished"></translation>
+        <translation>95%</translation>
     </message>
     <message>
         <source>=(Formula)</source>
         <comment>wps_sFieldFormula</comment>
-        <translation type="unfinished">=(Formel)</translation>
+        <translation>=(Formel)</translation>
     </message>
     <message>
         <source>Above selected item</source>
         <comment>wps_sAboveSelItem</comment>
-        <translation type="unfinished">Oben ausgewähltes Element</translation>
-    </message>
-    <message>
-        <source>Above/below</source>
-        <comment>wps_sCrossRef_AboveBelow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Über dem ausgewählten Element</translation>
     </message>
     <message>
         <source>Address 1</source>
         <comment>wps_sAddress1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adresse 1</translation>
     </message>
     <message>
         <source>Address 2</source>
         <comment>wps_sAddress2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adresse 2</translation>
     </message>
     <message>
         <source>Address 3</source>
         <comment>wps_sAddress3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adresse 3</translation>
     </message>
     <message>
         <source>All</source>
         <comment>wps_sAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Are you sure to delete the default dictionary?</source>
         <comment>wps_sDeleteDefaultDict</comment>
-        <translation type="unfinished">Möchten Sie das Standard-Wörterbuch wirklich löschen?</translation>
+        <translation>Möchten Sie das Standardwörterbuch wirklich löschen?</translation>
     </message>
     <message>
         <source>Below selected item</source>
         <comment>wps_sBelowSelItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unter dem ausgewählten Element</translation>
     </message>
     <message>
         <source>Bookmark</source>
         <comment>TxCrossRefType_Bookmark</comment>
-        <translation type="unfinished">Lesezeichen</translation>
+        <translation>Textmarke</translation>
     </message>
     <message>
         <source>Bookmark does not exist or is hidden.</source>
         <comment>wps_sBookMarkNotExist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Textmarke ist nicht vorhanden oder ausgeblendet.</translation>
     </message>
     <message>
         <source>Bookmark text</source>
         <comment>wps_sCrossRef_BookmarkText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textmarkeninhalt</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
         <comment>wps_sBrowseByBookmark</comment>
-        <translation type="unfinished">Suchen nach Lesezeichen</translation>
+        <translation>Durchsuchen nach Textmarken</translation>
     </message>
     <message>
         <source>Browse by Comment</source>
         <comment>wps_sBrowseByComment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nach Anmerkung durchsuchen</translation>
     </message>
     <message>
         <source>Browse by Page</source>
         <comment>wps_sBrowseByPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nach Seite durchsuchen</translation>
     </message>
     <message>
         <source>Browse by Section</source>
         <comment>wps_sBrowseBySection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nach Abschnitt durchsuchen</translation>
     </message>
     <message>
         <source>Bullet:</source>
         <comment>wps_sBulleted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aufzählungszeichen:</translation>
     </message>
     <message>
         <source>Business Fax</source>
         <comment>wps_sBusinessFax</comment>
-        <translation type="unfinished">Fax geschäftlich</translation>
+        <translation>Fax (geschäftlich)</translation>
     </message>
     <message>
         <source>Business Phone</source>
         <comment>wps_sBusinessPhone</comment>
-        <translation type="unfinished"></translation>
+        <translation>Telefon (geschäftlich)</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>wps_sCancel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Cannot check spelling in the Original review.</source>
         <comment>wps_sCannotCheckSpellingOnOrgRevision</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechtschreibprüfung kann nicht ausgeführt werden beim Original.</translation>
     </message>
     <message>
         <source>Cannot find default dictionary. Please select a custom dictionary in the options, and recheck again.</source>
         <comment>wps_sNoActiveCustomDict</comment>
-        <translation type="unfinished"></translation>
+        <translation>Standardwörterbuch ist nicht gefunden. Wählen Sie bitte ein Benutzerwörterbuch in den Optionen aus und noch einmal überprüfen.</translation>
     </message>
     <message>
         <source>Cell</source>
         <comment>wps_sCell</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zelle</translation>
     </message>
     <message>
         <source>Centered</source>
         <comment>wps_sAlignCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>City</source>
         <comment>wps_sCity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ort</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>wps_sClear</comment>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>wps_sClose</comment>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>wps_sCloseDialog</comment>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Columns %s</source>
         <comment>wps_sColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spalte %s</translation>
     </message>
     <message>
         <source>Company</source>
         <comment>wps_sCompany</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unternehmen</translation>
     </message>
     <message>
         <source>Country or Region</source>
         <comment>wps_sCountryorRegion</comment>
-        <translation type="unfinished"></translation>
+        <translation>Land/Region</translation>
     </message>
     <message>
         <source>Courtesy Title</source>
         <comment>wps_sCourtesyTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anrede</translation>
     </message>
     <message>
         <source>Create a table of contents</source>
         <comment>wps_sFieldInfoToc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis erstellen</translation>
     </message>
     <message>
         <source>Created Time</source>
         <comment>wps_sCreateTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erstellte Zeit</translation>
     </message>
     <message>
         <source>Custom Color</source>
         <comment>wps_sCustomColorName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Farbe</translation>
     </message>
     <message>
         <source>D&amp;efault Date:</source>
@@ -3866,32 +3868,32 @@ Please try one of the following.
     <message>
         <source>Dark Down Diagonal</source>
         <comment>wps_sDkDownDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel abwärts</translation>
     </message>
     <message>
         <source>Dark Grid</source>
         <comment>wps_sDkGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dunkler Raster</translation>
     </message>
     <message>
         <source>Dark Horizontal</source>
         <comment>wps_sDkHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal dunkel</translation>
     </message>
     <message>
         <source>Dark Trellis</source>
         <comment>wps_sDkTrellis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel Karo</translation>
     </message>
     <message>
         <source>Dark Up Diagonal</source>
         <comment>wps_sDkUpDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel aufwärts</translation>
     </message>
     <message>
         <source>Dark Vertical</source>
         <comment>wps_sDkVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal dunkel</translation>
     </message>
     <message>
         <source>Date &amp;Format:</source>
@@ -3901,22 +3903,22 @@ Please try one of the following.
     <message>
         <source>Default Paragraph Font</source>
         <comment>wps_sDefaultFont</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatz-Standardschriftart</translation>
     </message>
     <message>
         <source>Department</source>
         <comment>wps_sDepartment</comment>
-        <translation type="unfinished">Abteilung</translation>
+        <translation>Abteilung</translation>
     </message>
     <message>
         <source>Description</source>
         <comment>wps_sDescription</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <source>Diagram</source>
         <comment>TxCrossRefType_Figure</comment>
-        <translation type="unfinished">Diagramm</translation>
+        <translation>Diagramm</translation>
     </message>
     <message>
         <source>Do you overwhite the shortcut of [%s]? </source>
@@ -3924,21 +3926,18 @@ Please try one of the following.
         <translation type="obsolete">Überschreiben Sie die Verknüpfung von [%s]? </translation>
     </message>
     <message>
-        <source>Do you overwrite the shortcut of [%s]?</source>
-        <comment>wps_sStyleOverwhite</comment>
-        <translation type="unfinished">Überschreiben Sie die Verknüpfung von [%s]? </translation>
-    </message>
-    <message>
         <source>Do you want to change the default settings for font?
 This change will affect all the new documents based on the %s template.</source>
         <comment>wps_sFontSettingSaveToDefaultTemplateConfirm</comment>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die Standardeinstellungen für Schriftart ändern?
+Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %s basieren.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
 This change will affect all new documents based on the %s template.</source>
         <comment>wps_sDefaltTemplateConfirm</comment>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die Standardeinstellungen für Seite ändern?
+Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %s basieren.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -3948,17 +3947,22 @@ Yes:	Save to template;
 No:	Do not save to template;
 Cancel:	Return to the dialog.</source>
         <comment>wps_sStyleSettingSaveToDefaultTemplateConfirm</comment>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die Standardeinstellungen für Formatvorlage ändern?
+Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %s basieren.
+
+Ja:	In Vorlage speichern;
+Nein:	Nicht in Vorlage speichern;
+Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
         <comment>wps_sIfRepleaceContents</comment>
-        <translation type="unfinished"></translation>
+        <translation>Soll das vorhandene Verzeichnis ersetzt werden?</translation>
     </message>
     <message>
         <source>DocVariable</source>
         <comment>wps_sFieldDocVariable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wert der Dokumentvariable</translation>
     </message>
     <message>
         <source>Document protec&amp;tion...</source>
@@ -3973,152 +3977,122 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>E-mail Address</source>
         <comment>wps_sEmailAddress</comment>
-        <translation type="unfinished"></translation>
+        <translation>E-Mailadresse</translation>
     </message>
     <message>
         <source>Edge of page</source>
         <comment>wps_sBorderDistanceFromPageEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seitenrand</translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>wps_sEditToolbarCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
         <comment>wps_sFieldInfoFormula</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encountered an error when opening PDF file.</source>
-        <comment>wps_sOpenPDFFileError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitet und berechnet die Formel, dann zeigt das Ergebnis im Vorschau an.</translation>
     </message>
     <message>
         <source>Endnote</source>
         <comment>TxCrossRefType_Endnote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Endnote</translation>
     </message>
     <message>
         <source>Endnote number</source>
         <comment>wps_sCrossRef_EndnoteNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Endnotennummer</translation>
     </message>
     <message>
         <source>Endnote number(formatted)</source>
         <comment>wps_sCrossRefEndnoteNumFmt</comment>
-        <translation type="unfinished">Endnotennummer (formatiert)</translation>
+        <translation>Endnotennummer (formatiert)</translation>
     </message>
     <message>
         <source>Entire caption</source>
         <comment>wps_sCrossRef_EntireCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gesamte Beschriftung</translation>
     </message>
     <message>
         <source>Equation</source>
         <comment>TxCrossRefType_Equation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Equation</translation>
     </message>
     <message>
         <source>Error occurs when adding words.</source>
         <comment>wps_sAppendNewWordError</comment>
-        <translation type="unfinished">Fehler beim Hinzufügen von Wörtern.</translation>
+        <translation>Fehler beim Hinzufügen von Wörtern.</translation>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
         <comment>wps_sDeleteWordError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Löschen von Wörtern.</translation>
     </message>
     <message>
         <source>Errors occurred while opening Font dialog box!</source>
         <comment>wps_sErrorToOpenFontDialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Öffnen des Dialogfelds &quot;Schriftart&quot;!</translation>
     </message>
     <message>
         <source>Exporting %d page...</source>
         <comment>wps_spdfExportPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Export von der Seite %d wird ausgeführt...</translation>
     </message>
     <message>
         <source>Exporting Labels...</source>
         <comment>wps_spdfLabels</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beschriftung wird exportiert...</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
         <comment>wps_spdfCompleted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Export ist abgeschlossen.</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
         <comment>wps_spdfComplete</comment>
-        <translation type="unfinished"></translation>
+        <translation>Export wird ausgeführt...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
         <comment>wps_spdfSummaryInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Export von Datei-Info wird ausgeführt...</translation>
     </message>
     <message>
         <source>Find</source>
         <comment>wps_sBrowseFind</comment>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Find</source>
         <comment>wps_sFind</comment>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Find whole words only</source>
         <comment>wps_sWholeWords</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vollständige Wörter</translation>
     </message>
     <message>
         <source>First Name</source>
         <comment>wps_sFirstName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorname</translation>
     </message>
     <message>
         <source>Footnote</source>
         <comment>TxCrossRefType_Footnote</comment>
-        <translation type="unfinished">Fußnote</translation>
+        <translation>Fußnote</translation>
     </message>
     <message>
         <source>Footnote number</source>
         <comment>wps_sCrossRef_FootnoteNum</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fußnotennummer</translation>
     </message>
     <message>
         <source>Footnote number(formatted)</source>
         <comment>wps_sCrossRef_FootnoteNumFmt</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which bookmark:</source>
-        <comment>wps_sCrossRef_WitchBook</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which caption:</source>
-        <comment>wps_sCrossRef_WitchCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which endnote:</source>
-        <comment>wps_sCrossRef_WitchEndnote</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which footnote:</source>
-        <comment>wps_sCrossRef_WitchFootnote</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which heading:</source>
-        <comment>wps_sCrossRef_WitchHeading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fußnotennummer (formatiert)</translation>
     </message>
     <message>
         <source>For &amp;which numbered item</source>
@@ -4126,19 +4100,14 @@ Cancel:	Return to the dialog.</source>
         <translation type="obsolete">Für welches nummeriertes Elemente</translation>
     </message>
     <message>
-        <source>For &amp;which numbered item:</source>
-        <comment>wps_sCrossRef_WitchNum</comment>
-        <translation type="unfinished">Für welches nummeriertes Elemente</translation>
-    </message>
-    <message>
         <source>Formula</source>
         <comment>wps_FormulaDlgCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formel</translation>
     </message>
     <message>
         <source>Frame</source>
         <comment>wps_sFrame</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Go &amp;to</source>
@@ -4148,234 +4117,222 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Go To</source>
         <comment>wps_sBrowseGoto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu</translation>
     </message>
     <message>
         <source>Heading</source>
         <comment>TxCrossRefType_Heading</comment>
-        <translation type="unfinished">Überschrift</translation>
+        <translation>Überschrift</translation>
     </message>
     <message>
         <source>Heading number</source>
         <comment>wps_sCrossRef_HeadNum</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überschriftnummer</translation>
     </message>
     <message>
         <source>Heading number(full context)</source>
         <comment>wps_sCrossRef_HeadNumFullContext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überschriftenzahl (voller Kontext)</translation>
     </message>
     <message>
         <source>Heading number(no context)</source>
         <comment>wps_sCrossRef_HeadNumNoContext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überschriftenzahl (kein Kontext)</translation>
     </message>
     <message>
         <source>Heading text</source>
         <comment>wps_sCrossRef_HeadText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading1...........................1
-  Heading2.........................33
-    Heading3.......................5</source>
-        <comment>wps_sPreviewToc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Überschriftentext</translation>
     </message>
     <message>
         <source>Home Fax</source>
         <comment>wps_sHomeFax</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fax (privat)</translation>
     </message>
     <message>
         <source>Home Phone</source>
         <comment>wps_sHomePhone</comment>
-        <translation type="unfinished"></translation>
+        <translation>Telefon (privat)</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>wps_sFieldHyperlink</comment>
-        <translation type="unfinished">Hyperlink</translation>
-    </message>
-    <message>
-        <source>Incorrect dictionary. You cannot modify.</source>
-        <comment>wps_sDictError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incorrect password.</source>
-        <comment>wps_sPasswordError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Input Permission Password.</source>
         <comment>wps_sInputMasterPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie das Berechtigungskennwort ein.</translation>
     </message>
     <message>
         <source>Input a correct number.</source>
         <comment>wps_sInsertNumberWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitte geben Sie eine gültige Zahl ein.</translation>
     </message>
     <message>
         <source>Insert an automatic sequence number</source>
         <comment>wps_sFieldInfoSeq</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt eine automatische Sequenznummer ein</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
         <comment>wps_sFieldInfoPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt die aktuelle Seitenzahl ein</translation>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
         <comment>wps_sFieldInfoPageRef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt die Seitenzahl der Seite ein, die die Textmarke beinhaltet</translation>
     </message>
     <message>
         <source>Insert the text from a like-styled paragraph</source>
         <comment>wps_sFieldStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt den Text von einem Absatz in ähnlichem Format ein</translation>
     </message>
     <message>
         <source>Insert the total number of pages in the section</source>
         <comment>wps_sFieldInfoSectionPages</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the value of the document variable named NAME</source>
-        <comment>wps_sFieldInfoDocVariable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt die Anzahl der Seiten im Abschnitt ein</translation>
     </message>
     <message>
         <source>Inside</source>
         <comment>wps_sInsideCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Innen</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
         <comment>wps_sIntegerNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ganze Zahl ist ungültig.</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
         <comment>wps_sInputError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Eingabe.</translation>
     </message>
     <message>
         <source>Job Title</source>
         <comment>wps_sJobTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Berufsbezeichnung</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer cannot merge documents that can be distributed by mail without a validmail address. </source>
+        <comment>wps_sValidEMail</comment>
+        <translation type="obsolete">können nicht ohne gültige E-Mail-Adresse zusammengeführt werden. </translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer has finished searching the document.</source>
+        <comment>wps_sFinishedSearch</comment>
+        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer is updating the table of contents. Select one of the following options:</source>
+        <comment>wps_sHint</comment>
+        <translation type="obsolete">Inhaltsverzeichnis wird aktualisiert. Sie haben folgende Möglichkeiten:</translation>
     </message>
     <message>
         <source>Last Name</source>
         <comment>wps_sLastName</comment>
-        <translation type="unfinished">Nachname</translation>
+        <translation>Nachname</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>wps_sAlignLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Level</source>
         <comment>wps_sLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ebene</translation>
     </message>
     <message>
         <source>Level 1,Level 2,Level 3,Level 4,Level 5,Level 6,Level 7,Level 8,Level 9,Body text</source>
         <comment>wps_sOutLineLevelComboOnOutlining</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ebene 1,Ebene 2,Ebene 3,Ebene 4,Ebene 5,Ebene 6,Ebene 7,Ebene 8,Ebene 9,Textkörper</translation>
     </message>
     <message>
         <source>Light Down Diagonal</source>
         <comment>wps_sLtDownDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hell abwärts</translation>
     </message>
     <message>
         <source>Light Grid</source>
         <comment>wps_sLtGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Heller Raster</translation>
     </message>
     <message>
         <source>Light Horizontal</source>
         <comment>wps_sLtHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal hell</translation>
     </message>
     <message>
         <source>Light Trellis</source>
         <comment>wps_sLtTrellis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hell Karo</translation>
     </message>
     <message>
         <source>Light Up Diagonal</source>
         <comment>wps_sLtUpDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hell aufwärts</translation>
     </message>
     <message>
         <source>Light Vertical</source>
         <comment>wps_sLtVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal hell</translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
         <comment>wps_sLineSpace1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenabstand: 1,5 Zeilen, </translation>
     </message>
     <message>
         <source>Line spacing: Double, </source>
         <comment>wps_sLineSpace2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenabstand: Doppelt, </translation>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
         <comment>wps_sFieldInfoTc</comment>
-        <translation type="unfinished">Eintrag im Inhaltsverzeichnis markieren</translation>
+        <translation>Verzeichniseintrag markieren</translation>
     </message>
     <message>
         <source>Match Case</source>
         <comment>wps_sMatchCase</comment>
-        <translation type="unfinished"></translation>
+        <translation>Groß-/Kleinschreibung beachten</translation>
     </message>
     <message>
         <source>Match half/full width forms</source>
         <comment>wps_sMatchByte</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Final Show Markup,Final,Original Show Markup,Original</source>
-        <comment>wps_sDisplayForReview</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formen mit halber/ganzer Breite beachten</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
         <comment>wps_sMergeToNewDocCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seriendruck in neues Dokument</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
         <comment>wps_sMergeToPrinterCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seriendruck an Drucker</translation>
     </message>
     <message>
         <source>Middle Name</source>
         <comment>wps_sMiddleName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Vornamen</translation>
     </message>
     <message>
         <source>Modified Time</source>
         <comment>wps_sModifyTime</comment>
-        <translation type="unfinished">Geänderte Uhrzeit</translation>
+        <translation>Geänderte Uhrzeit</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>wps_sName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>New Bullet...</source>
         <comment>wps_sNewBullet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anderes Zeichen...</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -4385,52 +4342,52 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Next Bookmark</source>
         <comment>wps_sNextBookmark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Textmarke</translation>
     </message>
     <message>
         <source>Next Comment</source>
         <comment>wps_sNextComment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nächster Kommentar</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
         <comment>wps_sNextFind</comment>
-        <translation type="unfinished">Nächster Treffer/WechselnZu</translation>
+        <translation>Suche/gehe zu nächstem</translation>
     </message>
     <message>
         <source>Next Page</source>
         <comment>wps_sNextPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Seite</translation>
     </message>
     <message>
         <source>Next Section</source>
         <comment>wps_sNextSection</comment>
-        <translation type="unfinished">Nächster Abschnitt</translation>
+        <translation>Nächster Abschnitt</translation>
     </message>
     <message>
         <source>Nickname</source>
         <comment>wps_sNickname</comment>
-        <translation type="unfinished">Spitzname</translation>
+        <translation>Spitzname</translation>
     </message>
     <message>
         <source>No List</source>
         <comment>wps_sNoList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Liste</translation>
     </message>
     <message>
         <source>No Scaling</source>
         <comment>wps_sNoScaling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Skalierung</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>wps_sNormalStyle</comment>
-        <translation type="unfinished">Normal</translation>
+        <translation>Textkörper</translation>
     </message>
     <message>
         <source>NumPages</source>
         <comment>wps_sFieldNumPages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der Seiten im Dokument</translation>
     </message>
     <message>
         <source>Number &amp;Format:</source>
@@ -4438,109 +4395,94 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number invalid.</source>
-        <comment>wps_sValidNumber</comment>
-        <translation type="unfinished">Ungültige Zahl.</translation>
-    </message>
-    <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType_NumberedItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nummeriertes Element</translation>
     </message>
     <message>
         <source>Only caption text</source>
         <comment>wps_sCrossRef_OnlyCaptionText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nur Beschriftungstext</translation>
     </message>
     <message>
         <source>Only label and number</source>
         <comment>wps_sCrossRef_OnlyLabelAndNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nur Kategorie und Nummer</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
         <comment>wps_sPreviewNumFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öffnen und aktivieren Sie die Datei KingSoft.wps im C-Laufwerk.  </translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
         <comment>wps_sFieldInfoHyperLink</comment>
-        <translation type="unfinished">Angegebene Datei öffnen und dorthin wechseln</translation>
+        <translation>Öffnet die angegebene Datei und wechselt zu ihr</translation>
     </message>
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
         <comment>wps_sPutOrientationError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehler beim Festlegen der Textrichtung, weil beispielsweise die Spaltenbreite zu klein ist. Passen Sie die Einstellung an.</translation>
     </message>
     <message>
         <source>Page</source>
         <comment>wps_sFieldPage</comment>
-        <translation type="unfinished">Seite</translation>
+        <translation>Seite</translation>
     </message>
     <message>
         <source>Page number</source>
         <comment>wps_sCrossRef_PageNum</comment>
-        <translation type="unfinished">Seitenzahl</translation>
+        <translation>Seitenzahl</translation>
     </message>
     <message>
         <source>PageRef</source>
         <comment>wps_sPageRef</comment>
-        <translation type="unfinished"></translation>
+        <translation>PAGEREF</translation>
     </message>
     <message>
         <source>Paragraph</source>
         <comment>wps_sParagraph</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatz</translation>
     </message>
     <message>
         <source>Paragraph number</source>
         <comment>wps_sCrossRef_ParagraphNum</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatznummer</translation>
     </message>
     <message>
         <source>Paragraph number(full context)</source>
         <comment>wps_sCrossRef_ParagraphNumFullContext</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paragraph number(no context)</source>
-        <comment>wps_sCrossRef_ParagrapNumNoContext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatznummer (vollständiger Kontext)</translation>
     </message>
     <message>
         <source>Paragraph text</source>
         <comment>wps_sCrossRef_ParagraphText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission Password and Document Open Password must be different.</source>
-        <comment>wps_sMasterAndUserPasswordIsSame</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absatztext</translation>
     </message>
     <message>
         <source>Phonetic Guide for First Name</source>
         <comment>wps_sPhoneticGuideforFirstName</comment>
-        <translation type="unfinished">Phonetischer Guide für Vorname</translation>
+        <translation>Phonetisches Leitzeichen für Vorname</translation>
     </message>
     <message>
         <source>Please choose the base text for the Phonetic Guide.</source>
         <comment>wps_sNotNormCharacter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitte wählen Sie den Grundtext für das phonetische Leitzeichen.</translation>
     </message>
     <message>
         <source>Postal Code</source>
         <comment>wps_sPostalCode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Postleitzahl</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <comment>wps_spdfPrepare</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorbereitung auf den Export von PDF-Datei wird ausgeführt...</translation>
     </message>
     <message>
         <source>Presume it is August 8 of 2008. Field code:Time \@ &quot;yyyy-M-d&quot;</source>
         <comment>wps_sTimeExample</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Presume set the KingSoft variable assignment as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
@@ -4550,82 +4492,77 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK &quot;C:\\KingSoft.wps&quot;</source>
         <comment>wps_sHyperLinkExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Es wird angenommen, dass die Datei KingSoft.wps in C-Laufwerk ist. Feldfunktion:HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
     </message>
     <message>
         <source>Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF myEndPage</source>
         <comment>wps_sPageRefExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass die Textmarke myEndPage auf der Seite 5 ist. Feldfunktion:PAGEREF myEndPage</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
         <comment>wps_sPageExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass die Position vom Einfügen des Feldes Seite 3 ist. Feldfunktion:PAGE \* CHINESENUM2</translation>
     </message>
     <message>
         <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
         <comment>wps_sSectionExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass es 10 Seiten gibt, wo das Feld eifgefügt wird. Feldfunktion:SECTIONPAGES</translation>
     </message>
     <message>
         <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
         <comment>wps_sNumPagesExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annehmen, dass es im aktuellen Dokument insgesamt 10 Seiten gibt. Feldfunktion:NumPages</translation>
     </message>
     <message>
         <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:TOC \o &quot;1-3&quot; \h  \u</source>
         <comment>wps_sTocExample</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annehmen, dass es Formatvorlagen vom Überschrift 1 bis 3 gibt, oder es Gliederungsebenen vom Absatz 1 bis 3 gibt. Feldfunktion:TOC \o &quot;1-3&quot; \h  \u</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
         <comment>wps_sPreviousBookmark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorherige Textmarke</translation>
     </message>
     <message>
         <source>Previous Comment</source>
         <comment>wps_sPreviousComment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorheriger Kommentar</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
         <comment>wps_sPreviousFind</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suche/gehe zu vorherigem</translation>
     </message>
     <message>
         <source>Previous Page</source>
         <comment>wps_sPreviousPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorherige Seite</translation>
     </message>
     <message>
         <source>Previous Section</source>
         <comment>wps_sPreviousSection</comment>
-        <translation type="unfinished">Voriger Abschnitt</translation>
+        <translation>Vorheriger Abschnitt</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
         <comment>wps_sRedoListCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <comment>wps_sRemoveDefaultDict</comment>
-        <translation type="unfinished"></translation>
+        <translation>Operation(en) %d wiederholen</translation>
     </message>
     <message>
         <source>Replace</source>
         <comment>wps_sReplace</comment>
-        <translation type="unfinished">Ersetzen</translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>wps_sAlignRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>Rows %s</source>
         <comment>wps_sRows</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeile %s</translation>
     </message>
     <message>
         <source>S&amp;plit</source>
@@ -4635,57 +4572,57 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Save Adobe PDF File As</source>
         <comment>wps_sSaveAsPDFFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adobe-PDF-Datei speichern unter</translation>
     </message>
     <message>
         <source>Search Down</source>
         <comment>wps_sSearchDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suchrichtung nach unten</translation>
     </message>
     <message>
         <source>Search Up</source>
         <comment>wps_sSearchUp</comment>
-        <translation type="unfinished">Suchen aufwärts</translation>
+        <translation>Suchen aufwärts</translation>
     </message>
     <message>
         <source>Section %d</source>
         <comment>wps_sSectionFmt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abschnitt %d</translation>
     </message>
     <message>
         <source>SectionPages</source>
         <comment>wps_sFieldSectionPages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seitenanzahl in dem Abschnitt</translation>
     </message>
     <message>
         <source>Select Folder:</source>
         <comment>wps_sSelectFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ordner auswählen:</translation>
     </message>
     <message>
         <source>Selected sections</source>
         <comment>wps_sSelSection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Markierte Abschnitte</translation>
     </message>
     <message>
         <source>Selected sections</source>
         <comment>wps_sSelectedSections</comment>
-        <translation type="unfinished"></translation>
+        <translation>Markierte Abschnitte</translation>
     </message>
     <message>
         <source>Selected text</source>
         <comment>wps_sSelectText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Markierter Text</translation>
     </message>
     <message>
         <source>Selected text</source>
         <comment>wps_sSelectedText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Markierter Text</translation>
     </message>
     <message>
         <source>Seq</source>
         <comment>wps_sFieldSeq</comment>
-        <translation type="unfinished">Seq</translation>
+        <translation>Automatische Sequenznummer</translation>
     </message>
     <message>
         <source>Settings you chose for the %s margins are too large for the page %s in some sections.</source>
@@ -4695,87 +4632,87 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Settings you chose for the left and right margins,column spacing, or paragraph indents are too large for the page width in some sections.</source>
         <comment>wps_sMaxWidArrow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Maße für linken/rechten Seitenrand, Spaltenabstände oder Absatzeinzüge sind für die Seitenbreite in manchen Abschnitten zu groß.</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
         <comment>wps_sMarginsOrColumenSpacingLarge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Maße für linken/rechten Seitenrand, Spaltenabstände oder Absatzeinzüge sind für die Seitenbreite in manchen Abschnitten zu groß.</translation>
     </message>
     <message>
         <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
         <comment>wps_sShowLevelOnOutlining</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ebene 1 einblenden,Ebene 2 einblenden,Ebene 3 einblenden,Ebene 4 einblenden,Ebene 5 einblenden,Ebene 6 einblenden,Ebene 7 einblenden,Ebene 8 einblenden,Ebene 9 einblenden,Alle Ebenen einblenden</translation>
     </message>
     <message>
         <source>Solid(100%)</source>
         <comment>wps_sSolid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einfarbig(100%)</translation>
     </message>
     <message>
         <source>Sounds Like(English)</source>
         <comment>wps_sSoundsLike</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ähnl. Schreibweise (Englisch)</translation>
     </message>
     <message>
         <source>Sounds Like(Japanese)</source>
         <comment>wps_sMatchFuzzy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ähnl. Schreibweise (Japanisch)</translation>
     </message>
     <message>
         <source>Space Before: %s pt, after %s pt, </source>
         <comment>wps_sSpaceBeforeAfter</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spouse Courtesy Title</source>
         <comment>wps_sSpouseCourtesyTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anrede Partner/in</translation>
     </message>
     <message>
         <source>Spouse First Name</source>
         <comment>wps_sSpouseFirstName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorname Partner/in</translation>
     </message>
     <message>
         <source>Spouse Last Name</source>
         <comment>wps_sSpouseLastName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nachname Partner/in</translation>
     </message>
     <message>
         <source>Spouse Middle Name</source>
         <comment>wps_sSpouseMiddleName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Vornamen Partner/in</translation>
     </message>
     <message>
         <source>Spouse Nickname</source>
         <comment>wps_sSpouseNickname</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spitzname Partner/in</translation>
     </message>
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sErrorStart</comment>
-        <translation type="unfinished">Der Start muss in diesem Format zwischen %d und %d liegen.</translation>
+        <translation>Der Wert im Feld &quot;Beginnen mit&quot; muss für dieses Format zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sStartAtError</comment>
-        <translation type="unfinished">Der Start muss in diesem Format zwischen %d und %d liegen.</translation>
+        <translation>Der Wert im Feld &quot;Beginnen mit&quot; muss für dieses Format zwischen %d  und %d liegen.</translation>
     </message>
     <message>
         <source>State</source>
         <comment>wps_sState</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bundesland/Kanton</translation>
     </message>
     <message>
         <source>Style</source>
         <comment>wps_sStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <source>StyleRef</source>
         <comment>wps_sStyleRef</comment>
-        <translation type="unfinished"></translation>
+        <translation>STYLEREF</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
@@ -4786,56 +4723,46 @@ Cancel:	Return to the dialog.</source>
         <source>Styles / Formatting</source>
         <comment>wps_StylesAndFormatting_DisplayName</comment>
         <translation type="obsolete">Formatvorlagen / Formatierung</translation>
-    </message>
-    <message>
-        <source>Styles and Formatting</source>
-        <comment>wps_StylesAndFormatting_Caption</comment>
-        <translation type="unfinished">Formatvorlagen / Formatierung</translation>
-    </message>
-    <message>
-        <source>Styles and Formatting</source>
-        <comment>wps_StylesAndFormatting_DisplayName</comment>
-        <translation type="unfinished">Formatvorlagen / Formatierung</translation>
     </message>
     <message>
         <source>Suffix</source>
         <comment>wps_sSuffix</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suffix</translation>
     </message>
     <message>
         <source>TC</source>
         <comment>wps_sFieldTc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eintrag für Inhaltsverzeichnis festlegen</translation>
     </message>
     <message>
         <source>THREE</source>
         <comment>wps_sPreviewPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>DREI</translation>
     </message>
     <message>
         <source>TOC</source>
         <comment>wps_sFieldToc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis erstellen</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>TxCrossRefType_Table</comment>
-        <translation type="unfinished">Tabelle</translation>
+        <translation>Tabelle</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>wps_sTable</comment>
-        <translation type="unfinished">Tabelle</translation>
+        <translation>Tabelle</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>wps_sBorderDistanceFromText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>wps_sText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Text &amp;Format:</source>
@@ -4843,104 +4770,89 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The %d Drop-down item is not allow to be empty.</source>
-        <comment>wps_sValidItem</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The %s margins are too large for the page %s in some sections.</source>
-        <comment>wps_sMarginsLarge</comment>
-        <translation type="unfinished">Gewählte Einstellungen der %s Seitenränder sind für Seite %s in einigen Bereichen zu groß.</translation>
-    </message>
-    <message>
-        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
-        <comment>wps_sFindBadPattern</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The bookmark name is not valid.</source>
         <comment>wps_sValidBookmark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Textmarkenname ist ungültig.</translation>
     </message>
     <message>
         <source>The current time</source>
         <comment>wps_sFieldInfoTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Uhrzeit</translation>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
         <comment>wps_sUSBVersionDirCannotModify</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Standarddokumentpfad von USB-Version darf nicht geändert werden!</translation>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
         <comment>wps_sTcExample</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das eingefügte Standardfeld von TC ist Ausgeblendeten Text. Um das Feld anzuziegen, klicken Sie bitte auf Einfügen/ Referenz/ Inhaltsverzeichnis und Optionen, dann wählen Sie bitte Verzeichniseintragsfeldern aus. Feldfunktion: TC</translation>
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
         <comment>wps_sSeqExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das erste angezeigte Ergebnis. Feldfunktion: SEQ KGS</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
         <comment>wps_sFileExist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die angegebene Datei ist bereits vorhanden. Möchten Sie die Datei überschreiben und fortsetzen?</translation>
     </message>
     <message>
         <source>The font &apos;%s&apos; is not available in your system. Do you want to use it anyway?</source>
         <comment>wps_sErrorFont</comment>
-        <translation type="unfinished">Schriftart &apos;%s&apos; ist in Ihrem System nicht verfügbar. Trotzdem verwenden?</translation>
+        <translation>Die Schriftart &apos;%s&apos; ist auf Ihrem System nicht verfügbar. Möchten Sie sie trotzdem benutzen?</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
         <comment>wps_sFH_NotInstall</comment>
-        <translation type="unfinished">Die Schriftart wird für die Anzeige nachgeahmt. Für den Druck wird eine möglichst ähnliche Schriftart gewählt.</translation>
+        <translation>Diese Schrift wird zur Anzeige imitiert. Der ähnlichste Schriftstil wird gedruckt.</translation>
     </message>
     <message>
         <source>The form tip cannot be longer than 40 characters.</source>
         <comment>wps_sTextInputTip_Erro</comment>
-        <translation type="unfinished">Der Form-Hinweis darf nicht länger als 40 Zeichen sein.</translation>
+        <translation type="unfinished">Der FormularInfo-Medlung darf nicht länger als 40 Zeichen sein.</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%d characters.</source>
         <comment>wps_sMaxLenError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Wert für maximale Länge muss größer oder gleich der Länge des Standardtexts sein: %d Zeichen.</translation>
     </message>
     <message>
         <source>The measurement must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange</comment>
-        <translation type="unfinished">Die Maßangabe muss zwischen %d und %d liegen.</translation>
+        <translation>Das Mass muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation type="unfinished">Die Zahl muss zwischen %d und %d liegen.</translation>
+        <translation type="obsolete">Die Zahl muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
         <comment>wps_sNumberMustDivisor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Zahl muss ein Divisor von %d sein.</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNotNumberRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Zahl muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Zahl muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The number must be between 1 and %d.</source>
         <comment>wps_sValueOutofRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Zahl muss zwischen 1 und %d liegen.</translation>
     </message>
     <message>
         <source>The number must be between 1 and 10.</source>
         <comment>wps_sNumberRange</comment>
-        <translation type="unfinished">Die Zahl muss zwischen 10 und 500 liegen. {1 ?} {10.?}</translation>
+        <translation>Die Zahl muss zwischen 1 und 10 liegen.</translation>
     </message>
     <message>
         <source>The number must not be nil</source>
@@ -4950,82 +4862,67 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>The number of pages in the document</source>
         <comment>wps_sFieldInfoNumPages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der Seiten im Dokument</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
         <comment>wps_sNotMatchPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das neue Kennwort und seine Bestätigung sind nicht identisch.</translation>
     </message>
     <message>
         <source>The referred contents are blank.</source>
         <comment>wps_sCrossRef_Empty</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The selected paper is too small, Genko is invalid.</source>
-        <comment>wps_sPaperIsTooSmall</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der angeforderte Verweis hat keinen Inhalt.</translation>
     </message>
     <message>
         <source>The spelling check is complete.</source>
         <comment>wps_sSpellingCheckComplete</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibprüfung beendet.</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>wps_sChangeTextboxToResizeOrRotateWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Textfeld enthält Objekte oder Tabellen, die gelöschet werden, wenn Sie Ihre Eigenschaften einstellen. Denn das die Größe veränderbare oder drehbare Textfeld darf keine Objekte oder Tabellen enthalten. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>The value must be between %d and %d.</source>
         <comment>wps_sNumberRangeErro</comment>
-        <translation type="unfinished">Der Wert muss zwischen %d und %d liegen.</translation>
-    </message>
-    <message>
-        <source>The value must not be blank.</source>
-        <comment>wps_sValEmpty</comment>
-        <translation type="unfinished">Die Zahl darf nicht 0 sein.</translation>
+        <translation>Der Wert muss zwischen %d und %d liegen.</translation>
     </message>
     <message>
         <source>The word contains unallowable characters. Cannot process it.</source>
         <comment>wps_sInvalidWord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Wort enthält unzulässige Zeichen und kann nicht verarbeitet werden!</translation>
     </message>
     <message>
         <source>There are too many characters in the selection.</source>
         <comment>wps_sTooManyCharsInSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zu viele Zeichen in der Markierung.</translation>
     </message>
     <message>
         <source>This caption label is not valid.</source>
         <comment>wps_sNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Beschriftungskategorie ist ungültig.</translation>
     </message>
     <message>
         <source>This font style name does not exist.</source>
         <comment>wps_sInValidFontStyle</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <comment>wps_sFH_TrueType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Schriftart ist nicht vorhanden.</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
         <comment>wps_sNotMeasureMent</comment>
-        <translation type="unfinished">Ungültige Maßangabe.</translation>
+        <translation>Dies ist kein gültiges Maß.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
         <comment>wps_sInvalidInt</comment>
-        <translation type="unfinished">Ungültige Zahl.</translation>
+        <translation>Es ist keine gültige Zahl.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
         <comment>wps_sNotValidFontSize</comment>
-        <translation type="unfinished">Ungültige Zahl.</translation>
+        <translation>Ungültige Zahl.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -5035,52 +4932,52 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>This operation will not be only applied to this section. Do you want to continue?</source>
         <comment>wps_sLinkToPreviousSection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Operation kann nicht nur in diesem Abschnitt übernehmen, fortsetzen?</translation>
     </message>
     <message>
         <source>This point forward</source>
         <comment>wps_sThisPointFor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokument ab hier</translation>
     </message>
     <message>
         <source>This point forward</source>
         <comment>wps_sThisPointForward</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokument ab hier</translation>
     </message>
     <message>
         <source>This section</source>
         <comment>wps_sApplyThisSection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diesen Abschnitt</translation>
     </message>
     <message>
         <source>This section</source>
         <comment>wps_sThisSection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diesen Abschnitt</translation>
     </message>
     <message>
         <source>This section - All except first page</source>
         <comment>wps_sThisSectionExceptFirst</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diesen Abschnitt - Alle außer 1. Seite</translation>
     </message>
     <message>
         <source>This section - First page only</source>
         <comment>wps_sThisSectionOnlyFirst</comment>
-        <translation type="unfinished">Dieser Abschnitt - Nur erste Seite</translation>
+        <translation>Dieser Abschnitt - Nur erste Seite</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Tastenkombination ist schon vorhanden.Legen Sie bitte eine andere Tastenkombination. </translation>
     </message>
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
         <comment>wps_sInvalidStyleName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Formatvorlagenname besteht bereits oder ist reserviert für im Programm enthaltene Formatvorlagen.</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>wps_sFieldTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Uhrzeit</translation>
     </message>
     <message>
         <source>Time &amp;Format:</source>
@@ -5090,32 +4987,217 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Type</source>
         <comment>wps_sTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Underline words</source>
         <comment>wps_sWordsOnly</comment>
-        <translation type="unfinished"></translation>
+        <translation>Würter unterstreichen</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
         <comment>wps_sUndoListCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rückgängig: Operation %d</translation>
     </message>
     <message>
         <source>Unique Identifier</source>
         <comment>wps_sUniqueIdentifier</comment>
-        <translation type="unfinished">Eindeutige Kennung</translation>
+        <translation>Eindeutiger Bezeichner</translation>
     </message>
     <message>
         <source>Unit: %s</source>
         <comment>wps_StatusBar_Units</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einheit: %s</translation>
     </message>
     <message>
         <source>Unlimited</source>
         <comment>wps_sUnlimited</comment>
+        <translation>Unbegrenzt</translation>
+    </message>
+    <message>
+        <source>Use Wildcards</source>
+        <comment>wps_sUseWildCards</comment>
+        <translation>Platzhalter benutzen</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <comment>wps_sFeedbackMailTitle</comment>
+        <translation>Benutzerfeedback</translation>
+    </message>
+    <message>
+        <source>User templates             %s</source>
+        <comment>wps_sUserTemplatesPath</comment>
+        <translation>Benutzervorlagen            %s</translation>
+    </message>
+    <message>
+        <source>Web Page</source>
+        <comment>wps_sWebPage</comment>
+        <translation>Webseite</translation>
+    </message>
+    <message>
+        <source>When you convert this drawing object to a frame, some of the drawing object&apos;s formatting may be lost. Do you want to continue?</source>
+        <comment>wps_sConvertToFrame</comment>
+        <translation>Wenn Sie dieses Zeichnungsobjekt in einen Positionsrahmen konvertieren, gehen möglicherweise einige der Zeichnungsobjekt-Formatierungen verloren. Möchten Sie den Vorgang fortsetzen?</translation>
+    </message>
+    <message>
+        <source>Whole Document</source>
+        <comment>wps_sWholeDocument</comment>
+        <translation>Gesamtes Dokument</translation>
+    </message>
+    <message>
+        <source>Whole document</source>
+        <comment>wps_sApplyWholeDocument</comment>
+        <translation>Gesamtes Dokument</translation>
+    </message>
+    <message>
+        <source>Whole document</source>
+        <comment>wps_sWhileDocument</comment>
+        <translation>Gesamtes Dokument</translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <comment>wps_sSelectionProtected</comment>
+        <translation>Sie sind nicht berechtigt, diese Auswahl zu bearbeiten, weil sie geschützt ist.</translation>
+    </message>
+    <message>
+        <source>You can have no more than 25 items in your drop-down list box.</source>
+        <comment>wps_sMaxItems</comment>
+        <translation>Im Dropdown-Listenfeld können maximal 25 Einträge stehen.</translation>
+    </message>
+    <message>
+        <source>You must type a character for the custom separator.</source>
+        <comment>wps_sInvalidSeparateChar</comment>
+        <translation>Für das benutzerdefinierte Trennzeichen muss ein Zeichen eingegeben werden.</translation>
+    </message>
+    <message>
+        <source>height</source>
+        <comment>wps_sHeight</comment>
+        <translation>Höhe</translation>
+    </message>
+    <message>
+        <source>left/right</source>
+        <comment>wps_sLeftRightMargins</comment>
+        <translation>Links/Rechts</translation>
+    </message>
+    <message>
+        <source>top/bottom</source>
+        <comment>wps_sTopBottomMargins</comment>
+        <translation>Oben/Unten</translation>
+    </message>
+    <message>
+        <source>width</source>
+        <comment>wps_sWidth</comment>
+        <translation>Breite</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot replace the found item with text containing a break.</source>
+        <comment>wps_sCantReplaceBreak</comment>
+        <translation>Das gefundene Element kann von WPS-Writer nicht durch Text ersetzt werden, der einen manuellen Wechsel enthält.</translation>
+    </message>
+    <message>
+        <source>Incorrect dictionary. You cannot modify.</source>
+        <comment>wps_sDictError</comment>
+        <translation>Fehler im Wörterbuch. Sie können das nicht ändern!</translation>
+    </message>
+    <message>
+        <source>Final Show Markup,Final,Original Show Markup,Original</source>
+        <comment>wps_sDisplayForReview</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Enter bookmark name:</source>
+        <comment>wps_sEnterbookmarkNumber</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
+        <comment>wps_sExportPDFError</comment>
+        <translation>Fehler beim Export von PDF-Dateien!</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <comment>wps_sFH_TrueType</comment>
+        <translation>Die TrueType-Schriftart wird für den Ausdruck und die Anzeige verwendet.</translation>
+    </message>
+    <message>
+        <source>Insert the value of the document variable named NAME</source>
+        <comment>wps_sFieldInfoDocVariable</comment>
+        <translation>Fügt den Wert der Dokumentvariable NAME ein</translation>
+    </message>
+    <message>
+        <source>&amp;Find/Replace...</source>
+        <comment>wps_sFindMenuCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document. The search item was not found.</source>
+        <comment>wps_sFinishedNoItem</comment>
+        <translation>Durchsuchen des Dokuments ist abgeschlossen. Das gesuchte Element konnte nicht gefunden werden.</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>wps_sFinishedSearch</comment>
+        <translation>Durchsuchen des gesamten Dokuments ist abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>WPS Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
+        <comment>wps_sHasCheckedSelection</comment>
+        <translation>Die Überprüfung des markierten Teils durch WPS-Writer ist abgeschlossen. Soll die Überprüfung für den Rest fortgesetzt werden?</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <comment>wps_sHint</comment>
+        <translation>WPS-Writer aktualisiert das Inhaltsverzeichnis. Wählen Sie eine der folgenden Optionen:</translation>
+    </message>
+    <message>
+        <source>The %s margins are too large for the page %s in some sections.</source>
+        <comment>wps_sMarginsLarge</comment>
+        <translation>Der %s Seitenrand ist in manchen Abschnitten zu groß für die Seitenhöhe.</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <comment>wps_sMasterAndUserPasswordIsSame</comment>
+        <translation>Kennwort für die Berechtigung und Kennwort zum Öffnen des Dokuments darf nicht identisch sein.</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not determine the destination.</source>
+        <comment>wps_sNotDetermine</comment>
+        <translation>Das Ziel konnte von WPS-Writer nicht bestimmt werden.</translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening PDF file.</source>
+        <comment>wps_sOpenPDFFileError</comment>
+        <translation>Fehler beim Öffnen der PDF-Datei!</translation>
+    </message>
+    <message>
+        <source>The selected paper is too small, Genko is invalid.</source>
+        <comment>wps_sPaperIsTooSmall</comment>
+        <translation>Die ausgewählte Papiergröße ist zu klein.Genko ist ungültig!</translation>
+    </message>
+    <message>
+        <source>Incorrect password.</source>
+        <comment>wps_sPasswordError</comment>
+        <translation>Falsches Kennwort!</translation>
+    </message>
+    <message>
+        <source>Phonetic Guide for Last Name</source>
+        <comment>wps_sPhoneticGuideforlastName</comment>
+        <translation>Phonetisches Leitzeichen für Name</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document and made %d replacements.</source>
+        <comment>wps_sReplaceAllWithCount</comment>
+        <translation>Der Suchvorgang von dem Dokument ist abgeschlossen. Es wurden %d Ersetzungen vorgenommen.</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_Caption</comment>
+        <translation>Formatvorlagen und Formatierung</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_DisplayName</comment>
+        <translation>Formatvorlagen und Formatierung</translation>
     </message>
     <message>
         <source>Unpro&amp;tect Document</source>
@@ -5123,19 +5205,101 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use Wildcards</source>
-        <comment>wps_sUseWildCards</comment>
+        <source>The value must not be blank.</source>
+        <comment>wps_sValEmpty</comment>
+        <translation>Die Daten dürfen nicht leer sein.</translation>
+    </message>
+    <message>
+        <source>Number invalid.</source>
+        <comment>wps_sValidNumber</comment>
+        <translation>Ungültige Zahl.</translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation>Fehler beim Setzen der Makro-Sicherheitseinstellung wurde gefunden, weil das VBA-Objektmodell nicht installiert werden kann. </translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>wps_sRemoveDefaultDict</comment>
+        <translation>Das Entfernen des Benutzerwörterbuchs kann die Verwendung des Benutzerwörterbuchs in anderen WPS-Anwendungen beeinträchtigen. Möchten Sie den Vorgang fortsetzen?</translation>
+    </message>
+    <message>
+        <source>Do you overwrite the shortcut of [%s]?</source>
+        <comment>wps_sStyleOverwhite</comment>
+        <translation>Überschreiben Sie die Verknüpfung von [%s]? </translation>
+    </message>
+    <message>
+        <source>What you print has errors with Format.</source>
+        <comment>wps_sFormatError</comment>
+        <translation>Die Eingabe ist falsch formatiert.</translation>
+    </message>
+    <message>
+        <source>The %d Drop-down item is not allow to be empty.</source>
+        <comment>wps_sValidItem</comment>
+        <translation>Das leere Dropdownelement von %d ist nicht zulässig.</translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................33
+    Heading3.......................5</source>
+        <comment>wps_sPreviewToc</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
+        <comment>wps_sFindBadPattern</comment>
+        <translation>Der Text im Feld &quot;Suchen Nach&quot; enthält einen ungültigen Mustervergleich.</translation>
+    </message>
+    <message>
+        <source>Has finished searching “%s”. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
+        <translation type="obsolete">Durchsuchen von %s ist abgeschlossen. Das gesuchte Element konnte nicht gefunden werden.</translation>
+    </message>
+    <message>
+        <source>Paragraph number(no context)</source>
+        <comment>wps_sCrossRef_ParagrapNumNoContext</comment>
+        <translation>Absatznummer (kein Kontext)</translation>
+    </message>
+    <message>
+        <source>Above/below</source>
+        <comment>wps_sCrossRef_AboveBelow</comment>
+        <translation>Oben/unten</translation>
+    </message>
+    <message>
+        <source>For &amp;which numbered item:</source>
+        <comment>wps_sCrossRef_WitchNum</comment>
+        <translation type="unfinished">Für welches nummeriertes Elemente:</translation>
+    </message>
+    <message>
+        <source>For &amp;which heading:</source>
+        <comment>wps_sCrossRef_WitchHeading</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User Feedback</source>
-        <comment>wps_sFeedbackMailTitle</comment>
+        <source>For &amp;which bookmark:</source>
+        <comment>wps_sCrossRef_WitchBook</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User templates             %s</source>
-        <comment>wps_sUserTemplatesPath</comment>
+        <source>For &amp;which footnote:</source>
+        <comment>wps_sCrossRef_WitchFootnote</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which endnote:</source>
+        <comment>wps_sCrossRef_WitchEndnote</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which caption:</source>
+        <comment>wps_sCrossRef_WitchCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> </source>
+        <comment>wps_sValidEMail</comment>
+        <translation type="obsolete">können nicht ohne gültige E-Mail-Adresse zusammengeführt werden. </translation>
     </message>
     <message>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a validmail address. </source>
@@ -5143,119 +5307,14 @@ Cancel:	Return to the dialog.</source>
         <translation type="obsolete">können nicht ohne gültige E-Mail-Adresse zusammengeführt werden. </translation>
     </message>
     <message>
-        <source>WPS Writer cannot replace the found item with text containing a break.</source>
-        <comment>wps_sCantReplaceBreak</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer could not determine the destination.</source>
-        <comment>wps_sNotDetermine</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
-        <comment>wps_sExportPDFError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
-        <comment>wps_sHasCheckedSelection</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
-        <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document and made %d replacements.</source>
-        <comment>wps_sReplaceAllWithCount</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <comment>wps_sFinishedSearch</comment>
-        <translation type="unfinished">Durchsuchen des Dokuments abgeschlossen.</translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document. The search item was not found.</source>
-        <comment>wps_sFinishedNoItem</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <comment>wps_sHint</comment>
-        <translation type="unfinished">Inhaltsverzeichnis wird aktualisiert. Sie haben folgende Möglichkeiten:</translation>
-    </message>
-    <message>
-        <source>Web Page</source>
-        <comment>wps_sWebPage</comment>
-        <translation type="unfinished">Webseite</translation>
-    </message>
-    <message>
-        <source>What you print has errors with Format.</source>
-        <comment>wps_sFormatError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>When you convert this drawing object to a frame, some of the drawing object&apos;s formatting may be lost. Do you want to continue?</source>
-        <comment>wps_sConvertToFrame</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Whole Document</source>
-        <comment>wps_sWholeDocument</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Whole document</source>
-        <comment>wps_sApplyWholeDocument</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Whole document</source>
-        <comment>wps_sWhileDocument</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not allowed to edit this selection because it is protected.</source>
-        <comment>wps_sSelectionProtected</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can have no more than 25 items in your drop-down list box.</source>
-        <comment>wps_sMaxItems</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must type a character for the custom separator.</source>
-        <comment>wps_sInvalidSeparateChar</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>height</source>
-        <comment>wps_sHeight</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>left/right</source>
-        <comment>wps_sLeftRightMargins</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>top/bottom</source>
-        <comment>wps_sTopBottomMargins</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>width</source>
-        <comment>wps_sWidth</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Has finished searching “%s”. The search item was not found.</source>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Durchsuchen von %s ist abgeschlossen. Das gesuchte Element konnte nicht gefunden werden.</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished">Die Zahl muss zwischen %d und %d liegen.</translation>
     </message>
 </context>
 <context>
@@ -5264,192 +5323,192 @@ Cancel:	Return to the dialog.</source>
         <source>
 To follow this link, please hold down Ctrl and click.</source>
         <comment>TxMessage_Hyperlink_ToClick</comment>
-        <translation type="unfinished"></translation>
+        <translation>STRG+Klicken um Link zu folgen</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
         <comment>_TxZoomBox_PageWidth_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Seitenbreite&quot;,-1</translation>
     </message>
     <message>
         <source>&quot;Text Width&quot;,-2</source>
         <comment>_TxZoomBox_TextWidth_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Textbreite&quot;,-2</translation>
     </message>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
         <comment>_TxZoomBox_TwoPages_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Zwei Seiten&quot;,-4</translation>
     </message>
     <message>
         <source>&quot;Whole Page&quot;,-3</source>
         <comment>_TxZoomBox_WholePage_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Ganze Seite&quot;,-3</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>TxMessage_FontNameNotExisitSecondHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot; ist in Ihrem System nicht verfügbar.Trotzdem verwenden?</translation>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
         <comment>TxCaption_NoSpellingSuggestions</comment>
-        <translation type="unfinished">(keine Rechtschreibvorschläge)</translation>
+        <translation>(keine Rechtschreibvorschläge)</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation type="unfinished">.</translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation type="unfinished">.</translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>TxVersion_3DColor</comment>
-        <translation type="unfinished">3-D-Farbe</translation>
+        <translation>3-D-Farbe</translation>
     </message>
     <message>
         <source>A valid date or time is required.</source>
         <comment>TxFormField_InValidDate</comment>
-        <translation type="unfinished">Gültige Datum- oder Zeitangabe notwendig</translation>
+        <translation>Bitte geben Sie ein gültiges Datum oder eine gültige Uhrzeit ein.</translation>
     </message>
     <message>
         <source>Accept All Changes Shown</source>
         <comment>TxVersion_AcceptChangesShown</comment>
-        <translation type="unfinished">Alle angezeigten Änderungen akzeptieren</translation>
+        <translation>Alle angezeigten Änderungen akzeptieren</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
         <comment>TxVersion_AcceptAllChanges</comment>
-        <translation type="unfinished">Alle Änderungen im Dokument akzeptieren</translation>
+        <translation>Alle Änderungen im Dokument annehmen</translation>
     </message>
     <message>
         <source>Accept Change</source>
         <comment>TxVersion_AcceptChange</comment>
-        <translation type="unfinished">Änderung akzeptieren</translation>
+        <translation>Änderung annehmen</translation>
     </message>
     <message>
         <source>Accept Deletion</source>
         <comment>TxCaption_AcceptDeletion</comment>
-        <translation type="unfinished">Löschung akzeptieren</translation>
+        <translation>Löschen annehmen</translation>
     </message>
     <message>
         <source>Accept Formatted Changes</source>
         <comment>TxCaption_AcceptFormat</comment>
-        <translation type="unfinished">Formatierungsänderungen akzeptieren</translation>
+        <translation>Formatänderung annehmen</translation>
     </message>
     <message>
         <source>Accept Insertion</source>
         <comment>TxCaption_AcceptInsertion</comment>
-        <translation type="unfinished">Einfügung akzeptieren</translation>
+        <translation>Einfügen annehmen</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb) | *.mdb; |</source>
         <comment>TxDesc_DataSource_mdb</comment>
-        <translation type="unfinished">Access Datenbanken(*.mdb) | *.mdb; |</translation>
+        <translation>Access-Datenbanken (*.mdb)|*.mdb|</translation>
     </message>
     <message>
         <source>Access Projects(*ade; *adp) | *ade; *adp; |</source>
         <comment>TxDesc_DataSource_ade</comment>
-        <translation type="unfinished">Access Projekte(*ade; *adp) | *ade; *adp; |</translation>
+        <translation>Access-Projekte(*ade; *adp) | *ade; *adp; |</translation>
     </message>
     <message>
         <source>Add Header/Footer</source>
         <comment>TxVersion_HeaderFooter</comment>
-        <translation type="unfinished">Kopf-/Fußzeile hinzufügen</translation>
+        <translation>Kopf-/Fußzeile hinzufügen</translation>
     </message>
     <message>
         <source>Add Horizontal Border</source>
         <comment>TxVersion_AddHorzBorder</comment>
-        <translation type="unfinished">Horizontalen Rand hinzufügen</translation>
+        <translation>Horizontale Rahmenlinie hinzufügen</translation>
     </message>
     <message>
         <source>Add Protect Exception</source>
         <comment>TxVersion_AddProtectException</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schutzausnahmen hinzufügen</translation>
     </message>
     <message>
         <source>Add Vertical Border</source>
         <comment>TxVersion_AddVertBorder</comment>
-        <translation type="unfinished">Vertikalen Rand hizufügen</translation>
+        <translation>Vertikale Rahmenlinie hizufügen</translation>
     </message>
     <message>
         <source>Add rows and columns</source>
         <comment>TxVersion_TableRowOrColResize</comment>
-        <translation type="unfinished">Zeilen und Spalten hinzufügen</translation>
+        <translation>Zeilen und Spalten hinzufügen</translation>
     </message>
     <message>
         <source>Adjust Table Column Width</source>
         <comment>TxVersion_AdjustColumnsWidth</comment>
-        <translation type="unfinished">Spaltenbreite in Tabellen anpassen</translation>
+        <translation>Tabellenspaltenbreite anpassen</translation>
     </message>
     <message>
         <source>Adjust Table Row Height</source>
         <comment>TxVersion_AdjustRowHeight</comment>
-        <translation type="unfinished">Zeilenhöhe in Tabellen anpassen</translation>
+        <translation>Zeilenhöhe in Tabellen anpassen</translation>
     </message>
     <message>
         <source>After Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginAfter</comment>
-        <translation type="unfinished">Hinter dem Abstand: %.2f Zeilen</translation>
+        <translation>Abstand nach Absatz: %.2f Zeilen</translation>
     </message>
     <message>
         <source>Align Center</source>
         <comment>TxVersion_AlignCenter</comment>
-        <translation type="unfinished">Zentriert ausrichten</translation>
+        <translation>Zentriert</translation>
     </message>
     <message>
         <source>Align Distribute</source>
         <comment>TxVersion_AlignDistribute</comment>
-        <translation type="unfinished">Verteilt ausrichten</translation>
+        <translation>Verteilt</translation>
     </message>
     <message>
         <source>Align Justify</source>
         <comment>TxVersion_AlignJustify</comment>
-        <translation type="unfinished">Im Blocksatz ausrichten</translation>
+        <translation>Blocksatz</translation>
     </message>
     <message>
         <source>Align Left</source>
         <comment>TxVersion_AlignLeft</comment>
-        <translation type="unfinished">Linksbündig ausrichten</translation>
+        <translation>Text linksbündig ausrichten</translation>
     </message>
     <message>
         <source>Align Right</source>
         <comment>TxVersion_AlignRight</comment>
-        <translation type="unfinished">Rechtsbündig ausrichten</translation>
+        <translation>Text rechtsbündig ausrichten</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alle Datenquellen (*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
         <comment>TxDesc_DataSource_All</comment>
-        <translation type="unfinished">Alle Dateien(*.*) | *.*; |</translation>
+        <translation>Alle Dateien(*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
         <comment>TxDesc_DataSource_htm</comment>
-        <translation type="unfinished">Alle Webseiten(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</translation>
+        <translation>Alle Webseiten(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
         <comment>TxDesc_DataSource_alldoc</comment>
-        <translation type="unfinished">Alle Word Dokumente(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</translation>
+        <translation>Alle Word-Dokumente(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>Apply Style</source>
         <comment>TxVersion_TPApplyStyle</comment>
-        <translation type="unfinished">Formatvorlage verwenden</translation>
+        <translation>Formatvorlage übernehmen</translation>
     </message>
     <message>
         <source>Are you sure to delete style %s?</source>
         <comment>TxMessage_DeleteStyle</comment>
-        <translation type="unfinished">Möchten Sie Formatvorlage %s wirklich löschen?</translation>
+        <translation>Sind Sie sicher, dass Sie die Formatvorlage %s löschen? </translation>
     </message>
     <message>
         <source>Auto Adjust WordWrap</source>
@@ -5459,7 +5518,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Auto Format</source>
         <comment>TxVersion_AutoFormat</comment>
-        <translation type="unfinished">Auto Format</translation>
+        <translation>AutoFormat</translation>
     </message>
     <message>
         <source>Auto Replace Paragraph Header Space With Indent</source>
@@ -5469,32 +5528,32 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>AutoFit to Window</source>
         <comment>TxVersion_AutoFitWindow</comment>
-        <translation type="unfinished">AutoFit für Fenster</translation>
+        <translation>Größe automatisch an Fenster anpassen</translation>
     </message>
     <message>
         <source>Before Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginBefore</comment>
-        <translation type="unfinished">Vor dem Abstand: %.2f Zeilen</translation>
+        <translation>Abstand vor Absatz: %.2f Zeilen</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TxVersion_Bold</comment>
-        <translation type="unfinished">Fett</translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>Bookmark</source>
         <comment>TxVersion_InsBookMark</comment>
-        <translation type="unfinished">Lesezeichen</translation>
+        <translation>Textmarke bearbeiten</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
         <comment>TxVersion_SetBorderShap</comment>
-        <translation type="unfinished">Rahmen und Schattierung</translation>
+        <translation>Rahmen und Schattierung</translation>
     </message>
     <message>
         <source>Bullets</source>
         <comment>TxVersion_Bullets</comment>
-        <translation type="unfinished">Aufzählungszeichen</translation>
+        <translation>Aufzählungszeichen</translation>
     </message>
     <message>
         <source>Bullets / Numbering</source>
@@ -5504,82 +5563,72 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Bullets and Numbering</source>
         <comment>TxMessage_ToolTip_NumFormat</comment>
-        <translation type="unfinished">Aufzählungszeichen und Nummerierung</translation>
-    </message>
-    <message>
-        <source>Bullets/Numbering</source>
-        <comment>TxVersion_BulletAndAutoNumber</comment>
-        <translation type="unfinished">Aufzählungszeichen / Nummerierung</translation>
+        <translation>Nummerierung und Aufzählungszeichen</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
         <comment>TxVersion_CannotRedo</comment>
-        <translation type="unfinished">Wiederherstellen nicht möglich</translation>
+        <translation>Wiederholen:Nicht möglich</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>TxVersion_CannotUndo</comment>
-        <translation type="unfinished">Rückgängig nicht möglich</translation>
+        <translation>Rückgängig:Nicht möglich</translation>
     </message>
     <message>
         <source>Cannot go to TOC. TOC may not exist!</source>
         <comment>TxVersion_CannotGotoTOC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Verzeichnis ist nicht zu überspringen,das Verzeichnis kann nicht vorhanden sein!  </translation>
     </message>
     <message>
         <source>Cannot link, because the target text box is not empty. You can only link to an empty text box.</source>
         <comment>TxMessage_CreateTextboxLinkError3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot update TOC. TOC may not exist.</source>
-        <comment>TxVersion_CannotUpdateTOC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Zieltextfeld ist nicht leer. Sie können nur Verknüpfungen zu einem leeren Textfeld herstellen.</translation>
     </message>
     <message>
         <source>Caption</source>
         <comment>TxVersion_InsCaption</comment>
-        <translation type="unfinished">Beschriftung</translation>
+        <translation>Beschriftung</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
         <comment>TxVersion_CellAlignment</comment>
-        <translation type="unfinished">Zellenausrichtung</translation>
+        <translation>Zellausrichtung</translation>
     </message>
     <message>
         <source>Change Case</source>
         <comment>TxVersion_ChangeCase</comment>
-        <translation type="unfinished">Groß-/Kleinschreibung ändern</translation>
+        <translation>Groß-/Kleinschreibung ändern</translation>
     </message>
     <message>
         <source>Change Outline Level</source>
         <comment>TxVersion_OutLiningComboBoxChange</comment>
-        <translation type="unfinished">Gliederungsebene ändern</translation>
+        <translation>Gliederungsebene ändern</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
         <comment>TxVersion_SetTextDirection</comment>
-        <translation type="unfinished">Textrichtung ändern</translation>
+        <translation>Die Textrichtung festlegen</translation>
     </message>
     <message>
         <source>Character Border</source>
         <comment>TxVersion_CharBorder</comment>
-        <translation type="unfinished">Zeichenrahmen</translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>Character Scaling</source>
         <comment>TxVersion_CharScaling</comment>
-        <translation type="unfinished">Zeichenskalierung</translation>
+        <translation>Zeichenskalierung</translation>
     </message>
     <message>
         <source>Character Shading</source>
         <comment>TxVersion_CharShading</comment>
-        <translation type="unfinished">Zeichenschattierung</translation>
+        <translation>Zeichenschattierung</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
         <comment>TXShell_ChineseTranslation_Caption</comment>
-        <translation type="unfinished">Chinesisch-Anpassung</translation>
+        <translation>Mit Optionen konvertieren</translation>
     </message>
     <message>
         <source>Clean Paragraph Space And Indent</source>
@@ -5589,208 +5638,208 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Clear</source>
         <comment>TxVersion_Key_Delete</comment>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
         <comment>TxVersion_TPClearFmt</comment>
-        <translation type="unfinished">Formatierung löschen</translation>
+        <translation>Formatierung löschen</translation>
     </message>
     <message>
         <source>Click and Type</source>
         <comment>TxVersion_ClickAndType</comment>
-        <translation type="unfinished">Klicken und Tippen</translation>
+        <translation>Klick und Eingabe Formatierung</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>TxTooltip_ParaLayoutClose</comment>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Close Compare Side by Side</source>
         <comment>TxWindow_Close_CompareSideBySide</comment>
-        <translation type="unfinished">Genauer Vergleich Seite an Seite</translation>
+        <translation>Dies schließt die Ansicht &quot;Nebeneinander&quot;</translation>
     </message>
     <message>
         <source>Columns Formatting</source>
         <comment>TxVersion_SetTextColumn</comment>
-        <translation type="unfinished">Spaltenformatierung</translation>
+        <translation>Spalten</translation>
     </message>
     <message>
         <source>Comment</source>
         <comment>TxVersion_Comment</comment>
-        <translation type="unfinished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Compare Side by Side</source>
         <comment>TxWindow_CompareSideBySide</comment>
-        <translation type="unfinished">Vergleich Seite an Seite</translation>
+        <translation>Nebeneinander vergleichen</translation>
     </message>
     <message>
         <source>Compare with %s Side by Side</source>
         <comment>TxWindow_CompareSideBySideWith</comment>
-        <translation type="unfinished">Mit %s Seite an Seite vergleichen</translation>
+        <translation>Mit %s nebeneinander vergleichen</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
         <comment>TxVersion_TableToText</comment>
-        <translation type="unfinished">Tabelle in Text umwandeln</translation>
+        <translation>Tabelle in Text umwandeln</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
         <comment>TxVersion_TextToTable</comment>
-        <translation type="unfinished">Text in Tabelle umwandeln</translation>
+        <translation>Text in Tabelle umwandeln</translation>
     </message>
     <message>
         <source>Convert to Endnotes</source>
         <comment>TxVersion_ConvertToEndnotes</comment>
-        <translation type="unfinished">In Endnoten umwandeln</translation>
+        <translation>In Endnoten umwandeln</translation>
     </message>
     <message>
         <source>Convert to Footnotes</source>
         <comment>TxVersion_ConvertToFootnotes</comment>
-        <translation type="unfinished">In Fußnoten umwandeln</translation>
+        <translation>In Fußnoten umwandeln</translation>
     </message>
     <message>
         <source>Copy</source>
         <comment>TxVersion_Copy</comment>
-        <translation type="unfinished">Kopieren</translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <source>Current Document</source>
         <comment>TxMessage_Hyperlink_CurrentDocument</comment>
-        <translation type="unfinished">Aktuelles Dokument</translation>
+        <translation>Aktuelles Dokument</translation>
     </message>
     <message>
         <source>Cut</source>
         <comment>TxVersion_Cut</comment>
-        <translation type="unfinished">Ausschneiden</translation>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
         <source>DBase Files(*.dbf) | *.dbf; |</source>
         <comment>TxDesc_DataSource_dbf</comment>
-        <translation type="unfinished">DBase Dateien(*.dbf) | *.dbf; |</translation>
+        <translation>DBase Dateien(*.dbf) | *.dbf; |</translation>
     </message>
     <message>
         <source>Data/Time</source>
         <comment>TxVersion_InsDateTime</comment>
-        <translation type="unfinished">Datum/Uhrzeit</translation>
+        <translation type="obsolete">Datum und Uhrzeit einfügen</translation>
     </message>
     <message>
         <source>Database Query(*.dqy; *.rqy) | *.dqy; *.rqy; |</source>
         <comment>TxDesc_DataSource_dqy</comment>
-        <translation type="unfinished">Datenbankabfrage(*.dqy; *.rqy) | *.dqy; *.rqy; |</translation>
+        <translation>Datenbankabfrage(*.dqy; *.rqy) | *.dqy; *.rqy; |</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
         <comment>TxVersion_DecreaseIndent</comment>
-        <translation type="unfinished">Einzug verkleinern</translation>
+        <translation>Einzug verkleinern</translation>
     </message>
     <message>
         <source>Delete</source>
         <comment>TxBalloon_RevisionDeletedShortTip</comment>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Delete All Comments</source>
         <comment>TxVersion_DeleteAllComments</comment>
-        <translation type="unfinished">Alle Kommentare löschen</translation>
+        <translation>Alle Kommentare löschen</translation>
     </message>
     <message>
         <source>Delete All Comments Shown</source>
         <comment>TxVersion_DeleteCommentsShown</comment>
-        <translation type="unfinished">Alle angezeigten Kommentare löschen</translation>
+        <translation>Alle angezeigten Kommentare löschen</translation>
     </message>
     <message>
         <source>Delete All Editable Ranges</source>
         <comment>TxVersion_DeleteAllEditableRanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alle bearbeitbaren Bereiche löschen </translation>
     </message>
     <message>
         <source>Delete Comment</source>
         <comment>TxVersion_DeleteComment</comment>
-        <translation type="unfinished">Kommentar löschen</translation>
+        <translation>Kommentar löschen</translation>
     </message>
     <message>
         <source>Delete Protect Exception</source>
         <comment>TxVersion_DeleteProtectException</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schutzausnahmen löschen</translation>
     </message>
     <message>
         <source>Delete Style</source>
         <comment>TxVersion_TPDeleteStyle</comment>
-        <translation type="unfinished">Formatvorlage löschen</translation>
+        <translation>Formatvorlage löschen</translation>
     </message>
     <message>
         <source>Delete Table Element</source>
         <comment>TxVersion_DeleteTableElement</comment>
-        <translation type="unfinished">Tabellenelement löschen</translation>
+        <translation>TabellenZelle löschen</translation>
     </message>
     <message>
         <source>Deleted</source>
         <comment>TxBalloon_RevisionDeleted</comment>
-        <translation type="unfinished">Gelöscht</translation>
+        <translation>Gelöscht</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
         <comment>TxVersion_DemoteToLowestLevel</comment>
-        <translation type="unfinished">Zurückstufen in Textkörper</translation>
+        <translation>Zu Textkörper tieferstufen</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
         <comment>TxVersion_DistributeColumns</comment>
-        <translation type="unfinished">Spalten gleichmäßig verteilen</translation>
+        <translation>Spalten automatisch gleichmäßig verteilen</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
         <comment>TxVersion_DistributeRows</comment>
-        <translation type="unfinished">Zeilen gleichmäßig verteilen</translation>
+        <translation>Zeilen automatisch gleichmäßig verteilen</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the beginning?</source>
         <comment>TxMessge_SearchFromStart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suche vom Dokumentanfang aus weiter fortsetzen?</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
         <comment>TxMessge_SearchFromEnd</comment>
-        <translation type="unfinished">Suche vom Ende aus fortsetzen?</translation>
+        <translation>Suche vom Ende aus weiter fortsetzen?</translation>
     </message>
     <message>
         <source>Do you want to delete the header and footer, and connect to the previous section?</source>
         <comment>TxMessge_DelHeaderFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Kopf- und Fußzeile löschen und mit vorheriger verknüpfen?  </translation>
     </message>
     <message>
         <source>Document 
 Protection</source>
         <comment>TxDocument_Protect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentschutz </translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
         <comment>TxVersion_DoubleStrikethought</comment>
-        <translation type="unfinished">Doppelt durchgestrichen</translation>
+        <translation>Doppelt durchgestrichen</translation>
     </message>
     <message>
         <source>Drop Cap</source>
         <comment>TxVersion_SetDropCap</comment>
-        <translation type="unfinished">Initialbuchstabe</translation>
+        <translation>Initiale</translation>
     </message>
     <message>
         <source>Edit Comment</source>
         <comment>TxVersion_EditComment</comment>
-        <translation type="unfinished">Kommentar bearbeiten</translation>
+        <translation>Kommentar bearbeiten</translation>
     </message>
     <message>
         <source>Edit Field</source>
         <comment>TxVersion_EditField</comment>
-        <translation type="unfinished">Feld bearbeiten</translation>
+        <translation>Feld bearbeiten</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
         <comment>TxVersion_EmphasisMark</comment>
-        <translation type="unfinished">Betonung</translation>
+        <translation>Betonungszeichen</translation>
     </message>
     <message>
         <source>Erase Cells</source>
@@ -5800,12 +5849,12 @@ Protection</source>
     <message>
         <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <comment>TxDesc_DataSource_xlsx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dateien von Excel 2007/2010 (*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
     </message>
     <message>
         <source>Excel Files(*.xls) | *.xls; |</source>
         <comment>TxDesc_DataSource_xls</comment>
-        <translation type="unfinished">Excel Dateien(*.xls) | *.xls; |</translation>
+        <translation>Excel-Dateien(*.xls) | *.xls; |</translation>
     </message>
     <message>
         <source>Field To Text</source>
@@ -5815,117 +5864,112 @@ Protection</source>
     <message>
         <source>Fill Color</source>
         <comment>TxVersion_FillColor</comment>
-        <translation type="unfinished">Füllfarbe</translation>
+        <translation>Füllfarbe</translation>
     </message>
     <message>
         <source>First Line: %.2f  Characters</source>
         <comment>TxTooltip_FirstIndent</comment>
-        <translation type="unfinished">Erste Zeile: %.2f  Zeichen</translation>
+        <translation>Erste Zeile: %.2f  Zeichen</translation>
     </message>
     <message>
         <source>Fixed Column Width</source>
         <comment>TxVersion_FixedColumnWidth</comment>
-        <translation type="unfinished">Fixierte Spaltenbreite</translation>
+        <translation>Automatisch feste Spaltenbreite</translation>
     </message>
     <message>
         <source>Font</source>
         <comment>TxVersion_ChangeFontName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart</translation>
     </message>
     <message>
         <source>Font Color</source>
         <comment>TxVersion_FontColor</comment>
-        <translation type="unfinished">Schriftfarbe</translation>
+        <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>Footnote</source>
         <comment>TxVersion_FootNote</comment>
-        <translation type="unfinished">Fußnote</translation>
+        <translation>Fuß- und Endnote </translation>
     </message>
     <message>
         <source>Form Field Options</source>
         <comment>TxVersion_FormFieldOption</comment>
-        <translation type="unfinished">Formularfeld-Optionen</translation>
+        <translation>Formularfeldoptionen</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
         <comment>TxVersion_AutoShapeFormat</comment>
-        <translation type="unfinished">Format AutoShape</translation>
+        <translation>AutoForm formatieren</translation>
     </message>
     <message>
         <source>Format line number</source>
         <comment>TxVersion_SetLineNumbering</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilennummer formatieren</translation>
     </message>
     <message>
         <source>Formatted</source>
         <comment>TxBalloon_RevisionFormatted</comment>
-        <translation type="unfinished">Formatted</translation>
-    </message>
-    <message>
-        <source>Formatted</source>
-        <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
-        <translation type="unfinished">formatted</translation>
+        <translation>Formatiert</translation>
     </message>
     <message>
         <source>Formatted</source>
         <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
-        <translation type="unfinished">Formatted</translation>
+        <translation>Formatiert</translation>
     </message>
     <message>
         <source>Formatted Table</source>
         <comment>TxBalloon_RevisionFormattedTable</comment>
-        <translation type="unfinished">Formatted Table</translation>
+        <translation>Formatierte Tabelle</translation>
     </message>
     <message>
         <source>Genko Setting</source>
         <comment>TxVersion_SetGenkoSetting</comment>
-        <translation type="unfinished">Genko-Einstellung</translation>
+        <translation>Genko-Setting</translation>
     </message>
     <message>
         <source>Go to Table of Contents</source>
         <comment>TxVersion_GotoTOC</comment>
-        <translation type="unfinished">Zum Inhaltsverzeichnis wechseln</translation>
+        <translation>Gehe zu Inhaltsverzeichnis</translation>
     </message>
     <message>
         <source>Grow Font</source>
         <comment>TxVersion_GrowFonts</comment>
-        <translation type="unfinished">Schriftart vergrößern</translation>
+        <translation>Schrift vergrößern</translation>
     </message>
     <message>
         <source>Hanging: %.2f Characters</source>
         <comment>TxTooltip_HangingIndent</comment>
-        <translation type="unfinished">Hängend: %.2f Zeichen</translation>
+        <translation>Hängend: %.2f Zeichen</translation>
     </message>
     <message>
         <source>Help</source>
         <comment>TxMessage_Help</comment>
-        <translation type="unfinished">Hilfe</translation>
+        <translation>Hilfe</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TxMessage_NoHelp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Hilfedatei wurde nicht gefunden oder Fehler in der Hilfdatei!</translation>
     </message>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation type="unfinished">Leerzeichen ausblenden</translation>
+        <translation>Leerzeichen ausblenden</translation>
     </message>
     <message>
         <source>Highlight</source>
         <comment>TxVersion_Highlight</comment>
-        <translation type="unfinished">Hervorheben</translation>
+        <translation>Hervorheben</translation>
     </message>
     <message>
         <source>Hold</source>
         <comment>TxTooltip_ParaLayoutHold</comment>
-        <translation type="unfinished">Hold</translation>
+        <translation>Halten</translation>
     </message>
     <message>
         <source>Increase Indent</source>
         <comment>TxVersion_IncreaseIndent</comment>
-        <translation type="unfinished">Einzug vergrößern</translation>
+        <translation>Einzug vergrößern</translation>
     </message>
     <message>
         <source>Index and Tables</source>
@@ -5935,142 +5979,142 @@ Protection</source>
     <message>
         <source>Insert</source>
         <comment>TxBalloon_RevisionInsertedShortTip</comment>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Insert AutoText</source>
         <comment>TxVersion_InsertAutoText</comment>
-        <translation type="unfinished">AutoText einfügen</translation>
+        <translation>AutoText einfügen</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
         <comment>TxVersion_InsBlankField</comment>
-        <translation type="unfinished">Leeres Feld einfügen</translation>
+        <translation>Leeres Feld einfügen</translation>
     </message>
     <message>
         <source>Insert Break</source>
         <comment>TxVersion_InsBreak</comment>
-        <translation type="unfinished">Umbruch einfügen</translation>
+        <translation>Umbruch einfügen</translation>
     </message>
     <message>
         <source>Insert Chart</source>
         <comment>TxVersion_InsertChart</comment>
-        <translation type="unfinished">Diagramm einfügen</translation>
+        <translation>Diagramm einfügen</translation>
     </message>
     <message>
         <source>Insert Comment</source>
         <comment>TxVersion_InsertComment</comment>
-        <translation type="unfinished">Kommentar einfügen</translation>
+        <translation>Kommentar einfügen</translation>
     </message>
     <message>
         <source>Insert Date</source>
         <comment>TxVersion_InsertDate</comment>
-        <translation type="unfinished">Datum einfügen</translation>
+        <translation>Datum einfügen</translation>
     </message>
     <message>
         <source>Insert Field</source>
         <comment>TxVersion_InsField</comment>
-        <translation type="unfinished">Feld einfügen</translation>
+        <translation>Feld einfügen</translation>
     </message>
     <message>
         <source>Insert File</source>
         <comment>TxCaption_InsertFile</comment>
-        <translation type="unfinished">Datei einfügen</translation>
+        <translation>Datei einfügen</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
         <comment>TxVersion_InsHyperlink</comment>
-        <translation type="unfinished">Hyperlink einfügen</translation>
-    </message>
-    <message>
-        <source>Insert Index</source>
-        <comment>TxVersion_InsIndexAndTables</comment>
-        <translation type="unfinished">Verzeichnis und Tabellen</translation>
+        <translation>Hyperlink einfügen</translation>
     </message>
     <message>
         <source>Insert Multidiagonal Cell</source>
         <comment>TxVersion_InsertMutidiagonalCell</comment>
-        <translation type="unfinished">Multidiagonale Zelle einfügen</translation>
+        <translation>Multidiagonale Zelle einfügen</translation>
     </message>
     <message>
         <source>Insert Object</source>
         <comment>TxVersion_InsertObject</comment>
-        <translation type="unfinished">Objekt einfügen</translation>
+        <translation>Objekt einfügen</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsPicture</comment>
-        <translation type="unfinished">Bild einfügen</translation>
+        <translation>Grafik aus Datei einfügen</translation>
     </message>
     <message>
         <source>Insert Table</source>
         <comment>TxVersion_AddTable</comment>
-        <translation type="unfinished">Tabelle einfügen</translation>
+        <translation>Tabelle erstellen</translation>
     </message>
     <message>
         <source>Insert Table</source>
         <comment>TxVersion_InsertTable</comment>
-        <translation type="unfinished">Tabelle einfügen</translation>
+        <translation>Tabelle einfügen</translation>
     </message>
     <message>
         <source>Insert Table Element</source>
         <comment>TxVersion_InsertTableElement</comment>
-        <translation type="unfinished">Tabellenelement einfügen</translation>
+        <translation>Tabellenelement einfügen</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
         <comment>TxVersion_CreateTextbox</comment>
-        <translation type="unfinished">Textfeld einfügen</translation>
+        <translation>Textfeld erstellen</translation>
     </message>
     <message>
         <source>Insert Time</source>
         <comment>TxVersion_InsertTime</comment>
-        <translation type="unfinished">Uhrzeit einfügen</translation>
+        <translation>Uhrzeit einfügen</translation>
     </message>
     <message>
         <source>Inserted</source>
         <comment>TxBalloon_RevisionInserted</comment>
-        <translation type="unfinished">Eingefügt</translation>
+        <translation>Eingefügt</translation>
     </message>
     <message>
         <source>Invalid order. Because the form field is not inserted through Forms toolbar or Insert Form Field dialogue box.</source>
         <comment>TxFormField_InValidFormField</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Befehl, weil das Formularfeld nicht mit Hilfe der &quot;Formularsymbolleiste&quot; oder des Dialogfelds &quot;Formularfeld einfügen&quot; eingefügt wurde.</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TxVersion_Italic</comment>
-        <translation type="unfinished">Kursiv</translation>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files(*.et) | *.et; |</source>
+        <comment>TxDesc_DataSource_et</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets Dateien(*.et) | *.et; |</translation>
     </message>
     <message>
         <source>Left Indent: %.2f Characters</source>
         <comment>TxTooltip_LeftIndent</comment>
-        <translation type="unfinished">Linker Einzug: %.2f Zeichen</translation>
+        <translation>Einzug links: %.2f Zeichen</translation>
     </message>
     <message>
         <source>Line Color</source>
         <comment>TxVersion_LineColor</comment>
-        <translation type="unfinished">Linienfarbe</translation>
+        <translation>Linienfarbe</translation>
     </message>
     <message>
         <source>Line Spacing</source>
         <comment>TxVersion_LineSpace</comment>
-        <translation type="unfinished">Zeilenabstand</translation>
+        <translation>Zeilenabstand</translation>
     </message>
     <message>
         <source>Line Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaLineSpacing</comment>
-        <translation type="unfinished">Zeilenabstand: %.2f Zeilen</translation>
+        <translation>Zeilenabstand: %.2f Zeilen</translation>
     </message>
     <message>
         <source>Lock Field</source>
         <comment>TxVersion_LockField</comment>
-        <translation type="unfinished">Feld sperren</translation>
+        <translation>Felder sperren</translation>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
         <comment>TxDesc_DataSource_wk</comment>
-        <translation type="unfinished">Lotus 1-2-3 Dateien(*.wk?; *.wj?) | *.wk?; *.wj?; |</translation>
+        <translation>Lotus 1-2-3 Dateien(*.wk?; *.wj?) | *.wk?; *.wj?; |</translation>
     </message>
     <message>
         <source>Mail Merge First Record</source>
@@ -6095,7 +6139,7 @@ Protection</source>
     <message>
         <source>Mail Merge Next Record</source>
         <comment>TxVersion_NextRecord</comment>
-        <translation type="unfinished">Seriendruck Neuer Datensatz</translation>
+        <translation type="unfinished">Seriendruck Nächster Datensatz</translation>
     </message>
     <message>
         <source>Mail Merge Previous Record</source>
@@ -6105,367 +6149,357 @@ Protection</source>
     <message>
         <source>Mail Merge Toolbar</source>
         <comment>TXShell_MailMerge_Caption</comment>
-        <translation type="unfinished">Seriendruck-Menüleiste</translation>
+        <translation>Seriendruck-Symbolleiste</translation>
     </message>
     <message>
         <source>Mail Merge View Data</source>
         <comment>TxVersion_ViewMergedData</comment>
-        <translation type="unfinished">Seriendruckdaten anzeigen</translation>
+        <translation>Daten anzeigen</translation>
     </message>
     <message>
         <source>Match the Current Format</source>
         <comment>TxCaption_PasteMatchingFormat</comment>
-        <translation type="unfinished">Dem aktuellen Format anpassen</translation>
+        <translation>Dem aktuellen Format anpassen</translation>
     </message>
     <message>
         <source>Match the Current Format</source>
         <comment>TxHint_PasteMatchingFormat</comment>
-        <translation type="unfinished">Dem aktuellen Format anpassen</translation>
+        <translation>Dem aktuellen Format anpassen</translation>
     </message>
     <message>
         <source>Merge Cells</source>
         <comment>TxVersion_MergeCells</comment>
-        <translation type="unfinished">Zellen zusammenführen</translation>
+        <translation>Zellen verbinden</translation>
     </message>
     <message>
         <source>Microsoft Office address book(*.mdb) | *.mdb; |</source>
         <comment>TxDesc_DataSource_mdb2</comment>
-        <translation type="unfinished">Microsoft Office Adressbücher(*.mdb) | *.mdb; |</translation>
+        <translation>Adressbuch von Microsoft-Office (*.mdb) | *.mdb; |</translation>
     </message>
     <message>
         <source>Microsoft Works Databases(*.wdb) | *.wdb; |</source>
         <comment>TxDesc_DataSource_wdb</comment>
-        <translation type="unfinished">Microsoft Works Datenbanken(*.wdb) | *.wdb; |</translation>
+        <translation>Datenbank von Microsoft Works (*.wdb) | *.wdb; |</translation>
     </message>
     <message>
         <source>Microsoft database connection(*.udl) | *.udl; |</source>
         <comment>TxDesc_DataSource_udl</comment>
-        <translation type="unfinished">Microsoft Datenbankanbindung(*.udl) | *.udl; |</translation>
+        <translation>Microsoft-Datenbankverbindung(*.udl) | *.udl; |</translation>
     </message>
     <message>
         <source>Modify</source>
         <comment>TxBalloon_RevisionFormattedShortTip</comment>
-        <translation type="unfinished">Modify</translation>
+        <translation>Text ändern</translation>
     </message>
     <message>
         <source>Modify Style</source>
         <comment>TxVersion_TPModifyStyle</comment>
-        <translation type="unfinished">Formatvorlage ändern</translation>
+        <translation>Formatvorlage ändern</translation>
     </message>
     <message>
         <source>Modify bullets and numbering</source>
         <comment>TxMessage_ToolTip_Modify_NumFormat</comment>
-        <translation type="unfinished">Aufzählungszeichen und Nummerierung ändern</translation>
+        <translation>Nummerierung und Aufzählungszeichen ändern</translation>
     </message>
     <message>
         <source>Modify paragraph</source>
         <comment>TxBalloon_RevisionFormattedParaShortTip</comment>
-        <translation type="unfinished">Modify paragraph</translation>
+        <translation>Absatz ändern</translation>
     </message>
     <message>
         <source>Modify table</source>
         <comment>TxBalloon_RevisionFormattedTableShortTip</comment>
-        <translation type="unfinished">Modify table</translation>
+        <translation>Tabelle ändern</translation>
     </message>
     <message>
         <source>Move</source>
         <comment>TxVersion_Move</comment>
-        <translation type="unfinished">Verschieben</translation>
+        <translation>Verschieben</translation>
     </message>
     <message>
         <source>Move Table</source>
         <comment>TxVersion_MoveTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabelle verschieben</translation>
     </message>
     <message>
         <source>New Blank Document</source>
         <comment>TxCaption_NewBlankFile</comment>
-        <translation type="unfinished">Neues leeres Dokument</translation>
+        <translation>Neues leeres Dokument</translation>
     </message>
     <message>
         <source>New Blank Document</source>
         <comment>TxCaption_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished">Neues leeres Dokument</translation>
+        <translation>Neues leeres Dokument</translation>
     </message>
     <message>
         <source>New Blank Document</source>
         <comment>TxTooltip_NewBlankFile</comment>
-        <translation type="unfinished">Neues leeres Dokument</translation>
+        <translation>Neues leeres Dokument</translation>
     </message>
     <message>
         <source>New Blank Document</source>
         <comment>TxTooltip_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished">Neues leeres Dokument</translation>
+        <translation>Neues leeres Dokument</translation>
     </message>
     <message>
         <source>New Style</source>
         <comment>TxVersion_TPNewStyle</comment>
-        <translation type="unfinished">Neue Formatvorlage</translation>
+        <translation>Neue Formatvorlage</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus der Standardvorlage</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus der Standardvorlage</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus der Standardvorlage</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neu aus der Standardvorlage</translation>
     </message>
     <message>
         <source>Number of Pages</source>
         <comment>TxVersion_InsertNumberOfPages</comment>
-        <translation type="unfinished">Seitenanzahl</translation>
+        <translation>Seitenzahl einfügen</translation>
     </message>
     <message>
         <source>Numbering</source>
         <comment>TxVersion_Numbering</comment>
-        <translation type="unfinished">Nummerierung</translation>
+        <translation>Nummerierung</translation>
     </message>
     <message>
         <source>ODBC data source name(*.dsn) | *.dsn; |</source>
         <comment>TxDesc_DataSource_dsn</comment>
-        <translation type="unfinished">ODBC Datenquellenname(*.dsn) | *.dsn; |</translation>
+        <translation>ODBC-Datei-DSN (*.dsn) | *.dsn; |</translation>
     </message>
     <message>
         <source>Office database connection(*.odc) | *.odc |</source>
         <comment>TxDesc_DataSource_odc</comment>
-        <translation type="unfinished">Office Datenbankanbindungen(*.odc) | *.odc |</translation>
+        <translation>Office-Datenbankverbindung(*.odc) | *.odc |</translation>
     </message>
     <message>
         <source>Order</source>
         <comment>TxVersion_DrawingOrder</comment>
-        <translation type="unfinished">Befehl</translation>
+        <translation>Reihenfolge</translation>
     </message>
     <message>
         <source>Outline Demote</source>
         <comment>TxVersion_Demote</comment>
-        <translation type="unfinished">Niedrigere Gliederungsebene</translation>
+        <translation>Gliederung tiefer stufen</translation>
     </message>
     <message>
         <source>Outline Promote</source>
         <comment>TxVersion_Promote</comment>
-        <translation type="unfinished">Höhere Gliederungsebene</translation>
+        <translation>Gliederung höher stufen</translation>
     </message>
     <message>
         <source>Outline Promote Heading 1</source>
         <comment>TxVersion_PromoteToHighestLevel</comment>
-        <translation type="unfinished">Höhere Gliederungsebene Überschrift 1</translation>
+        <translation>Gliederung Zu &quot;Überschrift 1&quot; höherstufen </translation>
     </message>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished">Outlook Persönliche Adressbücher(*.pab) | *.pab; |</translation>
+        <translation>Persönliche Outlook-Adressbuch(*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Outside Border</source>
         <comment>TxVersion_TableOutsideBorder</comment>
-        <translation type="unfinished">Rahmenlinie</translation>
+        <translation>Rahmenlinie ändern</translation>
     </message>
     <message>
         <source>Page Number Format</source>
         <comment>TxVersion_FormatPageNumber</comment>
-        <translation type="unfinished">Seitenzahlformat</translation>
+        <translation>Seitenzahlenformat</translation>
     </message>
     <message>
         <source>Page Numbers</source>
         <comment>TxVersion_InsPageNumber</comment>
-        <translation type="unfinished">Seitenzahlen</translation>
+        <translation>Seitenzahlen</translation>
     </message>
     <message>
         <source>Page Numbers</source>
         <comment>TxVersion_InsertPageNumber</comment>
-        <translation type="unfinished">Seitenzahlen</translation>
+        <translation>Seitenzahlen</translation>
     </message>
     <message>
         <source>Page Setup</source>
         <comment>TxVersion_PageSetup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seite einrichten</translation>
     </message>
     <message>
         <source>Page Width</source>
         <comment>_TxZoomBox_PageWidth</comment>
-        <translation type="unfinished">Seitenbreite</translation>
+        <translation>Seitenbreite</translation>
     </message>
     <message>
         <source>Page X</source>
         <comment>TxAutoText_PageNumberOf</comment>
-        <translation type="unfinished">Seite X</translation>
+        <translation>Seite X</translation>
     </message>
     <message>
         <source>Page: </source>
         <comment>TxMessage_VScroll_Tip</comment>
-        <translation type="unfinished">Seite: </translation>
+        <translation>Seite: </translation>
     </message>
     <message>
         <source>Paradox Files(*.db) | *.db; |</source>
         <comment>TxDesc_DataSource_db</comment>
-        <translation type="unfinished">Paradox Dateien(*.db) | *.db; |</translation>
+        <translation>Paradox-Dateien(*.db) | *.db; |</translation>
     </message>
     <message>
         <source>Paragraph Formatting</source>
         <comment>TxVersion_ShowParagraphDialog</comment>
-        <translation type="unfinished">Absatzformatierung</translation>
+        <translation>Absatz formatieren</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
         <comment>TxTooltip_ParaAdjustment</comment>
-        <translation type="unfinished">Absatz-Layout</translation>
+        <translation>Absatz-Layout</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxCaption_Paste</comment>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxEdit_PasteDefault</comment>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxHint_Paste</comment>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxVersion_Paste</comment>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Paste Cells</source>
         <comment>TxEdit_PasteCell</comment>
-        <translation type="unfinished">Zellen einfügen</translation>
+        <translation>Zellen einfügen</translation>
     </message>
     <message>
         <source>Paste Columns</source>
         <comment>TxEdit_PasteColumn</comment>
-        <translation type="unfinished">Spalten einfügen</translation>
+        <translation>Spalten einfügen</translation>
     </message>
     <message>
         <source>Paste Format</source>
         <comment>TxVersion_FormatPainter</comment>
-        <translation type="unfinished">Format übertragen</translation>
+        <translation>Format übertragen</translation>
     </message>
     <message>
         <source>Paste Format</source>
         <comment>TxVersion_PasteFormat</comment>
-        <translation type="unfinished">Format übertragen</translation>
+        <translation>Format übertragen</translation>
     </message>
     <message>
         <source>Paste Rows</source>
         <comment>TxEdit_PasteRow</comment>
-        <translation type="unfinished">Zeilen einfügen</translation>
+        <translation>Zeilen einfügen</translation>
     </message>
     <message>
         <source>Paste Special</source>
         <comment>TxVersion_PasteSpecial</comment>
-        <translation type="unfinished">Inhalt einfügen</translation>
+        <translation>Inhalte einfügen</translation>
     </message>
     <message>
         <source>Paste as Nested Table</source>
         <comment>TxEdit_PasteNest</comment>
-        <translation type="unfinished">Als geschachtelte Tabelle einfügen</translation>
+        <translation>Als geschachtelte Tabelle einfügen</translation>
     </message>
     <message>
         <source>Paste by Appending Table</source>
         <comment>TxEdit_PasteAppendTable</comment>
-        <translation type="unfinished">Einfügen und Tabelle anhängen</translation>
+        <translation>Einfügen durch Tabellenanhang</translation>
     </message>
     <message>
         <source>Please make a selection first.</source>
         <comment>TxVersion_RClickMove_NoSel</comment>
-        <translation type="unfinished">Bitte treffen Sie eine Auswahl.</translation>
+        <translation>Erstellen Sie zuerst eine Markierung.</translation>
     </message>
     <message>
         <source>Print</source>
         <comment>TxCaption_RecentPrint_Print</comment>
-        <translation type="unfinished">Drucken</translation>
+        <translation>Drucken</translation>
     </message>
     <message>
         <source>Print directly</source>
         <comment>TxCaption_RecentPrint_PrintDirect</comment>
-        <translation type="unfinished">Sofort drucken</translation>
+        <translation>Direktdruck</translation>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
         <comment>TxDesc_DataSource_rtf</comment>
-        <translation type="unfinished">RTF Format(*.rtf) | *.rtf; |</translation>
-    </message>
-    <message>
-        <source>Record Macro</source>
-        <comment>TXWps_RecordMacro_Start</comment>
-        <translation type="unfinished"></translation>
+        <translation>RTF-Format(*.rtf) | *.rtf; |</translation>
     </message>
     <message>
         <source>Redo</source>
         <comment>TxVersion_Redo</comment>
-        <translation type="unfinished">Wiederherstellen</translation>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <source>Reject All Changes Shown</source>
         <comment>TxVersion_RejectChangesShown</comment>
-        <translation type="unfinished">Alle angezeigten Änderungen ablehnen</translation>
+        <translation>Alle angezeigten Änderungen ablehnen</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
         <comment>TxVersion_RejectAllChanges</comment>
-        <translation type="unfinished">Alle Änderungen im Dokument ablehnen</translation>
+        <translation>Alle Änderungen im Dokument ablehnen</translation>
     </message>
     <message>
         <source>Reject Change</source>
         <comment>TxVersion_RejectChange</comment>
-        <translation type="unfinished">Änderung ablehnen</translation>
+        <translation>Änderungen ablehnen</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
         <comment>TxCaption_RejectDeletion</comment>
-        <translation type="unfinished">Löschung ablehnen</translation>
+        <translation>Löschen nicht übernehmen</translation>
     </message>
     <message>
         <source>Reject Formatted Changes</source>
         <comment>TxCaption_RejectFormat</comment>
-        <translation type="unfinished">Formatierungsänderungen ablehnen</translation>
+        <translation>Formatänderung nicht übernehmen</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
         <comment>TxCaption_RejectInsertion</comment>
-        <translation type="unfinished">Einfügung ablehnen</translation>
-    </message>
-    <message>
-        <source>Remove Cell Partition</source>
-        <comment>TxVersion_EraserCells</comment>
-        <translation type="unfinished">Zellen löschen</translation>
+        <translation>Einfügen nicht übernehmen</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
         <comment>TxVersion_RemoveHyperlink</comment>
-        <translation type="unfinished">Hyperlink entfernen</translation>
+        <translation>Hyperlink entfernen</translation>
     </message>
     <message>
         <source>Remove Protection</source>
         <comment>TxDocument_Unprotect</comment>
-        <translation type="unfinished">Schutz aufheben</translation>
+        <translation>Dokumentschutz aufheben</translation>
     </message>
     <message>
         <source>Repeat Heading</source>
         <comment>TxVersion_RepeatHeading</comment>
-        <translation type="unfinished">Überschrift wiederholen</translation>
+        <translation>Überschriften wiederholen</translation>
     </message>
     <message>
         <source>Replace</source>
         <comment>TxVersion_Replace</comment>
-        <translation type="unfinished">Ersetzen</translation>
+        <translation>Alles ersetzen</translation>
     </message>
     <message>
         <source>Replace Full Width Period With a Point</source>
@@ -6475,32 +6509,32 @@ Protection</source>
     <message>
         <source>Right Indent: %.2f Characters</source>
         <comment>TxTooltip_RightIndent</comment>
-        <translation type="unfinished">Rechter Einzug: %.2f Zeichen</translation>
+        <translation>Einzug rechts: %.2f Zeichen</translation>
     </message>
     <message>
         <source>Search</source>
         <comment>WPS_Search_Caption</comment>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Select Data Source</source>
         <comment>TxDataSource_Select</comment>
-        <translation type="unfinished">Datenquelle auswählen</translation>
+        <translation>Datenquelle auswählen</translation>
     </message>
     <message>
         <source>Select Font Size</source>
         <comment>TxVersion_ChangeFontSize</comment>
-        <translation type="unfinished">Schriftgröße auswählen</translation>
+        <translation>Schriftgrad Markierung</translation>
     </message>
     <message>
         <source>Set Border Properties</source>
         <comment>TxVersion_SetBorderProp</comment>
-        <translation type="unfinished">Rahmeneigenschaften einstellen</translation>
+        <translation>Rahmen formatieren</translation>
     </message>
     <message>
         <source>Set Font Formatting</source>
         <comment>TxVersion_ShowFontDialog</comment>
-        <translation type="unfinished">Schriftartformatierung einstellen</translation>
+        <translation>Zeichen formatieren</translation>
     </message>
     <message>
         <source>Set Tabs Formatting</source>
@@ -6510,179 +6544,157 @@ Protection</source>
     <message>
         <source>Shading Color</source>
         <comment>TxVersion_TableShadingColor</comment>
-        <translation type="unfinished">Schattenfarbe</translation>
+        <translation>Schattierungsfarbe</translation>
     </message>
     <message>
         <source>Shadow Color</source>
         <comment>TxVersion_ShadowColor</comment>
-        <translation type="unfinished">Schattenfarbe</translation>
+        <translation>Schattenfarbe</translation>
     </message>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation type="unfinished">Leerzeichen einblenden</translation>
+        <translation>Leerraumzeichen anzeigen</translation>
     </message>
     <message>
         <source>Show/Hide Formatting Marks</source>
         <comment>TxVersion_ShowHide</comment>
-        <translation type="unfinished">Formatierungszeichen ein-/ausblenden</translation>
+        <translation>Formatierungszeichen ein-/ausblenden</translation>
     </message>
     <message>
         <source>Shrink Font</source>
         <comment>TxVersion_ShrinkFonts</comment>
-        <translation type="unfinished">Schriftart verkleinern</translation>
+        <translation>Schriftart verkleinern</translation>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>TxTooltip_TSCS</comment>
-        <translation type="unfinished">Vereinfachte/Traditionelle Chinesische Übersetzung</translation>
+        <translation>Mit Optionen konvertieren</translation>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>_TxTcscConvert</comment>
-        <translation type="unfinished">Vereinfachte/Traditionelle Chinesische Übersetzung</translation>
+        <translation>Mit Optionen konvertieren</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
         <comment>TxVersion_DrawingGrid</comment>
-        <translation type="unfinished">Am Gitter ausrichten</translation>
-    </message>
-    <message>
-        <source>Spell 
-Check</source>
-        <comment>TXShell_CheckSpelling_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Am Raster ausrichten</translation>
     </message>
     <message>
         <source>Split Cells</source>
         <comment>TxVersion_SplitCells</comment>
-        <translation type="unfinished">Zellen teilen</translation>
+        <translation>Zellen teilen</translation>
     </message>
     <message>
         <source>Split Table</source>
         <comment>TxVersion_SplitTable</comment>
-        <translation type="unfinished">Tabelle teilen</translation>
-    </message>
-    <message>
-        <source>Stop Recording</source>
-        <comment>TXWps_RecordMacro_Stop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabelle teilen</translation>
     </message>
     <message>
         <source>Strikethrough</source>
         <comment>TxVersion_Strikethought</comment>
-        <translation type="unfinished">Durchgestrichen</translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>TxVersion_SubScript</comment>
-        <translation type="unfinished">Tiefgestellt</translation>
+        <translation>Tiefgestellt</translation>
     </message>
     <message>
         <source>Superscript</source>
         <comment>TxVersion_SuperScript</comment>
-        <translation type="unfinished">Hochgestellt</translation>
+        <translation>Hochgestellt</translation>
     </message>
     <message>
         <source>Switch Header/Footer Link</source>
         <comment>TxVersion_LinktoPreviousHeader</comment>
-        <translation type="unfinished">Kopfzeilen-/Fußzeilenlink tauschen</translation>
+        <translation>Kopf-/Fußzeilenverknüpfung umschalten</translation>
     </message>
     <message>
         <source>Symbol</source>
         <comment>TxVersion_InsSymbol</comment>
-        <translation type="unfinished">Symbol</translation>
+        <translation>Symbol einfügen</translation>
     </message>
     <message>
         <source>Table Properties</source>
         <comment>TxVersion_TableProperties</comment>
-        <translation type="unfinished">Tabelleneigenschaften</translation>
+        <translation>Tabelleneigenschaften</translation>
     </message>
     <message>
         <source>Table Size</source>
         <comment>TxVersion_TableResize</comment>
-        <translation type="unfinished">Tabellengröße</translation>
+        <translation>Tabellengröße</translation>
     </message>
     <message>
         <source>Text Box Link</source>
         <comment>TxVersion_CreateTextboxLink</comment>
-        <translation type="unfinished">Textfeld-Link</translation>
+        <translation>Textfeld-Link</translation>
     </message>
     <message>
         <source>Text Files(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</source>
         <comment>TxDesc_DataSource_txt</comment>
-        <translation type="unfinished">Text Dateien(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</translation>
+        <translation>Textdatei(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</translation>
     </message>
     <message>
         <source>Text Width</source>
         <comment>_TxZoomBox_TextWidth</comment>
-        <translation type="unfinished">Textbreite</translation>
+        <translation>Textbreite</translation>
     </message>
     <message>
         <source>Text With Format</source>
         <comment>TxCaption_PasteFormatText</comment>
-        <translation type="unfinished">Text mit Formatierung</translation>
+        <translation>Formatierten Text</translation>
     </message>
     <message>
         <source>Text With Format</source>
         <comment>TxHint_PasteFormatText</comment>
-        <translation type="unfinished">Text mit Formatierung</translation>
+        <translation>Formatierten Text</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
         <comment>TxVersion_TextWawpping</comment>
-        <translation type="unfinished">Textumbruch</translation>
+        <translation>Textumbruch</translation>
     </message>
     <message>
         <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
         <comment>TxFormField_VerticalTextAlert</comment>
-        <translation type="unfinished"></translation>
+        <translation>Checkbox und Dropdown-Felder in vertikaler Textausrichtung werden ignoriert und auch nicht angezeigt.</translation>
     </message>
     <message>
         <source>The font &apos;</source>
         <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Schriftart</translation>
     </message>
     <message>
         <source>The number must be between 1 and 1638.</source>
         <comment>TxMessage_FontSizeError1</comment>
-        <translation type="unfinished">Die Zahl muss zwischen 1 und 1638 liegen.</translation>
+        <translation>Gibt den Wert zwischen 1 und 1638 in der Option &apos;&apos;Schriftgrad&apos;&apos; an.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 500.</source>
         <comment>TxMessge_ZoomError1</comment>
-        <translation type="unfinished">Die Zahl muss zwischen 10 und 500 liegen.</translation>
+        <translation>Gibt den Wert zwischen 10% und 500% in der Option &apos;&apos;Zoom&apos;&apos; an.</translation>
     </message>
     <message>
         <source>The text box you selected cannot be linked because a link has already existed in the text box , or you have linked the text box to itself.</source>
         <comment>TxMessage_CreateTextboxLinkError2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Textfeld kann nicht verknüpft werden, weil es entweder bereits zu einer Textfeldkette gehört oder versucht wird, es mit sich selbst zu verknüpfen.</translation>
     </message>
     <message>
         <source>This document contains no comments or tracked changes.</source>
         <comment>TxMessge_NoComment</comment>
-        <translation type="unfinished">Dokument enthält keine Kommentare oder aufgezeichneten Änderungen.</translation>
+        <translation>Das Dokument enthält keine Kommentare oder Überarbeitungen.</translation>
     </message>
     <message>
-        <source>This function is provided in WPS Office Professional.</source>
+        <source>This function is provided in Kingsoft Office Professional.</source>
         <comment>TxMessage_ProVerOnly</comment>
-        <translation type="unfinished">Diese Funktion wird in WPS Office Professional unterstützt.</translation>
+        <translation type="obsolete">Diese Funktion wird in Kingsoft Office Professional unterstützt.</translation>
     </message>
     <message>
         <source>This is an invalid selection.</source>
         <comment>TxVersion_RClickMove_InvalidSel</comment>
-        <translation type="unfinished">Ungültige Auswahl.</translation>
-    </message>
-    <message>
-        <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
-        <comment>TxMessage_CreateTextboxLinkError4</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To create a link, click an empty text box.
-To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
-        <comment>TxMessage_CreateTextboxLinkError1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Markierung</translation>
     </message>
     <message>
         <source>Total of X pages</source>
@@ -6693,127 +6705,107 @@ To add another text box to your document, click Text Box on the Insert menu and 
         <source>Track 
 Changes</source>
         <comment>TXShell_TrackChanges_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen nachverfolgen</translation>
     </message>
     <message>
         <source>Translate</source>
         <comment>WPS_Translate_Caption</comment>
-        <translation type="unfinished">Übersetzen</translation>
+        <translation>Übersetzen</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
         <comment>TxCaption_TranslateToSimplifiedChinese</comment>
-        <translation type="unfinished">In vereinfachtes Chinesisch übersetzen</translation>
+        <translation>In vereinfachtes Chinesisch konvertieren</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
         <comment>TxCaption_TranslateToTraditionalChinese</comment>
-        <translation type="unfinished">In traditionelles Chinesisch übersetzen</translation>
+        <translation>In traditionelles Chinesisch konvertieren</translation>
     </message>
     <message>
         <source>Two Pages</source>
         <comment>_TxZoomBox_TwoPages</comment>
-        <translation type="unfinished">Zwei Seiten</translation>
+        <translation>Zwei Seiten</translation>
     </message>
     <message>
         <source>Typing</source>
         <comment>TxVersion_Key_Overtype</comment>
-        <translation type="unfinished">Typisierung</translation>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <source>Typing</source>
         <comment>TxVersion_Key_Type</comment>
-        <translation type="unfinished">Typisierung</translation>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <source>UnHold</source>
         <comment>TxTooltip_ParaLayoutUnHold</comment>
-        <translation type="unfinished">UnHold</translation>
+        <translation>Fortsetzen</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>TxVersion_Underline</comment>
-        <translation type="unfinished">Unterstreichen</translation>
+        <translation>Unterstreichen</translation>
     </message>
     <message>
         <source>Underline Color</source>
         <comment>TxVersion_UnderLineColor</comment>
-        <translation type="unfinished">Farbe Unterstreichung</translation>
+        <translation>Unterstreichungsfarbe</translation>
     </message>
     <message>
         <source>Undo</source>
         <comment>TxVersion_Undo</comment>
-        <translation type="unfinished">Rückgängig</translation>
+        <translation>Rückgängig</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
         <comment>TxCaption_PasteText</comment>
-        <translation type="unfinished">Unformatierter Text</translation>
+        <translation>Unformatierter Text</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
         <comment>TxHint_PasteText</comment>
-        <translation type="unfinished">Unformatierter Text</translation>
-    </message>
-    <message>
-        <source>Unlink Fields</source>
-        <comment>TxVersion_FieldToText</comment>
-        <translation type="unfinished">Feld in Text</translation>
+        <translation>Unformatierter Text</translation>
     </message>
     <message>
         <source>Unlock Field</source>
         <comment>TxVersion_UnlockField</comment>
-        <translation type="unfinished">Feld entsperren</translation>
+        <translation>Feld entsperren</translation>
     </message>
     <message>
         <source>Update Fields</source>
         <comment>TxVersion_UpdateField</comment>
-        <translation type="unfinished">Felder aktualisieren</translation>
+        <translation>Felder aktualisieren</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
         <comment>TxVersion_UpdateTOC</comment>
-        <translation type="unfinished">Inhaltsverzeichnis aktualisieren</translation>
-    </message>
-    <message>
-        <source>WPS Office has finished searching the document</source>
-        <comment>TxMessage_FinishedSearchException</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
-        <comment>TxDesc_DataSource_et</comment>
-        <translation type="unfinished">WPS Spreadsheets Dateien(*.et) | *.et; |</translation>
-    </message>
-    <message>
-        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
-        <comment>TxDesc_DataSource_wpsx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inhaltsverzeichnis aktualisieren</translation>
     </message>
     <message>
         <source>Whole Page</source>
         <comment>_TxZoomBox_WholePage</comment>
-        <translation type="unfinished">Ganze Seite</translation>
+        <translation>Ganze Seite</translation>
     </message>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
         <comment>TxDesc_DataSource_doc</comment>
-        <translation type="unfinished">Word Dokumente(*.doc) | *.doc; |</translation>
+        <translation>Word-Dokumente(*.doc) | *.doc; |</translation>
     </message>
     <message>
         <source>[Disabled]</source>
         <comment>TxVersion_shieldedFunction</comment>
-        <translation type="unfinished">[Deaktiviert]</translation>
+        <translation>[Deaktiviert]</translation>
     </message>
     <message>
         <source>comment</source>
         <comment>TxMessage_ToolTip_Suffix_Comment</comment>
-        <translation type="unfinished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>deleted</source>
         <comment>TxMessage_ToolTip_Suffix_Deletion</comment>
-        <translation type="unfinished">gelöscht</translation>
+        <translation>gelöscht</translation>
     </message>
     <message>
         <source>formatted</source>
@@ -6823,12 +6815,329 @@ Changes</source>
     <message>
         <source>inserted</source>
         <comment>TxMessage_ToolTip_Suffix_Insertion</comment>
-        <translation type="unfinished">eingefügt</translation>
+        <translation>eingefügt</translation>
     </message>
     <message>
         <source>of X</source>
         <comment>TxAutoText_PagesTotal</comment>
-        <translation type="unfinished">von X</translation>
+        <translation>von X</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
+        <comment>TxDesc_DataSource_et</comment>
+        <translation>WPS-Spreadsheets-Dateien(*.et) | *.et; |</translation>
+    </message>
+    <message>
+        <source>Bullets/Numbering</source>
+        <comment>TxVersion_BulletAndAutoNumber</comment>
+        <translation>Auto-Nummerierung und Aufzählungszeichen formatieren     </translation>
+    </message>
+    <message>
+        <source>Insert Index</source>
+        <comment>TxVersion_InsIndexAndTables</comment>
+        <translation>Index einfügen</translation>
+    </message>
+    <message>
+        <source>Unlink Fields</source>
+        <comment>TxVersion_FieldToText</comment>
+        <translation>Feldverknüpfungen aufheben</translation>
+    </message>
+    <message>
+        <source>To create a link, click an empty text box.
+To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
+        <comment>TxMessage_CreateTextboxLinkError1</comment>
+        <translation>Klicken Sie in ein leeres Textfeld, um eine Verknüpfung zu erstellen. Um dem Dokument ein weiteres Textfeld hinzuzufügen, klicken Sie auf der Registerkarte &quot;Einfügen&quot; auf &quot;Textfeld&quot; und wählen im Katalog ein Textfeld aus. Wählen Sie das ursprüngliche Textfeld aus, und klicken Sie in den Zeichentools auf der Registerkarte &quot;Format&quot; auf &quot;Verknüpfung erstellen&quot;.</translation>
+    </message>
+    <message>
+        <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
+        <comment>TxMessage_CreateTextboxLinkError4</comment>
+        <translation>Dieses Textfeld hat eine andere Textrichtung als das vorherige. Möchten Sie die Textrichtung dieses Textfelds dem vorherigen anpassen?</translation>
+    </message>
+    <message>
+        <source>This function is provided in WPS Office Professional.</source>
+        <comment>TxMessage_ProVerOnly</comment>
+        <translation>Diese Funktion wird in WPS Office Professional unterstützt.</translation>
+    </message>
+    <message>
+        <source>Remove Cell Partition</source>
+        <comment>TxVersion_EraserCells</comment>
+        <translation>Zellenteilung aufheben</translation>
+    </message>
+    <message>
+        <source>Spell 
+Check</source>
+        <comment>TXShell_CheckSpelling_Caption</comment>
+        <translation>Die Rechtschreibprüfung</translation>
+    </message>
+    <message>
+        <source>Cannot update TOC. TOC may not exist.</source>
+        <comment>TxVersion_CannotUpdateTOC</comment>
+        <translation>Das Verzeichnis ist nicht zu aktualisieren,das Verzeichnis kann nicht vorhanden sein!</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
+        <translation>Formatiert</translation>
+    </message>
+    <message>
+        <source>WPS Office has finished searching the document</source>
+        <comment>TxMessage_FinishedSearchException</comment>
+        <translation>Durchsuchen des Dokuments von WPS ist abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <comment>TXWps_RecordMacro_Stop</comment>
+        <translation>Aufzeichnung beenden</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <comment>TXWps_RecordMacro_Start</comment>
+        <translation>Makro aufzeichnen</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
+        <comment>TxDesc_DataSource_wpsx</comment>
+        <translation>Dateien von WPS-Writer 2007/2010(*.wpsx)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="obsolete">Vorlagendatei von Kingsoft Writer 2007/2010 (*.wptx) </translation>
+    </message>
+    <message>
+        <source>Table Normal</source>
+        <comment>TxTableStyle_TableNormal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 1</source>
+        <comment>TxTableStyle_TableSimple1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 2</source>
+        <comment>TxTableStyle_TableSimple2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 3</source>
+        <comment>TxTableStyle_TableSimple3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 1</source>
+        <comment>TxTableStyle_TableClassic1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 2</source>
+        <comment>TxTableStyle_TableClassic2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 3</source>
+        <comment>TxTableStyle_TableClassic3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 4</source>
+        <comment>TxTableStyle_TableClassic4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 1</source>
+        <comment>TxTableStyle_TableColorful1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 2</source>
+        <comment>TxTableStyle_TableColorful2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 3</source>
+        <comment>TxTableStyle_TableColorful3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 1</source>
+        <comment>TxTableStyle_TableColumns1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 2</source>
+        <comment>TxTableStyle_TableColumns2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 3</source>
+        <comment>TxTableStyle_TableColumns3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 4</source>
+        <comment>TxTableStyle_TableColumns4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 5</source>
+        <comment>TxTableStyle_TableColumns5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 1</source>
+        <comment>TxTableStyle_TableGrid1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 2</source>
+        <comment>TxTableStyle_TableGrid2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 3</source>
+        <comment>TxTableStyle_TableGrid3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 4</source>
+        <comment>TxTableStyle_TableGrid4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 5</source>
+        <comment>TxTableStyle_TableGrid5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 6</source>
+        <comment>TxTableStyle_TableGrid6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 7</source>
+        <comment>TxTableStyle_TableGrid7</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 8</source>
+        <comment>TxTableStyle_TableGrid8</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 1</source>
+        <comment>TxTableStyle_TableList1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 2</source>
+        <comment>TxTableStyle_TableList2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 3</source>
+        <comment>TxTableStyle_TableList3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 4</source>
+        <comment>TxTableStyle_TableList4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 5</source>
+        <comment>TxTableStyle_TableList5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 6</source>
+        <comment>TxTableStyle_TableList6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 7</source>
+        <comment>TxTableStyle_TableList7</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 8</source>
+        <comment>TxTableStyle_TableList8</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 1</source>
+        <comment>TxTableStyle_Table3dfx1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 2</source>
+        <comment>TxTableStyle_Table3dfx2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 3</source>
+        <comment>TxTableStyle_Table3dfx3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Contemporary</source>
+        <comment>TxTableStyle_TableContemporary</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Elegant</source>
+        <comment>TxTableStyle_TableElegant</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Professional</source>
+        <comment>TxTableStyle_TableProfessional</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Subtle1</source>
+        <comment>TxTableStyle_TableSubtle1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Subtle2</source>
+        <comment>TxTableStyle_TableSubtle2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 1</source>
+        <comment>TxTableStyle_TableWeb1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 2</source>
+        <comment>TxTableStyle_TableWeb2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 3</source>
+        <comment>TxTableStyle_TableWeb3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid</source>
+        <comment>TxTableStyle_TableGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Theme</source>
+        <comment>TxTableStyle_TabelTheme</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <comment>TxVersion_InsDateTime</comment>
+        <translation type="unfinished">Datum und Uhrzeit einfügen</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation>Vorlagendatei von Kingsoft Writer 2007/2010 (*.wptx) </translation>
     </message>
 </context>
 <context>
@@ -6994,6 +7303,10 @@ Changes</source>
         <translation type="obsolete">Justified</translation>
     </message>
     <message>
+        <source>Kingsoft Writer has finished searching the document.</source>
+        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation type="obsolete">Links</translation>
     </message>
@@ -7110,10 +7423,6 @@ Changes</source>
         <translation type="obsolete">Unterstreichen</translation>
     </message>
     <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
-    </message>
-    <message>
         <source>Wave double underline</source>
         <translation type="obsolete">Welle doppelt unterstrichen</translation>
     </message>
@@ -7148,6 +7457,10 @@ Changes</source>
     <message>
         <source>（Asian）</source>
         <translation type="obsolete">（Asian）</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
     </message>
 </context>
 <context>
@@ -7284,7 +7597,7 @@ Changes</source>
         <translation type="obsolete">Dokument wird durch eine andere Anwendung gesperrt. Im Nur-Lesen-Modus öffnen?\n(%s)</translation>
     </message>
     <message>
-        <source>Errors occur when WPS Writer is opening this file.\nPlease try one of the following.\n•Make sure you are permitted to access this file or drive.\n•Make sure there is enough memory and disk space.</source>
+        <source>Errors occur when Kingsoft Writer is opening this file.\nPlease try one of the following.\n•Make sure you are permitted to access this file or drive.\n•Make sure there is enough memory and disk space.</source>
         <translation type="obsolete">dass genug Arbeitsspeicher und Speicherplatz vorhanden sind.</translation>
     </message>
     <message>
@@ -7294,6 +7607,14 @@ Changes</source>
     <message>
         <source>ICBC 预备公文(*.ic1)</source>
         <translation type="obsolete">ICBC 预备公文(*.ic1)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer cannot give a document the same name as an open document.\nType a different name for the document you want to save.\n(%s)</source>
+        <translation type="obsolete">das Sie speichern möchten.\n(%s)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer cannot save this file due to a file permission error.\n(%s)</source>
+        <translation type="obsolete">Datei kann nicht gespeichert werden. Es besteht ein Fehler in den Dateizugriffsrechten.\n(%s)</translation>
     </message>
     <message>
         <source>Normal.wpt</source>
@@ -7334,14 +7655,6 @@ Changes</source>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.\n(%s)</source>
         <translation type="obsolete">Verschlüsseltes Dateiformat wird nicht unterstützt. Bitte Urheber der Datei kontaktieren.\n(%s)</translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot give a document the same name as an open document.\nType a different name for the document you want to save.\n(%s)</source>
-        <translation type="obsolete">das Sie speichern möchten.\n(%s)</translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot save this file due to a file permission error.\n(%s)</source>
-        <translation type="obsolete">Datei kann nicht gespeichert werden. Es besteht ein Fehler in den Dateizugriffsrechten.\n(%s)</translation>
     </message>
     <message>
         <source>WPS document in %s</source>
@@ -7388,8 +7701,8 @@ Changes</source>
         <translation type="obsolete">builtin.wpt</translation>
     </message>
     <message>
-        <source>click No. Then save a copy as the latest WPS Writer format.</source>
-        <translation type="obsolete">&apos;Nein&apos; klicken. Speichern Sie dann ein Exemplar im aktuellen WPS Writer-Format.</translation>
+        <source>click No. Then save a copy as the latest Kingsoft Writer format.</source>
+        <translation type="obsolete">&apos;Nein&apos; klicken. Speichern Sie dann ein Exemplar im aktuellen Kingsoft Writer-Format.</translation>
     </message>
     <message>
         <source>footnote and endnote.</source>
@@ -7426,6 +7739,22 @@ Changes</source>
     <message>
         <source>templates</source>
         <translation type="obsolete">Vorlagen</translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Writer is opening this file.\nPlease try one of the following.\n•Make sure you are permitted to access this file or drive.\n•Make sure there is enough memory and disk space.</source>
+        <translation type="obsolete">dass genug Arbeitsspeicher und Speicherplatz vorhanden sind.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot give a document the same name as an open document.\nType a different name for the document you want to save.\n(%s)</source>
+        <translation type="obsolete">das Sie speichern möchten.\n(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save this file due to a file permission error.\n(%s)</source>
+        <translation type="obsolete">Datei kann nicht gespeichert werden. Es besteht ein Fehler in den Dateizugriffsrechten.\n(%s)</translation>
+    </message>
+    <message>
+        <source>click No. Then save a copy as the latest WPS Writer format.</source>
+        <translation type="obsolete">&apos;Nein&apos; klicken. Speichern Sie dann ein Exemplar im aktuellen WPS Writer-Format.</translation>
     </message>
 </context>
 <context>
@@ -7587,6 +7916,18 @@ Changes</source>
         <translation type="obsolete">Hyperlink</translation>
     </message>
     <message>
+        <source>Kingsoft Writer cannot merge documents that can be distributed by mail without a validmail address. </source>
+        <translation type="obsolete">können nicht ohne gültige E-Mail-Adresse zusammengeführt werden. </translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer has finished searching the document.</source>
+        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer is updating the table of contents. Select one of the following options:</source>
+        <translation type="obsolete">Inhaltsverzeichnis wird aktualisiert. Sie haben folgende Möglichkeiten:</translation>
+    </message>
+    <message>
         <source>Last Name</source>
         <translation type="obsolete">Nachname</translation>
     </message>
@@ -7744,18 +8085,6 @@ Changes</source>
         <translation type="obsolete">Eindeutige Kennung</translation>
     </message>
     <message>
-        <source>WPS Writer cannot merge documents that can be distributed by mail without a validmail address. </source>
-        <translation type="obsolete">können nicht ohne gültige E-Mail-Adresse zusammengeführt werden. </translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
-    </message>
-    <message>
-        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation type="obsolete">Inhaltsverzeichnis wird aktualisiert. Sie haben folgende Möglichkeiten:</translation>
-    </message>
-    <message>
         <source>Web Page</source>
         <translation type="obsolete">Webseite</translation>
     </message>
@@ -7766,6 +8095,18 @@ Changes</source>
     <message>
         <source>such as too little column width. Please adjust your settings.</source>
         <translation type="obsolete">Ausrichtungseinstellung nicht möglich. Möglicher Grund: Spaltenbreite zu gering. Bitte Einstellungen anpassen.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot merge documents that can be distributed by mail without a validmail address. </source>
+        <translation type="obsolete">können nicht ohne gültige E-Mail-Adresse zusammengeführt werden. </translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <translation type="obsolete">Durchsuchen des Dokuments abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <translation type="obsolete">Inhaltsverzeichnis wird aktualisiert. Sie haben folgende Möglichkeiten:</translation>
     </message>
 </context>
 <context>
@@ -8346,6 +8687,10 @@ Changes</source>
         <translation type="obsolete">Kursiv</translation>
     </message>
     <message>
+        <source>Kingsoft Spreadsheets Files(*.et) | *.et; |</source>
+        <translation type="obsolete">Kingsoft Spreadsheets Dateien(*.et) | *.et; |</translation>
+    </message>
+    <message>
         <source>Left Indent: %.2f Characters</source>
         <translation type="obsolete">Linker Einzug: %.2f Zeichen</translation>
     </message>
@@ -8762,8 +9107,8 @@ Changes</source>
         <translation type="obsolete">Dokument enthält keine Kommentare oder aufgezeichneten Änderungen.</translation>
     </message>
     <message>
-        <source>This function is provided in WPS Office Professional.</source>
-        <translation type="obsolete">Diese Funktion wird in WPS Office Professional unterstützt.</translation>
+        <source>This function is provided in Kingsoft Office Professional.</source>
+        <translation type="obsolete">Diese Funktion wird in Kingsoft Office Professional unterstützt.</translation>
     </message>
     <message>
         <source>This is an invalid selection.</source>
@@ -8834,10 +9179,6 @@ Changes</source>
         <translation type="obsolete">Inhaltsverzeichnis aktualisieren</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
-        <translation type="obsolete">WPS Spreadsheets Dateien(*.et) | *.et; |</translation>
-    </message>
-    <message>
         <source>Whole Page</source>
         <translation type="obsolete">Ganze Seite</translation>
     </message>
@@ -8896,6 +9237,14 @@ Changes</source>
     <message>
         <source>then click or drag the mouse in the document. Please select the original text box and select Create Text Box Link again.</source>
         <translation type="obsolete">dann mit der Maus in das Dokument ziehen. Nun Original-Textfeld auswählen und erneut &apos;Textfeld-Link erstellen&apos; wählen.</translation>
+    </message>
+    <message>
+        <source>This function is provided in WPS Office Professional.</source>
+        <translation type="obsolete">Diese Funktion wird in WPS Office Professional unterstützt.</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
+        <translation type="obsolete">WPS Spreadsheets Dateien(*.et) | *.et; |</translation>
     </message>
 </context>
 </TS>

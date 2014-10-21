@@ -1,0 +1,997 @@
+﻿[TIPS]
+3DColor.title=3-D Color
+3DColor.content=Fill the selected 3-D shape with color.\n\nClick the arrow to select from different 3-D colors.
+
+3DColor2.title=3-D Color
+3DColor2.content=Click the arrow to select from different 3-D colors.
+
+3DDepthMenu.title=Depth
+3DDepthMenu.content=Change the height of the selected 3-D shape.
+
+3DOnOff.title=3-D On/Off
+3DOnOff.content=Turn on or off the 3-D effect applied to the shape.
+
+3DStylePalette.title=3-D Effects
+3DStylePalette.content=Add a 3-D effect to the shape.
+
+3DSurfaceMenu.title=Surface
+3DSurfaceMenu.content=Choose a surface effect for the selected 3-D shape in the document.
+
+3DTiltDown.title=Tilt Down
+3DTiltDown.content=Tilt the shape forward.
+
+3DTiltLeft.title=Tilt Left
+3DTiltLeft.content=Tilt the shape to the left.
+
+3DTiltRight.title=Tilt Right
+3DTiltRight.content=Tilt the shape to the right.
+
+3DTiltUp.title=Tilt Up
+3DTiltUp.content=Tilt the shape backward.
+
+AdvancedFilter.title=Advanced Filter
+AdvancedFilter.content=Specify complex criteria to limit which records are included in the result set of a query.
+
+Align.title=Align
+Align.content=Align the edges of multiple selected objects.\n\nYou can also center them or distribute them evenly across the page.
+
+AlignCenter.title=Center
+AlignCenter.content=Center text.
+
+AlignLeft.title=Align Text Left
+AlignLeft.content=Align text to the left.
+
+AlignRight.title=Align Text Right
+AlignRight.content=Align text to the right.
+
+AlignmentFormatCells.title=Format Cells: Alignment
+AlignmentFormatCells.content=Show the Alignment tab of the Format Cells dialog box.
+AlignmentFormatCells.img=ETAlignmentFormatCells
+
+AllBorders.title=All Borders
+AllBorders.content=Apply borders to the currently selected cells.
+
+AllFunction.title=All Functions
+AllFunction.content=Browse and select from the list that contains all of the functions.
+
+AllowEditRanges.title=Allow Users to Edit Ranges
+AllowEditRanges.content="Allow specific people to edit ranges of cells in a protected workbook or sheet.\n\nBefore using this feature, first set security on the sheet by using the protect sheet command."
+
+ArtisticWordAlignment.title=Alignment
+ArtisticWordAlignment.content=Set alignment to individual lines of multi-line WordArt in document.
+
+AutoFilter.title=AutoFilter
+AutoFilter.content="Enable filtering of the selected cells.\n\nOnce filtering is turned on, click the arrow to choose a filter for the column."
+
+AutoSum.title=AutoSum
+AutoSum.content=Display the sum of the selected cells directly after the selected cells.
+AutoSum.img=ETAutoSum
+
+AutoVersion.title=Enable Auto Backup
+AutoVersion.content="Enable auto backup for the current document, save backup file to File Safe each time the document is closed."
+
+Autobackup.title=File Safe
+Autobackup.content=A brief introduction to File Safe.
+
+Average.title=Average
+Average.content=Returns the average (arithmetic mean) of the arguments.
+
+Bold.title=Bold
+Bold.content=Make the selected text bold.
+
+BookProtection.title=Protect Workbook
+BookProtection.content="Prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets."
+
+BottomBorder.title=Bottom Border
+BottomBorder.content=Apply borders to the currently selected cells.
+
+BottomDoubleBorder.title=Bottom Double Border
+BottomDoubleBorder.content=Apply borders to the currently selected cells.
+
+BringForward.title=Bring Forward
+BringForward.content=Bring the selected object forward so that it is hidden by fewer objects that are in front of it.
+
+BringForward2.title=Bring Forward
+BringForward2.content=Bring the selected objects forward one level or to the front of all objects.
+
+CTB_DesignMode.title=Design Mode
+CTB_DesignMode.content=Enter design mode to edit controls' names and functions.
+
+CTB_MoreControls.title=More Controls
+CTB_MoreControls.content=Click here to insert a control from the set of controls available on this computer.
+
+CTB_Property.title=Control Properties
+CTB_Property.content=View and modify properties for the selected control.
+
+CTB_ViewCode.title=View Code
+CTB_ViewCode.content=Show Visual Basic Editor to edit the code of the selected controls.
+
+CalculateSheet.title=Calculate Sheet
+CalculateSheet.content=Calculate the current sheet now.\nThis is only necessary if automatic calculation has been turned off.
+
+Camera.title=Camera
+Camera.content=Link cells or cell range to drawing objects. Changes made to data in cells of the worksheet will be automatically shown in drawing objects.
+
+ChangeChartType.title=Change Chart Type
+ChangeChartType.content=Change the current chart type.
+
+ChangePicture.title=Change Picture
+ChangePicture.content="Change to a different picture, preserving the formatting and size of the current picture."
+
+CharacterSpacing.title=WordArt Character Spacing
+CharacterSpacing.content=Change the spacing between the letters of the selected WordArt text.
+
+Chart.title=Create Chart
+Chart.content=Show the Chart Type dialog box to select from options such as Chart Type to insert.
+Chart.img=ETChart
+
+ChartObjects.title=Chart Objects
+ChartObjects.content=Select a chart element so that you can format it.
+
+ChineseTranslation.title=Simplified to Traditional Chinese
+ChineseTranslation.content=Set Simplified to Traditional Chinese translation based upon the character or word.
+
+CircularReferences.title=Circular References
+CircularReferences.content=Show the Circular References dialog box. You can search and locate all cells that contain circular references in the workbook.\n\nDouble-click an item in the list of results to switch the corresponding cell.
+
+Clear.title=Clear
+Clear.content="Delete everything from the cell, or selectively remove the formatting, the contents, or the comments."
+
+ClearFilter.title=Show All
+ClearFilter.content=Clear the filter and sort state for the current range of data.
+
+ClearTableStyle.title=Clear Table Style
+ClearTableStyle.content=Clear table style of selected cells.
+
+CloseDevelopmentTools.title=Close
+CloseDevelopmentTools.content=Click here to hide the Development Tool tab.
+
+CloseOtherWindow.title=Close Other Windows
+CloseOtherWindow.content=Close all other windows except the current one.
+
+CloseWindow.title=Close Window
+CloseWindow.content=Close the current window.
+
+ColumnsCenter.title=Across Center
+ColumnsCenter.content="Select continuous cells in one row or multiple rows, set the content of the cells to the center."
+
+ComAddin.title=COM Add-Ins
+ComAddin.content=Add or delete the available COM Add-Ins.
+
+CommaStyle.title=Comma Style
+CommaStyle.content=Display the value of the cell with a thousands separator.
+
+CompressPictures.title=Compress Pictures
+CompressPictures.content=Compress the selected picture or all pictures in the worksheet to reduce size.
+
+ConditionalFormat.title=Conditional Formatting
+ConditionalFormat.content="Visually explore and analyze data, detect critical issues, and identify patterns and trends."
+
+Consolidate.title=Consolidate
+Consolidate.content=Combine values from multiple ranges into one new range.
+
+Copy.title=Copy
+Copy.content=Copy the selection and put it on the system Clipboard.
+
+Count.title=Count
+Count.content=Count the number of cells in a column that contain numbers.
+
+Currency.title=Currency
+Currency.content="Choose an alternate currency format for the selected cell.\n\nFor instance, choose Euros instead of Dollars."
+
+Cut.title=Cut
+Cut.content=Cut the selection and put it on the system Clipboard.
+
+DataDetailedSettings.title=DataDetailedSettings Title
+DataDetailedSettings.content=DataDetailedSettings Content
+
+DataGroup.title=Group
+DataGroup.content=Tie a range of cells together so that they can be collapsed or expanded.
+DataGroup.img=ETDataGroup
+
+DataSort.title=Sort
+DataSort.content=Show the Sort dialog box to sort data based on several criteria at once.
+
+DataTable.title=Data Table
+DataTable.content=Add a data table to the chart.
+
+DataUngroup.title=Ungroup
+DataUngroup.content=Ungroup a range of cells that were previously grouped.
+
+DataUngroup2.title=Ungroup
+DataUngroup2.content=Ungroup a range of cells that were previously grouped.
+
+DecreaseDecimal.title=Decrease Decimal
+DecreaseDecimal.content=Show less precise values by showing fewer decimal places.
+
+DecreaseIndent.title=Decrease Indent
+DecreaseIndent.content=Decrease the margin between the border and the text in the cell.
+
+DeleteComment.title=Delete
+DeleteComment.content=Delete the selected comment.
+
+DeleteRange.title=Delete cells
+DeleteRange.content="Delete the cells, rows, or columns in worksheet."
+
+DeleteRange2.title=Delete cells
+DeleteRange2.content="Click here to delete cells, rows, or the entire worksheet."
+
+DetailedSettings_Data.title=Settings
+DetailedSettings_Data.content=Change the advanced settings of outline.
+
+DetailedSettings_DrawingTools.title=Settings
+DetailedSettings_DrawingTools.content=Change the settings of shape formatting.
+
+DetailedSettings_Home.title=Settings
+DetailedSettings_Home.content=Change the settings of cell formatting.
+
+DetailedSettings_Layout.title=Settings
+DetailedSettings_Layout.content=Change the settings of page setup.
+
+DetailedSettings_PictureTool.title=Settings
+DetailedSettings_PictureTool.content=Change the settings of picture formatting.
+
+DetailedSettings_WordArt.title=Settings
+DetailedSettings_WordArt.content=Change the settings of WordArt formatting.
+
+DevelopmentTools.title=Developer
+DevelopmentTools.content=DevelopmentTools Content
+
+Direction.title=Direction
+Direction.content=Choose the direction effect of the selected 3-D Shape.
+
+DisplayGridlines.title=View Gridlines
+DisplayGridlines.content=Show the lines between rows and columns in the sheet to make editing and reading easier.\n\nThese lines will not print unless Print is also checked.
+
+DisplayHeadings.title=View Headings
+DisplayHeadings.content=Show row and column headings. \n\nRow headings are the row numbers to the side of the sheet. \n\nColumn headings are the letters or numbers that appear above the columns on a sheet.
+
+DrawBorder.title=Draw Border
+DrawBorder.content="To draw border line, click this option and drag the mouse to draw.\n\nPress Esc on the keyboard or click this option again to exit the drawing mode."
+
+DrawGrid.title=Draw Border Grid
+DrawGrid.content="To draw border grid,click this option and drag the mouse to draw.\n\nPress Esc on the keyboard or click this option again to exit the drawing mode."
+
+DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
+DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+
+Duplicates.title=Duplicates
+Duplicates.content="Highlight, Reject Input or Remove duplicate rows from a sheet.\n\nYou can specify which columns should be checked for duplicate information."
+
+DynamicShape.title=Insert Shapes
+DynamicShape.content="Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts."
+
+EDRProperties.title=Data Range Properties
+EDRProperties.content="Change the external data source names, number format and layout."
+
+EditCloumns.title=Formula Bar
+EditCloumns.content="View the formula bar, in which you can enter text and formulas into cells."
+EditCloumns.img=EditCloumns
+
+EditComment.title=Edit Comment
+EditComment.content=Edit the selected comment.
+
+EditCrossBookLinks.title=Edit Links
+EditCrossBookLinks.content="In order to update data or delete links, view all the files that have been linked to this workbook."
+
+EditOleDBQuery.title=Edit OLE DB query
+EditOleDBQuery.content="Select the command type, input a relevent query statement and filter the data imported."
+
+EditPoints.title=Edit Points
+EditPoints.content=Edit the wrap points to change the shape.
+
+EditWordArtText.title=Edit Text
+EditWordArtText.content=Edit the text of the selected WordArt.
+
+EquationEditor.title=Insert Equation
+EquationEditor.content=Insert mathematical equations using equation editor.
+EquationEditor.img=ETEquationEditor
+
+Eraseborder.title=Erase Border
+Eraseborder.content="To erase border, click this option and drag the mouse to erase.\n\nPress Esc on the keyboard or click this option again to exit the erasing mode."
+
+EvaluateFormula.title=Evaluate Formula
+EvaluateFormula.content=Show the Evaluate Formula dialog box to debug a formula by evaluating each part of the formula individually.
+
+ExitPreview.title=Exit
+ExitPreview.content=Exit Print Preview and return to the document-editing mode.
+
+ExplorBackupDir.title=Explore File Safe
+ExplorBackupDir.content=View backup files and open or recover the backup files for a certain document.
+
+ExplorVersion.title=View Backup Histories
+ExplorVersion.content="View the backup record history of the current document to open, delete or restore the files."
+
+FTB_EditCode.title=Edit Code
+FTB_EditCode.content=Start the visual basic editor to edit the selected form code.
+
+FTB_Property.title=Control Properties
+FTB_Property.content="Set the selected form object properties, such as font and size."
+
+Fill.title=Fill
+Fill.content="According to certain rules, you can fill the contents of a cell in any direction to adjacent cells."
+
+FillColor.title=Fill Color
+FillColor.content=Color the background of selected cells.\n\nClick the arrow to select a different background color.
+
+FillColor2.title=Fill Color
+FillColor2.content=Click the arrow to select a different background color.
+
+Financial.title=Financial
+Financial.content=Browse and select from a list of financial functions.
+
+Find.title=Find and Replace
+Find.content="Find text in the workbook.\n\nClick the arrow to choose other options, such as Go To."
+
+FontColor.title=Text Color
+FontColor.content=Change the text color.\n\nClick the arrow to select a different text color.
+
+FontColor2.title=Text Color
+FontColor2.content=Click the arrow to select a different text color.
+
+FontFormatCells.title=Format Cells: Font
+FontFormatCells.content=Show the Font tab of the Format Cells dialog box.
+FontFormatCells.img=ETFontFormatCells
+
+FontName.title=Font
+FontName.content=Change the font face.
+
+FontSize.title=Font Size
+FontSize.content=Change the font size.
+
+FormatChartObject.title=Format Selection
+FormatChartObject.content=Show the Format dialog box of chart objects. You can use detailed settings for chart options.
+
+FormatObject.title=Format Object
+FormatObject.content=Show the Format Object dialog box.
+FormatObject.img=ETFormatObject
+
+FormatPainter.title=Format Painter
+FormatPainter.content=Copy formatting from one place and apply it to another.\n\nDouble-click this button to apply the same formatting to multiple places in the document.
+
+FormatStyle.title=Format Style
+FormatStyle.content="Make different combinations of the cell formats, such as number or alignment formats, then generate these formats into one."
+
+FreezePanes.title=Freeze/Unfreeze Panes
+FreezePanes.content=Keep a portion of the sheet visible while the rest of the sheet scrolls. (You can cancel the lock to scroll through the whole worksheet).
+
+FullScreenMode.title=Full Screen
+FullScreenMode.content=View the workbook in full screen mode
+
+FuncCatDateAndTime.title=Date & Time
+FuncCatDateAndTime.content=Browse and select from a list of date and time functions.
+
+FuncCatMoreFunctions.title=More Functions
+FuncCatMoreFunctions.content="Browse and select from lists of statistical, engineering, and information functions."
+
+FuncCatText.title=Text Function
+FuncCatText.content=Browse and select from a list of text functions.
+
+Gallery.title=WPS Office Gallery
+Gallery.content="WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.\n\nWPS Gallery Online Sources require Internet connection."
+
+Group.title=Group
+Group.content=Group objects together so that they can be treated like a single object.
+
+GrowFont.title=Increase Font Size
+GrowFont.content=Increase the font size.
+
+HeaderFooter.title=Header and Footer
+HeaderFooter.content=Edit the header and footer of the document.\n\nThe information in the header or footer will appear at the top or bottom of each printed page.
+HeaderFooter.img=ETHeaderFooter
+
+HideDetail.title=Hide Detail
+HideDetail.content=Collapse a group of cells.
+
+HomeDetailedSettings.title=HomeDetailedSettings Title
+HomeDetailedSettings.content=HomeDetailedSettings Content
+
+Hyperlink.title=Insert Hyperlink
+Hyperlink.content="Create a link to a web page, a picture, or an e-mail address."
+
+ImportData.title=Import data
+ImportData.content=Import external data into the selected worksheet.
+
+IncreaseDecimal.title=Increase Decimal
+IncreaseDecimal.content=Show more precise values by showing more decimal places.
+
+IncreaseIndent.title=Increase Indent
+IncreaseIndent.content=Increase the margin between the border and the text in the cell.
+
+InsertClipArt.title=Insert ClipArt
+InsertClipArt.content=Insert ClipArt Content
+
+InsertComment.title=New Comment
+InsertComment.content=Add a comment to the worksheet about the selection.
+
+InsertFileObject.title=Insert Object from File
+InsertFileObject.content=Insert the selected file into document.
+
+InsertFunction.title=Insert Function
+InsertFunction.content=Edit the formula in the current cell by choosing functions and editing the arguments.
+
+InsertObject.title=Insert Object
+InsertObject.content=Show the Insert Object dialog box to select new file or file from local folder.
+
+InsertPageBreak.title=Page Breaks
+InsertPageBreak.content=Specify where a new page will begin in the printed copy.\n\nPage breaks are inserted above and to the left of the selection.
+
+InsertPictureFromFile.title=Insert Picture
+InsertPictureFromFile.content=Insert a picture from local folder.
+
+InsertRange.title=Insert Cells
+InsertRange.content="Insert cells, rows or columns into the worksheet."
+
+InsertRange2.title=Insert Cells
+InsertRange2.content="Click here to insert cells, rows or columns in the worksheet or add a whole new worksheet."
+
+InsertSymbol.title=Insert Symbol
+InsertSymbol.content="Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols."
+
+InsertTextboxHorizontal.title=Draw Horizontal Text Box
+InsertTextboxHorizontal.content=Insert a horizontal text box.
+
+InsertTextboxHorizontal2.title=Draw Text Box
+InsertTextboxHorizontal2.content=Click here to insert either horizontal or vertical text.
+
+InsertWordArt.title=Insert WordArt
+InsertWordArt.content=Show the WordArt Gallery dialog box to select a WordArt style and edit content.
+
+Italic.title=Italic
+Italic.content=Italicize the selected text.
+
+KOSCloudFeedbackTip.title=User Feedback
+KOSCloudFeedbackTip.content=Help us to improve WPS Office.
+
+KOSCloudInformationTip.title=User Guide
+KOSCloudInformationTip.content=How to use Office Space.
+
+KOSCreatecloudLinkTip.title=Just ten seconds! You can:
+KOSCreatecloudLinkTip.content=Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=UserName or password not match
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=Password is wrong
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=Password not match
+
+KOSOpenCloudFileTip.title=Open from Cloud Docs
+KOSOpenCloudFileTip.content=Modifications of documents in Cloud Docs will be directly saved.
+
+KOSRoamingfileTip.title=File Roaming
+KOSRoamingfileTip.content="Files opened will be automatically roamed to the cloud and all your devices.\n\nYou can start work at anytime and anywhere."
+
+KOSSaveFileTocloudTip.title=Save to Cloud Docs
+KOSSaveFileTocloudTip.content=Share with others for discussing, editing, and previewing documents online.
+
+KOSUserLoginCloudTextBtnTip.title=Sign In
+KOSUserLoginCloudTextBtnTip.content=Sign in WPS Office Cloud and upload your documents. You can edit the same document on other computers or cellphones and never lose it.
+
+KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
+KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+
+KOSUserLogoutCloudTip.title=Signed in
+KOSUserLogoutCloudTip.content=You have signed in WPS Office Cloud. Click to exit.
+
+LeftBorder.title=Left Border
+LeftBorder.content=Apply borders to the currently selected cells.
+
+Legend.title=Legend
+Legend.content=Show or hide the chart legend.
+
+Lighting.title=Lighting
+Lighting.content="Set the lighting direction and intensity for the selected 3-D shape. The latter includes bright, normal and dim."
+
+LoadMacro.title=Add-Ins
+LoadMacro.content=Manage the Add-Ins available for use with this file.
+
+LockCell.title=Lock Cell
+LockCell.content="If the worksheet is protected, the Lock Cell feature can protect data from being modified."
+
+Logical.title=Logical
+Logical.content=Browse and select from a list of logical functions.
+
+LookupAndReference.title=Lookup & Reference
+LookupAndReference.content=Browse and select from a list of lookup and reference functions.
+
+Macros.title=View Macros
+Macros.content="View the list of macros, from which you can run, create, or delete a macro."
+
+Margins.title=Margins
+Margins.content=Select the margin sizes for the entire document or the current section.
+
+MarkVersion.title=Manual Backup
+MarkVersion.content="Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file."
+
+MathAndTrig.title=Math & Trig
+MathAndTrig.content=Browse and select from a list of math and trigonometry functions.
+
+Max.title=Max
+Max.content=Returns the largest value in a set of values.
+
+MergeCenter.title=Merge and Center
+MergeCenter.content=Join the selected cells into one larger cell and centers the contents in the new cell.
+MergeCenter.img=ETMergeCenter
+
+MergeCenter2.title=Merge and Center
+MergeCenter2.content=Join the selected cells into one larger cell and centers the contents in the new cell.
+
+MergeColumns.title=Merge Across
+MergeColumns.content=Select and merge cells across one or multiple rows.
+
+MergeSelection.title=Merge Cells
+MergeSelection.content=Merge the selected cells into one cell.
+
+Min.title=Min
+Min.content=Returns the smallest number in a set of values.
+
+ModifyPivotTable.title=Modify PivotTable
+ModifyPivotTable.content=Change PivotTable data source and reset its display location.
+
+Morefunctions.title=More Functions
+Morefunctions.content="Browse and select from lists of statistical, engineering, cube, and information functions."
+
+NameCreate.title=Create Names
+NameCreate.content=Automatically generate names from the selected cells.\n\nMany people choose to use the text in the top row or the leftmost column of a selection.
+
+NameDefine.title=Define Name
+NameDefine.content="Name cells so that you can refer to them in formulas by that name.\n\nFor example, select the cells A1:A10, and name this cell range \"test\". \n\nNames can be used in formulas to make them easier to understand."
+
+NameManager.title=Name Manager
+NameManager.content="Create, edit, delete, and find all the names used in the workbook\n\nNames can be used in formulas as substitutes for cell references.\n\nFor example: =SUM(MySales) instead of =SUM(A1:A20)."
+
+NamePaste.title=Paste Name
+NamePaste.content=Select a name that is being used in the current workbook and paste it into the current formula.
+
+NewWindow.title=New Window
+NewWindow.content=Open a new window containing a view of the current worksheet.
+
+NoBorder.title=No Border
+NoBorder.content=Apply borders to the currently selected cells.
+
+NormalViewEt.title=Normal View
+NormalViewEt.content=View the worksheet in Normal view.
+
+NudgeShadowDown.title=Nudge Shadow Down
+NudgeShadowDown.content=Move the shadow of the selected object down.
+
+NudgeShadowLeft.title=Nudge Shadow Left
+NudgeShadowLeft.content=Move the shadow of the selected object to the left.
+
+NudgeShadowRight.title=Nudge Shadow Right
+NudgeShadowRight.content=Move the shadow of the selected object to the right.
+
+NudgeShadowUp.title=Nudge Shadow Up
+NudgeShadowUp.content=Move the shadow of the selected object up.
+
+NumberFormatCells.title=Format Cells: Number
+NumberFormatCells.content=Show the Number tab of the Format Cells dialog box.
+NumberFormatCells.img=ETNumberFormatCells
+
+ObjectSelect.title=Selection Pane
+ObjectSelect.content=Show the Selection Pane task window to easily find a single object or set its order and visibility.
+ObjectSelect.img=ETObjectSelect
+
+OtherBorders.title=Other Borders
+OtherBorders.content=You can use detailed settings to select cell borders.
+
+OutlineSettings.title=Outline Settings
+OutlineSettings.content=Show the Outline dialog box.
+
+OutsideBorders.title=Outside Borders
+OutsideBorders.content=Apply borders to the currently selected cells.
+
+PTFieldSettings.title=Field Settings
+PTFieldSettings.content=Show the Field Settings dialog box.
+
+PTHide.title=Hide
+PTHide.content="Hide the PivotTable fields in page, row, column area or items in the fields."
+
+PTHideDetail.title=Hide Detail
+PTHideDetail.content=Hide all items of the active field.
+
+PTHideFieldList.title=Hide Field List
+PTHideFieldList.content=Show or hide the field list.\n\nThe field list allows you to add and remove fields.
+
+PTRefreshData.title=Refresh Data
+PTRefreshData.content=Update the information from the data source in the workbook.
+
+PTShowDetail.title=Show Detail
+PTShowDetail.content=Show all items of the active field.
+
+PTSortAndTopTen.title=Sort
+PTSortAndTopTen.content=Set the auto sort option of the PivotTable field.
+
+PTSubtotals.title=Subtotals
+PTSubtotals.content=Show or hide subtotals.
+
+PTTableOptions.title=PivotTable Options
+PTTableOptions.content=Show the PivotTable Options dialog box.
+
+PageBreakPreview.title=Page Break Preview
+PageBreakPreview.content=View a preview of where pages will break when this workbook is printed.
+
+PageLayoutDetailedSettings.title=PageLayoutDetailedSettings Title
+PageLayoutDetailedSettings.content=PageLayoutDetailedSettings Content
+
+PageOrientation.title=Page Orientation
+PageOrientation.content=Switch the pages between portrait and landscape layouts.
+
+PageSetup.title=Page Setup
+PageSetup.content=Show the page setup dialog box.
+PageSetup.img=ETPageSetup
+
+PageSize.title=Page Size
+PageSize.content="Select a paper size for the current section.\n\nTo apply a specific paper size to all sections in the document, click to customize paper size."
+
+PageZoom.title=Page Zoom
+PageZoom.content="Scale the width or height of the printed output to fit a maximum number of pages, or to a percentage of its actual size."
+
+PercentStyle.title=Percent Style
+PercentStyle.content=Display the value of the cell as a percentage.
+
+PictureAdjust.title=Adjust Picture
+PictureAdjust.content=Increase or decrease the contrast and brightness of the selected picture.
+
+PictureColor.title=Color
+PictureColor.content="Change the color of the selected picture to give it a black and white, washout or transparent color."
+
+PictureCrop.title=Crop
+PictureCrop.content=Crop the picture to remove any unwanted parts.
+
+PictureFillColor.title=Picture Fill
+PictureFillColor.content="Fill the selected object with a color, gradient, pattern and picture.\n\nClick the arrow to select different fill effects."
+
+PictureFillColor2.title=Picture Fill
+PictureFillColor2.content=Click the arrow to select different fill modes.
+
+PictureLineColor.title=Picture Outline
+PictureLineColor.content="Set picture outline color,outline width and outline style for the selected object.\n\nClick the arrow to select detailed settings for the outline."
+
+PictureLineColor2.title=Picture Outline
+PictureLineColor2.content=Click the arrow to select detailed settings for the outline.
+
+PictureSetTransparentColor.title=Set Transparent Color
+PictureSetTransparentColor.content="Make a color in the current picture transparent.\n\nWhen you click a pixel in the current graphic, all pixels of that specific color become transparent."
+
+PictureSize.title=Picture Size
+PictureSize.content="Change the size, rotation degree and zoom scale of the selected shape."
+
+PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
+PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+
+PivotTable.title=Insert PivotTable
+PivotTable.content=Click here to summarize data using a PivotTable.\n\nPivotTable make it easy to arrange and summarize complicated data and drill down on details.
+
+PivotTableDelete.title=Delete PivotTable
+PivotTableDelete.content=Delete the currently selected PivotTable.
+
+PivotTableOrder.title=Order
+PivotTableOrder.content=Move the row or column area of a PivotTable to the top or bottom.
+
+PrevLandscape.title=Landscape
+PrevLandscape.content=Set the worksheet pages to landscape.
+
+PrevNextPage.title=Next Page
+PrevNextPage.content=Move to the next print page of the current worksheet.
+
+PrevPortrait.title=Portrait
+PrevPortrait.content=Set the worksheet pages to portrait.
+
+PrevPreviousPage.title=Previous Page
+PrevPreviousPage.content=Move to the previous print page of the current worksheet.
+
+Print.title=Print
+Print.content="Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom."
+
+Print2.title=Print
+Print2.content="Click here to set details of printing, or use default settings to print directly."
+
+PrintArea.title=Print Area
+PrintArea.content="To select a specific area of sheet for printing, rather than completely printed, the print results can be viewed in Print Preview."
+
+PrintDirect.title=Print Directly
+PrintDirect.content=Send the document directly to the default printer without making changes.
+
+PrintGridlines.title=Print Gridlines
+PrintGridlines.content=Print the gridlines between the columns and the rows in the worksheet.
+
+PrintHeadings.title=Print Headings
+PrintHeadings.content=Print row and column headings.\n\nRow headings are the row numbers to the side of the sheet.\n\nColumn headings are the letters or numbers that appear above the columns on a sheet.
+
+PrintLayout.title=Page Layout
+PrintLayout.content=View the workbook as it will appear on the printed page.
+
+PrintNormalView.title=Normal View
+PrintNormalView.content=Exit print preview and then enter the normal view.
+
+PrintPreview.title=Print Preview
+PrintPreview.content=Preview and make changes to pages before printing.
+
+PrintPreviewMargins.title=Margins
+PrintPreviewMargins.content=Specify the distance between the content of the worksheet and the edge of the printed page.
+
+PrintPreviewZoomCombo.title=Zoom
+PrintPreviewZoomCombo.content=Select the zoom size of the current worksheet.
+
+PrintTitle.title=Print Titles
+PrintTitle.content=Specify rows and columns to repeat on each printed page.
+
+ProtectAndShare.title=Protect and Share Workbook
+ProtectAndShare.content=Share the workbook and protect it with a password at the same time.\n\nThe password will prevent others from turning off change tracking.
+
+ProtectSheet.title=Protect Sheet
+ProtectSheet.content="Prevent unwanted changes to the data in a sheet by specifying what information can be changed.\n\nFor example, you can prevent people from editing locked cells or changing the formatting of the document.\n\nYou can specify a password that can be entered to unprotect the sheet and allow these changes."
+
+RB_Clipboard.title=Clipboard
+RB_Clipboard.content=Check for the items that are copied to the Clipboard.
+RB_Clipboard.img=ETClipboard
+
+ReadingLayout.title=Reading Layout
+ReadingLayout.content=Convenient to check related data which are in the same row or column with the current cell.\n\nClick the arrow to pick a different color.
+
+ReadingLayout2.title=Reading Layout
+ReadingLayout2.content=Click the arrow to pick a different color.
+
+ReapplyFilter.title=Reapply
+ReapplyFilter.content=Reapply the filter and sort in the current range.\n\nNew or modified data in the column will not be filtered or sorted until you click Reapply.
+
+RecalculateBook.title=Recalculate Workbook
+RecalculateBook.content=Calculate the entire workbook now.\n\nThis is only necessary if automatic calculation has been turned off.
+
+RecentLineWrap.title=Wrap Text
+RecentLineWrap.content=Make all content visible within a cell by displaying it on multiple lines.
+RecentLineWrap.img=ETRecentLineWrap
+
+RecenttlyUsed.title=Recently Used
+RecenttlyUsed.content=Browse and select from a list of recently used functions.
+
+RecordList.title=Form
+RecordList.content="After selecting the title of the column, you can input, search, or delete data via the data form."
+
+RecordMacro.title=Record Macro
+RecordMacro.content=Show Record Macro dialog box and start recording macro.
+
+Refresh.title=Refresh Data
+Refresh.content=Update all the information in the workbook that is coming from a data source.
+
+RefreshAll.title=Refresh All
+RefreshAll.content=Update all the information in the workbook that is coming from a data source.
+
+RelativeReference.title=Use Relative References
+RelativeReference.content=Use relative references so that macros are recorded with actions relative to the initial selected cell.
+
+ResetPicture.title=Reset Picture
+ResetPicture.content=Discard all of the formatting changes you have made to this picture.
+
+RightBorder.title=Right Border
+RightBorder.content=Apply borders to the currently selected cells.
+
+RotateRight.title=Rotate
+RotateRight.content=Rotate or flip the selected object.
+
+RowsAndColumn.title=Rows and Columns
+RowsAndColumn.content="Click here to operate the rows and columns. You can adjust the height and width, Fill or Hide Rows and Columns."
+
+RunMacro.title=View Macros
+RunMacro.content="Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+
+RunMacro2.title=View Macros
+RunMacro2.content="Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+
+SameLetterHeights.title=WordArt Same Letter Heights
+SameLetterHeights.content=Make all the letters of the selected WordArt exactly the same height.
+
+Security.title=Macro Security
+Security.content=Customize the macro security settings.
+
+SendBackward.title=Send Backward
+SendBackward.content=Send the selected object backward so that it is hidden by the objects that are in fornt of it.
+
+SendBackward2.title=Send Backward
+SendBackward2.content=Send the selected object back one level or to the back of all objects.
+
+SeriesInColumns.title=Switch Column
+SeriesInColumns.content=Chart series are created in columns.
+
+SeriesInRows.title=Switch Row
+SeriesInRows.content=Chart series are created in rows.
+
+ShadowColor.title=Shadow Color
+ShadowColor.content=Set the shadow color of the selected object.\n\nClick the arrow to select different shadow colors.
+
+ShadowColor2.title=Shadow Color
+ShadowColor2.content=Click the arrow to select different shadow colors.
+
+ShadowOnOff.title=Shadow On/Off
+ShadowOnOff.content=Turn on or off the shadow effect of the selected object.
+
+ShadowPalette.title=Shadow Effects
+ShadowPalette.content=Set shadow effect to the selected object.
+
+ShapeFillColor.title=Shape Fill
+ShapeFillColor.content="Fill the selected shape with a solid color, gradient, picture, or texture.\n\nClick the arrow to select different fill effects."
+
+ShapeFillColor2.title=Shape Fill
+ShapeFillColor2.content=Click the arrow to select different fill effects.
+
+ShapeLineColor.title=Shape Outline
+ShapeLineColor.content="Set the color, width, and line style for the outline of the selected object.\n\nClick the arrow to select detailed settings for the outline."
+
+ShapeLineColor2.title=Shape Outline
+ShapeLineColor2.content=Click the arrow to select detailed settings for the outline.
+
+ShapeSize.title=Shape Size
+ShapeSize.content="Set the size, rotation degrees and zoom for the selected shape."
+
+ShareWorkbook.title=Share Workbook
+ShareWorkbook.content=Allow multiple people to work in a workbook at the same time.\n\nThe workbook should be saved to a network location where multiple people can open it.\n\nWorkbooks containing tables cannot be shared.
+
+ShowDetail.title=Show Detail
+ShowDetail.content=Show all items of the active field.
+
+ShrinkFont.title=Decrease Font Size
+ShrinkFont.content=Decrease the font size.
+
+SortAndFilter.title=Sort
+SortAndFilter.content=Arrange data so that it is easier to analyze.\n\nYou can sort the selected data in ascending or descending order.
+
+SortAscending.title=Ascending
+SortAscending.content=Sort the selection so that the lowest values are at the top of the column.
+
+SortDescending.title=Descending
+SortDescending.content=Sort the selection so that the highest values are at the top of the column.
+
+SourceData.title=Select Data
+SourceData.content=Change the data range included in the chart.
+
+SpellCheck.title=Spell Check
+SpellCheck.content=Check the spelling of the text in the current worksheet.
+
+SplitPanes.title=Split/Unsplit
+SplitPanes.content=Split the window into multiple resizable panes containing views of your worksheet.\n\nYou can use this feature to view multiple distant panes of your worksheet at once.
+
+StopAutoVersion.title=Stop Auto Backup
+StopAutoVersion.content=Stop the current workbook from auto saving.
+
+StopRecordMacro.title=Stop Recording
+StopRecordMacro.content=Stop recording the macro.
+
+Subtotals.title=Subtotal
+Subtotals.content=Total several rows of related data together by automatically inserting subtotals and totals for the selected cells.
+
+SwitchWindow.title=Switch Windows
+SwitchWindow.content=Switch to a different currently open window.
+
+TaskWindow.title=Task Window
+TaskWindow.content=Show or hide the task window in the worksheet.
+
+TextFill.title=Text Color
+TextFill.content=Change the text color.\n\nClick the arrow to select a different text color.
+
+TextFill2.title=Text Color
+TextFill2.content=Click the arrow to select a different text color.
+
+TextOrientation.title=Orientation
+TextOrientation.content=Rotate text to a diagonal angle or vertical orientation.\n\nThis is often used for labeling narrow columns.\n\nClick the currently selected text orientation again to reset the text back to normal orientation.
+
+TextToColumns.title=Text to Columns
+TextToColumns.content="Separate the contents of one Spreadsheets cell into separate columns.\n\nFor example, you can separate a column of full names into separate first and last name columns.\n\nIn Writer, use this feature to convert the selected text into a table, splitting the text into columns at each comma, period, or other character you specify."
+
+ThickBottomBorder.title=Thick Bottom Border
+ThickBottomBorder.content=Apply borders to the currently selected cells.
+
+ThickBoxBorder.title=Thick Box Border
+ThickBoxBorder.content=Apply borders to the currently selected cells.
+
+TopAndBottomBorder.title=Top and Bottom Border
+TopAndBottomBorder.content=Apply borders to the currently selected cells.
+
+TopAndDloubleBottomBorder.title=Top and Double Bottom Border
+TopAndDloubleBottomBorder.content=Apply borders to the currently selected cells.
+
+TopAndThickBottomBorder.title=Thick Top and Bottom Border
+TopAndThickBottomBorder.content=Apply borders to the currently selected cells.
+
+TopBorder.title=Top Border
+TopBorder.content=Apply borders to the currently selected cells.
+
+TrackChanges.title=Track Changes
+TrackChanges.content="Track all changes made to the workbook, including insertions, deletions, and formatting changes."
+
+TranslateToSimplifiedChinese.title=Traditional Chinese to Simplified Chinese
+TranslateToSimplifiedChinese.content=Translate Traditional Chinese into Simplified Chinese.
+
+TranslateToTraditionalChinese.title=Simplified Chinese to Traditional Chinese
+TranslateToTraditionalChinese.content=Translate Simplified Chinese into Traditional Chinese.
+
+Underline.title=Underline
+Underline.content=Underline the selected text.
+
+VAlignBottom.title=Bottom Align
+VAlignBottom.content=Align text to the bottom of the cell.
+
+VAlignCenter.title=Middle Align
+VAlignCenter.content=Align text so that it is centered between the top and bottom of the cell.
+
+VAlignTop.title=Top Align
+VAlignTop.content=Align text to the top of the cell.
+
+Validation.title=Data Validation
+Validation.content="Prevent invalid data from being entered into a cell\n\nFor example, you could reject invalid data or numbers greater than 1000.\n\nYou can also force input to be chosen from a dropdown list of values you specify."
+
+VerticalText.title=WordArt Vertical Text
+VerticalText.content="Draw the text vertically, with the letters stacked on top of each other."
+
+VisualBasicEditor.title=Visual Basic Editor
+VisualBasicEditor.content=Open Visual Basic Editor to edit macros.
+
+What-If%20Analysis.title=What-If Analysis
+What-If%20Analysis.content=Goal Seek will find the right input when you know the result you want.\nWhat-If Analysis tool that finds the optimal value of a target cell by changing values in cells used to calculate the target cell.
+
+WindowReset.title=Arrange All
+WindowReset.content=Tile all open worksheets side-by-side under the same program window.
+
+WordArtDetailedSettings.title=WordArtDetailedSettings Title
+WordArtDetailedSettings.content=WordArtDetailedSettings Content
+
+WordArtFillColor.title=WordArt Fill
+WordArtFillColor.content="Fill the selected WordArt with a solid color, gradient, texture and picture.\n\nClick the arrow to fill the WordArt in different ways."
+
+WordArtFillColor2.title=WordArt Fill
+WordArtFillColor2.content=Click the arrow to fill the WordArt in different ways.
+
+WordArtGallery.title=WordArt Gallery
+WordArtGallery.content=Change the style of the selected WordArt.
+
+WordArtLineColor.title=WordArt Outline
+WordArtLineColor.content="Set the color, width and line style for the outline of the selected WordArt.\n\nClick the arrow to select detailed settings for the outline."
+
+WordArtLineColor2.title=WordArt Outline
+WordArtLineColor2.content=Click the arrow to select detailed settings for the outline.
+
+WordArtShapePalette.title=WordArt Shape
+WordArtShapePalette.content=Change the shape style of the selected WordArt.
+
+WordArtSize.title=WordArt Size
+WordArtSize.content="Set the size, rotation degree and scale of the selected WordArt."
+
+WorkSheet.title=Worksheet
+WorkSheet.content="Click here to modify the worksheet. You can Insert or Delete the worksheet, Rename the worksheet, or change the color of the worksheet tab."
+
+WorkSpace_Backup.title=WorkSpace Backup
+WorkSpace_Backup.content=WorkSpace_Backup Content
+
+Zoom.title=Zoom
+Zoom.content=Show the Zoom dialog box to specify the zoom level of the document.
+
+m_Format.title=Format
+m_Format.content="To change the format of the selected cells, convert text to Number or Hyperlink."
+
+sp_AutoSum.title=AutoSum
+sp_AutoSum.content=Display the sum of the selected cells directly after the selected cells.
+sp_AutoSum.img=ETAutoSum
+
+sp_AutoSum2.title=AutoSum
+sp_AutoSum2.content="Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells."
+
+sp_Paste.title=Paste
+sp_Paste.content=Paste the contents of the Clipboard.
+
+sp_Paste2.title=Paste
+sp_Paste2.content=Click here for more options such as pasting only the values.
+
+FormulaErrorCheck.title=Error Checking
+FormulaErrorCheck.content=Check for common errors that occur when using formulas.
+
+Protect_Eyes.title=Protect Eyes Mode
+Protect_Eyes.content=Open protect eyes mode, alleviate your eyes fatigue.
+
+Night_Mode.title=Night Mode Title
+Night_Mode.content=Open Night Mode, protect your eyes.
+
+Protect_Eyes_Night.title=Protect Eyes Mode/Night Mode
+Protect_Eyes_Night.content=Open/Close Protect Eyes Mode or Night Mode.

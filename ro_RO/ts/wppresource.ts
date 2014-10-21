@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ro_RO">
 <defaultcodec>UTF-8</defaultcodec>
@@ -190,23 +190,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change to Cycle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Pyramid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Radial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Target</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Venn</source>
+        <source>Cycle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -222,7 +206,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pyramid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reverse Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -353,10 +353,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Align / Distribute / Equalize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Align Bottom</source>
         <translation type="unfinished"></translation>
     </message>
@@ -378,6 +374,10 @@
     </message>
     <message>
         <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align or Distribute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -433,7 +433,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto Shapes</source>
+        <source>AutoShapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -449,15 +449,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -521,10 +521,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grid and Guides</source>
         <translation type="unfinished"></translation>
     </message>
@@ -533,7 +529,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Horizontal</source>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -545,11 +549,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Color</source>
+        <source>Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lines</source>
+        <source>Line Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -557,7 +561,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -589,6 +593,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Order</source>
         <translation type="unfinished"></translation>
     </message>
@@ -609,15 +621,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotate / Flip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Rotate Left 90°</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate or Flip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -645,11 +657,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow Settings</source>
+        <source>Shadow Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow Style</source>
+        <source>Shadow Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -733,10 +745,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shift</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -753,7 +761,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vertical</source>
+        <source>Vertical Text Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -905,7 +913,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number</source>
+        <source>Numbering</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1042,10 +1050,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grayscale</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1133,7 +1137,7 @@
         <translation>Pagina anterioară</translation>
     </message>
     <message>
-        <source>Print Skipped Slides</source>
+        <source>Print Hidden Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1145,7 +1149,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pure black and white</source>
+        <source>Pure Black and White</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1209,6 +1213,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Semitransparent Shadow</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1220,27 +1240,11 @@
         <source>Shadow On/Off</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>classics.slide_master_view</name>
     <message>
-        <source>Close</source>
+        <source>Close Master View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1299,15 +1303,11 @@ Master</source>
 <context>
     <name>classics.standard</name>
     <message>
-        <source>Covert to Simplified Chinese</source>
+        <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data Table</source>
+        <source>Convert to Traditional Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1323,19 +1323,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
+        <source>Formatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Homepage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Data Chart</source>
+        <source>Insert Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1347,11 +1339,15 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paste Special</source>
+        <source>Minisite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Print Directly</source>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1363,11 +1359,19 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text</source>
+        <source>Switch Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>With Text Format</source>
+        <source>Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS After-sale Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1409,7 +1413,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Columns</source>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1457,10 +1465,6 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select Column</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1500,11 +1504,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom (Curve)</source>
+        <source>Button (Curve)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom (Pour)</source>
+        <source>Button (Pour)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1742,11 +1746,13 @@ Master</source>
         <translation>Animaţie</translation>
     </message>
     <message>
-        <source>Animation Schemes</source>
+        <source>Animation
+Schemes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom Animation</source>
+        <source>Custom
+Animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1754,11 +1760,12 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transform</source>
+        <source>Transition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transition Effect</source>
+        <source>Transition
+Effects</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1769,7 +1776,8 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color Schemes</source>
+        <source>Color
+Schemes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1777,7 +1785,8 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit Slide Master</source>
+        <source>Edit
+Slide Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1785,7 +1794,8 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Page Setup</source>
+        <source>Page
+Setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1797,11 +1807,17 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Layout</source>
+        <source>Slide
+Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Orientation</source>
+        <source>Slide
+Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>import templates</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1812,11 +1828,12 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Table Style</source>
+        <source>Clear
+Table Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1858,7 +1875,8 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>COM Add-Ins</source>
+        <source>COM
+Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1878,7 +1896,8 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Control Properties</source>
+        <source>Control 
+Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1887,6 +1906,10 @@ Master</source>
     </message>
     <message>
         <source>Controls List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1938,7 +1961,8 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Visual Basic Editor</source>
+        <source>Visual Basic
+Editor</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2150,6 +2174,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Text Orientation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2158,15 +2186,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2179,10 +2207,6 @@ On</source>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2214,6 +2238,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2242,7 +2270,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2262,7 +2290,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Horizontal</source>
+        <source>Horizontal Text Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2306,7 +2334,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2335,6 +2363,10 @@ On</source>
     </message>
     <message>
         <source>More Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2378,11 +2410,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Selection Pane</source>
+        <source>Send Backward</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send Backward</source>
+        <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2391,14 +2423,6 @@ On</source>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2503,7 +2527,7 @@ On</source>
 <context>
     <name>ongmani.ct_file</name>
     <message>
-        <source>About Kingsoft Presentation</source>
+        <source>About WPS Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2511,11 +2535,31 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for Updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Encrypt</source>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2523,11 +2567,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feedback</source>
+        <source>Feedback and Product Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feedback and Product Information</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2540,34 +2584,6 @@ On</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office New features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Presentation File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KingsoftOffice</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2587,7 +2603,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Blank File</source>
+        <source>New Blank Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2599,11 +2619,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New from Templates</source>
+        <source>New from Other Templates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2611,15 +2627,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Other Formats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Package Presentation into compress file</source>
+        <source>Package into Compressed File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2635,15 +2647,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Product Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Product Management Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purchase Serial Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2655,11 +2667,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save To Klive</source>
+        <source>Save a Copy of the Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save a Copy of the Document</source>
+        <source>Seek Help via Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2671,11 +2683,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Online</source>
+        <source>Transfer to WPS Writer Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2683,14 +2691,46 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Microblog</source>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
-        <source>Kingsoft Presentation Help</source>
+        <source>WPS Presentation Help</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2765,7 +2805,8 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D Style</source>
+        <source>3-D
+Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2790,6 +2831,11 @@ On</source>
     </message>
     <message>
         <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2889,15 +2935,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Centered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2921,15 +2967,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2942,10 +2988,6 @@ On</source>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2985,6 +3027,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3001,11 +3047,12 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Color</source>
+        <source>Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Size</source>
+        <source>Format 
+Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3013,7 +3060,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format Painter</source>
+        <source>Formatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3030,11 +3077,12 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>From Current Slide</source>
+        <source>From Current 
+Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3051,14 +3099,6 @@ Slide</source>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Home_Shape Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Home_Shape Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3082,6 +3122,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3102,11 +3146,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Local Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3142,11 +3190,23 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No 3-D</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3202,11 +3262,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotate Left 90掳</source>
+        <source>Rotate Left 90°</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotate Right 90掳</source>
+        <source>Rotate Right 90°</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3234,11 +3294,16 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow Style</source>
+        <source>Shadow
+Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3266,11 +3331,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text</source>
+        <source>Text Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Box</source>
+        <source>Text Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3282,11 +3347,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ungroup</source>
+        <source>Unformatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unholding Fixed</source>
+        <source>Ungroup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3295,10 +3360,6 @@ Slide</source>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>With Text Format</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3344,22 +3405,23 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number</source>
+        <source>Numbering</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_insert</name>
     <message>
-        <source>Action Settings</source>
+        <source>Action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Background Music</source>
+        <source>Background
+Music</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3367,11 +3429,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data Table</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date/Time</source>
+        <source>Date and Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3387,11 +3445,8 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header/Footer</source>
+        <source>Header and 
+Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3407,15 +3462,19 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Data Chart</source>
+        <source>Insert Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3455,7 +3514,12 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Organization Chart</source>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organization
+Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3463,11 +3527,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Package into Folder</source>
+        <source>Package into Compressed File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Packge into zip</source>
+        <source>Package into Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3479,7 +3543,12 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Number</source>
+        <source>Slide
+Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3618,19 +3687,19 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3642,6 +3711,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3650,7 +3723,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3674,7 +3747,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OrgChart Layout</source>
+        <source>Organization Chart Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3690,10 +3763,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Smart Choice</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3706,11 +3775,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Font Color</source>
+        <source>Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextAdapted</source>
+        <source>Text Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3740,18 +3809,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add One Assistant</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add One Coworker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add One Subordinate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3764,7 +3821,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All OrgChart</source>
+        <source>All Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3792,11 +3849,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reset Shape</source>
+        <source>Level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ResetLayout</source>
+        <source>Reset Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3805,10 +3866,6 @@ Slide</source>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>level</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3851,6 +3908,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Adjust Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3883,6 +3944,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3895,7 +3960,8 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change Picture</source>
+        <source>Change
+Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3903,7 +3969,8 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Compress Pictures</source>
+        <source>Compress
+Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3915,19 +3982,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3951,6 +4014,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3967,11 +4034,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3995,7 +4058,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4011,7 +4082,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4043,6 +4114,30 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4055,19 +4150,8 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Picture Adjust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Size</source>
+        <source>Picture
+Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4079,7 +4163,8 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reset Picture</source>
+        <source>Reset
+Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4115,6 +4200,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow
 On/Off</source>
         <translation type="unfinished"></translation>
@@ -4124,31 +4213,7 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
+        <source>Shadow Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4194,7 +4259,8 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Frame Slides</source>
+        <source>Frame
+Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4222,7 +4288,8 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Header and Footer</source>
+        <source>Header and 
+Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4230,7 +4297,8 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next Page</source>
+        <source>Next
+Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4242,7 +4310,7 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outline view</source>
+        <source>Outline View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4250,7 +4318,8 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous Page</source>
+        <source>Previous
+Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4258,19 +4327,22 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Print Directly</source>
+        <source>Print
+Hidden Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Print Skipped Slides</source>
+        <source>Print 
+Directly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Printing Order</source>
+        <source>Printing
+Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pure black and white</source>
+        <source>Pure Black and White</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4286,7 +4358,7 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ZoomPercent</source>
+        <source>Zoom:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4307,35 +4379,33 @@ On/Off</source>
 <context>
     <name>ongmani.ct_review</name>
     <message>
-        <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Chinese Conversion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Simplified Chinese</source>
+        <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Traditional Chinese</source>
+        <source>Convert to Traditional Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete All Mark In Current Presentation</source>
+        <source>Delete 
+Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete All Mark In Current Slide</source>
+        <source>Delete All Mark in this Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete Comment</source>
+        <source>Delete All Mark on the Current Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit Comment</source>
+        <source>Edit
+Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4351,15 +4421,16 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Comment</source>
+        <source>New 
+Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next Comment</source>
+        <source>Next</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous Comment</source>
+        <source>Previous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4367,11 +4438,12 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Spellcheck Language</source>
+        <source>Show/Hide
+Mark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show/Hide Mark</source>
+        <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4390,19 +4462,23 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D Color</source>
+        <source>3-D
+Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D On/Off</source>
+        <source>3-D
+Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D Settings</source>
+        <source>3-D
+On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D Style</source>
+        <source>3-D 
+Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4470,6 +4546,22 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4487,39 +4579,22 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
+        <source>Shadow 
+Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4578,10 +4653,6 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Backdrop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Background</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4603,7 +4674,8 @@ Master View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete Master</source>
+        <source>Delete 
+Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4627,7 +4699,8 @@ Master View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Master Layout</source>
+        <source>Master 
+Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4639,24 +4712,23 @@ Master View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Slide
+        <source>New Slide 
 Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Slide Master</source>
+        <source>New Title 
+Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Title Master</source>
+        <source>Preserve 
+Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename Master</source>
+        <source>Rename 
+Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4707,14 +4779,24 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number</source>
+        <source>Numbering</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
-        <source>Custom Slide Shows</source>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom 
+Slide Shows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From
+Beginning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4727,15 +4809,12 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rehearse Timings</source>
+        <source>Rehearse 
+Timings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4743,7 +4822,12 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Up Slide Show</source>
+        <source>Set Up Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide
+Transition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4752,11 +4836,8 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speaker Notes</source>
+        <source>Speaker
+Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4803,6 +4884,10 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Alilgn Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arrange</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4827,7 +4912,7 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Columns</source>
+        <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4840,6 +4925,14 @@ Settings</source>
     </message>
     <message>
         <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4919,7 +5012,7 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Left</source>
+        <source>Margins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4927,11 +5020,24 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Merge Cells</source>
+        <source>Merge
+Cells</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4943,11 +5049,7 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rows/Columns</source>
+        <source>Rows and Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4979,7 +5081,8 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Split Cells</source>
+        <source>Split
+Cells</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4995,42 +5098,29 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Margin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Margin Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Margin Narrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Margin None</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Margin Normal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Margin Wide</source>
+        <source>Text
+Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Underline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Wide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
     <message>
-        <source>Arrange All</source>
+        <source>Arrange
+All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COM
+Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5051,27 +5141,17 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Developer Tools</source>
+        <source>Developer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fit</source>
+        <source>Fit to
+Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gridlines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizontal Tile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macro</source>
+        <source>Grid and
+Guides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5083,7 +5163,8 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Window</source>
+        <source>New
+Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5111,15 +5192,18 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Master</source>
+        <source>Slide 
+Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Sorter</source>
+        <source>Slide 
+Sorter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch Window</source>
+        <source>Switch
+Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5127,7 +5211,15 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vertical Tile</source>
+        <source>Tile Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Gridlines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5158,19 +5250,22 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D Color</source>
+        <source>3-D
+Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D On/Off</source>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5238,6 +5333,22 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5255,39 +5366,21 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
 On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5391,6 +5484,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Arch Down (Curve)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5411,15 +5508,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom (Curve)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom (Pour)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bring Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button (Pour)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5440,6 +5537,11 @@ On</source>
     </message>
     <message>
         <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Character 
+Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5475,15 +5577,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5504,10 +5606,6 @@ On</source>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5559,6 +5657,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5575,7 +5677,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5603,10 +5705,6 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left Align</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5619,7 +5717,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5640,6 +5738,10 @@ On</source>
     </message>
     <message>
         <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5687,11 +5789,19 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5743,6 +5853,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Vertical Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Very Loose</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5771,31 +5885,18 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Alignment</source>
+        <source>WordArt</source>
+        <comment>Insert</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Character Spacing</source>
+        <source>WordArt
+Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Same Letter Heights</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Shape</source>
+        <source>WordArt 
+Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5804,10 +5905,6 @@ On</source>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Vertical Text</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5821,67 +5918,67 @@ On</source>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
-        <source>Auto Version</source>
+        <source>CellphoneControl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Explor Backup Dir</source>
+        <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Explor Version</source>
+        <source>Disable AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Auto backup</source>
+        <source>Enable AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Cloud feedback</source>
+        <source>Export as Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Cloud information</source>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS My account</source>
+        <source>File Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS My account tip</source>
+        <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Open cloud file</source>
+        <source>Guide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Save file to cloud</source>
+        <source>Help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Login</source>
+        <source>Help us to improve WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User cloud</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User cloud tip</source>
+        <source>KOS Change login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User guid</source>
+        <source>KOS Hire</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User guid tip</source>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User login</source>
+        <source>KOS logout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5889,46 +5986,78 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mark Version</source>
+        <source>Manual Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stop Auto Version</source>
+        <source>More from Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WorkSpace_Backup</source>
+        <source>Online Documents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>exportweiboimage</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>login</source>
+        <source>Open from Cloud Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>openwebweibo</source>
+        <source>Save to Cloud Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>weiboshare</source>
+        <source>Share to Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>weibotool</source>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0 More Histories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About Kingsoft Presentation</source>
+        <source>About WPS Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5940,7 +6069,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Activate Kingsoft Office</source>
+        <source>Activate WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5953,6 +6082,11 @@ On</source>
     </message>
     <message>
         <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5976,11 +6110,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto Point</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto Version</source>
+        <source>AutoPoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6000,7 +6134,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ballpoint Pen</source>
+        <source>Ball Pen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6028,7 +6162,8 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>COM Add-Ins</source>
+        <source>COM 
+Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6044,7 +6179,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6053,6 +6196,14 @@ On</source>
     </message>
     <message>
         <source>Change to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6084,15 +6235,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6120,6 +6263,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Curved Connector</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6136,19 +6283,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data Chart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data Table</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Date and Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decimal Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6161,6 +6304,10 @@ On</source>
     </message>
     <message>
         <source>Delete Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6180,11 +6327,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Distributed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DrawShapes</source>
+        <source>Draw Shapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6224,11 +6375,19 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Encrypt</source>
+        <source>Enable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6264,11 +6423,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Explor Backup Dir</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Explor Version</source>
+        <source>Export as Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6280,7 +6435,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feedback</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6312,15 +6467,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Go to Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Graphics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6348,19 +6495,11 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hidden</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Homepage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6376,63 +6515,35 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Columns</source>
+        <source>Insert</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Rows</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Change login</source>
+        <source>Insert Columns Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Cloud feedback</source>
+        <source>Insert Columns Right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Open cloud file</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Save file to cloud</source>
+        <source>Insert Rows Above</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Login</source>
+        <source>Insert Rows Below</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS logout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft BBS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Presentation Help</source>
+        <source>Invisible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6441,6 +6552,10 @@ On</source>
     </message>
     <message>
         <source>Last Viewed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6464,7 +6579,7 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mark Version</source>
+        <source>Manual Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6484,7 +6599,15 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Movie</source>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Historical Records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie from File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6505,6 +6628,10 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New Slide From Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6514,6 +6641,10 @@ Master</source>
     </message>
     <message>
         <source>New Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewFromDuplicate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6529,15 +6660,27 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Object Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Menu List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open Backup Directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open From Klive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6549,6 +6692,10 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6557,27 +6704,15 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OrgChart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OrgChart Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChart Select</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package into Compress File</source>
+        <source>Package into Compressed File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6590,6 +6725,10 @@ Master</source>
     </message>
     <message>
         <source>Pause Background Music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6621,10 +6760,6 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Product Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Product Management Center</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6634,6 +6769,10 @@ Master</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6681,10 +6820,6 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ruler</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6697,11 +6832,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save To Klive</source>
+        <source>Save as Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save as Picture</source>
+        <source>Save to Cloud Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6713,11 +6848,19 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Scribble</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6741,11 +6884,31 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Up Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show / Hide Ink Markup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show More Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6761,11 +6924,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Show List</source>
+        <source>Slide Show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Show Settings</source>
+        <source>Slide Show List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6785,7 +6948,7 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sound</source>
+        <source>Sound from File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6794,10 +6957,6 @@ Master</source>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop Auto Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6817,11 +6976,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
+        <source>Symbol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Symbol</source>
+        <source>Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6833,7 +6992,7 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Translate to Document</source>
+        <source>Transfer to WPS Writer Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6845,15 +7004,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unholding Fixed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use Magnifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6865,7 +7020,23 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS BBS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6873,7 +7044,23 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS New features</source>
+        <source>WPS Office Community</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6897,23 +7084,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>exportweiboimage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>openwebweibo</source>
+        <source>import templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>weiboshare</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6962,27 +7137,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change to Cycle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Pyramid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Radial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Target</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Venn</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Coworker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cycle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7018,6 +7177,14 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pyramid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reverse Diagram</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7034,7 +7201,15 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use AutoFormat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7042,7 +7217,11 @@ Master</source>
     <name>popupmenu.Show</name>
     <message>
         <source>Erase</source>
-        <translation>Şterge</translation>
+        <translation type="obsolete">Şterge</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7105,6 +7284,10 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit Slide Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Landscape</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7128,6 +7311,10 @@ Master</source>
         <source>Slide Orientation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>import templates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_designtable</name>
@@ -7140,7 +7327,7 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7182,11 +7369,6 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>COM
-AddIns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>COM Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7216,6 +7398,10 @@ AddIns</source>
     </message>
     <message>
         <source>Controls List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7398,23 +7584,23 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7458,7 +7644,7 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7482,7 +7668,7 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7546,6 +7732,10 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shape Fill</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7604,7 +7794,7 @@ AddIns</source>
 <context>
     <name>rainbow.ct_file</name>
     <message>
-        <source>About Kingsoft Presentation</source>
+        <source>About WPS Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7612,7 +7802,19 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for Updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7620,7 +7822,11 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Encrypt</source>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7628,11 +7834,11 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feedback</source>
+        <source>Feedback and Product Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feedback and Product Information</source>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7645,30 +7851,6 @@ AddIns</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Presentation File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Presentation Help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Presentation Template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7692,6 +7874,10 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Presentation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7700,11 +7886,7 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New from My Computer Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New from Online Templates</source>
+        <source>New from Other Templates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7712,15 +7894,11 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Other Formats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Package into Compress File</source>
+        <source>Package into Compressed File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7733,10 +7911,6 @@ AddIns</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Product Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7760,11 +7934,11 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save To Klive</source>
+        <source>Save a Copy of the Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save a Copy of the Document</source>
+        <source>Seek Help via Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7776,30 +7950,58 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StudyOnline</source>
+        <source>Transfer to WPS Writer Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Update Online</source>
+        <source>WPS Data Recovery Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS BBS</source>
+        <source>WPS Office Community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Microblog</source>
+        <source>WPS Office Facebook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS New features</source>
+        <source>WPS Office Forum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office New Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
     <message>
-        <source>Kingsoft Presentation Help</source>
+        <source>WPS Presentation Help</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7874,7 +8076,7 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3-D Style</source>
+        <source>3-D Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7899,6 +8101,11 @@ AddIns</source>
     </message>
     <message>
         <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8002,15 +8209,15 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Centered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8034,15 +8241,15 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8055,10 +8262,6 @@ AddIns</source>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8118,10 +8321,6 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Font Size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8131,6 +8330,10 @@ AddIns</source>
     </message>
     <message>
         <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8151,11 +8354,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8195,6 +8394,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8219,7 +8422,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8263,6 +8466,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No 3-D</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8271,11 +8478,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Package File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Package into Compress File</source>
+        <source>Package into Compressed File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8363,11 +8574,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow Style</source>
+        <source>Shadow Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8411,11 +8626,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text</source>
+        <source>Text Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Box</source>
+        <source>Text Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8427,11 +8642,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ungroup</source>
+        <source>Unformatted Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unholding Fixed</source>
+        <source>Ungroup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8440,10 +8655,6 @@ Slide</source>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>With Text Format</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8489,18 +8700,18 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number</source>
+        <source>Numbering</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
-        <source>Action Settings</source>
+        <source>Action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8512,7 +8723,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date/Time</source>
+        <source>Date and Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8528,11 +8739,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header/Footer</source>
+        <source>Header and Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8552,11 +8759,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Data Chart</source>
+        <source>Insert Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8580,6 +8787,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8600,6 +8811,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8608,7 +8823,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Package into Compress File</source>
+        <source>Package into Compressed File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8625,6 +8840,10 @@ Slide</source>
     </message>
     <message>
         <source>Slide Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8667,39 +8886,39 @@ Slide</source>
 <context>
     <name>rainbow.ct_orgchart</name>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8763,19 +8982,19 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8787,6 +9006,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8795,7 +9018,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8819,7 +9042,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OrgChart Layout</source>
+        <source>Organization Chart Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8832,10 +9055,6 @@ Slide</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8855,7 +9074,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Font Color</source>
+        <source>Text Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8902,7 +9121,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All OrgChart</source>
+        <source>All Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8989,6 +9208,10 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Adjust Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9021,7 +9244,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Atristic Clip</source>
+        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9061,19 +9284,15 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9097,6 +9316,10 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9113,11 +9336,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9141,7 +9360,11 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9161,7 +9384,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9193,6 +9416,30 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9202,18 +9449,6 @@ Subordinate</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Adjust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9269,35 +9504,19 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9398,7 +9617,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outline view</source>
+        <source>Outline View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9418,7 +9637,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Print Skipped Slides</source>
+        <source>Print Hidden Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9426,7 +9645,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pure black and white</source>
+        <source>Pure Black and White</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9459,10 +9678,6 @@ Subordinate</source>
 <context>
     <name>rainbow.ct_review</name>
     <message>
-        <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Chinese Conversion</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9471,15 +9686,11 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Simplified Chinese</source>
+        <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Covert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
+        <source>Convert to Traditional Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9488,6 +9699,10 @@ Subordinate</source>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9523,11 +9738,11 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Spellcheck Language</source>
+        <source>Show/Hide Markup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show/Hide Markup</source>
+        <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9550,15 +9765,15 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>3-D Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9626,6 +9841,22 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9646,31 +9877,15 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9741,6 +9956,10 @@ Master</source>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Slide Shows</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9770,7 +9989,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Up Slide Show</source>
+        <source>Set Up Show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9835,15 +10054,19 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9875,6 +10098,10 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9899,11 +10126,7 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rows/Columns</source>
+        <source>Rows and Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9943,10 +10166,6 @@ Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Margin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Wide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9963,7 +10182,7 @@ Settings</source>
     </message>
     <message>
         <source>Close
-Other Window</source>
+Other Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9975,7 +10194,7 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Developer Tools</source>
+        <source>Developer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9989,14 +10208,6 @@ Other Window</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gridlines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizontal Tile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10044,7 +10255,7 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch Window</source>
+        <source>Switch Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10052,7 +10263,15 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vertical Tile</source>
+        <source>Tile Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Gridlines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10083,6 +10302,11 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>3-D Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10092,10 +10316,6 @@ Other Window</source>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10163,6 +10383,22 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nudge Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parallel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10179,7 +10415,13 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow Color</source>
+        <source>Shadow
+Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10188,26 +10430,6 @@ Other Window</source>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10322,11 +10544,11 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom (Curve)</source>
+        <source>Bottom (Pour)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom (Pour)</source>
+        <source>Button (Curve)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10347,6 +10569,10 @@ Other Window</source>
     </message>
     <message>
         <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Character Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10382,15 +10608,15 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10411,10 +10637,6 @@ Other Window</source>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10482,7 +10704,7 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10510,10 +10732,6 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left Align</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10526,7 +10744,7 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10594,7 +10812,15 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Same Letter Heights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10670,11 +10896,12 @@ Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Alignment</source>
+        <source>WordArt</source>
+        <comment>Insert</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Character Spacing</source>
+        <source>WordArt Alignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10687,10 +10914,6 @@ Other Window</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Same Letter Heights</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10720,3207 +10943,51 @@ Other Window</source>
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
-        <source>Auto Version</source>
+        <source>CellphoneControl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Explor Backup Dir</source>
+        <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Explor Version</source>
+        <source>Disable AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Auto backup</source>
+        <source>Enable AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Cloud feedback</source>
+        <source>Export as Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Cloud information</source>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS My account</source>
+        <source>File Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS My account tip</source>
+        <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Open cloud file</source>
+        <source>Guide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Save file to cloud</source>
+        <source>Help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Login</source>
+        <source>Help us to improve WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User cloud tip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User guid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User guid tip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Laboratory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mark Version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop Auto Version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WorkSpace_Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>exportweiboimage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>openwebweibo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>weiboshare</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>weibotool</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DColor</name>
-    <message>
-        <source>3-D Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click the arrow to select from different 3-D colors.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill the selected 3-D shape with color.
-
-Click the arrow to select from different 3-D colors.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DDepthMenu</name>
-    <message>
-        <source>Change the height of the selected 3-D shape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DOnOff</name>
-    <message>
-        <source>3-D On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Turn on or off the 3-D effect applied to the shape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DStylePalette</name>
-    <message>
-        <source>3-D Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add a 3-D effect to the shape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DSurfaceMenu</name>
-    <message>
-        <source>Choose a surface effect for the selected 3-D shape in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Surface Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DTiltDown</name>
-    <message>
-        <source>Tilt Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tilt the shape forward.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DTiltLeft</name>
-    <message>
-        <source>Tilt Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tilt the shape to the left.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DTiltRight</name>
-    <message>
-        <source>Tilt Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tilt the shape to the right.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.3DTiltUp</name>
-    <message>
-        <source>Tilt Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tilt the shape backward.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ActionSetting</name>
-    <message>
-        <source>Action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add an action to the selected object to secify what should happen when you click on it or hover over it with your mouse.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AddAssistant</name>
-    <message>
-        <source>AddAssistant Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AddAssistant Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AddCoworker</name>
-    <message>
-        <source>AddCoworker Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AddCoworker Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AddSubordinate</name>
-    <message>
-        <source>AddSubordinate Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AddSubordinate Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AlignBottom</name>
-    <message>
-        <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align text to the bottom of the cell.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AlignCenter</name>
-    <message>
-        <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vertically center the text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AlignTop</name>
-    <message>
-        <source>Align Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align text to the top of the cell.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AnimationSchemes</name>
-    <message>
-        <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bring up &apos;Slide Design - Animation Schemes&apos; task pane to apply animation effects to the current slide or the entire presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Arrange</name>
-    <message>
-        <source>Arrange</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrange objects on the slides by changing their order, position, and rotation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ArrangeAll</name>
-    <message>
-        <source>Arrange All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tile all opened documents side-by-side under the same program window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.AutoVersion</name>
-    <message>
-        <source>Enable Auto Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable auto backup for the current document, save backup file to File Safe each time the document is closed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Autobackup</name>
-    <message>
-        <source>A brief introduction to File Safe.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Safe</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Backdrop</name>
-    <message>
-        <source>Background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the background style to the current slide or entire presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.BackgroundMusic</name>
-    <message>
-        <source>Insert Background Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert an audio file into the presentation. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Bold</name>
-    <message>
-        <source>Bold</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make the selected text bold.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.BordersFill</name>
-    <message>
-        <source>Border</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set border style, color and width of the current slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.BringForward</name>
-    <message>
-        <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bring forward the selected object, or place it in front of all other objects.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bring forward the selected object, so that it is not blocked by other objects.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Bullets</name>
-    <message>
-        <source>Bullets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click the arrow to choose different bullet styles.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start a bulleted list.
-
-Click the arrow to choose different bullet styles.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.COMAddIns</name>
-    <message>
-        <source>Add or delete available COM Add-Ins.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CTB_MoreControls</name>
-    <message>
-        <source>Click here to insert a control from the set of controls available on this computer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Controls</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CTB_Property</name>
-    <message>
-        <source>Controls Property</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View and edit properties of selected Controls.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CTB_ViewCode</name>
-    <message>
-        <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ChangePicture</name>
-    <message>
-        <source>Change Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ChangeTextDir</name>
-    <message>
-        <source>Change the orientation of text to horizontal or vertical.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CheckSpelling</name>
-    <message>
-        <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check the spelling of the text in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ChineseTranslation</name>
-    <message>
-        <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Simplified to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ClearTableStyle</name>
-    <message>
-        <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear table style of selected cell range.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CloseDevelopmentTools</name>
-    <message>
-        <source>Click here to hide Developer Tools.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CloseOtherWindow</name>
-    <message>
-        <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close all other windows except the current one.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CloseWindow</name>
-    <message>
-        <source>Close Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close the current window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Color</name>
-    <message>
-        <source>Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the color or pure black and white print to the current presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ColorScheme</name>
-    <message>
-        <source>Bring up &apos;Slide Design - Color Schemes&apos; task pane. Change the color for the current slide, or the entire presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CompressPictures</name>
-    <message>
-        <source>Compress Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Copy</name>
-    <message>
-        <source>Copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CustomAnimation</name>
-    <message>
-        <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open the Custom Animation task pane to apply animation effects to the text or object in the current slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.CustomShows</name>
-    <message>
-        <source>Create or play a custom slide show.
-
-A custom slide show displays only the slides you select.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Slide Shows</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Cut</name>
-    <message>
-        <source>Cut</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DecreaseFontSize</name>
-    <message>
-        <source>Decreas the font size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DecreaseIndent</name>
-    <message>
-        <source>Decrease List Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Decrease the indent level.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DecreaseSpace</name>
-    <message>
-        <source>Decrease Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Decrease spacing between lines.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Delete</name>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete the selected row or column.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DeleteComment</name>
-    <message>
-        <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete the comments.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DeleteMaster</name>
-    <message>
-        <source>Delete Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete the selected slide master.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DeleteMember</name>
-    <message>
-        <source>DeleteMember Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DeleteMember Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DetailedSettings_DrawingTools</name>
-    <message>
-        <source>DetailedSettings DrawingTools Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings DrawingTools Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DetailedSettings_Home</name>
-    <message>
-        <source>DetailedSettings Home Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings Home Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DetailedSettings_PictureTools</name>
-    <message>
-        <source>DetailedSettings PictureTools Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings PictureTools Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DetailedSettings_WordArt</name>
-    <message>
-        <source>DetailedSettings WordArt Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DetailedSettings WordArt Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DevelopmentTools</name>
-    <message>
-        <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open the Developer Tools tab to insert the Option Button, Check Box and more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Direction</name>
-    <message>
-        <source>Choose the direction effect of the selected 3-D Shape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DistColumnSevenly</name>
-    <message>
-        <source>Distribute Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distribute the width of the selected columns equally between them.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DistRowSevenly</name>
-    <message>
-        <source>Distribute Rows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distribute the height of the selected rows equally between them.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Distributed</name>
-    <message>
-        <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distributed</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DrawAlignLeft</name>
-    <message>
-        <source>Align</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align the selected object left.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DrawAlignTop</name>
-    <message>
-        <source>Align Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click the arrow to select a different alignment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting the alignment to the text.
-
-Click the arrow to select a different alignment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DuplicateSlide</name>
-    <message>
-        <source>Insert a duplicate of the current slide into the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New copy of slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.DynamicShape</name>
-    <message>
-        <source>Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.EditComment</name>
-    <message>
-        <source>Edit the comments.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>EditComment</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.EditPoints</name>
-    <message>
-        <source>Edit Points</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit the wrap points to change the shape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.EditWordArtText</name>
-    <message>
-        <source>Edit WordArt Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit the text of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.EquationEditor</name>
-    <message>
-        <source>Insert Equation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use the Equation Editor to insert mathematical formulas.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ExplorBackupDir</name>
-    <message>
-        <source>Explore File Safe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View backup files and open or recover the backup files for a certain document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ExplorVersion</name>
-    <message>
-        <source>View Backup History</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the backup record history of the current document to open, delete or restore the files.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ExportWeiboImageCmd</name>
-    <message>
-        <source>ExportWeiboImageCmd Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ExportWeiboImageCmd Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Find</name>
-    <message>
-        <source>Find</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find text in the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FitTextTip</name>
-    <message>
-        <source>FitTextTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FitTextTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Flash</name>
-    <message>
-        <source>Insert Flash Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert a flash animation into the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FontAlignMenu</name>
-    <message>
-        <source>Font Alignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the alignment between the fonts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FontColor</name>
-    <message>
-        <source>Change the text color.
-
-Click the arrow to choose a different text color.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click the arrow to choose a different text color.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FontName</name>
-    <message>
-        <source>Change the font face.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FontSize</name>
-    <message>
-        <source>Change the font size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Font Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FormatAlignCenter</name>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FormatAlignLeft</name>
-    <message>
-        <source>Align Text Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align text to the left.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FormatAlignRight</name>
-    <message>
-        <source>Align Text Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align text to the right.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FormatObject</name>
-    <message>
-        <source>Format Object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show the Format Object dialog box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.FormatPainter</name>
-    <message>
-        <source>Copy formatting from one place to apply it to another.
-
-Double-click this button to apply the same formatting to multiple places in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Gallery</name>
-    <message>
-        <source>Kingsoft Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
-
-Kingsoft Gallery Online Sources require internet connection. My Gallery can be used without internet after logging in.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.GridGuides</name>
-    <message>
-        <source>Gridlines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Turn on/off the gridlines with which you can align objects in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Group</name>
-    <message>
-        <source>Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Group objects together so that they can be treated as a single object.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.HeaderFooter</name>
-    <message>
-        <source>Edit the Header or Footer of the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Hyperlink</name>
-    <message>
-        <source>Create a link to a Web page, a picture, or an e-mail address.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.IncreaseFontSize</name>
-    <message>
-        <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Increase the font size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.IncreaseIndent</name>
-    <message>
-        <source>Increase List Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Increase the indent level.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.IncreaseSpace</name>
-    <message>
-        <source>Increase Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Increase spacing between lines.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertChart</name>
-    <message>
-        <source>Insert Chart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert a chart to illustrate and compare data.
-
-Bar, Pie, Line, Area, and Radar are some of the available types.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertClipArt</name>
-    <message>
-        <source>Choose a Clip Art from the task pane and insert it into the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertColumnsLeft</name>
-    <message>
-        <source>Insert Columns to the Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert a column to the left of the selected column.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertColumnsRight</name>
-    <message>
-        <source>Insert Columns to the Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert a column to the right of the selected column.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertDateTime</name>
-    <message>
-        <source>Date/Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the current date or time into the current document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertFileObject</name>
-    <message>
-        <source>Insert File Object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the selected file into document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertMedia</name>
-    <message>
-        <source>Insert the music, video, animation and other media files into presentation, enhanced expression for presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Media</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertObject</name>
-    <message>
-        <source>Insert Object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert an embedded object.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertOrgChart</name>
-    <message>
-        <source>InsertOrgChart Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertOrgChart Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LinkUrl</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertPictureFromFile</name>
-    <message>
-        <source>Insert Picture from File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert a picture from a file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertRowsAbove</name>
-    <message>
-        <source>Add a new row directly above the selected row.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Rows Above</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertRowsBelow</name>
-    <message>
-        <source>Insert Rows Below</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert a new row directly below the selected row.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertSymbol</name>
-    <message>
-        <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Symbol</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertTable</name>
-    <message>
-        <source>Insert or draw a table into the current slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.InsertWordArt</name>
-    <message>
-        <source>Insert decorative text in your document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Italic</name>
-    <message>
-        <source>Italic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Italicize the selected text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Justify</name>
-    <message>
-        <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Justify</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSCloudFeedbackTip</name>
-    <message>
-        <source>KOSCloudFeedbackTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSCloudFeedbackTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSCloudInformationTip</name>
-    <message>
-        <source>KOSCloudInformationTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSCloudInformationTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSOfficespaceLoginFailTip</name>
-    <message>
-        <source>UserName Or password not match</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSOfficespacePsaawordTip</name>
-    <message>
-        <source>password is wrong</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSOfficespaceRegPsaawordTip</name>
-    <message>
-        <source>password not match</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSOpenCloudFileTip</name>
-    <message>
-        <source>KOSOpenCloudFileTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSOpenCloudFileTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSSaveFileTocloudTip</name>
-    <message>
-        <source>KOSSaveFileTocloudTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSSaveFileTocloudTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSUserLoginCloudTextBtnTip</name>
-    <message>
-        <source>KOSUserLoginCloudTextBtnTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSUserLoginCloudTextBtnTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSUserLoginCloudTip</name>
-    <message>
-        <source>KOSUserLoginCloudTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSUserLoginCloudTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.KOSUserLogoutCloudTip</name>
-    <message>
-        <source>KOSUserLogoutCloudTip Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOSUserLogoutCloudTip Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Lighting</name>
-    <message>
-        <source>Lighting Angle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the lighting direction for the selected 3-D shape, and lighting strength, including bright, normal lighting and dim.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.LineBreak</name>
-    <message>
-        <source>Change the line break format.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.LineSpacing</name>
-    <message>
-        <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Specify the line spacing to use.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.MarkVersion</name>
-    <message>
-        <source>Manual Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Markup</name>
-    <message>
-        <source>Revision Markup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show or hide revision markups in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.MasterLayout</name>
-    <message>
-        <source>Master Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the placeholder elements contained in the slide master.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Media</name>
-    <message>
-        <source>Insert a movie into the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Movie from File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.MergeCells</name>
-    <message>
-        <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge the selected cells into one cell.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NewComment</name>
-    <message>
-        <source>Create a new comment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NewSlide</name>
-    <message>
-        <source>Add a slide to the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NewSlide2</name>
-    <message>
-        <source>Click here to select &apos;New Slide Copy&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NewSlideMaster</name>
-    <message>
-        <source>Insert a new slide master.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NewTitleMaster</name>
-    <message>
-        <source>Insert a slide master with a new title style.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Title Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NewWindow</name>
-    <message>
-        <source>New Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open a new window containing a view of the current document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NextComment</name>
-    <message>
-        <source>Next Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next comment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Normal</name>
-    <message>
-        <source>Normal View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the presentation in normal view.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NudgeShadowDown</name>
-    <message>
-        <source>Move the shadow of the selected object down.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NudgeShadowLeft</name>
-    <message>
-        <source>Move the shadow of the selected object to the left.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NudgeShadowRight</name>
-    <message>
-        <source>Move the shadow of the selected object to the right.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.NudgeShadowUp</name>
-    <message>
-        <source>Move the shadow of the selected object up.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Numbering</name>
-    <message>
-        <source>Click the arrow to choose different numbering formats.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numbering</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start a numbered list.
-
-Click the arrow to choose different numbering formats.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ObjectSelect</name>
-    <message>
-        <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.OrgChartLayout</name>
-    <message>
-        <source>OrgChartLayout Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OrgChartLayout Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Package</name>
-    <message>
-        <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package the presentation file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PageSetup</name>
-    <message>
-        <source>Page Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show the Page Setup dialog box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Paragraph1</name>
-    <message>
-        <source>Alignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click the arrow to choose a different alignment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Paragraph2</name>
-    <message>
-        <source>Click the arrow to select &apos;increase the spacing&apos;, &apos;decrease the spacing&apos; and &apos;wrap&apos; option.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other options</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Paste</name>
-    <message>
-        <source>Click here for more options such as pasting only the values or formatting.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste the contents of the Clipboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureAdjust</name>
-    <message>
-        <source>Adjust Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Increase or decrease the contrast and brightness of the selected picture.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureColor</name>
-    <message>
-        <source>Recolor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureCrop</name>
-    <message>
-        <source>Crop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Crop the picture to remove any unwanted parts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureFill</name>
-    <message>
-        <source>Click the arrow to select different fill modes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill the selected object with a color, gradient, pattern and picture.
-
-Click the arrow to select different fill modes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureLine</name>
-    <message>
-        <source>Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set picture outline color, outline width and outline style for the selected object.
-
-Click the arrow to select detailed settings for the selected object.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureSetTransparentColor</name>
-    <message>
-        <source>PictureSetTransparentColor Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PictureSetTransparentColor Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PictureSize</name>
-    <message>
-        <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PreComment</name>
-    <message>
-        <source>Pre Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous comment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PreserveMaster</name>
-    <message>
-        <source>Preserve Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preserve the selected master slide. Even if it is unused it can still remain in the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrevClose</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close the print preview and return to the presentation editing mode.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrevFrameSlides</name>
-    <message>
-        <source>Add borders around the slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide border</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrevLandscape</name>
-    <message>
-        <source>Landscape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the page layout to landscape in the handouts, notes pages and outline print.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrevNextPage</name>
-    <message>
-        <source>Navigate to the next page in the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrevPortrait</name>
-    <message>
-        <source>Set the page layout to vertical in the handouts, notes pages and outline print.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrevPrintHiddenSlide</name>
-    <message>
-        <source>Display hidden slides in Print Preview.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print Hidden Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PreviewPage</name>
-    <message>
-        <source>Navigate to the previous page in the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Print</name>
-    <message>
-        <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click here to choose to make detailed settings for printing, or to use the default print settings to print directly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrintDirect</name>
-    <message>
-        <source>Quick Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send the document directly to the default printer without making changes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrintPreview</name>
-    <message>
-        <source>Preview and make changes to pages before printing.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.PrintingOrder</name>
-    <message>
-        <source>Printing Order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the order of printed handouts vertically or horizontally.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.RB_Clipboard</name>
-    <message>
-        <source>Clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View all items copied to the clipboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.RB_Font</name>
-    <message>
-        <source>Font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show the Font dialog box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.RecentFillColor</name>
-    <message>
-        <source>Click the arrows to select different fill options.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use colors, gradients, textures, and pictures to fill the selected table in the current presentation slide.
-
-Click the arrow to select different fill options.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Rehearse</name>
-    <message>
-        <source>Launches a full-screen slide show in which you can rehearse your presentation.
-
-The amount of time you spend on each slide is recorded and you can save those timings to run the show automatically in the future.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rehearse Timings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.RenameMaster</name>
-    <message>
-        <source>Rename Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename the selected master slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Replace</name>
-    <message>
-        <source>Click here to replace the text or font in document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace text in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ResetLayout</name>
-    <message>
-        <source>ResetLayout Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ResetLayout Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ResetPicture</name>
-    <message>
-        <source>Discard all the formatting changes you have made to this picture.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ResetShape</name>
-    <message>
-        <source>ResetShape Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ResetShape Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Rotate</name>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate or flip the selected object.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Ruler</name>
-    <message>
-        <source>Ruler</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the rulers, used to measure and line up objects in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.RunMacro</name>
-    <message>
-        <source>View Macros</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Security</name>
-    <message>
-        <source>Customize the macro security settings.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macro Security</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Select</name>
-    <message>
-        <source>Select</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select text or objects in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SelectAll</name>
-    <message>
-        <source>Select All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use &quot;Select All&quot; to select the slide, object, or text content in the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SendBackward</name>
-    <message>
-        <source>Send Backward</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send an object one step towards the back of other objects.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send an object one step towards the back or place it behind all other objects.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SetUpShow</name>
-    <message>
-        <source>Bring up the Slide Show Settings dialog box, and set up the advanced options for the slide show, such as kiosk mode.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShadowButton</name>
-    <message>
-        <source>Set the shadow effects to the selected text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Shadow</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShadowColor</name>
-    <message>
-        <source>Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the shadow color of the selected object.
-
-Click the arrow to select different shadow colors.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShadowOnOff</name>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Turn the shadow of the selected object on or off.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShadowPalette</name>
-    <message>
-        <source>Add a visual effect to the selected object.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShapeEffects</name>
-    <message>
-        <source>Apply a visual effect to the selected shape, such as shadow glow, reflection, or 3-D rotation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShapeFill</name>
-    <message>
-        <source>Click the arrow to select from different ways to fill.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill the selected shape with a solid color, gradient, picture, or texture.
-
-Click the arrow to select from different ways to fill.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShapeLine</name>
-    <message>
-        <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Specify the color, width, and line style for the outline of the selected shape.
-
-Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShapeSize</name>
-    <message>
-        <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShowHideGrid</name>
-    <message>
-        <source>Gridlines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Turn on gridlines to which you can align objects in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ShowHideMark</name>
-    <message>
-        <source>Show / Hide Comments</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show or hide the comments.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SimplifiedChinese</name>
-    <message>
-        <source>Convert the document to Simplified Chinese.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Simplified</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SkipSlide</name>
-    <message>
-        <source>Hide Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide the current slide from the presentation. It will not be shown during full-screen slide show.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideDesign</name>
-    <message>
-        <source>Bring up the Slide Design - Design Templates task pane to apply templates to the current slide or the entire presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Design Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideLayout</name>
-    <message>
-        <source>Bring up the Slide Layout task pane to apply various slide layouts to selected slides.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideMaster</name>
-    <message>
-        <source>Open Slide Master view to change the design and layout of the master slides.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Master View</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideMasterClose</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Slide Master View and return to the edit the slide show.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideNumber</name>
-    <message>
-        <source>Insert Slide Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the slide number. The slide number reflects the position of the slide within the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideOrientation</name>
-    <message>
-        <source>Slide Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch the slide orientation between portrait and landscape.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlidePreview</name>
-    <message>
-        <source>Preview Animations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preview the animations and slide transition you have created for this slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideShow</name>
-    <message>
-        <source>Slide Show from Beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start the slide show from the first slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideShowFromCurrent</name>
-    <message>
-        <source>From Current Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start the slide show from the current slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideShowFromCurrent2</name>
-    <message>
-        <source>Click here to select &quot;Slide Show from Beginning&quot; or &quot;From Current Slide&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start Slide Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideSorter</name>
-    <message>
-        <source>Slide Sorter View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the presentation in Slide Sorter view to easily rearrange slides.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SlideTransition</name>
-    <message>
-        <source>Bring up the Slide Transition task pane to apply transition effects to the selected slides or the entire presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SmartChoice</name>
-    <message>
-        <source>SmartChoice Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SmartChoice Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Sound</name>
-    <message>
-        <source>Insert a sound clip or music into the slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound from File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://help.kingsoftstore.com/presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SpeakerNotes</name>
-    <message>
-        <source>Add a note to the current slide.
-
-When you want to make notes but do not wish to exit the slide show, right click on the screen and select &apos;speaker notes&apos; to make notes in the notes pane of the current slide.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speaker Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SplitCells</name>
-    <message>
-        <source>Split Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Split a cell vertically or horizontally.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.StopAutoVersion</name>
-    <message>
-        <source>Stop Auto Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop the auto backup of the current document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Subscript</name>
-    <message>
-        <source>Create small letters below the text baseline.
-
-Click the arrow to select superscript.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscript</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Superscript</name>
-    <message>
-        <source>Create small letters above the line of text.
-
-Click the arrow to select subscript.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Superscript</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Superscript2</name>
-    <message>
-        <source>Click the arrow to select Superscript and Subscript.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.SwitchWindow</name>
-    <message>
-        <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch to a different currently open window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TableCenter</name>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TableLeft</name>
-    <message>
-        <source>Align Text Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align text to the left.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TableRight</name>
-    <message>
-        <source>Align Text Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align text to the right.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TableStyle</name>
-    <message>
-        <source>Bring up the &apos;Table Style&apos; task pane.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TaskPane</name>
-    <message>
-        <source>Show or hide the task pane in the presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task Pane</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TextBox</name>
-    <message>
-        <source>Draw Horizontal Text Box</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert a text box into the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TextDirection</name>
-    <message>
-        <source>Change the orientation of text to be either horizontal or vertical.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TextFontColor</name>
-    <message>
-        <source>Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set the text color.
-
-Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TraditionalChinese</name>
-    <message>
-        <source>Convert the document to Traditional Chinese.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Traditional</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.TransitionEffect</name>
-    <message>
-        <source>Bring up the Slide Transition task pane to apply transition effects to the selected slides or the entire presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Underline</name>
-    <message>
-        <source>Underline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Underline the selected text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.VisualBasicEditor</name>
-    <message>
-        <source>Launch Visual Basic Editor, and edit Macros.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtAlignment</name>
-    <message>
-        <source>Specify how individual lines of a multi-line WordArt should be aligned.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Alignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtCharacterSpacing</name>
-    <message>
-        <source>Change the spacing between the letters of the selected WordArt text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Character Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtFill</name>
-    <message>
-        <source>Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill the selected WordArt with a solid color, gradient, texture and picture.
-
-Click the arrow to fill the WordArt in different ways.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtGallery</name>
-    <message>
-        <source>Change the style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtLine</name>
-    <message>
-        <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Specify the color, width and line style for the outline of the selected WordArt.
-
-Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtSameLetterHeights</name>
-    <message>
-        <source>Even Height</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make all the letters of the selected WordArt exactly the same height.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtShapePalette</name>
-    <message>
-        <source>Change the shape style of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Shape</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtSize</name>
-    <message>
-        <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WordArtVerticalText</name>
-    <message>
-        <source>Draw the text vertically, with the letters stacked on top of each other.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WorkSpace_Backup</name>
-    <message>
-        <source>WorkSpace_Backup Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WorkSpace_Backup Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_1</name>
-    <message>
-        <source>Handouts (one slide per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Handout&apos; (one slide per page).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_1Notes</name>
-    <message>
-        <source>Notes (one slide per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Notes Pages&apos; (one slide per page, notes to the right of the slide).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_2</name>
-    <message>
-        <source>Handouts (two slides per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Handout&apos; (two slides per page).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_3</name>
-    <message>
-        <source>Handouts(three slide per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Handout&apos; (three slides per page).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_3Notes</name>
-    <message>
-        <source>Notes(three slide per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Notes Pages&apos; (three slides per page, notes to the right of the slides).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_4</name>
-    <message>
-        <source>Handouts(four slide per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Handout&apos; (four slides per page).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_6</name>
-    <message>
-        <source>Handouts(six slide per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Handout&apos; (six slides per page).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_9</name>
-    <message>
-        <source>Handouts(nine slide per page)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Handout&apos; (nine slides per page).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_OutlineView</name>
-    <message>
-        <source>Outline view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Outline view&apos;. Slide content showed in print page by outline way.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.WpPrintWhat_Slides</name>
-    <message>
-        <source>Click here to select more print what, such as Slides, Handouts, Motes pages and Outline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set up the print what as &apos;Slide&apos; (one slide per page).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.Zoom</name>
-    <message>
-        <source>Open the Zoom dialog box to specify the zoom level of the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ZoomCombo</name>
-    <message>
-        <source>Select the zoom size of the current presentation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.ZoomFit</name>
-    <message>
-        <source>Fit to Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom the presentation so that the slide fills the window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.sp_Macros</name>
-    <message>
-        <source>View Macros</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tips.weibotool</name>
-    <message>
-        <source>weibotool Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>weibotool Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>workspacemenu</name>
-    <message>
-        <source>Auto Version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Explor Backup Dir</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Explor Version</source>
+        <source>Insert Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13928,27 +10995,11 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Cloud feedback</source>
+        <source>KOS Hire</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Open cloud file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Save file to cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
+        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13956,27 +11007,935 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mark Version</source>
+        <source>Laboratory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stop Auto Version</source>
+        <source>Manual Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>exportweiboimage</source>
+        <source>More from Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>login</source>
+        <source>Online Documents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>openwebweibo</source>
+        <source>Online Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>weiboshare</source>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Permit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.3DColor</name>
+</context>
+<context>
+    <name>tips.3DDepthMenu</name>
+</context>
+<context>
+    <name>tips.3DOnOff</name>
+</context>
+<context>
+    <name>tips.3DStylePalette</name>
+</context>
+<context>
+    <name>tips.3DSurfaceMenu</name>
+</context>
+<context>
+    <name>tips.3DTiltDown</name>
+</context>
+<context>
+    <name>tips.3DTiltLeft</name>
+</context>
+<context>
+    <name>tips.3DTiltRight</name>
+</context>
+<context>
+    <name>tips.3DTiltUp</name>
+</context>
+<context>
+    <name>tips.ActionSetting</name>
+</context>
+<context>
+    <name>tips.AddAssistant</name>
+</context>
+<context>
+    <name>tips.AddCoworker</name>
+</context>
+<context>
+    <name>tips.AddSubordinate</name>
+</context>
+<context>
+    <name>tips.AlignBottom</name>
+</context>
+<context>
+    <name>tips.AlignCenter</name>
+</context>
+<context>
+    <name>tips.AlignTop</name>
+</context>
+<context>
+    <name>tips.AnimationSchemes</name>
+</context>
+<context>
+    <name>tips.Arrange</name>
+</context>
+<context>
+    <name>tips.ArrangeAll</name>
+</context>
+<context>
+    <name>tips.AutoVersion</name>
+</context>
+<context>
+    <name>tips.Autobackup</name>
+</context>
+<context>
+    <name>tips.Backdrop</name>
+</context>
+<context>
+    <name>tips.BackgroundMusic</name>
+</context>
+<context>
+    <name>tips.Bold</name>
+</context>
+<context>
+    <name>tips.BordersFill</name>
+</context>
+<context>
+    <name>tips.BringForward</name>
+</context>
+<context>
+    <name>tips.Bullets</name>
+</context>
+<context>
+    <name>tips.COMAddIns</name>
+</context>
+<context>
+    <name>tips.CTB_MoreControls</name>
+</context>
+<context>
+    <name>tips.CTB_Property</name>
+</context>
+<context>
+    <name>tips.CTB_ViewCode</name>
+</context>
+<context>
+    <name>tips.ChangePicture</name>
+</context>
+<context>
+    <name>tips.ChangeTextDir</name>
+</context>
+<context>
+    <name>tips.CheckSpelling</name>
+</context>
+<context>
+    <name>tips.ChineseTranslation</name>
+</context>
+<context>
+    <name>tips.ClearTableStyle</name>
+</context>
+<context>
+    <name>tips.CloseDevelopmentTools</name>
+</context>
+<context>
+    <name>tips.CloseOtherWindow</name>
+</context>
+<context>
+    <name>tips.CloseWindow</name>
+</context>
+<context>
+    <name>tips.Color</name>
+</context>
+<context>
+    <name>tips.ColorScheme</name>
+</context>
+<context>
+    <name>tips.CompressPictures</name>
+</context>
+<context>
+    <name>tips.Copy</name>
+</context>
+<context>
+    <name>tips.CustomAnimation</name>
+</context>
+<context>
+    <name>tips.CustomShows</name>
+</context>
+<context>
+    <name>tips.Cut</name>
+</context>
+<context>
+    <name>tips.DecreaseFontSize</name>
+</context>
+<context>
+    <name>tips.DecreaseIndent</name>
+</context>
+<context>
+    <name>tips.DecreaseSpace</name>
+</context>
+<context>
+    <name>tips.Delete</name>
+</context>
+<context>
+    <name>tips.DeleteComment</name>
+</context>
+<context>
+    <name>tips.DeleteMaster</name>
+</context>
+<context>
+    <name>tips.DeleteMember</name>
+</context>
+<context>
+    <name>tips.DetailedSettings_DrawingTools</name>
+</context>
+<context>
+    <name>tips.DetailedSettings_Home</name>
+</context>
+<context>
+    <name>tips.DetailedSettings_PictureTools</name>
+</context>
+<context>
+    <name>tips.DetailedSettings_WordArt</name>
+</context>
+<context>
+    <name>tips.DevelopmentTools</name>
+</context>
+<context>
+    <name>tips.Direction</name>
+</context>
+<context>
+    <name>tips.DistColumnSevenly</name>
+</context>
+<context>
+    <name>tips.DistRowSevenly</name>
+</context>
+<context>
+    <name>tips.Distributed</name>
+</context>
+<context>
+    <name>tips.DrawAlignLeft</name>
+</context>
+<context>
+    <name>tips.DrawAlignTop</name>
+</context>
+<context>
+    <name>tips.DuplicateSlide</name>
+</context>
+<context>
+    <name>tips.DynamicShape</name>
+</context>
+<context>
+    <name>tips.EditComment</name>
+</context>
+<context>
+    <name>tips.EditPoints</name>
+</context>
+<context>
+    <name>tips.EditWordArtText</name>
+</context>
+<context>
+    <name>tips.EquationEditor</name>
+</context>
+<context>
+    <name>tips.ExplorBackupDir</name>
+</context>
+<context>
+    <name>tips.ExplorVersion</name>
+</context>
+<context>
+    <name>tips.ExportWeiboImageCmd</name>
+</context>
+<context>
+    <name>tips.Find</name>
+</context>
+<context>
+    <name>tips.FitTextTip</name>
+</context>
+<context>
+    <name>tips.Flash</name>
+</context>
+<context>
+    <name>tips.FontAlignMenu</name>
+</context>
+<context>
+    <name>tips.FontColor</name>
+</context>
+<context>
+    <name>tips.FontName</name>
+</context>
+<context>
+    <name>tips.FontSize</name>
+</context>
+<context>
+    <name>tips.FormatAlignCenter</name>
+</context>
+<context>
+    <name>tips.FormatAlignLeft</name>
+</context>
+<context>
+    <name>tips.FormatAlignRight</name>
+</context>
+<context>
+    <name>tips.FormatObject</name>
+</context>
+<context>
+    <name>tips.FormatPainter</name>
+</context>
+<context>
+    <name>tips.Gallery</name>
+</context>
+<context>
+    <name>tips.GridGuides</name>
+</context>
+<context>
+    <name>tips.Group</name>
+</context>
+<context>
+    <name>tips.HeaderFooter</name>
+</context>
+<context>
+    <name>tips.Hyperlink</name>
+</context>
+<context>
+    <name>tips.IncreaseFontSize</name>
+</context>
+<context>
+    <name>tips.IncreaseIndent</name>
+</context>
+<context>
+    <name>tips.IncreaseSpace</name>
+</context>
+<context>
+    <name>tips.InsertChart</name>
+</context>
+<context>
+    <name>tips.InsertClipArt</name>
+</context>
+<context>
+    <name>tips.InsertColumnsLeft</name>
+</context>
+<context>
+    <name>tips.InsertColumnsRight</name>
+</context>
+<context>
+    <name>tips.InsertDateTime</name>
+</context>
+<context>
+    <name>tips.InsertFileObject</name>
+</context>
+<context>
+    <name>tips.InsertMedia</name>
+</context>
+<context>
+    <name>tips.InsertObject</name>
+</context>
+<context>
+    <name>tips.InsertOrgChart</name>
+</context>
+<context>
+    <name>tips.InsertPictureFromFile</name>
+</context>
+<context>
+    <name>tips.InsertRowsAbove</name>
+</context>
+<context>
+    <name>tips.InsertRowsBelow</name>
+</context>
+<context>
+    <name>tips.InsertSymbol</name>
+</context>
+<context>
+    <name>tips.InsertTable</name>
+</context>
+<context>
+    <name>tips.InsertWordArt</name>
+</context>
+<context>
+    <name>tips.Italic</name>
+</context>
+<context>
+    <name>tips.Justify</name>
+</context>
+<context>
+    <name>tips.KOSCloudFeedbackTip</name>
+</context>
+<context>
+    <name>tips.KOSCloudInformationTip</name>
+</context>
+<context>
+    <name>tips.KOSOfficespaceLoginFailTip</name>
+</context>
+<context>
+    <name>tips.KOSOfficespacePsaawordTip</name>
+</context>
+<context>
+    <name>tips.KOSOfficespaceRegPsaawordTip</name>
+</context>
+<context>
+    <name>tips.KOSOpenCloudFileTip</name>
+</context>
+<context>
+    <name>tips.KOSSaveFileTocloudTip</name>
+</context>
+<context>
+    <name>tips.KOSUserLoginCloudTextBtnTip</name>
+</context>
+<context>
+    <name>tips.KOSUserLoginCloudTip</name>
+</context>
+<context>
+    <name>tips.KOSUserLogoutCloudTip</name>
+</context>
+<context>
+    <name>tips.Lighting</name>
+</context>
+<context>
+    <name>tips.LineBreak</name>
+</context>
+<context>
+    <name>tips.LineSpacing</name>
+</context>
+<context>
+    <name>tips.MarkVersion</name>
+</context>
+<context>
+    <name>tips.Markup</name>
+</context>
+<context>
+    <name>tips.MasterLayout</name>
+</context>
+<context>
+    <name>tips.Media</name>
+</context>
+<context>
+    <name>tips.MergeCells</name>
+</context>
+<context>
+    <name>tips.NewComment</name>
+</context>
+<context>
+    <name>tips.NewSlide</name>
+</context>
+<context>
+    <name>tips.NewSlide2</name>
+</context>
+<context>
+    <name>tips.NewSlideMaster</name>
+</context>
+<context>
+    <name>tips.NewTitleMaster</name>
+</context>
+<context>
+    <name>tips.NewWindow</name>
+</context>
+<context>
+    <name>tips.NextComment</name>
+</context>
+<context>
+    <name>tips.Normal</name>
+</context>
+<context>
+    <name>tips.NudgeShadowDown</name>
+</context>
+<context>
+    <name>tips.NudgeShadowLeft</name>
+</context>
+<context>
+    <name>tips.NudgeShadowRight</name>
+</context>
+<context>
+    <name>tips.NudgeShadowUp</name>
+</context>
+<context>
+    <name>tips.Numbering</name>
+</context>
+<context>
+    <name>tips.ObjectSelect</name>
+</context>
+<context>
+    <name>tips.OrgChartLayout</name>
+</context>
+<context>
+    <name>tips.Package</name>
+</context>
+<context>
+    <name>tips.PageSetup</name>
+</context>
+<context>
+    <name>tips.Paragraph1</name>
+</context>
+<context>
+    <name>tips.Paragraph2</name>
+</context>
+<context>
+    <name>tips.Paste</name>
+</context>
+<context>
+    <name>tips.PictureAdjust</name>
+</context>
+<context>
+    <name>tips.PictureColor</name>
+</context>
+<context>
+    <name>tips.PictureCrop</name>
+</context>
+<context>
+    <name>tips.PictureFill</name>
+</context>
+<context>
+    <name>tips.PictureLine</name>
+</context>
+<context>
+    <name>tips.PictureSetTransparentColor</name>
+</context>
+<context>
+    <name>tips.PictureSize</name>
+</context>
+<context>
+    <name>tips.PreComment</name>
+</context>
+<context>
+    <name>tips.PreserveMaster</name>
+</context>
+<context>
+    <name>tips.PrevClose</name>
+</context>
+<context>
+    <name>tips.PrevFrameSlides</name>
+</context>
+<context>
+    <name>tips.PrevLandscape</name>
+</context>
+<context>
+    <name>tips.PrevNextPage</name>
+</context>
+<context>
+    <name>tips.PrevPortrait</name>
+</context>
+<context>
+    <name>tips.PrevPrintHiddenSlide</name>
+</context>
+<context>
+    <name>tips.PreviewPage</name>
+</context>
+<context>
+    <name>tips.Print</name>
+</context>
+<context>
+    <name>tips.PrintDirect</name>
+</context>
+<context>
+    <name>tips.PrintPreview</name>
+</context>
+<context>
+    <name>tips.PrintingOrder</name>
+</context>
+<context>
+    <name>tips.RB_Clipboard</name>
+</context>
+<context>
+    <name>tips.RB_Font</name>
+</context>
+<context>
+    <name>tips.RecentFillColor</name>
+</context>
+<context>
+    <name>tips.Rehearse</name>
+</context>
+<context>
+    <name>tips.RenameMaster</name>
+</context>
+<context>
+    <name>tips.Replace</name>
+</context>
+<context>
+    <name>tips.ResetLayout</name>
+</context>
+<context>
+    <name>tips.ResetPicture</name>
+</context>
+<context>
+    <name>tips.ResetShape</name>
+</context>
+<context>
+    <name>tips.Rotate</name>
+</context>
+<context>
+    <name>tips.Ruler</name>
+</context>
+<context>
+    <name>tips.RunMacro</name>
+</context>
+<context>
+    <name>tips.Security</name>
+</context>
+<context>
+    <name>tips.Select</name>
+</context>
+<context>
+    <name>tips.SelectAll</name>
+</context>
+<context>
+    <name>tips.SendBackward</name>
+</context>
+<context>
+    <name>tips.SetUpShow</name>
+</context>
+<context>
+    <name>tips.ShadowButton</name>
+</context>
+<context>
+    <name>tips.ShadowColor</name>
+</context>
+<context>
+    <name>tips.ShadowOnOff</name>
+</context>
+<context>
+    <name>tips.ShadowPalette</name>
+</context>
+<context>
+    <name>tips.ShapeEffects</name>
+</context>
+<context>
+    <name>tips.ShapeFill</name>
+</context>
+<context>
+    <name>tips.ShapeLine</name>
+</context>
+<context>
+    <name>tips.ShapeSize</name>
+</context>
+<context>
+    <name>tips.ShowHideGrid</name>
+</context>
+<context>
+    <name>tips.ShowHideMark</name>
+</context>
+<context>
+    <name>tips.SimplifiedChinese</name>
+</context>
+<context>
+    <name>tips.SkipSlide</name>
+</context>
+<context>
+    <name>tips.SlideDesign</name>
+</context>
+<context>
+    <name>tips.SlideLayout</name>
+</context>
+<context>
+    <name>tips.SlideMaster</name>
+</context>
+<context>
+    <name>tips.SlideMasterClose</name>
+</context>
+<context>
+    <name>tips.SlideNumber</name>
+</context>
+<context>
+    <name>tips.SlideOrientation</name>
+</context>
+<context>
+    <name>tips.SlidePreview</name>
+</context>
+<context>
+    <name>tips.SlideShow</name>
+</context>
+<context>
+    <name>tips.SlideShowFromCurrent</name>
+</context>
+<context>
+    <name>tips.SlideShowFromCurrent2</name>
+</context>
+<context>
+    <name>tips.SlideSorter</name>
+</context>
+<context>
+    <name>tips.SlideTransition</name>
+</context>
+<context>
+    <name>tips.SmartChoice</name>
+</context>
+<context>
+    <name>tips.Sound</name>
+</context>
+<context>
+    <name>tips.SpeakerNotes</name>
+</context>
+<context>
+    <name>tips.SplitCells</name>
+</context>
+<context>
+    <name>tips.StopAutoVersion</name>
+</context>
+<context>
+    <name>tips.Subscript</name>
+</context>
+<context>
+    <name>tips.Superscript</name>
+</context>
+<context>
+    <name>tips.Superscript2</name>
+</context>
+<context>
+    <name>tips.SwitchWindow</name>
+</context>
+<context>
+    <name>tips.TableCenter</name>
+</context>
+<context>
+    <name>tips.TableLeft</name>
+</context>
+<context>
+    <name>tips.TableRight</name>
+</context>
+<context>
+    <name>tips.TableStyle</name>
+</context>
+<context>
+    <name>tips.TaskPane</name>
+</context>
+<context>
+    <name>tips.TextBox</name>
+</context>
+<context>
+    <name>tips.TextDirection</name>
+</context>
+<context>
+    <name>tips.TextFontColor</name>
+</context>
+<context>
+    <name>tips.TraditionalChinese</name>
+</context>
+<context>
+    <name>tips.TransitionEffect</name>
+</context>
+<context>
+    <name>tips.Underline</name>
+</context>
+<context>
+    <name>tips.VisualBasicEditor</name>
+</context>
+<context>
+    <name>tips.WordArtAlignment</name>
+</context>
+<context>
+    <name>tips.WordArtCharacterSpacing</name>
+</context>
+<context>
+    <name>tips.WordArtFill</name>
+</context>
+<context>
+    <name>tips.WordArtGallery</name>
+</context>
+<context>
+    <name>tips.WordArtLine</name>
+</context>
+<context>
+    <name>tips.WordArtSameLetterHeights</name>
+</context>
+<context>
+    <name>tips.WordArtShapePalette</name>
+</context>
+<context>
+    <name>tips.WordArtSize</name>
+</context>
+<context>
+    <name>tips.WordArtVerticalText</name>
+</context>
+<context>
+    <name>tips.WorkSpace_Backup</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_1</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_1Notes</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_2</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_3</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_3Notes</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_4</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_6</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_9</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_OutlineView</name>
+</context>
+<context>
+    <name>tips.WpPrintWhat_Slides</name>
+</context>
+<context>
+    <name>tips.Zoom</name>
+</context>
+<context>
+    <name>tips.ZoomCombo</name>
+</context>
+<context>
+    <name>tips.ZoomFit</name>
+</context>
+<context>
+    <name>tips.sp_Macros</name>
+</context>
+<context>
+    <name>tips.weibotool</name>
+</context>
+<context>
+    <name>workspacemenu</name>
+    <message>
+        <source>AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlideLibrary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>true</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14010,6 +11969,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14038,15 +12001,15 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tables and Borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Work Space</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14057,26 +12020,34 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OrgChart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands</name>
     <message>
-        <source>ActiveX Control Popup Menu</source>
+        <source>ActiveX Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Animate</source>
+        <source>Align Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Arrow Options Popup Menu</source>
+        <source>Align Right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>AutoShapes and Materials</source>
+        <source>Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14096,11 +12067,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ChangeAutoShape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check Auto Backup</source>
+        <source>Change AutoShape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14108,11 +12075,11 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clip Art</source>
+        <source>Click to turn on/off AutoBackup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ClipA</source>
+        <source>Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14124,11 +12091,15 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Colorize</source>
+        <source>Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Comment Popup Menu</source>
+        <source>Color Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14136,7 +12107,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connector Popup Menu</source>
+        <source>Connector</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14144,15 +12115,19 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Curve Point Popup Menu</source>
+        <source>Creat Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Curve Popup Menu</source>
+        <source>Curve</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Curve Segment Popup Menu</source>
+        <source>Curve Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve Segment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14164,6 +12139,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Decrease Font Size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14172,15 +12151,11 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Document collaboration</source>
+        <source>Draw Shapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Draw Figure Popup Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DynamicShape</source>
+        <source>Dynamic Shapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14192,15 +12167,11 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Eraser Popup Menu</source>
+        <source>Eraser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14221,23 +12192,16 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>From Current Slide</source>
+        <source>From Current 
+Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gallery</source>
+        <source>Grab Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Google Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GoogleDocs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gridlines</source>
+        <source>Hide While Grabbing Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14253,7 +12217,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ink Color Popup Menu</source>
+        <source>Ink Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14269,15 +12233,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Online Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14285,7 +12241,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Master Miniature Popup Menu</source>
+        <source>MailFeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master Miniature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14293,19 +12253,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Motion Path Point Popup Menu</source>
+        <source>Motion Path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Motion Path Popup Menu</source>
+        <source>Motion Path Point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Motion Path Segment Popup Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MsgAtMe</source>
+        <source>Motion Path Segment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14317,7 +12273,23 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New Blank Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Default Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Slide From Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14329,10 +12301,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New from Other Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14341,11 +12309,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>None Slide Miniature Popup Menu</source>
+        <source>Not Slide Miniature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Note View Visible</source>
+        <source>Note</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14353,11 +12321,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Notes Pane Popup Menu</source>
+        <source>Notes Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OLE Object Popup Menu</source>
+        <source>OLE Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14365,7 +12337,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paint Brush Popup Menu</source>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paint Brush</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14373,7 +12349,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Picture Popup Menu</source>
+        <source>Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14381,7 +12357,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Print Directly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14397,23 +12381,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Right</source>
+        <source>Rotate Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotate Mode Popup Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ruler Popup Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S MsgAtMe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>S Office space</source>
+        <source>Ruler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14425,19 +12397,31 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ShapeAndGallery</source>
+        <source>Set Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shapes Popup Menu</source>
+        <source>Shapes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Background Popup Menu</source>
+        <source>Show/Hide Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Slide Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14457,19 +12441,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Miniature Popup Menu</source>
+        <source>Slide Miniature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Object in Slide Sorter Popup Menu</source>
+        <source>Slide Object in Slide Sorter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show Popup Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14478,6 +12458,10 @@ Slide</source>
     </message>
     <message>
         <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14497,15 +12481,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TStyle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TabBar NewFile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Cell Popup Menu</source>
+        <source>Table Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14513,7 +12489,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tables Popup Menu</source>
+        <source>Tables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14525,7 +12501,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Edit Popup Menu</source>
+        <source>Text Editing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14545,6 +12521,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14553,11 +12533,27 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Popup Menu</source>
+        <source>WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>change template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>magic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14568,7 +12564,7 @@ Slide</source>
 <context>
     <name>wppcommon.mainwindow.commands.Help</name>
     <message>
-        <source>Kingsoft Presentation Help</source>
+        <source>WPS Presentation Help</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14579,7 +12575,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OrgChart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14597,7 +12593,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Show From Current</source>
+        <source>Slide Show from Current(Shift+F5)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14615,7 +12611,7 @@ Slide</source>
 <context>
     <name>wppongmani.mainwindow.commands</name>
     <message>
-        <source>Add-ins</source>
+        <source>Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14623,7 +12619,15 @@ Slide</source>
         <translation>Animaţie</translation>
     </message>
     <message>
-        <source>Customize taskpane</source>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize task window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14635,19 +12639,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Drawing Tool</source>
+        <source>Drawing Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File</source>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Google Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14659,35 +12659,27 @@ Slide</source>
         <translation>Acasă</translation>
     </message>
     <message>
-        <source>Homepage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert</source>
         <translation>Inserează</translation>
     </message>
     <message>
-        <source>KOS Change login</source>
+        <source>Maximize Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Login</source>
+        <source>Minimize Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User login</source>
+        <source>Minisite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS View UserInfo</source>
+        <source>Office Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS logout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login</source>
+        <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14695,11 +12687,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Org Chart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Picture Tool</source>
+        <source>Picture Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin the ToolBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14711,12 +12707,20 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quick Menu</source>
+        <source>Recent</source>
+        <translation type="obsolete">Recent</translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recent</source>
-        <translation>Recent</translation>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Review</source>
@@ -14731,6 +12735,14 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Sign Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Master</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14739,12 +12751,8 @@ Slide</source>
         <translation>Expunere diapozitive</translation>
     </message>
     <message>
-        <source>Stick the ToolBaar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
-        <translation>Schimbă interfaţa</translation>
+        <translation type="obsolete">Schimbă interfaţa</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -14755,35 +12763,31 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>User Sign In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation>Afişare</translation>
     </message>
     <message>
-        <source>What News</source>
+        <source>WPS After-sale Microblog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Window Close</source>
+        <source>WPS Business Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Window Max</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window Min</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window Restore</source>
+        <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Work space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14797,6 +12801,10 @@ Slide</source>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation type="unfinished"></translation>
@@ -14816,7 +12824,7 @@ Slide</source>
 <context>
     <name>wppongmani.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
-        <source>OrgChart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14830,11 +12838,19 @@ Slide</source>
 <context>
     <name>wpprainbow.mainwindow.commands</name>
     <message>
-        <source>Add-ins</source>
+        <source>Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14850,15 +12866,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File</source>
+        <source>Export to PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Google Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14878,23 +12890,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Change login</source>
+        <source>Maximize Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Logout</source>
+        <source>Minimize Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS View UserInfo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login</source>
+        <source>Minisite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14910,6 +12914,10 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Office Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14918,7 +12926,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OrgChart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14934,11 +12942,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quick Menu</source>
+        <source>Recent Documents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recent</source>
+        <source>Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14954,6 +12966,14 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Sign Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Master</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14966,10 +12986,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Table Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14978,19 +12994,27 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>User Sign In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What News</source>
+        <source>WPS After-sale Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Business Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Work Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15007,6 +13031,10 @@ Slide</source>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation type="unfinished"></translation>
@@ -15026,7 +13054,7 @@ Slide</source>
 <context>
     <name>wpprainbow.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
-        <source>OrgChart</source>
+        <source>Organization Chart</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -224,11 +224,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>What&apos;s New.lnk</source>
-        <translation type="obsolete">产品更新信息.lnk</translation>
+        <translation type="unfinished">产品更新信息.lnk</translation>
     </message>
     <message>
         <source>View what&apos;s new file</source>
-        <translation type="obsolete">查看WPS产品的更新信息</translation>
+        <translation type="unfinished">查看WPS产品的更新信息</translation>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
@@ -461,6 +461,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>&amp;Compatible with third-party software</source>
         <translation>WPS Office 兼容第三方系统和软件(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2003</source>
+        <translation>与 Microsoft Office 2003 兼容(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2007</source>
+        <translation>与 Microsoft Office 2007 兼容(&amp;R)</translation>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
@@ -771,6 +779,321 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>WPS Office Configuration Tools</source>
         <translation>WPS Office 配置工具</translation>
+    </message>
+</context>
+<context>
+    <name>KRegistrarScriptResource</name>
+    <message>
+        <source>WPS Spreadsheets Chart</source>
+        <translation>WPS表格 图表</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>图表</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS表格</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation>编辑(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation>打开(&amp;O)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Workbook</source>
+        <translation>WPS表格 工作簿</translation>
+    </message>
+    <message>
+        <source>&amp;New</source>
+        <translation>新建(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation>打印(&amp;P)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Template</source>
+        <translation>WPS表格 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Application</source>
+        <translation>Microsoft Office Excel 应用程序</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Sheet</source>
+        <translation>Microsoft Excel 工作表</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Workbook</source>
+        <translation>Microsoft Office Excel 2007 工作簿</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Chart</source>
+        <translation>Microsoft Excel 图表</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
+        <translation>Microsoft Office Excel 2007 启用宏的工作簿</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Binary Workbook</source>
+        <translation>Microsoft Office Excel 2007 二进制工作簿</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Add-In</source>
+        <translation>Microsoft Excel 加载宏</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Chart</source>
+        <translation>Microsoft Office Excel 图表</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel SLK File</source>
+        <translation>Microsoft Excel SLK 数据导入格式</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel CSV Text</source>
+        <translation>Microsoft Office Excel 逗号分隔值文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Sheet</source>
+        <translation>Microsoft Office Excel 工作表</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Template</source>
+        <translation>Microsoft Excel 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Application</source>
+        <translation>Microsoft Word 应用程序</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Template</source>
+        <translation>Microsoft Excel 启用宏的模板</translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Sheet</source>
+        <translation>启用了宏的工作表</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Template</source>
+        <translation>Microsoft Office Excel 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Add-In</source>
+        <translation>Microsoft Office Excel 加载宏</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Web Query File</source>
+        <translation>Microsoft Office Excel Web 查询文件</translation>
+    </message>
+    <message>
+        <source>&amp;Open in WPS Spreadsheets</source>
+        <translation>在 WPS表格 中打开(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook</source>
+        <translation>Microsoft Excel 工作表</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide</source>
+        <translation>Microsoft PowerPoint 幻灯片</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Template</source>
+        <translation>Microsoft PowerPoint 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Slide</source>
+        <translation>Microsoft PowerPoint 2007 幻灯片</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation>Microsoft PowerPoint 2007 启用宏的幻灯片</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Template</source>
+        <translation>Microsoft PowerPoint 2007 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation>Microsoft PowerPoint 演示文稿</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide Show	</source>
+        <translation type="obsolete">Microsoft PowerPoint 幻灯片放映</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Application</source>
+        <translation>Microsoft PowerPoint 应用程序</translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation>演示文稿</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation</source>
+        <translation>Microsoft PowerPoint 97-2003 演示文稿</translation>
+    </message>
+    <message>
+        <source>PowerPoint Presentation</source>
+        <translation>PowerPoint 演示文稿</translation>
+    </message>
+    <message>
+        <source>S&amp;how</source>
+        <translation>显示(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Slide</source>
+        <translation>幻灯片</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Slide</source>
+        <translation>Microsoft PowerPoint 97-2003 幻灯片</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Presentation</source>
+        <translation>Microsoft Office PowerPoint 2007 演示文稿</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</source>
+        <translation>Microsoft Office PowerPoint 2007 启用宏的演示文稿</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Slide</source>
+        <translation>Microsoft Office PowerPoint 2007 幻灯片</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Show</source>
+        <translation>Microsoft Office PowerPoint 2007 启用宏的放映</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Show</source>
+        <translation>Microsoft Office PowerPoint 2007 放映</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation>Microsoft Office PowerPoint 2007 启用宏的幻灯片</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 07 Template</source>
+        <translation>Microsoft PowerPoint 07 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word Application</source>
+        <translation>Microsoft Office Word 应用程序</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <translation>Microsoft Word 文档</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Document</source>
+        <translation>Microsoft Office Word 2007 文档</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <translation>Microsoft Word 启用宏的文档</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Picture</source>
+        <translation>Microsoft Word 图片</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Document</source>
+        <translation>Microsoft Word 6.0 - 7.0 文档</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Picture</source>
+        <translation>Microsoft Word 6.0 - 7.0 图片</translation>
+    </message>
+    <message>
+        <source>RTF Format</source>
+        <translation>RTF 格式</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <translation>Microsoft Word 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Macro-Enabled Document</source>
+        <translation>Microsoft Office Word 2007 启用宏的文档</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <translation>Microsoft Word 启用宏的模板</translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Template</source>
+        <translation>启用了宏的模板</translation>
+    </message>
+    <message>
+        <source>RTF Text</source>
+        <translation>RTF 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Template</source>
+        <translation>Microsoft Word 2007 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Macro-Enabled Template</source>
+        <translation>Microsoft Word 2007 启用宏的模板</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS演示</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Document</source>
+        <translation>WPS演示 演示文稿</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation>WPS演示 模板</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS文字</translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation>WPS文字 文档</translation>
+    </message>
+    <message>
+        <source>WPS Writer Template	</source>
+        <translation type="obsolete">WPS文字 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide Show</source>
+        <translation>Microsoft PowerPoint 幻灯片放映</translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation>WPS文字 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Data Interchange Format</source>
+        <translation type="obsolete">Microsoft Office Excel 数据交换格式</translation>
+    </message>
+    <message>
+        <source>&amp;Edit,0,2</source>
+        <translation>编辑(&amp;E),0,2</translation>
+    </message>
+    <message>
+        <source>&amp;Open,0,2</source>
+        <translation>打开(&amp;O),0,2</translation>
+    </message>
+    <message>
+        <source>WPS Equation 3.0</source>
+        <translation>WPS 公式 3.0</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>公式</translation>
     </message>
 </context>
 <context>

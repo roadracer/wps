@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="de_DE">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KTranslator</name>
@@ -15,10 +15,6 @@
     <message>
         <source>Being converted</source>
         <translation>wird konvertiert</translation>
-    </message>
-    <message>
-        <source>Note;</source>
-        <translation>Hinweisseite:</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -50,6 +46,10 @@
         <source>Still Need:</source>
         <translation>Wird benötigt:</translation>
     </message>
+    <message>
+        <source>Note;</source>
+        <translation>Hinweisseite:</translation>
+    </message>
 </context>
 <context>
     <name>ProcessDialog</name>
@@ -66,10 +66,6 @@
         <translation>Fertig zum konvertieren</translation>
     </message>
     <message>
-        <source>Still Need: being calculated</source>
-        <translation>Wird benötigt: wird berechnet</translation>
-    </message>
-    <message>
         <source>Still Need:Being calculated</source>
         <translation type="obsolete">Wird benötigt: wird berechnet</translation>
     </message>
@@ -81,13 +77,13 @@
         <source>Translate to WPS Writer Document</source>
         <translation>Dokument übersetzen</translation>
     </message>
+    <message>
+        <source>Still Need: being calculated</source>
+        <translation>Wird benötigt: wird berechnet</translation>
+    </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
-    <message>
-        <source>&amp;Current Slide</source>
-        <translation>Aktuell Folie(&amp;C)</translation>
-    </message>
     <message>
         <source>1</source>
         <translation>1</translation>
@@ -133,10 +129,6 @@
         <translation type="obsolete">Konvertierungsbestandteile</translation>
     </message>
     <message>
-        <source>Converted Content</source>
-        <translation>Konvertierungsbestandteile</translation>
-    </message>
-    <message>
         <source>Converted Layout</source>
         <translation>konvertiertes Layout</translation>
     </message>
@@ -173,10 +165,6 @@
         <translation>Auswahl(&amp;S)</translation>
     </message>
     <message>
-        <source>Slide per page</source>
-        <translation>Folien pro Seite(&amp;E):</translation>
-    </message>
-    <message>
         <source>Slide per page(&amp;E):</source>
         <translation type="obsolete">Folien pro Seite(&amp;E):</translation>
     </message>
@@ -200,6 +188,18 @@
         <source>Translate to WPS Writer Document</source>
         <translation>Dokument übersetzen</translation>
     </message>
+    <message>
+        <source>&amp;Current Slide</source>
+        <translation>Aktuell Folie(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Slide per page</source>
+        <translation>Folien pro Seite(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Converted Content</source>
+        <translation>Konvertierungsbestandteile</translation>
+    </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
@@ -208,12 +208,16 @@
         <translation>Schließen</translation>
     </message>
     <message>
-        <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Bei der Konvertierung zu WPS Writer Dokument ist ein Fehler aufgetreten.</translation>
+        <source>Converting to Kingsoft Writer document encountered an error.</source>
+        <translation type="obsolete">Bei der Konvertierung zu Kingsoft Writer Dokument ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <source>The conversion is completed.</source>
         <translation>Die Konvertierung ist abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>Converting to WPS Writer document encountered an error.</source>
+        <translation>Bei der Konvertierung zu WPS Writer Dokument ist ein Fehler aufgetreten.</translation>
     </message>
 </context>
 <context>
@@ -223,8 +227,20 @@
         <translation>&quot;</translation>
     </message>
     <message>
+        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation type="obsolete">Existiert bereits. Sie können die Datei nicht unter gleichem Namen speichern, solange eine Datei mit dem selben Namen geöffnet ist. Wählen Sie einen anderen Namen oder schließen die geöffnete Datei.</translation>
+    </message>
+    <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
         <translation>Foliennummer oder Folienbereich eingeben. Zum Beispiel, 1,3,5-9</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <translation type="obsolete">Kingsoft Präsentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Document(*.wps)</source>
+        <translation type="obsolete">Kingsoft Writer Dokument(*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
@@ -239,20 +255,12 @@
         <translation>Die Datei &quot;</translation>
     </message>
     <message>
-        <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation>Existiert bereits. Sie können die Datei nicht unter gleichem Namen speichern, solange eine Datei mit dem selben Namen geöffnet ist. Wählen Sie einen anderen Namen oder schließen die geöffnete Datei.</translation>
-    </message>
-    <message>
         <source>The number must be 1 or 2.</source>
         <translation>Die Nummer muss 1 oder 2 sein</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
         <translation type="obsolete">Die Nummer muss 1,2,3 oder 4 sein.</translation>
-    </message>
-    <message>
-        <source>The number must be 1, 2, 3,or 4.</source>
-        <translation>Die Nummer muss 1,2,3 oder 4 sein.</translation>
     </message>
     <message>
         <source>This is a valid number.
@@ -263,6 +271,10 @@ Bitte geben Sie eine Foliennummer oder einen Folienebereich ein.
 Zum Beispiel, 1,3,5-9.</translation>
     </message>
     <message>
+        <source>The number must be 1, 2, 3,or 4.</source>
+        <translation>Die Nummer muss 1,2,3 oder 4 sein.</translation>
+    </message>
+    <message>
         <source>WPS Presentation</source>
         <translation>Kingsoft Präsentation</translation>
     </message>
@@ -271,8 +283,8 @@ Zum Beispiel, 1,3,5-9.</translation>
         <translation>WPS Writer Dokument(*.wps)</translation>
     </message>
     <message>
-        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation type="obsolete">Existiert bereits. Sie können die Datei nicht unter gleichem Namen speichern, solange eine Datei mit dem selben Namen geöffnet ist. Wählen Sie einen anderen Namen oder schließen die geöffnete Datei.</translation>
+        <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation>Existiert bereits. Sie können die Datei nicht unter gleichem Namen speichern, solange eine Datei mit dem selben Namen geöffnet ist. Wählen Sie einen anderen Namen oder schließen die geöffnete Datei.</translation>
     </message>
 </context>
 </TS>

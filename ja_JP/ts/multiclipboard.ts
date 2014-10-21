@@ -5,74 +5,74 @@
 <context>
     <name>KxItemWebView</name>
     <message>
-        <source>Click to enlarge preview item.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to show additional options.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
+        <source>Unlock this item from the list.</source>
+        <translation>リストからこの項目のロックを解除します。</translation>
     </message>
     <message>
         <source>Reached the maximum number of items locked.</source>
-        <translation type="unfinished"></translation>
+        <translation>ロックしたアイテム数が上限に達しました。</translation>
     </message>
     <message>
-        <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <source>Lock this item to the list.</source>
+        <translation>この項目をリストにロックします</translation>
+    </message>
+    <message>
+        <source>Click to enlarge preview item.</source>
+        <translation>クリックするとプレビュー項目を拡大します</translation>
+    </message>
+    <message>
+        <source>Click to show additional options.</source>
+        <translation>クリックすると、その他のオプションが表示されます。</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboard</name>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to Paste:</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてクリア</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップボード</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
+    </message>
+    <message>
+        <source>Click to Paste:</source>
+        <translation>クリックして貼り付け</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboardPanel</name>
     <message>
-        <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>削除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation type="unfinished"></translation>
+        <translation>コピーすると自動的にリップボードに表示します(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Press Ctrl+C Twice to Show Clipboard</source>
+        <translation> Ctrl + Cを二回押すとクリップボードが表示されます</translation>
+    </message>
+    <message>
+        <source>&amp;Collect Data Without Showing Clipboard</source>
+        <translation>表示されたクリップボード以外のデータを集める(&amp;C)</translation>
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>リストからこの項目のロックを解除します</translation>
+    </message>
+    <message>
+        <source>Lock this item to the list.</source>
+        <translation>この項目をリストにロックします</translation>
     </message>
 </context>
 </TS>

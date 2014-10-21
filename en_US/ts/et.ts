@@ -1071,7 +1071,7 @@ condition is true:</translation>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation>The file already exists in the list.</translation>
+        <translation type="obsolete">The file already exists in the list.</translation>
     </message>
     <message>
         <source>file is exist in the list.</source>
@@ -1083,7 +1083,39 @@ condition is true:</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation>is not a valid Add-In.</translation>
+        <translation type="obsolete">is not a valid Add-In.</translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file named </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1455,7 +1487,7 @@ condition is true:</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation>The type of connection selected cannot be used to create a PivotTable.</translation>
+        <translation type="unfinished">The type of connection selected cannot be used to create a PivotTable.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
@@ -2240,6 +2272,26 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3716,7 +3768,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Create &amp;backup file at the first save</translation>
+        <translation type="obsolete">Create &amp;backup file at the first save</translation>
     </message>
     <message>
         <source>Custom &amp;lists:</source>
@@ -4152,6 +4204,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4946,6 +5002,61 @@ change tracking from being removed.</source>
     <message>
         <source>RecordForm</source>
         <translation type="obsolete">Form</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicates</name>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select one or more columns that contain duplicates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;My data has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%d duplicates are found;
+Only %d unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicatesWarning</name>
+    <message>
+        <source>Remove Duplicates Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What do you want to do?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Expand the selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue with the current selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6353,6 +6464,33 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtDialogSheetDlg</name>
+    <message>
+        <source>Integer is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required
+To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.
+To get assistance in entering a function, click Function Wizard
+If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only.
+To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
@@ -6786,7 +6924,7 @@ protected.</source>
     </message>
     <message>
         <source>Save Adobe PDF File</source>
-        <translation>Save Adobe PDF File</translation>
+        <translation type="obsolete">Save Adobe PDF File</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
@@ -6798,6 +6936,10 @@ protected.</source>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7893,6 +8035,14 @@ file,then click Switch to WPS Spreadsheets Shared Workbook.</translation>
         <source>Cannot find directory %1.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -8430,6 +8580,30 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxRemoveDuplicatesDlg</name>
+    <message>
+        <source>( Select All )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(%1) %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique value can be keep after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>After clicking OK, the duplicated rows will be deleted 
@@ -8516,6 +8690,29 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Old Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectTableFromDbDlg</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9053,10 +9250,6 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
     <message>
         <source>Invalid data value for parameter.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Parameter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10590,6 +10783,13 @@ t</source>
     </message>
 </context>
 <context>
+    <name>SelectTableFromDbUI</name>
+    <message>
+        <source>Select Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SolverOptions</name>
     <message>
         <source>All Methods</source>
@@ -11108,10 +11308,6 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File password:</source>
         <translation>File password:</translation>
     </message>
@@ -11207,6 +11403,10 @@ t</source>
         <source>New &amp;Comment</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -11219,11 +11419,11 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
+        <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preparing for exporting PDF file...</source>
+        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

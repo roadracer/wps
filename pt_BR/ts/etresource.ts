@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="pt_BR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>classics.3dsettings</name>
@@ -520,7 +522,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Group</source>
@@ -533,6 +535,10 @@
     <message>
         <source>Insert Clip Art</source>
         <translation>Inserir Clip Art</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -581,6 +587,10 @@
     <message>
         <source>Nudge</source>
         <translation>Chamada de Atenção</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -1026,7 +1036,7 @@ Centralizar</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1302,6 +1312,14 @@ Centralizar</translation>
         <translation>Assistente de Gráfico</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Count</source>
         <translation>Contagem</translation>
     </message>
@@ -1328,7 +1346,7 @@ de Formatação</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -1368,7 +1386,7 @@ de Formatação</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Colar Especial</translation>
+        <translation type="obsolete">Colar Especial</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -1397,6 +1415,14 @@ de Formatação</translation>
     <message>
         <source>Send E-mail</source>
         <translation>Enviar e -Mail</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1853,6 +1879,10 @@ de Formatação</translation>
         <translation>Área de Transferência</translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Column</source>
         <translation>Coluna</translation>
     </message>
@@ -1867,6 +1897,10 @@ de Formatação</translation>
     <message>
         <source>Connector</source>
         <translation>Conector</translation>
+    </message>
+    <message>
+        <source>Contents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1991,11 +2025,15 @@ Cheia</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Go To</source>
         <translation>Ir Para Página</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -2004,6 +2042,10 @@ Cheia</translation>
     <message>
         <source>Help</source>
         <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -2042,6 +2084,10 @@ Cheia</translation>
         <translation>Macros</translation>
     </message>
     <message>
+        <source>MailFeedBack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Colors</source>
         <translation>Mais Cores</translation>
     </message>
@@ -2060,6 +2106,10 @@ Cheia</translation>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
         <translation>Nova Pasta de Trabalho Excel 2007/2010 </translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook(E)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Workbook</source>
@@ -2106,12 +2156,20 @@ Cheia</translation>
         <translation>Visualizar quebra de página</translation>
     </message>
     <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parse</source>
         <translation>Analisa</translation>
     </message>
     <message>
         <source>Paste</source>
         <translation>Colar</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2142,6 +2200,14 @@ Diretamente</translation>
     <message>
         <source>Print Preview</source>
         <translation>Visualização de Impressão</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -2188,6 +2254,10 @@ Diretamente</translation>
         <translation>Salvar Como</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select Shape</source>
         <translation>Escolher formato</translation>
     </message>
@@ -2205,7 +2275,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>Shape and Gallery</source>
-        <translation>Forma e Galeria</translation>
+        <translation type="obsolete">Forma e Galeria</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -2346,8 +2416,12 @@ Tarefas</translation>
         <translation>Ferramentas de Desenho</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
-        <translation>Arquivo</translation>
+        <translation type="obsolete">Arquivo</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -2459,7 +2533,7 @@ Tarefas</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Mudar IU</translation>
+        <translation type="obsolete">Mudar IU</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -2497,8 +2571,16 @@ Tarefas</translation>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>Alterar IU</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2542,8 +2624,12 @@ Tarefas</translation>
         <translation>Ferramentas de Desenho</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
-        <translation>Arquivo</translation>
+        <translation type="obsolete">Arquivo</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -2651,7 +2737,7 @@ Tarefas</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Alterar IU</translation>
+        <translation type="obsolete">Alterar IU</translation>
     </message>
     <message>
         <source>Switch account</source>
@@ -2692,6 +2778,10 @@ Tarefas</translation>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>Alterar IU</translation>
@@ -2797,8 +2887,16 @@ Linha</translation>
         <translation>Filtro Automático</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>Limpar Contorno</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -2875,6 +2973,10 @@ All</source>
 Tudo</translation>
     </message>
     <message>
+        <source>Refresh All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Refresh Data</source>
         <translation>Atualizar dados</translation>
     </message>
@@ -2885,6 +2987,14 @@ Tudo</translation>
     <message>
         <source>Remove Duplicates</source>
         <translation>Remover Duplicados</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2988,6 +3098,10 @@ Propriedades</translation>
     <message>
         <source>Control Toolbox</source>
         <translation>Control Toolbox</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -3220,6 +3334,10 @@ em</translation>
     <message>
         <source>Center</source>
         <translation>Centro</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -3483,6 +3601,10 @@ Ligar/Desligar</translation>
         <translation>Criptografia</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportar Para Pdf</translation>
     </message>
@@ -3491,8 +3613,12 @@ Ligar/Desligar</translation>
         <translation>Feedback e Informações sobre o Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Feedback Via e -Mail</translation>
+        <translation type="obsolete">Feedback Via e -Mail</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4006,6 +4132,10 @@ Centro</translation>
         <translation>Cor de Preenchimento</translation>
     </message>
     <message>
+        <source>Fill Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find</source>
         <translation>Localizar</translation>
     </message>
@@ -4181,7 +4311,7 @@ Centralizar</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Colar Especial</translation>
+        <translation type="obsolete">Colar Especial</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -4232,6 +4362,10 @@ Centralizar</translation>
 Columns</source>
         <translation>linhas e
 Colunas</translation>
+    </message>
+    <message>
+        <source>RowsColumn</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -4422,7 +4556,7 @@ Propriedades</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4451,8 +4585,16 @@ Rodapé</translation>
         <translation>Ilustrações</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Inserir clip Artístico</translation>
+        <translation type="obsolete">Inserir clip Artístico</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
@@ -4473,6 +4615,10 @@ Rodapé</translation>
     <message>
         <source>Object</source>
         <translation>Objeto</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -4916,7 +5062,7 @@ Pictures</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -4931,8 +5077,16 @@ Pictures</translation>
         <translation>Inserir</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Inserir clip Artístico</translation>
+        <translation type="obsolete">Inserir clip Artístico</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4993,6 +5147,10 @@ Pictures</translation>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>Deslocar Sombra Para Cima</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -6411,6 +6569,11 @@ Espaçamento</translation>
         <translation>Wordart</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt
 Gallery</source>
         <translation>Wordart
@@ -6419,7 +6582,7 @@ Galeria</translation>
     <message>
         <source>WordArt
 Size</source>
-        <translation>Wordart
+        <translation type="obsolete">Wordart
 Tamanho</translation>
     </message>
     <message>
@@ -6429,12 +6592,16 @@ Shape</source>
 Forma</translation>
     </message>
     <message>
+        <source>WordArt Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Styles</source>
         <translation>Estilos de Wordart</translation>
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation>Inserir@WordArt</translation>
+        <translation type="obsolete">Inserir@WordArt</translation>
     </message>
 </context>
 <context>
@@ -6451,6 +6618,14 @@ Forma</translation>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>Nuvem Link</translation>
     </message>
@@ -6459,8 +6634,24 @@ Forma</translation>
         <translation>Desativar Autobackup</translation>
     </message>
     <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Habilite Autobackup</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ExportToPDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -6483,20 +6674,80 @@ Forma</translation>
         <translation>Ajude-Nos A Melhorar Wps Office</translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS User PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Backup Manual</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Documents</source>
         <translation>Documentos On-Line</translation>
     </message>
     <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
         <translation>Aberto de Nuvem Docs</translation>
     </message>
     <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>Salve A Nuvem Docs</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -6631,6 +6882,10 @@ Add-Ins</source>
         <translation>Alterar Imagem</translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>Alterar Versão</translation>
     </message>
@@ -6671,12 +6926,20 @@ Add-Ins</source>
         <translation>Limpar conteúdo</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>Limpar Contorno</translation>
     </message>
     <message>
         <source>Clear Print Area</source>
         <translation>Limpar área de impressão</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -6688,7 +6951,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fechar</translation>
+        <translation type="obsolete">Fechar</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -6728,7 +6991,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Conteúdo</translation>
+        <translation type="obsolete">Conteúdo</translation>
     </message>
     <message>
         <source>Control Menu List</source>
@@ -6855,6 +7118,10 @@ Add-Ins</source>
         <translation>Encryption</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Equação</translation>
     </message>
@@ -6883,8 +7150,12 @@ Add-Ins</source>
         <translation>Exportar Para Pdf</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Qualificações Via e -Mail</translation>
+        <translation type="obsolete">Qualificações Via e -Mail</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -6909,6 +7180,11 @@ Add-Ins</source>
     <message>
         <source>Fill Series</source>
         <translation>Preencha Series</translation>
+    </message>
+    <message>
+        <source>Fill Series</source>
+        <comment>Fill</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
@@ -7061,7 +7337,7 @@ Cheia</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -7120,8 +7396,12 @@ Cheia</translation>
         <translation>Inserir</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Inserir clip Artístico</translation>
+        <translation type="obsolete">Inserir clip Artístico</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -7134,6 +7414,10 @@ Cheia</translation>
     <message>
         <source>Insert Cut Cells</source>
         <translation>Insira Corte Células</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -7172,6 +7456,10 @@ Cheia</translation>
         <translation>Mini Site</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Historical Records</source>
         <translation>Registros Históricos Mais</translation>
     </message>
@@ -7202,6 +7490,10 @@ Cheia</translation>
     <message>
         <source>Object Menu List</source>
         <translation>Lista Menu Objeto</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -7241,7 +7533,7 @@ Cheia</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Configuração da Página</translation>
+        <translation type="obsolete">Configuração da Página</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -7249,7 +7541,7 @@ Cheia</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Colar Especial</translation>
+        <translation type="obsolete">Colar Especial</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -7306,6 +7598,10 @@ Cheia</translation>
     <message>
         <source>Purchase Serial Number</source>
         <translation>Compra Número de Série</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -7372,6 +7668,10 @@ Cheia</translation>
         <translation>Salvar Em Arquivo</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Segurança</translation>
     </message>
@@ -7400,16 +7700,33 @@ Cheia</translation>
         <translation>Series</translation>
     </message>
     <message>
+        <source>Series</source>
+        <comment>PopupFillSeries</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set AutoShape Defaults</source>
         <translation>Definir Padrões de Autoforma</translation>
+    </message>
+    <message>
+        <source>Set Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Display Area</source>
         <translation>Definir Área de Exibição</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Print Area</source>
         <translation>Definir área de impressão</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Timing Backup</source>
@@ -7466,6 +7783,14 @@ Cheia</translation>
     <message>
         <source>Standard Width</source>
         <translation>Largura padrão</translation>
+    </message>
+    <message>
+        <source>Start Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -7717,8 +8042,16 @@ Tipo de Gráfico</translation>
         <translation>Filtro Automático</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>Limpar Contorno</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -7801,6 +8134,14 @@ OLE DB Query</translation>
     <message>
         <source>Remove Duplicates</source>
         <translation>Remover Duplicados</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7902,6 +8243,10 @@ OLE DB Query</translation>
     <message>
         <source>Control Toolbox</source>
         <translation>Control Toolbox</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -8116,6 +8461,10 @@ Add-Ins</source>
     <message>
         <source>Bring to Front</source>
         <translation>Trazer Para A Frente</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dash</source>
@@ -8349,6 +8698,10 @@ Add-Ins</source>
         <translation>Encryption</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportar para PDF</translation>
     </message>
@@ -8357,8 +8710,12 @@ Add-Ins</source>
         <translation>Feedback e Informações Sobre O Produto</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>Qualificações Via e -Mail</translation>
+        <translation type="obsolete">Qualificações Via e -Mail</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -8773,7 +9130,7 @@ Trig</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Conteúdo</translation>
+        <translation type="obsolete">Conteúdo</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -8862,6 +9219,10 @@ Trig</translation>
     <message>
         <source>Fill Color</source>
         <translation>Cor de Preenchimento</translation>
+    </message>
+    <message>
+        <source>Fill Series</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find</source>
@@ -9032,7 +9393,7 @@ centro</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>Colar Especial</translation>
+        <translation type="obsolete">Colar Especial</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -9261,7 +9622,7 @@ centro</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -9284,8 +9645,16 @@ centro</translation>
         <translation>Ilustrações</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Inserir clip Artístico</translation>
+        <translation type="obsolete">Inserir clip Artístico</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
@@ -9306,6 +9675,10 @@ centro</translation>
     <message>
         <source>Object</source>
         <translation>Objeto</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -9715,7 +10088,7 @@ centro</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>Galeria</translation>
+        <translation type="obsolete">Galeria</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -9730,8 +10103,16 @@ centro</translation>
         <translation>Inserir</translation>
     </message>
     <message>
+        <source>Insert Artistic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Atristic Clip</source>
-        <translation>Inserir clip Artístico</translation>
+        <translation type="obsolete">Inserir clip Artístico</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -9792,6 +10173,10 @@ centro</translation>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>Deslocar Sombra Para Cima</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -11099,6 +11484,11 @@ Sombra
         <translation>Wordart</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Alignment</source>
         <translation>Alinhamento de Wordart</translation>
     </message>
@@ -11132,7 +11522,7 @@ Sombra
     </message>
     <message>
         <source>WordArt@Insert</source>
-        <translation>Inserir@WordArt</translation>
+        <translation type="obsolete">Inserir@WordArt</translation>
     </message>
 </context>
 <context>
@@ -11149,6 +11539,14 @@ Sombra
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>Nuvem Link</translation>
     </message>
@@ -11157,8 +11555,20 @@ Sombra
         <translation>Desativar Autobackup</translation>
     </message>
     <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Habilite Autobackup</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -11177,24 +11587,84 @@ Sombra
         <translation>Ajude-nos a melhorar o WPS Office</translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS Recharge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Backup Manual</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Documents</source>
         <translation>Documentos On-Line</translation>
     </message>
     <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
         <translation>Aberto de Nuvem Docs</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>Salve A Nuvem Docs</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sign in</source>
         <translation>Acessar</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -12112,6 +12582,14 @@ Sombra
         <translation>Alterar Conta</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>Nuvem Link</translation>
     </message>
@@ -12120,12 +12598,28 @@ Sombra
         <translation>Desativar Autobackup</translation>
     </message>
     <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Habilite Autobackup</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>Roaming arquivo</translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
@@ -12136,12 +12630,44 @@ Sombra
         <translation>Backup Manual</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recharge</source>
         <translation>Recarregar</translation>
     </message>
     <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>Salve A Nuvem Docs</translation>
+    </message>
+    <message>
+        <source>Set Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -12150,6 +12676,14 @@ Sombra
     <message>
         <source>Sign out</source>
         <translation>Sair</translation>
+    </message>
+    <message>
+        <source>Start Reading Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>

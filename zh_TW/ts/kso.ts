@@ -37,6 +37,34 @@
     <message>
         <source>Temporary directory does not exist or failed to create temporary directory.
 
+Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
+        <comment>_ksoErr_Environment_TempPath_NotExist</comment>
+        <translation type="obsolete">暫存目錄不存在或創建暫存目錄失敗。
+
+請檢查您的系統設定，並確定暫存目錄在當前使用者下可用，再重新啟動 Kingsoft Office。</translation>
+    </message>
+    <message>
+        <source>The current user does not have the permission to write in the temporary directory.
+
+Please check your system settings and ensure the temporary directory under the current user is available, and then restart Kingsoft Office.</source>
+        <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
+        <translation type="obsolete">當前使用者對暫存目錄無可寫權限。
+
+請檢查您的系統設定，並確定暫存目錄在當前使用者下可用，再重新啟動 Kingsoft Office。</translation>
+    </message>
+    <message>
+        <source>Unknown Error</source>
+        <comment>_ksoErr_Basic_UnknownError</comment>
+        <translation>未知的錯誤</translation>
+    </message>
+    <message>
+        <source>Value Out Of Range</source>
+        <comment>_ksoErr_Basic_ValueOutOfRange</comment>
+        <translation>數值超出範圍</translation>
+    </message>
+    <message>
+        <source>Temporary directory does not exist or failed to create temporary directory.
+
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
         <translation>暫存目錄不存在或創建暫存目錄失敗。
@@ -51,16 +79,6 @@ Please check your system settings and ensure the temporary directory under the c
         <translation>當前使用者對暫存目錄無可寫權限。
 
 請檢查您的系統設定，並確定暫存目錄在當前使用者下可用，再重新啟動 WPS Office。</translation>
-    </message>
-    <message>
-        <source>Unknown Error</source>
-        <comment>_ksoErr_Basic_UnknownError</comment>
-        <translation>未知的錯誤</translation>
-    </message>
-    <message>
-        <source>Value Out Of Range</source>
-        <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation>數值超出範圍</translation>
     </message>
 </context>
 <context>
@@ -81,29 +99,29 @@ Please check your system settings and ensure the temporary directory under the c
         <translation>圖片(點陣圖)</translation>
     </message>
     <message>
-        <source>Data of WPS Drawing</source>
+        <source>Data of Kingsoft Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation>WPS Office 圖形資料</translation>
+        <translation type="obsolete">Kingsoft Office 圖形資料</translation>
     </message>
     <message>
-        <source>Data of WPS Mail</source>
+        <source>Data of Kingsoft Mail</source>
         <comment>TX_KSO_CF_MAIL_DISPNAME</comment>
-        <translation>WPS Office 郵件資料</translation>
+        <translation type="obsolete">Kingsoft Office 郵件資料</translation>
     </message>
     <message>
-        <source>Data of WPS Presentation</source>
+        <source>Data of Kingsoft Presentation</source>
         <comment>TX_KSO_CF_WPP_DISPNAME</comment>
-        <translation>WPS Presentation 資料</translation>
+        <translation type="obsolete">Kingsoft Presentation 資料</translation>
     </message>
     <message>
-        <source>Data of WPS Spreadsheets</source>
+        <source>Data of Kingsoft Spreadsheets</source>
         <comment>TX_KSO_CF_ET_DISPNAME</comment>
-        <translation>WPS Spreadsheets 資料</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets 資料</translation>
     </message>
     <message>
-        <source>Data of WPS Writer</source>
+        <source>Data of Kingsoft Writer</source>
         <comment>TX_KSO_CF_WPS_DISPNAME</comment>
-        <translation>WPS Writer 資料</translation>
+        <translation type="obsolete">Kingsoft Writer 資料</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
@@ -176,29 +194,29 @@ Please check your system settings and ensure the temporary directory under the c
         <translation>图片(PNG)</translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation>將剪貼簿之內容以 [WPS Office 圖形資料] 貼上。</translation>
+        <translation type="obsolete">將剪貼簿之內容以 [Kingsoft Office 圖形資料] 貼上。</translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Mail.</source>
         <comment>TX_KSO_CF_MAIL_RESULTNAME</comment>
-        <translation>將剪貼簿之內容以 [WPS Office 郵件資料] 貼上。</translation>
+        <translation type="obsolete">將剪貼簿之內容以 [Kingsoft Office 郵件資料] 貼上。</translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation.</source>
         <comment>TX_KSO_CF_WPP_RESULTNAME</comment>
-        <translation>將剪貼簿之內容以 [WPS Presentation 資料] 貼上。 </translation>
+        <translation type="obsolete">將剪貼簿之內容以 [Kingsoft Presentation 資料] 貼上。 </translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Spreadsheets.</source>
         <comment>TX_KSO_CF_ET_RESULTNAME</comment>
-        <translation>將剪貼簿之內容以 [WPS Spreadsheets 資料] 貼上。</translation>
+        <translation type="obsolete">將剪貼簿之內容以 [Kingsoft Spreadsheets 資料] 貼上。</translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Writer.</source>
         <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
-        <translation>將剪貼簿之內容以 [WPS Writer 資料] 貼上。</translation>
+        <translation type="obsolete">將剪貼簿之內容以 [Kingsoft Writer 資料] 貼上。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
@@ -246,11 +264,6 @@ Please check your system settings and ensure the temporary directory under the c
         <translation type="obsolete">將剪貼簿之內容以 [JPG 格式] 貼上。</translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as a JPG picture.</source>
-        <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
-        <translation>將剪貼簿之內容以 [JPG 格式] 貼上。</translation>
-    </message>
-    <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
         <comment>TX_KSO_CF_PIC_PNG_RESULTNAME</comment>
         <translation>將剪貼簿之內容以 [PNG 格式] 貼上。</translation>
@@ -279,6 +292,61 @@ Please check your system settings and ensure the temporary directory under the c
         <source>Unformatted Text</source>
         <comment>TX_KSO_CF_TEXT_DISPNAME</comment>
         <translation>未格式化文字</translation>
+    </message>
+    <message>
+        <source>Data of WPS Writer</source>
+        <comment>TX_KSO_CF_WPS_DISPNAME</comment>
+        <translation>WPS Writer 資料</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
+        <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
+        <translation>將剪貼簿之內容以 [WPS Writer 資料] 貼上。</translation>
+    </message>
+    <message>
+        <source>Data of WPS Spreadsheets</source>
+        <comment>TX_KSO_CF_ET_DISPNAME</comment>
+        <translation>WPS Spreadsheets 資料</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
+        <comment>TX_KSO_CF_ET_RESULTNAME</comment>
+        <translation>將剪貼簿之內容以 [WPS Spreadsheets 資料] 貼上。</translation>
+    </message>
+    <message>
+        <source>Data of WPS Presentation</source>
+        <comment>TX_KSO_CF_WPP_DISPNAME</comment>
+        <translation>WPS Presentation 資料</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
+        <comment>TX_KSO_CF_WPP_RESULTNAME</comment>
+        <translation>將剪貼簿之內容以 [WPS Presentation 資料] 貼上。 </translation>
+    </message>
+    <message>
+        <source>Data of WPS Mail</source>
+        <comment>TX_KSO_CF_MAIL_DISPNAME</comment>
+        <translation>WPS Office 郵件資料</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
+        <comment>TX_KSO_CF_MAIL_RESULTNAME</comment>
+        <translation>將剪貼簿之內容以 [WPS Office 郵件資料] 貼上。</translation>
+    </message>
+    <message>
+        <source>Data of WPS Drawing</source>
+        <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
+        <translation>WPS Office 圖形資料</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
+        <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
+        <translation>將剪貼簿之內容以 [WPS Office 圖形資料] 貼上。</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as a JPG picture.</source>
+        <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
+        <translation>將剪貼簿之內容以 [JPG 格式] 貼上。</translation>
     </message>
 </context>
 <context>
@@ -434,11 +502,6 @@ Please check your system settings and ensure the temporary directory under the c
         <translation>自動加點</translation>
     </message>
     <message>
-        <source>AutoShape</source>
-        <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation>快取圖案</translation>
-    </message>
-    <message>
         <source>Bring Forward</source>
         <comment>DgUil_KSO_Cmd_Order_BringForward</comment>
         <translation>上移一層</translation>
@@ -497,11 +560,6 @@ Please check your system settings and ensure the temporary directory under the c
         <source>Change To Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
         <translation type="obsolete">改為快取圖案</translation>
-    </message>
-    <message>
-        <source>Change to Autoshape</source>
-        <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation>改為快取圖案</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -847,6 +905,26 @@ Please check your system settings and ensure the temporary directory under the c
         <source>Kern Character Pairs</source>
         <comment>DgUil_KSO_Cmd_KernCharacterPairs</comment>
         <translation>微調字距</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office cannot start the source application of the object.</source>
+        <comment>DgUil_KSO_NotStartUpProcess</comment>
+        <translation type="obsolete">無法啟動此內嵌物件的來源應用程式。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>DgUil_KSO_WPP_NAME</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>DgUil_KSO_ET_NAME</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>DgUil_KSO_WPS_NAME</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -1251,26 +1329,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>很緊</translation>
     </message>
     <message>
-        <source>WPS Office cannot start the source application of the object.</source>
-        <comment>DgUil_KSO_NotStartUpProcess</comment>
-        <translation>無法啟動此內嵌物件的來源應用程式。</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>DgUil_KSO_WPP_NAME</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>DgUil_KSO_ET_NAME</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>DgUil_KSO_WPS_NAME</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
         <comment>DgUil_WindowsBitmap</comment>
         <translation>Windows 點陣圖(*.bmp)|*.bmp</translation>
@@ -1324,6 +1382,36 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>pt</source>
         <comment>DgUil_KSO_POINT</comment>
         <translation>點</translation>
+    </message>
+    <message>
+        <source>Change to Autoshape</source>
+        <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
+        <translation>改為快取圖案</translation>
+    </message>
+    <message>
+        <source>AutoShape</source>
+        <comment>DgUil_KSO_Cmd_DynamicShape</comment>
+        <translation>快取圖案</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>DgUil_KSO_WPS_NAME</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>DgUil_KSO_ET_NAME</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>DgUil_KSO_WPP_NAME</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Office cannot start the source application of the object.</source>
+        <comment>DgUil_KSO_NotStartUpProcess</comment>
+        <translation>無法啟動此內嵌物件的來源應用程式。</translation>
     </message>
 </context>
 <context>
@@ -1469,11 +1557,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>浮凸漸層</translation>
     </message>
     <message>
-        <source>Black Gradient</source>
-        <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
-        <translation>黑色漸變</translation>
-    </message>
-    <message>
         <source>Block Arc</source>
         <comment>DRAWINGSTR_BLOCKARC</comment>
         <translation>拱形</translation>
@@ -1497,11 +1580,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Brackets</source>
         <comment>DRAWINGSTR_DGMSTYLE_BRACKETS</comment>
         <translation>括弧</translation>
-    </message>
-    <message>
-        <source>CD Drive</source>
-        <comment>DRAWINGSTR_CDDRIVE</comment>
-        <translation>Cd 光碟機</translation>
     </message>
     <message>
         <source>Can</source>
@@ -1926,7 +2004,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>流程圖: 循序存取儲存裝置</translation>
+        <translation type="obsolete">流程圖: 循序存取儲存裝置</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
@@ -2237,11 +2315,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Notched Right Arrow</source>
         <comment>DRAWINGSTR_NOTCHEDRIGHTARROW</comment>
         <translation>燕尾形向右箭號</translation>
-    </message>
-    <message>
-        <source>Object</source>
-        <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
-        <translation>物件(&amp;O)</translation>
     </message>
     <message>
         <source>Octagon</source>
@@ -2983,6 +3056,26 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>DRAWINGSTR_COMPUTR2</comment>
         <translation>工作站</translation>
     </message>
+    <message>
+        <source>CD Drive</source>
+        <comment>DRAWINGSTR_CDDRIVE</comment>
+        <translation>Cd 光碟機</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
+        <translation>物件(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Black Gradient</source>
+        <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
+        <translation>黑色漸變</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation>流程圖: 循序存取儲存裝置</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -3005,6 +3098,36 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Chinese Office Software Document Format</source>
         <comment>_WpioDesc_UOF</comment>
         <translation>中文辦公軟體檔案格式</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office encountered an error when saving the file. Please try again or contact customer service.</source>
+        <comment>_KsoPrompt_SaveError</comment>
+        <translation type="obsolete">儲存檔案遇到錯誤，請重試或聯絡客服。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Files</source>
+        <comment>_KsoDesc_WPPFile</comment>
+        <translation type="obsolete">Kingsoft Presentation 檔案</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Document</source>
+        <comment>_KsoFileFormatDesc_WPSV6_File</comment>
+        <translation type="obsolete">Kingsoft Writer 檔案</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Documents</source>
+        <comment>_KsoFileFormatDesc_WPSV6_Files</comment>
+        <translation type="obsolete">Kingsoft Writer 檔案</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Template</source>
+        <comment>_KsoFileFormatDesc_WPSV6DOT_File</comment>
+        <translation type="obsolete">Kingsoft Writer 範本</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Templates</source>
+        <comment>_KsoFileFormatDesc_WPSV6DOT_Files</comment>
+        <translation type="obsolete">Kingsoft Writer 範本</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
@@ -3077,9 +3200,24 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>您正在開啟的檔案是 Microsoft Office 95，或更早的版本格式。建議先將該檔案轉換為 Microsoft Office 97，或更新的版本格式後，再嘗試重新開啟。</translation>
     </message>
     <message>
-        <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
-        <comment>_KsoPrompt_SaveError</comment>
-        <translation>儲存檔案遇到錯誤，請重試或聯絡客服。</translation>
+        <source>Web Page File</source>
+        <comment>_KsoFileFormatDesc_HTML_File</comment>
+        <translation>網頁檔案</translation>
+    </message>
+    <message>
+        <source>Web Page Files</source>
+        <comment>_KsoFileFormatDesc_HTML_Files</comment>
+        <translation>網頁檔案</translation>
+    </message>
+    <message>
+        <source>XML File Templates</source>
+        <comment>_KsoDesc_XmlDOT</comment>
+        <translation>XML 範本</translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <comment>_KsoDesc_Xml</comment>
+        <translation>XML 檔案</translation>
     </message>
     <message>
         <source>WPS Presentation Files</source>
@@ -3107,24 +3245,9 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>WPS Writer 範本</translation>
     </message>
     <message>
-        <source>Web Page File</source>
-        <comment>_KsoFileFormatDesc_HTML_File</comment>
-        <translation>網頁檔案</translation>
-    </message>
-    <message>
-        <source>Web Page Files</source>
-        <comment>_KsoFileFormatDesc_HTML_Files</comment>
-        <translation>網頁檔案</translation>
-    </message>
-    <message>
-        <source>XML File Templates</source>
-        <comment>_KsoDesc_XmlDOT</comment>
-        <translation>XML 範本</translation>
-    </message>
-    <message>
-        <source>XML Files</source>
-        <comment>_KsoDesc_Xml</comment>
-        <translation>XML 檔案</translation>
+        <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
+        <comment>_KsoPrompt_SaveError</comment>
+        <translation>儲存檔案遇到錯誤，請重試或聯絡客服。</translation>
     </message>
 </context>
 <context>
@@ -3133,11 +3256,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>&amp;Restrict Permission  ...</source>
         <comment>TxKRM_Menu_Rights</comment>
         <translation type="obsolete">設定許可權(&amp;R)...</translation>
-    </message>
-    <message>
-        <source>&amp;Restrict Permission...</source>
-        <comment>TxKRM_Menu_Rights</comment>
-        <translation>設定許可權(&amp;R)...</translation>
     </message>
     <message>
         <source>KRM &amp;Options...</source>
@@ -3150,14 +3268,19 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="obsolete">列印份數，超出使用權限允許的%d份。請問，您是要減少列印份數，還是取消列印?</translation>
     </message>
     <message>
-        <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task?</source>
-        <comment>TxKRM_Msg_PrintCopiesDenied</comment>
-        <translation>列印份數，超出使用權限允許的%d份。請問，您是要減少列印份數，還是取消列印?</translation>
-    </message>
-    <message>
         <source>You have no permission to save files. Please check your permission information.</source>
         <comment>TxKRM_Msg_SaveFileDenied</comment>
         <translation>無儲存檔案的使用權限! 請檢查您的使用權限權資訊。</translation>
+    </message>
+    <message>
+        <source>&amp;Restrict Permission...</source>
+        <comment>TxKRM_Menu_Rights</comment>
+        <translation>設定許可權(&amp;R)...</translation>
+    </message>
+    <message>
+        <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task?</source>
+        <comment>TxKRM_Msg_PrintCopiesDenied</comment>
+        <translation>列印份數，超出使用權限允許的%d份。請問，您是要減少列印份數，還是取消列印?</translation>
     </message>
 </context>
 <context>
@@ -3178,42 +3301,42 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source> Business</source>
         <comment>_kso_versionType_TRADE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 商業版</translation>
     </message>
     <message>
         <source> Community</source>
         <comment>_kso_versionType_COM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 社群版</translation>
     </message>
     <message>
         <source> Development</source>
         <comment>_kso_versionType_DEV</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 開發版</translation>
     </message>
     <message>
         <source> Education</source>
         <comment>_kso_versionType_EDU</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 教育版</translation>
     </message>
     <message>
         <source> Invalid</source>
         <comment>_kso_versionType_INV</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 無效版本</translation>
     </message>
     <message>
         <source> OEM</source>
         <comment>_kso_versionType_OEM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> OEM版本</translation>
     </message>
     <message>
         <source> Personal</source>
         <comment>_kso_versionType_PER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 個人版</translation>
     </message>
     <message>
         <source> Professional</source>
         <comment>_kso_versionType_PRO</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 專業版</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -3354,11 +3477,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>文档</translation>
     </message>
     <message>
-        <source>Document Image Files</source>
-        <comment>_kso_filesearch_DocumentImagingFiles</comment>
-        <translation>文档图像文件</translation>
-    </message>
-    <message>
         <source>DocumentImaging Files</source>
         <comment>_kso_filesearch_DocumentImagingFiles</comment>
         <translation type="obsolete">文档图像文件</translation>
@@ -3389,11 +3507,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>檔案名稱</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <comment>_kso_filesearch_FileName</comment>
-        <translation>文件名</translation>
-    </message>
-    <message>
         <source>File Size</source>
         <comment>_kso_ErrorRep_ContentDlg_FileSize</comment>
         <translation>檔案大小</translation>
@@ -3422,6 +3535,336 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Journal Item</source>
         <comment>_kso_filesearch_JournalItem</comment>
         <translation>日记项目</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office</source>
+        <comment>_kso_Generic_MessageBox_Caption</comment>
+        <translation type="obsolete">Kingsoft Office</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office</source>
+        <comment>_kso_ksoProductName_PER_USA</comment>
+        <translation type="obsolete">Kingsoft Office</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office</source>
+        <comment>_kso_ksoProductName_PRO_CHN</comment>
+        <translation type="obsolete">Kingsoft Office 專業版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office</source>
+        <comment>_kso_ksoProductName_PRO_CHT</comment>
+        <translation type="obsolete">Kingsoft Office 繁體中文專業版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office</source>
+        <comment>_kso_ksoProductName_PRO_JPN</comment>
+        <translation type="obsolete">Kingsoft Office</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office</source>
+        <comment>_kso_ksoProductName_PRO_USA</comment>
+        <translation type="obsolete">Kingsoft Office</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office</source>
+        <comment>_kso_ksoProductName_PRO_VN</comment>
+        <translation type="obsolete">Kingsoft Office</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office (Beta)</source>
+        <comment>_kso_ksoProductName_Debug</comment>
+        <translation type="obsolete">Kingsoft Office (Beta)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office (test)</source>
+        <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
+        <translation type="obsolete">Kingsoft Office (測試版)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office 2010 Professional Edition</source>
+        <comment>_kso_ksoProductName_dev_cn</comment>
+        <translation type="obsolete">WPS Office 2010 專業增強版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Business Version</source>
+        <comment>_kso_ksoProductName_TRADE_CHN</comment>
+        <translation type="obsolete">Kingsoft Office 商業版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Crashing Information</source>
+        <comment>_kso_crashdlg_caption</comment>
+        <translation type="obsolete">Kingsoft Office 崩潰提示</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Education</source>
+        <comment>_kso_ksoProductName_EDU_CHN</comment>
+        <translation type="obsolete">Kingsoft Office 教育版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Home</source>
+        <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
+        <translation type="obsolete">Kingsoft Office 家用版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office OEM</source>
+        <comment>_kso_ksoProductName_OEM_CHN</comment>
+        <translation type="obsolete">Kingsoft Office OEM版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Personal</source>
+        <comment>_kso_ksoProductName_PER_CHN</comment>
+        <translation type="obsolete">Kingsoft Office 個人版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Personal</source>
+        <comment>_kso_ksoProductName_PER_VN</comment>
+        <translation type="obsolete">Kingsoft Office Personal</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Standard</source>
+        <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
+        <translation type="obsolete">Kingsoft Office 繁體中文專業版</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_SN_WPP</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_EDU_CHN</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_OEM_CHN</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PER_CHN</comment>
+        <translation type="obsolete">Kingsoft Presentation </translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PER_USA</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PRE_VN</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PRO_CHN</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PRO_CHT</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PRO_USA</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wppProductName_PRO_VN</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <comment>_kso_wpp_ProductName_PRO_JPN</comment>
+        <translation type="obsolete">Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation (Beta)</source>
+        <comment>_kso_wppProductName_Debug</comment>
+        <translation type="obsolete">Kingsoft Presentation (Beta)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_wpp</comment>
+        <translation type="obsolete">Kingsoft Presentation 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_wpp</comment>
+        <translation type="obsolete">Kingsoft Presentation 遇到問題，需要關閉</translation>
+    </message>
+    <message>
+        <source>Kingsoft Simulation Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_test</comment>
+        <translation type="obsolete">Kingsoft Office 模擬 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>Kingsoft Simulation has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_test</comment>
+        <translation type="obsolete">Kingsoft Office 模擬 遇到問題，需要關閉</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_SN_ET</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_EDU_CHN</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_OEM_CHN</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PER_CHN</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets </translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PER_USA</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PRE_VN</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_CHN</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_CHN_TEST</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_CHT</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_JPN</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_USA</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_VN</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets (Beta)</source>
+        <comment>_kso_etProductName_Debug</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets (Beta)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_et</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_et</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 遇到問題，需要關閉</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_SN_WPS</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_EDU_CHN</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_OEM_CHN</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PER_CHN</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PER_USA</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PER_VN</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PRO_CHN</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PRO_CHT</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PRO_JPN</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PRO_USA</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer</source>
+        <comment>_kso_wpsProductName_PRO_VN</comment>
+        <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer (Beta)</source>
+        <comment>_kso_wpsProductName_Debug</comment>
+        <translation type="obsolete">Kingsoft Writer (Beta)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_wps</comment>
+        <translation type="obsolete">Kingsoft Writer 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_wps</comment>
+        <translation type="obsolete">Kingsoft Writer 遇到問題，需要關閉</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -3524,20 +3967,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="obsolete">發送成功</translation>
     </message>
     <message>
-        <source>Send out successfully</source>
-        <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
-        <translation>發送成功</translation>
-    </message>
-    <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Content</comment>
         <translation>發送還沒有完成， 您確定要中止發送嗎?</translation>
     </message>
     <message>
-        <source>Sorry, WPS Office crashes.
+        <source>Sorry, Kingsoft Office crashes.
 You can click the button to recover files you work on.</source>
         <comment>_kso_crashdlg_warmtext</comment>
-        <translation>糟糕，崩潰了
+        <translation type="obsolete">糟糕，崩潰了
 您可以按一下按鈕嘗試回復之前的工作。</translation>
     </message>
     <message>
@@ -3584,13 +4022,6 @@ File: %s
 描述：%s
 檔案：%s
 </translation>
-    </message>
-    <message>
-        <source>The password is incorrect, please reenter.
-You can choose Read-only button to open it as read-only.</source>
-        <comment>_kso_Prompt_ModifyPassword</comment>
-        <translation>密碼不正確，請重新輸入。
-您也可以點 [唯讀] 按鈕，以唯讀模式開啟文件。</translation>
     </message>
     <message>
         <source>The password is incorrect, please reenter. You can choose Read-only button to open it as read-only.</source>
@@ -3656,7 +4087,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation type="unfinished"></translation>
+        <translation>本軟體產品僅限於個人使用者基於個人目的使用，禁止將本軟件用於生產、經營等商業用途或者其他用途。||本軟體包括：Hunspell拼字檢查庫，Hunspell源代碼為適用 MPL 1.1/GPL 2.0/LGPL 2.1開源許可協議的開源代碼。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
@@ -3682,351 +4113,6 @@ You can choose Read-only button to open it as read-only.</source>
         <source>Visio Files</source>
         <comment>_kso_filesearch_VisioFiles</comment>
         <translation>Visio 文件</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_Generic_MessageBox_Caption</comment>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation>WPS Office 專業版</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation>WPS Office 繁體中文專業版</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Office (Beta)</source>
-        <comment>_kso_ksoProductName_Debug</comment>
-        <translation>WPS Office (Beta)</translation>
-    </message>
-    <message>
-        <source>WPS Office (test)</source>
-        <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Office (測試版)</translation>
-    </message>
-    <message>
-        <source>WPS Office 2010 Professional Edition</source>
-        <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation>WPS Office 2010 專業增強版</translation>
-    </message>
-    <message>
-        <source>WPS Office Business Version</source>
-        <comment>_kso_ksoProductName_TRADE_CHN</comment>
-        <translation>WPS Office 商業版</translation>
-    </message>
-    <message>
-        <source>WPS Office Crashing Information</source>
-        <comment>_kso_crashdlg_caption</comment>
-        <translation>WPS Office 崩潰提示</translation>
-    </message>
-    <message>
-        <source>WPS Office Education</source>
-        <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation>WPS Office 教育版</translation>
-    </message>
-    <message>
-        <source>WPS Office Home</source>
-        <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation>WPS Office 家用版</translation>
-    </message>
-    <message>
-        <source>WPS Office OEM</source>
-        <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation>WPS Office OEM版</translation>
-    </message>
-    <message>
-        <source>WPS Office Personal</source>
-        <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation>WPS Office 個人版</translation>
-    </message>
-    <message>
-        <source>WPS Office Personal</source>
-        <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation>WPS Office Personal</translation>
-    </message>
-    <message>
-        <source>WPS Office Standard</source>
-        <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation>WPS Office 繁體中文專業版</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_SN_WPP</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation>WPS Presentation </translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PER_USA</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>WPS Presentation (Beta)</source>
-        <comment>_kso_wppProductName_Debug</comment>
-        <translation>WPS Presentation (Beta)</translation>
-    </message>
-    <message>
-        <source>WPS Presentation Error Recovery Help</source>
-        <comment>_kso_ErrorRep_ResumeHelp_Title_wpp</comment>
-        <translation>WPS Presentation 錯誤修復說明</translation>
-    </message>
-    <message>
-        <source>WPS Presentation has encountered a problem and needs to close.</source>
-        <comment>_kso_ErrorRep_MainDlg_Title_wpp</comment>
-        <translation>WPS Presentation 遇到問題，需要關閉</translation>
-    </message>
-    <message>
-        <source>WPS Simulation Error Recovery Help</source>
-        <comment>_kso_ErrorRep_ResumeHelp_Title_test</comment>
-        <translation>WPS Office 模擬 錯誤修復說明</translation>
-    </message>
-    <message>
-        <source>WPS Simulation has encountered a problem and needs to close.</source>
-        <comment>_kso_ErrorRep_MainDlg_Title_test</comment>
-        <translation>WPS Office 模擬 遇到問題，需要關閉</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_SN_ET</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PER_CHN</comment>
-        <translation>WPS Spreadsheets </translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PER_USA</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRE_VN</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_USA</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_VN</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets (Beta)</source>
-        <comment>_kso_etProductName_Debug</comment>
-        <translation>WPS Spreadsheets (Beta)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Error Recovery Help</source>
-        <comment>_kso_ErrorRep_ResumeHelp_Title_et</comment>
-        <translation>WPS Spreadsheets 錯誤修復說明</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
-        <comment>_kso_ErrorRep_MainDlg_Title_et</comment>
-        <translation>WPS Spreadsheets 遇到問題，需要關閉</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_SN_WPS</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName</comment>
-        <translation type="unfinished">WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS Writer (Beta)</source>
-        <comment>_kso_wpsProductName_Debug</comment>
-        <translation>WPS Writer (Beta)</translation>
-    </message>
-    <message>
-        <source>WPS Writer Error Recovery Help</source>
-        <comment>_kso_ErrorRep_ResumeHelp_Title_wps</comment>
-        <translation>WPS Writer 錯誤修復說明</translation>
-    </message>
-    <message>
-        <source>WPS Writer has encountered a problem and needs to close.</source>
-        <comment>_kso_ErrorRep_MainDlg_Title_wps</comment>
-        <translation>WPS Writer 遇到問題，需要關閉</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4073,6 +4159,380 @@ You can choose Read-only button to open it as read-only.</source>
         <comment>_kso_TxTransDesc_VBA</comment>
         <translation>run VBA</translation>
     </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_Generic_MessageBox_Caption</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_wps</comment>
+        <translation>WPS Writer 遇到問題，需要關閉</translation>
+    </message>
+    <message>
+        <source>WPS Presentation has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_wpp</comment>
+        <translation>WPS Presentation 遇到問題，需要關閉</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_et</comment>
+        <translation>WPS Spreadsheets 遇到問題，需要關閉</translation>
+    </message>
+    <message>
+        <source>WPS Simulation has encountered a problem and needs to close.</source>
+        <comment>_kso_ErrorRep_MainDlg_Title_test</comment>
+        <translation>WPS Office 模擬 遇到問題，需要關閉</translation>
+    </message>
+    <message>
+        <source>WPS Writer Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_wps</comment>
+        <translation>WPS Writer 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_wpp</comment>
+        <translation>WPS Presentation 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_et</comment>
+        <translation>WPS Spreadsheets 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>WPS Simulation Error Recovery Help</source>
+        <comment>_kso_ErrorRep_ResumeHelp_Title_test</comment>
+        <translation>WPS Office 模擬 錯誤修復說明</translation>
+    </message>
+    <message>
+        <source>Send out successfully</source>
+        <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
+        <translation>發送成功</translation>
+    </message>
+    <message>
+        <source>The password is incorrect, please reenter.
+You can choose Read-only button to open it as read-only.</source>
+        <comment>_kso_Prompt_ModifyPassword</comment>
+        <translation>密碼不正確，請重新輸入。
+您也可以點 [唯讀] 按鈕，以唯讀模式開啟文件。</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_SN_WPS</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_SN_WPP</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_SN_ET</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Office (Beta)</source>
+        <comment>_kso_ksoProductName_Debug</comment>
+        <translation>WPS Office (Beta)</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName_PRO_CHN</comment>
+        <translation>WPS Office 專業版</translation>
+    </message>
+    <message>
+        <source>WPS Office (test)</source>
+        <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
+        <translation>WPS Office (測試版)</translation>
+    </message>
+    <message>
+        <source>WPS Office OEM</source>
+        <comment>_kso_ksoProductName_OEM_CHN</comment>
+        <translation>WPS Office OEM版</translation>
+    </message>
+    <message>
+        <source>WPS Office Personal</source>
+        <comment>_kso_ksoProductName_PER_CHN</comment>
+        <translation>WPS Office 個人版</translation>
+    </message>
+    <message>
+        <source>WPS Office Education</source>
+        <comment>_kso_ksoProductName_EDU_CHN</comment>
+        <translation>WPS Office 教育版</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName_PRO_USA</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName_PER_USA</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName_PRO_JPN</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName_PRO_VN</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Writer (Beta)</source>
+        <comment>_kso_wpsProductName_Debug</comment>
+        <translation>WPS Writer (Beta)</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PRO_CHN</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_OEM_CHN</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PER_CHN</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_EDU_CHN</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PRO_USA</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PER_USA</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PRO_JPN</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PRO_VN</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Presentation (Beta)</source>
+        <comment>_kso_wppProductName_Debug</comment>
+        <translation>WPS Presentation (Beta)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PRO_CHN</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_OEM_CHN</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PER_CHN</comment>
+        <translation>WPS Presentation </translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_EDU_CHN</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PRO_USA</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PER_USA</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wpp_ProductName_PRO_JPN</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PRO_VN</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets (Beta)</source>
+        <comment>_kso_etProductName_Debug</comment>
+        <translation>WPS Spreadsheets (Beta)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_CHN</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_CHN_TEST</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_OEM_CHN</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PER_CHN</comment>
+        <translation>WPS Spreadsheets </translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_EDU_CHN</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_USA</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PER_USA</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_JPN</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_VN</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName_PRO_CHT</comment>
+        <translation>WPS Office 繁體中文專業版</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PRO_CHT</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PRO_CHT</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PRO_CHT</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Office Personal</source>
+        <comment>_kso_ksoProductName_PER_VN</comment>
+        <translation>WPS Office Personal</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName_PER_VN</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName_PRE_VN</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName_PRE_VN</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Office 2010 Professional Edition</source>
+        <comment>_kso_ksoProductName_dev_cn</comment>
+        <translation>WPS Office 2010 專業增強版</translation>
+    </message>
+    <message>
+        <source>WPS Office Standard</source>
+        <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
+        <translation>WPS Office 繁體中文專業版</translation>
+    </message>
+    <message>
+        <source>WPS Office Home</source>
+        <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
+        <translation>WPS Office 家用版</translation>
+    </message>
+    <message>
+        <source>WPS Office Crashing Information</source>
+        <comment>_kso_crashdlg_caption</comment>
+        <translation>WPS Office 崩潰提示</translation>
+    </message>
+    <message>
+        <source>Sorry, WPS Office crashes.
+You can click the button to recover files you work on.</source>
+        <comment>_kso_crashdlg_warmtext</comment>
+        <translation>糟糕，崩潰了
+您可以按一下按鈕嘗試回復之前的工作。</translation>
+    </message>
+    <message>
+        <source>WPS Office Business Version</source>
+        <comment>_kso_ksoProductName_TRADE_CHN</comment>
+        <translation>WPS Office 商業版</translation>
+    </message>
+    <message>
+        <source>Document Image Files</source>
+        <comment>_kso_filesearch_DocumentImagingFiles</comment>
+        <translation>文档图像文件</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <comment>_kso_filesearch_FileName</comment>
+        <translation>文件名</translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -4085,6 +4545,18 @@ You can choose Read-only button to open it as read-only.</source>
         <source>Custom</source>
         <comment>_kso_Print_CustomPaper</comment>
         <translation>自訂大小</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office cannot print. Please check whether the printer is turned on or connected.
+If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
+        <comment>_ksoErr_Print_InvalidPrinter</comment>
+        <translation type="obsolete">Kingsoft Office無法開始列印工作，請檢查印表機是否開機，並已連線。
+如果問題沒有解決，您可以通過 Windows 的印表機內容，列印測試頁，檢查印表機是否正確安裝。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office has not found any installed printers.</source>
+        <comment>_ksoErr_Print_NoPrinter</comment>
+        <translation type="obsolete">Kingsoft Office 發現您尚未安裝印表機。</translation>
     </message>
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
@@ -4106,18 +4578,23 @@ Do you want to continue?</source>
 是否繼續列印?</translation>
     </message>
     <message>
+        <source>Use printer settings</source>
+        <comment>_kso_Print_Pagesource</comment>
+        <translation>使用印表機設定</translation>
+    </message>
+    <message>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
 You can add the customized paper %dmm×%dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished">印表機對目前的紙張大小不支援! 繼續列印，效果可能會不理想。
+        <translation type="obsolete">印表機對目前的紙張大小不支援! 繼續列印，效果可能會不理想。
 您可以在印表機內容中，新增大小為%dmm×%dmm的自訂紙張後，再列印。
 是否繼續列印?</translation>
     </message>
     <message>
-        <source>Use printer settings</source>
-        <comment>_kso_Print_Pagesource</comment>
-        <translation>使用印表機設定</translation>
+        <source>WPS Office has not found any installed printers.</source>
+        <comment>_ksoErr_Print_NoPrinter</comment>
+        <translation>WPS Office 發現您尚未安裝印表機。</translation>
     </message>
     <message>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
@@ -4127,9 +4604,13 @@ If the problem still exists, you can print a test page by right-clicking the pri
 如果問題沒有解決，您可以通過 Windows 的印表機內容，列印測試頁，檢查印表機是否正確安裝。</translation>
     </message>
     <message>
-        <source>WPS Office has not found any installed printers.</source>
-        <comment>_ksoErr_Print_NoPrinter</comment>
-        <translation>WPS Office 發現您尚未安裝印表機。</translation>
+        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
+You can add the customized paper %dmm x %dmm in printer properties and print it again.
+Do you want to continue?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation type="unfinished">印表機對目前的紙張大小不支援! 繼續列印，效果可能會不理想。
+您可以在印表機內容中，新增大小為%dmm×%dmm的自訂紙張後，再列印。
+是否繼續列印?</translation>
     </message>
 </context>
 <context>
@@ -4148,11 +4629,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>%</source>
         <comment>kso_sPrecentUnitDefine</comment>
         <translation>%</translation>
-    </message>
-    <message>
-        <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
-        <comment>kso_COM_Addins_Crash_Alerts</comment>
-        <translation>(empty)</translation>
     </message>
     <message>
         <source>%d is illegal value.</source>
@@ -4290,11 +4766,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation>25%</translation>
     </message>
     <message>
-        <source>3-D Style %d</source>
-        <comment>kso_sThreeDStyleFormat</comment>
-        <translation>立體樣式 %d</translation>
-    </message>
-    <message>
         <source>30%</source>
         <comment>kso_s30Percent</comment>
         <translation>30%</translation>
@@ -4405,19 +4876,19 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation>ASCII (十六進位)</translation>
     </message>
     <message>
-        <source>About WPS Presentation</source>
+        <source>About Kingsoft Presentation</source>
         <comment>kso_sCaption_WPP</comment>
-        <translation>關於 WPS Presentation</translation>
+        <translation type="obsolete">關於 Kingsoft Presentation</translation>
     </message>
     <message>
-        <source>About WPS Spreadsheets</source>
+        <source>About Kingsoft Spreadsheets</source>
         <comment>kso_sCaption_ET</comment>
-        <translation>關於 WPS Spreadsheets</translation>
+        <translation type="obsolete">關於 Kingsoft Spreadsheets</translation>
     </message>
     <message>
-        <source>About WPS Writer</source>
+        <source>About Kingsoft Writer</source>
         <comment>kso_sCaption_WPS</comment>
-        <translation>關於 WPS Writer</translation>
+        <translation type="obsolete">關於 Kingsoft Writer</translation>
     </message>
     <message>
         <source>Add</source>
@@ -4453,11 +4924,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>An error occurred on printer &quot;%s&quot; !</source>
         <comment>kso_sCannotOpenPropertiesDialog</comment>
         <translation>印表機 &quot;%s&quot; 遇到了錯誤!</translation>
-    </message>
-    <message>
-        <source>An error occurred while importing this file %s.</source>
-        <comment>kso_sImportPictureError</comment>
-        <translation>匯入圖片檔案 %s 失敗</translation>
     </message>
     <message>
         <source>An error occurred while importing this file. %s</source>
@@ -4520,12 +4986,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation>箭號樣式 %d</translation>
     </message>
     <message>
-        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation>最少要顯示一個項目。
-如果您不想要顯示這個欄位，請取消目前的操作，然後將欄位拖曳出表外。</translation>
-    </message>
-    <message>
         <source>At least one item must be shown. If you do not want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <comment>kso_sErrMsg_HideAllItems</comment>
         <translation type="obsolete">最少要顯示一個項目。
@@ -4575,16 +5035,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>Automatic clear temporary files before close application.</source>
         <comment>kso_sClearTemp</comment>
         <translation type="obsolete">關閉程式之前，自動清除臨時檔案。</translation>
-    </message>
-    <message>
-        <source>Automatically check file security troubles before closing application.</source>
-        <comment>kso_sSecurityOptionClose</comment>
-        <translation>關閉檔案之前，會自動檢查檔案安全性危險。</translation>
-    </message>
-    <message>
-        <source>Automatically check file security troubles before sending e-mail.</source>
-        <comment>kso_sSendMail</comment>
-        <translation>[傳送郵件] 之前，會自動檢查檔案安全性危險。</translation>
     </message>
     <message>
         <source>Back</source>
@@ -4755,26 +5205,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>Circle (Pour)</source>
         <comment>kso_sWASCirclePour</comment>
         <translation>圓周</translation>
-    </message>
-    <message>
-        <source>Clear Recent File Lists automatically before closing application.</source>
-        <comment>kso_sClearRecents</comment>
-        <translation>關閉程式之前，自動清除歷史檔案清單。</translation>
-    </message>
-    <message>
-        <source>Clear backup files automatically before closing application.</source>
-        <comment>kso_sClearBackup</comment>
-        <translation>關閉程式之前，自動清除備份檔案。</translation>
-    </message>
-    <message>
-        <source>Clear clipboard automatically before closing application.</source>
-        <comment>kso_sClearClipboard</comment>
-        <translation>關閉程式之前，自動清空剪貼簿。</translation>
-    </message>
-    <message>
-        <source>Clear temporary files automatically before closing application.</source>
-        <comment>kso_sClearTemp</comment>
-        <translation>關閉程式之前，自動清除臨時檔案。</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -5140,11 +5570,6 @@ cycle</source>
         <translation>外掛程式設定修改失敗</translation>
     </message>
     <message>
-        <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
-        <comment>kso_sFailToSendMail</comment>
-        <translation>開啟本機端郵件失敗，請發送郵件到 %s 反應問題。</translation>
-    </message>
-    <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
         <comment>kso_sFailedToSaveSN</comment>
         <translation>儲存序號失敗。請確認您是否擁有管理員權限。</translation>
@@ -5350,11 +5775,6 @@ cycle</source>
         <translation>水平磚塊</translation>
     </message>
     <message>
-        <source>Ice Blue</source>
-        <comment>kso_sKclIceBlue</comment>
-        <translation>冰藍</translation>
-    </message>
-    <message>
         <source>IceBlue</source>
         <comment>kso_sKclIceBlue</comment>
         <translation type="obsolete">冰藍</translation>
@@ -5505,6 +5925,26 @@ cycle</source>
         <translation>KB</translation>
     </message>
     <message>
+        <source>Kingsoft Office updates have been downloaded, do you want to install them now?</source>
+        <comment>sHaveNewUpdatePatchTip</comment>
+        <translation type="obsolete">更新檔下載完成，是否需要立即安裝?</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation cannot access %s, the file name is invalid.</source>
+        <comment>kso_sWppFileNameNoEffect</comment>
+        <translation type="obsolete">Kingsoft Presentation 無法訪問 %s，檔案名稱無效。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets cannot access %s, the file name is invalid.</source>
+        <comment>kso_sEtFileNameNoEffect</comment>
+        <translation type="obsolete">Kingsoft Spreadsheets 無法訪問 %s，檔案名稱無效。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer cannot access %s, the file name is invalid.</source>
+        <comment>kso_sWpsFileNameNoEffect</comment>
+        <translation type="obsolete">Kingsoft Writer 無法訪問 %s，檔案名稱無效。</translation>
+    </message>
+    <message>
         <source>Large checkerboard</source>
         <comment>kso_sLargeCheckerBoard</comment>
         <translation>大西洋棋盤格</translation>
@@ -5595,29 +6035,14 @@ cycle</source>
         <translation>視需要載入</translation>
     </message>
     <message>
-        <source>Load on Demand (already loaded)</source>
-        <comment>kso_sConnectFirstTime</comment>
-        <translation>按需載入 (已載入)</translation>
-    </message>
-    <message>
         <source>Load on Demand (currently loaded)</source>
         <comment>kso_sConnectFirstTime</comment>
         <translation type="obsolete">按需載入 (已載入)</translation>
     </message>
     <message>
-        <source>Loading %s failed. Application will terminate. Please check and try again.</source>
-        <comment>kso_sLoadLibFailAndFatal_Text</comment>
-        <translation>載入 %s 失敗，應用程式即將中止。請檢查後再試。</translation>
-    </message>
-    <message>
         <source>Loading %s fails. Application will terminate. Please check and try again.</source>
         <comment>kso_sLoadLibFailAndFatal_Text</comment>
         <translation type="obsolete">載入 %s 失敗，應用程式即將中止。請檢查後再試。</translation>
-    </message>
-    <message>
-        <source>Loading DLL failed</source>
-        <comment>kso_sLoadLibFailAndFatal_Caption</comment>
-        <translation>載入動態連結庫失敗</translation>
     </message>
     <message>
         <source>Loading DLL fails</source>
@@ -5653,11 +6078,6 @@ cycle</source>
         <source>Mongolian;Braille;Yi Radicals</source>
         <comment>kso_sUnicodeSubsetList8</comment>
         <translation>蒙古文;點字;爨文偏旁;</translation>
-    </message>
-    <message>
-        <source>More Buttons</source>
-        <comment>kso_sTBChevronItemMoreButtonsHint</comment>
-        <translation>更多按鈕</translation>
     </message>
     <message>
         <source>More Buttons|</source>
@@ -5790,11 +6210,6 @@ cycle</source>
         <translation>改寫</translation>
     </message>
     <message>
-        <source>Ocean Blue</source>
-        <comment>kso_sKclOceanBlue</comment>
-        <translation>海藍</translation>
-    </message>
-    <message>
         <source>OceanBlue</source>
         <comment>kso_sKclOceanBlue</comment>
         <translation type="obsolete">海藍</translation>
@@ -5828,11 +6243,6 @@ cycle</source>
         <source>Open in broser</source>
         <comment>kso_Nav_OpenBroser</comment>
         <translation type="obsolete">從瀏覽器開啟</translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <comment>kso_Nav_OpenBroser</comment>
-        <translation>從瀏覽器開啟</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -5897,11 +6307,6 @@ Used to show hierarchical relationships</source>
         <translation>粉紅</translation>
     </message>
     <message>
-        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
-        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation>無法在新工作表建立樞紐分析表，因為目前工作薄已設定保護。請您選取一個已經存在的工作表，或者取消工作薄保護。</translation>
-    </message>
-    <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
         <translation type="obsolete">無法在新工作表建立樞紐分析表，因為目前工作薄已設定保護。請您選取一個已經存在的工作表，或者取消工作薄保護。</translation>
@@ -5935,11 +6340,6 @@ Used to show hierarchical relationships</source>
         <source>Please input the password of permission setting!</source>
         <comment>kso_sNoPasswordInput</comment>
         <translation type="obsolete">請輸入使用權限設定密碼!</translation>
-    </message>
-    <message>
-        <source>Please input the password of permission setting.</source>
-        <comment>kso_sNoPasswordInput</comment>
-        <translation>請輸入使用權限設定密碼!</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -6243,17 +6643,17 @@ Used to show steps toward a goal</source>
         <translation>文字</translation>
     </message>
     <message>
-        <source>Thank you for choosing WPS Office series product.
+        <source>Thank you for choosing Kingsoft Office series product.
 
-You have installed WPS Office Personal Trial Edition.
+You have installed Kingsoft Office Personal Trial Edition.
 For better service, please update the trial edition to standard edition by:
-1. Click the &quot;Validate Your WPS Passport&quot;. If you have not registered a WPS Passport, please click the&quot;Register WPS Passport&quot; first;
-2. Click the &quot;WPS Passport&quot; under &quot;Help&quot; menu.</source>
+1. Click the &quot;Validate Your Kingsoft Passport&quot;. If you have not registered a Kingsoft Passport, please click the&quot;Register Kingsoft Passport&quot; first;
+2. Click the &quot;Kingsoft Passport&quot; under &quot;Help&quot; menu.</source>
         <comment>kso_sTrialNotification</comment>
-        <translation>感謝使用 WPS Office 系列產品！
+        <translation type="obsolete">感謝使用 Kingsoft Office 系列產品！
 
-您現在安裝的是 WPS Office 2009 個人版 的試用版本。
-為方便我們提供給您更好的服務，您可以選取以下的一種方式，升級為 WPS Office 2009 個人版 的正式版使用者：
+您現在安裝的是 Kingsoft Office 2009 個人版 的試用版本。
+為方便我們提供給您更好的服務，您可以選取以下的一種方式，升級為 Kingsoft Office 2009 個人版 的正式版使用者：
 1、按一下下方的&quot;立即驗證通行證&quot;，驗證您的金山通行証；如果您還未註冊通行証，請先按一下&quot;註冊金山通行証&quot;，進行線上註冊；
 2、通過產品&quot;說明&quot;選單下的&quot;金山通行証...&quot;入口，進行驗證。</translation>
     </message>
@@ -6332,14 +6732,6 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation>圖片過大，不允許用作紋理。</translation>
     </message>
     <message>
-        <source>The position you chose to place the PivotTable is not valid. 
-Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
-        <translation>您選取的放置樞紐分析表之位置，為不正確。
-請確認該位置是一個合法的參照範圍，並且非隱藏工作表上的範圍。
-如果參照範圍位於被保護的工作表上，請先撤銷工作表保護。</translation>
-    </message>
-    <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
         <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
         <translation type="obsolete">您選取的放置樞紐分析表之位置，為不正確。
@@ -6375,11 +6767,6 @@ Please make sure it is a valid reference range, and not a range of a hidden shee
         <source>There is no %s font on your system, the text will be shown in a substitute font. Do you want to use it anyway?</source>
         <comment>kso_sFontNotExists</comment>
         <translation>您的系統沒有 %s 字型，因此改用別的字型替代。是否仍要使用這個字型?</translation>
-    </message>
-    <message>
-        <source>This is not a valid integer.</source>
-        <comment>kso_sTextDeclined_IntWarning</comment>
-        <translation>您輸入的內容，非有效的整數值。</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
@@ -6500,26 +6887,6 @@ elements</source>
         <translation>紫</translation>
     </message>
     <message>
-        <source>WPS Office updates have been downloaded, do you want to install them now?</source>
-        <comment>sHaveNewUpdatePatchTip</comment>
-        <translation>更新檔下載完成，是否需要立即安裝?</translation>
-    </message>
-    <message>
-        <source>WPS Presentation cannot access %s, the file name is invalid.</source>
-        <comment>kso_sWppFileNameNoEffect</comment>
-        <translation>WPS Presentation 無法訪問 %s，檔案名稱無效。</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot access %s, the file name is invalid.</source>
-        <comment>kso_sEtFileNameNoEffect</comment>
-        <translation>WPS Spreadsheets 無法訪問 %s，檔案名稱無效。</translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot access %s, the file name is invalid.</source>
-        <comment>kso_sWpsFileNameNoEffect</comment>
-        <translation>WPS Writer 無法訪問 %s，檔案名稱無效。</translation>
-    </message>
-    <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
         <comment>kso_sSaveTxtWaring</comment>
         <translation>警告: 儲存成文字檔將造成檔案中所有的格式、圖片和物件遺失。</translation>
@@ -6543,11 +6910,6 @@ elements</source>
         <source>Weave</source>
         <comment>kso_sWeave</comment>
         <translation>針織</translation>
-    </message>
-    <message>
-        <source>What you entered is invalid.</source>
-        <comment>kso_sTextDeclined_FloatWarning</comment>
-        <translation>您輸入的內容，無效。</translation>
     </message>
     <message>
         <source>White</source>
@@ -6598,13 +6960,6 @@ elements</source>
 請檢查參照範圍是否有效，指定工作表是否存在。</translation>
     </message>
     <message>
-        <source>You cannot modify the PivotTable with these data.
-Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <comment>kso_sErrorWhenModifyTable</comment>
-        <translation>您不能使用目前資料，來修改已有的樞紐分析表。
-請檢查參照範圍是否有效，指定工作表是否存在。</translation>
-    </message>
-    <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenModifyTable</comment>
         <translation type="obsolete">您不能使用目前資料，來修改已有的樞紐分析表。
@@ -6624,11 +6979,6 @@ Please check your data and make sure that the reference is valid and the workshe
         <source>Zig zag</source>
         <comment>kso_sZigZag</comment>
         <translation type="obsolete">鋸齒</translation>
-    </message>
-    <message>
-        <source>Zigzag</source>
-        <comment>kso_sZigZag</comment>
-        <translation>鋸齒</translation>
     </message>
     <message>
         <source>[Restricted]</source>
@@ -6659,6 +7009,187 @@ Please check your data and make sure that the reference is valid and the workshe
         <source>— (EmDash)</source>
         <comment>kso_sSeparatorEmDash</comment>
         <translation>— (連線號)</translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets</source>
+        <comment>kso_sCaption_ET</comment>
+        <translation>關於 WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <comment>kso_sCaption_WPP</comment>
+        <translation>關於 WPS Presentation</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <comment>kso_sCaption_WPS</comment>
+        <translation>關於 WPS Writer</translation>
+    </message>
+    <message>
+        <source>Clear backup files automatically before closing application.</source>
+        <comment>kso_sClearBackup</comment>
+        <translation>關閉程式之前，自動清除備份檔案。</translation>
+    </message>
+    <message>
+        <source>Clear clipboard automatically before closing application.</source>
+        <comment>kso_sClearClipboard</comment>
+        <translation>關閉程式之前，自動清空剪貼簿。</translation>
+    </message>
+    <message>
+        <source>Clear Recent File Lists automatically before closing application.</source>
+        <comment>kso_sClearRecents</comment>
+        <translation>關閉程式之前，自動清除歷史檔案清單。</translation>
+    </message>
+    <message>
+        <source>Clear temporary files automatically before closing application.</source>
+        <comment>kso_sClearTemp</comment>
+        <translation>關閉程式之前，自動清除臨時檔案。</translation>
+    </message>
+    <message>
+        <source>Load on Demand (already loaded)</source>
+        <comment>kso_sConnectFirstTime</comment>
+        <translation>按需載入 (已載入)</translation>
+    </message>
+    <message>
+        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
+        <comment>kso_sErrMsg_HideAllItems</comment>
+        <translation>最少要顯示一個項目。
+如果您不想要顯示這個欄位，請取消目前的操作，然後將欄位拖曳出表外。</translation>
+    </message>
+    <message>
+        <source>The position you chose to place the PivotTable is not valid. 
+Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
+        <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
+        <translation>您選取的放置樞紐分析表之位置，為不正確。
+請確認該位置是一個合法的參照範圍，並且非隱藏工作表上的範圍。
+如果參照範圍位於被保護的工作表上，請先撤銷工作表保護。</translation>
+    </message>
+    <message>
+        <source>You cannot modify the PivotTable with these data.
+Please check your data and make sure that the reference is valid and the worksheet exists.</source>
+        <comment>kso_sErrorWhenModifyTable</comment>
+        <translation>您不能使用目前資料，來修改已有的樞紐分析表。
+請檢查參照範圍是否有效，指定工作表是否存在。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot access %s, the file name is invalid.</source>
+        <comment>kso_sEtFileNameNoEffect</comment>
+        <translation>WPS Spreadsheets 無法訪問 %s，檔案名稱無效。</translation>
+    </message>
+    <message>
+        <source>An error occurred while importing this file %s.</source>
+        <comment>kso_sImportPictureError</comment>
+        <translation>匯入圖片檔案 %s 失敗</translation>
+    </message>
+    <message>
+        <source>Ice Blue</source>
+        <comment>kso_sKclIceBlue</comment>
+        <translation>冰藍</translation>
+    </message>
+    <message>
+        <source>Ocean Blue</source>
+        <comment>kso_sKclOceanBlue</comment>
+        <translation>海藍</translation>
+    </message>
+    <message>
+        <source>Loading DLL failed</source>
+        <comment>kso_sLoadLibFailAndFatal_Caption</comment>
+        <translation>載入動態連結庫失敗</translation>
+    </message>
+    <message>
+        <source>Loading %s failed. Application will terminate. Please check and try again.</source>
+        <comment>kso_sLoadLibFailAndFatal_Text</comment>
+        <translation>載入 %s 失敗，應用程式即將中止。請檢查後再試。</translation>
+    </message>
+    <message>
+        <source>Automatically check file security troubles before closing application.</source>
+        <comment>kso_sSecurityOptionClose</comment>
+        <translation>關閉檔案之前，會自動檢查檔案安全性危險。</translation>
+    </message>
+    <message>
+        <source>Automatically check file security troubles before sending e-mail.</source>
+        <comment>kso_sSendMail</comment>
+        <translation>[傳送郵件] 之前，會自動檢查檔案安全性危險。</translation>
+    </message>
+    <message>
+        <source>More Buttons</source>
+        <comment>kso_sTBChevronItemMoreButtonsHint</comment>
+        <translation>更多按鈕</translation>
+    </message>
+    <message>
+        <source>What you entered is invalid.</source>
+        <comment>kso_sTextDeclined_FloatWarning</comment>
+        <translation>您輸入的內容，無效。</translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <comment>kso_sTextDeclined_IntWarning</comment>
+        <translation>您輸入的內容，非有效的整數值。</translation>
+    </message>
+    <message>
+        <source>3-D Style %d</source>
+        <comment>kso_sThreeDStyleFormat</comment>
+        <translation>立體樣式 %d</translation>
+    </message>
+    <message>
+        <source>Thank you for choosing WPS Office series product.
+
+You have installed WPS Office Personal Trial Edition.
+For better service, please update the trial edition to standard edition by:
+1. Click the &quot;Validate Your WPS Passport&quot;. If you have not registered a WPS Passport, please click the&quot;Register WPS Passport&quot; first;
+2. Click the &quot;WPS Passport&quot; under &quot;Help&quot; menu.</source>
+        <comment>kso_sTrialNotification</comment>
+        <translation>感謝使用 WPS Office 系列產品！
+
+您現在安裝的是 WPS Office 2009 個人版 的試用版本。
+為方便我們提供給您更好的服務，您可以選取以下的一種方式，升級為 WPS Office 2009 個人版 的正式版使用者：
+1、按一下下方的&quot;立即驗證通行證&quot;，驗證您的金山通行証；如果您還未註冊通行証，請先按一下&quot;註冊金山通行証&quot;，進行線上註冊；
+2、通過產品&quot;說明&quot;選單下的&quot;金山通行証...&quot;入口，進行驗證。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot access %s, the file name is invalid.</source>
+        <comment>kso_sWppFileNameNoEffect</comment>
+        <translation>WPS Presentation 無法訪問 %s，檔案名稱無效。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot access %s, the file name is invalid.</source>
+        <comment>kso_sWpsFileNameNoEffect</comment>
+        <translation>WPS Writer 無法訪問 %s，檔案名稱無效。</translation>
+    </message>
+    <message>
+        <source>Zigzag</source>
+        <comment>kso_sZigZag</comment>
+        <translation>鋸齒</translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
+        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
+        <translation>無法在新工作表建立樞紐分析表，因為目前工作薄已設定保護。請您選取一個已經存在的工作表，或者取消工作薄保護。</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission setting.</source>
+        <comment>kso_sNoPasswordInput</comment>
+        <translation>請輸入使用權限設定密碼!</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <comment>kso_Nav_OpenBroser</comment>
+        <translation>從瀏覽器開啟</translation>
+    </message>
+    <message>
+        <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
+        <comment>kso_sFailToSendMail</comment>
+        <translation>開啟本機端郵件失敗，請發送郵件到 %s 反應問題。</translation>
+    </message>
+    <message>
+        <source>WPS Office updates have been downloaded, do you want to install them now?</source>
+        <comment>sHaveNewUpdatePatchTip</comment>
+        <translation>更新檔下載完成，是否需要立即安裝?</translation>
+    </message>
+    <message>
+        <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
+        <comment>kso_COM_Addins_Crash_Alerts</comment>
+        <translation>(empty)</translation>
     </message>
 </context>
 </TS>

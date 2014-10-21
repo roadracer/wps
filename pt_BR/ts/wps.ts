@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="pt_BR">
 <context>
     <name>BordersAndShadingWidget</name>
     <message>
@@ -2135,7 +2137,7 @@ usar os botões para aplicar bordas</translation>
     </message>
     <message>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="obsolete">-</translation>
     </message>
     <message>
         <source>g1</source>
@@ -4114,6 +4116,93 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgMergeCompare</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Field&amp;s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Original document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Revised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comparison settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertions and Deletions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;ables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comme&amp;nts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnotes and en&amp;dnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xtboxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Case chan&amp;ges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>Merge to Different New Document</source>
@@ -4638,7 +4727,7 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation>Autoformatação</translation>
+        <translation type="obsolete">Autoformatação</translation>
     </message>
     <message>
         <source>A&amp;uto circle number</source>
@@ -4730,7 +4819,7 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     </message>
     <message>
         <source>&amp;Create backup file at the first save</source>
-        <translation>Criar arquivo de backup na primeira salvar</translation>
+        <translation type="obsolete">Criar arquivo de backup na primeira salvar</translation>
     </message>
     <message>
         <source>Save backup f&amp;ile every:</source>
@@ -5370,7 +5459,7 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Documentos Recentes</translation>
+        <translation type="obsolete">Documentos Recentes</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -5481,6 +5570,46 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     <message>
         <source>Help us to improve WPS Office</source>
         <translation>Ajude-Nos A Melhorar Wps Office</translation>
+    </message>
+    <message>
+        <source>Set default target out&amp;put to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>220 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>150 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>96 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reminder for embedding &amp;cloud fonts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7317,7 +7446,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
-        <translation>Salvar Adobe Pdf Arquivo Como</translation>
+        <translation type="obsolete">Salvar Adobe Pdf Arquivo Como</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf|All File(*.*)|*.*</source>
@@ -7334,6 +7463,10 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
         <translation>O Arquivo Especificado Já Existe. Tem Certeza Que Deseja Substituir O Arquivo Existente ?</translation>
+    </message>
+    <message>
+        <source>Save PDF File As</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7741,7 +7874,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Sounds like(English)</source>
-        <translation>Parece ( Inglês )</translation>
+        <translation type="obsolete">Parece ( Inglês )</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -8412,6 +8545,65 @@ Esta Alteração Afetará Todos Os Novos Documentos Baseados No Modelo %1 .</tra
     </message>
 </context>
 <context>
+    <name>KxMergeCompareDlg</name>
+    <message>
+        <source>browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compare Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Abrir</translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxMergeToDiffNewDocDlg</name>
     <message>
         <source>The number must not be nil</source>
@@ -8457,7 +8649,7 @@ Esta Alteração Afetará Todos Os Novos Documentos Baseados No Modelo %1 .</tra
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation>O Número Não Deve Ser Nulo</translation>
+        <translation type="obsolete">O Número Não Deve Ser Nulo</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -8466,6 +8658,10 @@ Esta Alteração Afetará Todos Os Novos Documentos Baseados No Modelo %1 .</tra
     <message>
         <source>The number must be between %1 and %2.</source>
         <translation>O Número Deve Estar Entre %1 e %2 .</translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8914,6 +9110,21 @@ Cancelar : Retorna Ao Diálogo.</translation>
     </message>
 </context>
 <context>
+    <name>KxOnlineFontTipDlg</name>
+    <message>
+        <source>Renew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>By author</source>
@@ -9023,7 +9234,7 @@ Cancelar : Retorna Ao Diálogo.</translation>
     </message>
     <message>
         <source>?</source>
-        <translation>?</translation>
+        <translation type="obsolete">?</translation>
     </message>
     <message>
         <source>1</source>
@@ -9084,6 +9295,46 @@ Cancelar : Retorna Ao Diálogo.</translation>
     <message>
         <source>The measurement must be between 1 and 12.</source>
         <translation>A Medição Deve Ser Entre 1 e 12 .</translation>
+    </message>
+    <message utf8="true">
+        <source>①</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>②</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>③</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>④</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>⑤</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>⑥</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>⑦</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>⑧</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>⑨</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>⑩</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9169,6 +9420,10 @@ Esta Alteração Afetará Todos Os Novos Documentos Baseados No Modelo %1 .</tra
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation>O Número Deve Estar Entre %1 e %2 . Tente Novamente , Digitando Um Número Neste Intervalo.</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished">Esta Não É Uma Medida Válida .</translation>
     </message>
 </context>
 <context>
@@ -10601,6 +10856,13 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
 </context>
 <context>
+    <name>KxWpsGalleryFontComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
@@ -10626,7 +10888,11 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show header line</source>
-        <translation>Exibir Linha de Cabeçalho</translation>
+        <translation type="obsolete">Exibir Linha de Cabeçalho</translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10726,7 +10992,7 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     <name>KxWpsLocateCloseBtn</name>
     <message>
         <source>Close</source>
-        <translation>Fechar</translation>
+        <translation type="obsolete">Fechar</translation>
     </message>
 </context>
 <context>
@@ -10766,6 +11032,21 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     <message>
         <source>yyyy years MM months dd days</source>
         <translation>aaaa anos MM mês dd dias</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsMainWindow</name>
+    <message>
+        <source>Command name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11555,6 +11836,10 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
         <translation>Não Macros Está Gravando . Clique Para Começar A Gravar Uma Novo Macro .</translation>
     </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
@@ -11600,7 +11885,7 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation>Exportar Adobe Pdf File</translation>
+        <translation type="obsolete">Exportar Adobe Pdf File</translation>
     </message>
     <message>
         <source>General</source>
@@ -11718,6 +12003,10 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
         <source>File open password:</source>
         <translation>Senha Do Arquivo Aberto :</translation>
     </message>
+    <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -11731,7 +12020,11 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Exportação Para Adobe Pdf File</translation>
+        <translation type="obsolete">Exportação Para Adobe Pdf File</translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

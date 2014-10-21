@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="pt_BR">
 <context>
     <name>BulletNumberGridWidget</name>
     <message>
@@ -750,6 +752,14 @@
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation>Siga fundo esquema de cores , siga o texto e linhas de esquema de cores, sombras siga esquema de cores , siga título texto color scheme , siga fills esquema de cores , siga accent esquema de cores , siga accent e hyperlink esquema de cores , siga destaque e esquema de cores</translation>
     </message>
+    <message>
+        <source>bgMagic tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxBrowseSlidesDlg</name>
@@ -941,6 +951,18 @@
     <message>
         <source>I&amp;gnore the background of master slide</source>
         <translation>Ignore o fundo do slide mestre</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic Backgroud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1811,6 +1833,22 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
         <source>Help us to improve WPS Office</source>
         <translation>Ajude-nos a melhorar wps office</translation>
     </message>
+    <message>
+        <source>Preserve &amp;fidelity when sharing this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -1851,7 +1889,7 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     </message>
     <message>
         <source>On-screen show</source>
-        <translation>On- screen show</translation>
+        <translation type="obsolete">On- screen show</translation>
     </message>
     <message>
         <source>Letter Paper(8.5x11 Inch)</source>
@@ -1883,7 +1921,7 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     </message>
     <message>
         <source>Projector</source>
-        <translation>Projetar</translation>
+        <translation type="obsolete">Projetar</translation>
     </message>
     <message>
         <source>Banner</source>
@@ -1948,6 +1986,26 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     <message>
         <source>Notes, handouts and outline</source>
         <translation>Cometários, folheto e contorno</translation>
+    </message>
+    <message>
+        <source>Fullscreen(4:3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overhead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:9)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:10)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widescreen</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2531,7 +2589,7 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     </message>
     <message>
         <source>Save Adobe PDF File</source>
-        <translation>Salvar adobe pdf file</translation>
+        <translation type="obsolete">Salvar adobe pdf file</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
@@ -2576,6 +2634,10 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
         <translation>Ou garantir que os slides não estão mais escondidos , ot optar por exportar slides ocultos .</translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4226,7 +4288,7 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation>Exportar adobe pdf file</translation>
+        <translation type="obsolete">Exportar adobe pdf file</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -4420,6 +4482,10 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
         <source>File open password:</source>
         <translation>Senha do arquivo aberto :</translation>
     </message>
+    <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -4437,7 +4503,11 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     </message>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Exportação para adobe pdf file</translation>
+        <translation type="obsolete">Exportação para adobe pdf file</translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

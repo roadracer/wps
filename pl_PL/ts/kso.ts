@@ -543,7 +543,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDSOURCE_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objekt %s</translation>
     </message>
     <message>
         <source>Picture(JPEG)</source>
@@ -1446,22 +1446,22 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>WPS Writer</source>
         <comment>DgUil_KSO_WPS_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>DgUil_KSO_ET_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>DgUil_KSO_WPP_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_POINT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pkt.</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -2215,11 +2215,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Stored Data</source>
         <comment>DRAWINGSTR_FLOWCHARTONLINESTORAGE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Flowchart: Seqential Access Storage</source>
-        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3170,7 +3165,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>3-D Color</source>
         <comment>DRAWINGSTR_DGMSTYLE_3D_COLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolor 3D</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -3235,6 +3230,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>FreeForm</source>
         <comment>DRAWINGSTR_FREEFORM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3762,22 +3762,22 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Office</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
@@ -3837,47 +3837,47 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
@@ -3887,47 +3887,47 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
@@ -3937,52 +3937,52 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Office</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
@@ -3992,17 +3992,17 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
@@ -4017,17 +4017,17 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRE_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
@@ -4243,7 +4243,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>File Name</source>
         <comment>_kso_filesearch_FileName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa pliku</translation>
     </message>
     <message>
         <source>Files of Type</source>
@@ -4283,13 +4283,6 @@ You can click the button to recover files you work on.</source>
 </context>
 <context>
     <name>kso_print</name>
-    <message utf8="true">
-        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
-You can add the customized paper %dmm�%dmm in printer properties and print it again.
-Do you want to continue?</source>
-        <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>WPS Office has not found any installed printers.</source>
         <comment>_ksoErr_Print_NoPrinter</comment>
@@ -4324,6 +4317,13 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
+You can add the customized paper %dmm x %dmm in printer properties and print it again.
+Do you want to continue?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5434,7 +5434,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Patterned Lines</source>
         <comment>kso_sLineFormatCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przerywane linie</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -5649,7 +5649,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>pt</source>
         <comment>kso_sPound</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pkt.</translation>
     </message>
     <message>
         <source>%</source>

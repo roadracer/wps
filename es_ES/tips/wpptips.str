@@ -1,0 +1,877 @@
+[TIPS]
+3DColor.title=3-D Color
+3DColor.content=Fill the selected 3-D shape with color.\n\nClick the arrow to select from different 3-D colors.
+
+3DColor2.title=3-D Color
+3DColor2.content=Click the arrow to select from different 3-D colors.
+
+3DDepthMenu.title=Depth
+3DDepthMenu.content=Change the height of the selected 3-D shape.
+
+3DOnOff.title=3-D On/Off
+3DOnOff.content=Turn on or off the 3-D effect applied to the shape.
+
+3DStylePalette.title=3-D Effects
+3DStylePalette.content=Add a 3-D effect to the shape.
+
+3DSurfaceMenu.title=Surface
+3DSurfaceMenu.content=Choose a surface effect for the selected 3-D shape in the document.
+
+3DTiltDown.title=Tilt Down
+3DTiltDown.content=Tilt the shape forward.
+
+3DTiltLeft.title=Tilt Left
+3DTiltLeft.content=Tilt the shape to the left.
+
+3DTiltRight.title=Tilt Right
+3DTiltRight.content=Tilt the shape to the right.
+
+3DTiltUp.title=Tilt Up
+3DTiltUp.content=Tilt the shape backward.
+
+ActionSetting.title=Action Settings
+ActionSetting.content=Add an action to the selected object to specify what should happen when you click on it or hover over it with your mouse.
+
+AddAssistant.title=Add Assistant
+AddAssistant.content=Add an assistant for the selected member.
+
+AddCoworker.title=Add Coworker
+AddCoworker.content=Add a coworker for the selected member.
+
+AddSubordinate.title=Add Subordinate
+AddSubordinate.content=Add a subordinate for the selected member.
+
+AlignBottom.title=Align Bottom
+AlignBottom.content=Align text to the bottom of the cell.
+
+AlignCenter.title=Center Vertically
+AlignCenter.content=Vertically center the text.
+
+AlignTop.title=Align Top
+AlignTop.content=Align text to the top of the cell.
+
+AnimationSchemes.title=Animation Schemes
+AnimationSchemes.content=Show the Slide Design - Animation Schemes task window to set up transition and animation effects to the current slide or entire presentation.
+AnimationSchemes.img=WPPAnimationSchemes
+
+Arrange.title=Arrange
+Arrange.content="Arrange objects on the slides by changing their order, position and rotation."
+
+ArrangeAll.title=Arrange All
+ArrangeAll.content=Tile all open documents side-by-side under the same program window.
+
+AutoVersion.title=Enable Auto Backup
+AutoVersion.content="Enable auto backup for the current document, save backup file to File Safe each time the document is closed."
+
+Autobackup.title=File Safe
+Autobackup.content=A brief introduction to File Safe.
+
+Backdrop.title=Background
+Backdrop.content=Set the background style to the current slide or entire presentation.
+
+BackgroundMusic.title=Insert Background Music
+BackgroundMusic.content="Insert an audio file from local folder. The slide show will automatically play the audio, which will be looped until the end of the slide show."
+
+Bold.title=Bold
+Bold.content=Make the selected text bold.
+
+BordersFill.title=Borders
+BordersFill.content="Set border style, color and width of the current slide."
+
+BringForward.title=Bring Forward
+BringForward.content=Bring the selected object forward so that it is hidden by fewer objects that are in front of it.
+
+BringForward2.title=Bring Forward
+BringForward2.content=Bring the selected objects forward one level or to the front of all objects.
+
+Bullets.title=Bullets
+Bullets.content=Start a bulleted list.\n\nClick the arrow to select different bullet styles.
+
+Bullets2.title=Bullets
+Bullets2.content=Click the arrow to select different bullet styles.
+
+COMAddIns.title=COM Add-Ins
+COMAddIns.content=Add or delete available COM Add-Ins.
+
+CTB_MoreControls.title=More Controls
+CTB_MoreControls.content=Click here to insert a control from the set of controls available on this computer.
+
+CTB_Property.title=Control Properties
+CTB_Property.content=View and modify properties for the selected control.
+
+CTB_ViewCode.title=View Code
+CTB_ViewCode.content=Launch Visual Basic editor to edit the code of the selected controls.
+
+ChangePicture.title=Change Picture
+ChangePicture.content="Change to a different picture, preserving the formatting and size of the current picture."
+
+ChangeTextDir.title=Text Direction
+ChangeTextDir.content=Change the orientation of text to horizontal or vertical.
+
+CheckSpelling.title=Spell Check
+CheckSpelling.content=Check the spelling of the text in the current document.
+
+ChineseTranslation.title=Simplified to Traditional Chinese
+ChineseTranslation.content=Set Simplified to Traditional Chinese translation based upon the character or word.
+
+ClearTableStyle.title=Clear Table Style
+ClearTableStyle.content=Clear table style of selected cells.
+
+CloseDevelopmentTools.title=Close
+CloseDevelopmentTools.content=Click here to hide Developer Tools.
+
+CloseOtherWindow.title=Close Other Windows
+CloseOtherWindow.content=Close all other windows except the current one.
+
+CloseWindow.title=Close Window
+CloseWindow.content=Close the current window.
+
+Color.title=Color
+Color.content=Set either color or pure black and white printing to the current presentation.
+
+ColorScheme.title=Color Schemes
+ColorScheme.content="Show the Slide Design - Color Schemes task window to set up the color scheme of titles, bullets and objects for the current slide or entire presentation."
+ColorScheme.img=WPPColorScheme
+
+CompressPictures.title=Compress Pictures
+CompressPictures.content=Compress the selected picture or all pictures to reduce size.
+
+Copy.title=Copy
+Copy.content=Copy the selection and put it on the system Clipboard.
+
+CustomAnimation.title=Custom Animation
+CustomAnimation.content=Show the Custom Animation task window to set up animation effects to the text or object in the current slide.
+CustomAnimation.img=WPPCustomAnimation
+
+CustomShows.title=Custom Slide Shows
+CustomShows.content=A custom slide show only displays the slides you selected.
+
+Cut.title=Cut
+Cut.content=Cut the selection and put it on the system Clipboard.
+
+DecreaseFontSize.title=Decrease Font Size
+DecreaseFontSize.content=Decrease the font size.
+
+DecreaseIndent.title=Decrease List Level
+DecreaseIndent.content=Decrease the indent level.
+
+DecreaseSpace.title=Decrease Spacing
+DecreaseSpace.content=Decrease spacing between lines.
+
+Delete.title=Delete
+Delete.content="Delete rows, colums, cells, or entire table."
+
+DeleteComment.title=Delete Comment
+DeleteComment.content=Delete the comment.
+
+DeleteMaster.title=Delete Master
+DeleteMaster.content=Delete the selected slide master.
+
+DeleteMember.title=Delete Member
+DeleteMember.content=Delete the selected member
+
+DetailedSettings_DrawingTools.title=Settings
+DetailedSettings_DrawingTools.content=Change the settings of shape formatting.
+
+DetailedSettings_Home.title=Settings
+DetailedSettings_Home.content=Change the settings of font.
+
+DetailedSettings_PictureTools.title=Settings
+DetailedSettings_PictureTools.content=Change the settings of picture formatting.
+
+DetailedSettings_WordArt.title=Settings
+DetailedSettings_WordArt.content=Change the settings of WordArt formatting.
+
+DevelopmentTools.title=Developer Tools
+DevelopmentTools.content="Open the Developer Tools tab to insert the Option Button, Check Box and more."
+
+Direction.title=Direction
+Direction.content=Choose the direction effect of the selected 3-D Shape.
+
+DistColumnSevenly.title=Distribute Columns Evenly
+DistColumnSevenly.content=Distribute the width of the selected columns equally between them.
+
+DistRowSevenly.title=Distribute Rows Evenly
+DistRowSevenly.content=Distribute the height of the selected rows equally between them.
+
+Distributed.title=Distributed
+Distributed.content=Align paragraph to both the left and right margins by adding extra space between characters as necessary.
+
+DrawAlignLeft.title=Align
+DrawAlignLeft.content=Align the selected object.
+
+DrawAlignTop.title=Align Text
+DrawAlignTop.content=Setting the alignment to the text.\n\nClick the arrow to select a different alignment.
+
+DrawAlignTop2.title=Align Text
+DrawAlignTop2.content=Click the arrow to select a different alignment.
+
+DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
+DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+
+DuplicateSlide.title=New copy of slide
+DuplicateSlide.content=Insert a duplicate of the current slide into the presentation.
+
+DynamicShape.title=Insert Shapes
+DynamicShape.content="Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts."
+
+EditComment.title=Edit Comment
+EditComment.content=Edit the comment.
+
+EditPoints.title=Edit Points
+EditPoints.content=Edit the wrap points to change the shape.
+
+EditWordArtText.title=Edit WordArt Text
+EditWordArtText.content=Edit the text of the selected WordArt.
+
+EquationEditor.title=Insert Equation
+EquationEditor.content=Insert mathematical equations using equation editor.
+EquationEditor.img=WPPEquationEditor
+
+ExplorBackupDir.title=Explore File Safe
+ExplorBackupDir.content=View backup files and open or recover the backup files for a certain document.
+
+ExplorVersion.title=View Backup History
+ExplorVersion.content="View the backup record history of the current document to open, delete or restore the files."
+
+ExportWeiboImageCmd.title=ExportWeiboImageCmd Title
+ExportWeiboImageCmd.content=ExportWeiboImageCmd Content
+
+Find.title=Find
+Find.content=Find text in the presentation.
+
+FitTextTip.title=Fit Text
+FitTextTip.content=Fit text to shapes.
+
+Flash.title=Insert Flash Animation
+Flash.content=Insert a flash animation from local folder.
+
+FontAlignMenu.title=Font Alignment
+FontAlignMenu.content=Set the alignment between the fonts.
+
+FontColor.title=Font Color
+FontColor.content=Set the text color.\n\nClick the arrow to select a different text color.
+
+FontColor2.title=Font Color
+FontColor2.content=Click the arrow to select a different font color.
+
+FontName.title=Font
+FontName.content=Change the font face.
+
+FontSize.title=Font Size
+FontSize.content=Change the font size.
+
+FormatAlignCenter.title=Center
+FormatAlignCenter.content=Center text.
+
+FormatAlignLeft.title=Align Text Left
+FormatAlignLeft.content=Align text to the left.
+
+FormatAlignRight.title=Align Text Right
+FormatAlignRight.content=Align text to the right.
+
+FormatObject.title=Format Object
+FormatObject.content=Show the Format Object dialog box.
+FormatObject.img=WPPFormatObject
+
+FormatPainter.title=Format Painter
+FormatPainter.content=Copy formatting from one place and apply it to another.\n\nDouble-click this button to apply the same formatting to multiple places in the document.
+
+Gallery.title=WPS Gallery
+Gallery.content="WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.\n\nWPS Gallery Online Sources require Internet connection."
+
+GridGuides.title=Gridlines and Guides
+GridGuides.content=Set up gridlines and guides to the presentation.
+
+Group.title=Group
+Group.content=Group objects together so that they can be treated as a single object.
+
+HeaderFooter.title=Header and Footer
+HeaderFooter.content=Edit the header and footer of the document.
+HeaderFooter.img=WPPHeaderFooter
+
+HomeDetailedSettings.title=HomeDetailedSettings Title
+HomeDetailedSettings.content=HomeDetailedSettings Content
+
+Hyperlink.title=Insert Hyperlink
+Hyperlink.content="Create a link to a web page, a picture, or an e-mail address."
+
+IncreaseFontSize.title=Increase Font Size
+IncreaseFontSize.content=Increase the font size.
+
+IncreaseIndent.title=Increase List Level
+IncreaseIndent.content=Increase the indent level.
+
+IncreaseSpace.title=Increase Spacing
+IncreaseSpace.content=Increase spacing between lines.
+
+InsertChart.title=Insert Chart
+InsertChart.content="The inserted chart needs to be edited in WPS Spreadsheets.\n\nWhen WPS Spreadsheets closed, the chart in document can display normally. Double-click the chart if you want to edit it."
+InsertChart.img=WPPInsertChart
+
+InsertClipArt.title=Insert Clip Art
+InsertClipArt.content=Select a Clip Art from the task window and insert it into the document.
+
+InsertColumnsLeft.title=Insert Columns to the Left
+InsertColumnsLeft.content=Insert a column to the left of the selected column.
+
+InsertColumnsRight.title=Insert Columns to the Right
+InsertColumnsRight.content=Insert a column to the right of the selected column.
+
+InsertDateTime.title=Date and Time
+InsertDateTime.content=Show the Date and Time dialog box to insert the current date or time into the current document.
+
+InsertFileObject.title=Insert Object from File
+InsertFileObject.content=Insert the selected file into document.
+
+InsertMedia.title=Media
+InsertMedia.content="Insert the music, video, animation and other media files into presentation to enhanc expression for presentation."
+
+InsertObject.title=Insert Object
+InsertObject.content=Show the Insert Object dialog box to select new file or file from local folder.
+
+InsertOrgChart.title=Insert Organization Chart
+InsertOrgChart.content=Insert organization chart in current slide.
+InsertOrgChart.img=WPPInsertOrgChart
+
+InsertPictureFromFile.title=Insert Picture
+InsertPictureFromFile.content=Insert a picture from local folder.
+
+InsertRowsAbove.title=Insert Rows Above
+InsertRowsAbove.content=Add a new row directly above the selected row.
+
+InsertRowsBelow.title=Insert Rows Below
+InsertRowsBelow.content=Insert a new row directly below the selected row.
+
+InsertSymbol.title=Insert Symbol
+InsertSymbol.content="Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols."
+
+InsertTable.title=Insert Table
+InsertTable.content=Insert or draw a table into the current slide.
+
+InsertWordArt.title=Insert WordArt
+InsertWordArt.content=Show the WordArt Gallery dialog box to select a WordArt style and edit content.
+
+Italic.title=Italic
+Italic.content=Italicize the selected text.
+
+Justify.title=Justify
+Justify.content="Align text to both the left and right margins, adding extra space between words as necessary."
+
+KOSCloudFeedbackTip.title=User Feedback
+KOSCloudFeedbackTip.content=Help us to improve WPS Office.
+
+KOSCloudInformationTip.title=User Guide
+KOSCloudInformationTip.content=How to use Office Space.
+
+KOSCreatecloudLinkTip.title=Just ten seconds! You can:
+KOSCreatecloudLinkTip.content=Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.
+
+KOSOfficespaceLoginFailTip.title=@@
+KOSOfficespaceLoginFailTip.content=UserName or password not match
+
+KOSOfficespacePsaawordTip.title=@@
+KOSOfficespacePsaawordTip.content=Password is wrong
+
+KOSOfficespaceRegPsaawordTip.title=@@
+KOSOfficespaceRegPsaawordTip.content=Password not match
+
+KOSOpenCloudFileTip.title=Open from Cloud Docs
+KOSOpenCloudFileTip.content=Modifications of documents in Cloud Docs will be directly saved.
+
+KOSRoamingfileTip.title=File Roaming
+KOSRoamingfileTip.content="Files opened will be automatically roamed to the cloud and all your devices.\n\nYou can start work at anytime and anywhere."
+
+KOSSaveFileTocloudTip.title=Save to Cloud Docs
+KOSSaveFileTocloudTip.content=Share with others for discussing, editing, and previewing documents online.
+
+KOSUserLoginCloudTextBtnTip.title=Sign In
+KOSUserLoginCloudTextBtnTip.content=Sign in WPS Office Cloud and upload your documents. You can edit the same document on other computers or cellphones and never lose it.
+
+KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
+KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+
+KOSUserLogoutCloudTip.title=Signed in
+KOSUserLogoutCloudTip.content=You have signed in WPS Office Cloud. Click to exit.
+
+Lighting.title=Lighting
+Lighting.content="Set the lighting direction and intensity for the selected 3-D shape. The latter includes bright, normal and dim."
+
+LineBreak.title=Line Break
+LineBreak.content=Change the line break format.
+
+LineSpacing.title=Line Spacing
+LineSpacing.content=Change the spacing between lines of text.
+
+MarkVersion.title=Manual Backup
+MarkVersion.content="Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file."
+
+Markup.title=Revision Markup
+Markup.content=Show or hide revision markups in the document.
+
+MasterLayout.title=Master Layout
+MasterLayout.content=Set the placeholder elements contained in the slide master.
+
+Media.title=Insert Movie
+Media.content=Insert a movie from local folder
+
+MergeCells.title=Merge Cells
+MergeCells.content=Merge the selected cells into one cell.
+
+NewComment.title=Insert Comment
+NewComment.content=Create a new comment.
+
+NewSlide.title=New Slide
+NewSlide.content=Add a new slide to the presentation.
+
+NewSlide2.title=Other Options
+NewSlide2.content=Click here to select new Duplicate.
+
+NewSlideMaster.title=New Slide Master
+NewSlideMaster.content=Insert a new slide master.
+
+NewTitleMaster.title=New Title Master
+NewTitleMaster.content=Insert a slide master with a new title style.
+
+NewWindow.title=New Window
+NewWindow.content=Open a new window containing a view of the current document.
+
+NextComment.title=Next Comment
+NextComment.content=Next comment.
+
+Normal.title=Normal View
+Normal.content=View the presentation in Normal view.
+
+NudgeShadowDown.title=Nudge Shadow Down
+NudgeShadowDown.content=Move the shadow of the selected object down.
+
+NudgeShadowLeft.title=Nudge Shadow Left
+NudgeShadowLeft.content=Move the shadow of the selected object to the left.
+
+NudgeShadowRight.title=Nudge Shadow Right
+NudgeShadowRight.content=Move the shadow of the selected object to the right.
+
+NudgeShadowUp.title=Nudge Shadow Up
+NudgeShadowUp.content=Move the shadow of the selected object up.
+
+Numbering.title=Numbering
+Numbering.content=Number the selected paragraph.\n\nClick the arrow to select different numbering formats.
+
+Numbering2.title=Numbering
+Numbering2.content=Click the arrow to select different numbering formats.
+
+ObjectSelect.title=Selection Pane
+ObjectSelect.content=Show the Selection Pane task window to easily find a single object or set its order and visibility.
+ObjectSelect.img=WPPObjectSelect
+
+OrgChartLayout.title=Layout
+OrgChartLayout.content=Chang the branch layout of the selected member.
+
+Package.title=Package the Presentation File
+Package.content="Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer."
+
+PageSetup.title=Page Setup
+PageSetup.content=Show the Page Setup dialog box.
+PageSetup.img=WPPPageSetup
+
+Paragraph1.title=Alignment
+Paragraph1.content=Click the arrow to select a different alignment.
+
+Paragraph2.title=Other options
+Paragraph2.content="Click the arrow to select Increase the Spacing, Decrease the Spacing and Wrap option."
+
+Paste.title=Paste
+Paste.content=Paste the contents of the Clipboard.
+
+Paste2.title=Paste
+Paste2.content=Click here for more options such as pasting only unformatted text.
+
+PictureAdjust.title=Adjust Picture
+PictureAdjust.content=Increase or decrease the contrast and brightness of the selected picture.
+
+PictureColor.title=Color
+PictureColor.content="Change the color of the selected picture to give it a back and white, washout or transparent color."
+
+PictureCrop.title=Crop Picture
+PictureCrop.content=Crop the picture to remove any unwanted parts.
+
+PictureFill.title=Picture Fill
+PictureFill.content="Fill the selected object with a color, gradient, pattern and picture.\n\nClick the arrow to select different fill effects."
+
+PictureFill2.title=Picture Fill
+PictureFill2.content=Click the arrow to select different fill effects.
+
+PictureLine.title=Picture Outline
+PictureLine.content="Set picture outline color, outline width and outline style for the selected object.\n\nClick the arrow to select detailed settings for the outline."
+
+PictureLine2.title=Picture Outline
+PictureLine2.content=Click the arrow to select detailed settings for the outline.
+
+PictureSetTransparentColor.title=Set Transparent Color
+PictureSetTransparentColor.content="Make a color in the current picture transparent.\n\nWhen you click a pixel in the current graphic, all pixels of that specific color become transparent."
+
+PictureSize.title=Picture Size
+PictureSize.content="Change the size, rotation degree and zoom scale of the selected shape."
+
+PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
+PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+
+PreComment.title=Previous Comment
+PreComment.content=Previous comment.
+
+PreserveMaster.title=Preserve Master
+PreserveMaster.content=Preserve the selected master slide. Even if it is unused it can still remain in the presentation.
+
+PrevClose.title=Close
+PrevClose.content=Close the Print Preview and return to the presentation editing mode.
+
+PrevFrameSlides.title=Frame Slide
+PrevFrameSlides.content=Add borders around the slide.
+
+PrevLandscape.title=Landscape
+PrevLandscape.content="Set the page layout to landscape in the printing of handouts, notes pages and outline."
+
+PrevNextPage.title=Next Page
+PrevNextPage.content=Navigate to the next page in the presentation.
+
+PrevPortrait.title=Portrait
+PrevPortrait.content="Set the page layout to portrait in the printing of handouts, notes pages and outline."
+
+PrevPrintHiddenSlide.title=Print Hidden Slides
+PrevPrintHiddenSlide.content=Display hidden slides in Print Preview.
+
+PreviewPage.title=Previous Page
+PreviewPage.content=Navigate to the previous page in the presentation.
+
+Print.title=Print
+Print.content="Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom."
+
+Print2.title=Print
+Print2.content="Click here to select detailed settings for printing, or to use the default print settings to print directly."
+
+PrintDirect.title=Quick Print
+PrintDirect.content=Use the default printer to print directly.
+
+PrintPreview.title=Print Preview
+PrintPreview.content=Preview page effects before printing.
+
+PrintingOrder.title=Printing Order
+PrintingOrder.content=Set the order of printed handouts vertically or horizontally.
+
+RB_Clipboard.title=Clipboard
+RB_Clipboard.content=View all items copied to the clipboard.
+RB_Clipboard.img=WPPClipboard
+
+RB_Font.title=Font
+RB_Font.content=Show the Font dialog box.
+RB_Font.img=WPPFont
+
+RecentFillColor.title=Shading
+RecentFillColor.content="Use colors, gradients, textures, and pictures to fill the selected table in the current slide.\n\nClick the arrow to select different fill effects."
+
+RecentFillColor2.title=Shading
+RecentFillColor2.content=Click the arrows to select different fill effects.
+
+Rehearse.title=Rehearse Timings
+Rehearse.content=Start a full-screen slide show in which you can rehearse your presentation.\n\nThe amount of time you spend on each slide is recorded and you can save those timings to run the show automatically in the future.
+
+RenameMaster.title=Rename Master
+RenameMaster.content=Rename the selected master slide.
+
+Replace.title=Replace
+Replace.content=Replace text in the document.
+
+Replace2.title=Replace
+Replace2.content=Click here to replace the text or font in document.
+
+ResetLayout.title=Reset Layout
+ResetLayout.content=Reset to the default layout
+
+ResetPicture.title=Reset Picture
+ResetPicture.content=Discard all the formatting changes you have made to this picture.
+
+ResetShape.title=Reset Shape
+ResetShape.content=Discard all of the formating changes made to the selected shape.
+
+Rotate.title=Rotate
+Rotate.content=Rotate or flip the selected object.
+
+Ruler.title=Ruler
+Ruler.content="Show or hide the rulers, used to measure and line up objects in the document."
+
+RunMacro.title=View Macros
+RunMacro.content="Show the Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+
+SaveBackgroundPicture.title=Save Background Picture
+SaveBackgroundPicture.content=Save slide's background as picture.
+
+Security.title=Macro Security
+Security.content=Customize the macro security settings.
+
+Select.title=Select
+Select.content="Select text, table or object in the document."
+
+SelectAll.title=Select All
+SelectAll.content="Use Select All to select the slide, object, or text content in the presentation."
+
+SendBackward.title=Send Backward
+SendBackward.content=Send the selected object backward so that it is hidden by the objects that are in fornt of it.
+
+SendBackward2.title=Send Backward
+SendBackward2.content=Send the selected object back one level or to the back of all objects.
+
+SetUpShow.title=Set Up Slide Show
+SetUpShow.content="Show the Set Up Show dialog box to set up the advanced options for the slide show, such as kiosk mode."
+SetUpShow.img=WPPSetUpShow
+
+ShadowButton.title=Text Shadow
+ShadowButton.content=Set the shadow effects to the selected text.
+
+ShadowColor.title=Shadow Color
+ShadowColor.content=Set the shadow color of the selected object.\n\nClick the arrow to select different shadow colors.
+
+ShadowColor2.title=Shadow Color
+ShadowColor2.content=Click the arrow to select different shadow colors.
+
+ShadowOnOff.title=Shadow On/Off
+ShadowOnOff.content=Turn on or off the shadow effect of the selected object.
+
+ShadowPalette.title=Shadow Effects
+ShadowPalette.content=Set shadow effect to the selected object.
+
+ShapeEffects.title=Shape Effects
+ShapeEffects.content=Apply a shadow effect and 3-D effect to the selected shape.
+
+ShapeFill.title=Shape Fill
+ShapeFill.content="Fill the selected shape with a solid color, gradient, picture, or texture.\n\nClick the arrow to select different fill effects."
+
+ShapeFill2.title=Shape Fill
+ShapeFill2.content=Click the arrow to select different fill effects.
+
+ShapeLine.title=Shape Outline
+ShapeLine.content="Set the color, width and line style for the outline of the selected object.\n\nClick the arrow to select detailed settings for the outline."
+
+ShapeLine2.title=Shape Outline
+ShapeLine2.content=Click the arrow to select detailed settings for the outline.
+
+ShapeSize.title=Shape Size
+ShapeSize.content="Set the size, rotation degrees and zoom for the selected shape."
+
+ShowHideGrid.title=Gridlines
+ShowHideGrid.content=Show or hide the gridlines  in the presentation.
+
+ShowHideMark.title=Show/Hide Comments
+ShowHideMark.content=Show/hide the comments.
+
+SimplifiedChinese.title=Simplified
+SimplifiedChinese.content=Convert the document to Simplified Chinese.
+
+SkipSlide.title=Hide Slide
+SkipSlide.content=Hide the current slide from the presentation. It will not be shown during full-screen slide show.
+
+SlideDesign.title=Design Templates
+SlideDesign.content=Show the Slide Design - Design Templates task window to apply different templates to the current slide or entire presentation.
+SlideDesign.img=WPPSlideDesign
+
+SlideLayout.title=Slide Layout
+SlideLayout.content="Show the Slide Layout task window to set up various slide layouts to selected slides, including text layouts, content layouts, text and content layouts and other layouts."
+SlideLayout.img=WPPSlideLayout
+
+SlideMaster.title=Slide Master
+SlideMaster.content=Open Slide Master view to change the design and layout of the master slides.
+
+SlideMasterClose.title=Close Master View
+SlideMasterClose.content=Close Slide Master View and return to the edit the slide show.
+
+SlideNumber.title=Insert Slide Number
+SlideNumber.content=Insert the slide number to the current slide or entire presentation. The slide number reflects the position of the slide within the presentation.
+
+SlideOrientation.title=Slide Orientation
+SlideOrientation.content=Switch the slide orientation between portrait and landscape.
+
+SlidePreview.title=Preview
+SlidePreview.content=Preview the animations and transition effects on the current slide.
+
+SlideShow.title=Slide Show from Beginning
+SlideShow.content=Start the slide show from the first slide.
+
+SlideShowFromCurrent.title=Slide Show from Current Slide
+SlideShowFromCurrent.content=Start the slide show from the current slide.
+
+SlideShowFromCurrent2.title=Start Slide Show
+SlideShowFromCurrent2.content=Click here to select From Beginning or From Current Slide.
+
+SlideSorter.title=Slide Sorter View
+SlideSorter.content=View the presentation in Slide Sorter view to easily rearrange slides.
+
+SlideTransition.title=Slide Transition
+SlideTransition.content=Show the Slide Transition task window to set up transition effects to the selected slides or entire presentation.
+SlideTransition.img=WPPTransitionEffect
+
+SmartChoice.title=Smart Choice
+SmartChoice.content="Choose the same level of members, the same branch of members, all assistants or all connecting lines."
+
+Sound.title=Insert Sound
+Sound.content=Insert a sound clip or music from local folder.
+
+SpeakerNotes.title=Speaker Notes
+SpeakerNotes.content="Add a note to the current slide.\n\nWhen you want to make notes but do not wish to exit the slide show, right click on the screen and select Speaker Notes to make notes in the notes pane of the current slide."
+
+SplitCells.title=Split Cells
+SplitCells.content=Split the selected cells into multiple new cells.
+
+StopAutoVersion.title=Stop Auto Backup
+StopAutoVersion.content=Stop the auto backup of the current document.
+
+Subscript.title=Subscript
+Subscript.content=Create small letters below the text baseline.
+
+Superscript.title=Superscript
+Superscript.content=Create small letters above the line of text.
+
+Superscript2.title=Other Options
+Superscript2.content=Click the arrow to select Superscript and Subscript.
+
+SwitchWindow.title=Switch Windows
+SwitchWindow.content=Switch to a different currently open window.
+
+TableCenter.title=Center
+TableCenter.content=Center text.
+
+TableLeft.title=Align Text Left
+TableLeft.content=Align text to the left.
+
+TableRight.title=Align Text Right
+TableRight.content=Align text to the right.
+
+TableStyle.title=Table Style
+TableStyle.content=Show the Table Style task window
+TableStyle.img=WPPTableStyle
+
+TaskPane.title=Task Window
+TaskPane.content=Show or hide the task window in the presentation.
+
+TextBox.title=Draw Horizontal Text Box
+TextBox.content=Insert a horizontal text box into the document.
+
+TextBox2.title=Draw Text Box
+TextBox2.content=Click here to insert either horizontal or vertical text box.
+
+TextDirection.title=Text Direction
+TextDirection.content="Customize either horizontal or vertical text orientation to the current section, the whole document, or the selected text box and table."
+
+TextFontColor.title=Text Color
+TextFontColor.content=Set the text color.\n\nClick the arrow to select a different text color.
+
+TextFontColor2.title=Text Color
+TextFontColor2.content=Click the arrow to select a different text color.
+
+TextMargin.title=Cell Margins
+TextMargin.content=Specify the margins for the selected cells.
+
+TraditionalChinese.title=Traditional
+TraditionalChinese.content=Convert the document to Traditional Chinese.
+
+TransitionEffect.title=Transition Effects
+TransitionEffect.content=Show the Slide Transition task window to set up transition effects to the selected slides or entire presentation.
+TransitionEffect.img=WPPTransitionEffect
+
+Underline.title=Underline
+Underline.content=Underline the selected text.
+
+VisualBasicEditor.title=Visual Basic Editor
+VisualBasicEditor.content=Open Visual Basic editor to edit macros.
+
+WordArtAlignment.title=Alignment
+WordArtAlignment.content=Set alignment to individual lines of multi-line WordArt in document.
+
+WordArtCharacterSpacing.title=Character Spacing
+WordArtCharacterSpacing.content=Change the spacing between the letters of the selected WordArt text.
+
+WordArtDetailedSettings.title=WordArtDetailedSettings Title
+WordArtDetailedSettings.content=WordArtDetailedSettings Content
+
+WordArtFill.title=WordArt Fill
+WordArtFill.content="Fill the selected WordArt with a solid color, gradient, texture and picture.\n\nClick the arrow to select different fill effects."
+
+WordArtFill2.title=WordArt Fill
+WordArtFill2.content=Click the arrow to select different fill effects..
+
+WordArtGallery.title=WordArt Gallery
+WordArtGallery.content=Change the style of the selected WordArt.
+
+WordArtLine.title=WordArt Outline
+WordArtLine.content="Set the color, width and line style for the outline of the selected WordArt.\n\nClick the arrow to select detailed settings for the outline."
+
+WordArtLine2.title=WordArt Outline
+WordArtLine2.content=Click the arrow to select more outline styles.
+
+WordArtSameLetterHeights.title=Same Letter Heights
+WordArtSameLetterHeights.content=Make all the letters of the selected WordArt exactly the same height.
+
+WordArtShapePalette.title=WordArt Shape
+WordArtShapePalette.content=Change the shape style of the selected WordArt.
+
+WordArtSize.title=WordArt Size
+WordArtSize.content="Set the size, rotation degree and scale of the selected WordArt."
+
+WordArtVerticalText.title=Vertical Text
+WordArtVerticalText.content="Draw the text vertically, with the letters stacked on top of each other."
+
+WorkSpace_Backup.title=WorkSpace_Backup Title
+WorkSpace_Backup.content=WorkSpace_Backup Content
+
+WpPrintWhat_1.title=Handouts (one slide per page)
+WpPrintWhat_1.content=Set up the print what as Handout (one slide per page).
+
+WpPrintWhat_1Notes.title=Notes (one slide per page)
+WpPrintWhat_1Notes.content="Set up the print what as Notes Pages (one slide per page, notes to the right of the slide)."
+
+WpPrintWhat_2.title=Handouts (two slides per page)
+WpPrintWhat_2.content=Set up the print what as Handout (two slides per page).
+
+WpPrintWhat_3.title=Handouts(three slide per page)
+WpPrintWhat_3.content=Set up the print what as Handout (three slides per page).
+
+WpPrintWhat_3Notes.title=Notes(three slide per page)
+WpPrintWhat_3Notes.content="Set up the print what as Notes Pages (three slides per page, notes to the right of the slides)."
+
+WpPrintWhat_4.title=Handouts(four slide per page)
+WpPrintWhat_4.content=Set up the print what as Handout (four slides per page).
+
+WpPrintWhat_6.title=Handouts(six slide per page)
+WpPrintWhat_6.content=Set up the print what as Handout (six slides per page).
+
+WpPrintWhat_9.title=Handouts(nine slide per page)
+WpPrintWhat_9.content=Set up the print what as Handout (nine slides per page).
+
+WpPrintWhat_OutlineView.title=Outline view
+WpPrintWhat_OutlineView.content=Set up the print what as Outline View. Slide content showed in print page by outline way.
+
+WpPrintWhat_Slides.title=Printing Content
+WpPrintWhat_Slides.content=Set the printing content as Slide (one slide per page).
+
+WpPrintWhat_Slides2.title=Printing Content
+WpPrintWhat_Slides2.content="Click here to select more printing content, such as Slides, Handouts, Notes pages and Outline."
+
+Zoom.title=Zoom
+Zoom.content=Show the Zoom dialog box to specify the zoom level of the document.
+
+ZoomCombo.title=Zoom
+ZoomCombo.content=Select the zoom size of the current presentation.
+
+ZoomFit.title=Fit to Window
+ZoomFit.content=Zoom the presentation so that the slide fits the window.
+
+sp_Macros.title=View Macros
+sp_Macros.content="Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+
+sp_Macros2.title=View Macros
+sp_Macros2.content="View the list of macros, from which you can run, create, or delete a macro."
+
+weibotool.title=weibotool Title
+weibotool.content=weibotool Content
+
+cellphoneControl.title=Cellphone Control
+cellphoneControl.content=Cellphone Control
+cellphoneControl.img=CellPhoneControl

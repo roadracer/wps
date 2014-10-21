@@ -35,7 +35,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office Clear Backup Files Confirmation</source>
-        <translation>WPS Office バックアップクリア確認</translation>
+        <translation>Kingsoft Office バックアップクリア確認</translation>
     </message>
 </context>
 <context>
@@ -70,14 +70,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
-        <translation>WPS Officeの再起動で有効になります。</translation>
+        <translation>Kingsoft Officeの再起動で有効になります。</translation>
     </message>
 </context>
 <context>
     <name>KFastLink</name>
     <message>
         <source>WPS Office Tools</source>
-        <translation>WPS Office ツール</translation>
+        <translation>Kingsoft Office ツール</translation>
     </message>
     <message>
         <source>Update Online.lnk</source>
@@ -85,15 +85,15 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Writer.lnk</source>
-        <translation>WPS Writer.lnk</translation>
+        <translation>Kingsoft Writer.lnk</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
-        <translation>WPS Presentation.lnk</translation>
+        <translation>Kingsoft Presentation.lnk</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
-        <translation>WPS Spreadsheets.lnk</translation>
+        <translation>Kingsoft Spreadsheets.lnk</translation>
     </message>
     <message>
         <source>WPS Wenzi.lnk</source>
@@ -124,7 +124,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KHomePage</name>
     <message>
         <source>Unlock the IE homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
-        <translation type="unfinished"></translation>
+        <translation>IEホームページのロックが解除されると、トロイの木馬などよりホームページがされる可能性があります。本当に解除しますか？</translation>
     </message>
 </context>
 <context>
@@ -152,27 +152,27 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KLinkInfoList</name>
     <message>
         <source>WPS Writer.lnk</source>
-        <translation>WPS Writer.lnk</translation>
+        <translation>Kingsoft Writer.lnk</translation>
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation>WPS Writerを使って文章を編集したりレイアウトを調整したりします。</translation>
+        <translation>Kingsoft Writerを使って文章を編集したりレイアウトを調整したりします。</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
-        <translation>WPS Presentation.lnk</translation>
+        <translation>Kingsoft Presentation.lnk</translation>
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
-        <translation>WPS Presentation を使ってプレゼンテーションを編集したりスライドショーをしたりします。</translation>
+        <translation>Kingsoft Presentation を使ってプレゼンテーションを編集したりスライドショーをしたりします。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
-        <translation>WPS Spreadsheets.lnk</translation>
+        <translation>Kingsoft Spreadsheets.lnk</translation>
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation>WPS Spreadsheets を使ってデータを分析したり管理したりします。</translation>
+        <translation>Kingsoft Spreadsheets を使ってデータを分析したり管理したりします。</translation>
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
@@ -180,7 +180,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Configure WPS Office</source>
-        <translation>設定 WPS Office 2013</translation>
+        <translation>設定 Kingsoft Office 2013</translation>
     </message>
     <message>
         <source>Product Management Center.lnk</source>
@@ -196,7 +196,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Link to network to update WPS Office</source>
-        <translation>インタネットに接続します。WPS Office 2013 をアップデートします。</translation>
+        <translation>インタネットに接続します。Kingsoft Office 2013 をアップデートします。</translation>
     </message>
     <message>
         <source>Repair.lnk</source>
@@ -204,7 +204,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Repair WPS Office</source>
-        <translation>修復 WPS Office 2013</translation>
+        <translation>修復 Kingsoft Office 2013</translation>
     </message>
     <message>
         <source>Uninstall.lnk</source>
@@ -212,27 +212,27 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Uninstall WPS Office</source>
-        <translation>WPS Office 2013 のアンインストール</translation>
+        <translation>Kingsoft Office 2013 のアンインストール</translation>
     </message>
     <message>
         <source>WPS Office Tools</source>
-        <translation>WPS Office ツール</translation>
+        <translation>Kingsoft Office ツール</translation>
     </message>
     <message>
         <source>What&apos;s New.lnk</source>
-        <translation type="obsolete">製品の更新情報.lnk</translation>
+        <translation>製品の更新情報.lnk</translation>
     </message>
     <message>
         <source>View what&apos;s new file</source>
-        <translation type="obsolete">製品の更新情報を表示します。</translation>
+        <translation>製品の更新情報を表示します。</translation>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation>WPS Cloud.lnk</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
-        <translation>WPS Office Cloudを使うと、チームワーク間の共同作業が簡単になります。</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -256,14 +256,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>General Repair / Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <translation type="obsolete">総合修復/詳細設定
-WPS Office に発生した異常状態をここで修復し、詳細設定が可能です。</translation>
+Kingsoft Office に発生した異常状態をここで修復し、詳細設定が可能です。</translation>
     </message>
     <message>
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <extracomment>ksomisc main dialog</extracomment>
         <translation>総合修復/詳細設定
-WPS Office に発生した異常状態をここで修復し、詳細設定が可能です。</translation>
+Kingsoft Office に発生した異常状態をここで修復し、詳細設定が可能です。</translation>
     </message>
     <message>
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
@@ -278,7 +278,7 @@ WPS Office に発生した異常状態をここで修復し、詳細設定が可
         <source>If you encounter any errors when using WPS Office, such as program running or toolbar errors, please close all WPS Office applications and click the Start Repairing button below.
 We will do our utmost to repair the applications and restore them to the default state.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>WPS Office を使用する際に、正常にスタートすることができない、またはツールバーにエラーが発生するなどの異常状態になったとき、まず、すべてのWPS Office アプリケーションを閉じます。それから、[修復開始]をクリックします。
+        <translation>Kingsoft Office を使用する際に、正常にスタートすることができない、またはツールバーにエラーが発生するなどの異常状態になったとき、まず、すべてのKingsoft Office アプリケーションを閉じます。それから、[修復開始]をクリックします。
 私たちは異常をできるだけ最大限度に修復して既定値に回復します。</translation>
     </message>
     <message>
@@ -296,12 +296,12 @@ We will do our utmost to repair the applications and restore them to the default
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed
 ----------
 ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
-        <translation>WPS Office 詳細設定</translation>
+        <translation>Kingsoft Office 詳細設定</translation>
     </message>
     <message>
         <source>WPS Office General Repair/Configuration Tools</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>WPS Office  詳細設定</translation>
+        <translation>Kingsoft Office  詳細設定</translation>
     </message>
 </context>
 <context>
@@ -312,7 +312,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Note: When you enable or disable the plug-in platform, you must restart WPS Office for the action to take effect.</source>
-        <translation>注意: プラグインプラットフォームを起動か禁用かを選択する後、WPS Writerアプリケーションを再起動して設定を有効にます。</translation>
+        <translation>注意: プラグインプラットフォームを起動か禁用かを選択する後、Kingsoft Writerアプリケーションを再起動して設定を有効にます。</translation>
     </message>
     <message>
         <source>Plug-in Platform</source>
@@ -320,7 +320,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS Office provides you with a platform to install plug-ins, so that you can easily install and use kinds of extended plug-ins. If this platform caused inconvenience to your work, you can choose whether to enable it.</source>
-        <translation>WPS Officeはプラグインをインストールするプラットフォームが提供されて、さまざまな拡張プラグインのインストールすることを便利になります。もし、このプラットフォームはご不便をかけたら、必要に応じてそのプラグインプラットフォームを起動するかどうか選択できます。</translation>
+        <translation>Kingsoft Officeはプラグインをインストールするプラットフォームが提供されて、さまざまな拡張プラグインのインストールすることを便利になります。もし、このプラットフォームはご不便をかけたら、必要に応じてそのプラグインプラットフォームを起動するかどうか選択できます。</translation>
     </message>
 </context>
 <context>
@@ -331,7 +331,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Compatible with WPS Office 2013 of API</source>
-        <translation>SO 2013のVBAポ—トコンパチをします</translation>
+        <translation>KSO 2013のVBAポ—トコンパチをします</translation>
     </message>
     <message>
         <source>Please choose the VBA interface you want to use:</source>
@@ -354,15 +354,15 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Kingsoft &amp;Presentation Backup Files</source>
-        <translation type="obsolete">WPS Presentation バックアップ ファイル(&amp;P)</translation>
+        <translation type="obsolete">Kingsoft Presentation バックアップ ファイル(&amp;P)</translation>
     </message>
     <message>
         <source>Kingsoft &amp;Spreadsheets Backup Files</source>
-        <translation type="obsolete">WPS Spreadsheets バックアップ ファイル(&amp;S)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets バックアップ ファイル(&amp;S)</translation>
     </message>
     <message>
         <source>Kingsoft &amp;Writer Backup Files</source>
-        <translation type="obsolete">WPS Writer  バックアップ ファイル(&amp;W)</translation>
+        <translation type="obsolete">Kingsoft Writer  バックアップ ファイル(&amp;W)</translation>
     </message>
     <message>
         <source>No backup files to be cleared.</source>
@@ -384,30 +384,30 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>To protect document security, WPS Office has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
-        <translation>WPS Office はファイルを保護するために、各場所に元のファイルをバックアップします。ディスクの容量を節約するために、これらのバックアップファイルは削除可能です。</translation>
+        <translation>Kingsoft Office はファイルを保護するために、各場所に元のファイルをバックアップします。ディスクの容量を節約するために、これらのバックアップファイルは削除可能です。</translation>
     </message>
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
-        <translation>WPS Presentation バックアップ ファイル(&amp;P)</translation>
+        <translation>Kingsoft Presentation バックアップ ファイル(&amp;P)</translation>
     </message>
     <message>
         <source>WPS &amp;Spreadsheets Backup Files</source>
-        <translation>WPS Spreadsheets バックアップ ファイル(&amp;S)</translation>
+        <translation>Kingsoft Spreadsheets バックアップ ファイル(&amp;S)</translation>
     </message>
     <message>
         <source>WPS &amp;Writer Backup Files</source>
-        <translation>WPS Writer  バックアップ ファイル(&amp;W)</translation>
+        <translation>Kingsoft Writer  バックアップ ファイル(&amp;W)</translation>
     </message>
 </context>
 <context>
     <name>KPageChangeVersion</name>
     <message>
         <source>Click the button below to switch to the new version, you must restart WPS Office for the action to take effect.</source>
-        <translation> 新バージョンに変更する場合には「新バージョンへ」をクリックして下さい（WPS Officeの再起動で有効になります）。</translation>
+        <translation> 新バージョンに変更する場合には「新バージョンへ」をクリックして下さい（Kingsoft Officeの再起動で有効になります）。</translation>
     </message>
     <message>
         <source>Click the button below to switch to the old version, you must restart WPS Office for the action to take effect.</source>
-        <translation>前のバージョンに戻る場合には「前のバージョンへ」をクリックして下さい（WPS Officeの再起動で有効になります）。</translation>
+        <translation>前のバージョンに戻る場合には「前のバージョンへ」をクリックして下さい（Kingsoft Officeの再起動で有効になります）。</translation>
     </message>
     <message>
         <source>Initializing configuration...</source>
@@ -431,42 +431,50 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
-        <translation>WPS Officeの再起動で有効になります。</translation>
+        <translation>Kingsoft Officeの再起動で有効になります。</translation>
     </message>
     <message>
         <source>You are using an older version of WPS Office. The new version has greatly improved and enhanced in functionality and performance. We recommend that you use the new version.</source>
-        <translation>ご利用中のWPS Officeは古いバージョンのものになるため、最新バージョンの利用をお勧めします。</translation>
+        <translation>ご利用中のKingsoft Officeは古いバージョンのものになるため、最新バージョンの利用をお勧めします。</translation>
     </message>
     <message>
         <source>You are using the latest version of WPS Office which has greatly improved and enhanced in functionality and performance. We recommend that you use the new version. However, you can according to your need to return to the pre-upgrade version.</source>
-        <translation>最新版のWPS Officeを利用していただき、ありがとうございました。新しいバージョンでは機能と性能において大幅な改善を行っておりますので、最新バージョンの利用をお勧めます。また、前のバージョンに戻すことも可能です。</translation>
+        <translation>最新版のKingsoft Officeを利用していただき、ありがとうございました。新しいバージョンでは機能と性能において大幅な改善を行っておりますので、最新バージョンの利用をお勧めます。また、前のバージョンに戻すことも可能です。</translation>
     </message>
     <message>
         <source>Switch to old ve&amp;rsion</source>
-        <translation type="unfinished">前のバージョンへ(&amp;R)</translation>
+        <translation>前のバージョンへ(&amp;R)</translation>
     </message>
     <message>
         <source>Switch to the new ve&amp;rsion</source>
-        <translation type="unfinished">新バージョンへ(&amp;R)</translation>
+        <translation>新しいバージョンへ(&amp;R)</translation>
     </message>
 </context>
 <context>
     <name>KPageFileAsso</name>
     <message>
         <source>&amp;Compat with third party softwares.</source>
-        <translation type="obsolete">WPS Officeを他社のシステム、ソフトウェアに埋め込みます(&amp;C)</translation>
+        <translation type="obsolete">Kingsoft Officeを他社のシステム、ソフトウェアに埋め込みます(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Compatible with third-party software</source>
-        <translation>WPS Officeを他社のシステム、ソフトウェアに埋め込みます(&amp;C)</translation>
+        <translation>Kingsoft Officeを他社のシステム、ソフトウェアに埋め込みます(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2003</source>
+        <translation>Microsoft Office 2003などとの互換性(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2007</source>
+        <translation>Microsoft Office 2003などとの互換性(&amp;R)</translation>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation>以下のチェックボックスをオンにすると、各ファイルをWPS Officeに関連づけます。</translation>
+        <translation>以下のチェックボックスをオンにすると、各ファイルをKingsoft Officeに関連づけます。</translation>
     </message>
     <message>
         <source>Compat Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>関連ファイル</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -475,12 +483,12 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
 These operations can be undone. </source>
-        <translation>ここではWPS Officeを、既定のプログラムとしてOffice productの各ファイル形式に関連づけをすることや、保存時のファイル形式のデフォルトをOffice product形式に設定できます。設定を完了したら「OK」をクリックしてください。
+        <translation>ここではKingsoft Officeを、既定のプログラムとしてOffice productの各ファイル形式に関連づけをすることや、保存時のファイル形式のデフォルトをOffice product形式に設定できます。設定を完了したら「OK」をクリックしてください。
 これらの設定は後から変更することができます。</translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by WPS Office which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation>以下のチェックボックスをオンにすると、文書の埋め込みオプジェクトをWPS Officeで開きます。また、WPS OfficeをIEブラウザ、OAなどの他社ソフトウェア或いはシステムに埋め込むことができます。</translation>
+        <translation>以下のチェックボックスをオンにすると、文書の埋め込みオプジェクトをKingsoft Officeで開きます。また、WPS OfficeをIEブラウザ、OAなどの他社ソフトウェア或いはシステムに埋め込むことができます。</translation>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
@@ -498,7 +506,8 @@ These operations can be undone. </source>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>オプション：「Kingsoft Office を他社のシステム、ソフトに埋め込み」
+この設定はWindowsシステムの再起動で有効になります。</translation>
     </message>
     <message>
         <source>Tip</source>
@@ -507,38 +516,39 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
-        <translation>WPS Officeの新規保存形式のデフォルトをOffice product形式に設定します。 </translation>
+        <translation>Kingsoft Officeの新規保存形式のデフォルトをOffice product形式に設定します。 </translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>WPS Presentation 新規文書のデフォルト形式*.ppt(&amp;T)</translation>
+        <translation>Kingsoft Presentation 新規文書のデフォルト形式*.ppt(&amp;T)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>WPS Spreadsheets 新規文書のデフォルト形式*.xls(&amp;X)</translation>
+        <translation>Kingsoft Spreadsheets 新規文書のデフォルト形式*.xls(&amp;X)</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>WPS Writer 新規文書のデフォルト形式*.doc(&amp;D)</translation>
+        <translation>Kingsoft Writer 新規文書のデフォルト形式*.doc(&amp;D)</translation>
     </message>
 </context>
 <context>
     <name>KPageHomePage</name>
     <message>
         <source>Unlock completed</source>
-        <translation type="unfinished"></translation>
+        <translation>ホームページのロックを解除しました</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation>ウェブサイトナビケーションページのロックを解除(&amp;R)</translation>
     </message>
     <message>
         <source>Website Navigation Page</source>
-        <translation type="unfinished"></translation>
+        <translation>ウェブサイトナビケーションページ</translation>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation type="unfinished"></translation>
+        <translation>IEホームページが気に入らない場合、IEホームページのロックを解除できます。
+注意： ホームページのロックを解除することにより、ウィルス感染、アカウント情報が漏えいすることもございます。</translation>
     </message>
 </context>
 <context>
@@ -562,11 +572,11 @@ needs restarting Windows to take effect.</source>
     <message>
         <source>Failed to reset toolbars, please reinstall WPS Office.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is locked)</extracomment>
-        <translation>ツールバーをリセットできません。もう一度 WPS Office をインストールしてください。</translation>
+        <translation>ツールバーをリセットできません。もう一度 Kingsoft Office をインストールしてください。</translation>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all WPS Office applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation>ツールバーのボタンにエラーが発生する場合、まず、すべての WPS Officeを閉じてください。次のボタンをクリックして元の状態に戻します。（再起動してから有効になります。）</translation>
+        <translation>ツールバーのボタンにエラーが発生する場合、まず、すべての Kingsoft Officeを閉じてください。次のボタンをクリックして元の状態に戻します。（再起動してから有効になります。）</translation>
     </message>
     <message>
         <source>Register components</source>
@@ -597,40 +607,40 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using WPS Office, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation>WPS Office が起動できない場合、モジュールにエラーが発生している可能性があります、次のボタンをクリックしてエラーを回復してください。それから、次のボタンをクリックしてミスの修復をします。（再起動してから有効になります。）</translation>
+        <translation>Kingsoft Office が起動できない場合、モジュールにエラーが発生している可能性があります、次のボタンをクリックしてエラーを回復してください。それから、次のボタンをクリックしてミスの修復をします。（再起動してから有効になります。）</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>以上の問題を解決するには、もう一度 WPS Office をインストールしてください。
+        <translation>以上の問題を解決するには、もう一度 Kingsoft Office をインストールしてください。
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Presentation が登録できません。
+        <translation>·Kingsoft Presentation が登録できません。
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Spreadsheetsが登録できません。</translation>
+        <translation>·Kingsoft Spreadsheetsが登録できません。</translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Writer が登録できません。
+        <translation>·Kingsoft Writer が登録できません。
 </translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>WPS Equation Editorが登録できません。
+        <translation>Kingsoft Equation Editorが登録できません。
 </translation>
     </message>
     <message>
@@ -644,21 +654,21 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Presentation が見つかりません。
+        <translation>·Kingsoft Presentation が見つかりません。
 </translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Spreadsheets が見つかりません。
+        <translation>·Kingsoft Spreadsheets が見つかりません。
 </translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Writer が見つかりません。
+        <translation>·Kingsoft Writer が見つかりません。
 </translation>
     </message>
 </context>
@@ -670,7 +680,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>If repair fails, and the errors still exist after you have tried the repair operations above, you may need to repair currently damaged system files.</source>
-        <translation>WPS Office　に異常状態が起こる場合、システムファイルを修復する必要があります。</translation>
+        <translation>Kingsoft Office　に異常状態が起こる場合、システムファイルを修復する必要があります。</translation>
     </message>
     <message>
         <source>Note: After clicking the button above, the message will be closed automatically. If you have other requirements, please reopen the tab after the Repair Installation is completed.</source>
@@ -678,7 +688,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>Please backup files you are working on properly and close all WPS Office applications, then click the Repair Install below to reinstall.</source>
-        <translation>現在の各ドキュメントを安全にバックアップして、すべてのWPS Officeアプリケーションを閉じてください。それから、次の[修復]をクリックして、もう一度インストールしてください。</translation>
+        <translation>現在の各ドキュメントを安全にバックアップして、すべてのKingsoft Officeアプリケーションを閉じてください。それから、次の[修復]をクリックして、もう一度インストールしてください。</translation>
     </message>
     <message>
         <source>Repair Install</source>
@@ -748,7 +758,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     <message>
         <source>WPS Office offers multiple sets of interface schemes with different themes.
 The button icon, command group and task window position of each scheme are different. If you want a novel interface, you can choose the Modern Theme (WPS Office 2012 theme and WPS Office 2013 theme); if you are used to Office product, you can choose the Classic Theme.</source>
-        <translation>WPS Office は多様なインターフェースを提供しています。
+        <translation>Kingsoft Office は多様なインターフェースを提供しています。
 それぞれのインターフェースは、アイコンやコマンドのグループやワークウィンドウなどの位置が異なります。キングソフト オリジナルは、「ファッションスタイル」を選択してください。MS Office 2003のインターフェースは、「クラシックスタイル」を選択してください。</translation>
     </message>
 </context>
@@ -756,7 +766,310 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KPropertiesDlg</name>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation>WPS Office 詳細設定</translation>
+        <translation>Kingsoft Office 詳細設定</translation>
+    </message>
+</context>
+<context>
+    <name>KRegistrarScriptResource</name>
+    <message>
+        <source>WPS Spreadsheets Chart</source>
+        <translation>Kingsoft Spreadsheets グラフ</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>グラフ</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation>編集(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation>開く(&amp;O)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Workbook</source>
+        <translation>Kingsoft Spreadsheets ワークブック</translation>
+    </message>
+    <message>
+        <source>&amp;New</source>
+        <translation>新規作成(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation>印刷(&amp;P)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Template</source>
+        <translation>Kingsoft Spreadsheets テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Application</source>
+        <translation>Microsoft Office Excel アプリケーション</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Sheet</source>
+        <translation>Microsoft Excel ワークブック</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Workbook</source>
+        <translation>Microsoft Office Excel 2007 ワークブック</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Chart</source>
+        <translation>Microsoft Excel　グラフ</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
+        <translation>Microsoft Office Excel 2007 マクロ有効ワークブック</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Binary Workbook</source>
+        <translation>Microsoft Office Excel 2007 バイナリブック</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Add-In</source>
+        <translation>Microsoft Excel マクロ有効</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Chart</source>
+        <translation>Microsoft Office Excel グラフ</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel SLK File</source>
+        <translation>Microsoft Excel SLK データインポート書式</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel CSV Text</source>
+        <translation>Microsoft Office Excel カンマで 区切ったテキストデータ</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Sheet</source>
+        <translation>Microsoft Office Excel ワークブック</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Template</source>
+        <translation>Microsoft Excel テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Application</source>
+        <translation>Microsoft Word アプリケーション</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Template</source>
+        <translation>Microsoft Excel マクロ有効文書</translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Sheet</source>
+        <translation>マクロ有効ワークブック</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Template</source>
+        <translation>Microsoft Office Excel テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Add-In</source>
+        <translation>Microsoft Office Excel マクロ有効</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Web Query File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open in WPS Spreadsheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook</source>
+        <translation>Microsoft Excel ワークブック</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide</source>
+        <translation>Microsoft PowerPoint スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Template</source>
+        <translation>Microsoft PowerPoint テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Slide</source>
+        <translation>Microsoft PowerPoint 2007 スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation>Microsoft PowerPoint 2007 マクロ有効スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Template</source>
+        <translation>Microsoft PowerPoint 2007 テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation>Microsoft PowerPoint ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Application</source>
+        <translation>Microsoft PowerPoint アプリケーション</translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation>ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation</source>
+        <translation>Microsoft PowerPoint 97-2003 ファイル</translation>
+    </message>
+    <message>
+        <source>PowerPoint Presentation</source>
+        <translation>PowerPoint ファイル</translation>
+    </message>
+    <message>
+        <source>S&amp;how</source>
+        <translation>表示(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Slide</source>
+        <translation>スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Slide</source>
+        <translation>Microsoft PowerPoint 97-2003 スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Presentation</source>
+        <translation>Microsoft Office PowerPoint 2007 ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</source>
+        <translation>Microsoft Office PowerPoint 2007 マクロ有効ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Slide</source>
+        <translation>Microsoft Office PowerPoint 2007 スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Show</source>
+        <translation>Microsoft Office PowerPoint 2007 マクロ有効スライドショー</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Show</source>
+        <translation>Microsoft Office PowerPoint 2007 スライドショー</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation>Microsoft Office PowerPoint 2007 マクロ有効スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 07 Template</source>
+        <translation>Microsoft PowerPoint 07 テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word Application</source>
+        <translation>Microsoft Office Word アプリケーション</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <translation>Microsoft Word 文書</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Document</source>
+        <translation>Microsoft Office Word 2007 文書</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <translation>Microsoft Word マクロ形式文書</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Picture</source>
+        <translation>Microsoft Word 画像</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Document</source>
+        <translation>Microsoft Word 6.0 - 7.0 文書</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Picture</source>
+        <translation>Microsoft Word 6.0 - 7.0 画像</translation>
+    </message>
+    <message>
+        <source>RTF Format</source>
+        <translation>RTF 形式</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <translation>Microsoft Word テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Macro-Enabled Document</source>
+        <translation>Microsoft Office Word 2007 マクロ有効文書</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <translation>Microsoft Word マクロ有効文書</translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Template</source>
+        <translation>マクロ有効文書</translation>
+    </message>
+    <message>
+        <source>RTF Text</source>
+        <translation>RTF ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Template</source>
+        <translation>Microsoft Word 2007 テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Macro-Enabled Template</source>
+        <translation>Microsoft Word 2007 マクロ有効文書</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Document</source>
+        <translation>Kingsoft Presentation ファイル</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation>Kingsoft Presentation テンプレート</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation>Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation>Kingsoft Writer 文書</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide Show</source>
+        <translation>Microsoft PowerPoint スライドショー</translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation>Kingsoft Writer テンプレート</translation>
+    </message>
+    <message>
+        <source>&amp;Edit,0,2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open,0,2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Equation 3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -835,7 +1148,7 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>IP Address is not valid!</source>
         <extracomment>ksomisc -&gt; advance -&gt; Update Settings -&gt; custom proxy -&gt; input a invalid ip addr</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>無効なIPアドレスです。</translation>
     </message>
     <message>
         <source>Internet Connection:</source>
@@ -894,7 +1207,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
-        <translation>もう一つの WPS Office アプリケーションが実行中です。閉じてから、もう一度詳細設定を開いてください。</translation>
+        <translation>もう一つの Kingsoft Office アプリケーションが実行中です。閉じてから、もう一度詳細設定を開いてください。</translation>
     </message>
 </context>
 </TS>

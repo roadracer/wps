@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<TS version="2.0" language="zh_CN">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>classics.3dsettings</name>
     <message>
@@ -553,7 +554,7 @@
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Group</source>
@@ -572,8 +573,16 @@
         <translation>插入剪贴画</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Line</source>
@@ -634,6 +643,14 @@
     <message>
         <source>Nudge</source>
         <translation>微移</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1127,7 +1144,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1439,6 +1456,14 @@ Center</source>
         <translation>图表向导</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Count</source>
         <translation>计数</translation>
     </message>
@@ -1476,7 +1501,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -1523,10 +1548,6 @@ Center</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <source>Paste Special</source>
-        <translation>选择性粘贴</translation>
-    </message>
-    <message>
         <source>Paste as Picture</source>
         <translation>粘贴为图片</translation>
     </message>
@@ -1561,6 +1582,14 @@ Center</source>
     <message>
         <source>Send E-mail</source>
         <translation>发送邮件</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1609,6 +1638,10 @@ Center</source>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Professional Switch UI</source>
+        <translation type="obsolete">更改界面</translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <translation>更改界面</translation>
@@ -1931,7 +1964,7 @@ Center</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>办公空间</translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2093,6 +2126,10 @@ Center</source>
         <translation type="obsolete">剪贴板</translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation type="obsolete">发射轻地址</translation>
     </message>
@@ -2119,6 +2156,10 @@ Center</source>
     <message>
         <source>Connector Popup Menu</source>
         <translation type="obsolete">连接符</translation>
+    </message>
+    <message>
+        <source>Contents</source>
+        <translation>内容</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2322,7 +2363,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材</translation>
+        <translation type="obsolete">素材</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -2331,6 +2372,10 @@ Center</source>
     <message>
         <source>Google Docs</source>
         <translation type="obsolete">谷哥文档</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -2343,6 +2388,10 @@ Center</source>
     <message>
         <source>Help</source>
         <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Hide While Grabbing Screen</source>
+        <translation>截屏时隐藏当前窗口</translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -2401,6 +2450,10 @@ Center</source>
         <translation>宏</translation>
     </message>
     <message>
+        <source>MailFeedBack</source>
+        <translation>邮件反馈</translation>
+    </message>
+    <message>
         <source>More Colors</source>
         <translation>其他的颜色</translation>
     </message>
@@ -2418,6 +2471,10 @@ Center</source>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
+        <translation>新建 Excel 2007/2010 文件</translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook(E)</source>
         <translation>新建 Excel 2007/2010 文件</translation>
     </message>
     <message>
@@ -2449,6 +2506,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Night Mode</source>
+        <translation type="obsolete">夜间模式</translation>
+    </message>
+    <message>
         <source>No Tab Page</source>
         <translation></translation>
     </message>
@@ -2477,12 +2538,20 @@ Center</source>
         <translation>分页预览</translation>
     </message>
     <message>
+        <source>Page Setup</source>
+        <translation>页面设置</translation>
+    </message>
+    <message>
         <source>Parse</source>
         <translation>分析</translation>
     </message>
     <message>
         <source>Paste</source>
         <translation>粘贴</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation>选择性粘贴</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2528,6 +2597,18 @@ Directly</source>
     <message>
         <source>Print Preview</source>
         <translation>打印预览</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation>属性</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation>护眼模式</translation>
+    </message>
+    <message>
+        <source>Protect Eyes and Night Mode</source>
+        <translation type="obsolete">护眼夜间模式</translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -2594,6 +2675,10 @@ Directly</source>
         <translation>另存为</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation>屏幕截图</translation>
+    </message>
+    <message>
         <source>Select Shape</source>
         <translation>选择</translation>
     </message>
@@ -2618,8 +2703,12 @@ Directly</source>
         <translation>设置拼写检查语言</translation>
     </message>
     <message>
+        <source>Set Spell Check Language</source>
+        <translation type="obsolete">设置拼写检查语言</translation>
+    </message>
+    <message>
         <source>Shape and Gallery</source>
-        <translation>形状和素材</translation>
+        <translation type="obsolete">形状和素材</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
@@ -2734,6 +2823,10 @@ Window</source>
 <context>
     <name>etcommon.mainwindow.commands.Help</name>
     <message>
+        <source>Kingsoft Spreadsheets Help</source>
+        <translation type="obsolete">WPS 表格 帮助</translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets Help</source>
         <translation>WPS 表格 帮助</translation>
     </message>
@@ -2815,8 +2908,12 @@ Window</source>
         <translation type="obsolete">WPS 售后微博</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
+    </message>
+    <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -2861,6 +2958,10 @@ Window</source>
     <message>
         <source>KOS Recharge</source>
         <translation type="obsolete">充值稻米</translation>
+    </message>
+    <message>
+        <source>Log off</source>
+        <translation type="obsolete">注销帐号</translation>
     </message>
     <message>
         <source>Login</source>
@@ -2920,7 +3021,7 @@ Window</source>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation type="unfinished">快捷菜单</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -2992,7 +3093,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch User</source>
@@ -3062,8 +3163,16 @@ Window</source>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch UI</source>
+        <source>Professional Switch UI</source>
         <translation>更改界面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3119,8 +3228,12 @@ Window</source>
         <translation type="obsolete">WPS 售后微博</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
+    </message>
+    <message>
         <source>File</source>
-        <translation>文件</translation>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3159,12 +3272,32 @@ Window</source>
         <translation>插入</translation>
     </message>
     <message>
+        <source>KOS Change login</source>
+        <translation type="obsolete">切换帐号</translation>
+    </message>
+    <message>
         <source>KOS Hire</source>
         <translation type="obsolete">商业授权</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
         <translation type="obsolete">充值稻米</translation>
+    </message>
+    <message>
+        <source>KOS User Login</source>
+        <translation type="obsolete">已登录</translation>
+    </message>
+    <message>
+        <source>KOS User login</source>
+        <translation type="obsolete">已登录</translation>
+    </message>
+    <message>
+        <source>KOS logout</source>
+        <translation type="obsolete">注销账号</translation>
+    </message>
+    <message>
+        <source>Log off</source>
+        <translation type="obsolete">注销账号</translation>
     </message>
     <message>
         <source>Login</source>
@@ -3288,7 +3421,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch account</source>
@@ -3354,8 +3487,12 @@ Window</source>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch UI</source>
+        <source>Professional Switch UI</source>
         <translation>更改界面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <translation>皮肤</translation>
     </message>
     <message>
         <source>true</source>
@@ -3502,8 +3639,16 @@ Row</source>
         <translation type="obsolete">全部显示</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>清除分级显示</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -3607,7 +3752,7 @@ All</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="obsolete">全部刷新</translation>
+        <translation type="unfinished">全部刷新</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -3620,6 +3765,14 @@ All</source>
     <message>
         <source>Remove Duplicates</source>
         <translation>删除重复值</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -3744,6 +3897,10 @@ Properties</source>
     <message>
         <source>Control Toolbox</source>
         <translation>控件工具箱</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>说明</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -4017,6 +4174,10 @@ On</source>
     <message>
         <source>Center</source>
         <translation>居中</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>更改形状</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -4299,6 +4460,10 @@ On/Off</source>
 <context>
     <name>ongmani.ct_file</name>
     <message>
+        <source>About Kingsoft Spreadsheets</source>
+        <translation type="obsolete">关于 WPS 表格</translation>
+    </message>
+    <message>
         <source>About WPS Spreadsheets</source>
         <translation>关于 WPS 表格</translation>
     </message>
@@ -4359,6 +4524,10 @@ On/Off</source>
         <translation>文件加密</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -4371,8 +4540,12 @@ On/Off</source>
         <translation>问题反馈及产品信息</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished">WPS 客服邮箱</translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -4381,6 +4554,38 @@ On/Off</source>
     <message>
         <source>Help</source>
         <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office BBS</source>
+        <translation type="obsolete">WPS 论坛</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="obsolete">WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Facebook</source>
+        <translation type="obsolete">微博求助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="obsolete">WPS Office 主页</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office New Features</source>
+        <translation type="obsolete">WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>Kingsoft Online</source>
+        <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files</source>
+        <translation type="obsolete">WPS 表格 文件（*.et）</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Templates</source>
+        <translation type="obsolete">WPS 表格 模板文件（*.ett）</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
@@ -4605,6 +4810,10 @@ On/Off</source>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
+    <message>
+        <source>Kingsoft Spreadsheets Help</source>
+        <translation type="obsolete">WPS 表格 帮助</translation>
+    </message>
     <message>
         <source>WPS Spreadsheets Help</source>
         <translation>WPS 表格 帮助</translation>
@@ -5039,6 +5248,10 @@ Center</source>
         <translation>填充颜色</translation>
     </message>
     <message>
+        <source>Fill Series</source>
+        <translation>序列</translation>
+    </message>
+    <message>
         <source>Filter</source>
         <translation type="obsolete">自动筛选</translation>
     </message>
@@ -5269,7 +5482,7 @@ Center</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation>选择性粘贴</translation>
+        <translation type="obsolete">选择性粘贴</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -5344,6 +5557,10 @@ Columns</source>
     <message>
         <source>RowsAndColumn</source>
         <translation type="obsolete">行和列</translation>
+    </message>
+    <message>
+        <source>RowsColumn</source>
+        <translation>行列</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -5610,7 +5827,7 @@ Properties</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Group</source>
@@ -5650,12 +5867,20 @@ Footer</source>
         <translation>插图</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert File Object</source>
         <translation type="obsolete">附件</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Label</source>
@@ -5680,6 +5905,14 @@ Footer</source>
     <message>
         <source>Object Select</source>
         <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -5891,6 +6124,10 @@ Forward</source>
     <message>
         <source>Fit Sheet on One Page</source>
         <translation>将整个工作表打印在一页</translation>
+    </message>
+    <message>
+        <source>Fit:</source>
+        <translation type="obsolete">缩放比例</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -6263,7 +6500,7 @@ Pictures</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -6278,8 +6515,12 @@ Pictures</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -6352,6 +6593,10 @@ Pictures</source>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>略向上移</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -6902,6 +7147,10 @@ Sheet</source>
     </message>
     <message>
         <source>Set Language</source>
+        <translation type="obsolete">设置拼写检查语言</translation>
+    </message>
+    <message>
+        <source>Set Spellcheck Language</source>
         <translation type="obsolete">设置拼写检查语言</translation>
     </message>
     <message>
@@ -8101,7 +8350,7 @@ Gallery</source>
     <message>
         <source>WordArt
 Size</source>
-        <translation>艺术字大小</translation>
+        <translation type="obsolete">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt 
@@ -8138,7 +8387,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">艺术字大小</translation>
+        <translation type="unfinished">艺术字大小</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8171,12 +8420,24 @@ Shape</source>
         <translation type="obsolete">开启自动备份</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>轻地址</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
         <translation>关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
+        <translation>重复项</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -8189,6 +8450,18 @@ Shape</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">查看历史备份</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
+    </message>
+    <message>
+        <source>ExportToPDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -8223,6 +8496,22 @@ Shape</source>
         <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation>高亮显示重复值</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation>切换账号</translation>
+    </message>
+    <message>
         <source>KOS Cloud Feedback</source>
         <translation type="obsolete">用户反馈</translation>
     </message>
@@ -8233,6 +8522,14 @@ Shape</source>
     <message>
         <source>KOS Create Cloud Link</source>
         <translation type="obsolete">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation>商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation>注销</translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -8247,11 +8544,19 @@ Shape</source>
         <translation type="obsolete">从云文档打开</translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation>充值稻米</translation>
+    </message>
+    <message>
         <source>KOS Roamingfile</source>
         <translation type="obsolete">文档漫游</translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
+        <translation type="obsolete">保存到云文档</translation>
+    </message>
+    <message>
+        <source>KOS Save file to cloud</source>
         <translation type="obsolete">保存到云文档</translation>
     </message>
     <message>
@@ -8261,6 +8566,10 @@ Shape</source>
     <message>
         <source>KOS User Cloud Tip</source>
         <translation type="obsolete">在线文档</translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -8275,6 +8584,14 @@ Shape</source>
         <translation type="obsolete">用户登录</translation>
     </message>
     <message>
+        <source>KOS User PDF</source>
+        <translation>输出为PDF格式</translation>
+    </message>
+    <message>
+        <source>KOS User PDF Tip</source>
+        <translation type="obsolete">输出为PDF格式</translation>
+    </message>
+    <message>
         <source>Login</source>
         <translation type="obsolete">登录</translation>
     </message>
@@ -8287,12 +8604,40 @@ Shape</source>
         <translation type="obsolete">手动备份</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation>其他的颜色</translation>
+    </message>
+    <message>
         <source>Online Documents</source>
         <translation>在线文档</translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
         <translation>从云文档打开</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="obsolete">护眼模式</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation>阅读模式</translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation>拒绝录入重复值</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation>删除重复值</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -8307,12 +8652,24 @@ Shape</source>
         <translation>保存到云文档</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
         <source>Sign In</source>
         <translation type="obsolete">用户登录</translation>
     </message>
     <message>
         <source>Sign in</source>
         <translation>登录</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -8349,6 +8706,10 @@ Shape</source>
 </context>
 <context>
     <name>popupmenu</name>
+    <message>
+        <source>About Kingsoft Spreadsheets</source>
+        <translation type="obsolete">关于 WPS 表格</translation>
+    </message>
     <message>
         <source>About WPS Spreadsheets</source>
         <translation>关于 WPS 表格</translation>
@@ -8404,6 +8765,10 @@ Shape</source>
     <message>
         <source>Auto Backup</source>
         <translation type="obsolete">开启自动备份</translation>
+    </message>
+    <message>
+        <source>Auto Fill Series</source>
+        <translation type="obsolete">以序列方式填充</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -8497,6 +8862,10 @@ Add-Ins</source>
         <translation type="obsolete">编辑顶点</translation>
     </message>
     <message>
+        <source>Change Shapes</source>
+        <translation>更改形状</translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation>切换版本</translation>
     </message>
@@ -8549,6 +8918,10 @@ Add-Ins</source>
         <translation>清除内容</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>清除分级显示</translation>
     </message>
@@ -8561,16 +8934,16 @@ Add-Ins</source>
         <translation type="obsolete">取消打印区域</translation>
     </message>
     <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>剪贴画</translation>
     </message>
     <message>
         <source>Clipboard</source>
         <translation>剪贴板</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>关闭</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -8607,10 +8980,6 @@ Add-Ins</source>
     <message>
         <source>Consolidate</source>
         <translation>合并计算</translation>
-    </message>
-    <message>
-        <source>Contents</source>
-        <translation>内容</translation>
     </message>
     <message>
         <source>Control</source>
@@ -8761,6 +9130,10 @@ Add-Ins</source>
         <translation>文件加密</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>公式</translation>
     </message>
@@ -8809,8 +9182,12 @@ Add-Ins</source>
         <translation type="obsolete">反馈</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -8835,6 +9212,11 @@ Add-Ins</source>
     <message>
         <source>Fill Series</source>
         <translation>以序列方式填充</translation>
+    </message>
+    <message>
+        <source>Fill Series</source>
+        <comment>Fill</comment>
+        <translation>序列</translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
@@ -9007,11 +9389,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Goal Seek</source>
         <translation>单变量求解</translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="obsolete">截屏</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -9078,7 +9464,7 @@ Add-Ins</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9098,12 +9484,20 @@ Add-Ins</source>
         <translation type="obsolete">超链接</translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Insert Page Break</source>
         <translation>插入分页符</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
         <translation>插入</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -9146,6 +9540,34 @@ Add-Ins</source>
         <translation type="obsolete">更改个人资料</translation>
     </message>
     <message>
+        <source>Kingsoft Office BBS</source>
+        <translation type="obsolete">WPS 论坛</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="obsolete">WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Facebook</source>
+        <translation type="obsolete">微博求助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="obsolete">WPS Office 主页</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Microblog</source>
+        <translation type="obsolete">微博求助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office New Features</source>
+        <translation type="obsolete">WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>Kingsoft Online</source>
+        <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>向左填充</translation>
     </message>
@@ -9180,6 +9602,10 @@ Add-Ins</source>
     <message>
         <source>Minisite</source>
         <translation>WPS热点</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation>其它的颜色</translation>
     </message>
     <message>
         <source>More Historical Records</source>
@@ -9220,6 +9646,14 @@ Add-Ins</source>
     <message>
         <source>Object Menu List</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -9266,10 +9700,6 @@ Add-Ins</source>
         <translation>分页符</translation>
     </message>
     <message>
-        <source>Page Setup</source>
-        <translation>页面设置</translation>
-    </message>
-    <message>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
@@ -9280,10 +9710,6 @@ Add-Ins</source>
     <message>
         <source>Paste As Unformatted Text</source>
         <translation type="obsolete">粘贴为无格式文本</translation>
-    </message>
-    <message>
-        <source>Paste Special</source>
-        <translation>选择性粘贴</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -9352,6 +9778,10 @@ Add-Ins</source>
     <message>
         <source>Purchase Serial Number</source>
         <translation>购买序列号</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation>阅读模式</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -9438,6 +9868,10 @@ Add-Ins</source>
         <translation type="obsolete">保存到快盘</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation>截屏</translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>安全性</translation>
     </message>
@@ -9470,12 +9904,25 @@ Add-Ins</source>
         <translation>系列</translation>
     </message>
     <message>
+        <source>Series</source>
+        <comment>PopupFillSeries</comment>
+        <translation>序列</translation>
+    </message>
+    <message>
         <source>Set AutoShape Defaults</source>
         <translation>设置自选图形的默认效果</translation>
     </message>
     <message>
+        <source>Set Color</source>
+        <translation>设置阅读模式颜色</translation>
+    </message>
+    <message>
         <source>Set Display Area</source>
         <translation>设置显示区域</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -9484,6 +9931,10 @@ Add-Ins</source>
     <message>
         <source>Set Print Region</source>
         <translation type="obsolete">设置打印区域</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
@@ -9554,12 +10005,20 @@ Add-Ins</source>
         <translation>标准列宽</translation>
     </message>
     <message>
+        <source>Start Reading Layout</source>
+        <translation>开启阅读模式</translation>
+    </message>
+    <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">关闭自动备份</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation>关闭阅读模式</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -9729,6 +10188,10 @@ Add-Ins</source>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="obsolete">更改界面</translation>
+    </message>
+    <message>
         <source>Switch UI</source>
         <translation>更改界面</translation>
     </message>
@@ -9859,8 +10322,16 @@ Chart Type</source>
         <translation type="obsolete">全部显示</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Clear Outline</source>
         <translation>清除分级显示</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -9959,6 +10430,14 @@ OLE DB查询</translation>
     <message>
         <source>Remove Duplicates</source>
         <translation>删除重复值</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -10072,6 +10551,10 @@ OLE DB查询</translation>
     <message>
         <source>Control Toolbox</source>
         <translation>控件工具箱</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>说明</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -10309,6 +10792,10 @@ AddIns</source>
     <message>
         <source>Bring to Front</source>
         <translation>置于顶层</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>更改形状</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -10558,6 +11045,10 @@ AddIns</source>
 <context>
     <name>rainbow.ct_file</name>
     <message>
+        <source>About Kingsoft Spreadsheets</source>
+        <translation type="obsolete">关于 WPS 表格</translation>
+    </message>
+    <message>
         <source>About WPS Spreadsheets</source>
         <translation>关于 WPS 表格</translation>
     </message>
@@ -10618,6 +11109,10 @@ AddIns</source>
         <translation>文件加密</translation>
     </message>
     <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -10630,8 +11125,12 @@ AddIns</source>
         <translation>问题反馈及产品信息</translation>
     </message>
     <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback via E-mail</source>
-        <translation>WPS 客服邮箱</translation>
+        <translation type="obsolete">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -10640,6 +11139,42 @@ AddIns</source>
     <message>
         <source>Help</source>
         <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office BBS</source>
+        <translation type="obsolete">WPS 论坛</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Community</source>
+        <translation type="obsolete">WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Facebook</source>
+        <translation type="obsolete">微博求助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Homepage</source>
+        <translation type="obsolete">WPS Office 主页</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office New Features</source>
+        <translation type="obsolete">WPS Office 新特性</translation>
+    </message>
+    <message>
+        <source>Kingsoft Online</source>
+        <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Files</source>
+        <translation type="obsolete">WPS 表格 文件（*.et）</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Help</source>
+        <translation type="obsolete">WPS 表格 帮助</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Templates</source>
+        <translation type="obsolete">WPS 表格 模板文件（*.ett）</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
@@ -10860,6 +11395,10 @@ AddIns</source>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
+    <message>
+        <source>Kingsoft Spreadsheets Help</source>
+        <translation type="obsolete">WPS 表格 帮助</translation>
+    </message>
     <message>
         <source>WPS Spreadsheets Help</source>
         <translation>WPS 表格 帮助</translation>
@@ -11160,10 +11699,6 @@ Trig</source>
         <translation>条件格式</translation>
     </message>
     <message>
-        <source>Contents</source>
-        <translation>内容</translation>
-    </message>
-    <message>
         <source>Convert Text to Hyperlink</source>
         <translation>文本转换成超链接</translation>
     </message>
@@ -11266,6 +11801,10 @@ Trig</source>
     <message>
         <source>Fill Color</source>
         <translation>填充颜色</translation>
+    </message>
+    <message>
+        <source>Fill Series</source>
+        <translation>序列</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -11471,10 +12010,6 @@ Center</source>
     <message>
         <source>Paste As Unformatted Text</source>
         <translation type="obsolete">粘贴为无格式文本</translation>
-    </message>
-    <message>
-        <source>Paste Special</source>
-        <translation>选择性粘贴</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -11727,7 +12262,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -11754,8 +12289,12 @@ Center</source>
         <translation>插图</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Label</source>
@@ -11776,6 +12315,10 @@ Center</source>
     <message>
         <source>Object</source>
         <translation>对象</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -12213,7 +12756,7 @@ Center</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation>素材库</translation>
+        <translation type="obsolete">素材库</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -12228,8 +12771,16 @@ Center</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert Atristic Clip</source>
+        <source>Insert Artistic Clip</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -12302,6 +12853,14 @@ Center</source>
     <message>
         <source>Nudge Shadow Up</source>
         <translation>略向上移</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -13862,12 +14421,24 @@ Color</source>
         <translation type="obsolete">开启自动备份</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>轻地址</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
         <translation>关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
+        <translation>重复项</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -13880,6 +14451,14 @@ Color</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">查看历史备份</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>护眼模式</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -13906,6 +14485,22 @@ Color</source>
         <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
+        <source>Highlight Duplicates</source>
+        <translation>高亮显示重复值</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>KOS Change Login</source>
+        <translation>切换账号</translation>
+    </message>
+    <message>
         <source>KOS Cloud Feedback</source>
         <translation type="obsolete">用户反馈</translation>
     </message>
@@ -13916,6 +14511,14 @@ Color</source>
     <message>
         <source>KOS Create Cloud Link</source>
         <translation type="obsolete">轻地址</translation>
+    </message>
+    <message>
+        <source>KOS Hire</source>
+        <translation>商业授权</translation>
+    </message>
+    <message>
+        <source>KOS Logout</source>
+        <translation>注销</translation>
     </message>
     <message>
         <source>KOS My Account</source>
@@ -13930,11 +14533,19 @@ Color</source>
         <translation type="obsolete">从云文档打开</translation>
     </message>
     <message>
+        <source>KOS Recharge</source>
+        <translation>充值稻米</translation>
+    </message>
+    <message>
         <source>KOS Roamingfile</source>
         <translation type="obsolete">文档漫游</translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
+        <translation type="obsolete">保存到云文档</translation>
+    </message>
+    <message>
+        <source>KOS Save file to cloud</source>
         <translation type="obsolete">保存到云文档</translation>
     </message>
     <message>
@@ -13944,6 +14555,10 @@ Color</source>
     <message>
         <source>KOS User Cloud Tip</source>
         <translation type="obsolete">在线文档</translation>
+    </message>
+    <message>
+        <source>KOS User Data Tools</source>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -13970,12 +14585,40 @@ Color</source>
         <translation type="obsolete">手动备份</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation>其他的颜色</translation>
+    </message>
+    <message>
         <source>Online Documents</source>
         <translation>在线文档</translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
         <translation>从云文档打开</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="obsolete">护眼模式</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation>阅读模式</translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation>拒绝录入重复值</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation>删除重复值</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -13990,12 +14633,28 @@ Color</source>
         <translation>保存到云文档</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
         <source>Sign In</source>
         <translation type="obsolete">用户登录</translation>
     </message>
     <message>
         <source>Sign in</source>
         <translation>登录</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>特色功能</translation>
+    </message>
+    <message>
+        <source>Special tool</source>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -15434,6 +16093,18 @@ Double-click this button to apply the same formatting to multiple places in the 
 </context>
 <context>
     <name>tips.Gallery</name>
+    <message>
+        <source>Kingsoft Office Gallery</source>
+        <translation type="obsolete">WPS素材库</translation>
+    </message>
+    <message>
+        <source>The Kingsoft Office gallery has pictures that you can use, save, or edit.
+
+The online gallery, included in the Kingsoft Office gallery, can be used when you access the Internet. My Gallery allows you to access the gallery without a connection to the Internet after you log in.</source>
+        <translation type="obsolete">WPS素材库集合各类图片素材，输入相应的关键字即可搜出所需图片等素材。
+
+WPS素材库中的素材在联网情况下才可使用。</translation>
+    </message>
     <message>
         <source>The WPS Office gallery has pictures that you can use, save, or edit.
 
@@ -17908,6 +18579,14 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>切换账号</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation>清除</translation>
+    </message>
+    <message>
         <source>Cloud Link</source>
         <translation>轻地址</translation>
     </message>
@@ -17918,6 +18597,10 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>Disable AutoBackup</source>
         <translation>关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Duplicates</source>
+        <translation>重复项</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -17940,8 +18623,20 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">查看历史备份</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation>输出为PDF</translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>文档漫游</translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation>高亮显示重复项</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -17980,6 +18675,10 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">保存到云文档</translation>
     </message>
     <message>
+        <source>KOS Save file to cloud</source>
+        <translation type="obsolete">保存到云文档</translation>
+    </message>
+    <message>
         <source>KOS User Login</source>
         <translation type="obsolete">用户登录</translation>
     </message>
@@ -18000,12 +18699,36 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">手动备份</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <translation>其它的颜色</translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">用户登录</translation>
     </message>
     <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation>阅读模式</translation>
+    </message>
+    <message>
         <source>Recharge</source>
         <translation>充值稻米</translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation>拒绝录入重复项</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation>删除重复项</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -18020,6 +18743,18 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>保存到云文档</translation>
     </message>
     <message>
+        <source>Set Color</source>
+        <translation>设置阅读模式颜色</translation>
+    </message>
+    <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>设置</translation>
+    </message>
+    <message>
         <source>Sign in</source>
         <translation>登录</translation>
     </message>
@@ -18028,8 +18763,16 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>注销</translation>
     </message>
     <message>
+        <source>Start Reading Layout</source>
+        <translation>开启阅读模式</translation>
+    </message>
+    <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">关闭自动备份</translation>
+    </message>
+    <message>
+        <source>Stop Reading Layout</source>
+        <translation>关闭阅读模式</translation>
     </message>
     <message>
         <source>User Feedback</source>
