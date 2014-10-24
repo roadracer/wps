@@ -1474,11 +1474,11 @@
     <name>KxCustomizeBulletedlistDlg</name>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
 </context>
 <context>
@@ -1489,11 +1489,11 @@
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
 </context>
 <context>
@@ -3497,7 +3497,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Другие</translation>
     </message>
     <message>
         <source>Sp&amp;ecial</source>
@@ -4661,87 +4661,87 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMergeCompare</name>
     <message>
         <source>&amp;Original document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Исходный документ</translation>
     </message>
     <message>
         <source>&amp;Revised document</source>
-        <translation type="unfinished"></translation>
+        <translation>Из&amp;менённый документ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Comparison settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры сравнения</translation>
     </message>
     <message>
         <source>Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставки и удаления</translation>
     </message>
     <message>
         <source>T&amp;ables</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Таблицы</translation>
     </message>
     <message>
         <source>Comme&amp;nts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Примечания</translation>
     </message>
     <message>
         <source>Footnotes and en&amp;dnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сноски</translation>
     </message>
     <message>
         <source>Te&amp;xtboxes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Надписи</translation>
     </message>
     <message>
         <source>Case chan&amp;ges</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения &amp;регистра</translation>
     </message>
     <message>
         <source>Field&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>По&amp;ля</translation>
     </message>
     <message>
         <source>White s&amp;pace</source>
-        <translation type="unfinished"></translation>
+        <translation>Про&amp;белы</translation>
     </message>
     <message>
         <source>Show changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать изменения</translation>
     </message>
     <message>
         <source>Show changes at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать изменения:</translation>
     </message>
     <message>
         <source>Show changes in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать изменения:</translation>
     </message>
     <message>
         <source>&amp;Character level</source>
-        <translation type="unfinished"></translation>
+        <translation>п&amp;о знакам</translation>
     </message>
     <message>
         <source>Original documen&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Ис&amp;ходный документ</translation>
     </message>
     <message>
         <source>&amp;Word level</source>
-        <translation type="unfinished"></translation>
+        <translation>по сло&amp;вам</translation>
     </message>
     <message>
         <source>Rev&amp;ised document</source>
-        <translation type="unfinished"></translation>
+        <translation>И&amp;зменённый документ</translation>
     </message>
     <message>
         <source>New doc&amp;ument</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый &amp;документ</translation>
     </message>
 </context>
 <context>
@@ -5377,7 +5377,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished">Последние документы</translation>
+        <translation>Последние документы</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -6259,39 +6259,39 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле прос&amp;мотра шрифтов</translation>
     </message>
     <message>
         <source>AutoNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>Автономер</translation>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
-        <translation type="unfinished"></translation>
+        <translation>Создавать &amp;резервную копию при первом сохранении файла</translation>
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
-        <translation type="unfinished"></translation>
+        <translation>Напоминание для внедрения &amp;облачных шрифтов в файл</translation>
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Не сжимать изображени&amp;я в файле</translation>
     </message>
     <message>
         <source>Set default target out&amp;put to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Качество вывода по умолчанию:</translation>
     </message>
     <message>
         <source>220 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation>220 пикселей на дюйм</translation>
     </message>
     <message>
         <source>150 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation>150 пикселей на дюйм</translation>
     </message>
     <message>
         <source>96 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation>96 пикселей на дюйм</translation>
     </message>
 </context>
 <context>
@@ -8276,7 +8276,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Save PDF File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить PDF файл как</translation>
     </message>
 </context>
 <context>
@@ -9049,11 +9049,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
     <message>
         <source>[Only format]</source>
@@ -9677,59 +9677,59 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxMergeCompareDlg</name>
     <message>
         <source>Compare Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Сравнение версий</translation>
     </message>
     <message>
         <source>Lab&amp;el changes with</source>
-        <translation type="unfinished"></translation>
+        <translation>По&amp;метка изменений</translation>
     </message>
     <message>
         <source>La&amp;bel changes with</source>
-        <translation type="unfinished"></translation>
+        <translation>Поме&amp;тка изменений</translation>
     </message>
     <message>
         <source>Merge Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Объединение документов</translation>
     </message>
     <message>
         <source>Lab&amp;el unmarked changes with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометка ис&amp;правлений:</translation>
     </message>
     <message>
         <source>La&amp;bel unmarked changes with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометка &amp;исправлений:</translation>
     </message>
     <message>
         <source>&amp;More&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Подробнее&gt;&gt;</translation>
     </message>
     <message>
         <source>browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор...</translation>
     </message>
     <message>
         <source>&lt;&lt; &amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; &amp;Кратко</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Открыть</translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>WPS Writer found no differences between the two documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer не обнаружил различий между двумя документами.</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
     <message>
         <source>Cannot compare the unsaved read-only document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно сравнить несохранённые документы с доступом только для чтения.</translation>
     </message>
     <message>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходимо сохранить изменения в&quot;%1&quot; перед сравнением документов. Пожалуйста, сохраните документ.</translation>
     </message>
 </context>
 <context>
@@ -9794,7 +9794,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The value must not be blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение не должно быть пустым.</translation>
     </message>
 </context>
 <context>
@@ -10262,15 +10262,15 @@ Cancel:	Return to the dialog.</source>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Cannot connect to this service. Check your network connection please.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удаётся подключиться к этой службе. Проверьте сетевое подключение.</translation>
     </message>
     <message>
         <source>Your VIP %1 expires now.  Please renew for more discount.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заканчивается время действия вашего VIP %1. Пожалуйста, продлите для получения дополнительных скидок.</translation>
     </message>
     <message>
         <source>Renew</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
 </context>
 <context>
@@ -10356,11 +10356,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
     <message>
         <source>Level %1</source>
@@ -10383,11 +10383,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>Read Number Format Error!</source>
@@ -10459,43 +10459,43 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message utf8="true">
         <source>①</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>②</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>③</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>④</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>⑤</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>⑥</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>⑦</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>⑧</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>⑨</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <source>⑩</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -10592,7 +10592,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished">Неверно указана единица измерения.</translation>
+        <translation>Неверно указана единица измерения.</translation>
     </message>
 </context>
 <context>
@@ -12236,7 +12236,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsGalleryFontComboBox</name>
     <message>
         <source>Simsun</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12269,7 +12269,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать строку заголовка</translation>
     </message>
 </context>
 <context>
@@ -12419,15 +12419,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsMainWindow</name>
     <message>
         <source>Command name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя команды</translation>
     </message>
     <message>
         <source>Editing tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты редактирования</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ</translation>
     </message>
 </context>
 <context>
@@ -13345,7 +13345,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон Kingsoft Writer 2007/2010(*.wptx)</translation>
     </message>
 </context>
 <context>
@@ -13572,7 +13572,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать в файл PDF</translation>
     </message>
 </context>
 <context>
@@ -13595,7 +13595,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать в файл PDF</translation>
     </message>
 </context>
 <context>
