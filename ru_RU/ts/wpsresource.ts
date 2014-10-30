@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <defaultcodec>UTF-8</defaultcodec>
@@ -21483,8 +21483,12 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Помощь</translation>
     </message>
     <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide While Grabbing Screen</source>
-        <translation>Скрыть во время снимка экрана</translation>
+        <translation type="obsolete">Скрыть во время снимка экрана</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -22258,6 +22262,11 @@ Directly</source>
         <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation></translation>
     </message>
@@ -22536,6 +22545,11 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <translation>Изменить стиль интерфейса</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

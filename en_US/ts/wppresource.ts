@@ -12915,11 +12915,7 @@ Slide</translation>
 Slide</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide While Grabbing Screen</source>
+        <source>Hide Current Window when Grabbing Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13701,11 +13697,12 @@ Slide</translation>
 <context>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
+        <source>Switch UI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
+        <comment>Personal Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13951,11 +13948,12 @@ Slide</translation>
 <context>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
+        <source>Switch UI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
+        <comment>Personal Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

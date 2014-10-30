@@ -1928,7 +1928,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flowchart: Seqential Access Storage</source>
+        <source>Flowchart: Sequential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -3994,6 +3994,13 @@ You can click the button to recover files you work on.</source>
 <context>
     <name>kso_print</name>
     <message>
+        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
+You can add the customized paper %dmm x %dmm in printer properties and print it again.
+Do you want to continue?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Office has not found any installed printers.</source>
         <comment>_ksoErr_Print_NoPrinter</comment>
         <translation type="unfinished"></translation>
@@ -4027,13 +4034,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
-You can add the customized paper %dmm x %dmm in printer properties and print it again.
-Do you want to continue?</source>
-        <comment>_ksoErr_Print_PaperNoSupport</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

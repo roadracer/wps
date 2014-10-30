@@ -696,7 +696,7 @@ a condição é verdadeira:</translation>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>Preencher com cor</translation>
+        <translation type="obsolete">Preencher com cor</translation>
     </message>
     <message>
         <source>Search</source>
@@ -789,6 +789,10 @@ a condição é verdadeira:</translation>
     <message>
         <source>(Blanks)</source>
         <translation>(Vazio)</translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

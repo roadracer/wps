@@ -398,22 +398,6 @@
 <context>
     <name>KRbRecentFilePage</name>
     <message>
-        <source>Unpinned from List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Pinned Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pin to List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Unpinned Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recent Documents: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -436,6 +420,22 @@
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpinned from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Pinned Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Unpinned Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -507,6 +507,18 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWPSCloudSetup</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

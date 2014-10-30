@@ -694,7 +694,7 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fill by Color</source>
+        <source>Filter by Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -840,35 +840,35 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Automation Server</source>
+        <source>Automation Servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The object does not contain a new automation server, or you do not have sufficient privileges to register the automation server.</source>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A File named</source>
+        <source>A file named </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it does not contain a valid Automation Server.</source>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, or it is a invalid addins macro file.</source>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>already exists in this location, Do you want to replace it?</source>
+        <source>already exists in this location. Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>does not contain a valid Automation Server.</source>
+        <source>does not contain a new Automation Server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is a invalid addins macro file.</source>
+        <source>is an invalid add-ins.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1145,6 +1145,10 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
@@ -1161,10 +1165,6 @@ condition is true:</source>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The selected connection type can not be used to create a PivotTable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1870,7 +1870,7 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Category:</source>
+        <source>Sor&amp;t</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3162,7 +3162,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create &amp;backup file at the first save</source>
+        <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6021,6 +6021,10 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
 <context>
     <name>KxExportPDFDlg</name>
     <message>
+        <source>Save PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF File(*.pdf)|*.pdf</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6042,10 +6046,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6795,6 +6795,14 @@ on iteration #%2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ignore cells that contain numbers, blanks, and other mismatch conditions.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6916,14 +6924,6 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Lists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7463,7 +7463,7 @@ automatically, and only one row can be kept.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
+        <source>This data source contains no visible tables.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9854,6 +9854,10 @@ t</source>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9961,13 +9965,13 @@ t</source>
         <source>Close w&amp;hen export completes</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
@@ -9978,10 +9982,6 @@ t</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

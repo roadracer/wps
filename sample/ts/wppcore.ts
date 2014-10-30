@@ -5962,6 +5962,11 @@ Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Apply Design Template</source>
         <comment>WP_APPLYTEMPLATE</comment>
         <translation type="unfinished"></translation>
@@ -6469,11 +6474,6 @@ Check</source>
     <message>
         <source>Play Background Music</source>
         <comment>WpBkSoundButton</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
-        <comment>WP_TEMPLATEFILE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

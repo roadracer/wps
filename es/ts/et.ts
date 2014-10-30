@@ -44,23 +44,23 @@
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="Ha realizado cambios a(&quot;%s&quot;.)"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="Otro usuario también ha hecho cambios. ¿Qué te gustaría hacer?"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="Haga clic en Descartar para descartar los cambios y editar la versión más reciente."></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="Haga clic en Guardar como para guardar los cambios en un archivo diferente y abrir la última versión."></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="descartar(&amp;)"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Save as</source>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="Seleccione la fuente de datos"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
@@ -848,11 +848,11 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fill by Color</source>
+        <source>Not equal to &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Not equal to &quot;%1&quot;</source>
+        <source>Filter by Color</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

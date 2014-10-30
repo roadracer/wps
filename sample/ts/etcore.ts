@@ -823,6 +823,13 @@ Please specify the right files.</source>
         <comment>TX_SAVE_MSO_WARNING_PROMPT</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
+• To save it on the Clipboard so that you can paste it later, click Yes.
+• To delete it from the Clipboard and free memory, click No.</source>
+        <comment>TX_WARNING_Large_Clipboard</comment>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Subtotal Result</source>
         <comment>TX_SUBTOTAL_PostfixOfResultSheetName</comment>
@@ -841,6 +848,11 @@ Please specify the right files.</source>
     <message>
         <source>The formula is too long to finish all the replacements.</source>
         <comment>TX_ERROR_Replace_TooLong</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1873,25 +1885,13 @@ Continue without Undo?</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
-• To save it on the Clipboard so that you can paste it later, click Yes.
-• To delete it from the Clipboard and free memory, click No.</source>
-        <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DialogFrame</source>
-        <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>File not loaded completely.</source>
         <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2131,7 +2131,7 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The data source contains no visible form</source>
+        <source>This data source contains no visible tables</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2145,7 +2145,7 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Whether to modify the existing classification?</source>
+        <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2463,6 +2463,11 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You cannot change part of an array.</source>
+        <comment>TX_RepeatWord_ArrayFormula</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Duplicates do not support reference to other workbooks or worksheets.</source>
         <comment>TX_RepeatWord_Cross_Sheet</comment>
         <translation type="unfinished"></translation>
@@ -2483,23 +2488,18 @@ Continue without Undo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;Unknown Sheet&gt;</source>
-        <comment>TX_Revision_Desc_UnknownSheet</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot change part of an array.</source>
-        <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Column has been chosen.</source>
+        <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;Unknown Sheet&gt;</source>
+        <comment>TX_Revision_Desc_UnknownSheet</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2561,32 +2561,32 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss Next function for loop!</source>
+        <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss Loop!</source>
+        <source>Missing loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss IF function!</source>
+        <source>Missing IF.</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Miss END.IF function!</source>
+        <source>Missing an END.IF function.</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No RETURN() or HALT() function fount on macro sheet!</source>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Illegal reference argument at:</source>
+        <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2838,6 +2838,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
 </context>
 <context>
     <name>et_et_dbe</name>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Error</source>
         <comment>TX_ETDBE_ERRCAPTION</comment>
@@ -3175,22 +3180,17 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
-        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>map</source>
+        <source>Map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fail to open xml file. file not exit or syntax error</source>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4148,6 +4148,11 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
+        <comment>DEVSQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
         <comment>EXPONDIST_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -4245,6 +4250,16 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.</source>
         <comment>HARMEAN_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
+        <comment>HYPGEOMDIST_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
+        <comment>HYPGEOMDIST_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4523,8 +4538,18 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
+        <comment>STDEV_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>STDEVA(number1,number2,...)</source>
         <comment>STDEVA_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
+        <comment>STDEVA_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4553,6 +4578,11 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
+        <comment>TDIST_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>TINV(probability,degrees_freedom)</source>
         <comment>TINV_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -4565,6 +4595,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TTEST(array1,array2,tails,type)</source>
         <comment>TTEST_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
+        <comment>TTEST_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4583,8 +4618,18 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
+        <comment>VAR_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>VARA(number1,number2,...)</source>
         <comment>VARA_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
+        <comment>VARA_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4800,6 +4845,16 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LOOKUP(lookup_value,lookup_vector,result_vector);LOOKUP(lookup_value,array)</source>
         <comment>LOOKUP_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RTD(progID, server, topic1, [topic2], ...)</source>
+        <comment>RTD_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retrieves real-time data from a program that supports COM automation.</source>
+        <comment>RTD_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6173,6 +6228,11 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
+        <comment>DSTDEV_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>DSTDEVP(database,field,criteria)</source>
         <comment>DSTDEVP_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -6195,6 +6255,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DVAR(database,field,criteria)</source>
         <comment>DVAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
+        <comment>DVAR_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6523,91 +6588,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SMALL_NUMBERSTR</source>
-        <comment>SMALL_NUMBERSTR</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIG_NUMBERSTR</source>
-        <comment>BIG_NUMBERSTR</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SMALLUNIT_NUMBERSTR</source>
-        <comment>SMALL_UNIT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIGUNIT_NUMBERSTR</source>
-        <comment>BIG_UNIT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
-        <comment>DEVSQ_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
-        <comment>HYPGEOMDIST_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
-        <comment>HYPGEOMDIST_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
-        <comment>STDEV_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
-        <comment>STDEVA_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
-        <comment>TDIST_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
-        <comment>TTEST_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
-        <comment>VAR_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
-        <comment>VARA_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RTD(progID, server, topic1, [topic2], ...)</source>
-        <comment>RTD_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Retrieves real-time data from a program that supports COM automation.</source>
-        <comment>RTD_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <comment>DSTDEV_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
-        <comment>DVAR_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>See Help for help on this function and its arguments.</source>
         <comment>SEE_HELP_FORMORE_DESC</comment>
         <translation type="unfinished"></translation>
@@ -6625,6 +6605,26 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ELSE()</source>
         <comment>ELSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SMALL_NUMBERSTR</source>
+        <comment>SMALL_NUMBERSTR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BIG_NUMBERSTR</source>
+        <comment>BIG_NUMBERSTR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SMALLUNIT_NUMBERSTR</source>
+        <comment>SMALL_UNIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BIGUNIT_NUMBERSTR</source>
+        <comment>BIG_UNIT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7071,6 +7071,11 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
+        <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Web Pages(*.htm; *.html)</source>
         <comment>TX_ssDesc_Allhtml_</comment>
         <translation type="unfinished"></translation>
@@ -7296,22 +7301,12 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Access Databases(*.mdb;*.accdb)</source>
-        <comment>TX_ssDesc_ACCESS</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
-        <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
         <comment>TX_ssDesc_EtxTemp_</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -7321,17 +7316,22 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DIF Data Interchange File(*.dif)</source>
+        <source>Access Databases(*.mdb;*.accdb)</source>
+        <comment>TX_ssDesc_ACCESS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Interchange Format (*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DIF (Data Interchange File)(*.dif)</source>
+        <source>DIF (Data Interchange Format)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -8724,6 +8724,11 @@ Continue ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Number_sample</source>
+        <comment>TX_ParaInfo_128</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Population_s</source>
         <comment>TX_ParaInfo_129</comment>
         <translation type="unfinished"></translation>
@@ -9751,6 +9756,11 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>is the sample size.</source>
+        <comment>TX_ParaDesc_054</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>is a cell range of values. The values should be numbers, names, arrays, or reference that contain numbers. </source>
         <comment>TX_ParaDesc_055</comment>
         <translation type="unfinished"></translation>
@@ -10313,6 +10323,16 @@ Check</source>
     <message>
         <source>is text or a number that is displayed in the cell. If omitted, the cell displays the Link_location text.</source>
         <comment>TX_ParaDesc_167</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the number of successes in the sample.</source>
+        <comment>TX_ParaDesc_168</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the size of the sample.</source>
+        <comment>TX_ParaDesc_169</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11326,6 +11346,16 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
         <translation type="unfinished"></translation>
@@ -11551,6 +11581,11 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>is the kind of t-test: paired = 1, two-sample equal variance(homoscedastic) = 2, two-sample unequal variance = 3.</source>
+        <comment>TX_ParaDesc_419</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>can be any value.</source>
         <comment>TX_ParaDesc_420</comment>
         <translation type="unfinished"></translation>
@@ -11563,6 +11598,16 @@ Check</source>
     <message>
         <source>is the text enclosed in quotation marks or a reference to a cell containing the text you want to convert.</source>
         <comment>TX_ParaDesc_422</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11638,6 +11683,11 @@ Check</source>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_439</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the population (know) standard deviation. If omitted, the sample standard deviation is used.</source>
+        <comment>TX_ParaDesc_440</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12450,56 +12500,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number_sample</source>
-        <comment>TX_ParaInfo_128</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the sample size.</source>
-        <comment>TX_ParaDesc_054</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the number of successes in the sample.</source>
-        <comment>TX_ParaDesc_168</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the size of the sample.</source>
-        <comment>TX_ParaDesc_169</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
-        <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the kind of t-test: paired = 1, two-sample equal variance(homoscedastic) = 2, two-sample unequal variance = 3.</source>
-        <comment>TX_ParaDesc_419</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the population (know) standard deviation. If omitted, the sample standard deviation is used.</source>
-        <comment>TX_ParaDesc_440</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_217</comment>
         <translation type="unfinished"></translation>
@@ -12800,7 +12800,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -12810,7 +12810,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
         <translation type="unfinished"></translation>
     </message>

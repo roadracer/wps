@@ -792,6 +792,13 @@
     </message>
 </context>
 <context>
+    <name>KLoginUserCenterCommand</name>
+    <message>
+        <source>You have signed in WPS Office. Click here for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KOpenCloudLinkOKTip</name>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -1219,19 +1226,19 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The %1-day trial expires now. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>List of limited features in free version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your subscription for WPS Office or %1-day trial expries now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy/Renew Now</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1288,7 +1295,7 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please download and install VBA to allow all macros to run if you need.</source>
+        <source>Please download and install VBA to allow all macros to run if you need. If you have installed VBA, please restart WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1296,10 +1303,6 @@ path:%3</source>
     <name>KxExpirationReminderDlg</name>
     <message>
         <source>Writer:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1316,14 +1319,6 @@ path:%3</source>
     </message>
     <message>
         <source>Spreadsheets:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Renew Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check the spelling of the text in the current document.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1367,19 +1362,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check the spelling of the text in the document.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check the spelling of the text in the current worksheet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1427,35 +1414,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office you purchased has expired at used period, the program will automatically become free version, the part of the feature is not used properly./nWe extend the %1 - day renewal fee for your time, you can renew and enjoy the discount in this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The %1-day trial expires now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save as docx format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Convert to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advanced Timeline </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1647,10 +1610,6 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sign out</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1672,6 +1631,10 @@ path:%3</source>
     </message>
     <message>
         <source>Click Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1752,14 +1715,6 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please check your network connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The server is busy. Please try again later.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please update your system time to connect to server.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1768,7 +1723,22 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ACTIVING...</source>
+        <source>Please check your network connection and %1try again%2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The server is busy. Please %1try again%2 later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingActiveSucceedDialog</name>
+    <message>
+        <source>WPS Office activation is successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1782,18 +1752,6 @@ path:%3</source>
         <source>Free</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office detects that the current system time and the actual time do not match. Please update your current system time to authenticate against the server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxQingBuyTooltip</name>
@@ -1804,10 +1762,6 @@ path:%3</source>
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 
 You need to sign in before you buy. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1853,7 +1807,32 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Subscription will expire by the end of the day</source>
+        <source>Your subscription has expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify Again &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription will expire today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your WPS Office is about to expire. 
+After expiration, some features will not work properly. Please renew now. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verification Failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1861,14 +1840,6 @@ After expiration, some features will not work properly. Renew now and you can ge
     <name>KxQingRestrictDlg</name>
     <message>
         <source>WPS Office Limited Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The free version can not use this feature</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To provoke you are paying customers can use any of the following ways:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1891,6 +1862,18 @@ After expiration, some features will not work properly. Renew now and you can ge
         <source>If you already have an activation code, use it to activate WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The feature is not available in free version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you are a paid subscriber, you can use this feature in either way:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy/Renew Now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxQingWelcomeDlg</name>
@@ -1903,23 +1886,23 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Start your free %-day trial.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sign in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Your Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start your free %1-day trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals, sign in to enjoy the service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1972,15 +1955,26 @@ After expiration, some features will not work properly. Renew now and you can ge
 <context>
     <name>KxVbaInstallationDlg</name>
     <message>
-        <source>Macros depend on VBA support to function correctly.</source>
+        <source>This document contains macros. Macros depend on VBA support to function correctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaReminderDlg</name>
+    <message>
+        <source>Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please download and install VBA to allow all macros to run if you need.</source>
+        <source>Macros depend on VBA support to function correctly. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document contains macros.</source>
+        <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2051,7 +2045,7 @@ After expiration, some features will not work properly. Renew now and you can ge
 <context>
     <name>kxKOSLoginCommand</name>
     <message>
-        <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
+        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

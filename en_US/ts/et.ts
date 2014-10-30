@@ -769,7 +769,7 @@ condition is true:</translation>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>Fill by Color</translation>
+        <translation type="obsolete">Fill by Color</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -986,6 +986,10 @@ condition is true:</translation>
     <message>
         <source>Yesterday</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

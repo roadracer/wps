@@ -3123,6 +3123,10 @@ Center</source>
         <translation type="obsolete">Externe Datenbereichseigenschaften</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fade Down</source>
         <translation type="obsolete">Verblassen abwärts</translation>
     </message>
@@ -3403,10 +3407,6 @@ Center</source>
         <translation type="obsolete">GoogleDocs</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Graphics</source>
         <translation type="obsolete">Grafiken</translation>
     </message>
@@ -3455,16 +3455,16 @@ Center</source>
         <translation type="obsolete">Ausblenden</translation>
     </message>
     <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation type="obsolete">Detail ausblenden</translation>
     </message>
     <message>
         <source>Hide Field List</source>
         <translation type="obsolete">Feldliste ausblenden</translation>
-    </message>
-    <message>
-        <source>Hide While Grabbing Screen</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -4140,10 +4140,6 @@ Directly</source>
     <message>
         <source>Protect</source>
         <translation type="obsolete">Schützen</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -5317,12 +5313,13 @@ Fenster</translation>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
+        <source>Switch UI</source>
+        <translation>Benutzeroberfläche wechseln</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Benutzeroberfläche wechseln</translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -6787,12 +6784,13 @@ umbrechen</translation>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
+        <source>Switch UI</source>
+        <translation>Benutzeroberfläche wechseln</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Benutzeroberfläche wechseln</translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

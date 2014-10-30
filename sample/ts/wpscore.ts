@@ -4,19 +4,19 @@
 <context>
     <name>field_parser_index</name>
     <message>
-        <source>Error!Can not find xe.</source>
+        <source>Error. No index entries found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error!Switch parameter is not specified.</source>
+        <source>Error. Switch argument not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error!Bookmark the page of an invalid.</source>
+        <source>Error. Not a valid bookmark in entry on page .</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alphabet</source>
+        <source>Alphanumeric</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24,7 +24,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error!Switch parameter unrecognizable.</source>
+        <source>Error. Unknown switch argument.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -36,15 +36,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error!Is not a valid character range.</source>
+        <source>Error. Not a valid range of characters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>wps can not update index!</source>
+        <source>WPS Writer cannot update Index.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -149,6 +149,11 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Normal text</source>
         <comment>TX_FIELD_REGULARTEXT</comment>
         <translation type="unfinished"></translation>
@@ -179,22 +184,17 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Only main text.</source>
-        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! lack of test conditions.</source>
+        <source>Error. Missing test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! cannot recognize the condition operation code.</source>
+        <source>Error. Unknown op code for conditional.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! lack of the second part test condition.</source>
+        <source>Error. Missing second part of test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -734,6 +734,11 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>Tx_PrintError</comment>
         <translation type="unfinished"></translation>
@@ -882,6 +887,11 @@ Do you want to replace it?</source>
     <message>
         <source>Spell Check: Off</source>
         <comment>_TxSpellingCheck_Off</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2215,34 +2225,24 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Writer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Make the office more relaxed</source>
-        <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
-        <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document is under protected, can not be merged</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There are one or all documents contain revsions, continue compare or not?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>no proofing</source>
+        <source>(no proofing)</source>
         <comment>TxLanguage_NoProofing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2571,6 +2571,14 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <comment>_TxDocument_KRM_RightsWillLost</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permissions control level of this file.</source>
+        <comment>_TxDocument_KRM_RightsInsufficient</comment>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Opening this document will execute the SQL command below:
  %s 
@@ -2654,14 +2662,6 @@ To save a file with these features, click No, and then choose a macro-enabled fi
 To continue saving as a macro-free workbook, click Yes.
 </source>
         <comment>_TxDocument_SaveMacroWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message utf8="true">
-        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
-Please try one of the following.
-•Switch to another user account.
-•Ask its creator to change the permissions control level of this file.</source>
-        <comment>_TxDocument_KRM_RightsInsufficient</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4024,7 +4024,7 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The number must be %d and %d.</source>
+        <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4292,6 +4292,11 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType_NumberedItem</comment>
         <translation type="unfinished"></translation>
@@ -4505,11 +4510,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>You are not allowed to edit this selection because it is protected.</source>
         <comment>wps_sSelectionProtected</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
-        <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5108,6 +5108,11 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Symbol</source>
         <comment>TxVersion_InsSymbol</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <comment>TxVersion_InsDateTime</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6056,12 +6061,7 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date/Time</source>
-        <comment>TxVersion_InsDateTime</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
         <translation type="unfinished"></translation>
     </message>

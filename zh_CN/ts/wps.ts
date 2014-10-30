@@ -13871,7 +13871,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>yyyy years MM months dd days</source>
-        <translation>yyyy 年 MM 月 dd 日</translation>
+        <translation type="obsolete">yyyy 年 MM 月 dd 日</translation>
     </message>
     <message>
         <source>to last editing position</source>

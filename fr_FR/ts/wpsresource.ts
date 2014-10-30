@@ -16045,8 +16045,12 @@ des utilisateurs</translation>
         <translation>Aide</translation>
     </message>
     <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide While Grabbing Screen</source>
-        <translation>Masquer lors de la capture d&apos;écran</translation>
+        <translation type="obsolete">Masquer lors de la capture d&apos;écran</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -16705,6 +16709,11 @@ directement</translation>
         <translation>Changer d&apos;interface utilisateur</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>Vrai</translation>
     </message>
@@ -16927,6 +16936,11 @@ directement</translation>
     <message>
         <source>Switch UI</source>
         <translation>Changer d&apos;interface utilisateur</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

@@ -2489,6 +2489,10 @@ Center</source>
         <translation>結束</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>使用者意見反應</translation>
     </message>
@@ -2561,10 +2565,6 @@ Center</source>
         <translation type="obsolete">Google文件</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gridlines</source>
         <translation>網格線彈出選單</translation>
     </message>
@@ -2581,7 +2581,7 @@ Center</source>
         <translation type="obsolete">Hi Lo Line選單</translation>
     </message>
     <message>
-        <source>Hide While Grabbing Screen</source>
+        <source>Hide Current Window when Grabbing Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2835,10 +2835,6 @@ Directly</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3398,12 +3394,13 @@ Window</source>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
+        <source>Switch UI</source>
+        <translation>切換介面</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>切換介面</translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>false</source>
@@ -3682,12 +3679,13 @@ Window</source>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
+        <source>Switch UI</source>
+        <translation>切換介面</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>切換介面</translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

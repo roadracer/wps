@@ -11971,10 +11971,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>yyyy years MM months dd days</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>to last editing position</source>
         <translation type="unfinished"></translation>
     </message>

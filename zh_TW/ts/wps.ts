@@ -14104,7 +14104,7 @@ to the picture size?</source>
     </message>
     <message>
         <source>yyyy years MM months dd days</source>
-        <translation>yyyy 年 MM 月 dd 日</translation>
+        <translation type="obsolete">yyyy 年 MM 月 dd 日</translation>
     </message>
 </context>
 <context>

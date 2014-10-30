@@ -2434,6 +2434,10 @@ centrer</translation>
         <translation>Quitter</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translatorcomment>On the right corner</translatorcomment>
         <translation>Commentaires</translation>
@@ -2497,7 +2501,7 @@ centrer</translation>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>Capture d&apos;écran</translation>
+        <translation type="obsolete">Capture d&apos;écran</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -2509,8 +2513,12 @@ centrer</translation>
         <translation>Aide</translation>
     </message>
     <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide While Grabbing Screen</source>
-        <translation>Masquer lors de la capture d&apos;écran</translation>
+        <translation type="obsolete">Masquer lors de la capture d&apos;écran</translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -2694,7 +2702,7 @@ directement</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mode de protection
+        <translation type="obsolete">Mode de protection
 des yeux</translation>
     </message>
     <message>
@@ -3105,13 +3113,14 @@ des tâches</translation>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
         <translatorcomment>On the right corner</translatorcomment>
         <translation>Changer d&apos;interface utilisateur</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -3316,12 +3325,13 @@ des tâches</translation>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
+        <source>Switch UI</source>
+        <translation>Changer d&apos;interface utilisateur</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Changer d&apos;interface utilisateur</translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

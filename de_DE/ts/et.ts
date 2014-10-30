@@ -836,11 +836,11 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fill by Color</source>
+        <source>Not equal to &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Not equal to &quot;%1&quot;</source>
+        <source>Filter by Color</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

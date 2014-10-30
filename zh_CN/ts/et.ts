@@ -1035,11 +1035,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>颜色筛选</translation>
+        <translation type="obsolete">颜色筛选</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
         <translation>不等于 &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

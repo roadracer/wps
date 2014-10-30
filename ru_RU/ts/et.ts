@@ -784,11 +784,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>Заливка цветом</translation>
+        <translation type="obsolete">Заливка цветом</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
         <translation>Не равно &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

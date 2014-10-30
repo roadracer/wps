@@ -677,7 +677,7 @@ condition est vraie :</translation>
     <message>
         <source>Fill by Color</source>
         <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
-        <translation>Remplir par couleur</translation>
+        <translation type="obsolete">Remplir par couleur</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -878,6 +878,10 @@ condition est vraie :</translation>
         <source>Yesterday</source>
         <translatorcomment>click A1, enter &apos;03/06/2012&apos;, press Enter-&gt;drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
         <translation>Hier</translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

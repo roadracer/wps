@@ -15373,7 +15373,7 @@ Effects</source>
         <translation>Ayuda</translation>
     </message>
     <message>
-        <source>Hide While Grabbing Screen</source>
+        <source>Hide Current Window when Grabbing Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16155,6 +16155,11 @@ Directly</source>
         <translation>Cambiar Interfaz de Usuario</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16413,6 +16418,11 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <translation>Cambiar Interfaz de Usuario</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

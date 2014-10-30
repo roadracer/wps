@@ -11983,10 +11983,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>to previous position</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>yyyy years MM months dd days</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxWpsMainWindow</name>

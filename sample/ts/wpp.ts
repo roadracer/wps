@@ -748,15 +748,15 @@
 <context>
     <name>KxBackgroundDlg</name>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bgTemplate tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>bgMagic tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -956,7 +956,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template background</source>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1658,6 +1658,22 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Preserve &amp;fidelity when sharing this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Start with</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1830,22 +1846,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Help us to improve WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Preserve &amp;fidelity when sharing this document:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed &amp;True Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Just embed used chars</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed all &amp;characters (best for editing)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -1885,6 +1885,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fullscreen(4:3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Letter Paper(8.5x11 Inch)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1913,7 +1917,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Overhead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Banner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:9)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:10)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widescreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1974,26 +1994,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>L&amp;andscape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fullscreen(4:3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Overhead</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fullscreen(16:9)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fullscreen(16:10)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Widescreen</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2545,6 +2545,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
 <context>
     <name>KxExportPDFDlg</name>
     <message>
+        <source>Save PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF File(*.pdf)|*.pdf||</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2618,10 +2622,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4269,6 +4269,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
 <context>
     <name>kdlgExportToPDF</name>
     <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4460,13 +4464,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Close when e&amp;xport completes</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
+    <message>
+        <source>Export to PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
@@ -4477,10 +4481,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

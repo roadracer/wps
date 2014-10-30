@@ -968,11 +968,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>色フィルタ</translation>
+        <translation type="obsolete">色フィルタ</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
         <translation>&quot;%1&quot;と等しくない</translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

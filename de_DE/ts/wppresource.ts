@@ -13880,10 +13880,6 @@ Slide</source>
         <translation type="obsolete">Zur Folie wechseln</translation>
     </message>
     <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Gradiant</source>
         <translation type="obsolete">Steigung</translation>
     </message>
@@ -13944,12 +13940,12 @@ Slide</source>
         <translation type="obsolete">Ausgeblendet</translation>
     </message>
     <message>
-        <source>Hide Slide</source>
-        <translation type="obsolete">Folie ausblenden</translation>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide While Grabbing Screen</source>
-        <translation type="unfinished"></translation>
+        <source>Hide Slide</source>
+        <translation type="obsolete">Folie ausblenden</translation>
     </message>
     <message>
         <source>Highlighter</source>
@@ -15892,12 +15888,13 @@ Slide</source>
 <context>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
+        <source>Switch UI</source>
+        <translation>UI wechseln</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>UI wechseln</translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -16963,12 +16960,13 @@ Transition</source>
 <context>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
+        <source>Switch UI</source>
+        <translation>UI wechseln</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>UI wechseln</translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

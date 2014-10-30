@@ -2215,6 +2215,10 @@ Center</source>
         <translation>Salir</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Comentarios</translation>
     </message>
@@ -2276,7 +2280,7 @@ Center</source>
     </message>
     <message>
         <source>Grab Screen</source>
-        <translation>Captar pantalla</translation>
+        <translation type="obsolete">Captar pantalla</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -2291,8 +2295,12 @@ Center</source>
         <translation type="obsolete">High-Low Line</translation>
     </message>
     <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide While Grabbing Screen</source>
-        <translation>Ocultar al captar pantalla </translation>
+        <translation type="obsolete">Ocultar al captar pantalla </translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -2518,7 +2526,7 @@ Directly</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Modo de proteger ojos</translation>
+        <translation type="obsolete">Modo de proteger ojos</translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -3031,11 +3039,16 @@ Window</source>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>Conmutador profesional UI</translation>
+        <translation type="obsolete">Conmutador profesional UI</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <translation>Conmutador UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -3303,11 +3316,16 @@ Window</source>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>Conmutador profesional UI </translation>
+        <translation type="obsolete">Conmutador profesional UI </translation>
     </message>
     <message>
         <source>Switch UI</source>
         <translation>Conmutador UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

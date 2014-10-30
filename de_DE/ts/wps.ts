@@ -11398,7 +11398,7 @@ an die Bildgröße anpassen?</translation>
     </message>
     <message>
         <source>yyyy years MM months dd days</source>
-        <translation>yyyy Jahre MM Monate dd Tage</translation>
+        <translation type="obsolete">yyyy Jahre MM Monate dd Tage</translation>
     </message>
     <message>
         <source>to last editing position</source>

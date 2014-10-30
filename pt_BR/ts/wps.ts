@@ -11031,7 +11031,7 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
     <message>
         <source>yyyy years MM months dd days</source>
-        <translation>aaaa anos MM mês dd dias</translation>
+        <translation type="obsolete">aaaa anos MM mês dd dias</translation>
     </message>
 </context>
 <context>

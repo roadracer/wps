@@ -12873,7 +12873,7 @@ Sélectionnez les parties du document et les utilisateurs autorisés à les modi
     </message>
     <message>
         <source>yyyy years MM months dd days</source>
-        <translation>yyyy années MM mois dd jours</translation>
+        <translation type="obsolete">yyyy années MM mois dd jours</translation>
     </message>
 </context>
 <context>

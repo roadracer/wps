@@ -973,11 +973,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>Filtro por color</translation>
+        <translation type="obsolete">Filtro por color</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
         <translation>No igual que &quot;%1&quot; </translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

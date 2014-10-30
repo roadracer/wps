@@ -18562,12 +18562,16 @@ Effects</source>
         <translation>Hilfe</translation>
     </message>
     <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Paragraph Layout</source>
         <translation type="obsolete">Absatzlayout ausblenden</translation>
     </message>
     <message>
         <source>Hide While Grabbing Screen</source>
-        <translation>Aktuellen Bereich beim Screenshot ausblenden</translation>
+        <translation type="obsolete">Aktuellen Bereich beim Screenshot ausblenden</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -20890,6 +20894,11 @@ Directly</source>
         <translation>UI wechseln</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>wahr</translation>
     </message>
@@ -22642,6 +22651,11 @@ Abschnitt</translation>
     <message>
         <source>Switch UI</source>
         <translation>UI wechseln</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

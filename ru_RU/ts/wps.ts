@@ -12410,10 +12410,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>%1 hours ago</source>
         <translation>%1 часов назад</translation>
     </message>
-    <message>
-        <source>yyyy years MM months dd days</source>
-        <translation></translation>
-    </message>
 </context>
 <context>
     <name>KxWpsMainWindow</name>

@@ -27944,7 +27944,7 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>說明</translation>
     </message>
     <message>
-        <source>Hide While Grabbing Screen</source>
+        <source>Hide Current Window when Grabbing Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -28886,6 +28886,11 @@ Directly</source>
         <translation>切換介面</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>false</source>
         <translation type="obsolete">確定</translation>
     </message>
@@ -29208,6 +29213,11 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <translation>切換介面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

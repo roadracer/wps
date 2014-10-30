@@ -967,7 +967,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>依色彩篩選</translation>
+        <translation type="obsolete">依色彩篩選</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
@@ -1052,6 +1052,10 @@ condition is true: </source>
     <message>
         <source>Text filter(F)</source>
         <translation type="obsolete">文字篩選(F)</translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
