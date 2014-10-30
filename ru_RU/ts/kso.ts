@@ -2220,7 +2220,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>(beta) Single Web Page File</source>
-        <translation type="obsolete">(бета-тест) файл всей Веб-страницы</translation>
+        <translation type="obsolete">Файл всей веб-страницы (бета) </translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 File</source>
@@ -2240,7 +2240,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Single Web Page Files</source>
-        <translation type="obsolete">файлы всей Веб-страницы</translation>
+        <translation type="obsolete">Файл всей веб-страницы</translation>
     </message>
     <message>
         <source>Kingsoft Office encountered an error when saving the file, please try again or contact customer service.</source>
@@ -5234,7 +5234,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Sequential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Блок-схема: память с последовательным доступом</translation>
     </message>
 </context>
 <context>
@@ -5327,7 +5327,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Web Page Files</source>
         <comment>_KsoFileFormatDesc_HTML_Files</comment>
-        <translation>Файлы веб-страниц</translation>
+        <translation>Файл веб-страницы</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -5342,7 +5342,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation>Файл всей Веб-страницы (бета)</translation>
+        <translation>Файл всей веб-страницы (бета)</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
@@ -5367,7 +5367,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Single Web Page Files</source>
         <comment>_KsoFileFormatDesc_MHT_Files</comment>
-        <translation>файлы всей Веб-страницы</translation>
+        <translation>Файл всей веб-страницы</translation>
     </message>
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
@@ -5735,12 +5735,12 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1; право на бесплатное использование шрифтов Founder в соответствии со статьями прав на использование от Founder.</translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1; право на бесплатное использование шрифтов Founder в соответствии со статьями прав на использование от Founder.</translation>
     </message>
     <message>
         <source>WPS Office (Beta)</source>
@@ -6348,7 +6348,9 @@ If the problem still exists, you can print a test page by right-clicking the pri
 You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
+Вы можете добавить в свойствах принтера другой размер бумаги %d mm ×%d mm, и повторить печать.
+Продолжить?</translation>
     </message>
 </context>
 <context>

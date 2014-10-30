@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation>Готов к преобразованию, подождите</translation>
+        <translation>Готово к преобразованию, подождите</translation>
     </message>
     <message>
         <source>Being calculated</source>

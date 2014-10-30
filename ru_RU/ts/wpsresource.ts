@@ -3361,11 +3361,11 @@ Direction</source>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation>Отзыв по электронной почте</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation type="obsolete">Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзыв по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -9474,11 +9474,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation>Отзыв по электронной почте</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation type="obsolete">Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзыв по электронной почте</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -11303,11 +11303,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation>Отзыв по электронной почте</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
-        <translation type="obsolete">Отзывы по электронной почте</translation>
+        <translation type="obsolete">Отзыв по электронной почте</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -20254,7 +20254,7 @@ Click the arrow to select different shading colors.</source>
     <name>tips.TrackChanges</name>
     <message>
         <source>Click here to choose revision markups and comment formatting, or to change reviewer information.</source>
-        <translation type="obsolete">Щёлкните здесь для выбора меток исправлений и форматирования примечаний, или для изменения информации проверяющего.</translation>
+        <translation type="obsolete">Щёлкните здесь для выбора меток исправлений и форматирования примечаний или для изменения информации проверяющего.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -21532,7 +21532,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Mail FeedBack</source>
-        <translation>Отзывы по электронной почте</translation>
+        <translation>Отзыв по электронной почте</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -22535,7 +22535,7 @@ Directly</source>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Изменить стиль интерфейса</translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>

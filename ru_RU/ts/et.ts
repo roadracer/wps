@@ -830,7 +830,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Cannot find the Add-Ins.</source>
-        <translation>Отстутствуют дополнения.</translation>
+        <translation>Отстутствуют надстройки.</translation>
     </message>
     <message>
         <source>&quot;, do you want to delete it from the list?</source>
@@ -838,7 +838,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>Дополнения</translation>
+        <translation>Надстройки</translation>
     </message>
     <message>
         <source>The file already exists in the list.</source>
@@ -846,39 +846,39 @@ condition is true:</source>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation type="obsolete">Недопустимое дополнение.</translation>
+        <translation type="obsolete">Недопустимая надстройка.</translation>
     </message>
     <message>
         <source>Automation Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Серверы автоматизации</translation>
     </message>
     <message>
         <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный файл не содержит нового сервера автоматизации, либо у вас недостаточно прав для регистрации сервера автоматизации.</translation>
     </message>
     <message>
         <source>A file named </source>
-        <translation type="unfinished"></translation>
+        <translation>Файл с именем </translation>
     </message>
     <message>
         <source>already exists in this location, or it does not contain a new Automation Server.</source>
-        <translation type="unfinished"></translation>
+        <translation>уже существует в этом месте, или выбранный файл не содержит нового сервера автоматизации.</translation>
     </message>
     <message>
         <source>already exists in this location, or it is an invalid add-ins.</source>
-        <translation type="unfinished"></translation>
+        <translation>уже существует в этом месте, или недопустимая надстройка.</translation>
     </message>
     <message>
         <source>already exists in this location. Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>уже существует в этом месте. Заменить?</translation>
     </message>
     <message>
         <source>does not contain a new Automation Server.</source>
-        <translation type="unfinished"></translation>
+        <translation>не содержит нового сервера автоматизации.</translation>
     </message>
     <message>
         <source>is an invalid add-ins.</source>
-        <translation type="unfinished"></translation>
+        <translation>недопустимая надстройка.</translation>
     </message>
 </context>
 <context>
@@ -1389,11 +1389,11 @@ To keep existing picture, press Cancel.</source>
     <name>KxDlgAddIns</name>
     <message>
         <source>Add-Ins</source>
-        <translation>Дополнения</translation>
+        <translation>Надстройки</translation>
     </message>
     <message>
         <source>&amp;Add-Ins available:</source>
-        <translation>&amp;Доступные дополнения:</translation>
+        <translation>&amp;Доступные надстройки:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -1871,23 +1871,23 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Макрос</translation>
     </message>
     <message>
         <source>&amp;Function</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Функция</translation>
     </message>
     <message>
         <source>&amp;Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Команда</translation>
     </message>
     <message>
         <source>Non&amp;e</source>
-        <translation type="unfinished"></translation>
+        <translation>Н&amp;ет</translation>
     </message>
     <message>
         <source>Sor&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Со&amp;ртировка</translation>
     </message>
 </context>
 <context>
@@ -3619,7 +3619,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
-        <translation type="unfinished"></translation>
+        <translation>Создавать файл &amp;резервной копии при первом сохранении</translation>
     </message>
 </context>
 <context>
@@ -4345,55 +4345,56 @@ prior to sharing the workbook.</source>
     <name>KxDlgRemoveDuplicates</name>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished">Удалить повторения</translation>
+        <translation>Удалить повторения</translation>
     </message>
     <message>
         <source>Please select one or more columns that contain duplicates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделите один или несколько столбцов, содержащих повторяющиеся значения.</translation>
     </message>
     <message>
         <source>&amp;My data has headers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Мои данные содержат заголовки</translation>
     </message>
     <message>
         <source>row</source>
-        <translation type="unfinished"></translation>
+        <translation>строка</translation>
     </message>
     <message>
         <source>%d duplicates are found;
 Only %d unique value can be keep after delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>найдено %d повторений; 
+Только %d уникальные значения будут оставлены после удаления.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить повторения</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRemoveDuplicatesWarning</name>
     <message>
         <source>Remove Duplicates Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение об удалении дубликатов</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreadsheets обнаружила данные после выделенного диапазона. Не выделенные данные удалены не будут.</translation>
     </message>
     <message>
         <source>What do you want to do?</source>
-        <translation type="unfinished">Что вы хотите сделать?</translation>
+        <translation>Что вы хотите сделать?</translation>
     </message>
     <message>
         <source>&amp;Expand the selection</source>
-        <translation type="unfinished">&amp;Расширить выделенный диапазон</translation>
+        <translation>&amp;Расширить выделенный диапазон</translation>
     </message>
     <message>
         <source>&amp;Continue with the current selection</source>
-        <translation type="unfinished">&amp;Сортировать в пределах указанного выделения</translation>
+        <translation>&amp;Сортировать в пределах указанного выделения</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить повторения...</translation>
     </message>
 </context>
 <context>
@@ -5688,27 +5689,31 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEtDialogSheetDlg</name>
     <message>
         <source>Integer is not valid.</source>
-        <translation type="unfinished">Недопустимое целое.</translation>
+        <translation>Недопустимое целое.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished">Введено недопустимое значение. Следует ввести число.</translation>
+        <translation>Введено недопустимое значение. Следует ввести число.</translation>
     </message>
     <message>
         <source>The reference you typed is not valid, or you did not provide a reference where one was required
 To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная ссылка или ссылка отсутствует.
+Чтобы ввести ссылку с помощью мыши, щелкните строку ввода, а затем щелкните ячейку листа, или выделите диапазон.</translation>
     </message>
     <message>
         <source>The formula you typed contains an error.
 To get assistance in entering a function, click Function Wizard
 If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
-        <translation type="unfinished"></translation>
+        <translation>Введенная формула содержит ошибку.
+Для получения помощи по вводу функции, откройте мастер функций.
+Если вы хотите ввести не формулу, а какой-либо текст, старайтесь не использовать знаки равно (=) и минус (-) или вводите перед ними знак кавычки (&apos;).</translation>
     </message>
     <message>
         <source>The cell or chart that you are trying to change is protected and therefore read-only.
 To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ячейка или диаграмма защищена от изменений.
+Чтобы изменить защищенную ячейку или диаграмму, снимите защиту при помощи команды &quot;Снять защиту листа&quot; (вкладка &quot;Рецензирование&quot;). При этом может потребоваться ввод пароля.</translation>
     </message>
 </context>
 <context>
@@ -6074,7 +6079,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Save PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить файл PDF</translation>
     </message>
 </context>
 <context>
@@ -6951,11 +6956,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Custom Lists</source>
-        <translation type="unfinished">Списки</translation>
+        <translation>Списки</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Параметры</translation>
+        <translation>Параметры</translation>
     </message>
 </context>
 <context>
@@ -7409,24 +7414,25 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxRemoveDuplicatesDlg</name>
     <message>
         <source>( Select All )</source>
-        <translation type="unfinished"></translation>
+        <translation>(Выделить все)</translation>
     </message>
     <message>
         <source>column </source>
-        <translation type="unfinished">столбец </translation>
+        <translation>столбец </translation>
     </message>
     <message>
         <source>(%1) %2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1 duplicates are found;
 Only %2 unique value can be keep after delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>найдено %1 повторений; 
+Только %2 уникальные значения будут оставлены после удаления.</translation>
     </message>
     <message>
         <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
-        <translation type="unfinished"></translation>
+        <translation>найдено %1 повторений, которые будут удалены. Только %2 уникальные значения будут оставлены после удаления.</translation>
     </message>
 </context>
 <context>
@@ -7504,23 +7510,23 @@ system will remind checking the correctness of the contents.
     <name>KxSelectTableFromDbDlg</name>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор таблицы</translation>
     </message>
     <message>
         <source>This data source contains no visible tables.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот источник данных не содержит видимых таблиц.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Владелец</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Тип</translation>
+        <translation>Тип</translation>
     </message>
 </context>
 <context>
@@ -9481,7 +9487,7 @@ t</source>
     <name>SelectTableFromDbUI</name>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор таблицы</translation>
     </message>
 </context>
 <context>
@@ -10025,7 +10031,7 @@ t</source>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование в файл PDF</translation>
     </message>
 </context>
 <context>
@@ -10048,7 +10054,7 @@ t</source>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование в файл PDF</translation>
     </message>
 </context>
 <context>
@@ -10072,8 +10078,8 @@ t</source>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation>По&amp;местить в этот 
-документ</translation>
+        <translation>&amp;Место в
+документе</translation>
     </message>
     <message>
         <source>Email Buttion</source>
@@ -10111,7 +10117,7 @@ Document</source>
         <source>E&amp;xisting File
 or Web Page</source>
         <translation>Су&amp;ществующий файл
-или веб-страница</translation>
+или веб-страницу</translation>
     </message>
     <message>
         <source>Browse for File</source>

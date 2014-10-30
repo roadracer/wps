@@ -187,7 +187,7 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробнее</translation>
     </message>
 </context>
 <context>
@@ -218,11 +218,11 @@
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка шрифтов из Интернета &quot;%1&quot; успешно</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка шрифтов из Интернета &quot;%1&quot; ошибка</translation>
     </message>
 </context>
 <context>
@@ -289,11 +289,11 @@
     </message>
     <message>
         <source>2012 Skin</source>
-        <translation>Обложка 2012</translation>
+        <translation>Стиль интерфейса 2012</translation>
     </message>
     <message>
         <source>2013 Skin</source>
-        <translation>Обложка 2013</translation>
+        <translation>Стиль интерфейса 2013</translation>
     </message>
     <message>
         <source>Restart Office to apply the layout.</source>
@@ -325,11 +325,11 @@
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation>Изысканный черный 2013</translation>
+        <translation>Изысканный чёрный 2013</translation>
     </message>
     <message>
         <source>2013 Water Blue</source>
-        <translation>Водяной синий 2013</translation>
+        <translation>Морская волна 2013</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -337,15 +337,15 @@
     </message>
     <message>
         <source>about:blank</source>
-        <translation type="unfinished"></translation>
+        <translation>:пусто</translation>
     </message>
     <message>
         <source>applying...</source>
-        <translation type="unfinished"></translation>
+        <translation>применить...</translation>
     </message>
     <message>
         <source>Restart WPS Office for layout setting to take effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Для вступления в силу настроек интерфейса перезапустите WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -448,46 +448,46 @@
     </message>
     <message>
         <source>Downloading %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка %1...</translation>
     </message>
     <message>
         <source>Installing %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка %1...</translation>
     </message>
     <message>
         <source>Local Language Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальные языковые пакеты</translation>
     </message>
     <message>
         <source>Online Language Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Языковые пакеты из Интернета</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка...</translation>
     </message>
     <message>
         <source>Click to open the credits page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните, чтобы открыть страницу с перечислением участников проекта.</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетевая ошибка...</translation>
     </message>
     <message>
         <source>A network error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сетевая ошибка.</translation>
     </message>
     <message>
         <source>Download language packs failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка загрузки языковых пакетов.</translation>
     </message>
 </context>
 <context>
     <name>KLanguageDownloadDialog</name>
     <message>
         <source>Are you sure to cancel the download?</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить загрузку?</translation>
     </message>
 </context>
 <context>
@@ -669,7 +669,7 @@
     <name>KSwitchFaceDlg</name>
     <message>
         <source>2012 Skin</source>
-        <translation>Обложка 2012</translation>
+        <translation>Стиль интерфейса 2012</translation>
     </message>
     <message>
         <source>Classic Skin</source>
@@ -1354,7 +1354,7 @@
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Customize menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка меню</translation>
     </message>
 </context>
 <context>
@@ -2229,59 +2229,59 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgMailFeedBack</name>
     <message>
         <source>Phone*:</source>
-        <translation type="unfinished"></translation>
+        <translation>Телефон*:</translation>
     </message>
     <message>
         <source>E-Mail*:</source>
-        <translation type="unfinished"></translation>
+        <translation>Электронная почта*:</translation>
     </message>
     <message>
         <source>Problem types:</source>
-        <translation type="unfinished"></translation>
+        <translation>Типы ошибок:</translation>
     </message>
     <message>
         <source>Cannot find functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Функции не найдены</translation>
     </message>
     <message>
         <source>Do not know how to use the function</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка использования функции</translation>
     </message>
     <message>
         <source>Compatible problems with other software</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки совместимости с другим программным обеспечением</translation>
     </message>
     <message>
         <source>WPS Office operating process not smoothly</source>
-        <translation type="unfinished"></translation>
+        <translation>Слишком медленное выполнение процесса WPS Office</translation>
     </message>
     <message>
         <source>Problems of secondly development</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки разработки</translation>
     </message>
     <message>
         <source>Other problems</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие ошибки</translation>
     </message>
     <message>
         <source>Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Предложения</translation>
     </message>
     <message>
         <source>Files to reproduce the problem (Files will be properly kept.) </source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы для воспроизведения ошибки (файлы будут храниться с соблюдением конфиденциальности.)</translation>
     </message>
     <message>
         <source>Add Attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить вложение</translation>
     </message>
     <message>
         <source>Send Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить электронную почту</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -2554,13 +2554,17 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+время изменения:</translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
     </message>
 </context>
 <context>
@@ -3039,64 +3043,66 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxMailFeedBackDlg</name>
     <message>
         <source>----please choose the type of your problem-----</source>
-        <translation type="unfinished"></translation>
+        <translation>----выберите тип ошибки-----</translation>
     </message>
     <message>
         <source>(Details of problems)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Информация об ошибке)</translation>
     </message>
     <message>
         <source>(Steps to reproduce the problem)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Действия для воспроизведения ошибки)</translation>
     </message>
     <message>
         <source>(A detailed description)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Подробное описание)</translation>
     </message>
     <message>
         <source>If options folow are empty, the email will only send the auto-generated error log report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если не заполнены следующие поля, то по электронной почте будет отправлен только, созданный автоматически, отчёт об ошибке.</translation>
     </message>
     <message>
         <source>Abnormal exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Аварийное завершение</translation>
     </message>
     <message>
         <source>User feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отзывы пользователей</translation>
     </message>
     <message>
         <source>Files or pictures to help describing problems</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы или изображения для описания проблемы</translation>
     </message>
     <message>
         <source>We are looking forward to receiving your email. Please describe encountered problems or share your suggestions of WPS Office in the below table. We will reply you as soon as possible.
 If the problem is urgent, call the customer hotline : 400-667-5005.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ждём от вас сообщения по электронной почте. Вы можете описать возникшие ошибки, или внести предложения по улучшению WPS Office в таблице, приведенной ниже. Мы ответим Вам как можно скорее.
+При необходимости срочной консультации по возникшим ошибкам, позвоните по телефону клиентской горячей линии: 400-667-5005.</translation>
     </message>
     <message>
         <source>We are sorry that WPS Office encountered an error and closed automatically. An error log report has been generated. We suggest you email this report to us and provide other information about this error. We will handle it quickly. Thank you for your feedback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружена ошибка WPS Office, и приложение будет завершено с автоматической генерацией отчёта об ошибке. Рекомендуем отправить этот отчёт с любой дополнительной информацией об ошибке по электронной почте . Мы постараемся найти решение как можно быстрее. Спасибо за отзыв!
+</translation>
     </message>
     <message>
         <source>Phone number can only contain numbers, +, -</source>
-        <translation type="unfinished"></translation>
+        <translation>Телефон может содержать только цифры, +, -.</translation>
     </message>
     <message>
         <source>Please choose the problem type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите тип ошибки!</translation>
     </message>
     <message>
         <source>File does not exist! Please check the file path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не существует! Проверьте путь к файлу.</translation>
     </message>
     <message>
         <source>Please enter the contact phone and E-mail address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите номер контактного телефона и адрес электронной почты!</translation>
     </message>
     <message>
         <source>Please enter a contact phone!</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите номер контактного телефона!</translation>
     </message>
     <message>
         <source>Please enter an e-mail address!</source>
@@ -3316,35 +3322,36 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Cannot connect to this service. Check your network connection please.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка подключения к услуге. Проверьте сетевое подключение.</translation>
     </message>
     <message>
         <source>Your VIP %1 expires now.  Please renew for more discount.</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает срок действия функции &quot;важный клиент&quot; %1. Щёлкните для продления и получения новых скидок.
+</translation>
     </message>
     <message>
         <source>Renew</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить</translation>
     </message>
     <message>
         <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы пока не являетесь важным участником. Обновите для доступа к дополнительным шрифтам из Интернета.</translation>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление</translation>
     </message>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсказка</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3411,60 +3418,64 @@ Click to recharge for more discounts.</source>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.
 Click here to sign in now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновите до &quot;важного клиента&quot; для доступа к расширенному набору шрифтов.
+Для входа нажмите здесь.</translation>
     </message>
     <message>
         <source>Sign in to use cloud fonts.
 Click the icon to sign in now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для использования шрифтов из облачного сервиса необходимо войти на сайт.
+Нажмите на значок для входа.</translation>
     </message>
     <message>
         <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Важные клиенты&quot; получают доступ к расширенному набору шрифтов. Нажмите для входа на сайт.</translation>
     </message>
     <message>
         <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиенты получают доступ к бесплатным шрифтам облачного сервиса. Нажмите для входа на сайт.</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваше членство %1 истекает сейчас. Его можно продлить  сейчас.
+</translation>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Установлен расширенный набор шрифтов &quot;важного клиента&quot;.</translation>
     </message>
     <message>
         <source>Cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Установлен набор шрифтов облачного сервиса.</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновите до &quot;важного клиента&quot; для доступа к расширенному набору шрифтов.</translation>
     </message>
     <message>
         <source>Click to install free cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните для установки бесплатных шрифтов облачного сервиса.</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает срок действия членства %1. Продлите и получите доступ к шрифтам облачного сервиса.
+</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait?</source>
-        <translation type="unfinished"></translation>
+        <translation>Загружаются шрифты, подождите...</translation>
     </message>
     <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифты облачного сервиса установлены.</translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните для перемещения облачных шрифтов наверх списка.</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните для расстановки облачных шрифтов в случайном порядке.</translation>
     </message>
 </context>
 <context>
@@ -3550,42 +3561,42 @@ Click the icon to sign in now.</source>
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы используете бесплатную версию.</translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подложка будет добавлена в документ при печати. Рекомендуется выбрать предварительный просмотр для просмотра изменений перед печатью.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished">&amp;Печать</translation>
+        <translation>&amp;Печать</translation>
     </message>
     <message>
         <source>Print Pre&amp;view</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный прос&amp;мотр</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Отмена</translation>
+        <translation>&amp;Отмена</translation>
     </message>
 </context>
 <context>
     <name>KxPrintWatermarkDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы используете бесплатную версию.</translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Подложка будет добавлена в документ при печати.</translation>
     </message>
     <message>
         <source>Don&apos;t show again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не показывать.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3885,48 +3896,52 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ, который надо очистить</translation>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить &amp;данную запись</translation>
     </message>
     <message>
         <source>Clear &amp;all selected record</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить выбранные за&amp;писи</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid record</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить &amp;все неверные записи</translation>
     </message>
     <message>
         <source>Open the file in &amp;folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл в &amp;папке</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+время изменения:</translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
     </message>
     <message>
         <source>A total of %1 records</source>
-        <translation type="unfinished"></translation>
+        <translation>Всего %1 записей.</translation>
     </message>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка открытия файла &quot;%1&quot; . Возможно, он был удалён, перемещён или переименован.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку файла</translation>
     </message>
 </context>
 <context>
@@ -3991,7 +4006,7 @@ but the included system package is reserved.</source>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка на сервер</translation>
     </message>
 </context>
 <context>
@@ -4036,7 +4051,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Skin Management</source>
-        <translation>Управление стилями обложек</translation>
+        <translation>Управление стилями интерфейсов</translation>
     </message>
 </context>
 <context>
@@ -4058,7 +4073,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation>Текущий язык неприменим к этой обложке.</translation>
+        <translation>Текущий язык неприменим к этому стилю интерфейса.</translation>
     </message>
 </context>
 <context>
@@ -4307,7 +4322,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Custom animation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка анимации:</translation>
     </message>
 </context>
 <context>
@@ -4359,23 +4374,28 @@ but the included system package is reserved.</source>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка открытия файла &quot;%1&quot;.
+Возможно, он был удалён, перемещён или переименован.</translation>
     </message>
     <message>
         <source>Open file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку файла</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+время изменения:</translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
     </message>
 </context>
 <context>
@@ -4427,11 +4447,11 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка открытия файла &quot;%1&quot; . Возможно, он был удалён, перемещён или переименован.</translation>
     </message>
     <message>
         <source>Open file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку файла</translation>
     </message>
 </context>
 <context>
@@ -4959,7 +4979,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Чёрный</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
@@ -5257,14 +5277,14 @@ Always take this action.</source>
     </message>
     <message>
         <source>Blue Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Сизый</translation>
     </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation>Текущий системный язык не может использоваться с этой обложкой.</translation>
+        <translation>Текущий системный язык не может использоваться с этим стилем интерфейса.</translation>
     </message>
 </context>
 <context>
@@ -5316,7 +5336,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>This product is licensed to:</source>
-        <translation>Данный продукт лицензирован:</translation>
+        <translation>Данный продукт лицензирован для:</translation>
     </message>
     <message>
         <source>Product ID:</source>
@@ -5468,7 +5488,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Link to:</source>
-        <translation>Связать с:</translation>
+        <translation>Ссылка на:</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
@@ -5510,7 +5530,7 @@ Document</source>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation>&amp;файлом или веб- страницей</translation>
+        <translation>&amp;Файл или веб-страницу</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
