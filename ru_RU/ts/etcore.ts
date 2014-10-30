@@ -631,7 +631,7 @@ Please specify the right files.</source>
     </message>
     <message>
         <source>%s of %d records found</source>
-        <translation type="obsolete">Найдено %s of %d записей.</translation>
+        <translation type="obsolete">Найдено %s из %d записей.</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
@@ -2693,7 +2693,7 @@ Please specify the right files.</source>
     <message>
         <source>%s of %d records found</source>
         <comment>TX_AUTOFILTER_RESULT</comment>
-        <translation>Найдено %s of %d записей.</translation>
+        <translation>Найдено %s из %d записей.</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
@@ -3846,276 +3846,278 @@ Continue without Undo?</source>
 • To save it on the Clipboard so that you can paste it later, click Yes.
 • To delete it from the Clipboard and free memory, click No.</source>
         <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation type="unfinished"></translation>
+        <translation>В буфере обмена находится большой объем данных. Сохранить эти данные для последующей вставки в другую программу? 
+• Чтобы сохранить данные, нажмите кнопку &apos;&apos;Да&apos;&apos;.
+• Чтобы удалить данные и освободить память, нажмите кнопку &apos;&apos;Нет&apos;&apos;.</translation>
     </message>
     <message>
         <source>Dialog Title</source>
         <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок диалога</translation>
     </message>
     <message>
         <source>File not loaded completely.</source>
         <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Файл загружен не полностью.</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя использовать данную команду на защищенном листе. Необходимо сначала снять защиту листа (меню &quot;Сервис&quot;-&gt;&quot;Защита листа&quot;-&gt;&quot;Снять защиту листа&quot;). Возможно, потребуется ввести пароль.</translation>
     </message>
     <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s на %s</translation>
     </message>
     <message>
         <source>unknown printer (check your Control Panel)</source>
         <comment>TX_UNKNOWN_PRINTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>неизвестный принтер (проверьте Панель Управления)</translation>
     </message>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation type="unfinished">Общий</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_02</comment>
-        <translation type="unfinished">11,0 {0.00?}</translation>
+        <translation>11,0 {0.00?}</translation>
     </message>
     <message>
         <source>#,##0</source>
         <comment>TX_NUMFMTApi_BuildIn_03</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#,##0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_04</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$#,##0_);($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$#,##0_);[Red]($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_06</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$#,##0.00_);($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$#,##0.00_);[Red]($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_08</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0.00%</source>
         <comment>TX_NUMFMTApi_BuildIn_10</comment>
-        <translation type="unfinished">11,0 {0.00%?}</translation>
+        <translation>11,0 {0.00%?}</translation>
     </message>
     <message>
         <source>0.00E+00</source>
         <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
         <comment>TX_NUMFMTApi_BuildIn_15</comment>
-        <translation type="unfinished"></translation>
+        <translation>д-ммм-гг</translation>
     </message>
     <message>
         <source>d-mmm</source>
         <comment>TX_NUMFMTApi_BuildIn_16</comment>
-        <translation type="unfinished"></translation>
+        <translation>д-ммм</translation>
     </message>
     <message>
         <source>h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation type="unfinished"></translation>
+        <translation>ч:мм</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation type="unfinished"></translation>
+        <translation>ч:мм:сс</translation>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг ч:мм</translation>
     </message>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_24</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_25</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_26</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished"></translation>
+        <translation>ч:мм:сс</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation type="unfinished"></translation>
+        <translation>ч:мм:сс</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>ч:мм:сс</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>ч:мм:сс</translation>
     </message>
     <message>
         <source>#,##0_);(#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#,##0_);[Red](#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#,##0.00_);(#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#,##0.00_);[Red](#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_41</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_42</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_43</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_44</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>mm:ss.0</source>
         <comment>TX_NUMFMTApi_BuildIn_45</comment>
-        <translation type="unfinished"></translation>
+        <translation>мм:сс.0</translation>
     </message>
     <message>
         <source>##0.0E+0</source>
         <comment>TX_NUMFMTApi_BuildIn_48</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/д/гггг</translation>
     </message>
     <message>
         <source>m/dd/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>м/дд/гггг</translation>
     </message>
     <message>
         <source>This data source contains no visible tables</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Этот источник данных не содержит видимых таблиц</translation>
     </message>
     <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лист содержит более 255 недопустимых ячеек. Помечены будут только первые 255 ячеек.</translation>
     </message>
     <message>
         <source>All Files(*.*)| *.*</source>
         <comment>TX_App_GetSaveAsFileName_FileFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)| *.*</translation>
     </message>
     <message>
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
-        <translation type="unfinished">Изменить существующую структуру документа?</translation>
+        <translation>Изменить существующую структуру документа?</translation>
     </message>
 </context>
 <context>
@@ -4463,22 +4465,22 @@ Continue without Undo?</source>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation type="unfinished">Невозможно изменение части массива.</translation>
+        <translation>Невозможно изменение части массива.</translation>
     </message>
     <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно удалить дублирующуюся информацию, если диапазон содержит структуру. Чтобы удалить дубликаты, удалите структуру, а затем повторите операцию удаления дубликатов.</translation>
     </message>
     <message>
         <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
+        <translation>Столбец не выбран.</translation>
     </message>
     <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation>Таблица_</translation>
     </message>
 </context>
 <context>
@@ -4528,52 +4530,52 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
         <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сервер данных реального времени &apos;%s&apos; не отвечает. Следует ли приложению %s попытаться перезагрузить сервер?</translation>
     </message>
     <message>
         <source>Macro Error</source>
         <comment>TX_MSF_RUN_ERR_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка макроса</translation>
     </message>
     <message>
         <source>Macro error at cell: </source>
         <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка макроса в ячейке:</translation>
     </message>
     <message>
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пропущена функция СЛЕД для цикла.</translation>
     </message>
     <message>
         <source>Missing loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пропущен цикл.</translation>
     </message>
     <message>
         <source>Missing IF.</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пропущено условие ЕСЛИ. </translation>
     </message>
     <message>
         <source>Missing an END.IF function.</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пропущена функция КОН.ЕСЛИ.</translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet.</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation type="unfinished"></translation>
+        <translation>На листе макросов не найдена функция ВОЗВРАТ() или СТОП().</translation>
     </message>
     <message>
         <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимый аргумент-ссылка в:</translation>
     </message>
     <message>
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Макрос прерван в ячейке:</translation>
     </message>
 </context>
 <context>
@@ -5190,37 +5192,37 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы(*.*)|*.*|Все источники данных(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Базы данных Access(*.mdb,*.accdb)|*.mdb;*.accdb|База данных FoxPro(*.dbc)|*.dbc|Файлы DBase(*.dbf)|*.dbf|Файлы Excel(*.xls)|*.xls|Файлы WPS Spreadsheets(*.et)|*.et|Файлы CSV(*.csv)|*.csv|Текстовые файлы(*.txt)|*.txt|Соединения базы данных Office(*.odc)|*.odc|Ссылки Microsoft Data(*.udl)|*.udl|Файлы DSN для файлов ODBC(*.dsn)|*.dsn|Файл запросов(*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <source>Map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при открытии файла данных в формате XML. Возможно, файл не существует или ошибка синтаксиса XML.</translation>
     </message>
     <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Параметр</translation>
     </message>
     <message>
         <source>Unable to open %s. Cannot download the information you requested.</source>
         <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при открытии %s. Не удается загрузить нужные данные.</translation>
     </message>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не удается открыть файл, так как указан слишком длинный путь к файлу. Переименуйте файл так, чтобы путь к нему стал короче 256 знаков.</translation>
     </message>
 </context>
 <context>
@@ -8650,17 +8652,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTD(progID, server, topic1, [topic2], ...)</source>
         <comment>RTD_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>RTD(кодПрог,сервер,элемент1,элемент2,...)</translation>
     </message>
     <message>
         <source>Retrieves real-time data from a program that supports COM automation.</source>
         <comment>RTD_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Получает данные реального времени от программы, поддерживающей автоматизацию COM.</translation>
     </message>
     <message>
         <source>See Help for help on this function and its arguments.</source>
         <comment>SEE_HELP_FORMORE_DESC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительные сведения о функции и ее аргументах см. в справочной системе.</translation>
     </message>
     <message>
         <source>ARGUMENT(name_text, data_type_num, reference)</source>
@@ -8720,42 +8722,42 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RESTART(level_num)</source>
         <comment>RESTART_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ПЕРЕЗАПУСК(номер_уровня)</translation>
     </message>
     <message>
         <source>RESULT(type_num)</source>
         <comment>RESULT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>РЕЗУЛЬТАТ(тип_число)</translation>
     </message>
     <message>
         <source>RETURN(value)</source>
         <comment>RETURN_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ВОЗВРАЩАЕТ(значение)</translation>
     </message>
     <message>
         <source>SET.NAME(name_text, value)</source>
         <comment>SETNAME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>УСТ.ИМЯ(имя_текст, значение)</translation>
     </message>
     <message>
         <source>SET.VALUE(reference, values)</source>
         <comment>SETVALUE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>УСТ.ЗНАЧ(ссылка, значения)</translation>
     </message>
     <message>
         <source>STEP()</source>
         <comment>STEP_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ШАГ()</translation>
     </message>
     <message>
         <source>VOLATILE(logical)</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ИЗМЕНЯЕМЫЙ(логич)</translation>
     </message>
     <message>
         <source>WHILE(logical_test)</source>
         <comment>WHILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ПОКА(логич_проверка)</translation>
     </message>
     <message>
         <source>GET.NAME(name_text, info_type)</source>
@@ -8774,7 +8776,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>UNREGISTER(register_id)</source>
         <comment>UNREGISTER_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>РАЗРЕГИСТР(идентификатор_регистрации)</translation>
     </message>
     <message>
         <source>GET.DOCUMENT(type_num, name_text)</source>
@@ -8799,7 +8801,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WINDOW.TITLE(text)</source>
         <comment>WINDOWTITLE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ОКНО.ЗАГОЛОВОК(текст)</translation>
     </message>
     <message>
         <source>ACTIVE.CELL()</source>
@@ -8829,7 +8831,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WINDOWS(type_num, match_text)</source>
         <comment>WINDOWS_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ОКНА(номер_типа, сопоставл_текст)</translation>
     </message>
     <message>
         <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
@@ -8839,12 +8841,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TEXTREF(text, a1)</source>
         <comment>TEXTREF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ТЕКСТССЫЛКА(текст, a1)</translation>
     </message>
     <message>
         <source>REFTEXT(reference, a1)</source>
         <comment>REFTEXT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ССЫЛКАТЕКСТ(ссылка, a1)</translation>
     </message>
     <message>
         <source>GET.BAR(bar_num, menu, command, subcommand)</source>
@@ -8949,12 +8951,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SELECT(selection, active_cell)</source>
         <comment>SELECT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ВЫДЕЛЕНИЕ(выделенное,активная_ячейка)</translation>
     </message>
     <message>
         <source>SELECT.LAST.CELL()</source>
         <comment>SELECTLASTCELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ВЫДЕЛ.ПОСЛЕДН.ЯЧ()</translation>
     </message>
     <message>
         <source>COPY(from_reference, to_reference)</source>
@@ -8979,7 +8981,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
         <comment>ROWHEIGHT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>СТРОКА.ВЫСОТА(высота_числ,ссылка,стандартная_высота,тип_число)</translation>
     </message>
     <message>
         <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
@@ -8994,7 +8996,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RUN(reference, step)</source>
         <comment>RUN_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ВЫПОЛНЕНИЕ(ссылка,шаг)</translation>
     </message>
     <message>
         <source>FILE.CLOSE(save_logical, route_logical)</source>
@@ -14674,7 +14676,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_226</comment>
-        <translation type="unfinished">Значение</translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <source>Name_text</source>
@@ -14724,7 +14726,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_236</comment>
-        <translation type="unfinished">Значение</translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <source>Reference</source>
@@ -14894,7 +14896,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Subcommand</source>
         <comment>TX_ParaInfo_270</comment>
-        <translation type="unfinished"></translation>
+        <translation>Подкоманда</translation>
     </message>
     <message>
         <source>Menu_ref</source>
@@ -14914,7 +14916,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Submenu</source>
         <comment>TX_ParaInfo_274</comment>
-        <translation type="unfinished"></translation>
+        <translation>Подменю</translation>
     </message>
     <message>
         <source>Bar_id</source>
@@ -14954,7 +14956,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation type="unfinished">элемент1, элемент2, ... от 1 до 28 параметров, которые определяют часть данных. {1,?} {2,?} {1 ?} {38 ?}</translation>
+        <translation>элемент1, элемент2, ... от 1 до 38 параметров, которые определяют часть данных.</translation>
     </message>
     <message>
         <source>Message_text</source>
@@ -15019,7 +15021,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Time</source>
         <comment>TX_ParaInfo_292</comment>
-        <translation type="unfinished">Время</translation>
+        <translation>Время</translation>
     </message>
     <message>
         <source>Tolerance</source>

@@ -7361,7 +7361,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Enter new password(optional):</source>
-        <translation>&amp;Введите новый пароль (не обязательно):</translation>
+        <translation>&amp;Новый пароль (не обязательно):</translation>
     </message>
 </context>
 <context>
@@ -10908,7 +10908,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTpDocProtection</name>
     <message>
         <source>Limit formating to a selection of styles</source>
-        <translation type="obsolete">Ограничить форматирование выделением стилей</translation>
+        <translation type="obsolete">Ограничить набор разрешенных стилей</translation>
     </message>
     <message>
         <source>Settings...</source>
@@ -10968,7 +10968,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Limit formatting to a selection of styles</source>
-        <translation>Ограничить форматирование выделением стилей</translation>
+        <translation>Ограничить набор разрешенных стилей</translation>
     </message>
     <message>
         <source>Set the protection way in the document</source>

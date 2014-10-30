@@ -240,29 +240,29 @@
     <name>KDocTabbarStickerCommand</name>
     <message>
         <source>Lock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблокировать панель вкладок</translation>
     </message>
     <message>
         <source>UnLock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Разблокировать панель вкладок</translation>
     </message>
 </context>
 <context>
     <name>KFilePageCloseButton</name>
     <message>
         <source>Clear Record from List</source>
-        <translation type="unfinished">Очистить запись</translation>
+        <translation>Очистить запись</translation>
     </message>
 </context>
 <context>
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation type="unfinished"></translation>
+        <translation>открепленный от списка</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation type="unfinished"></translation>
+        <translation>прикрепленный к списку</translation>
     </message>
 </context>
 <context>
@@ -332,27 +332,27 @@
     <message>
         <source>Bronze</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Бронзовый</translation>
     </message>
     <message>
         <source>Plate with silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Серебряная табличка</translation>
     </message>
     <message>
         <source>Silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Серебрянный</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>Member user type</comment>
-        <translation type="unfinished">Золотой</translation>
+        <translation>Золотой</translation>
     </message>
     <message>
         <source>Platina</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Платиновый</translation>
     </message>
 </context>
 <context>
@@ -463,40 +463,45 @@
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished">Переслать документы:</translation>
+        <translation>Последние документы:</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Открыть</translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished">Очистить всё</translation>
+        <translation>Очистить всё</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Открыть папку</translation>
+        <translation>Открыть папку</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить недействительный файл</translation>
     </message>
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл &quot;%1&quot; не найден.
+Возможно файл был переименован, удалён или перемещён.</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+время изменения:</translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
     </message>
 </context>
 <context>
@@ -584,12 +589,13 @@ pt=пт; п
     <name>KWPSCloudSetup</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые компоненты установлены с ошибками!
+Переустановите WPS Office.</translation>
     </message>
 </context>
 <context>

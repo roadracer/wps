@@ -756,11 +756,11 @@
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Тысячи шаблонов для создания привлекательных и оригинальных презентаций.</translation>
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -956,15 +956,15 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <source>Template Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Фон шаблона</translation>
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Волшебный&quot; фон</translation>
     </message>
 </context>
 <context>
@@ -1837,19 +1837,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранение &amp;качества при совместном использовании документа:</translation>
     </message>
     <message>
         <source>Embed fon&amp;ts in the file</source>
-        <translation type="unfinished"></translation>
+        <translation>Внедрить &amp;шрифты в файл</translation>
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Внедрять &amp;только знаки, используемые в документе (уменьшение размера файла)</translation>
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
-        <translation type="unfinished"></translation>
+        <translation>Внедрять все &amp;знаки (возможность изменения другими пользователями)</translation>
     </message>
 </context>
 <context>
@@ -1991,23 +1991,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Fullscreen(4:3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный экран(4:3)</translation>
     </message>
     <message>
         <source>Overhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачная плёнка</translation>
     </message>
     <message>
         <source>Fullscreen(16:9)</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный экран(16:9)</translation>
     </message>
     <message>
         <source>Fullscreen(16:10)</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный экран(16:10)</translation>
     </message>
     <message>
         <source>Widescreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Широкоэкранный</translation>
     </message>
 </context>
 <context>
@@ -2388,7 +2388,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>   Use extend mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing</source>
-        <translation>   Используйте расширенный режим для показа представления докладчика и отображения на разных мониторах. Зрители могут увидеть только показ слайдов и нанесение пометок. Докладчик может запускать другие программы или выполнять различные операции.</translation>
+        <translation>   Используйте расширенный режим для показа представления докладчика и отображения на разных мониторах. Зрители могут увидеть только показ слайдов и нанесение пометок. Докладчик может запускать другие программы или выполнять различные операции, не отвлекая внимание аудитории.</translation>
     </message>
     <message>
         <source>   This wizard will help you to understand the various settings of the double-screen extended mode. Please use the following links to view the help files:</source>
@@ -2639,7 +2639,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Save PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить файл PDF</translation>
     </message>
 </context>
 <context>
@@ -4485,7 +4485,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать в файл PDF</translation>
     </message>
 </context>
 <context>
@@ -4508,7 +4508,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать в файл PDF</translation>
     </message>
 </context>
 <context>
