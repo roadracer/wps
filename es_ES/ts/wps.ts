@@ -920,7 +920,7 @@
     </message>
     <message>
         <source>Pt</source>
-        <translation>Pto.</translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>Table</source>
@@ -2048,7 +2048,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation>pto.,</translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>Check Box Form Field Options</source>
@@ -2063,7 +2063,7 @@ use los botones para aplicar bordes</translation>
     <name>KxDlgCombineCharacters</name>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">&amp;Fuente:</translation>
+        <translation>&amp;Fuente:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -2166,7 +2166,7 @@ use los botones para aplicar bordes</translation>
     <name>KxDlgContents</name>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished">&amp;Opciones...</translation>
+        <translation>&amp;Opciones...</translation>
     </message>
     <message>
         <source>&amp;Right align page numbers</source>
@@ -2338,7 +2338,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished">Núme&amp;ro de filas:</translation>
+        <translation>Núme&amp;ro de filas:</translation>
     </message>
     <message>
         <source>Separate text at</source>
@@ -2551,7 +2551,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation>pto.</translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
@@ -2743,7 +2743,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">&amp;Fuente:</translation>
+        <translation>&amp;Fuente:</translation>
     </message>
     <message>
         <source>&amp;Lines to drop:</source>
@@ -2755,7 +2755,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;Ninguno</translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -2763,7 +2763,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opciones</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <source>Position</source>
@@ -2786,7 +2786,7 @@ use los botones para aplicar bordes</translation>
     <name>KxDlgDropDownFormField</name>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Agregar</translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <source>&amp;Bookmarks:</source>
@@ -2794,11 +2794,11 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>&amp;Calculate on exit</source>
-        <translation type="unfinished">&amp;Calcular al salir</translation>
+        <translation>&amp;Calcular al salir</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Eliminar(&amp;D)</translation>
+        <translation>Eliminar(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -2877,11 +2877,11 @@ use los botones para aplicar bordes</translation>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Agregar</translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Eliminar(&amp;D)</translation>
+        <translation>Eliminar(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Word</source>
@@ -2933,7 +2933,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;Ninguno</translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>&amp;Shrink text</source>
@@ -2941,7 +2941,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation type="unfinished">&amp;Texto:</translation>
+        <translation>&amp;Texto:</translation>
     </message>
     <message>
         <source>1</source>
@@ -3024,7 +3024,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>AVERAGE</source>
-        <translation type="unfinished">PROMEDIO</translation>
+        <translation>PROMEDIO</translation>
     </message>
     <message>
         <source>Assistant:</source>
@@ -3048,7 +3048,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>DEFINED</source>
-        <translation type="unfinished">DEFINIDO</translation>
+        <translation>DEFINIDO</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -3056,7 +3056,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>FALSE</source>
-        <translation type="unfinished">FALSO</translation>
+        <translation>FALSO</translation>
     </message>
     <message>
         <source>Field &amp;codes:</source>
@@ -3377,11 +3377,11 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>Search options:</source>
-        <translation type="unfinished">Opciones de búsqueda:</translation>
+        <translation>Opciones de búsqueda:</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation type="unfinished">Sección</translation>
+        <translation>Sección</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Janpannese)</source>
@@ -3393,7 +3393,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished">Tabla</translation>
+        <translation>Tabla</translation>
     </message>
     <message>
         <source>find options</source>
@@ -3413,15 +3413,15 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished">Formato:</translation>
+        <translation>Formato:</translation>
     </message>
     <message>
         <source>Match Case</source>
-        <translation type="unfinished">Coincidir mayúsculas y minúsculas</translation>
+        <translation>Coincidir mayúsculas y minúsculas</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished">&amp;Más</translation>
+        <translation>&amp;Más</translation>
     </message>
     <message>
         <source>Sp&amp;ecial</source>
@@ -3449,7 +3449,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished">Bookmark</translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <source>Enter + and - to move relative to the current location. 
@@ -3532,7 +3532,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">&amp;Fuente:</translation>
+        <translation>&amp;Fuente:</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
@@ -3548,7 +3548,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished">&amp;Posición:</translation>
+        <translation>&amp;Posición:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -3556,11 +3556,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished">E&amp;spaciado:</translation>
+        <translation>E&amp;spaciado:</translation>
     </message>
     <message>
         <source>&amp;Underline style:</source>
-        <translation type="unfinished">&amp;Underline style:</translation>
+        <translation>&amp;Underline style:</translation>
     </message>
     <message>
         <source>All text</source>
@@ -3568,7 +3568,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished">Asian text fo&amp;nt:</translation>
+        <translation>Asian text fo&amp;nt:</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
@@ -3719,7 +3719,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Insertar</translation>
+        <translation>&amp;Insertar</translation>
     </message>
     <message>
         <source>&amp;Number format:</source>
@@ -3881,7 +3881,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished">E&amp;stilo:</translation>
+        <translation>E&amp;stilo:</translation>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
@@ -3905,7 +3905,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
-        <translation type="unfinished">Permitir pu&amp;ntuación fuera de margen</translation>
+        <translation>Permitir pu&amp;ntuación fuera de margen</translation>
     </message>
     <message>
         <source>Border</source>
@@ -3956,7 +3956,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgHelpStatusText</name>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;Ninguno</translation>
+        <translation>&amp;Ninguno</translation>
     </message>
     <message>
         <source>&amp;Status Bar</source>
@@ -4085,7 +4085,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Default...</source>
-        <translation type="unfinished">Pre&amp;determinar...</translation>
+        <translation>Pre&amp;determinar...</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
@@ -4120,7 +4120,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Insertar</translation>
+        <translation>&amp;Insertar</translation>
     </message>
     <message>
         <source>&amp;Match Fields...</source>
@@ -4182,7 +4182,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished">Núme&amp;ro de filas:</translation>
+        <translation>Núme&amp;ro de filas:</translation>
     </message>
     <message>
         <source>Remember dimen&amp;sions for new tables</source>
@@ -4252,7 +4252,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Start &amp;at:</source>
-        <translation type="unfinished">Inici&amp;ar en:</translation>
+        <translation>Inici&amp;ar en:</translation>
     </message>
     <message>
         <source>mm</source>
@@ -4291,7 +4291,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation type="unfinished">Borr&amp;ar todo</translation>
+        <translation>Borr&amp;ar todo</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
@@ -4464,7 +4464,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMergeCompare</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4639,18 +4639,18 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Open folder after merge</source>
-        <translation type="unfinished">Abrir carpeta después de c&amp;ombinación</translation>
+        <translation>Abrir carpeta después de c&amp;ombinación</translation>
     </message>
 </context>
 <context>
     <name>KxDlgMergeToEmail</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished">Todos(&amp;A)</translation>
+        <translation>Todos(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation type="unfinished">Desde(&amp;F):</translation>
+        <translation>Desde(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Mail format:</source>
@@ -4666,7 +4666,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
-        <translation type="unfinished">R&amp;egistro actual</translation>
+        <translation>R&amp;egistro actual</translation>
     </message>
     <message>
         <source>Merge to E-mail</source>
@@ -6261,7 +6261,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished">Ancho(&amp;W):</translation>
+        <translation>Ancho(&amp;W):</translation>
     </message>
     <message>
         <source>(1-40)</source>
@@ -6449,7 +6449,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>P&amp;er line:</source>
-        <translation type="unfinished">Por lín&amp;ea:</translation>
+        <translation>Por lín&amp;ea:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -6509,7 +6509,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Specify line and c&amp;haracter grid</source>
-        <translation>Especificar cuadrícula de líneas y caracteres</translation>
+        <translation type="unfinished">Especificar cuadrícula de líneas y caracteres</translation>
     </message>
     <message>
         <source>Specify line grid &amp;only</source>
@@ -6521,7 +6521,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished">Dos(&amp;W)</translation>
+        <translation>Dos(&amp;W)</translation>
     </message>
     <message>
         <source>Te&amp;xt snaps to character grid</source>
@@ -6612,7 +6612,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
-        <translation type="unfinished">Alineación(&amp;G):</translation>
+        <translation>Alineación(&amp;G):</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
@@ -6879,7 +6879,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>&amp;Mono</source>
-        <translation type="unfinished">&amp;Mono</translation>
+        <translation>&amp;Mono</translation>
     </message>
     <message>
         <source>&amp;Offset:</source>
@@ -6939,14 +6939,14 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>pt</source>
-        <translation>pto.</translation>
+        <translation>pto</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPrint</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished">Todos(&amp;A)</translation>
+        <translation>Todos(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Draw line between pages </source>
@@ -7169,7 +7169,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished">Izquierda(&amp;L):</translation>
+        <translation>Izquierda(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -7208,7 +7208,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished">Inferior(&amp;B):</translation>
+        <translation>Inferior(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -7865,7 +7865,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>pt</source>
-        <translation>pto.</translation>
+        <translation>pto</translation>
     </message>
 </context>
 <context>
@@ -8190,7 +8190,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Seq</source>
-        <translation>Sec.</translation>
+        <translation>Sec</translation>
     </message>
     <message>
         <source>StyleRef</source>
@@ -8977,7 +8977,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Measurement must be between %1 pt and %2 pt</source>
-        <translation>Medida tiene que ser entre %1 pto. y %2 pto.</translation>
+        <translation>Medida tiene que ser entre %1 pto. y %2 pto</translation>
     </message>
 </context>
 <context>
@@ -9185,7 +9185,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Company</source>
@@ -9415,7 +9415,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>WPS Writer found no differences between the two documents.</source>
@@ -9503,7 +9503,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Paragraph...</source>
-        <translation type="unfinished">&amp;Párrafo...</translation>
+        <translation>&amp;Párrafo...</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
@@ -9511,7 +9511,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation type="unfinished">Fichas...</translation>
+        <translation>Fichas...</translation>
     </message>
     <message>
         <source>(No style)</source>
@@ -9523,7 +9523,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished">0#</translation>
+        <translation>0#</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -9531,7 +9531,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished">1#</translation>
+        <translation>1#</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -9543,7 +9543,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished">2#</translation>
+        <translation>2#</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -9551,7 +9551,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished">3#</translation>
+        <translation>3#</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -9559,7 +9559,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished">4#</translation>
+        <translation>4#</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -9567,7 +9567,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished">5#</translation>
+        <translation>5#</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -9575,15 +9575,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished">6#</translation>
+        <translation>6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished">7#</translation>
+        <translation>7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished">8#</translation>
+        <translation>8#</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -9672,7 +9672,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished">Estilo</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <source>The font &apos;%1&apos; is not available in your system. Do you want to use it anyway?</source>
@@ -9680,11 +9680,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished">El número tiene que ser entre %1 y %2.</translation>
+        <translation>El número tiene que ser entre %1 y %2.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished">No es un número válido.</translation>
+        <translation>No es un número válido.</translation>
     </message>
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
@@ -9696,7 +9696,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
-        <translation type="unfinished">Error al guardar. La plantilla normal está ocupada.</translation>
+        <translation>Error al guardar. La plantilla normal está ocupada.</translation>
     </message>
 </context>
 <context>
@@ -9949,7 +9949,7 @@ Cancel:	Return to the dialog.</source>
     <name>KxOptionsDlg</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automático</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>By author</source>
@@ -9989,7 +9989,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Contraseña de confirmación no coincide.</translation>
+        <translation>Contraseña de confirmación no coincide.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -10000,7 +10000,7 @@ Cancel:	Return to the dialog.</source>
     <name>KxOutlineNumberDlg</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -10008,7 +10008,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished">&amp;Más</translation>
+        <translation>&amp;Más</translation>
     </message>
     <message>
         <source>(No style)</source>
@@ -10016,7 +10016,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished">(Ninguno)</translation>
+        <translation>(Ninguno)</translation>
     </message>
     <message>
         <source>Bullet:</source>
@@ -10036,14 +10036,14 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>ch</source>
-        <translation type="unfinished">car.</translation>
+        <translation>car</translation>
     </message>
 </context>
 <context>
     <name>KxPageNumbersDlg</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -10051,47 +10051,47 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished">&amp;Más</translation>
+        <translation>&amp;Más</translation>
     </message>
     <message>
         <source>-1-,-2-,-3-...</source>
-        <translation type="unfinished"></translation>
+        <translation>-1-,-2-,-3-...</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished">10</translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">4</translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished">5</translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished">7</translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished">8</translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
@@ -10111,55 +10111,55 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
-        <translation type="unfinished">La medida tiene que ser entre 1 y 10.</translation>
+        <translation>La medida tiene que ser entre 1 y 10.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
-        <translation type="unfinished">La medida tiene que ser entre 1 y 12.</translation>
+        <translation>La medida tiene que ser entre 1 y 12.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 754.</source>
-        <translation type="unfinished">La medida tiene que ser entre 1 y 754.</translation>
+        <translation>La medida tiene que ser entre 1 y 754.</translation>
     </message>
     <message>
         <source>①</source>
-        <translation type="unfinished"></translation>
+        <translation>①</translation>
     </message>
     <message>
         <source>②</source>
-        <translation type="unfinished"></translation>
+        <translation>②</translation>
     </message>
     <message>
         <source>③</source>
-        <translation type="unfinished"></translation>
+        <translation>③</translation>
     </message>
     <message>
         <source>④</source>
-        <translation type="unfinished"></translation>
+        <translation>④</translation>
     </message>
     <message>
         <source>⑤</source>
-        <translation type="unfinished"></translation>
+        <translation>⑤</translation>
     </message>
     <message>
         <source>⑥</source>
-        <translation type="unfinished"></translation>
+        <translation>⑥</translation>
     </message>
     <message>
         <source>⑦</source>
-        <translation type="unfinished"></translation>
+        <translation>⑦</translation>
     </message>
     <message>
         <source>⑧</source>
-        <translation type="unfinished"></translation>
+        <translation>⑧</translation>
     </message>
     <message>
         <source>⑨</source>
-        <translation type="unfinished"></translation>
+        <translation>⑨</translation>
     </message>
     <message>
         <source>⑩</source>
-        <translation type="unfinished"></translation>
+        <translation>⑩</translation>
     </message>
 </context>
 <context>
@@ -10183,7 +10183,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished">Interior</translation>
+        <translation>Interior</translation>
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
@@ -10191,15 +10191,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished">Secciones seleccionadas</translation>
+        <translation>Secciones seleccionadas</translation>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished">Texto seleccionado</translation>
+        <translation>Texto seleccionado</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished">La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
+        <translation>La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
     </message>
     <message>
         <source>Settings you chose for the left/right margins are too large for the page width in some sections.</source>
@@ -10211,7 +10211,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This point forward</source>
-        <translation type="unfinished">De aquí en adelante</translation>
+        <translation>De aquí en adelante</translation>
     </message>
     <message>
         <source>This section</source>
@@ -10227,27 +10227,27 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished">pulgada</translation>
+        <translation>pulgada</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished">No es una medida válida.</translation>
+        <translation>No es una medida válida.</translation>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
-        <translation type="unfinished">Error al guardar. La plantilla normal está ocupada.</translation>
+        <translation>Error al guardar. La plantilla normal está ocupada.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -10258,7 +10258,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxParagraphDlg</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished">No es una medida válida.</translation>
+        <translation>No es una medida válida.</translation>
     </message>
 </context>
 <context>
@@ -10284,11 +10284,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
@@ -10300,7 +10300,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished">El valor de entrada tiene que ser entre %1 y %2.</translation>
+        <translation>El valor de entrada tiene que ser entre %1 y %2.</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; returned an error!</source>
@@ -10323,7 +10323,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Contraseña de confirmación no coincide.</translation>
+        <translation>Contraseña de confirmación no coincide.</translation>
     </message>
 </context>
 <context>
@@ -10424,7 +10424,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished">El número tiene que ser entre %1 y %2.</translation>
+        <translation>El número tiene que ser entre %1 y %2.</translation>
     </message>
 </context>
 <context>
@@ -10439,7 +10439,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>This shortcut key already exists, please set another key.</source>
@@ -10461,7 +10461,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished">Todos</translation>
+        <translation>Todos</translation>
     </message>
 </context>
 <context>
@@ -10476,15 +10476,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished">Texto seleccionado</translation>
+        <translation>Texto seleccionado</translation>
     </message>
     <message>
         <source>Text direction</source>
-        <translation type="unfinished">Dirrección de texto</translation>
+        <translation>Dirrección de texto</translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation type="unfinished">De aquí en adelante</translation>
+        <translation>De aquí en adelante</translation>
     </message>
     <message>
         <source>This section</source>
@@ -10496,7 +10496,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished">La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
+        <translation>La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
     </message>
 </context>
 <context>
@@ -10523,11 +10523,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Number &amp;format:</source>
-        <translation type="unfinished">&amp;Formato de número:</translation>
+        <translation>&amp;Formato de número:</translation>
     </message>
     <message>
         <source>Text &amp;format:</source>
@@ -10535,11 +10535,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished">El nombre de marcador no es válido.</translation>
+        <translation>El nombre de marcador no es válido.</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished">El valor de entrada tiene que ser entre %1 y %2.</translation>
+        <translation>El valor de entrada tiene que ser entre %1 y %2.</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%1 characters.</source>
@@ -10795,7 +10795,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxTpStyleFormatWidget</name>
     <message>
         <source>All styles</source>
-        <translation type="unfinished">Todos los estilos</translation>
+        <translation>Todos los estilos</translation>
     </message>
     <message>
         <source>Valid styles</source>
@@ -10820,15 +10820,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWidgetLayout</name>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished">&amp;Avanzado...</translation>
+        <translation>&amp;Avanzado...</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished">Detrás del texto(&amp;B)</translation>
+        <translation>Detrás del texto(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished">&amp;Centro</translation>
+        <translation>&amp;Centro</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
@@ -10844,15 +10844,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished">De&amp;recha</translation>
+        <translation>De&amp;recha</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation type="unfinished">Es&amp;trecho</translation>
+        <translation>Es&amp;trecho</translation>
     </message>
     <message>
         <source>Drawing Grid</source>
-        <translation type="unfinished">Cuadrícula de dibujo</translation>
+        <translation>Cuadrícula de dibujo</translation>
     </message>
     <message>
         <source>Horizontal alignment</source>
@@ -10864,7 +10864,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation type="unfinished">Cuadrada(&amp;Q)</translation>
+        <translation>Cuadrada(&amp;Q)</translation>
     </message>
     <message>
         <source>To&amp;p and bottom</source>
@@ -10872,7 +10872,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished">Estilo de ajuste</translation>
+        <translation>Estilo de ajuste</translation>
     </message>
     <message>
         <source>rbHorizontalCenter</source>
@@ -10903,7 +10903,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Include &amp;footnotes and endnotes</source>
@@ -10915,7 +10915,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished">Páginas</translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>Paragraphs</source>
@@ -11048,7 +11048,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Eliminar(&amp;D)</translation>
+        <translation>Eliminar(&amp;D)</translation>
     </message>
     <message>
         <source>Do you want to delete all bookmarks?</source>
@@ -11114,14 +11114,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
 </context>
 <context>
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -11235,7 +11235,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished">Columna</translation>
+        <translation>Columna</translation>
     </message>
 </context>
 <context>
@@ -11423,7 +11423,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished">Centrado</translation>
+        <translation>Centrado</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -11451,11 +11451,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Izquierda</translation>
+        <translation>Izquierda</translation>
     </message>
     <message>
         <source>ORIGINAL</source>
@@ -11479,7 +11479,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Derecha</translation>
+        <translation>Derecha</translation>
     </message>
     <message>
         <source>SAMPLE</source>
@@ -11519,7 +11519,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished">Superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <source>URGENT</source>
@@ -11535,7 +11535,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>inch</source>
@@ -11543,11 +11543,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>The current watermark name already exists. Please replace it with another name.</source>
@@ -11669,7 +11669,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Page different settings</source>
@@ -11677,7 +11677,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished">Número de pñagina</translation>
+        <translation>Número de página</translation>
     </message>
     <message>
         <source>Show header line</source>
@@ -11764,7 +11764,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -11806,21 +11806,21 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished">Sin relleno</translation>
+        <translation>Sin relleno</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFillColorModel2</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished">Sin relleno</translation>
+        <translation>Sin relleno</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automático</translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -11863,7 +11863,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderLineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automático</translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -11877,11 +11877,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsInsertKeyCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
 </context>
 <context>
@@ -11937,19 +11937,19 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished">Doble</translation>
+        <translation>Doble</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished">Exacto</translation>
+        <translation>Exacto</translation>
     </message>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished">Múltiple</translation>
+        <translation>Múltiple</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished">Sencillo</translation>
+        <translation>Sencillo</translation>
     </message>
 </context>
 <context>
@@ -12032,7 +12032,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsPageMarginModel</name>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>in</source>
@@ -12040,11 +12040,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>Last Custom Setting</source>
@@ -12052,7 +12052,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Narrow</source>
@@ -12156,7 +12156,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsPageOrientationCommand</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished">Orientación</translation>
+        <translation>Orientación</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -12164,7 +12164,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished">La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
+        <translation>La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
     </message>
 </context>
 <context>
@@ -12233,7 +12233,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>inch</source>
@@ -12241,7 +12241,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>point</source>
@@ -12283,7 +12283,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsPrintSetupDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>
@@ -12359,7 +12359,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsSmartPageNumDeletePane</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Delete &amp;all page numbers</source>
@@ -12371,7 +12371,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Delete current &amp;page&apos;s page number</source>
@@ -12418,7 +12418,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Current page</source>
@@ -12442,7 +12442,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Page 1</source>
@@ -12553,18 +12553,18 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsSpecialPopupWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Aceptar</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSpellCheckCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
 </context>
 <context>
@@ -12606,11 +12606,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsStatusTrackCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
 </context>
 <context>
@@ -12624,7 +12624,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
-        <translation type="unfinished">Estilos</translation>
+        <translation>Estilos</translation>
     </message>
 </context>
 <context>
@@ -12635,21 +12635,21 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished">Modificar estilo</translation>
+        <translation>Modificar estilo</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automático</translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished">Sin relleno</translation>
+        <translation>Sin relleno</translation>
     </message>
 </context>
 <context>
@@ -12676,11 +12676,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Word Documents</source>
@@ -12715,14 +12715,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished">La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
+        <translation>La configuración seleccionada para los márgenes izquierdos y derechos, espaciado entre columnas o sangrías de párrafo son demasiado grande para el ancho de página en algunas secciones.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Rotate All Text 270°</source>
@@ -12749,7 +12749,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automático</translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -12782,7 +12782,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished">No es una medida válida.</translation>
+        <translation>No es una medida válida.</translation>
     </message>
 </context>
 <context>
@@ -12796,7 +12796,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>MultSpinbox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -12807,7 +12807,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished">Revisión ortográfica</translation>
+        <translation>Revisión ortográfica</translation>
     </message>
     <message>
         <source>Track</source>
@@ -12815,7 +12815,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>You must type a character for the custom separator.</source>
-        <translation type="unfinished">Tiene que escribir un carácter para el separador personalizado.</translation>
+        <translation>Tiene que escribir un carácter para el separador personalizado.</translation>
     </message>
     <message>
         <source>The number input must be between 1 and 63.</source>
@@ -12866,7 +12866,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished">&amp;Modificar...</translation>
+        <translation>&amp;Modificar...</translation>
     </message>
 </context>
 <context>
@@ -12881,7 +12881,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished">&amp;Modificar...</translation>
+        <translation>&amp;Modificar...</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
@@ -12942,11 +12942,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Convert c&amp;ustom styles to bookmarks</source>
-        <translation type="unfinished">Convertir estilos personalizados en marcadores(&amp;U)</translation>
+        <translation>Convertir estilos personalizados en marcadores(&amp;U)</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished">Convertir otro&amp;s estilos en marcadores</translation>
+        <translation>Convertir otro&amp;s estilos en marcadores</translation>
     </message>
     <message>
         <source>Export Options</source>
@@ -12962,7 +12962,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Generañ</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Li&amp;nk of footnotes and endnotes</source>
@@ -12998,7 +12998,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished">Permitir mo&amp;dificar</translation>
+        <translation>Permitir mo&amp;dificar</translation>
     </message>
     <message>
         <source>Print low quality only</source>
@@ -13006,7 +13006,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Impresión no admitida</translation>
+        <translation>Impresión no admitida</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -13018,7 +13018,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">Exportar opciones</translation>
+        <translation>Exportar opciones</translation>
     </message>
     <message>
         <source>Summar&amp;y information</source>
@@ -13050,11 +13050,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">Impresión de calidad baja</translation>
+        <translation>Impresión de calidad baja</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">Impresión libre</translation>
+        <translation>Impresión libre</translation>
     </message>
     <message>
         <source>File open password:</source>
@@ -13073,7 +13073,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Export to PDF File</source>
@@ -13091,7 +13091,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>waterMarkDlg</name>
     <message>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>&amp;erosion</source>
@@ -13203,7 +13203,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">&amp;Fuente:</translation>
+        <translation>&amp;Fuente:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -13211,7 +13211,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished">&amp;Color:</translation>
+        <translation>&amp;Color:</translation>
     </message>
     <message>
         <source>T&amp;ransparency:</source>
@@ -13219,11 +13219,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Vista previa</translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished">Aplicar a(&amp;Y):</translation>
+        <translation>Aplicar a(&amp;Y):</translation>
     </message>
 </context>
 </TS>

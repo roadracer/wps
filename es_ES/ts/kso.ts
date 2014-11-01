@@ -1291,12 +1291,12 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_Cmd_3DDepthUnit</comment>
-        <translation>pto.</translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_POINT</comment>
-        <translation>pto.</translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>Change to Autoshape</source>
@@ -3141,7 +3141,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source> Business</source>
         <comment>_kso_versionType_TRADE</comment>
-        <translation type="unfinished"> Negocio</translation>
+        <translation>Negocios</translation>
     </message>
     <message>
         <source> Community</source>
@@ -6323,7 +6323,7 @@ elementos</translation>
     <message>
         <source>pt</source>
         <comment>kso_sPound</comment>
-        <translation>pto.</translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>sec</source>

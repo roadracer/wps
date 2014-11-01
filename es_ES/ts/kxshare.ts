@@ -1473,7 +1473,7 @@
     <name>KxColorAndLineWidget</name>
     <message>
         <source>%1 pt</source>
-        <translation>%1 pto.</translation>
+        <translation>%1 pto</translation>
     </message>
     <message>
         <source>&amp;Curved</source>
@@ -2900,7 +2900,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>I &amp;Accept</source>
-        <translation>Acepto</translation>
+        <translation>Yo &amp;Acepto</translation>
     </message>
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>

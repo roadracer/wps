@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <defaultcodec>UTF-8</defaultcodec>
@@ -6,15 +6,15 @@
     <name>classics.3d_settings</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished">0 pto. </translation>
+        <translation>0 pto</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished">144 pto. </translation>
+        <translation>144 pto</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished">288 pto. </translation>
+        <translation>288 pto</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -27,11 +27,11 @@ Color</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished">36 pto. </translation>
+        <translation>36 pto</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished">72 pto. </translation>
+        <translation>72 pto</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -251,31 +251,31 @@ Color</translation>
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -367,11 +367,11 @@ Color</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto. </translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Align / Distribute / Equalize</source>
@@ -803,7 +803,7 @@ Color</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -990,7 +990,7 @@ Color</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>Selecionar</translation>
     </message>
 </context>
 <context>
@@ -1052,39 +1052,39 @@ Color</translation>
     <name>classics.picture</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto. </translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -1477,7 +1477,7 @@ diapositivas</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -2147,19 +2147,19 @@ Editor</translation>
     <name>ongmani.ct_drawingtool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.0</source>
@@ -2171,7 +2171,7 @@ Editor</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>108</source>
@@ -2195,7 +2195,7 @@ Editor</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>2.5</source>
@@ -2211,7 +2211,7 @@ Editor</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>3-D
@@ -2229,11 +2229,11 @@ activado</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto. </translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>8226</source>
@@ -2513,7 +2513,7 @@ activado</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Justificar</translation>
+        <translation>Jistificado</translation>
     </message>
     <message>
         <source>Left</source>
@@ -2597,7 +2597,7 @@ activado</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Girar</translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -2641,7 +2641,7 @@ activado</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -2766,7 +2766,7 @@ activado</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>meter codigo de Activacion</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -2946,7 +2946,7 @@ activado</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -2960,19 +2960,19 @@ activado</translation>
     <name>ongmani.ct_home</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.0</source>
@@ -2984,7 +2984,7 @@ activado</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>108</source>
@@ -3008,7 +3008,7 @@ activado</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>2.5</source>
@@ -3024,7 +3024,7 @@ activado</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>3-D
@@ -3042,11 +3042,11 @@ Effects</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto. </translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>8226</source>
@@ -3350,7 +3350,7 @@ Slide</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -3366,7 +3366,7 @@ Slide</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -3394,7 +3394,7 @@ Slide</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Jistificado</translation>
     </message>
     <message>
         <source>Left</source>
@@ -3426,7 +3426,7 @@ Slide</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Más</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -3486,7 +3486,7 @@ Slide</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -3510,7 +3510,7 @@ Slide</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplazar</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -3526,7 +3526,7 @@ Slide</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -3550,11 +3550,11 @@ Slide</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar todo</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -3602,7 +3602,7 @@ Beginning</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -3626,11 +3626,11 @@ Beginning</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color del texto</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textura</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -3646,7 +3646,7 @@ Beginning</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -4147,7 +4147,7 @@ diapositiva</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -4159,7 +4159,7 @@ diapositiva</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Color de texto</translation>
+        <translation>Color del texto</translation>
     </message>
     <message>
         <source>Text Font Color</source>
@@ -4280,39 +4280,39 @@ diapositiva</translation>
     <name>ongmani.ct_picturetool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto.</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
@@ -4634,7 +4634,7 @@ Picture</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Girar</translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -4693,7 +4693,7 @@ On/Off</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -4992,15 +4992,15 @@ Mark</translation>
     <name>ongmani.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished">0 pto. </translation>
+        <translation>0 pto</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished">144 pto. </translation>
+        <translation>144 pto</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished">288 pto. </translation>
+        <translation>288 pto</translation>
     </message>
     <message>
         <source>3-D
@@ -5038,11 +5038,11 @@ On/Off</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished">36 pto. </translation>
+        <translation>36 pto</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished">72 pto. </translation>
+        <translation>72 pto</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -5713,7 +5713,7 @@ Cells</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Select Column</source>
@@ -5999,15 +5999,15 @@ Windows</translation>
     <name>ongmani.ct_washadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished">0 pto. </translation>
+        <translation>0 pto</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished">144 pto. </translation>
+        <translation>144 pto</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished">288 pto. </translation>
+        <translation>288 pto</translation>
     </message>
     <message>
         <source>3-D
@@ -6048,11 +6048,11 @@ Effects</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished">36 pto. </translation>
+        <translation>36 pto</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished">72 pto. </translation>
+        <translation>72 pto</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -6210,31 +6210,31 @@ Effects</translation>
     <name>ongmani.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>3-D
@@ -6249,11 +6249,11 @@ activado</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto.</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Align</source>
@@ -6522,7 +6522,7 @@ Spacing</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -6610,7 +6610,7 @@ Spacing</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -6654,7 +6654,7 @@ Spacing</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -6670,7 +6670,7 @@ Spacing</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textura</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -6934,7 +6934,7 @@ Size</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -7304,7 +7304,7 @@ de COM</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>meter codigo de Activacion</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -7831,7 +7831,7 @@ ventana</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -8076,7 +8076,7 @@ de diapositiva</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -8087,7 +8087,7 @@ de diapositiva</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>true</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -8490,39 +8490,39 @@ del control</translation>
     <name>rainbow.ct_drawingtool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto.</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Align</source>
@@ -8754,7 +8754,7 @@ del control</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Girar</translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -8802,7 +8802,7 @@ del control</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -8814,7 +8814,7 @@ del control</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Color de texto</translation>
+        <translation>Color del texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -8880,7 +8880,7 @@ del control</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>meter codigo de Activacion</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9052,7 +9052,7 @@ del control</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -9066,19 +9066,19 @@ del control</translation>
     <name>rainbow.ct_home</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.0</source>
@@ -9090,7 +9090,7 @@ del control</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>108</source>
@@ -9114,7 +9114,7 @@ del control</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>2.5</source>
@@ -9130,7 +9130,7 @@ del control</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>3-D Effects</source>
@@ -9142,11 +9142,11 @@ del control</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto.</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>8226</source>
@@ -9441,7 +9441,7 @@ actual</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Grupo</translation>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -9477,7 +9477,7 @@ actual</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished">Justificar</translation>
+        <translation>Jistificado</translation>
     </message>
     <message>
         <source>Left</source>
@@ -9509,7 +9509,7 @@ actual</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Más</translation>
+        <translation>Más</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9601,7 +9601,7 @@ actual</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished">Reemplazar</translation>
+        <translation>Remplazar</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -9617,7 +9617,7 @@ actual</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Girar</translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -9633,11 +9633,11 @@ actual</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Seleccionar</translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished">Seleccionar todo</translation>
+        <translation>Selecionar todo</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -9689,7 +9689,7 @@ actual</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished">Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -9717,11 +9717,11 @@ actual</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished">Color de texto</translation>
+        <translation>Color del texto</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
+        <translation>Textura</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -9737,7 +9737,7 @@ actual</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -9995,39 +9995,39 @@ diapositiva</translation>
     <name>rainbow.ct_orgchart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto.</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -10195,7 +10195,7 @@ diapositiva</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -10207,7 +10207,7 @@ diapositiva</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Color de texto</translation>
+        <translation>Color del texto</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -10310,39 +10310,39 @@ subordinado</translation>
     <name>rainbow.ct_picturetool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto.</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
@@ -10642,7 +10642,7 @@ subordinado</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Girar</translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -10698,7 +10698,7 @@ subordinado</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -10935,15 +10935,15 @@ subordinado</translation>
     <name>rainbow.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished">0 pto. </translation>
+        <translation>0 pto</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished">144 pto. </translation>
+        <translation>144 pto</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished">288 pto. </translation>
+        <translation>288 pto</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -10964,11 +10964,11 @@ Color</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished">36 pto. </translation>
+        <translation>36 pto</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished">72 pto. </translation>
+        <translation>72 pto</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -11325,7 +11325,7 @@ de diapositivas</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Select Column</source>
@@ -11500,15 +11500,15 @@ otras ventanas</translation>
     <name>rainbow.ct_washadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished">0 pto. </translation>
+        <translation>0 pto</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished">144 pto. </translation>
+        <translation>144 pto</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished">288 pto. </translation>
+        <translation>288 pto</translation>
     </message>
     <message>
         <source>3-D
@@ -11530,11 +11530,11 @@ de 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished">36 pto. </translation>
+        <translation>36 pto</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished">72 pto. </translation>
+        <translation>72 pto</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -11683,39 +11683,39 @@ Effects</translation>
     <name>rainbow.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished">0.25 pto. </translation>
+        <translation>0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished">0.5 pto. </translation>
+        <translation>0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished">0.75 pto. </translation>
+        <translation>0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished">1 pto. </translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished">1.5 pto. </translation>
+        <translation>1.5 pto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished">2.25 pto. </translation>
+        <translation>2.25 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished">3 pto. </translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished">4.5 pto. </translation>
+        <translation>4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished">6 pto.</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Align</source>
@@ -12051,7 +12051,7 @@ Effects</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Girar</translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -12087,7 +12087,7 @@ Effects</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Sólido</translation>
+        <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -12343,7 +12343,7 @@ WordArt</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -12783,7 +12783,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -13148,7 +13148,7 @@ Slide</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation>Justificar</translation>
+        <translation>Jistificado</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -13336,7 +13336,7 @@ Slide</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Reemplazar</translation>
+        <translation>Remplazar</translation>
     </message>
     <message>
         <source>Right</source>
@@ -13372,7 +13372,7 @@ Slide</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Seleccionar todos</translation>
+        <translation>Selecionar todo</translation>
     </message>
     <message>
         <source>Set Language</source>
@@ -13908,11 +13908,11 @@ de diapositiva</translation>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar UI</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdadero</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>
@@ -14167,11 +14167,11 @@ de diapositiva</translation>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar UI</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>true</translation>
+        <translation>Verdadero</translation>
     </message>
 </context>
 <context>

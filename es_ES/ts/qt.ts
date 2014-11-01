@@ -62,7 +62,7 @@
     <message>
         <location filename="../src/gui/widgets/qtabbar.cpp" line="+2251"/>
         <source>Close Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar pestaña</translation>
     </message>
 </context>
 <context>
@@ -81,17 +81,17 @@
     <message>
         <location filename="../src/3rdparty/phonon/phonon/phononnamespace.cpp" line="+55"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Musica</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -101,7 +101,7 @@
     <message>
         <location line="+2"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Juegos</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -178,7 +178,7 @@ have libgstreamer-plugins-base installed.</source>
         <location filename="../src/3rdparty/phonon/phonon/volumeslider.cpp" line="+42"/>
         <location line="+18"/>
         <source>Volume: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen: %1%</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -583,7 +583,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
         <location line="+34"/>
         <source>Could not remove file or directory
 %1</source>
-        <translation type="unfinished">No fue posible eliminar el fichero o directorio
+        <translation>No fue posible eliminar el fichero o directorio
 %1</translation>
     </message>
     <message>
@@ -886,7 +886,7 @@ a
     <message>
         <location line="+141"/>
         <source>Connection timed out</source>
-        <translation type="unfinished">Conexión expirada</translation>
+        <translation>Conexión expirada</translation>
     </message>
     <message>
         <location line="-547"/>
@@ -908,7 +908,7 @@ a
     <message>
         <location filename="../src/network/socket/qsocks5socketengine.cpp" line="-8"/>
         <source>Network unreachable</source>
-        <translation type="unfinished">Red inalcanzable</translation>
+        <translation>Red inalcanzable</translation>
     </message>
 </context>
 <context>
@@ -1039,7 +1039,7 @@ a
     <message>
         <location line="+101"/>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar color</translation>
     </message>
     <message>
         <location line="+137"/>
@@ -1226,7 +1226,7 @@ a
     <message>
         <location line="-115"/>
         <source>Done</source>
-        <translation type="unfinished">Terminar</translation>
+        <translation>Terminar</translation>
     </message>
 </context>
 <context>
@@ -1241,12 +1241,12 @@ a
     <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="+3"/>
         <source>Save</source>
-        <translation type="unfinished">Guardar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Guardar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,22 +1256,22 @@ a
     <message>
         <location line="+3"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancelar</translation>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Cerrar</translation>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1351,7 +1351,7 @@ a
     <message>
         <location line="-27"/>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;Aceptar</translation>
+        <translation>&amp;Aceptar</translation>
     </message>
 </context>
 <context>
@@ -1387,7 +1387,7 @@ a
         <location line="-8"/>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
-        <translation type="unfinished">Clase</translation>
+        <translation>Clase</translation>
     </message>
 </context>
 <context>
@@ -1787,7 +1787,7 @@ All other platforms</comment>
         <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="-7"/>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished">Tipo</translation>
+        <translation>Tipo</translation>
     </message>
 </context>
 <context>
@@ -1796,7 +1796,7 @@ All other platforms</comment>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="+90"/>
         <location line="+1176"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location line="-1173"/>
@@ -1849,7 +1849,7 @@ All other platforms</comment>
     <message>
         <location line="+3"/>
         <source>Latin</source>
-        <translation type="unfinished"></translation>
+        <translation>Latin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2613,7 +2613,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/gui/dialogs/qinputdialog.cpp" line="+223"/>
         <source>Enter a value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Meter valor:</translation>
     </message>
 </context>
 <context>
@@ -2985,12 +2985,12 @@ All other platforms</comment>
     <message>
         <location line="-787"/>
         <source>- [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>- [%1]</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Maximize</source>
-        <translation type="unfinished">Maximizar</translation>
+        <translation>Maximizar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3010,12 +3010,12 @@ All other platforms</comment>
     <message>
         <location line="+6"/>
         <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Menu</source>
-        <translation type="unfinished">Menú</translation>
+        <translation>Menú</translation>
     </message>
 </context>
 <context>
@@ -3599,12 +3599,12 @@ All other platforms</comment>
     <message>
         <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="+1195"/>
         <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Value</source>
-        <translation type="unfinished">Valor</translation>
+        <translation>Valor</translation>
     </message>
 </context>
 <context>
@@ -3673,7 +3673,7 @@ All other platforms</comment>
     <message>
         <location line="+0"/>
         <source>Points (pt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos (pto)</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qpagesetupwidget.ui"/>
@@ -3688,7 +3688,7 @@ All other platforms</comment>
     <message>
         <location/>
         <source>Page size:</source>
-        <translation type="unfinished">Tamaño de página:</translation>
+        <translation>Tamaño de página:</translation>
     </message>
     <message>
         <location/>
@@ -3703,7 +3703,7 @@ All other platforms</comment>
     <message>
         <location/>
         <source>Paper source:</source>
-        <translation type="unfinished">Fuente del papel:</translation>
+        <translation>Fuente del papel:</translation>
     </message>
     <message>
         <location/>
@@ -4104,107 +4104,107 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/gui/dialogs/qpagesetupdialog_unix.cpp" line="-232"/>
         <source>A0</source>
-        <translation type="unfinished"></translation>
+        <translation>A0</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A1</source>
-        <translation type="unfinished"></translation>
+        <translation>A1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A2</source>
-        <translation type="unfinished"></translation>
+        <translation>A2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A3</source>
-        <translation type="unfinished"></translation>
+        <translation>A3</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A4</source>
-        <translation type="unfinished"></translation>
+        <translation>A4</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A5</source>
-        <translation type="unfinished"></translation>
+        <translation>A5</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A6</source>
-        <translation type="unfinished"></translation>
+        <translation>A6</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A7</source>
-        <translation type="unfinished"></translation>
+        <translation>A7</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A8</source>
-        <translation type="unfinished"></translation>
+        <translation>A8</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A9</source>
-        <translation type="unfinished"></translation>
+        <translation>A9</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B0</source>
-        <translation type="unfinished"></translation>
+        <translation>B0</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B1</source>
-        <translation type="unfinished"></translation>
+        <translation>B1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B2</source>
-        <translation type="unfinished"></translation>
+        <translation>B2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B3</source>
-        <translation type="unfinished"></translation>
+        <translation>B3</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B4</source>
-        <translation type="unfinished"></translation>
+        <translation>B4</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B5</source>
-        <translation type="unfinished"></translation>
+        <translation>B5</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B6</source>
-        <translation type="unfinished"></translation>
+        <translation>B6</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B7</source>
-        <translation type="unfinished"></translation>
+        <translation>B7</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B8</source>
-        <translation type="unfinished"></translation>
+        <translation>B8</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B9</source>
-        <translation type="unfinished"></translation>
+        <translation>B9</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>B10</source>
-        <translation type="unfinished"></translation>
+        <translation>B10</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4265,7 +4265,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="-63"/>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Imprimir</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -4309,7 +4309,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/gui/dialogs/qprintpreviewdialog.cpp" line="+252"/>
         <source>%1%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%</translation>
     </message>
     <message>
         <location line="+79"/>
@@ -4394,7 +4394,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+1"/>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location line="+151"/>
@@ -4450,7 +4450,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location/>
         <source>Copies</source>
-        <translation type="unfinished">Copias</translation>
+        <translation>Copias</translation>
     </message>
     <message>
         <location/>
@@ -4470,7 +4470,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location/>
         <source>to</source>
-        <translation type="unfinished">a</translation>
+        <translation>a</translation>
     </message>
     <message>
         <location/>
@@ -4500,7 +4500,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">Opciones</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location/>
@@ -6092,7 +6092,7 @@ Elija un nombre de fichero diferente.</translation>
         <location line="+5"/>
         <source>Cut</source>
         <comment>Cut context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -6182,7 +6182,7 @@ Elija un nombre de fichero diferente.</translation>
         <location line="+5"/>
         <source>Fonts</source>
         <comment>Font context sub-menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fuentes</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -6287,12 +6287,12 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+3"/>
         <source>Left edge</source>
-        <translation type="unfinished">Borde izquierdo</translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Top</source>
-        <translation type="unfinished">Parte superior</translation>
+        <translation>Parte superior</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6349,7 +6349,6 @@ Elija un nombre de fichero diferente.</translation>
         <source>%n file(s)</source>
         <comment>number of chosen file</comment>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -7274,14 +7273,12 @@ Elija un nombre de fichero diferente.</translation>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+11"/>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8015,13 +8012,13 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/3rdparty/phonon/phonon/volumeslider.cpp" line="+67"/>
         <source>Muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Silencio</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+15"/>
         <source>Volume: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen: %1%</translation>
     </message>
 </context>
 <context>
