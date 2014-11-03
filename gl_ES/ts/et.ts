@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordear</translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -237,7 +237,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -456,31 +456,31 @@ condition is true:</source>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Ano</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Mes</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuto</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo</translation>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Selecionar todo)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
@@ -683,7 +683,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>No items match your search.</source>
@@ -928,7 +928,7 @@ condition is true:</source>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Gardar Como</translation>
     </message>
 </context>
 <context>
@@ -1367,7 +1367,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1788,7 +1788,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Time</source>
@@ -1839,7 +1839,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Pechar</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -2282,7 +2282,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Pechar</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2874,7 +2874,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgNameOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <source>Default book name</source>
@@ -2955,7 +2955,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <source>View</source>
@@ -4417,7 +4417,7 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -4436,7 +4436,7 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
@@ -4780,7 +4780,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -4827,7 +4827,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -4862,7 +4862,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -5125,7 +5125,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -5414,23 +5414,23 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>20&amp;0%</source>
-        <translation type="unfinished"></translation>
+        <translation>20&amp;0%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;100%</translation>
     </message>
     <message>
         <source>&amp;75%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;75%</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;50%</translation>
     </message>
     <message>
         <source>&amp;25%</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;25%</translation>
     </message>
     <message>
         <source>&amp;Fit selection</source>
@@ -6089,7 +6089,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Pechar</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
@@ -6433,7 +6433,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>inch</source>
@@ -6441,11 +6441,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -6924,7 +6924,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
 </context>
 <context>
@@ -7281,7 +7281,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -7297,7 +7297,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Pechar</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -7522,7 +7522,7 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>inch</source>
@@ -7530,11 +7530,11 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -7553,7 +7553,7 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pto</translation>
     </message>
     <message>
         <source>inch</source>
@@ -7561,11 +7561,11 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -8211,35 +8211,35 @@ t</source>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cor:</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -8417,23 +8417,23 @@ t</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>&amp;Type:</source>
@@ -8502,27 +8502,27 @@ t</source>
     </message>
     <message>
         <source>200</source>
-        <translation type="unfinished"></translation>
+        <translation>200</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>75</source>
-        <translation type="unfinished"></translation>
+        <translation>75</translation>
     </message>
     <message>
         <source>50</source>
-        <translation type="unfinished"></translation>
+        <translation>50</translation>
     </message>
     <message>
         <source>25</source>
-        <translation type="unfinished"></translation>
+        <translation>25</translation>
     </message>
     <message>
         <source>400</source>
-        <translation type="unfinished"></translation>
+        <translation>400</translation>
     </message>
 </context>
 <context>
@@ -9373,7 +9373,7 @@ t</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -9430,7 +9430,7 @@ t</source>
     <name>SolverOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <source>All Methods</source>
@@ -9659,7 +9659,7 @@ t</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -9978,7 +9978,7 @@ t</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Export to PDF File</source>
@@ -10230,7 +10230,7 @@ Document</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -10314,7 +10314,7 @@ Document</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>

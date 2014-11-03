@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1196,7 +1196,7 @@ Center</source>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation type="unfinished">Ocultar detalles</translation>
+        <translation>Ocultar detalles</translation>
     </message>
     <message>
         <source>Hide Field List</source>
@@ -1256,7 +1256,7 @@ Center</source>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished">Subtotales</translation>
+        <translation>Subtotales</translation>
     </message>
     <message>
         <source>Table Options</source>
@@ -1450,7 +1450,7 @@ Center</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -2799,7 +2799,7 @@ Window</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -3101,7 +3101,7 @@ Window</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -3257,11 +3257,11 @@ Window</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished">Iniciar sesión</translation>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="unfinished">Cerrar sesión</translation>
+        <translation>Cerrar sesión</translation>
     </message>
     <message>
         <source>Stick Toolbar</source>
@@ -4327,7 +4327,7 @@ On/Off</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -5861,7 +5861,7 @@ Backward</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation>Zoom;</translation>
+        <translation>Zoom:</translation>
     </message>
     <message>
         <source>edit cloumns</source>
@@ -7176,7 +7176,8 @@ Add-Ins</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation>Color 3-D  </translation>
+        <translation>Color
+3-D</translation>
     </message>
     <message>
         <source>3-D
@@ -7356,7 +7357,7 @@ On/Off</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished">Estructura metálica</translation>
+        <translation>Estructura metálica</translation>
     </message>
 </context>
 <context>
@@ -7989,7 +7990,7 @@ Size</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>ExportToPDF</source>
@@ -8569,7 +8570,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -10345,7 +10346,7 @@ AddIns</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -13543,7 +13544,7 @@ Spacing</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -19857,7 +19858,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicados</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -19877,7 +19878,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Esportar a PDF</translation>
     </message>
     <message>
         <source>File Roaming</source>

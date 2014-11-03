@@ -3179,7 +3179,7 @@ The Advanced button allows you to choose from different encryption types.</trans
     <name>KxLineWeightGroup</name>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished">%1 pto. </translation>
+        <translation>%1 pto</translation>
     </message>
 </context>
 <context>

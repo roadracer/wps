@@ -5545,7 +5545,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>pt</source>
         <comment>wpp_sPt</comment>
-        <translation>pto.</translation>
+        <translation>pto</translation>
     </message>
 </context>
 <context>

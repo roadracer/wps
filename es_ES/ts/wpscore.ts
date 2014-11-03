@@ -1869,7 +1869,7 @@ Do you want to replace it?</source>
     <message>
         <source>Specify line and character grid</source>
         <comment>TxRevision_Sep_SpecifyLineAndCharacterGrid</comment>
-        <translation>Especificar cuadrícula de líneas y caracteres.</translation>
+        <translation>Especificar cuadrícula de líneas y caracteres</translation>
     </message>
     <message>
         <source>Specify line grid</source>
@@ -2118,7 +2118,7 @@ Do you want to replace it?</source>
     <message>
         <source>ch</source>
         <comment>TxRevision_Unit_CH</comment>
-        <translation>car.</translation>
+        <translation>car</translation>
     </message>
     <message>
         <source>cm</source>
@@ -2133,7 +2133,7 @@ Do you want to replace it?</source>
     <message>
         <source>li</source>
         <comment>TxRevision_Unit_Li</comment>
-        <translation>lín.</translation>
+        <translation>lín</translation>
     </message>
     <message>
         <source>line</source>

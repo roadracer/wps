@@ -468,7 +468,7 @@ condition is true:</source>
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished">Escritorio</translation>
+        <translation>Escritorio</translation>
     </message>
 </context>
 <context>
@@ -547,7 +547,7 @@ condition is true:</source>
     <name>KSelectSheetPage</name>
     <message>
         <source>&amp;Activate:</source>
-        <translation>Activar</translation>
+        <translation>&amp;Activar:</translation>
     </message>
 </context>
 <context>
@@ -789,7 +789,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished">Menor o igual que &quot;%1&quot; </translation>
+        <translation>Menor o igual que &quot;%1&quot; </translation>
     </message>
     <message>
         <source>More</source>
@@ -813,7 +813,7 @@ condition is true:</source>
     </message>
     <message>
         <source>No items match your search.</source>
-        <translation>Ningún elemento coincide con la búsqueda</translation>
+        <translation>Ningún elemento coincide con la búsqueda.</translation>
     </message>
     <message>
         <source>Not contains</source>
@@ -1134,7 +1134,7 @@ condition is true:</source>
     <name>KxAfFilterThisOneLabel</name>
     <message>
         <source>Filter this item only</source>
-        <translation>Filtrar el elemento solo.</translation>
+        <translation>Filtrar el elemento solo</translation>
     </message>
     <message>
         <source>Clear Filter</source>
@@ -1156,7 +1156,7 @@ condition is true:</source>
     <name>KxAlignWidget</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Texto de entero no válido</translation>
+        <translation>Texto de entero no válido.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
@@ -1229,7 +1229,7 @@ condition is true:</source>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation>Necesita el derecho al acceso al base de datos.</translation>
+        <translation>Necesita el derecho al acceso a la base de datos:</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
@@ -1237,7 +1237,7 @@ condition is true:</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation>Contraseña</translation>
+        <translation>Contraseña:</translation>
     </message>
 </context>
 <context>
@@ -1295,7 +1295,7 @@ condition is true:</source>
     <name>KxConditionFormatDlg</name>
     <message>
         <source>&amp;Format...</source>
-        <translation>Formato</translation>
+        <translation>&amp;Formato...</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
@@ -1303,11 +1303,11 @@ condition is true:</source>
     </message>
     <message>
         <source>F&amp;ormat...</source>
-        <translation>Formato</translation>
+        <translation>F&amp;ormato...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
-        <translation>Formato</translation>
+        <translation>Fo&amp;rmato...</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
@@ -1950,19 +1950,19 @@ Para mantener la imagen existente, presione Cancelar.</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation>Condición 1</translation>
+        <translation>Condición &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation>Condición 2</translation>
+        <translation>Condición &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation type="unfinished">Condición 3</translation>
+        <translation>Condición &amp;3</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished">Formato condicional</translation>
+        <translation>Formato condicional</translation>
     </message>
 </context>
 <context>
@@ -1999,7 +1999,7 @@ Para mantener la imagen existente, presione Cancelar.</translation>
     <name>KxDlgConsolidate</name>
     <message>
         <source>&amp;Add</source>
-        <translation>Agregar</translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -2066,7 +2066,7 @@ Para mantener la imagen existente, presione Cancelar.</translation>
     <name>KxDlgCreateGroup</name>
     <message>
         <source>&amp;Columns</source>
-        <translation>Columnas</translation>
+        <translation>&amp;Columnas</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
@@ -2257,7 +2257,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgDefineName</name>
     <message>
         <source>&amp;Add</source>
-        <translation>Agregar</translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -2340,15 +2340,15 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgDeleteCondition</name>
     <message>
         <source>Condition &amp;1</source>
-        <translation>Condición 1</translation>
+        <translation>Condición &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation>Condición 2</translation>
+        <translation>Condición &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation>Condición 3</translation>
+        <translation>Condición &amp;3</translation>
     </message>
     <message>
         <source>Delete Conditional Format</source>
@@ -2367,7 +2367,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>Nombre</translation>
+        <translation>&amp;Nombre:</translation>
     </message>
     <message>
         <source>&amp;Overwrite existing cells with new data,clear unused cells</source>
@@ -2469,7 +2469,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Option...</source>
-        <translation>Opción</translation>
+        <translation>&amp;Opción...</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -2508,7 +2508,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgEtPrinterSetup</name>
     <message>
         <source>&amp;Printer:</source>
-        <translation>Impresora</translation>
+        <translation>&amp;Impresora:</translation>
     </message>
     <message>
         <source>Printer Setup</source>
@@ -2946,7 +2946,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>&amp;Color:</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
@@ -4644,7 +4644,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Print option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de impresión</translation>
     </message>
     <message>
         <source>Num&amp;ber Format</source>
@@ -4663,7 +4663,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>Nombre</translation>
+        <translation>&amp;Nombre:</translation>
     </message>
     <message>
         <source>&amp;Refresh on open</source>
@@ -4842,14 +4842,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished">Orden</translation>
+        <translation>Orden</translation>
     </message>
 </context>
 <context>
     <name>KxDlgProtectAndShareWorkbook</name>
     <message>
         <source>&amp;Password(optional):</source>
-        <translation>Contraseña (opcional)</translation>
+        <translation>Contraseña (opcional):</translation>
     </message>
     <message>
         <source>If desired, a password must be chosen now, 
@@ -4980,7 +4980,7 @@ change tracking from being removed.</source>
     <name>KxDlgRecordForm</name>
     <message>
         <source>&amp;Criteria</source>
-        <translation>Criterio</translation>
+        <translation>&amp;Criterio</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -5041,7 +5041,7 @@ solo %d valor único puede mantenerse después de eliminarse.  </translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
-        <translation type="unfinished">Remover duplicados</translation>
+        <translation>Eliminar duplicados</translation>
     </message>
 </context>
 <context>
@@ -5161,7 +5161,7 @@ solo %d valor único puede mantenerse después de eliminarse.  </translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation>Continuar</translation>
+        <translation>&amp;Continuar</translation>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
@@ -5230,7 +5230,7 @@ solo %d valor único puede mantenerse después de eliminarse.  </translation>
     <name>KxDlgSeries</name>
     <message>
         <source>&amp;Columns</source>
-        <translation>Columnas</translation>
+        <translation type="unfinished">&amp;Columnas</translation>
     </message>
     <message>
         <source>&amp;Date</source>
@@ -5926,7 +5926,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxDlgUnGroup</name>
     <message>
         <source>&amp;Columns</source>
-        <translation>Columnas</translation>
+        <translation>&amp;Columnas</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
@@ -6314,7 +6314,7 @@ protected.</source>
     </message>
     <message>
         <source>Filter by cell color:</source>
-        <translation>Filtrar por color de celda</translation>
+        <translation>Filtrar por color de celda:</translation>
     </message>
     <message>
         <source>Filter by font color:</source>
@@ -6775,7 +6775,7 @@ Para modificar una celda o un gráfico protegidos, quite la protección usando e
     </message>
     <message>
         <source>&amp;Copy Cells</source>
-        <translation>Copiar celdas</translation>
+        <translation>&amp;Copiar celdas</translation>
     </message>
     <message>
         <source>&amp;Fill Formatting Only</source>
@@ -6885,7 +6885,7 @@ Para modificar una celda o un gráfico protegidos, quite la protección usando e
     <name>KxEvaluateFormulaDlg</name>
     <message>
         <source>&amp;Evaluate</source>
-        <translation>Evaluar</translation>
+        <translation>&amp;Evaluar</translation>
     </message>
     <message>
         <source>A function in this formula causes the result to change each time the spreadsheet is calculated. The final evaluation step will match the result in the cell, but interim steps may not.</source>
@@ -6893,7 +6893,7 @@ Para modificar una celda o un gráfico protegidos, quite la protección usando e
     </message>
     <message>
         <source>R&amp;estart</source>
-        <translation>Reiniciar</translation>
+        <translation>R&amp;einiciar</translation>
     </message>
     <message>
         <source>The cell currently being evaluated contains a constant.</source>
@@ -7627,7 +7627,7 @@ on iteration #%2.</source>
     <name>KxInsertFunctionDlg</name>
     <message>
         <source>I want to comment function</source>
-        <translation>Deseo la función de comentario.</translation>
+        <translation>Deseo la función de comentario</translation>
     </message>
     <message>
         <source>No futher information.</source>
@@ -7647,7 +7647,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Undefined.</source>
-        <translation>Sin definir</translation>
+        <translation>Sin definir.</translation>
     </message>
     <message>
         <source>Enter the name or the description of the function you want to look up.</source>
@@ -8436,7 +8436,7 @@ Si desea cambiar el nombre del campo de la tabla, debe escribir un nombre nuevo 
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation>Entrada inválida</translation>
+        <translation>Entrada inválida.</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -8506,7 +8506,7 @@ Si desea cambiar el nombre del campo de la tabla, debe escribir un nombre nuevo 
     </message>
     <message>
         <source>&amp;Criteria</source>
-        <translation>Criterio</translation>
+        <translation>&amp;Criterio</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -9096,7 +9096,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation>Más</translation>
+        <translation>&amp;Más</translation>
     </message>
     <message>
         <source>&amp;Remove Field</source>
@@ -9446,7 +9446,7 @@ o</translation>
     </message>
     <message>
         <source>Orie&amp;ntation</source>
-        <translation>Orientación</translation>
+        <translation>Orie&amp;ntación</translation>
     </message>
     <message>
         <source>Right</source>
@@ -9556,7 +9556,7 @@ o</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>Fuente</translation>
+        <translation>&amp;Fuente:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -9864,19 +9864,19 @@ o</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation>Continuar</translation>
+        <translation>&amp;Continuar</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation>Fórmula</translation>
+        <translation>&amp;Fórmula:</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation>Mínimo</translation>
+        <translation>&amp;Mínimo:</translation>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation>Pausa</translation>
+        <translation>&amp;Pausa</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
@@ -10875,7 +10875,7 @@ o</translation>
     <name>SolverParameters</name>
     <message>
         <source>&amp;Add</source>
-        <translation>Agregar</translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <source>&amp;By Changing Variable Cells:</source>
@@ -11147,7 +11147,7 @@ o</translation>
     <name>evaluateFormula</name>
     <message>
         <source>&amp;Close</source>
-        <translation>Cerrar</translation>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <source>&amp;Evaluate</source>
@@ -11197,7 +11197,7 @@ o</translation>
     <name>goalseekstatus</name>
     <message>
         <source>&amp;Pause</source>
-        <translation>Pausa</translation>
+        <translation>&amp;Pausa</translation>
     </message>
     <message>
         <source>&amp;Step</source>
@@ -11606,7 +11606,7 @@ or Web Page</source>
     <name>kxWidgetMargins</name>
     <message>
         <source>&amp;Automatic</source>
-        <translation>Automático:</translation>
+        <translation>&amp;Automático</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -11687,7 +11687,7 @@ or Web Page</source>
     <name>linksCannotUpdateDlg</name>
     <message>
         <source>&amp;Continue</source>
-        <translation>Continuar</translation>
+        <translation>&amp;Continuar</translation>
     </message>
     <message>
         <source>Edit &amp;Links...</source>
