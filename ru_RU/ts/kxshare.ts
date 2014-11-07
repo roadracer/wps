@@ -5846,7 +5846,7 @@ or Web Page</source>
     <name>updateMessageDlg</name>
     <message>
         <source>Update</source>
-        <translation>Обновить</translation>
+        <translation>Обновление версии</translation>
     </message>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>
@@ -5854,7 +5854,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Ignore it</source>
-        <translation>Пропустить</translation>
+        <translation>Не показывать</translation>
     </message>
 </context>
 <context>
