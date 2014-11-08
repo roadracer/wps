@@ -13432,7 +13432,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Comment</source>
-        <translation type="obsolete">&amp;Комментарий</translation>
+        <translation type="obsolete">&amp;Примечание</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
@@ -13532,7 +13532,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation>Следующее &amp;примечание</translation>
+        <translation>Новое &amp;примечание</translation>
     </message>
     <message>
         <source>Li&amp;nks of footnotes and endnotes</source>
