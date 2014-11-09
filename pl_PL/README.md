@@ -1,7 +1,11 @@
 Polskie tłumaczenie dla aplikacji Kingsoft Office
 ================================
 
+<<<<<<< HEAD
 Tłumaczenie tworzone przez: Paweł Smok (Armstrong), Andrzej Kamiński (Crazygod), Marek Pikuła (MarPiRK), Tomasz Szewczyk (tome-)
+=======
+Tłumaczenie tworzone przez: Paweł Smok (Armstrong), Andrzej Kamiński (Crazygod), Marek Pikuła (MarPiRK)
+>>>>>>> ab056b47d914d55b38a8722b4304aece91c59d68
 
 Oprogramowanie
 --------------------------------------------------------------------------------
