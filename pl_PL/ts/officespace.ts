@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Homepage link of WPS Office Cloud</source>
-        <translation type="unfinished"> </translation>
+        <translation type="unfinished">Odnośnik do WPS Office Cloud</translation>
     </message>
     <message>
         <source>Help link of WPS Office Cloud</source>
