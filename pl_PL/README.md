@@ -1,7 +1,7 @@
 Polskie tłumaczenie dla aplikacji Kingsoft Office
 ================================
 
-Tłumaczenie tworzone przez: Paweł Smok (Armstrong), Andrzej Kamiński (Crazygod) oraz Marek Pikuła (MarPiRK)
+Tłumaczenie tworzone przez: Paweł Smok (Armstrong), Andrzej Kamiński (Crazygod), Marek Pikuła (MarPiRK), Tomasz Szewczyk (tome-)
 
 Oprogramowanie
 --------------------------------------------------------------------------------
